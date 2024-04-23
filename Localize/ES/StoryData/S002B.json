@@ -1,0 +1,956 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Oigo el aullido de una bestia en alguna parte."
+    },
+    {
+      "id": 1,
+      "content": "Esta llora sin cesar. ¿Es un llanto de hambre? O..."
+    },
+    {
+      "id": 2,
+      "place": "A bordo de Mefistófeles",
+      "teller": "???",
+      "title": "???",
+      "content": "Están siendo picaditos, ¿Se levantaron?"
+    },
+    {
+      "id": 3,
+      "teller": "???",
+      "title": "???",
+      "content": "Despierto por fin. Me habría decepcionado un poco si nos hubieras engañado."
+    },
+    {
+      "id": 4,
+      "model": "카론",
+      "content": "Fresca mañana. Esta es Charon, la conductora del autobús."
+    },
+    {
+      "id": 5,
+      "model": "눈이붉은자",
+      "teller": "Hombre de Ojos Rojos",
+      "title": "???",
+      "content": "No es de mañana, pero podría suponer que es refrescante. ¿Cómo te sientes, Dante?      "
+    },
+    {
+      "id": 6,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<Bueno, yo...>"
+    },
+    {
+      "id": 7,
+      "model": "눈이붉은자",
+      "teller": "Hombre de Ojos Rojos",
+      "title": "???",
+      "content": "Tic-tac como un reloj... Uhmm, Qué barrera lingüistíca."
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스",
+      "content": "Puedes llamarme Vergilius... Si puedes entender lo que estoy diciendo, dame algún tipo de reacción,Dante"
+    },
+    {
+      "id": 9,
+      "content": "(Asentí rapidamente con la cabeza ya que no parecía hostil.)"
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "Bien. Al menos su audición es funcional. En marcha, Charon."
+    },
+    {
+      "id": 11,
+      "model": "카론",
+      "content": "Ahora partiendo. Vroom-vroom."
+    },
+    {
+      "id": 12,
+      "content": "Hubo un fuerte rugido y vibraciones, como si resonaran desde el fondo de un lodazal profundo."
+    },
+    {
+      "id": 13,
+      "content": "Fue entonces cuando me di cuenta de que estaba a bordo de un autobús"
+    },
+    {
+      "id": 14,
+      "content": "Un autobús... No puedo estar seguro de si alguna vez he montado en un vehículo así en el pasado.      "
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "¿Recuerdas quién eras?      "
+    },
+    {
+      "id": 16,
+      "content": "Negué con la cabeza para decir que no. Me habían recordado que mi cabeza ahora era un mecanismo tintineante."
+    },
+    {
+      "id": 17,
+      "model": "베르길리우스",
+      "content": "Supongo que quieres recuperar tu memoria. ¿Tengo razón?"
+    },
+    {
+      "id": 18,
+      "content": "Asentí. Seguro que me siento como un idiota."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스",
+      "content": "Más sencillo imposible. ¿Qué impide que el resto de ustedes adopte este gesto basado en comunicación? "
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "¿Alguna palabra suya, Srta. Faust?"
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Faust amablemente rechazará la oferta."
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Dudo que tengamos tanta libertad sobre nuestros propios cuerpos la mayor parte del tiempo."
+    },
+    {
+      "id": 23,
+      "content": "Ella es la que me habló en el bosque."
+    },
+    {
+      "id": 24,
+      "content": "Su cabello plateado que brilla incluso sin luz solar emite un aire bastante misterioso."
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Dante."
+    },
+    {
+      "id": 26,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<¿Dante?>"
+    },
+    {
+      "id": 27,
+      "content": "(Ahora que lo pienso, el Hombre de Ojos Rojos también me ha estado llamando así.)"
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "Dante es tu nombre. La amnesia debe estar afectándote muy severamente."
+    },
+    {
+      "id": 29,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<Claro que lo parece... Eso no suena como una palabra familiar.>"
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "Te acostumbrarás con el tiempo."
+    },
+    {
+      "id": 31,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<Espera... ¿Puedes entenderme?>"
+    },
+    {
+      "id": 32,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<El grupo que me atacó antes, y ese Vergie o como se llame, pareció escuchar nada más que tictac de mí.>"
+    },
+    {
+      "id": 33,
+      "model": "파우스트",
+      "content": "Faust puede oír lo que pretendes hablar"
+    },
+    {
+      "id": 34,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<¿De verdad puedes...? ¿Pero cómo? Ni siquiera tengo una boca de verdad.>"
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "Las ideas obsoletas deben ser uno de los efectos secundarios que vienen con el reemplazo de la cabeza."
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "Es anacrónico pensar que los órganos vocales como las cuerdas o la lengua son necesarios para participar en la conversación."
+    },
+    {
+      "id": 37,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<Anacrónico... Cierto. Nunca lo consideré.>"
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "..Puede limitar el destinatario de sus palabras a una sola persona, o elegir hablar con todos a la vez."
+    },
+    {
+      "id": 39,
+      "model": "파우스트",
+      "content": "Ah, una corta aclaración: cuando digo 'todos', solo me refiero a los Pecadores."
+    },
+    {
+      "id": 40,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "yo"   ,
+      "content": "<¿Pecadores?>"
+    },
+    {
+      "id": 41,
+      "model": "파우스트",
+      "content": "Las personas que se han sentado detrás de ti..."
+    },
+    {
+      "id": 42,
+      "model": "파우스트",
+      "content": "Y los que lucharon en tu lugar hasta hace unos momentos."
+    },
+    {
+      "id": 43,
+      "teller": "???",
+      "title": "???",
+      "content": "¡¡Que guau!!! ¡Así que eres la pieza final que completa el elenco de nuestro viaje! !como he anhelado este momento!"
+    },
+    {
+      "id": 44,
+      "teller": "???",
+      "title": "???",
+      "content": "Oye, amigo, ¿dónde vendiste tu viejo cráneo?"
+    },
+    {
+      "id": 45,
+      "teller": "???",
+      "title": "???",
+      "content": "Así que fuiste tú. Gracias por poner mi columna vertebral de nuevo en una sola pieza. ¿Eres cirujano o algo en el nido?"
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "Todos, tranquilos. Nada es más desagradable que escuchar un coro de ruidos."
+    },
+    {
+      "id": 47,
+      "model": "베르길리우스",
+      "content": "Supongo que todos le debéis una breve presentación."
+    },
+    {
+      "id": 48,
+      "model": "베르길리우스",
+      "content": "Les daré tiempo para que se den a conocer, comenzando por el más cercano. Vamos."
+    },
+    {
+      "id": 49,
+      "model": "그레고르",
+      "content": "¿Por qué siempre los que están al frente van primero? Estoy harto de tomar cualquier tipo de liderazgo ahora."
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "content": "Escuché que ibas a ser nuestro jefe, o... sí, nuestro gerente."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<¿Gerente?>"
+    },
+    {
+      "id": 52,
+      "model": "그레고르",
+      "content": "Sí, por eso tenía mucha curiosidad por conocerte, y."
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "Uhrrn... Hmm, tsk. Formar las oraciones correctas es un trabajo duro."
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "content": "No sé qué hiciste con tu vieja cabeza, pero supongo que todos tienen su historia."
+    },
+    {
+      "id": 55,
+      "model": "그레고르",
+      "content": "Soy Gregor Estamos juntos en esto, amigo Gerente."
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57,
+      "model": "로쟈",
+      "content": "¡Greg! No son solo tu 'amigo' o 'compañero'~ ¡Estás hablando con la persona que nos hará inmensamente ricos!      "
+    },
+    {
+      "id": 58,
+      "model": "그레고르",
+      "content": "¿Greg…?"
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<¿Ricos? ¿De qué se trata?>"
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "A ver, qué mejor... ¡Dante! No me molestes si te llamo por tu nombre. Puedes llamarme Rodya~"
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Creo que hay una... bueno, una buena razón por la que te convertiste en nuestro gerente."
+    },
+    {
+      "id": 63,
+      "model": "로쟈",
+      "content": "Estoy segura. Solías ser alguien importante en los Nidos, ¿verdad? Cuando tus viejos hábitos empiezen a volver, estaremos un paso mas cerca de estar nadando en dinero... Fuhu.."
+    },
+    {
+      "id": 64,
+      "content": "(...Ella tiene sociabilidad, le concedo eso.)"
+    },
+    {
+      "id": 65,
+      "model": "로쟈",
+      "content": "Dios mío, que hablo hasta por los codos. ¡Hey chico! ¡El próximo turno te toca a ti!"
+    },
+    {
+      "id": 66,
+      "model": "싱클레어",
+      "content": "Buen día..."
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "content": "Oh, qué aburrido ~ ¿Eso es todo?"
+    },
+    {
+      "id": 68,
+      "model": "싱클레어",
+      "content": "¡Oh! Soy Sinclair..."
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70,
+      "content": "(Este chico parece terriblemente nervioso; ¿De verdad se unió por voluntad propia?)"
+    },
+    {
+      "id": 71,
+      "model": "싱클레어",
+      "content": "...¿Hay algo más que deba decir? Nunca he trabajado para una compañia antes..."
+    },
+    {
+      "id": 72,
+      "model": "로쟈",
+      "content": "Bueno, aprenderás sobre los gajes del oficio en los próximos días."
+    },
+    {
+      "id": 73,
+      "model": "로쟈",
+      "content": "Bien, entonces, ¿qué hay de ti, colega nerd?"
+    },
+    {
+      "id": 74,
+      "model": "이상",
+      "content": "Me llamo Yi Sang"
+    },
+    {
+      "id": 75
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<...¿Eso es todo?"
+    },
+    {
+      "id": 77,
+      "model": "이상",
+      "content": "Mhm. Sin humo ni espejos."
+    },
+    {
+      "id": 78,
+      "content": "Esperé a que revelara que estaba bromeando o algo…"
+    },
+    {
+      "id": 79,
+      "content": "(Pero se limitó a mirar distraídamente por la ventana, desinteresado.)"
+    },
+    {
+      "id": 80,
+      "model": "이스마엘",
+      "content": "Haaa... No puedo creer que esta gente... ¿No son las presentaciones apropiadas el primer paso para ser un miembro de la sociedad?"
+    },
+    {
+      "id": 81,
+      "model": "이스마엘",
+      "content": "Llámame Ishmael, por favor"
+    },
+    {
+      "id": 82
+    },
+    {
+      "id": 83,
+      "model": "이스마엘",
+      "content": "Escuché que pegaste devuelta nuestros cuerpos en pedazos. Espero con interes trabajar con usted."
+    },
+    {
+      "id": 84,
+      "content": "(Ella hizo una cortés reverencia antes de regresar a su asiento)"
+    },
+    {
+      "id": 85,
+      "content": "(Aunque enfatizaba la sociabilidad, no se sentía del tipo más amigable.)"
+    },
+    {
+      "id": 86,
+      "model": "히스클리프",
+      "content": "Siento decepcionarte, porque no me importa demasiado encajar."
+    },
+    {
+      "id": 87,
+      "model": "히스클리프",
+      "content": "me llamo Heathcliff. Solía ser un demoledor profesional, tanto de propiedades como de personas"
+    },
+    {
+      "id": 88
+    },
+    {
+      "id": 89,
+      "model": "히스클리프",
+      "content": "Eso sí, bajo las órdenes de nadie. Solo se lo hice a los cabrones que me ponían de los nervios."
+    },
+    {
+      "id": 90,
+      "model": "히스클리프",
+      "content": "Así que ten cuidado."
+    },
+    {
+      "id": 91,
+      "model": "히스클리프",
+      "content": "Soy mortalmente alérgico a los jefes engreídos que creen que pueden darme órdenes."
+    },
+    {
+      "id": 92,
+      "content": "(No creo que haya hecho nada para dar esa impresión todavía.)"
+    },
+    {
+      "id": 93,
+      "model": "돈키호테",
+      "content": "¡Es mi turno de hablar! soy Don Quixote!"
+    },
+    {
+      "id": 94
+    },
+    {
+      "id": 95,
+      "model": "돈키호테",
+      "content": "Soy un Fixer que correrá por un sueño lado a lado. Un placer tenerte"
+    },
+    {
+      "id": 96,
+      "model": "단테",
+      "content": "<¿Un Fixer...? Eso definitivamente se siente como un término que solía conocer...>"
+    },
+    {
+      "id": 97,
+      "model": "돈키호테",
+      "content": "¿Quieres saber qué es? ¡Puedo responder a tu pregunta! ¡Los Fixers son protectores de la Ciudad!"
+    },
+    {
+      "id": 98,
+      "model": "돈키호테",
+      "content": "¡Quizás te cueste recordar la Ciudad! Es-"
+    },
+    {
+      "id": 99,
+      "model": "베르길리우스",
+      "content": "Creo que dije que esto era para presentaciones breves."
+    },
+    {
+      "id": 100,
+      "model": "돈키호테",
+      "content": "Ngh…"
+    },
+    {
+      "id": 101,
+      "model": "베르길리우스",
+      "content": "No me hagas decirlo dos veces a la próxima."
+    },
+    {
+      "id": 102,
+      "model": "홍루",
+      "content": "Mi nombre es Hong Lu. Espero que podamos llevarnos bien."
+    },
+    {
+      "id": 103
+    },
+    {
+      "id": 104,
+      "model": "홍루",
+      "content": "¡Vaya, mírate! ¿No es esa una cabeza fascinante? Un modelo popular en estos días, ¿supongo?"
+    },
+    {
+      "id": 105,
+      "model": "단테",
+      "content": "<No, esto no es ese tipo de...>"
+    },
+    {
+      "id": 106,
+      "model": "홍루",
+      "content": "Aunque no es de mi interés."
+    },
+    {
+      "id": 107,
+      "model": "히스클리프",
+      "content": "...¿Qué diablos está mal con tu actitud?"
+    },
+    {
+      "id": 108,
+      "content": "(Heathcliff parecía estar a solo un momento de balancear su bate...)      "
+    },
+    {
+      "id": 109,
+      "content": "(Pero cuando se dio cuenta de la mirada roja posada sobre él, gruño y volvió a sentarse.)"
+    },
+    {
+      "id": 110,
+      "model": "료슈",
+      "content": "Es Ryōshū."
+    },
+    {
+      "id": 111
+    },
+    {
+      "id": 112,
+      "model": "료슈",
+      "content": "shūre de conocerte"
+    },
+    {
+      "id": 113,
+      "model": "료슈",
+      "content": "…Pfht."
+    },
+    {
+      "id": 114,
+      "content": "(¿En qué momento se suponía que debía reírme?)"
+    },
+    {
+      "id": 115,
+      "model": "뫼르소",
+      "content": "Meursault. Por favor refiérase a mí como tal"
+    },
+    {
+      "id": 116
+    },
+    {
+      "id": 117,
+      "model": "단테",
+      "content": "<Eres muy educado.>"
+    },
+    {
+      "id": 118,
+      "model": "뫼르소",
+      "content": "Esto no es nada especial. Simplemente me estoy comportando normalmente."
+    },
+    {
+      "id": 119,
+      "model": "단테",
+      "content": "<Estoy casi alagado. gracias.>"
+    },
+    {
+      "id": 120,
+      "model": "뫼르소",
+      "content": "Si."
+    },
+    {
+      "id": 121,
+      "content": "(Se sentía como si algo estuviera gravemente mal con él, pero parece que no puedo precisarlo exactamente.)"
+    },
+    {
+      "id": 122,
+      "model": "오티스",
+      "content": "……"
+    },
+    {
+      "id": 123,
+      "content": "(La forma en que me escaneó de arriba abajo fue un poco desalentadora.)"
+    },
+    {
+      "id": 124,
+      "model": "오티스",
+      "content": "yo..."
+    },
+    {
+      "id": 125,
+      "content": "(Casi me sentí obligado a inclinarme ante ella, pero me detuvo con un movimiento de su mano.)"
+    },
+    {
+      "id": 126,
+      "model": "오티스",
+      "content": "Por favor, nunca haría que mi gerente se denigrara ante mí."
+    },
+    {
+      "id": 127,
+      "model": "오티스",
+      "content": "Mi nombre es Outis. Me gustaría disculparme por mi rudezaen nuestro primer encuentro."
+    },
+    {
+      "id": 128
+    },
+    {
+      "id": 129,
+      "model": "단테",
+      "content": "<¿Rudeza...?>"
+    },
+    {
+      "id": 130,
+      "model": "오티스",
+      "content": "Jaja, oh, por favor. Tu generosidad es un espectáculo humillante."
+    },
+    {
+      "id": 131,
+      "model": "오티스",
+      "content": "Supe a primera vista que tienes lo necesario para liderarnos"
+    },
+    {
+      "id": 132,
+      "model": "단테",
+      "content": "<... ¿Eh? ¿Perdón?>"
+    },
+    {
+      "id": 133,
+      "model": "오티스",
+      "content": "La mayoría de nosotros estamos condenados a enfrentarnos los unos contra los otros, llevando a conflictos y roces...."
+    },
+    {
+      "id": 134,
+      "model": "오티스",
+      "content": " Algunos de ellos mencionan que ir el uno contra el otro puede ser beneficioso para ambas partes."
+    },
+    {
+      "id": 135,
+      "model": "오티스",
+      "content": "Podría compararse con la relación entre una espada y una piedra de afilar"
+    },
+    {
+      "id": 136,
+      "model": "오티스",
+      "content": "Prometo servirle con una devoción sin igual, Gerente Ejecutivo. Mi espada es tuya."
+    },
+    {
+      "id": 137,
+      "model": "단테",
+      "content": "<E-Eso es tranquilizador... Gracias.>"
+    },
+    {
+      "id": 138,
+      "content": "Asentí en aprobación, aunque todavía no entiendo a qué se refería con 'Rudeza'"
+    },
+    {
+      "id": 139,
+      "model": "이스마엘",
+      "content": "Estoy asombrada de cómo puedes recitar un elogio tan descarado no mucho después de llamarlo 'desgraciado que se retuerce miserablemente'"
+    },
+    {
+      "id": 140,
+      "content": "(... Creo que ahora lo veo.)"
+    },
+    {
+      "id": 141,
+      "model": "파우스트",
+      "content": "Parece que soy la última. Faust es mi nombre"
+    },
+    {
+      "id": 142
+    },
+    {
+      "id": 143,
+      "model": "파우스트",
+      "content": "Un genio con el que tienes la suerte de cruzarte aunque sea una vez en la vida."
+    },
+    {
+      "id": 144,
+      "model": "단테",
+      "content": "<Mmh…>"
+    },
+    {
+      "id": 145,
+      "model": "파우스트",
+      "content": "Parece que no estás convencido, Dante."
+    },
+    {
+      "id": 146,
+      "model": "파우스트",
+      "content": "Bueno, está bien. Llegarás a aprender, todo a su debido tiempo"
+    },
+    {
+      "id": 147,
+      "model": "단테",
+      "content": "<¿Aprender qué...?>"
+    },
+    {
+      "id": 148,
+      "model": "파우스트",
+      "content": "Qué Faust es de hecho una mente brillante"
+    },
+    {
+      "id": 149,
+      "model": "파우스트",
+      "content": "Cuando el conocido árbol de aquella pregunta cae, el hecho de su sonido no puede convertirse en verdad cuando el observador externo no logra reconocerlo."
+    },
+    {
+      "id": 150,
+      "model": "단테",
+      "content": "<Okay…>"
+    },
+    {
+      "id": 151,
+      "model": "베르길리우스",
+      "content": "Basta de saludos."
+    },
+    {
+      "id": 152,
+      "model": "베르길리우스",
+      "content": "Dante, déjame explicarte tu nueva ocupación."
+    },
+    {
+      "id": 153,
+      "model": "단테",
+      "content": "<¿Quieres decir... como gerente?>"
+    },
+    {
+      "id": 154,
+      "model": "파우스트",
+      "content": "Él pregunta si el trabajo que está a punto de explicar es el de un gerente."
+    },
+    {
+      "id": 155,
+      "content": "(Ahora que lo pienso, ese Hombre de Ojos Rojos no podía oírme, a diferencia de los Pecadores.)"
+    },
+    {
+      "id": 156,
+      "model": "베르길리우스",
+      "content": "Así es, Gerente Ejecutivo Dante. Te embarcarás en un viaje al Infierno con los Pecadores que acaban de presentarse."
+    },
+    {
+      "id": 157,
+      "model": "단테",
+      "content": "<¿El Infierno...? ¿Por qué debería ir al Infierno?>"
+    },
+    {
+      "id": 158,
+      "model": "파우스트",
+      "content": "Están preguntando por qué necesitan viajar al Infierno."
+    },
+    {
+      "id": 159,
+      "model": "베르길리우스",
+      "content": "Hmm... Qué tal esto: El tesoro espera al final del camino... ¿Eso sería suficiente?"
+    },
+    {
+      "id": 160,
+      "model": "단테",
+      "content": "<Yo no... ¿Quieres decir que solía ser un cazador de tesoros o algo así?>"
+    },
+    {
+      "id": 161,
+      "model": "파우스트",
+      "content": "Parece que no pueden entenderte en absoluto."
+    },
+    {
+      "id": 162,
+      "model": "베르길리우스",
+      "content": "No pedí tu comprensión, Dante. Tampoco era una cuestión de tu voluntad."
+    },
+    {
+      "id": 163,
+      "model": "베르길리우스",
+      "content": "Tendrás que escucharme si quieres recuperar tus recuerdos y tu cabeza original."
+    },
+    {
+      "id": 164,
+      "model": "단테",
+      "content": "<Quiero decir... los quiero de vuelta, pero...>"
+    },
+    {
+      "id": 165,
+      "model": "파우스트",
+      "content": "El vacila."
+    },
+    {
+      "id": 166,
+      "model": "베르길리우스",
+      "content": "Srta. Faust, ¿qué haremos si Dante sigue negándose a cooperar? Este no era un escenario  anticipado."
+    },
+    {
+      "id": 167,
+      "model": "파우스트",
+      "content": "Absurdo. Faust anticipa todas las posibilidades."
+    },
+    {
+      "id": 168,
+      "model": "파우스트",
+      "content": "Dante, una vez que hayas completado todas tus misiones..."
+    },
+    {
+      "id": 169,
+      "model": "파우스트",
+      "content": "Serás capaz de tallar tu Aspecto."
+    },
+    {
+      "id": 170,
+      "model": "파우스트",
+      "content": "Puedo prometerte eso."
+    },
+    {
+      "id": 171,
+      "content": "(Aspecto. Una palabra que golpea mi mente intensamente. A pesar de que mis recuerdos se han ido, mis instintos subyacentes están respondiendo fuertemente a ello.)"
+    },
+    {
+      "id": 172,
+      "content": "(Guiado por la intuición, tome mi decisión...)"
+    },
+    {
+      "id": 173,
+      "model": "파우스트",
+      "content": "¿Mira ahí? Están asintiendo."
+    },
+    {
+      "id": 174,
+      "model": "베르길리우스",
+      "content": "Bien. Entonces podemos continuar."
+    },
+    {
+      "id": 175,
+      "model": "베르길리우스",
+      "content": "Por cierto, ¿por qué no se mueve el autobús? ¿Te estabas quedando dormido?"
+    },
+    {
+      "id": 176,
+      "model": "카론",
+      "content": "Un conductor de autobús solo duerme en los lugares de descanso, Verg"
+    },
+    {
+      "id": 177,
+      "model": "카론",
+      "content": "Los bichos raros rondaban frente a Mephi."
+    },
+    {
+      "id": 178,
+      "model": "베르길리우스",
+      "content": "Te lo dije, Charon. Si pasa algo con el autobús, tienes que avisarme de inmediato."
+    },
+    {
+      "id": 179,
+      "model": "단테",
+      "content": "<¿Mefi? ¿Quién es ese?>"
+    },
+    {
+      "id": 180,
+      "model": "파우스트",
+      "content": "Mefistófeles. El nombre de este autobús y el motor que lo hace funcionar"
+    },
+    {
+      "id": 181,
+      "model": "파우스트",
+      "content": "..Y una gran obra del corazon de Faust"
+    },
+    {
+      "id": 182,
+      "model": "베르길리우스",
+      "content": "Un transbordador ideal para llevarnos a través del Infierno."
+    },
+    {
+      "id": 183,
+      "model": "베르길리우스",
+      "content": "¿No estás de acuerdo, Dante?"
+    },
+    {
+      "id": 184,
+      "content": "(No estaba seguro de a qué se refería, así que me di la vuelta para mirar por la ventana en lugar de darlé una respuesta.)"
+    },
+    {
+      "id": 185,
+      "model": "베르길리우스",
+      "content": "Parece que son solo otra manada de ratas sucias que viven en las callejuelas"
+    },
+    {
+      "id": 186,
+      "model": "베르길리우스",
+      "content": "Este es el momento adecuado, Dante. Deberían ser objetivos perfectos para practicar tu comando."
+    },
+    {
+      "id": 187,
+      "model": "파우스트",
+      "content": "Dante, me salté muchos detalles durante nuestra primera batalla."
+    },
+    {
+      "id": 188,
+      "model": "파우스트",
+      "content": "Teníamos poco tiempo, después de todo"
+    },
+    {
+      "id": 189,
+      "model": "파우스트",
+      "content": "Sin embargo, seremos masacrados con frecuencia si no se realizan mejoras en tu estrategia."
+    },
+    {
+      "id": 190,
+      "model": "파우스트",
+      "content": "Y a su vez, tendrás que soportar un dolor sin sentido una y otra vez para revivirnos."
+    },
+    {
+      "id": 191,
+      "model": "단테",
+      "content": "<Dolor... ¿Revivir? Quieres decir que lo que pasó antes fue...>"
+    },
+    {
+      "id": 192,
+      "model": "파우스트",
+      "content": "sí, nos devolvieron la vida porque 'retrocediste el reloj'."
+    },
+    {
+      "id": 193,
+      "model": "베르길리우스",
+      "content": "No creo que sea necesario mucho, Srta. Faust."
+    },
+    {
+      "id": 194,
+      "model": "베르길리우스",
+      "content": "Guarda la charla para más tarde. Pecadores, fuera del autobús."
+    },
+    {
+      "id": 195,
+      "model": "파우스트",
+      "content": "..Permítame elaborar sobre el combate."
+    }
+  ]
+}
