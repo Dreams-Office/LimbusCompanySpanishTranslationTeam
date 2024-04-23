@@ -1,0 +1,188 @@
+{
+  "dataList": [
+    {
+      "id": "loginui_sign_in_with_google",
+      "content": "Inicia sesión con Google"
+    },
+    {
+      "id": "loginui_sign_in_with_apple",
+      "content": "Inicia sesión con Apple"
+    },
+    {
+      "id": "loginui_sign_in_with_steam",
+      "content": "Inicia sesión con Steam"
+    },
+    {
+      "id": "loginui_sign_in_with_guest",
+      "content": "Inicia sesión como invitado"
+    },
+    {
+      "id": "loginui_sign_out_current_account",
+      "content": "Cerrar sesión"
+    },
+    {
+      "id": "loginui_sign_out_current_account_desc",
+      "content": "¿Cerrar sesión con cuenta actual?\nSi estas jugando como invitado, tus Datos podria perderse."
+    },
+    {
+      "id": "loginui_sign_out_switch_account_desc",
+      "content": "¿Cerrar sesión con cuenta actual\nY cambiar a la seleccionada?\nSi estas jugando como invitado, tus Datos podria perderse."
+    },
+    {
+      "id": "switch_account",
+      "content": "Cambiar cuenta"
+    },
+    {
+      "id": "user_agreements",
+      "content": "Terminos de Servicio"
+    },
+    {
+      "id": "title_game_data_download",
+      "content": "Descargar Datos del juego"
+    },
+    {
+      "id": "content_game_data_download",
+      "content": "Descargando Datos... {0}."
+    },
+    {
+      "id": "content_game_data_download_description",
+      "content": "Se te devolverá a la pantalla inicial si tu dispositivo tiene espacio de almacenamiento insuficiente."
+    },
+    {
+      "id": "content_game_data_download_recommend",
+      "content": "Se recomienda una conexion de internet directa (Wi-Fi) ."
+    },
+    {
+      "id": "switch_allcacheclear",
+      "content": "Borrar Caché"
+    },
+    {
+      "id": "switch_oldcacheclear",
+      "content": "Borrar viejo caché"
+    },
+    {
+      "id": "networkingerror_content",
+      "content": "La red es inestable\nPorfavor revisa tu conexión a internet."
+    },
+    {
+      "id": "networkingerror_close",
+      "content": "Cerrar"
+    },
+    {
+      "id": "networkingerror_retry",
+      "content": "Reintentar"
+    },
+    {
+      "id": "loginui_ok",
+      "content": "Confirmar"
+    },
+    {
+      "id": "login_cancel",
+      "content": "Cancelar"
+    },
+    {
+      "id": "loginui_loading_battlehint",
+      "content": "Consejos de Combate"
+    },
+    {
+      "id": "servererror_content",
+      "content": "Un error ha ocurrido.\nPorfavor intente denuevo más tarde."
+    },
+    {
+      "id": "forcequit_content",
+      "content": "El juego no puede ejecutarse\n Cerrando la aplicación."
+    },
+    {
+      "id": "serverstate_openpreparation",
+      "content": "Las cosas aun estan siendo preparadas!"
+    },
+    {
+      "id": "serverstate_regularcheck",
+      "content": "El servidor actualmente se encuentra bajo mantención rutinaria"
+    },
+    {
+      "id": "serverstate_temporary_check",
+      "content": "El servidor actualmente se encuentra bajo mantención temporal"
+    },
+    {
+      "id": "serverstate_verify_invaliduser",
+      "content": "La cuenta no existe o ha sido cerrada."
+    },
+    {
+      "id": "serverstate_verify_ban",
+      "content": "La cuenta ha sido restringida."
+    },
+    {
+      "id": "serverstate_verify_invalidauth",
+      "content": "Un error ha ocurrido\n Porfavor Inicia sesión de nuevo."
+    },
+    {
+      "id": "guestlogin_failed_try_newguest",
+      "content": "Ingreso de invitado fallido.\nLa cuenta se encuentra ya enlazada, o la cuenta de invitado no existe\n\n¿Te gustaría hacer una nueva cuenta de invitado?"
+    },
+    {
+      "id": "secession_remain_days",
+      "content": "La cuenta se encuentra bajo un periodo de cierre.\nTiempo Restante: {0}D {1}H {2}M\n\nPuedes recuperar la cuenta si Inicias sesión ahora.\n¿Recuperar la cuenta?"
+    },
+    {
+      "id": "secession_canceled",
+      "content": "Cuenta recuperada exitosamente."
+    },
+    {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "El cliente de juego debe ser actualizado."
+    },
+    {
+      "id": "create_guest",
+      "content": "Crear cuenta de invitado"
+    },
+    {
+      "id": "ask_to_remove_all_cache",
+      "content": "¿Borrar Todo el Caché?"
+    },
+    {
+      "id": "networkingerror_update",
+      "content": "Ir a la tienda"
+    },
+    {
+      "id": "speed_hack_warning",
+      "content": "Uso de programa de tercero inautorizado ha sido detectado."
+    },
+    {
+      "id": "serverstate_verify_ban_startdate",
+      "content": "Fecha"
+    },
+    {
+      "id": "serverstate_verify_ban_reason",
+      "content": "Descripcion"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "Abuso de sistema del reembolso de mercado abierto"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "Registro de actividad de juego anormal detectado"
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "Esta función esta bajo mantenimiento."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "Esta solicitud ya ha sido procesada\nPorfavor reiniciar el juego para sincronizar."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Esta historia toma lugar despues de la Historia Principal: Capitulo {0} ¿Quieres ver la historia de todas formas?"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
+    }
+  ]
+}
