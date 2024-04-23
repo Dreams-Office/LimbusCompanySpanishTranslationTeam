@@ -1,0 +1,256 @@
+{
+  "dataList": [
+    {
+      "id": "MAINSTORY",
+      "content": "Historia Principal"
+    },
+    {
+      "id": "PERSONALITYSTORY",
+      "content": "Archivo de Identidad"
+    },
+    {
+      "id": "NOTE_OF_DANTE",
+      "content": "Notas de Dante"
+    },
+    {
+      "id": "EPISODE",
+      "content": "Cp. {0}"
+    },
+    {
+      "id": "PAGE",
+      "content": "Pg. {0}"
+    },
+    {
+      "id": "PROGRESS",
+      "content": "Progreso"
+    },
+    {
+      "id": "Before",
+      "content": "Pre-Combate"
+    },
+    {
+      "id": "After",
+      "content": "Post-Combate"
+    },
+    {
+      "id": "None",
+      "content": ""
+    },
+    {
+      "id": "ENTER",
+      "content": "Entrar"
+    },
+    {
+      "id": "CLOSE",
+      "content": "Cerrar"
+    },
+    {
+      "id": "MIRRORWOLDS",
+      "content": "Mundos Espejo"
+    },
+    {
+      "id": "STORY",
+      "content": "Historia"
+    },
+    {
+      "id": "SECURITY_MATERIAL",
+      "content": "Registros Clasificados"
+    },
+    {
+      "id": "SPEECH",
+      "content": "Dialogos"
+    },
+    {
+      "id": "OPEN_CONDITION",
+      "content": "Desbloquear: "
+    },
+    {
+      "id": "DEEP_ANALYSIS",
+      "content": "Reg. Exhaustivo: "
+    },
+    {
+      "id": "DATA_DOWNLOAD",
+      "content": "Descargar Datos"
+    },
+    {
+      "id": "DATA_DOWNLOAD_DESC",
+      "content": "Interpretar sonidos de diálogos con voz?\nDatos adicionales serán descargados."
+    },
+    {
+      "id": "DATA_DOWNLOAD_NO",
+      "content": "Sin voz\n(0.00 MB)"
+    },
+    {
+      "id": "DATA_DOWNLOAD_YES",
+      "content": "Voz\n({0} MB)"
+    },
+    {
+      "id": "CV_1",
+      "content": "Min Seung-woo"
+    },
+    {
+      "id": "CV_2",
+      "content": "Park Ji-yoon"
+    },
+    {
+      "id": "CV_3",
+      "content": "Kim Yea-lim"
+    },
+    {
+      "id": "CV_4",
+      "content": "Yi Sae-ah"
+    },
+    {
+      "id": "CV_5",
+      "content": "Kwon Sung-hyuk"
+    },
+    {
+      "id": "CV_6",
+      "content": "Kim Sin-woo"
+    },
+    {
+      "id": "CV_7",
+      "content": "Hong Seung-hyo"
+    },
+    {
+      "id": "CV_8",
+      "content": "Jang Ye-na"
+    },
+    {
+      "id": "CV_9",
+      "content": "Yoon A-young"
+    },
+    {
+      "id": "CV_10",
+      "content": "Kim Da-ol"
+    },
+    {
+      "id": "CV_11",
+      "content": "Kim Bo-na"
+    },
+    {
+      "id": "CV_12",
+      "content": "Choi Han"
+    },
+    {
+      "id": "gacksung",
+      "content": "Uptie"
+    },
+    {
+      "id": "EnterStoryPopupDesc",
+      "content": "Vas a entrar a\n{0}?"
+    },
+    {
+      "id": "No",
+      "content": "Cancelar"
+    },
+    {
+      "id": "DetailStoryDungeon",
+      "content": "En la Mazmorra de Historia"
+    },
+    {
+      "id": "NeedsPersonality",
+      "content": "Identidad Requerida"
+    },
+    {
+      "id": "NeedsPersonalityButton",
+      "content": "Ver Requisitos"
+    },
+    {
+      "id": "MainStoryOpenCondition_101",
+      "content": "Completar 1-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_102",
+      "content": "Completar 2-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_103",
+      "content": "Completar 3-1"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition",
+      "content": "Desbloqueado al Aunar Gdo. {0}"
+    },
+    {
+      "id": "OTHERSTORY",
+      "content": "Cuentos de Desvíos"
+    },
+    {
+      "id": "DanteNote_Record",
+      "content": "Registro"
+    },
+    {
+      "id": "DanteNote_Time",
+      "content": "Fecha"
+    },
+    {
+      "id": "DanteNote_Update",
+      "content": "Actual"
+    },
+    {
+      "id": "DanteNote_Main",
+      "content": "No estoy seguro por donde empezar. creo que es natural, con todo lo que olvido. Talvez debería empezar a hacer notas siempre que encuentre algo que no recuerdo."
+    },
+    {
+      "id": "MINI",
+      "content": "Mini"
+    },
+    {
+      "id": "DetailStoryMini",
+      "content": "Mini Historias"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9103",
+      "content": "Completar 3.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9010",
+      "content": "Completar 3.5-9"
+    },
+    {
+      "id": "MainStoryOpenCondition_104",
+      "content": "Completar 4-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9104",
+      "content": "Completar 4.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9011",
+      "content": "Completar 4.5-11"
+    },
+    {
+      "id": "MainStoryOpenCondition_105",
+      "content": "Completar 5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9012",
+      "content": "Completar 5-36"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9105",
+      "content": "Completar 5.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9013",
+      "content": "Completar 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9014",
+      "content": "Completar 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9107",
+      "content": "Completar 5.5-13"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9015",
+      "content": "Completar 5.5-24"
+    },
+    {
+      "id": "MainStoryOpenCondition_106",
+      "content": "Completar 6-1"
+    }
+  ]
+}
