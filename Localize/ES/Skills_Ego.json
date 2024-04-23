@@ -1,0 +1,4294 @@
+{
+  "dataList": [
+    {
+      "id": 2010111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vista de Cuervo",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Poder de Ataque Reducido."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 1 de Rapidez a todos los aliados el próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Vista de Cuervo",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 3 de Rapidez a todos los aliados el próximo turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Vista de Cuervo",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 1 de Rapidez a todos los aliados el próximo turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 6 de Quemado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 6 de Quemado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cúmulo De Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cúmulo De Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Parálisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cúmulo De Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cúmulo De Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Emisor Representativo",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 8 de PC para los 4 aliados con menos PC" 
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Emisor Representativo",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 10 de PC para los 4 aliados con menos PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Emisor Representativo",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 12 de PC para los 4 aliados con menos PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 10 PC para todos los aliados"
+                },
+                {
+                  "desc": "[EndSkill] Cura a todos los aliados un 10% de sus PV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 15 PC para todos los aliados"
+                },
+                {
+                  "desc": "[EndSkill] Cura a todos los aliados un 15% de sus PV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 15 PC para todos los aliados"
+                },
+                {
+                  "desc": "[EndSkill] Cura a todos los aliados un 15% de sus PV"
+                },
+                {
+                  "desc": "[EndSkillHead] Cura 10 PC para todos los aliados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 10 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Poder de Ataque Reducido al siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 20 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 20 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Hiere por 10 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clavo Embrujado",
+          "abName": "Osito Teddy Lastimado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Clavo Embrujado",
+          "abName": "Osito Teddy Lastimado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil Penetrante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Maldición"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Clavo Embrujado",
+          "abName": "Osito Teddy Lastimado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil Penetrante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Maldición"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo esta Maldito, +50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clavo Embrujado",
+          "abName": "Osito Teddy Lastimado",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Clavo Embrujado",
+          "abName": "Osito Teddy Lastimado",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Envy Fragility"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Maldición"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Clavo Embrujado",
+          "abName": "Osito Teddy Lastimado",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Envy Fragility"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Maldición"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo esta Maldito, +50%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de Sangrado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Cura un 50% del total realizado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura un 50% del total realizado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 15 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 25 PC"
+                },
+                {
+                  "desc": "Si el objettivo esta Aturdido, con Baja Moral, o en Pánico, Hiere por un 30% más como bonus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 25 PC"
+                },
+                {
+                  "desc": "Si el objettivo esta Aturdido, con Baja Moral, o en Pánico, Hiere por un 30% más como bonus"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 de Declive"
+                },
+                {
+                  "desc": "Si el objettivo esta Aturdido, con Baja Moral, o en Pánico, Hiere por un 50% más como bonus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "Icthys Sin Cabeza",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Declive"
+                },
+                {
+                  "desc": "Si el objettivo esta Aturdido, con Baja Moral, o en Pánico, Hiere por un 50% más como bonus"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Infinitas Flamas En La Pesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Infinitas Flamas En La Pesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Infinitas Flamas En La Pesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Skill Power +2 aGanast units with de Quemado\n[EnemyKill] Gana 1 de Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Skill Power +2 aGanast units with de Quemado\n[EnemyKill] Gana 2 de Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Poder de Habilidad + 2 contra unidades con Quemado\nRealiza 5% mas por cada 1 de Quemado del objetivo (Máximo 100%)\n[EnemyKill] Gana +2 de Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria\nPoder de Habilidad + 2 contra unidades con Quemado\n[EnemyKill] Gana +2 de Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana 10 de Quemado el Siguiente turno el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria\nPoder de Habilidad + 4 contra unidades con Quemado\n[EnemyKill] Gana +3 de Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 de Poder de Ataque Aumentado y 10 de Quemado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria\nnPoder de Habilidad + 4 contra unidades con Quemado\nRealiza 5% mas por cada 1 de Quemado del objetivo (Máximo 100%)\n[EnemyKill] Gana +3 de Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 de Poder de Ataque Aumentado y 10 de Quemado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chaínes d'autrui",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de Poder de Ataque Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chaínes d'autrui",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 5 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 4 de Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de Protección el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chaínes d'autrui",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de Protección el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impacto Con Tornillo Suelto",
+          "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
+          "desc": "[EndSkill] Gana 3 de Protección",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Impacto Con Tornillo Suelto",
+          "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
+          "desc": "[EndSkill] Gana 3 de Protección\n[EndSkill] Gana 1 de Cirugía el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Parálisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impacto Con Tornillo Suelto",
+          "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
+          "desc": "[EndSkill] Gana 2 de Cirugía el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Impacto Con Tornillo Suelto",
+          "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
+          "desc": "[EndSkill] Gana 2 de Cirugía el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Parálisis"
+                },
+                {
+                  "desc": "Aumenta el Umbral de Aturdimiento de un 30% realizado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "[EndSkill] Cura a los 2 aliados con menos PV por 15% de sus PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "[EndSkill] Cura a los 2 aliados con menos PV por 30% de sus PV; Aplica 2 de Protección el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "[CantIdentify] Elección Aleatoria\n[EndSkill] Aplica 1 de Frágil y 2 de Aumento de Atq. el siguiente turno a los 2 aliados con menos PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "[CantIdentify] Elección Aleatoria\n[EndSkill] Aplica 2 de Frágil y 3 de Aumento de Atq. el siguiente turno a los 2 aliados con menos PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tài Xū Huàn Jìng",
+          "abName": "Hong Lu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tài Xū Huàn Jìng",
+          "abName": "Hong Lu",
+          "desc": "[EndSkill] Cura 15 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tài Xū Huàn Jìng",
+          "abName": "Hong Lu",
+          "desc": "[EndSkill] Cura 15 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                },
+                {
+                  "desc": "[EndSkill] -2 de Eficiencia en PC a todos los aliados; -2 a la cantidad de PC perdida por el uso de E.G.O"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Nivel Defensivo Reducido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Nivel Defensivo Negativo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Nivel Defensivo Negativo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Nivel Defensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 4 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Nivel Defensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Nivel Defensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Saco para Cadaveres",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de Rapidez el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Saco para Cadaveres",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de Rapidez el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Saco para Cadaveres",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de Rapidez el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKill] Gana 2 de Poder de Ataque Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "Gasta +5 de Contador de Carga para ganar +3 de Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana +3 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta +5 de Contador de Carga para ganar +3 de Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana +5 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta +5 de Contador de Carga para ganar +3 de Poder de Habilidad (Máx 12)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana +5 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[CantIdentify] Elección Aleatoria\nGasta toda la Carga para ganar +6 de Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 3 de Fragil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[CantIdentify] Elección Aleatoria\n[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta toda la Carga para ganar +10 de Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 3 de Fragil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[CantIdentify] Elección Aleatoria\n[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta toda la Carga para ganar +15 de Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 3 de Fragil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enganche de Harpón",
+          "abName": "Ishmael",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Snagharpoon",
+          "abName": "Ishmael",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Atadura el siguiente Turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Snagharpoon",
+          "abName": "Ishmael",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Atadura el siguiente Turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Nivel Ofensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 de Nivel Ofensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Nivel Ofensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Nivel Ofensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 de Nivel Ofensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Nivel Ofensivo Negativo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Atadura el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Polilla de Pétalo Ardiente",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige Quemado por la mitad de Reson. de Ira."
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Quemado a 3 Enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Ardor Blossom Moth",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aumenta el Umbral de Aturdimiento por un 40% del total realizado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Quemado segun la Reson. de Ira."
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Quemado a 3 Enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Ardor Blossom Moth",
+          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aumenta el Umbral de Aturdimiento por un 40% del total realizado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Quemado segun la Reson. de Ira."
+                },
+                {
+                  "desc": "[EndSkillHead] Inflige 5 de Quemado a 3 Enemigos Aleatorios"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Ardor Blossom Moth",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Quemado segun la Reson. de Ira. on all units"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Ardor Blossom Moth",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Quemado por el Doble de Reson. de Ira a todos los enemigos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por un 60% del total realizado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Ardor Blossom Moth",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige Quemado por el Doble de Reson. de Ira a todos los enemigos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por un 60% del total realizado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lo Que Fue Arrojado",
+          "abName": "Rodion",
+          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +10% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lo Que Fue Arrojado",
+          "abName": "Rodion",
+          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lo Que Fue Arrojado",
+          "abName": "Rodion",
+          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 de Eficiencia de Curación PC el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana -2 de Eficiencia de Perdida PC el siguiente Turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil en Ira el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cuarta Llama del Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil en Ira el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un 10% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Declive\n[OnSucceedAttack] Inflige 5 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nElije a la unidad con mas PV\nSi los PV del objetivo estan sobre el 50%, Realiza un +10% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +4 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nElije a la unidad con mas PV\nSi los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +6 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nElije a la unidad con mas PV\nSi los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Declive\n[OnSucceedAttack] Inflige +8 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zweig vom Baum der Erkenntnis",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 6 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pierde 10 Pc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Zweig vom Baum der Erkenntnis",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 12 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Pierde 10 de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Sana 10 de Pc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Zweig vom Baum der Erkenntnis",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 12 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Pierde 10 Pc. <style=\"highlight\">Gana 1 de Poder de Ataque Aumentado el siguiente turno</style>"
+                },
+                {},
+                {
+                  "desc": "[OnSucceedAttackTail] Sana 10 PC. <style=\"highlight\">Gana 1 de Protección el siguiente turno</style>"
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "Si los PV estan debajo del 25%, Realiza un 15% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Heal all allies for 10% of their Max HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "Si los PV estan debajo del 25%, Realiza un 20% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus PV máx."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "Si los PV estan debajo del 25%, Realiza un 40% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus PV máx."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi los PV estan debajo del 25%, Realiza un 15% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Gana 10 de Sangrado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi los PV estan debajo del 25%, Realiza un 25% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Gana 10 de Sangrado el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKillFail] Gana 3 de Poder de Ataque Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi los PV estan debajo del 25%, Realiza un 50% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Gana 10 de Sangrado el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKillFail] Gana 3 de Poder de Ataque Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Si los PV estan debajo del 50%, Realiza un 10% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Si los PV estan debajo del 50%, Realiza un 30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Si los PV estan debajo del 50%, Realiza un 30% del total",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Ruptura"
+                },
+                {
+                  "desc": "[EnemyKill] Da 1 de Daño Aumentado a un aliado aleatorio el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tallo De Ebano",
+          "abName": "Manzana del Tallo De Ebano",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tallo De Ebano",
+          "abName": "Manzana del Tallo De Ebano",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Gula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tallo De Ebano",
+          "abName": "Manzana del Tallo De Ebano",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Sangrado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tallo De Ebano",
+          "abName": "Manzana del Tallo De Ebano",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil en Gula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[EndSkill] Sana 12 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Lujuria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[EndSkill] Sana 18 PC\n[EndSkill] Aplica 1 de Poder de Ataque Aumentado a 2 Aliados aleatorios",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Lujuria"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Lujuria"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1 de Frágil"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gana 1 de Frágil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Aplica 1 de Poder de Ataque Aumentado a 2 Aliados aleatorios",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Lujuria"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gana 2 de Frágil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pit'óm Yom 'Ekhád",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pit'óm Yom 'Ekhád",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pit'óm Yom 'Ekhád",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Declive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 Tremor"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Parálisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Gusanos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 Gusanos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por un 40% del total realizado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por un 60% del total realizado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "[CantIdentify] \nElije a la unidad con mas PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por un 20% del total realizado"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "[CantIdentify] \nElije a la unidad con mas PV",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por un 30% del total realizado"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 5 de Ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 de Contador de Carga"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Da Contador de Carga por Reson. de Envidia a todos los aliados."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 de Contador de Carga"
+                },
+                {
+                  "desc": "[EndSkill] Da Contador de Carga por Reson. de Envidia a todos los aliados."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 de Contador de Carga y 10 de Ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 de Contador de Carga y 10 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Da +10 de Contador de Carga, 5 de Frágil y 10 de Ruptura a todos los aliados"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 de Contador de Carga y 10 de Ruptura"
+                },
+                {
+                  "desc": "[EndSkill] Da 5 de Frágil, 10 de Ruptura y +12 de Contador de Carga a todos los aliados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +5 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +7 de Contador de Carga"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Aplica Poder de Envidia Positivo y 1 de Rapidez a 2 Aliados aleatorios el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis"
+                },
+                {
+                  "desc": "[EndSkill] Gana +7 de Contador de Carga"
+                },
+                {
+                  "desc": "[EndSkillHead] Aplica Poder de Envidia Positivo y 1 de Rapidez a 2 Aliados aleatorios el siguiente turno, y esta unidad Gana +3 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +7 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 de Contador de Carga"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de Parálisis y 2 de Atadura a 2 unidades aleatorias el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián Callejero",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis"
+                },
+                {
+                  "desc": "[EndSkill] Gana +10 de Contador de Carga"
+                },
+                {
+                  "desc": "[EndSkillTail] Inflige 2 de Parálisis y 2 de Atadura a 2 unidades aliadas el siguiente turno, Gana +3 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 25%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 25%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 5% por cada recurso gastado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 50%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 10% por cada recurso gastado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +4 de Contador de Quemado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\nSi el objetivo es un aliado no lo lastima.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 5% de su PV máximo"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 7 de Quemado; Si el objetivo es un aliado, Les da 2 de Rapidez el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\nSi el objetivo es un aliado no lo lastima.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 10% de su PV máximo"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 7 de Quemado; Si el objetivo es un aliado, Da 2 de Rapidez y 1 de <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">de amplificación de recursos E.G.O </color></link></u> el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total (Máx 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por la (Ruptura del objetivo x 7.5)% , y reduce el contador de Ruptura por 5 (Max 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total total(Max 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el Contador de Carga fue gastado, Inflige 3 de Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por la (Ruptura del objetivo x 10)%, y reduce el contador de Ruptura por 5 (Max 100%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total total (Max 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el Contador de Carga fue gastado, Inflige 5 de Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por la (Ruptura del objetivo x 10)%, y reduce el contador de Ruptura por 5 (Max 100%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nElije una unidad aleatoria\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total (Max 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por la (Ruptura del objetivo x 7.5)%, y reduce el contador de Ruptura por 5 (Max 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nElije una unidad aleatoria\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total (Max 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el Contador de Carga fue gastado, Inflige 3 de Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por la (Ruptura del objetivo x 10)%, y reduce el contador de Ruptura por 5 (Max 100%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nElección Aleatoria\n\n[BeforeAttack] Gasta Contador de Carga para aumentar el Atq total (Max 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el Contador de Carga fue gastado, Inflige 5 de Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por la (Ruptura del objetivo x 10)%, y reduce el contador de Ruptura por 5 (Max 100%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gana +3 de Contador de Carga; Gana 2 de Rapidez el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil y 2 de Grieta Dimensional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gana +5 de Contador de Carga; Gana 2 de Rapidez el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil y 4 de Grieta Dimensional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Gana 2 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +1 de Frágil y de Grieta Dimensional con esta habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil y 3 de Grieta Dimensional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Gana 3 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +2 de Frágil y de Grieta Dimensional con esta habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil y 4 de Grieta Dimensional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[EndSkill] Gana 1 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Tremor por el Contador de Quemado del enemigo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reduce el contador de Tremor en 3; Si la Estallida de Tremor Aturdimiento al objetivo, Inflige +1 de Contador de Quemado en 5 enemigos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Tremor por el Contador de Quemado del enemigo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado on 5 enemigos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reduce el contador de Tremor en 2; Si la Estallida de Tremor Aturdimiento al objetivo, Inflige +2 de Contador de Quemado en 5 enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Tremor por el Contador de Quemado del enemigo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado on 5 enemigos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reducie el contador de Tremor por 2; if the Tremor Burst Staggered the target, Inflige +3 de Contador de Quemado on 5 enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Gana 1 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Tremor por el Contador de Quemado del enemigo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reduce el contador de Tremor en 3; Si la Estallida de Tremor Aturdimiento al objetivo, Inflige +2 de Contador de Quemado en 5 enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 Poder Contundente Positivo el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Tremor por el Contador de Quemado del enemigo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado en 5 unidades aleatorias"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reduce el contador de Tremor en 2; Si la Estallida de Tremor Aturdimiento al objetivo, Inflige +3 de Contador de Quemado en 5 enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 Poder Contundente Positivo el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 12 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Tremor por el Contador de Quemado del enemigo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado on 5 unidades aleatorias"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reducie el contador de Tremor por 2; if the Tremor Burst Staggered the target, Inflige +4 de Contador de Quemado on 5 unidades aleatorias"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[EndSkill] Aplica 1 de Poder de Ira Positivo a todos los aliados el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 7 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[EndSkill] Aplica 1 de Poder de Ira Positivo a todos los aliados el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 15 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Frágil de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 7 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reducie el contador de Tremor por 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Toro Bronceado",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Frágil de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 15 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, Entonces reducie el contador de Tremor por 2; Si la Estallida de Tremorr Aturdimiento al objetivo, Inflige +2 de Contador de Quemado en 3 unidades aleatorias"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[BeforeAttack] Gana +4 de Contador de Temple",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[BeforeAttack] Gana +6 de Contador de Temple",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Declive"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +2 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[BeforeAttack] Gana +7 de Contador de Temple",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Declive"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +3 al contador de Declive"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\n[BeforeAttack] Gana +5 de Contador de Temple",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\n[BeforeAttack] Gana +7 de Contador de Temple",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Declive"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +2 al contador de Declive y al contador de Ruptura"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[CantIdentify]\nElije la unidad con menos PV\n[BeforeAttack] Gana +7 de Contador de Temple",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Declive"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +3 al contador de Declive y al contador de Ruptura"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[BeforeAttack] Gana +5 de Contador de Carga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Descarga Chispeante"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[BeforeAttack] Gana +7 de Contador de Carga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Descarga Chispeante"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[BeforeAttack] Gana +10 de Contador de Carga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 de Descarga Chispeante"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[CantIdentify]\nPrioriza a las unidades con Carga\n[BeforeAttack] Gana +5 de Contador de Carga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de Descarga Chispeante y +5 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[CantIdentify]\nPrioriza a las unidades con Carga\n[BeforeAttack] Gana +7 de Contador de Carga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de Descarga Chispeante y +5 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[CantIdentify]\nPrioriza a las unidades con Carga\n[BeforeAttack] Gana +10 de Contador de Carga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 de Descarga Chispeante y +7 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 5)\nGana 2 de Rapidez el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 7)\nGana 2 de Rapidez el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis y 1 de Frágil de Tristeza"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 5)\nGana 2 de Rapidez el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta todo el Contador de Carga para obtener un bono de Atq en Tristeza (de Contador de Carga * 1.5)% del total realizado (Max 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Despues de atacar, pierde 10% de sus PV para Ganar +7 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 7)\nGana 2 de Rapidez el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta todo el Contador de Carga para obtener un bono de Atq en Tristeza (de Contador de Carga * 2.5)% del total realizado (Max 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Despues de atacar, pierde 10% de sus PV para Ganar +10 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "DDEA",
+          "abName": "Cienpiés de Choque",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 7)\nGana 2 de Rapidez el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta todo el Contador de Carga para obtener un bono de Atq en Tristeza (de Contador de Carga * 2.5)% del total realizado (Max 50%)"
+                },
+                {
+                  "desc": "[EndSkill] Gasta todo el Contador de Carga"
+                },
+                {
+                  "desc": "[EndSkillTail] Pierde un 10% de sus PV para Ganar +10 de Contador de Carga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[BeforeAttack] Da 1 de Poder de Pereza Positivo, 1 De Ataque de Pereza Positivo, y 2 de Protección a todos los aliados Este turno y el siguiente",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[BeforeAttack] Da 1 de Poder de Pereza Positivo, 2 De Ataque de Pereza Positivo, y 3 de Protección a todos los aliados Este turno y el siguiente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Cura 15 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana 1 de Poder de Pereza Positivo y 1 De Ataque de Pereza Positivo este turno y los siguientes 2 turnos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza y 1 de Frágil Penetrante Este turno y el siguiente"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol Lluvia",
+          "abName": "Zorro Despropositado",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana 2 de Poder de Pereza Positivo y 2 De Ataque de Pereza Positivo este turno y los siguientes 2 turnos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Pereza y 2 de Frágil Penetrante Este turno y el siguiente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Inflige 1 de Caida de Moneda el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Inflige 1 de Caida de Moneda el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Rapidez del objetivo es menor a la del usuario, Inflige 2 de Frágil Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Inflige 1 de Caida de Moneda el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Rapidez del objetivo es menor a la del usuario, Inflige 2 de Frágil Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Inflige 2 de Caida de Moneda el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Inflige 2 de Caida de Moneda el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor a la del usuario, Inflige 1-3 de Frágil Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder de Moneda +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +20% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder de Moneda +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza 20% del Atq total"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder de Moneda +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +40% del Atq total"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder Final +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +30% del Atq total"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder Final +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +30% del Ataque Total"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder Final +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +50% del Atq total"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Poder de Ataque Reducido al siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Sana 12 PC a otros 4 aliados con los PC mas bajos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Sana 17 PC a otros 4 aliados con los PC mas bajos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Sana 25 PC a otros 4 aliados con los PC mas bajos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[CantIdentify]\nElección Aleatoria",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 De Nivel Defensivo Negativo a 1 aliado aleatorio"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 De Nivel Defensivo Positivo el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de Ataque Positivo el siguiente turno."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 De Nivel Defensivo Negativo a 1 aliado aleatorio"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 De Nivel Defensivo Positivo el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de Ataque Positivo el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Sana 4 PC asi mismo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Figura Vacía",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 De Nivel Defensivo Negativo a 1 aliado aleatorio"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 De Nivel Defensivo Aumentado el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de Ataque Aumentado el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Cura 4 PC a sí mismo"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1 de Frágil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

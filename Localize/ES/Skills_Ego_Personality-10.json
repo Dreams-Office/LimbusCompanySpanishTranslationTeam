@@ -1,0 +1,255 @@
+{
+  "dataList": [
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "[CantIdentify] \nTarget the unit with the most HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal self by 30% of damage dealt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +3 de Contador de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Defense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Linterna",
+          "abName": "Hadalinterna",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Defense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 1 Attack Power Down and 1 Poder Defensivo Reducido next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[CantIdentify]\nTargets randomly",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 1 Lust Fragility next turn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 2 Lust Fragility next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

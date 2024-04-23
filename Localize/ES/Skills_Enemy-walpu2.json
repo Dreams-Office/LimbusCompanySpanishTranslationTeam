@@ -1,0 +1,440 @@
+{
+    "dataList": [
+        {
+            "id": 814701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 Bleed. If target has Bleed, Inflige +1 de Contardor de Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pin Down",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2De Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritizes enemies withDe Sangrado",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defend",
+                    "desc": "If this unit has Shield HP, Inflige 2 Bleed next turn On Hit",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 Bleed. If target has Bleed, inflict +2 de Contardor de Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pin Down",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5De Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Target loses (Bleed on target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Target loses (Bleed on target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 Bleed. If target has Bleed, inflict +2 de Contardor de Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pin Down",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5De Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] If the target has 10+ Bleed, Reuse this Coin once"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 Bleed. If target has Bleed, inflict +2 de Contardor de Sangrado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3De Sangrado"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contardor de Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pin Down",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5De Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5De Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 15 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] If the target has 7+ Bleed, Reuse this Coin once"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

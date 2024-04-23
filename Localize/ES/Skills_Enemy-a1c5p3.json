@@ -1,0 +1,302 @@
+{
+    "dataList": [
+        {
+            "id": 9009801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 4De Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear Up Wound",
+                    "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2De Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2De Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2De Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse] Gana 5 de Temple",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Javelin",
+                    "desc": "[WhenUse] Gana 5 de Temple y +2 de Contador de Temple",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 Bind and 2 Damage Down next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "When attacked while this unit has Shield, gana 1 Offense Level Up next turn",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Carve Wound",
+                    "desc": "[WinDuel] Heal 5 SP.\nDeal +5% damage per [Laceration] on target",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse] Gana 5 de Temple",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Heal 4 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Javelin",
+                    "desc": "[WhenUse] Gana 5 de Temple y +2 de Contador de Temple",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 Bind and 2 Fragile next turn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evade",
+                    "desc": "[OnSucceedEvade] Gana 1 Offense Level Up next turn (Max 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
