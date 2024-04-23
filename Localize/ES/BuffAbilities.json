@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "AtkDamageMultiplier",
+      "desc": "Daño realizado {0}%",
+      "variation": "{1}% a {0} de daño realizado"
+    },
+    {
+      "id": "AtkAndTakeAtkDamageMultiplier",
+      "desc": "{0}% de daño realizado y recibido",
+      "variation": "{1}% al daño realizado y recibido con la Afinidad {0}"
+    },
+    {
+      "id": "GiveBuffOnSucceedAttack",
+      "desc": "Aplica {1} {0} al golpear"
+    },
+    {
+      "id": "MaxHpMultiplierRail",
+      "desc": "PV Máx. {0}%"
+    },
+    {
+      "id": "SlotWeightAdder",
+      "desc": "Alcance de Ranura {0}"
+    },
+    {
+      "id": "AtkAdder",
+      "desc": "Nivel Ofensivo {0}"
+    },
+    {
+      "id": "DefAdder",
+      "desc": "Nivel Defensivo {0}"
+    },
+    {
+      "id": "AtkAdderIfNotDamagedPrevTurn",
+      "desc": "Si el usuario no recibe daño de PV por un turno, Nivel Ofensivo {0}\n(Daño de escudo ≠ Daño de PV)"
+    },
+    {
+      "id": "MaxSpeedAdderAsStack",
+      "desc": "Velocidad Max. {0}"
+    },
+    {
+      "id": "MaxSpeedAdder",
+      "desc": "Velocidad Max. {0}"
+    },
+    {
+      "id": "MinSpeedAdder",
+      "desc": "Velocidad Min. {0}"
+    },
+    {
+      "id": "TakeHpHealMultiplier",
+      "desc": "PV curado por Efectos de Habilidad {0}%"
+    },
+    {
+      "id": "RecoverSelfHpOnSucceedAttackByDmg",
+      "desc": "Cura {0}% de Daño Realizado"
+    },
+    {
+      "id": "RailEnemyBuffF",
+      "desc": "{0} a la cantidad de Recursos E.G.O consumidos por Pecadores al usar Habilidades E.G.O"
+    },
+    {
+      "id": "MaxHpMultiplier",
+      "desc": "PV Máx. {0}%"
+    },
+    {
+      "id": "AtkAndDefAdder",
+      "desc": "Nivel Ofensivo {0}, Nivel Defensivo {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAlly",
+      "desc": "Al inicio del turno, aplica {1} {0} y +{2} {0} de Contador a todos los aliados",
+      "variation": "Al inicio del turno, aplica {1} {0} a todos los aliados.",
+      "variation2": "Al inicio del turno, aplica +{1} {0} de Contador a todos los aliados"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllAllyExtra",
+      "desc": "Al inicio del turno, aplica {1} {0} a todos los aliados y aplica +{2} más {0} de Contador a todos los aliados con {0}"
+    },
+    {
+      "id": "GiveBuffOnRoundStartToAllEnemyExtra",
+      "desc": "Al inicio del turno, aplica {1} {0} a todos los enemigos y aplica +{2} más {0} de Contador a todos los enemigos con {0}"
+    }
+  ]
+}
