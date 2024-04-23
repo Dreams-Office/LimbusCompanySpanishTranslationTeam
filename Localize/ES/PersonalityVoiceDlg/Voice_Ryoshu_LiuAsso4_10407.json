@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10407_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Hmph. Did you wish to witness the art performed in a training room?"
+        },
+        {
+            "id": "lobby_morning_10407_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "It's getting loud outside... They must be making a ruckus preparing breakfast again.\nHmph, no delicious meal can possibly be better than a good training session."
+        },
+        {
+            "id": "lobby_noon_10407_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "It's already midday...? I.D.C. Don't call me unless it's for work. I don't intend to leave this room unless it's for a job."
+        },
+        {
+            "id": "lobby_night_10407_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "There are no particular conditions for sleeping and waking. Humans sleep when tired and wake up when no longer tired. It doesn't matter where one goes to sleep.\nBesides, sleeping against this training dummy is more comfortable than you'd expect. Heh."
+        },
+        {
+            "id": "smalltalk_10407_1",
+            "desc": "Charla #1",
+            "dlg": "Warmth. Kinship. They're the 'core values' of Liu... Hah. Sure, of course.\nBut the only core value of Liu that I've come to know is that it scorches and burns. That's all there is to it."
+        },
+        {
+            "id": "smalltalk_10407_2",
+            "desc": "Charla #2",
+            "dlg": "The flame is powerful, impressive... but it also carries frailty and fragility.\nThe only way to keep the fire burning is to feed it firewood ceaselessly. And that 'firewood' is endless training."
+        },
+        {
+            "id": "smalltalk_10407_3",
+            "desc": "Charla #3",
+            "dlg": "Burn marks are like enhancement tattoos; it hurts like hell when drawing them, and they paint parts of your skin in different colors.\n... And the more of your skin is covered with them... the stronger you get."
+        },
+        {
+            "id": "smalltalk_10407_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "Hah! I can't believe they're more fragile even than a training dummy. It almost feels wasteful to spark my flames against them.\n... Hm, though I suppose it can be quite entertaining to watch their distorting shapes as the fire burns them alive."
+        },
+        {
+            "id": "smalltalk_10407_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "C.S... then P.S. This flesh-burning, penetrating strike is the perfect finisher to this series of breakneck-speed consecutive strikes.\nConsider it a glass of wine to a plate of perfectly grilled steak."
+        },
+        {
+            "id": "neglect_10407_1",
+            "desc": "Idle",
+            "dlg": "Hm. What, need some fire?"
+        },
+        {
+            "id": "gacksung_10407_1",
+            "desc": "Aunando",
+            "dlg": "Section Director... Thought she was a useless loudmouth, but she taught me this particularly useful skill. Heh, I could use this as a finisher."
+        },
+        {
+            "id": "formation_10407_1",
+            "desc": "Desplegar",
+            "dlg": "Is this a job? Then I'll be there."
+        },
+        {
+            "id": "battleentry_10407_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Moving dummies... this could be interesting."
+        },
+        {
+            "id": "battle_select_10407_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Scram. I'm trying to focus."
+        },
+        {
+            "id": "battle_endcommand_10407_1",
+            "desc": "Al Atacar",
+            "dlg": "First Form!"
+        },
+        {
+            "id": "battle_enemy_break_10407_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Get up. A wooden dummy stands taller than you do."
+        },
+        {
+            "id": "battle_break_10407_1",
+            "desc": "Aturdido",
+            "dlg": "Tsk...!"
+        },
+        {
+            "id": "battle_kill_10407_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Tsk, already broken. How useless."
+        },
+        {
+            "id": "battle_dead_10407_1",
+            "desc": "Muerte",
+            "dlg": "Haah... These... moving dummies must've been... insufficient training material."
+        },
+        {
+            "id": "choice_success_p_10407_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "What a waste of time."
+        },
+        {
+            "id": "choice_fail_n_10407_1",
+            "desc": "Juicio Fallido",
+            "dlg": "That is what you get for wasting my time."
+        },
+        {
+            "id": "battle_clear_10407_1",
+            "desc": "Grito de Victoria",
+            "dlg": "It is done. Well, I see that facing moving targets can sometimes be entertaining. It's just disappointing that I saw this outcome from a mile away."
+        },
+        {
+            "id": "battle_clear_ex_10407_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "They couldn't even measure up to training dummies... This victory was so overwhelming that it was practically dull. I'm going back to training."
+        },
+        {
+            "id": "battle_defeat_10407_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "We... lost...? N.W. No way we lost to these fleshy dummies. My training routine cannot possibly be wrong...!"
+        }
+    ]
+}

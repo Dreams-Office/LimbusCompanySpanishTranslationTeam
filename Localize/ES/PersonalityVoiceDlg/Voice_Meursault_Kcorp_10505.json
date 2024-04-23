@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10505_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Hm… You can place new assignments on the left— Ah, you called for me."
+        },
+        {
+            "id": "lobby_morning_10505_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "…Is it… morning? C’est étrange. I do not remember clocking out."
+        },
+        {
+            "id": "lobby_noon_10505_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Allow me… to nap for a moment. You can… have your lunch first…"
+        },
+        {
+            "id": "lobby_night_10505_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "My evenings are mostly occupied with outdoor assignments. Ah, I had my rest earlier today, so it’s fine."
+        },
+        {
+            "id": "smalltalk_10505_1",
+            "desc": "Charla #1",
+            "dlg": "I have taken care of the task you told me. I currently have assignments from four people, so if you have another request to make… It will have to wait until I’m done with these."
+        },
+        {
+            "id": "smalltalk_10505_2",
+            "desc": "Charla #2",
+            "dlg": "It has… been quite some time since I clocked out last. However, I cannot leave while the work I’ve been entrusted with isn’t done."
+        },
+        {
+            "id": "smalltalk_10505_3",
+            "desc": "Charla #3",
+            "dlg": "You’re… curious about this drink, I see. No, it’s not my preference. It simply is the only method I have to relieve exhaustion quickly."
+        },
+        {
+            "id": "smalltalk_10505_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "You’ll… do some of my work for me?\nI do not understand. These assignments are my responsibility. There is no need to share my burden."
+        },
+        {
+            "id": "smalltalk_10505_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "The workload wasn’t always this heavy. When others left their work to me, I simply proved capable of handling it."
+        },
+        {
+            "id": "neglect_10505_1",
+            "desc": "Inactivo",
+            "dlg": "……\n(He’s snoring softly)"
+        },
+        {
+            "id": "gacksung_10505_1",
+            "desc": "Aunando",
+            "dlg": "Hm. You’re giving me a raise. Entendu. Pardon me then, as I have tasks to take care of…"
+        },
+        {
+            "id": "formation_10505_1",
+            "desc": "Desplegar",
+            "dlg": "I see you need me."
+        },
+        {
+            "id": "battleentry_10505_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Engaging in external assignment."
+        },
+        {
+            "id": "battle_select_10505_1",
+            "desc": "Vista en Batalla",
+            "dlg": "I presume you have a request."
+        },
+        {
+            "id": "battle_endcommand_10505_1",
+            "desc": "Al Atacar",
+            "dlg": "Entendu, will do."
+        },
+        {
+            "id": "battle_enemy_break_10505_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "The assignment is steadily approaching completion."
+        },
+        {
+            "id": "battle_break_10505_1",
+            "desc": "Aturdido",
+            "dlg": "Gasp."
+        },
+        {
+            "id": "battle_kill_10505_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "One has been taken care of."
+        },
+        {
+            "id": "battle_dead_10505_1",
+            "desc": "Muerte",
+            "dlg": "Ah… Allow me… to rest for a moment…"
+        },
+        {
+            "id": "choice_success_p_10505_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "It appears I… will be able to leave work on time."
+        },
+        {
+            "id": "choice_fail_n_10505_1",
+            "desc": "Juicio Fallido",
+            "dlg": "That has confirmed that I… will have overtime."
+        },
+        {
+            "id": "battle_clear_10505_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Assignment complete. I’ll be returning to the office."
+        },
+        {
+            "id": "battle_clear_ex_10505_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Assignment complete. …You mean that I can go home today. Entendu. Ouf…"
+        },
+        {
+            "id": "battle_defeat_10505_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "Things… have gotten complicated."
+        }
+    ]
+}

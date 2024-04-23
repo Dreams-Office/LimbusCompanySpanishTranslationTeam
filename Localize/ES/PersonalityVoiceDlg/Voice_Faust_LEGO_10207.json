@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10207_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Empezando trabajo en la Anormalidad Contenida T-01-54."
+        },
+        {
+            "id": "lobby_morning_10207_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Buenos días, Gerente. Por favor, comparte conmigo la lista descendente de Trabajo para las Anormalidades de hoy, y lo transmitiré al equipo."
+        },
+        {
+            "id": "lobby_noon_10207_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Me parece que los Empleados están teniendo un lindo almuerzo juntos. Los Agentes del Equipo de Control no tenemos preferencia por comer en grupos... Pero debo preguntarme si eso es lo que la Srta. Malkuth quiere que hagamos."
+        },
+        {
+            "id": "lobby_night_10207_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Progreso del Trabajo en 95%. No deberíamos tener problema en llegar al objetivo de Cajas-PE hoy. Buen trabajo."
+        },
+        {
+            "id": "smalltalk_10207_1",
+            "desc": "Charla #1",
+            "dlg": "¿El 'Asesino Abandonado'? Hm. Supongo que destaca en que no tiene una preferencia por algún tipo de Trabajo en particular. Sin embargo, parecía que evitar el Trabajo de Represión es aconsejable."
+        },
+        {
+            "id": "smalltalk_10207_2",
+            "desc": "Charla #2",
+            "dlg": "Preveo poco problema adelante, siempre y cuando el empleado asignado tenga comprensión decente de este Trabajo. Un mal resultado, sin embargo, podría llevar a la Anormalidad a romper contención."
+        },
+        {
+            "id": "smalltalk_10207_3",
+            "desc": "Charla #3",
+            "dlg": "Los trajes E.G.O asignados a nosotros se ven adecuados. Sin embargo, he estado escuchando reportes de empleados con fortaleza mental más débil que se siente como si la camisa de fuerza se contrajera alrededor de ellos. Estos trajes son débiles a daño BLANCO, después de todo..."
+        },
+        {
+            "id": "smalltalk_10207_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "Este Regalo E.G.O no es tan incómodo como esperaba. Aunque fue equipado sin mi conocimiento."
+        },
+        {
+            "id": "smalltalk_10207_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "Tengo curiosidad: ¿Cómo se siente cuando su cabeza lentamente se transforma en metal? ¿Puede sentirlo? ¿Su cabeza suena cuando este martillo aplasta a nuestros enemigos?"
+        },
+        {
+            "id": "neglect_10207_1",
+            "desc": "Inactivo",
+            "dlg": "... Más ruidos de golpes, otra vez..."
+        },
+        {
+            "id": "gacksung_10207_1",
+            "desc": "Aunando",
+            "dlg": "Capitana del Equipo de Control, Agente Faust. Comenzando supresión de la Ordalía del Amanecer del Verde según órdenes del Gerente."
+        },
+        {
+            "id": "formation_10207_1",
+            "desc": "Desplegar",
+            "dlg": "Estoy lista.."
+        },
+        {
+            "id": "battleentry_10207_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Preparándose para suprimir."
+        },
+        {
+            "id": "battle_select_10207_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¿Necesita algún otro Trabajo por hacer?"
+        },
+        {
+            "id": "battle_endcommand_10207_1",
+            "desc": "Al Atacar",
+            "dlg": "Brecha de Contención confirmada."
+        },
+        {
+            "id": "battle_enemy_break_10207_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "La entidad se está debilitando."
+        },
+        {
+            "id": "battle_break_10207_1",
+            "desc": "Aturdido",
+            "dlg": "Uh..."
+        },
+        {
+            "id": "battle_kill_10207_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Entidad escapada neutralizada."
+        },
+        {
+            "id": "battle_dead_10207_1",
+            "desc": "Muerte",
+            "dlg": "Trabajo de Supresión fallido..."
+        },
+        {
+            "id": "choice_success_p_10207_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Fue un trabajo extra adecuado."
+        },
+        {
+            "id": "choice_fail_n_10207_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Este Trabajo no se alinea con mis fortalezas... Haré una nota de ello en los registros."
+        },
+        {
+            "id": "battle_clear_10207_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Podemos terminar el Trabajo de Supresión aquí. Regresando a gerencia."
+        },
+        {
+            "id": "battle_clear_ex_10207_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Amenaza Suprimida. Recomiendo que te familiarices con estas alarmas. Faust sabe que nos quedan muchos días antes del día 50."
+        },
+        {
+            "id": "battle_defeat_10207_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "Trabajo de Supresión del Equipo de Control fallido. Solicitando asistencia de los demás departamentos..."
+        }
+    ]
+}

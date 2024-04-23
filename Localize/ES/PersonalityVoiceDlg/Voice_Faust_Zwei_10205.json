@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10205_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Solicitud recibida. Esta es Faust. Avanzando a la ubicación del objetivo de protección."
+        },
+        {
+            "id": "lobby_morning_10205_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Una mañana segura. Como siempre, estamos comprometidos a garantizar la seguridad de las instalaciones locales. Tenga buen día."
+        },
+        {
+            "id": "lobby_noon_10205_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Reportándome para informarte que no se han detectado problemas durante la patrulla del mediodía. Ah... No hay necesidad de preocuparse si hemos comido. Mientras Faust come, su compañero se encarga de patrullar.\nOh, tampoco hay necesidad de preocuparse por aquel compañero; Faust trabaja con un individuo excepcional de la Sección 4. Sin embargo, Faust sigue siendo superior."
+        },
+        {
+            "id": "lobby_night_10205_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Durante la noche... Por favor, permanezca cerca de Faust. El campo de visión reducido puede demorar las maniobras de protección."
+        },
+        {
+            "id": "smalltalk_10205_1",
+            "desc": "Charla #1",
+            "dlg": "La protección territorial requiere mano de obra significante así como capacidad individual, ya que el personal debe ser desplegado sobre toda el área de contrato. Mientras que el servicio es costoso... la seguridad adicional bien vale el precio."
+        },
+        {
+            "id": "smalltalk_10205_2",
+            "desc": "Charla #2",
+            "dlg": "Intentamos vestirnos con ropa civil para los contratos de protección territorial. Es mejor esconderse en plena vista para reconocer a todos aquellos que buscan lastimar a nuestros clientes. "
+        },
+        {
+            "id": "smalltalk_10205_3",
+            "desc": "Charla #3",
+            "dlg": "No todos los agentes de Zwei aceptan contratos de protección territorial. Por supuesto, los contratos de protección territorial tampoco son la única dedicación de la Sección 4."
+        },
+        {
+            "id": "smalltalk_10205_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "Normalmente, estos contratos son firmados cuando el cliente solicita varios objetivos de protección.\nPor lo tanto... a menudo terminamos defendiendo nuestros clientes contra múltiples amenazas. Y Faust también."
+        },
+        {
+            "id": "smalltalk_10205_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "¿Que si mi trabajo es agotador? Tales detalles no son parte de mi consideración. Faust sólo considera la seguridad de sus objetivos de protección."
+        },
+        {
+            "id": "neglect_10205_1",
+            "desc": "Inactivo",
+            "dlg": "Si no hay nada más, me gustaría irme para mi siguiente patrulla programada."
+        },
+        {
+            "id": "gacksung_10205_1",
+            "desc": "Aunando",
+            "dlg": "Sin duda. Es natural que las más grandes responsabilidades sean asignadas a mejores agentes. Espero con ansias trabajar contigo."
+        },
+        {
+            "id": "formation_10205_1",
+            "desc": "Desplegar",
+            "dlg": "En espera."
+        },
+        {
+            "id": "battleentry_10205_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Solicitud de protección recibida.."
+        },
+        {
+            "id": "battle_select_10205_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¿Otros territorios requieren mi atención?"
+        },
+        {
+            "id": "battle_endcommand_10205_1",
+            "desc": "Al Atacar",
+            "dlg": "Para proteger."
+        },
+        {
+            "id": "battle_enemy_break_10205_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Has sido inmobilizado."
+        },
+        {
+            "id": "battle_break_10205_1",
+            "desc": "Aturdido",
+            "dlg": "Ngh..."
+        },
+        {
+            "id": "battle_kill_10205_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Agresores eliminados."
+        },
+        {
+            "id": "battle_dead_10205_1",
+            "desc": "Muerte",
+            "dlg": "No se... preocupe. Mis colegas... me protegerán..."
+        },
+        {
+            "id": "choice_success_p_10205_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Un problema elemental."
+        },
+        {
+            "id": "choice_fail_n_10205_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Esto no alineó con las fortalezas de Faust."
+        },
+        {
+            "id": "battle_clear_10205_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Solicitud de protección cumplida. Volviendo a patrullar."
+        },
+        {
+            "id": "battle_clear_ex_10205_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Nos hemos encargado de todos los problemas potenciales en este territorio. Terminemos la patrulla del día aquí."
+        },
+        {
+            "id": "battle_defeat_10205_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "Está... bien. Hay otros escudos en Zwei. Por favor, reconsidera tu decisión de terminar nuestro contrato..."
+        }
+    ]
+}
