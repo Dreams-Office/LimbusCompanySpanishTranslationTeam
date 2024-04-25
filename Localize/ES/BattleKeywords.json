@@ -110,7 +110,7 @@
     },
     {
       "id": "AttackDmgUp",
-      "name": "Damage Up",
+      "name": "Daño Aumentado",
       "desc": "Deal more damage with skills based on the effect’s Count for one turn. (Max 10)",
       "summary": "+{0}0% Damage Dealt"
     },
@@ -122,7 +122,7 @@
     },
     {
       "id": "PlusCoinValueUp",
-      "name": "Plus Coin Boost",
+      "name": "Mejora de Moneda Positiva",
       "desc": "Raise the Power of Plus Coins by the effect’s Count."
     },
     {
@@ -148,7 +148,7 @@
     },
     {
       "id": "AttackDmgDown",
-      "name": "Damage Down",
+      "name": "Daño Reducido",
       "desc": "Deal less damage with skills based on the effect’s Count for one turn. (Max 10)",
       "summary": "-{0}0% Damage Dealt"
     },
@@ -690,12 +690,12 @@
     },
     {
       "id": "NailPersonality",
-      "name": "Nails",
+      "name": "Clavos",
       "desc": "Unique Bleed\nTurn Start: Gana 1 De Sangrado y increase the Bleed Count by this effect’s Count.\nTurn End: Halve the Count. (Rounded down)"
     },
     {
       "id": "AssemblePersonality",
-      "name": "Fanatic",
+      "name": "Fánatico",
       "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
     },
     {
@@ -705,7 +705,7 @@
     },
     {
       "id": "HitResultUp",
-      "name": "Blunt Power Up",
+      "name": "Daño Contundente Aumentado",
       "desc": "Blunt skills gain final Power by the effect’s Count for one turn."
     },
     {
@@ -742,11 +742,11 @@
     {
       "id": "Cromer_Madness",
       "name": "Purity",
-      "desc": "All parts gana 3 Bind and 3 Damage Up, and their phys. resistances change to ‘Fatal’."
+      "desc": "All parts gana 3 Bind and 3 Daño Aumentado, and their phys. resistances change to ‘Fatal’."
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "HP Healing Down",
+      "name": "Curación de PV Reducida",
       "desc": "HP healed by Passives, Skill effects, or Coin effects decreases proportionally to the value of this effect. (Max 5)"
     },
     {
@@ -771,7 +771,7 @@
     },
     {
       "id": "DimensionRift",
-      "name": "Dimensional Rift",
+      "name": "Grieta Dimensional",
       "desc": "At the end of the turn, gain Rupture Count by this effect’s amount. Then, remove this effect."
     },
     {
@@ -807,8 +807,8 @@
     {
       "id": "Exalted",
       "name": "Morale Boost",
-      "desc": "Gain Damage Up by the the effect's Count every turn (Max 5)\nCannot gain the status while Tipsy",
-      "summary": "Gain Damage Up by the effect's Count every turn; Cannot gain the status while Tipsy"
+      "desc": "Gain Daño Aumentado by the the effect's Count every turn (Max 5)\nCannot gain the status while Tipsy",
+      "summary": "Gain Daño Aumentado by the effect's Count every turn; Cannot gain the status while Tipsy"
     },
     {
       "id": "Tipsiness",
@@ -855,8 +855,8 @@
     {
       "id": "TimeRental",
       "name": "Borrowed Time",
-      "desc": "At the end of the turn, gana 3 Haste and 2 Damage Up; If only 1 Count remains, gana 4 Bind and 1 Attack Power Down next turn",
-      "summary": "At the end of the turn, gana 3 Haste and 2 Damage Up; If only 1 Count remains, gana 4 Bind and 1 Attack Power Down next turn"
+      "desc": "At the end of the turn, gana 3 Haste and 2 Daño Aumentado; If only 1 Count remains, gana 4 Bind and 1 Attack Power Down next turn",
+      "summary": "At the end of the turn, gana 3 Haste and 2 Daño Aumentado; If only 1 Count remains, gana 4 Bind and 1 Attack Power Down next turn"
     },
     {
       "id": "ATL_EndureLaceration",
@@ -938,7 +938,7 @@
     {
       "id": "Crazy_Panic",
       "name": "Maddened (Panic)",
-      "desc": "Targets indiscriminately; Clash Power +1, and gana 2 Damage Up",
+      "desc": "Targets indiscriminately; Clash Power +1, and gana 2 Daño Aumentado",
       "undefined": "-"
     },
     {
@@ -1085,7 +1085,7 @@
     {
       "id": "EgoAwakenDongrangRadiantDesire",
       "name": "Radiant Desire",
-      "desc": "Turn Start: Dongrang gains 1 Damage Up and 1 Protection."
+      "desc": "Turn Start: Dongrang gains 1 Daño Aumentado and 1 Protection."
     },
     {
       "id": "EgoAwakenDongrangSeed",
@@ -1226,8 +1226,8 @@
     },
     {
       "id": "ChargeForceField",
-      "name": "Charge Barrier",
-      "desc": "- Gain (Charge Barrier # x 3) Shield.\n- Lose 1 Charge Barrier after losing (Charge Barrier # x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Charge Barrier effects activate at (Charge Barrier # x 5) instead of at (Charge Barrier # x 3))\n- Turn End: Gain a Charge Count for each Charge Barrier #, and Charge Barrier and Shield gained from Charge Barrier expire completely next turn"
+      "name": "Barrera Cargada",
+      "desc": "- Gain (Barrera Cargada # x 3) Shield.\n- Lose 1 Barrera Cargada after losing (Barrera Cargada # x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Barrera Cargada effects activate at (Barrera Cargada # x 5) instead of at (Barrera Cargada # x 3))\n- Turn End: Gain a Charge Count for each Barrera Cargada #, and Barrera Cargada and Shield gained from Barrera Cargada expire completely next turn"
     },
     {
       "id": "SlashResultUp",
@@ -1236,12 +1236,12 @@
     },
     {
       "id": "Discard",
-      "name": "Discard",
+      "name": "Descarta",
       "desc": "- Delete Skills that fit the condition and are selectable during the Chaining Phase from the Dashboard. (Defensive & E.G.O Skills do not count. Does not delete the Skill from the upcoming Skills list)\n- Discarded Skills will not activate Skill effects or Coin effects other than effects from Discard, and will not give E.G.O resources."
     },
     {
       "id": "KnowledgeExplored",
-      "name": "Insight",
+      "name": "Percepción",
       "desc": "The rank of the last Skill Discarded by the unit with this effect (Base Value: 1)"
     },
     {
@@ -1358,9 +1358,9 @@
     },
     {
       "id": "RedApricotBlossom",
-      "name": "Red Plum Blossom",
+      "name": "Flor de Cerezo Rojo",
       "desc": "- Unique Bleed\n- Max value: 10\n- +10% chance for this unit to be Critically Hit if this unit is the main target\n- When struck by a Critical Hit, gain Bleed equal to the half of the value and take +(value x 3)% damage on Critical Hit\n- Reduce value by 1 when hit",
-      "summary": "Higher chance to be Critically Hit; take more damage upon Critical Hit"
+      "summary": "Higher chance to be Critically Hit; take more Daño Aumentadoon Critical Hit"
     },
     {
       "id": "Vibration_Collapse",
@@ -1369,8 +1369,8 @@
     },
     {
       "id": "EchoOfMansion",
-      "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End\nThis effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types."
+      "name": "Ecos de la Mansión",
+      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Ecos de la Mansión. When this unit Panics, inflict 2 Ecos de la Mansión to 2 random other allies of this unit\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End\nThis effect is not cumulative; inflicting it will replace the current value with the inflicted value.\n※ Apply the \"Units without SP\" conditional to certain enemies that have SP but can't change their Panic Types."
     },
     {
       "id": "Switch_Vibration",
