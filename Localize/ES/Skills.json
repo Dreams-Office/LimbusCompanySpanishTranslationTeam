@@ -307,7 +307,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Desgarrooste",
+          "name": "Riposte",
           "desc": "[WinDuel] Inflige 3 de Parálisis el siguiente turno",
           "keywords": [
             "Paralysis"
@@ -331,7 +331,7 @@
         },
         {
           "level": 2,
-          "name": "Desgarrooste",
+          "name": "Riposte",
           "desc": "[WinDuel] Inflige 3 de Parálisis el siguiente turno",
           "keywords": [
             "Paralysis"
@@ -355,7 +355,7 @@
         },
         {
           "level": 4,
-          "name": "Desgarrooste",
+          "name": "Riposte",
           "desc": "[WinDuel] Inflige 3 de Parálisis el siguiente turno\n[WinDuel] Inflige 1 de Contador de Ruptura",
           "keywords": [
             "Paralysis"
@@ -697,7 +697,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -706,12 +706,12 @@
         {
           "level": 4,
           "name": "Ciclo de Energia",
-          "desc": "[WhenUse] Gana +2 Contador de Carga",
+          "desc": "[WhenUse] Gana +2 de Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -1088,7 +1088,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Sangrado"
                 }
               ]
             }
@@ -1137,7 +1137,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -1154,7 +1154,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +4 de Contador de Carga"
                 }
               ]
             }
@@ -1189,14 +1189,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
@@ -1217,14 +1217,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
@@ -1743,7 +1743,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -1764,7 +1764,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 Daño Reducido"
@@ -1817,7 +1817,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 5 Nivel Ofensivo Reducido"
@@ -1841,7 +1841,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 5 Nivel Ofensivo Reducido"
@@ -2468,7 +2468,7 @@
         {
           "level": 4,
           "name": "Protegerse",
-          "desc": "[StartBattle] Gana +2 Contador de Carga",
+          "desc": "[StartBattle] Gana +2 de Contador de Carga",
           "coinlist": [
             {}
           ]
@@ -3557,7 +3557,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 de Declive"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 }
               ]
             },
@@ -3567,7 +3567,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 de Declive"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -3576,7 +3576,7 @@
         {
           "level": 4,
           "name": "Impacto Mental",
-          "desc": "[WhenUse] Gana +2 Contador de Carga",
+          "desc": "[WhenUse] Gana +2 de Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
@@ -3584,7 +3584,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 de Declive"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
                 }
               ]
             },
@@ -3594,7 +3594,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 de Declive"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -4290,7 +4290,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -4977,7 +4977,7 @@
         {
           "level": 4,
           "name": "Serie de Cortes",
-          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Aumentado el siguiente turno\n[WinDuel]No gasta Contador de Temple si realiza ataques críticos con Esta habilidad",
+          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Aumentado el siguiente turno\n[WinDuel]No gasta Contador de Temple si realiza ataques críticos con esta habilidad",
           "coinlist": [
             {
               "coindescs": [
@@ -5390,7 +5390,7 @@
         {
           "level": 3,
           "name": "Fiesta de Piñata",
-          "desc": "Si los PC del objetivo son menor a 0, boost crit chance proportional to target’s PC",
+          "desc": "Si los PC del objetivo son menor a 0, potencia la probabilidad de crítico proporcional a los PC del objetivo",
           "coinlist": [
             {
               "coindescs": [
@@ -6666,7 +6666,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura 50% del Daño Realizado\nHP Heal +3% for each of target's Clavos"
+                  "desc": "[OnSucceedAttack] Cura 50% del Daño Realizado\nCuración de PV +3% por cada Clavos del objetivo"
                 }
               ]
             }
@@ -7399,7 +7399,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Aprovechar la Brecha",
+          "name": "Aprovecha la Brecha",
           "desc": "En un Choque, El oponente tiene -2 Poder de Choque",
           "coinlist": [
             {
@@ -7424,7 +7424,7 @@
         },
         {
           "level": 4,
-          "name": "Aprovechar la Brecha",
+          "name": "Aprovecha la Brecha",
           "desc": "En un Choque, El oponente tiene -2 Poder de Choque\nSi el objetivo tiene 7+ Ruptura, Poder de Moneda +2",
           "coinlist": [
             {
@@ -7642,7 +7642,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
@@ -7663,7 +7663,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
@@ -7684,7 +7684,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
@@ -7724,7 +7724,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 1 HP Healing Down el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 1 Curación de PV Reducida el siguiente turno"
                 }
               ]
             }
@@ -7752,7 +7752,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 3 HP Healing Down el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 3 Curación de PV Reducida el siguiente turno"
                 }
               ]
             }
@@ -7780,7 +7780,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 4 HP Healing Down el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 4 Curación de PV Reducida el siguiente turno"
                 }
               ]
             }
@@ -8188,7 +8188,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Sangrado, Inflige 5 de Quemado"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 1 Blunt Power Up el siguiente turno"
+                  "desc": "[EnemyKill] Gana 1 Daño Contundente Aumentado el siguiente turno"
                 }
               ]
             }
@@ -8213,7 +8213,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Sangrado, Inflige 7 de Quemado"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 1 Blunt Power Up el siguiente turno"
+                  "desc": "[EnemyKill] Gana 1 Daño Contundente Aumentado el siguiente turno"
                 }
               ]
             }
@@ -8470,7 +8470,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 1 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
@@ -8494,7 +8494,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 1 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
@@ -8510,7 +8510,7 @@
         {
           "level": 4,
           "name": "Acelera",
-          "desc": "[WhenUse] Gana +2 Contador de Carga",
+          "desc": "[WhenUse] Gana +2 de Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
@@ -8518,7 +8518,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 1 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
@@ -8649,7 +8649,7 @@
         {
           "level": 1,
           "name": "Precalentar",
-          "desc": "[StartBattle] Gana +2 Contador de Carga",
+          "desc": "[StartBattle] Gana +2 de Contador de Carga",
           "coinlist": [
             {}
           ]
@@ -8804,7 +8804,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
@@ -8814,7 +8814,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de Tremor"
@@ -8849,7 +8849,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
@@ -8859,7 +8859,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de Tremor"
@@ -8912,7 +8912,7 @@
         {
           "level": 2,
           "name": "Acelera",
-          "desc": "[WhenUse] Gana +2 Contador de Carga",
+          "desc": "[WhenUse] Gana +2 de Contador de Carga",
           "coinlist": [
             {},
             {
@@ -8927,7 +8927,7 @@
         {
           "level": 4,
           "name": "Acelera",
-          "desc": "[WhenUse] Gana +2 Contador de Carga",
+          "desc": "[WhenUse] Gana +2 de Contador de Carga",
           "coinlist": [
             {},
             {
@@ -9258,7 +9258,7 @@
         {
           "level": 1,
           "name": "¡Extensión!",
-          "desc": "[WhenUse] Gana 6 de Declive and +3 de Contador de Declive",
+          "desc": "[WhenUse] Gana 6 de Declive y +3 de Contador de Declive",
           "coinlist": [
             {
               "coindescs": [
@@ -9676,7 +9676,7 @@
         {
           "level": 4,
           "name": "¡Se Agita...!",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Inflige 3 Tremor and 3 de Ruptura",
+          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Inflige 3 Tremor y 3 de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -9756,7 +9756,7 @@
         {
           "level": 1,
           "name": "Impedir Intrusión",
-          "desc": "Poder de Moneda +1 to targets with 5+ de Ruptura",
+          "desc": "Poder de Moneda +1 a objetivos con 5+ de Ruptura",
           "coinlist": [
             {}
           ]
@@ -9764,7 +9764,7 @@
         {
           "level": 2,
           "name": "Impedir Intrusión",
-          "desc": "Poder de Moneda +2 to targets with 5+ de Ruptura",
+          "desc": "Poder de Moneda +2 a objetivos con 5+ de Ruptura",
           "coinlist": [
             {}
           ]
@@ -9784,7 +9784,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cuchilla del Deterioro",
+          "name": "Cuchilla Desintegradora",
           "desc": "",
           "coinlist": [
             {
@@ -9805,7 +9805,7 @@
         },
         {
           "level": 2,
-          "name": "Cuchilla del Deterioro",
+          "name": "Cuchilla Desintegradora",
           "desc": "",
           "coinlist": [
             {
@@ -9826,7 +9826,7 @@
         },
         {
           "level": 4,
-          "name": "Cuchilla del Deterioro",
+          "name": "Cuchilla Desintegradora",
           "desc": "[WhenUse] Gana +5 de Agro para esta ranura de habilidad el siguiente turno",
           "coinlist": [
             {
@@ -10291,8 +10291,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Inner Gate Elbow Strike",
-          "desc": "Si el objetivo tiene 6+ de Quemado and de Contador de Quemado, recibe un +30% de daño extra",
+          "name": "Codazo en el Plexo Solar",
+          "desc": "Si el objetivo tiene 6+ de Quemado y de Contador de Quemado, recibe un +30% de daño extra",
           "coinlist": [
             {
               "coindescs": [
@@ -10318,7 +10318,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] si el objetivo está Aturdido or defeated, gana 1 Plus Coin Boost el siguiente turno"
+                  "desc": "[EndSkill] si el objetivo está Aturdido or derrotado, gana 1 Mejora de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -10326,8 +10326,8 @@
         },
         {
           "level": 4,
-          "name": "Inner Gate Elbow Strike",
-          "desc": "Si el objetivo tiene 6+ de Quemado and de Contador de Quemado, realiza un 50% de daño extra",
+          "name": "Codazo en el Plexo Solar",
+          "desc": "Si el objetivo tiene 6+ de Quemado y de Contador de Quemado, realiza un 50% de daño extra",
           "coinlist": [
             {
               "coindescs": [
@@ -10353,7 +10353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] si el objetivo está Aturdido or defeated, gana 1 Plus Coin Boost el siguiente turno"
+                  "desc": "[EndSkill] si el objetivo está Aturdido o derrotado, gana 1 Mejora de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -10385,13 +10385,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weighty Bash",
-          "desc": "At 10+ de Contador de Carga, Poder Final +1",
+          "name": "Golpe Pesado",
+          "desc": "Con 10+ de Contador de Carga, Poder Final +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -10399,13 +10399,13 @@
         },
         {
           "level": 2,
-          "name": "Weighty Bash",
-          "desc": "At 10+ de Contador de Carga, Poder Final +1\nAt 7+ PCeed, +25% de Daño",
+          "name": "Golpe Pesado",
+          "desc": "Con 10+ de Contador de Carga, Poder Final +1\n Con 7+ de velocidad, +25% de Daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -10413,13 +10413,13 @@
         },
         {
           "level": 4,
-          "name": "Weighty Bash",
-          "desc": "At 10+ de Contador de Carga, Poder Final +1\nAt 7+ PCeed, +25% de Daño\n[WhenUse] Gana +2 Contador de Carga",
+          "name": "Golpe Pesado",
+          "desc": "Con 10+ de Contador de Carga, Poder Final +1\n Con 7+ de velocidad, +25% de Daño\n[WhenUse] Gana +2 de Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
                 }
               ]
             }
@@ -10432,27 +10432,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Demolish",
+          "name": "Demoler",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -10460,27 +10460,27 @@
         },
         {
           "level": 2,
-          "name": "Demolish",
-          "desc": "At 7+ PCeed, Inflige +1 de Contador de Sangrado with Esta habilidad",
+          "name": "Demoler",
+          "desc": "Con 7+ de velocidad, Inflige +1 de Contador de Sangrado con esta habilidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -10488,27 +10488,27 @@
         },
         {
           "level": 4,
-          "name": "Demolish",
-          "desc": "At 7+ PCeed, Inflige +1 de Contador de Sangrado with Esta habilidad\n[WhenUse] Gana +4 Contador de Carga",
+          "name": "Demoler",
+          "desc": "Con 7+ de velocidad, Inflige +1 de Contador de Sangrado con esta habilidad\n[WhenUse] Gana +4 de Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +4 de Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -10521,32 +10521,32 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rhino Ram",
-          "desc": "[WhenUse] At 10+ de Contador de Carga, Poder de Moneda +1",
+          "name": "Embestida Rhino",
+          "desc": "[WhenUse] Con 10+ de Contador de Carga, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
@@ -10555,32 +10555,32 @@
         },
         {
           "level": 4,
-          "name": "Rhino Ram",
-          "desc": "[WhenUse] At 10+ de Contador de Carga, Poder de Moneda +2",
+          "name": "Embestida Rhino",
+          "desc": "[WhenUse] Con 10+ de Contador de Carga, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga; Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
@@ -10594,16 +10594,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bioelectricity Induction",
-          "desc": "[WhenUse] If attacked while shielded, Gana +1 de Contador de Carga (Max 10 per turn)",
+          "name": "Inducción de Bioelectricidad",
+          "desc": "[WhenUse] Si es atacado mientras está escudado, Gana +1 de Contador de Carga (Máx 10 por turno)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Bioelectricity Induction",
-          "desc": "[WhenUse] If attacked while shielded, Gana +2 de Contador de Carga (Max 10 per turn)",
+          "name": "Inducción de Bioelectricidad",
+          "desc": "[WhenUse] Si es atacado mientras está escudado, Gana +2 de Contador de Carga (Máx 10 por turno)",
           "coinlist": [
             {}
           ]
@@ -10615,7 +10615,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Careful Obstruction",
+          "name": "Obstrucción Caustelosa",
           "desc": "",
           "coinlist": [
             {
@@ -10636,7 +10636,7 @@
         },
         {
           "level": 2,
-          "name": "Careful Obstruction",
+          "name": "Obstrucción Caustelosa",
           "desc": "",
           "coinlist": [
             {
@@ -10657,7 +10657,7 @@
         },
         {
           "level": 4,
-          "name": "Careful Obstruction",
+          "name": "Obstrucción Caustelosa",
           "desc": "[WhenUse] Gana +2 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Gana +2 de Contador de Temple",
           "coinlist": [
             {
@@ -10684,7 +10684,7 @@
         {
           "level": 1,
           "name": "Defensa Concentrada",
-          "desc": "[WhenUse] At 15+ shield, Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Con 15+ de escudo, Gana +2 de Contador de Temple",
           "coinlist": [
             {}
           ]
@@ -10692,7 +10692,7 @@
         {
           "level": 2,
           "name": "Defensa Concentrada",
-          "desc": "[WhenUse] At 15+ shield, Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Con 15+ de escudo, Gana +2 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -10707,7 +10707,7 @@
         {
           "level": 4,
           "name": "Defensa Concentrada",
-          "desc": "[WhenUse] At 15+ shield, Gana +2 de Contador de Temple\n[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[WhenUse] Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Con 15+ de escudo, Gana +2 de Contador de Temple\n[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[WhenUse] Gana +2 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -10726,8 +10726,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Subdue Threat",
-          "desc": "At 15+ shield, Poder de Moneda +1",
+          "name": "Reducir Amenaza",
+          "desc": "Con 15+ de escudo, Poder de Moneda +1",
           "coinlist": [
             {},
             {},
@@ -10742,8 +10742,8 @@
         },
         {
           "level": 4,
-          "name": "Subdue Threat",
-          "desc": "At 15+ Shield, Poder de Moneda +2",
+          "name": "Reducir Amenaza",
+          "desc": "Con 15+ de escudo, Poder de Moneda +2",
           "coinlist": [
             {},
             {},
@@ -10797,7 +10797,7 @@
         {
           "level": 1,
           "name": "Remise",
-          "desc": "At 7+ PCeed, Poder de Moneda +1",
+          "desc": "Con 7+ de velocidad, Poder de Moneda +1",
           "coinlist": [
             {},
             {
@@ -10812,7 +10812,7 @@
         {
           "level": 2,
           "name": "Remise",
-          "desc": "At 7+ PCeed, Poder de Moneda +1\n[WinDuel] Gana 1 de Rapidez el siguiente turno",
+          "desc": "Con 7+ de velocidad, Poder de Moneda +1\n[WinDuel] Gana 1 de Rapidez el siguiente turno",
           "coinlist": [
             {},
             {
@@ -10827,7 +10827,7 @@
         {
           "level": 4,
           "name": "Remise",
-          "desc": "At 7+ PCeed, Poder de Moneda +2\n[WinDuel] Gana 1 de Rapidez el siguiente turno",
+          "desc": "Con 7+ de velocidad, Poder de Moneda +2\n[WinDuel] Gana 1 de Rapidez el siguiente turno",
           "coinlist": [
             {},
             {
@@ -10877,7 +10877,7 @@
         {
           "level": 4,
           "name": "Flèche",
-          "desc": "[WhenUse] Gana 2 de Rapidez el siguiente turno\n[WinDuel] more de Daño based on Clash count (+5% per Clash count, Máx 50%)",
+          "desc": "[WhenUse] Gana 2 de Rapidez el siguiente turno\n[WinDuel] más daño basado en el contador de Choque (+5% por Contador de Choque, Máx 50%)",
           "coinlist": [
             {},
             {
@@ -10897,7 +10897,7 @@
         {
           "level": 3,
           "name": "Salut!",
-          "desc": "Con 10+ Velocidad, Poder de Moneda +2\n[WinDuel] more de Daño based on Clash count (+5% per Clash count, Máx 50%)",
+          "desc": "Con 10+ Velocidad, Poder de Moneda +2\n[WinDuel] más daño basado en el contador de Choque (+5% por Contador de Choque, Máx 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -10912,7 +10912,7 @@
         {
           "level": 4,
           "name": "Salut!",
-          "desc": "Con 10+ Velocidad, Poder de Moneda +3\n[WinDuel] more de Daño based on Clash count (+10% per Clash count, Max 100%)",
+          "desc": "Con 10+ Velocidad, Poder de Moneda +3\n[WinDuel] más daño basado en el contador de Choque (+10% por Contador de Choque, Máx 100%)",
           "coinlist": [
             {
               "coindescs": [
@@ -10924,7 +10924,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Heal 15 PC"
+                  "desc": "[EnemyKill] Cura 15 PC"
                 }
               ]
             }
@@ -10958,7 +10958,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Intuition",
+          "name": "Intuición",
           "desc": "",
           "coinlist": [
             {
@@ -10979,7 +10979,7 @@
         },
         {
           "level": 2,
-          "name": "Intuition",
+          "name": "Intuición",
           "desc": "",
           "coinlist": [
             {
@@ -11000,8 +11000,8 @@
         },
         {
           "level": 4,
-          "name": "Intuition",
-          "desc": "Si el objetivo tiene 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1",
+          "name": "Intuición",
+          "desc": "Si el objetivo tiene 6+ de de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11032,7 +11032,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Wrap-up",
+          "name": "Recapitulación",
           "desc": "",
           "coinlist": [
             {
@@ -11046,7 +11046,7 @@
         },
         {
           "level": 2,
-          "name": "The Wrap-up",
+          "name": "Recapitulación",
           "desc": "[WinDuel] Inflige +1 de Contador de Ruptura",
           "coinlist": [
             {
@@ -11063,7 +11063,7 @@
         },
         {
           "level": 4,
-          "name": "The Wrap-up",
+          "name": "Recapitulación",
           "desc": "[WinDuel] Inflige +1 de Contador de Ruptura",
           "coinlist": [
             {
@@ -11085,7 +11085,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Forensics",
+          "name": "Análisis Forense",
           "desc": "",
           "coinlist": [
             {
@@ -11115,7 +11115,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 1 de Ruptura"
                 },
                 {
-                  "desc": "[EnemyKill] Inflige +2 Contador de Ruptura against the enemy with the lowest de Contador de Ruptura"
+                  "desc": "[EnemyKill] Inflige +2 de Contador de Ruptura contra el enemigo con el menor de Contador de Ruptura"
                 }
               ]
             }
@@ -11123,8 +11123,8 @@
         },
         {
           "level": 4,
-          "name": "Forensics",
-          "desc": "Si el objetivo tiene 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1",
+          "name": "Análisis Forense",
+          "desc": "Si el objetivo tiene 6+ de de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11153,7 +11153,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 1 de Ruptura"
                 },
                 {
-                  "desc": "[EnemyKill] Inflige +2 Contador de Ruptura against the enemy with the lowest de Contador de Ruptura"
+                  "desc": "[EnemyKill] Inflige +2 de Contador de Ruptura contra el enemigo con el menor de Contador de Ruptura"
                 }
               ]
             }
@@ -11207,7 +11207,7 @@
         {
           "level": 2,
           "name": "Análisis Predictivo",
-          "desc": "Si el objetivo tiene 3+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 3+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -11228,7 +11228,7 @@
         {
           "level": 4,
           "name": "Análisis Predictivo",
-          "desc": "Poder de Moneda +1 for every 3 Ruptura on target (Max 2)",
+          "desc": "Poder de Moneda +1 por cada 3 de Ruptura en el objetivo (Máx 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -11253,7 +11253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dissect Target",
+          "name": "Disecar Objetivo",
           "desc": "",
           "coinlist": [
             {
@@ -11267,7 +11267,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
                 }
               ]
             }
@@ -11275,8 +11275,8 @@
         },
         {
           "level": 2,
-          "name": "Dissect Target",
-          "desc": "Si el objetivo tiene 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1\n[WinDuel] Inflige +3 de Contador de Ruptura",
+          "name": "Disecar Objetivo",
+          "desc": "Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1\n[WinDuel] Inflige +3 de Contador de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -11289,7 +11289,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
                 }
               ]
             }
@@ -11297,8 +11297,8 @@
         },
         {
           "level": 4,
-          "name": "Dissect Target",
-          "desc": "Poder de Moneda +1 for every 6 Ruptura on target (Max 2)\n[WinDuel] Inflige +3 de Contador de Ruptura",
+          "name": "Disecar Objetivo",
+          "desc": "Poder de Moneda +1 por cada 6 de Ruptura en el objetivo (Máx 2)\n[WinDuel] Inflige +3 de Contador de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -11311,7 +11311,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
                 }
               ]
             }
@@ -11324,8 +11324,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Profiling",
-          "desc": "[WhenUse] recibe un +10% de daño extra for every 3 Ruptura on target (Max 20%)",
+          "name": "Perfilando",
+          "desc": "[WhenUse] Recibe un +10% de daño extra por cada 3 de Ruptura en el objetivo (Máx 20%)",
           "coinlist": [
             {
               "coindescs": [
@@ -11344,7 +11344,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] si el objetivo está Aturdido or defeated, gana 1 de Rapidez, 1 Corte Power Up el siguiente turno"
+                  "desc": "[EndSkill] Si el objetivo está Aturdido o derrotado, gana 1 de Rapidez, 1 Daño Cortante Aumentado el siguiente turno"
                 }
               ]
             }
@@ -11352,8 +11352,8 @@
         },
         {
           "level": 4,
-          "name": "Profiling",
-          "desc": "[WhenUse] recibe un +10% de daño extra for every 3 Ruptura on target (Máx 50%)\n[WinDuel] Inflige +2 de Contador de Ruptura",
+          "name": "Perfilando",
+          "desc": "[WhenUse] Recibe un +10% de daño extra por cada 3 de Ruptura en el objetivo (Máx 50%)\n[WinDuel] Inflige +2 de Contador de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -11372,7 +11372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] si el objetivo está Aturdido or defeated, gana 1 de Rapidez, 1 Corte Power Up el siguiente turno"
+                  "desc": "[EndSkill] si el objetivo está Aturdido o derrotado, gana 1 de Rapidez, 1 Daño Cortante Aumentado el siguiente turno"
                 }
               ]
             }
@@ -11385,8 +11385,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let's Wrap It Up",
-          "desc": "[WhenUse] Gana 1 de Rapidez el siguiente turno (3 times per turn)",
+          "name": "Recapitulemos",
+          "desc": "[WhenUse] Gana 1 de Rapidez el siguiente turno (3 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -11399,8 +11399,8 @@
         },
         {
           "level": 4,
-          "name": "Let's Wrap It Up",
-          "desc": "[WhenUse] Gana 1 de Rapidez el siguiente turno (3 times per turn)",
+          "name": "Recapitulemos",
+          "desc": "[WhenUse] Gana 1 de Rapidez el siguiente turno (3 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -11418,8 +11418,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heated Puncture",
-          "desc": "Unobservable"
+          "name": "Punción Calentada",
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11428,8 +11428,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scorching Incision",
-          "desc": "Unobservable"
+          "name": "Incisión Ardiente",
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11438,8 +11438,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Following the Flow",
-          "desc": "Unobservable"
+          "name": "Siguiend el Flujo",
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11448,8 +11448,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Open the Path",
-          "desc": "Unobservable"
+          "name": "He de Abrir el Camino",
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11458,8 +11458,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Silence",
-          "desc": "Unobservable"
+          "name": "Silencio",
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11469,7 +11469,7 @@
         {
           "level": 1,
           "name": "?",
-          "desc": "Unobservable"
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11479,7 +11479,7 @@
         {
           "level": 1,
           "name": "?",
-          "desc": "Unobservable"
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11489,7 +11489,7 @@
         {
           "level": 1,
           "name": "?",
-          "desc": "Unobservable"
+          "desc": "Inobservable"
         }
       ]
     },
@@ -11499,7 +11499,7 @@
         {
           "level": 1,
           "name": "?",
-          "desc": "Unobservable"
+          "desc": "Inobservable"
         }
       ]
     }

@@ -277,7 +277,7 @@
     {
       "id": "Vibration",
       "name": "Tremor",
-      "desc": "Cuando es golpeado por un ataque que activa Estallido de Tremor, aumenta el Umbral de Aturdimiento en {0}. Dura {1} turno(s).",
+      "desc": "Cuando es golpeado por un ataque que activa Estallida de Tremor, aumenta el Umbral de Aturdimiento en {0}. Dura {1} turno(s).",
       "summary": "Aumenta Umbral de Aturdimiento en {0}"
     },
     {
@@ -894,7 +894,7 @@
     },
     {
       "id": "NailPersonality",
-      "name": "Nails",
+      "name": "Clavos",
       "desc": "Unique Sangrado\nInicio de Turno: Gana 1 Sangrado and increase the Sangrado Count by {0}.\nTurn End: Halve this effect’s Count. (Rounded down)",
       "summary": "Gana 1 Sangrado and add +{0} Sangrado Count"
     },
@@ -912,7 +912,7 @@
     },
     {
       "id": "HitResultUp",
-      "name": "Blunt Power Up",
+      "name": "Daño Contundente Aumentado",
       "desc": "Blunt Poder Final de Habilidad +{0} este turno.",
       "summary": "Blunt Poder Final de Habilidad +{0}"
     },
@@ -948,7 +948,7 @@
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "HP Healing Down",
+      "name": "Curación de PV Reducida",
       "desc": "Heal -{0}0% HP from Passives, Skills, and Coin effects this turn. (Max 5)",
       "summary": "HP Healing -{0}0%"
     },
@@ -984,7 +984,7 @@
     },
     {
       "id": "DimensionRift",
-      "name": "Dimensional Rift",
+      "name": "Grieta Dimensional",
       "desc": "Turn End: Gain +{0} Ruptura Count",
       "summary": "Increase Ruptura Count"
     },
@@ -1522,8 +1522,8 @@
     },
     {
       "id": "ChargeForceField",
-      "name": "Charge Barrier",
-      "desc": "- Gain ({0} x 3) Shield.\n- Lose 1 Charge Barrier # after losing ({0} x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Charge Barrier effects activate at ({0} x 5) instead of at ({0} x 3))\n- Turn End: Gain a Charge Count for each Charge Barrier #, and Charge Barrier and Shield Gained from Charge Barrier expire completely next turn"
+      "name": "Barrera Cargada",
+      "desc": "- Gain ({0} x 3) Shield.\n- Lose 1 Barrera Cargada # after losing ({0} x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Barrera Cargada effects activate at ({0} x 5) instead of at ({0} x 3))\n- Turn End: Gain a Charge Count for each Barrera Cargada #, and Barrera Cargada and Shield Gained from Barrera Cargada expire completely next turn"
     },
     {
       "id": "SlashResultUp",
@@ -1609,7 +1609,7 @@
     },
     {
       "id": "Discard",
-      "name": "Discard",
+      "name": "Descarta",
       "desc": "- Delete Skills that fit the condition and are selectable during the Chaining Phase from the Dashboard. (Defensive & E.G.O Skills do not count. Does not delete the Skill from the upcoming Skills list)\n- Discarded Skills will not activate Skill effects or Coin effects other than effects from Discard, and will not give E.G.O resources."
     },
     {
@@ -1642,7 +1642,7 @@
     },
     {
       "id": "KnowledgeExplored",
-      "name": "Insight",
+      "name": "Percepción",
       "desc": "Last Discarded Skill Rank: {0} (Base Value: 1)"
     },
     {
@@ -1759,7 +1759,7 @@
     },
     {
       "id": "RedApricotBlossom",
-      "name": "Red Plum Blossom",
+      "name": "Flor de Cerezo Rojo",
       "desc": "- Unique Bleed\n- Max value: 10\n- +10% chance for this unit to be Critically Hit if this unit is the main target\n- When struck by a Critical Hit, gain Bleed equal to the half of the value and take +({0} x 3)% damage on Critical Hit\n- Reduce value by 1 when hit",
       "summary": "Higher chance to be Critically Hit; take more damage upon Critical Hit"
     },
@@ -1849,19 +1849,19 @@
     },
     {
       "id": "EchoOfMansion",
-      "name": "Echoes of the Manor",
-      "desc": " 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Echoes of the Manor. When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
+      "name": "Ecos de la Mansión",
+      "desc": " 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Units with SP: Change Panic Type to Ecos de la Mansión. When this unit Panics, inflict 2 Ecos de la Mansión to 2 random other allies of this unit\n- Units without SP: -10% chance to flip Heads\n- Reduce by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "EchoOfMansion_Main",
-      "name": "Echoes of the Manor",
-      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Change this unit's Panic Type to Echoes of the Manor.\n- When this unit Panics, inflict 2 Echoes of the Manor to 2 random other allies of this unit\n- Reduce by 1 at Turn End",
+      "name": "Ecos de la Mansión",
+      "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- Change this unit's Panic Type to Ecos de la Mansión.\n- When this unit Panics, inflict 2 Ecos de la Mansión to 2 random other allies of this unit\n- Reduce by 1 at Turn End",
       "summary": ""
     },
     {
       "id": "EchoOfMansion_Sub",
-      "name": "Echoes of the Manor",
+      "name": "Ecos de la Mansión",
       "desc": "- 50% chance to gain +1 Sinking Count when gaining Sinking Potency or Count from Skill or Coin effects\n- -10% chance to flip Heads\n- Reduce by 1 at Turn End",
       "summary": ""
 
