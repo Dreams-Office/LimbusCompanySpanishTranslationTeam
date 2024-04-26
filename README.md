@@ -5,6 +5,7 @@
 
 # LimbusCompanySpanishTranslationTeam
 Traducción al Español de Limbus Company
+
 [简体中文](../../..) | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH) | English
 </div>
 
