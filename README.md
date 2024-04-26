@@ -25,7 +25,7 @@ Traducción al Español de Limbus Company
    - Descargar el [Archivo Comprimido zip](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam/releases/tag/0.1.0) en las Releases. Arrastre la carpeta Localize y el archivo LCB_ESP_BIE.dll a la carpeta creada en el paso 3
 ### 6.- Abrir el juego.
 
-## No entiendo, ¿Qué debo hacer?
-   -
+## No entiendo que hacer
+   - Puedes pedir [ayuda](https://www.youtube.com/watch?v=X8gBTQd6lko) a alguien dentro del Servidor en el canal correspondiente
 # Creditos
 ¡Agradecimientos especiales a <b>Knightey<b> por toda su ayuda con el Codigo y los sprites dentro del juego!
