@@ -9,7 +9,7 @@ Traducción al Español de Limbus Company
 ![Static Badge](https://img.shields.io/badge/Discord%20Hispano%20de%20PM-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https%3A%2F%2Fdiscord.gg%2FWfbHG4aZ6f)
 
 
-[简体中文](../../..) | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH) | English
+[简体中文](../../..) | [繁體中文](https://github.com/SmallYuanSY/LocalizeLimbusCompany) | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | [Français](https://github.com/Eden-Office/LimbusCompanyBusFR) | [ภาษาไทย](https://github.com/1ookilo/LocalizeLimbusCompanyTH) | [English](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany/blob/master/.github/EN_README.md) | Español
 </div>
 
 # Instalación
