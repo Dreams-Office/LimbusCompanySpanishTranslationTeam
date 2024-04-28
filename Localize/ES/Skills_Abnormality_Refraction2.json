@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
                 }
               ]
             }
@@ -37,7 +37,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
                 }
               ]
             }
@@ -89,7 +89,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura"
@@ -111,7 +111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
                 }
               ]
             }
@@ -187,7 +187,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
                 }
               ]
             }
@@ -655,7 +655,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5De Sangrado"
+                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 1 De Sangrado"
@@ -680,7 +680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 }
               ]
             }
@@ -699,7 +699,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP"
@@ -709,7 +709,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5De Sangrado"
+                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP"
@@ -924,7 +924,7 @@
                   "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] Core, Body heals 15 HP"
@@ -968,10 +968,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado"
                 }
               ]
             }
@@ -1047,7 +1047,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
                 }
               ]
             }
@@ -1092,7 +1092,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
                 }
               ]
             }
@@ -1188,7 +1188,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
                 }
               ]
             }
@@ -1529,7 +1529,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 De Sangrado y 3de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 3 De Sangrado y 3 de Ruptura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal the Rose with the lowest HP percentages for 10 HP"
@@ -1700,7 +1700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
@@ -1710,7 +1710,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
@@ -1720,7 +1720,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
@@ -1835,7 +1835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
                 }
               ]
             }
@@ -1913,7 +1913,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 6 de Declive"
                 }
               ]
             }
@@ -1932,14 +1932,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Declive"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Declive"
                 }
               ]
             }

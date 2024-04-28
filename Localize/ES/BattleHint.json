@@ -2,143 +2,143 @@
   "dataList": [
     {
       "id": "1",
-      "content": "It costs Enkephalin Modules to claim rewards after completing a Mirror Dungeon expedition."
+      "content": "Cuesta Módulos de Encefalina reclamar recompensas luego de completar una expedición de una Mazmorra Espejo."
     },
     {
       "id": "2",
-      "content": "Every skill consists of at least 1 Coin."
+      "content": "Todas las habilidades consisten de por lo menos 1 Moneda."
     },
     {
       "id": "3",
-      "content": "A Coin’s Power may increase or decrease depending on the face it lands on."
+      "content": "El Poder una Moneda puede incrementar o reducirse dependiendo en la cara que cae."
     },
     {
       "id": "4",
-      "content": "Coin faces also affect the activation of certain skill effects."
+      "content": "La cara de la Moneda también afecta la activación de ciertos efectos de las habilidades."
     },
     {
       "id": "5",
-      "content": "Units can fall into a state of Panic when their Sanity falls below a certain threshold."
+      "content": "Las unidades pueden caer en un estado de Pánico si su Cordura cae por debajo de un determinado limite."
     },
     {
       "id": "6",
-      "content": "Sinners with low Sanity will be corroded by E.G.O."
+      "content": "Los Pecadores con baja Cordura serán corroídos por el E.G.O"
     },
     {
       "id": "7",
-      "content": "Corroded Sinners will lash out indiscriminately, so be careful."
+      "content": "Los Pecadores corroídos arremeterán indiscriminadamente, así que sé cuidadoso."
     },
     {
       "id": "8",
-      "content": "A status effect’s Potency indicates how much damage it will deal."
+      "content": "La Potencia de un efecto de estado indica cuanto daño hará."
     },
     {
       "id": "9",
-      "content": "After use, skills are converted into E.G.O resources corresponding to their Sin Affinity."
+      "content": "Después de su uso, las habilidades se convierten en recursos de E.G.O correspondientes a su Afinidad de Pecado."
     },
     {
       "id": "10",
-      "content": "Defeating an Abnormality multiple times raises its Observation Level, allowing you to better damage it in future encounters."
+      "content": "Derrotar una Anormalidad múltiples veces incrementa su Nivel de Observación, permitiéndote saber cómo lidiar con ella de mejor forma en encuentros futuros."
     },
     {
       "id": "11",
-      "content": "Skills that require resources will be canceled if the character is missing the required amount."
+      "content": "Habilidades que requieran recursos serán canceladas si al personaje le faltan la cantidad requerida."
     },
     {
       "id": "12",
-      "content": "Speed is randomly determined within a given range each turn."
+      "content": "La Velocidad de tus unidades es determinada al azar dentro de un rango propio cada turno."
     },
     {
       "id": "13",
-      "content": "Speed determines the formation of units in combat."
+      "content": "La Velocidad determina la formación de unidades en el combate."
     },
     {
       "id": "14",
-      "content": "At the start of battle, your characters assume the Sin Resistances of the lowest grade E.G.O they have equipped."
+      "content": "Al inicio de las batallas, tus personajes asumen las Resistencias de Pecado del E.G.O con menor grado que tienen equipado."
     },
-    {
+    { 
       "id": "15",
-      "content": "After a Sinner uses E.G.O, their Sin Resistances are updated; however, any values that would be lowered will instead remain as they were."
+      "content": "Luego de que un Pecador use E.G.O, sus Resistencias de Pecado serán actualizadas."
     },
     {
       "id": "16",
-      "content": "A generated Defense skill will fill in the Sinner’s bottom skill slot, replacing the current skill or E.G.O."
+      "content": "Una habilidad de Defensa generada llenará el espacio inferior de las habilidades de un Pecador, reemplazando la habilidad actual o E.G.O correspondiente."
     },
     {
       "id": "17",
-      "content": "Cancelling E.G.O before using it will return its resources."
+      "content": "Cancelar E.G.O antes de usarlo te devolverá sus recursos."
     },
     {
       "id": "18",
-      "content": "If 2+ skills of the same Sin are in a chain, Sin Resonance activates, strengthening your attacks."
+      "content": "Si 2+ habilidades del mismo Pecado están en una cadena, la Resonancia de Pecado se activa, potenciando tus ataques ligeramente."
     },
     {
       "id": "19",
-      "content": "If 3+ skills of the same Sin are in direct succession, Absolute Resonance activates, GREATLY strengthening your attacks."
+      "content": "Si 3+ habilidades del mismo Pecado están en sucesión directo, la Resonancia Absoluta se activa, dándote Poder de Choque extra y activando efectos especiales en ciertas habilidades."
     },
     {
       "id": "20",
-      "content": "The longer a Clash goes on, the higher the victor’s final damage will be."
+      "content": "Si un Choque continúa por mucho tiempo, el daño final del ganador será incrementado."
     },
     {
       "id": "21",
-      "content": "When a character’s health falls below the Stagger Threshold, they become vulnerable to all attacks and can’t act until the end of the following turn."
+      "content": "Cuando la vida de un personaje cae debajo del Umbral de Aturdimiento, se vuelven vulnerables a todos los tipos de ataque, y no pueden atacar hasta el final del turno siguiente."
     },
     {
       "id": "22",
-      "content": "In Dungeons, you can heal up and save your progress at Checkpoints."
+      "content": "En Mazmorras, puedes curarte y guardar tu progreso en Puntos de Control."
     },
     {
       "id": "23",
-      "content": "Every Identity has a Combat Passive and a Support Passive."
+      "content": "Toda Identidad tiene una Pasiva de Combate y una Pasiva de Apoyo."
     },
     {
       "id": "24",
-      "content": "Identities participating in combat use Combat Passives."
+      "content": "Identidades participando en combate usan Pasivas de Combate."
     },
     {
       "id": "25",
-      "content": "Sinners who are not directly participating in battle will provide aid with their Support Passives."
+      "content": "Pecadores que no estén participando directamente en la batalla proveerán ayuda con sus Pasivas de Apoyo."
     },
     {
       "id": "26",
-      "content": "An Abnormality’s Parts may have differing Resistances and behavior."
+      "content": "Las Partes de una Anormalidad pueden tener Resistencias y comportamiento distinto."
     },
     {
       "id": "27",
-      "content": "When confronting Abnormalities in Focused Encounters, you may come across situations requiring you to make a choice; depending on the outcome, you might receive various effects or even E.G.O Gifts."
+      "content": "Al confrontar Anormalidades en Encuentros Centrados, puedes encontrarte con situaciones requiriéndote tomar una decisión; dependiendo del resultado, podrías recibir efectos varios o incluso Regalos E.G.O."
     },
     {
       "id": "28",
-      "content": "It’s still possible to pass a check even without the requisite Sin."
+      "content": "Aún es posible superar algunas pruebas sin el Pecado requerido."
     },
     {
       "id": "29",
-      "content": "You can obtain E.G.O Gifts from both checks and battles as you progress through a Dungeon."
+      "content": "Puedes obtener Regalos E.G.O tanto de pruebas y batallas mientras progresas por una Mazmorra."
     },
     {
       "id": "30",
-      "content": "When an enemy runs out of Sanity and falls into Panic, they suffer negative effects."
+      "content": "Cuando a un enemigo se le acaba la Cordura y cae en Pánico, sufren efectos negativos."
     },
     {
       "id": "31",
-      "content": "If a Staggered character’s HP falls below the next Stagger Threshold, they’ll take extra damage."
+      "content": "Si la vida de un personaje Aturdido cae debajo del siguiente Umbral de Aturdimiento, tomarán daño extra."
     },
     {
       "id": "32",
-      "content": "A status effect’s Count indicates how long it will last or how many times it will activate during combat."
+      "content": "El Contador de un efecto de estado indica por cuánto durará o cuántas veces se activará durante el combate."
     },
     {
       "id": "33",
-      "content": "E.G.O skills are placed at the bottom of a Sinner’s column."
+      "content": "Las habilidades E.G.O son colocadas en el inferior de las columnas de habilidad de un Pecador."
     },
     {
       "id": "34",
-      "content": "Clashes occur when two Attack Skills target each other."
+      "content": "Los Choques ocurren cuando dos Habilidades Ofensivas se apuntan entre sí."
     },
     {
       "id": "34",
-      "content": "Combat Passives and Support Passives require certain Sin Affinities to be chained or their resources owned to activate."
+      "content": "Pasivas de Combate y Pasivas de Apoyo requieren de encadenar ciertas Afinidades de Pecado u obtener sus recursos requeridos para ser activados."
     }
   ]
 }

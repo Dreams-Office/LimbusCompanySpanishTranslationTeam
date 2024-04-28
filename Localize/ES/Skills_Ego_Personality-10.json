@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3de Ruptura"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Ruptura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP."
@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3de Ruptura"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Ruptura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP."
@@ -48,7 +48,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP."
@@ -136,10 +136,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
                 }
               ]
             }
@@ -154,10 +154,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
                 }
               ]
             }
@@ -172,10 +172,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 1 Attack Power Down and 1 Poder Defensivo Reducido next turn"
@@ -198,10 +198,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6de Quemado"
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
                 }
               ]
             }
@@ -216,10 +216,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6de Quemado"
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 1 Lust Fragility next turn"
@@ -237,10 +237,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6de Quemado"
+                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Quemado"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 2 Lust Fragility next turn"
