@@ -22,7 +22,7 @@ Traducción al Español de Limbus Company
 ### 4.- Instalar el archivo con las Fuentes.
    - Descargar el [Archivo con las Fuentes en Español](https://drive.google.com/file/d/1Dd0XG-4_144vKOnPU0QM4QYkPS-Tn-wA/view?usp=sharing) para el juego, luego mueve el archivo a la carpeta creada en el paso 3.
 ### 5.- Descargar Localización
-   - Descargar el [Archivo Comprimido zip](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam/releases/tag/0.1.0). Luego Arrastre la carpeta Localize y el archivo LCB_ESP_BIE.dll a la carpeta creada en el paso 3
+   - Descargar el [Archivo Comprimido zip](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam/releases). Luego Arrastre la carpeta Localize y el archivo LCB_ESP_BIE.dll a la carpeta creada en el paso 3
 ### 6.- Abrir el juego.
 
 ## No entiendo que hacer
