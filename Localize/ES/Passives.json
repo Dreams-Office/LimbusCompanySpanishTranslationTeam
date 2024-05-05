@@ -453,17 +453,17 @@
     {
       "id": 1050401,
       "name": "Obsessive Hammer",
-      "desc": "When below 50% HP, remove 1 negative status effect and gana 1 Fanatic, 1 Attack Power Up, and 3 Protection at the start of the combat phase."
+      "desc": "When below 50% HP, remove 1 negative status effect and gana 1 de Fanático, 1 Attack Power Up, and 3 Protection at the start of the combat phase."
     },
     {
       "id": 1090401,
       "name": "Joy of Execution",
-      "desc": "After an enemy is defeated, gana 1 Haste and 1 Damage Up next turn.\nIf this unit defeated an enemy, also gana 1 Fanatic. (Once per turn.)"
+      "desc": "After an enemy is defeated, gana 1 Haste and 1 Damage Up next turn.\nIf this unit defeated an enemy, also gana 1 de Fanático. (Once per turn.)"
     },
     {
       "id": 1050421,
       "name": "Highest Honor",
-      "desc": "Apply 1 Attack Power Up and 1 Protection to the ally with the least HP below 50%.\nIf the ally is from N Corp, also apply 1 Fanatic."
+      "desc": "Apply 1 Attack Power Up and 1 Protection to the ally with the least HP below 50%.\nIf the ally is from N Corp, also apply 1 de Fanático."
     },
     {
       "id": 1090421,
@@ -473,12 +473,12 @@
     {
       "id": 1020401,
       "name": "Whistles",
-      "desc": "At the start of the combat phase, heal 2 allies with the least SP for 15 SP.\nIf the ally is from N Corp, also apply 1 Fanatic."
+      "desc": "At the start of the combat phase, heal 2 allies with the least SP for 15 SP.\nIf the ally is from N Corp, also apply 1 de Fanático."
     },
     {
       "id": 1020421,
       "name": "Whispers",
-      "desc": "At the start of the combat phase, heal 1 ally with the least SP for 15 SP.\nIf the ally is from N Corp, also apply 1 Fanatic."
+      "desc": "At the start of the combat phase, heal 1 ally with the least SP for 15 SP.\nIf the ally is from N Corp, also apply 1 de Fanático."
     },
     {
       "id": 1070401,
@@ -543,12 +543,12 @@
     {
       "id": 1030401,
       "name": "Thou Shalt Hammer!",
-      "desc": "If the target has Nails, Inflige +1 Tremor Count.\nIf this unit is Fanatic, Inflige +1 Nails."
+      "desc": "If the target has Nails, Inflige +1 Tremor Count.\nIf this unit is de Fanático, Inflige +1 Nails."
     },
     {
       "id": 1030421,
       "name": "Hammer of Zealotry",
-      "desc": "1 Fanatic ally with the least SP deals +10% damage."
+      "desc": "1 de [AssemblePersonality] ally with the least SP deals +10% damage."
     },
     {
       "id": 1090501,
@@ -673,7 +673,7 @@
     {
       "id": 1080701,
       "name": "Crushin' Crabs",
-      "desc": "On hit against a target with Tremor, Inflige +1 de Contador de Declive"
+      "desc": "On hit against a target with Tremor, Inflige +1 de Contador de Ahogo"
     },
     {
       "id": 1080721,
@@ -1394,6 +1394,30 @@
       "name": "Loyal Supporter",
       "desc": "When 1 ally with the fastest Speed attacks a target with [Sinking], deal +1% more damage for every 1 [Sinking] on target (max 20%)",
       "summary": ""
+    },
+    {
+      "id": 1100901,
+      "name": "Stigma Workshop Weaponry / Passion",
+      "desc": "This unit inflicts +1 more [Combustion] Potency with its Skills (Activates 6 times per turn)\nWhen in a Volatile E.G.O state, and at 0+ SP, gain Coin Power +(SP/20). At 45 SP, gain Coin Power +3 instead.",
+      "summary": "Inflict +1 more [Combustion] Potency with Skills\nGain Coin Power based on SP"
+    },
+    {
+      "id": 1100911,
+      "name": "Stigma Workshop Weaponry / Passion",
+      "desc": "This unit inflicts +1 more [Combustion] Potency <style=\"highlight\">and Count</style> with its Skills (Activates 6 times per turn)\nWhen in a Volatile E.G.O state, and at 0+ SP, gain Coin Power +(SP/20). At 45 SP, gain Coin Power +3 instead.",
+      "summary": "Inflict +1 more [Combustion] Potency and Count with Skills\nGain Coin Power based on SP"
+    },
+    {
+      "id": 1100902,
+      "name": "Unstable Shell of Ego",
+      "desc": "Turn Start: At 45 SP, consume 35 SP to enter the Volatile E.G.O::Waxen Pinion state. (this 'Turn Start' effect does not activate repeatedly)\nIf 2+ allies are defeated in a single turn, and if this unit's SP isn't at -45 at Turn End, reset SP to 10; then, enter the Volatile E.G.O::Waxen Pinion state.\n\nIf this unit gets Staggered due to damage or raised Stagger Threshold when entering the Volatile E.G.O state, recover from Stagger. If the Stagger is something that cannot be naturally recovered from, this unit does not enter the Volatile E.G.O state.\n\nGain [UnstableFeeling] while in the Volatile E.G.O state.\n\nTurn Start: At 0 or less SP, exit the Volatile E.G.O::Waxen Pinion state.",
+      "summary": " "
+    },
+    {
+      "id": 1100921,
+      "name": "Flaring Brand",
+      "desc": "When the #1 Sinner to be Deployed Heads Hits, inflict +1 [Combustion] Count (4 times per turn)",
+      "summary": "On Heads Hit, inflict +1 [Combustion] Count"
     }
   ]
 }

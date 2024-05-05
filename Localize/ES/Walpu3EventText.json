@@ -1,0 +1,272 @@
+{
+  "dataList": [
+    {
+      "id": "Walpu3_reward_button",
+      "content": "Misiones"
+    },
+    {
+      "id": "Walpu3_story_theater_button",
+      "content": "Al Teatro"
+    },
+    {
+      "id": "Walpu3_normal_stage",
+      "content": "Fácil"
+    },
+    {
+      "id": "Walpu3_hard_stage",
+      "content": "Difícil"
+    },
+    {
+      "id": "Walpu3_normal_stage_name",
+      "content": "El Cuidado de las Hadas"
+    },
+    {
+      "id": "Walpu3_hard_stage_name",
+      "content": "Depredación"
+    },
+    {
+      "id": "Walpu3_normal_stage_desc",
+      "content": "Las hadas protegen a nuestros empleados.\nTodo será pacífico mientras estés bajo el cuidado de las hadas."
+    },
+    {
+      "id": "Walpu3_hard_stage_desc",
+      "content": "Su estómago y su cara fueron arrancadas, y sus ojos y sus órganos fueron dañados como si algo los hubiera comido.\n Mientras tanto, las hadas tenían la sangre y la carne de alguien untadas por toda la boca."
+    },
+    {
+      "id": "Walpu3_hard_stage_unlock_condition",
+      "content": "Completar la dificultad Fácil para Desbloquear"
+    },
+    {
+      "id": "EVENT_WALPU3_NORMAL",
+      "content": "Fácil"
+    },
+    {
+      "id": "EVENT_WALPU3_HARD",
+      "content": "Difícil"
+    },
+    {
+      "id": "missionConditionTitle_10009",
+      "content": "Completa la Supresión del Festival de las Hadas"
+    },
+    {
+      "id": "missionConditionTitle_10010",
+      "content": "Completa la Supresión del Festival de las Hadas en menos de 10 turnos"
+    },
+    {
+      "id": "missionConditionTitle_10011",
+      "content": "Completa la Supresión sin muertes aliadas"
+    },
+    {
+      "id": "missionConditionTitle_10012",
+      "content": "Completa la Supresión sin que la cordura de ningun aliado caiga hasta -45 PC"
+    },
+    {
+      "id": "missionConditionTitle_10013",
+      "content": "Completa la Supresión sobreviviendo con el Bibliotecaro de Historia y con menos de 10 golpes de los enemigos"
+    },
+    {
+      "id": "missionConditionTitle_10014",
+      "content": "Completa la Supresión despues de romperle ambas manos a la Reina de las Hada en un solo Encuentro"
+    },
+    {
+      "id": "missionConditionTitle_10015",
+      "content": "Completa la Supresión sin que la Reina de las Hada derrote a ningun Montón de Hadas"
+    },
+    {
+      "id": "missionConditionTitle_10016",
+      "content": "Permite a la Reina de las Hadas derrotar un Montón de Hadas en un solo Encuentro"
+    },
+    {
+      "id": "missionConditionTitle_10017",
+      "content": "Permite a la Reina de las Hadas derrotar un Montón de Hadas en el primer turno en un solo Encuentro"
+    },
+    {
+      "id": "missionConditionTitle_10018",
+      "content": "Inflige X+ de Potencia de (Quemado, Sangrado, Ruptura o Ahogo) a una sola Anormalidad"
+    },
+    {
+      "id": "missionConditionTitle_10019",
+      "content": "Derrota una Anormalidad con daño de Quemado, Sangrado, Ruptura o Ahogo en un solo Encuentro"
+    },
+    {
+      "id": "missionConditionTitle_10020",
+      "content": "Derrota a la Reina de las Hadas con daño de Quemado, Sangrado, Ruptura o Ahogo en un solo encuentro"
+    },
+    {
+      "id": "missionConditionTitle_20009",
+      "content": "Completa la Supresión del Festival de las Hadas"
+    },
+    {
+      "id": "missionConditionTitle_20010",
+      "content": "Completa la Supresión del Festival de las Hadas en menos de 10 turnos"
+    },
+    {
+      "id": "missionConditionTitle_20011",
+      "content": "Completa la Supresión sin muertes aliadas"
+    },
+    {
+      "id": "missionConditionTitle_20012",
+      "content": "Completa la Supresión sin que la cordura de ningun aliado caiga hasta -45 PC"
+    },
+    {
+      "id": "missionConditionTitle_20013",
+      "content": "Completa la Supresión sobreviviendo con el Bibliotecario de Histori y con menos de 10 golpes de los enemigos"
+    },
+    {
+      "id": "missionConditionTitle_20014",
+      "content": "Completa la Supresión despues de romperle ambas manos a la Reina de las Hada en un solo Encuentro"
+    },
+    {
+      "id": "missionConditionTitle_20015",
+      "content": "Completa la Supresión sin que la Reina de las Hada derrote a ningun Montón de Hadas"
+    },
+    {
+      "id": "missionConditionTitle_20016",
+      "content": "Permite a la Reina de las Hadas derrotar un Montón de Hadas en un solo Encuentro"
+    },
+    {
+      "id": "missionConditionTitle_20017",
+      "content": "Permite a la Reina de las Hadas derrotar X+ Montón de Hadas en un solo turno de un solo encuentro"
+    },
+    {
+      "id": "missionConditionTitle_20018",
+      "content": "Inflige X+ de Potencia de (Quemado, Sangrado, Ruptura o Ahogo) a una sola Anormalidad"
+    },
+    {
+      "id": "missionConditionTitle_20019",
+      "content": "Derrota una Anormalidad con daño de Quemado, Sangrado, Ruptura o Ahogo en un solo Encuentro"
+    },
+    {
+      "id": "missionConditionTitle_20020",
+      "content": "Derrota a la Reina de las Hadas con daño de Quemado, Sangrado, Ruptura o Ahogo en un solo encuentro"
+    },
+    {
+      "id": "missionConditionTitle_20021",
+      "content": "El Bibliotecario de Historia derrota X+ Anormalidades con una sola Haiblidad de Ataque"
+    },
+    {
+      "id": "missionConditionTitle_30002",
+      "content": "Completa todas las Misiones en ambas dificultades"
+    },
+    {
+      "id": "walpu3_reward_event_desc",
+      "content": "Suprime al the Festival de las Hadas en las dificultades 'Fácil' y 'Difícil' y completa las misiones.\n\nConsigue varias recompensas tras completar estas misiones."
+    },
+    {
+      "id": "walpu3_reward_normal_tab",
+      "content": "Easy"
+    },
+    {
+      "id": "walpu3_reward_hard_tab",
+      "content": "Hard"
+    },
+    {
+      "id": "walpu3_modal_yes",
+      "content": "Yes"
+    },
+    {
+      "id": "walpu3_modal_no",
+      "content": "No"
+    },
+    {
+      "id": "walpu_modal_enterStage_10555",
+      "content": "¿Entrarás al libro del 'Festival de las Hadas'?"
+    },
+    {
+      "id": "walpu_modal_enterStage_10556",
+      "content": "¿Entrarás al libro del 'Festival de las Hadas'?"
+    },
+    {
+      "id": "walpu_battle_turn",
+      "content": "Escena {0}"
+    },
+    {
+      "id": "walpu_battle_1_wave",
+      "content": "Piso de Historia - Acto {0}"
+    },
+    {
+      "id": "walpu_battle_name_10555",
+      "content": "Festival de las Hadas"
+    },
+    {
+      "id": "walpu_battle_name_10556",
+      "content": "Festival de las Hadas"
+    },
+    {
+      "id": "walpu_battle_result_win",
+      "content": "Supresión del {0} Completada"
+    },
+    {
+      "id": "walpu_battle_result_lose",
+      "content": "Supresión del {0} Fallida"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_title",
+      "content": "La 3ra Noche del Walpurgis - En un Libro de una Cierta Biblioteca"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_title_01",
+      "content": "La 3ra Noche del Walpurgis - En un Libro de una Cierta Biblioteca"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_01_desc_01",
+      "content": "[La 3ra Noche del Walpurgis - En un Libro de una Cierta Biblioteca] unlocks regardless of your progress in the Main Story. Enter via the event banner on the Window or the Driverside tabs."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_02_title_01",
+      "content": "Event Period"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_02_desc_01",
+      "content": "The duration of La 3ra Noche del Walpurgis - En un Libro de una Cierta Biblioteca event is shown here. During the event, complete Missions for Easy and Hard difficulty event Encounters and claim their rewards."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_title_01",
+      "content": "Easy Difficulty Encounter"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_desc_01",
+      "content": "Select the door to begin the Easy difficulty Encounter.\nThe Encounter consumes an Enkephalin Module upon entry.\nOn Easy difficulty, any Deployed Identities under Level 45 will be raised to Level 45.\nAlso, any Deployed Identities under Tier 3 Uptie Level will be raised to Tier 3 Uptie Level.\nHowever, your current E.G.O Threadspinning Tiers will be reflected."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_title_02",
+      "content": "Hard Difficulty Encounter"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_03_desc_02",
+      "content": "Clearing the Easy difficulty Encounter unlocks the Hard difficulty.\nIn Hard difficulty, your Identities' current Levels, Uptie Tiers, and E.G.O Threadspinning Tiers will be reflected."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_04_title_01",
+      "content": "Librarian of History Effect"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_04_desc_01",
+      "content": "The #1 Sinner to be Deployed in the Teams menu will be imbued with the 'Librarian of History' effect. The effects of 'Librarian of History' differs between Easy/Hard difficulties. Sinner imbued with this effect will gain more Slots and various other beneficial effects."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_05_title_01",
+      "content": "Missions"
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_05_desc_01",
+      "content": "You can enter the [Missions] page, where you can view the list of Missions to be completed during the Encounter and their rewards. "
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_01",
+      "content": "You can view the Reward Exchange period in the [Missions] page."
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_02",
+      "content": "Easy difficulty and Hard difficulty each has different sets of Missions to complete. "
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_06_desc_03",
+      "content": "Complete these Missions and claim various rewards from the [Missions] page. "
+    },
+    {
+      "id": "tutorial_mainui_27_walpu3_07_desc_01",
+      "content": "Even after the event fully ends, you will be able to experience the 'La 3ra Noche del Walpurgis - En un Libro de una Cierta Biblioteca' combat Encounters and view its story anytime at the Driverside and Theater - [Detour Tales]."
+    }
+  ]
+}

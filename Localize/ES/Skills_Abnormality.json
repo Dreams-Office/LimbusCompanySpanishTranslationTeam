@@ -2426,7 +2426,7 @@
                   "desc": "[OnSucceedAttack] Heal 7 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Ahogo"
                 }
               ]
             }
@@ -2649,7 +2649,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Ahogo"
                 }
               ]
             }
@@ -2747,7 +2747,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 }
               ]
             }
@@ -2917,7 +2917,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 Wavering Emotions"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ahogo"
                 }
               ]
             }
@@ -2939,7 +2939,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 Wavering Emotions"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             },
@@ -2949,7 +2949,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 Wavering Emotions"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -3242,7 +3242,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
                 }
               ]
             }
@@ -3261,14 +3261,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
                 }
               ]
             }
@@ -3342,7 +3342,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Deal +15% damage for each Old Umbrella"
@@ -3680,7 +3680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ahogo"
                 }
               ]
             },
@@ -3701,7 +3701,7 @@
         {
           "level": 1,
           "name": "Self-defense",
-          "desc": "[DefeatDuel] Lose 8 SP and gana 3 de Declive",
+          "desc": "[DefeatDuel] Lose 8 SP and gana 3 de Ahogo",
           "coinlist": [
             {
               "coindescs": [
@@ -4997,6 +4997,235 @@
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
                 }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826301,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Queen's Decree",
+              "desc": "[StartBattle] Inflict 1 [PreparedMeat] to a random ally without [PreparedMeat]",
+              "coinlist": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826302,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Wingbeat",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                    }
+                  ]
+                },
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826303,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Predation",
+              "desc": "If the target has 5+ [Laceration], Coin Power +1",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Heal 3% of Max HP to the Core"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826304,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Starved Fluttering",
+              "desc": "At 3+ [Hunger], Coin Power +1\nIf the target has 5+ [Laceration], Coin Power +1",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                    }
+                  ]
+                },
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                    }
+                  ]
+                },
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826305,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Ravening Hunger",
+              "desc": "[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf the target has 5 +[Laceration], Coin Power +1\nIf the target has [PreparedMeat], Coin Power +10\nCoin Power -5 for every broken Arm Part\n[TargetKill] All Parts gain 2 [Enhancement] for the Encounter (stackable)",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttackHead] Reuse Coin once (3 times per Skill)"
+                    },
+                    {
+                      "desc": "[OnSucceedAttack] Core heals 10 HP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826306,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Respite",
+              "coinlist": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826307,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Time to Pay for My Care",
+              "desc": "[StartBattle] Inflict 1 [PreparedMeat] to all allies without [PreparedMeat]",
+              "coinlist": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826401,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Munch Munch",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Core heals 3 HP"
+                    }
+                  ]
+                },
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Core heals 3 HP"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826402,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Gluttony",
+              "desc": "If the target has 5+ [Laceration], Coin Power +1",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Core heals 10 HP"
+                    },
+                    {
+                      "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826403,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Tiny Wingbeat",
+              "desc": "If the target has 5+ [Laceration], Coin Power +1",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                    }
+                  ]
+                },
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                    }
+                  ]
+                },
+                {
+                  "coindescs": [
+                    {
+                      "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 826404,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Respite",
+              "coinlist": [
+                {}
               ]
             }
           ]

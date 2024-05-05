@@ -61,7 +61,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallido de Tremor. Reduce el Contador de Tremor del objetivo en 2"
+                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallida de Tremor. Reduce el Contador de Tremor del objetivo en 2"
                 }
               ]
             }
@@ -78,7 +78,7 @@
                   "desc": "[OnSucceedAttack] Inflige +2 de Contador de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallido de Tremor. Reduce el Contador de Tremor del objetivo en 2"
+                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallida de Tremor. Reduce el Contador de Tremor del objetivo en 2"
                 }
               ]
             }
@@ -95,7 +95,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 de Contador de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallido de Tremor. Reduce el Contador de Tremor del objetivo en 2"
+                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallida de Tremor. Reduce el Contador de Tremor del objetivo en 2"
                 }
               ]
             }
@@ -805,7 +805,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Estudio Fijo",
+          "name": "Estudio Específico",
           "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascendente de rangos dentro de todas sus Ranuras de Habilidad\n[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
@@ -819,7 +819,7 @@
         },
         {
           "level": 4,
-          "name": "Estudio Fijo",
+          "name": "Estudio Específico",
           "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascendente de rangos dentro de todas sus Ranuras de Habilidad\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {

@@ -309,7 +309,7 @@
         {
           "level": 1,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "",
           "coinlist": [
             {
@@ -327,7 +327,7 @@
         {
           "level": 3,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "",
           "coinlist": [
             {
@@ -345,7 +345,7 @@
         {
           "level": 4,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "hys Sin Cabeza",
           "desc": "",
           "coinlist": [
             {
@@ -371,7 +371,7 @@
         {
           "level": 1,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -389,7 +389,7 @@
         {
           "level": 3,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -407,7 +407,7 @@
         {
           "level": 4,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -433,7 +433,7 @@
         {
           "level": 1,
           "name": "Alfiler Maldito",
-          "abName": "Osito Teddy Lastimado",
+          "abName": "Osito de peluche lastimado",
           "desc": "",
           "coinlist": [
             {
@@ -451,7 +451,7 @@
         {
           "level": 3,
           "name": "Alfiler Maldito",
-          "abName": "Osito Teddy Lastimado",
+          "abName": "Osito de peluche lastimado",
           "desc": "",
           "coinlist": [
             {
@@ -472,7 +472,7 @@
         {
           "level": 4,
           "name": "Alfiler Maldito",
-          "abName": "Osito Teddy Lastimado",
+          "abName": "Osito de peluche lastimado",
           "desc": "",
           "coinlist": [
             {
@@ -504,7 +504,7 @@
         {
           "level": 1,
           "name": "Alfiler Maldito",
-          "abName": "Osito Teddy Lastimado",
+          "abName": "Osito de peluche lastimado",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -522,7 +522,7 @@
         {
           "level": 3,
           "name": "Alfiler Maldito",
-          "abName": "Osito Teddy Lastimado",
+          "abName": "Osito de peluche lastimado",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -543,7 +543,7 @@
         {
           "level": 4,
           "name": "Alfiler Maldito",
-          "abName": "Osito Teddy Lastimado",
+          "abName": "Osito de peluche lastimado",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -631,7 +631,7 @@
         {
           "level": 1,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "",
           "coinlist": [
             {
@@ -649,7 +649,7 @@
         {
           "level": 3,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "",
           "coinlist": [
             {
@@ -670,7 +670,7 @@
         {
           "level": 4,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "",
           "coinlist": [
             {
@@ -685,7 +685,7 @@
                   "desc": "Si el objettivo esta Aturdido, con Baja Moral, o en Pánico, Hiere por un 30% más como bonus"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -699,7 +699,7 @@
         {
           "level": 1,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -708,7 +708,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 }
               ]
             }
@@ -717,7 +717,7 @@
         {
           "level": 3,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -726,7 +726,7 @@
                   "desc": "[OnSucceedAttack] Inflige 7 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 7 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 7 de Ahogo"
                 },
                 {
                   "desc": "Si el objettivo esta Aturdido, con Baja Moral, o en Pánico, Hiere por un 50% más como bonus"
@@ -738,7 +738,7 @@
         {
           "level": 4,
           "name": "Bolsa de Fluidos",
-          "abName": "Icthys Sin Cabeza",
+          "abName": "Ichthys Sin Cabeza",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -747,7 +747,7 @@
                   "desc": "[OnSucceedAttack] Inflige 10 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 10 de Ahogo"
                 },
                 {
                   "desc": "Si el objettivo esta Aturdido, con Baja Moral, o en Pánico, Hiere por un 50% más como bonus"
@@ -922,7 +922,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chaínes d'autrui",
+          "name": "Cadenas de Otros",
           "abName": "Meursault",
           "desc": "",
           "coinlist": [
@@ -946,7 +946,7 @@
         },
         {
           "level": 3,
-          "name": "Chaínes d'autrui",
+          "name": "Cadenas de Otros",
           "abName": "Meursault",
           "desc": "",
           "coinlist": [
@@ -973,7 +973,7 @@
         },
         {
           "level": 4,
-          "name": "Chaínes d'autrui",
+          "name": "Cadenas de Otros",
           "abName": "Meursault",
           "desc": "",
           "coinlist": [
@@ -1148,14 +1148,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tài Xū Huàn Jìng",
+          "name": "Tierra de Ilusiones",
           "abName": "Hong Lu",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -1163,14 +1163,14 @@
         },
         {
           "level": 3,
-          "name": "Tài Xū Huàn Jìng",
+          "name": "Tierra de Ilusiones",
           "abName": "Hong Lu",
           "desc": "[EndSkill] Cura 15 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 }
               ]
             }
@@ -1178,14 +1178,14 @@
         },
         {
           "level": 4,
-          "name": "Tài Xū Huàn Jìng",
+          "name": "Tierra de Ilusiones",
           "abName": "Hong Lu",
           "desc": "[EndSkill] Cura 15 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 },
                 {
                   "desc": "[EndSkill] -2 de Eficiencia en PC a todos los aliados; -2 a la cantidad de PC perdida por el uso de E.G.O"
@@ -1391,7 +1391,7 @@
         {
           "level": 1,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "Gasta +5 de Contador de Carga para ganar +3 de Poder de Habilidad",
           "coinlist": [
             {
@@ -1406,7 +1406,7 @@
         {
           "level": 3,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta +5 de Contador de Carga para ganar +3 de Poder de Habilidad",
           "coinlist": [
             {
@@ -1421,7 +1421,7 @@
         {
           "level": 4,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta +5 de Contador de Carga para ganar +3 de Poder de Habilidad (Máx 12)",
           "coinlist": [
             {
@@ -1441,7 +1441,7 @@
         {
           "level": 1,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[CantIdentify] Elección Aleatoria\nGasta toda la Carga para ganar +6 de Poder de Habilidad",
           "coinlist": [
             {
@@ -1456,7 +1456,7 @@
         {
           "level": 3,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[CantIdentify] Elección Aleatoria\n[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta toda la Carga para ganar +10 de Poder de Habilidad",
           "coinlist": [
             {
@@ -1471,7 +1471,7 @@
         {
           "level": 4,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[CantIdentify] Elección Aleatoria\n[WhenUse] Gana Carga por Contador de Reson. de Envidia.\nGasta toda la Carga para ganar +15 de Poder de Habilidad",
           "coinlist": [
             {
@@ -1508,7 +1508,7 @@
         },
         {
           "level": 3,
-          "name": "Snagharpoon",
+          "name": "Enganche de Harpón",
           "abName": "Ishmael",
           "desc": "Elije a la unidad mas lejana (En encuentros normales)",
           "coinlist": [
@@ -1526,7 +1526,7 @@
         },
         {
           "level": 4,
-          "name": "Snagharpoon",
+          "name": "Enganche de Harpón",
           "abName": "Ishmael",
           "desc": "Elije a la unidad mas lejana (En encuentros normales)",
           "coinlist": [
@@ -1701,7 +1701,7 @@
         {
           "level": 3,
           "name": "Estrella De Pétalo Ardiente",
-          "abName": "Ardor Blossom Moth",
+          "abName": "Polilla de Pétalo Ardiente",
           "desc": "Elije a la unidad mas lejana (En encuentros normales)",
           "coinlist": [
             {
@@ -1722,7 +1722,7 @@
         {
           "level": 4,
           "name": "Estrella De Pétalo Ardiente",
-          "abName": "Ardor Blossom Moth",
+          "abName": "Polilla de Pétalo Ardiente",
           "desc": "Elije a la unidad mas lejana (En encuentros normales)",
           "coinlist": [
             {
@@ -1748,7 +1748,7 @@
         {
           "level": 1,
           "name": "Estrella De Pétalo Ardiente",
-          "abName": "Ardor Blossom Moth",
+          "abName": "Polilla de Pétalo Ardiente",
           "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
           "coinlist": [
             {
@@ -1763,7 +1763,7 @@
         {
           "level": 3,
           "name": "Estrella De Pétalo Ardiente",
-          "abName": "Ardor Blossom Moth",
+          "abName": "Polilla de Pétalo Ardiente",
           "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
           "coinlist": [
             {
@@ -1781,7 +1781,7 @@
         {
           "level": 4,
           "name": "Estrella De Pétalo Ardiente",
-          "abName": "Ardor Blossom Moth",
+          "abName": "Polilla de Pétalo Ardiente",
           "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
           "coinlist": [
             {
@@ -1945,7 +1945,7 @@
                   "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 al contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +2 al contador de Ahogo"
                 }
               ]
             }
@@ -1963,7 +1963,7 @@
                   "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 al contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +3 al contador de Ahogo"
                 }
               ]
             }
@@ -1981,7 +1981,7 @@
                   "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive\n[OnSucceedAttack] Inflige 5 al contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo\n[OnSucceedAttack] Inflige 5 al contador de Ahogo"
                 }
               ]
             }
@@ -2004,7 +2004,7 @@
                   "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +4 al contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +4 al contador de Ahogo"
                 }
               ]
             }
@@ -2022,7 +2022,7 @@
                   "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +6 al contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +6 al contador de Ahogo"
                 }
               ]
             }
@@ -2040,7 +2040,7 @@
                   "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 de Declive\n[OnSucceedAttack] Inflige +8 al contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 10 de Ahogo\n[OnSucceedAttack] Inflige +8 al contador de Ahogo"
                 }
               ]
             }
@@ -2053,7 +2053,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Zweig vom Baum der Erkenntnis",
+          "name": "Rama del Árbol del Conocimiento",
           "abName": "Sinclair",
           "desc": "",
           "coinlist": [
@@ -2071,7 +2071,7 @@
         },
         {
           "level": 3,
-          "name": "Zweig vom Baum der Erkenntnis",
+          "name": "Rama del Árbol del Conocimiento",
           "abName": "Sinclair",
           "desc": "",
           "coinlist": [
@@ -2092,7 +2092,7 @@
         },
         {
           "level": 4,
-          "name": "Zweig vom Baum der Erkenntnis",
+          "name": "Rama del Árbol del Conocimiento",
           "abName": "Sinclair",
           "desc": "",
           "coinlist": [
@@ -2285,8 +2285,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rama Ébano",
-          "abName": "Manzana de la Rama Ébano",
+          "name": "Rama de Ébano",
+          "abName": "Manzana de la Reina de Ébano",
           "desc": "",
           "coinlist": [
             {
@@ -2304,7 +2304,7 @@
         {
           "level": 3,
           "name": "Rama Ébano",
-          "abName": "Manzana de la Rama Ébano",
+          "abName": "Manzana de la Reina de Ébano",
           "desc": "",
           "coinlist": [
             {
@@ -2330,7 +2330,7 @@
         {
           "level": 1,
           "name": "Rama Ébano",
-          "abName": "Manzana de la Rama Ébano",
+          "abName": "Manzana de la Reina de Ébano",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -2348,7 +2348,7 @@
         {
           "level": 3,
           "name": "Rama Ébano",
-          "abName": "Manzana de la Rama Ébano",
+          "abName": "Manzana de la Reina de Ébano",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -2455,14 +2455,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pit'óm Yom 'Ekhád",
+          "name": "De repente, Un Día",
           "abName": "Gregor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Declive"
+                  "desc": "[OnSucceedAttack] Inflige 3 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Ahogo"
                 }
               ]
             }
@@ -2470,14 +2470,14 @@
         },
         {
           "level": 3,
-          "name": "Pit'óm Yom 'Ekhád",
+          "name": "De repente, Un Día",
           "abName": "Gregor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Declive"
+                  "desc": "[OnSucceedAttack] Inflige 6 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Ahogo"
                 }
               ]
             }
@@ -2485,14 +2485,14 @@
         },
         {
           "level": 4,
-          "name": "Pit'óm Yom 'Ekhád",
+          "name": "De repente, Un Día",
           "abName": "Gregor",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Declive"
+                  "desc": "[OnSucceedAttack] Inflige 10 de un estado aleatorio entre Quemado, Sangrado, Tremor, Ruptura y Ahogo"
                 }
               ]
             }
@@ -2712,7 +2712,7 @@
         {
           "level": 1,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2727,7 +2727,7 @@
         {
           "level": 3,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2745,7 +2745,7 @@
         {
           "level": 4,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2768,7 +2768,7 @@
         {
           "level": 1,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2783,7 +2783,7 @@
         {
           "level": 3,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2801,7 +2801,7 @@
         {
           "level": 4,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2824,7 +2824,7 @@
         {
           "level": 1,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2842,7 +2842,7 @@
         {
           "level": 3,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2863,7 +2863,7 @@
         {
           "level": 4,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "",
           "coinlist": [
             {
@@ -2889,7 +2889,7 @@
         {
           "level": 1,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -2907,7 +2907,7 @@
         {
           "level": 3,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -2928,7 +2928,7 @@
         {
           "level": 4,
           "name": "Eléctro-Poste",
-          "abName": "Guardián Callejero",
+          "abName": "Guardián del Callejón",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -3566,13 +3566,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +2 al contador de Declive"
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +2 al contador de Ahogo"
                 }
               ]
             }
@@ -3587,13 +3587,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +3 al contador de Declive"
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +3 al contador de Ahogo"
                 }
               ]
             }
@@ -3631,7 +3631,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 4 de Ruptura"
@@ -3640,7 +3640,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +2 al contador de Declive y al contador de Ruptura"
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +2 al contador de Ahogo y al contador de Ruptura"
                 }
               ]
             }
@@ -3655,7 +3655,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 6 de Ruptura"
@@ -3664,7 +3664,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +3 al contador de Declive y al contador de Ruptura"
+                  "desc": "[CriticalOnSucceedAttack] Provoca Estallida de Tremor; Inflige +3 al contador de Ahogo y al contador de Ruptura"
                 }
               ]
             }
@@ -3678,7 +3678,7 @@
         {
           "level": 1,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[BeforeAttack] Gana +5 de Contador de Carga",
           "coinlist": [
             {
@@ -3693,7 +3693,7 @@
         {
           "level": 3,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[BeforeAttack] Gana +7 de Contador de Carga",
           "coinlist": [
             {
@@ -3708,7 +3708,7 @@
         {
           "level": 4,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[BeforeAttack] Gana +10 de Contador de Carga",
           "coinlist": [
             {
@@ -3728,7 +3728,7 @@
         {
           "level": 1,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[CantIdentify]\nPrioriza a las unidades con Carga\n[BeforeAttack] Gana +5 de Contador de Carga",
           "coinlist": [
             {
@@ -3743,7 +3743,7 @@
         {
           "level": 3,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[CantIdentify]\nPrioriza a las unidades con Carga\n[BeforeAttack] Gana +7 de Contador de Carga",
           "coinlist": [
             {
@@ -3758,7 +3758,7 @@
         {
           "level": 4,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[CantIdentify]\nPrioriza a las unidades con Carga\n[BeforeAttack] Gana +10 de Contador de Carga",
           "coinlist": [
             {
@@ -3778,7 +3778,7 @@
         {
           "level": 1,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 5)\nGana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
@@ -3793,7 +3793,7 @@
         {
           "level": 3,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 7)\nGana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
@@ -3813,7 +3813,7 @@
         {
           "level": 1,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 5)\nGana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
@@ -3831,7 +3831,7 @@
         {
           "level": 3,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 7)\nGana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
@@ -3849,7 +3849,7 @@
         {
           "level": 4,
           "name": "DDEA",
-          "abName": "Cienpiés de Choque",
+          "abName": "Ciempiés Eléctrico",
           "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana +1 de Contador de Carga por cada 10% de vida faltante (Max 7)\nGana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {

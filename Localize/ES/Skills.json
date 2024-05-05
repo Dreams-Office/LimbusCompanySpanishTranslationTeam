@@ -42,7 +42,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ahogo"
                 }
               ]
             }
@@ -57,7 +57,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -72,7 +72,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -93,7 +93,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Ahogo"
                 }
               ]
             }
@@ -109,7 +109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive; Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo; Inflige +1 de Contador de Ahogo"
                 }
               ]
             }
@@ -125,7 +125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Declive; Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 Ahogo; Inflige +1 de Contador de Ahogo"
                 }
               ]
             }
@@ -162,14 +162,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 }
               ]
             },
@@ -1923,7 +1923,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 }
               ]
             }
@@ -1937,7 +1937,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 }
               ]
             }
@@ -2486,7 +2486,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -2500,7 +2500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -2519,7 +2519,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ahogo"
                 }
               ]
             },
@@ -2540,7 +2540,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 }
               ]
             },
@@ -2561,7 +2561,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             },
@@ -2606,7 +2606,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 2 Poder de Ataque Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
@@ -2685,7 +2685,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rebanador Nubes",
+          "name": "Rebana Nubes",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -2707,7 +2707,7 @@
         },
         {
           "level": 2,
-          "name": "Rebanador Nubes",
+          "name": "Rebanador de Nubes",
           "desc": "[BeforeAttack] Si el objetivo tiene menos de 4 de Contador de Sangrado, usa la primera y segunda moneda una vez más",
           "keywords": [],
           "coinlist": [
@@ -2729,7 +2729,7 @@
         },
         {
           "level": 4,
-          "name": "Rebanador Nubes",
+          "name": "Rebanador de Nubes",
           "desc": "[BeforeAttack] Si el objetivo tiene menos de 4 de Contador de Sangrado, usa la primera y segunda moneda una vez más",
           "keywords": [],
           "coinlist": [
@@ -3020,7 +3020,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Abatir",
+          "name": "Aplastar",
           "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado el siguiente turno",
           "coinlist": [
             {
@@ -3034,7 +3034,7 @@
         },
         {
           "level": 2,
-          "name": "Abatir",
+          "name": "Aplastar",
           "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado y Daño Aumentado el siguiente turno",
           "coinlist": [
             {
@@ -3048,7 +3048,7 @@
         },
         {
           "level": 4,
-          "name": "Abatir",
+          "name": "Aplastar",
           "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado y Daño Aumentado el siguiente turno",
           "coinlist": [
             {
@@ -3080,7 +3080,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 }
               ]
             }
@@ -3501,7 +3501,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor; Inflige 1 de Frágil Contundente"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor; Inflige 1 de Frágil Contundente"
                 }
               ]
             }
@@ -3533,14 +3533,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ahogo"
                 }
               ]
             }
@@ -3554,7 +3554,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
@@ -3564,7 +3564,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Gana +2 de Contador de Carga"
@@ -3581,7 +3581,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
@@ -3591,7 +3591,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
@@ -3613,7 +3613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Ahogo"
                 }
               ]
             }
@@ -3627,7 +3627,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Ahogo"
                 }
               ]
             }
@@ -3641,7 +3641,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ahogo"
                 }
               ]
             }
@@ -3660,7 +3660,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 40% del Daño realizado"
@@ -3670,7 +3670,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 30% del Daño realizado"
@@ -3680,7 +3680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 20% del Daño realizado"
@@ -3690,7 +3690,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 10% del Daño realizado"
@@ -3707,7 +3707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 40% del Daño realizado"
@@ -3717,7 +3717,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 30% del Daño realizado"
@@ -3727,7 +3727,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 20% del Daño realizado"
@@ -3737,7 +3737,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 10% del Daño realizado"
@@ -4024,7 +4024,7 @@
         {
           "level": 4,
           "name": "Empujón",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\nSi el objetivo tiene 8+ de Tremor, Poder de Habilidad +2",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nSi el objetivo tiene 8+ de Tremor, Poder de Habilidad +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4109,7 +4109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 }
               ]
             },
@@ -4144,7 +4144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 }
               ]
             },
@@ -4187,7 +4187,7 @@
         {
           "level": 4,
           "name": "Protegerse",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\nCon 0 de Munición, gana 2 más de Agro",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nCon 0 de Munición, gana 2 más de Agro",
           "coinlist": [
             {}
           ]
@@ -4506,7 +4506,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Corte Limpio",
+          "name": "Corte Rebana Cielos",
           "desc": "Si el objetivo tiene 6+ de Sangrado, Duplica la probabilidad de crítico",
           "coinlist": [
             {
@@ -4520,7 +4520,7 @@
         },
         {
           "level": 4,
-          "name": "Corte Limpio",
+          "name": "Corte Rebana Cielos",
           "desc": "Si el objetivo tiene 6+ de Sangrado, Duplica la probabilidad de crítico\nAt 10+ de Temple, +100% Daño Critico",
           "coinlist": [
             {
@@ -4560,7 +4560,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Corte Limpio",
+          "name": "Corte Rebana Cielos",
           "desc": "Si el objetivo tiene 6+ de Sangrado, Duplica la probabilidad de crítico",
           "coinlist": [
             {
@@ -4574,7 +4574,7 @@
         },
         {
           "level": 4,
-          "name": "Corte Limpio",
+          "name": "Corte Rebana Cielos",
           "desc": "Si el objetivo tiene 6+ de Sangrado, Duplica la probabilidad de crítico\ncon 10+ de Temple, +100% Daño Critico",
           "coinlist": [
             {
@@ -5153,7 +5153,7 @@
         {
           "level": 4,
           "name": "Suprimir",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Inflige 6 de Tremor",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 6 de Tremor",
           "coinlist": [
             {},
             {
@@ -5181,7 +5181,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Frágil Contundente"
@@ -5193,12 +5193,12 @@
         {
           "level": 4,
           "name": "Golpe Fuerte",
-          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos PV el siguiente turno\n[WhenUse] Gana +10 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos PV el siguiente turno\n[WhenUse] Gana +10 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Tremor sobre [VibrationExplosion], gana 2 de Protección el siguiente turno"
@@ -5226,7 +5226,7 @@
         {
           "level": 4,
           "name": "Protegerse",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -5244,7 +5244,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ahogo"
                 }
               ]
             },
@@ -5259,7 +5259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 4 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de Ahogo"
                 }
               ]
             },
@@ -5269,12 +5269,12 @@
         {
           "level": 4,
           "name": "Baile y Rola",
-          "desc": "Si el objetivo tiene 4+ de Declive, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 4+ de Ahogo, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Ahogo"
                 }
               ]
             },
@@ -5301,14 +5301,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 }
               ]
             }
@@ -5332,17 +5332,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -5351,7 +5351,7 @@
         {
           "level": 4,
           "name": "Danza de Pasión",
-          "desc": "Si el objetivo tiene 6+ de Declive, Poder de Moneda +2",
+          "desc": "Si el objetivo tiene 6+ de Ahogo, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5366,17 +5366,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 }
               ]
             }
@@ -5771,7 +5771,7 @@
         {
           "level": 4,
           "name": "Orden",
-          "desc": "Si el objetivo tiene 5+ Declive, Poder de Moneda +2",
+          "desc": "Si el objetivo tiene 5+ Ahogo, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5842,7 +5842,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido"
@@ -5859,13 +5859,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 4 de Declive"
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de Ahogo"
                 }
               ]
             }
@@ -6531,7 +6531,7 @@
         {
           "level": 4,
           "name": "Impulso",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\nCon menos de 50% PV, Poder de Moneda +2",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nCon menos de 50% PV, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -6604,7 +6604,7 @@
         {
           "level": 4,
           "name": "Quedas Limpio de Pecado",
-          "desc": "[WhenUse] Gana +6 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +6 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -6654,7 +6654,7 @@
         {
           "level": 4,
           "name": "Aniquilar Herejes",
-          "desc": "[WhenUse] Gana +6 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +6 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -7793,7 +7793,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Puedo Concinarlo Todo",
+          "name": "Puedo Cocinarlo Todo",
           "desc": "Potencia el Daño por el 5% de la vida faltante del objetivo (Máx 20)",
           "coinlist": [
             {
@@ -8322,7 +8322,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 }
               ]
             }
@@ -8336,7 +8336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
                   "desc": "+20% de Daño a objetivos con 5+ Clavos"
@@ -8353,7 +8353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
                 },
                 {
                   "desc": "+30% de Daño a objetivos con 5+ Clavos"
@@ -8551,8 +8551,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallido de Tremor\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1",
-                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallido de Tremor, entonces reduce el Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallida de Tremor\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1",
+                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallida de Tremor, entonces reduce el Contador de Tremor"
                 }
               ]
             }
@@ -8573,8 +8573,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallido de Tremor\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1",
-                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallido de Tremor, entonces reduce el Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallida de Tremor\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1",
+                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallida de Tremor, entonces reduce el Contador de Tremor"
                 }
               ]
             }
@@ -8595,8 +8595,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallido de Tremor\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1",
-                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallido de Tremor, entonces reduce el Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallida de Tremor\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1",
+                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallida de Tremor, entonces reduce el Contador de Tremor"
                 }
               ]
             }
@@ -8625,14 +8625,14 @@
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor.\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor.\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor.\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor.\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1"
                 },
                 {
                   "desc": "[OnSucceedAttack] si el objetivo está Aturdido, 25% de Daño como Daño extra"
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nCuando provoca Estallido de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
-                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nCuando provoca Estallida de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
+                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
                 }
               ]
             }
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nCuando provoca Estallido de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
-                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nCuando provoca Estallida de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
+                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
                 }
               ]
             }
@@ -9011,7 +9011,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
                 }
               ]
             },
@@ -9045,7 +9045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
                 }
               ]
             },
@@ -9098,17 +9098,17 @@
         {
           "level": 1,
           "name": "Paraguazo",
-          "desc": "[WhenUse] Gana +1 de Contador de Declive",
+          "desc": "[WhenUse] Gana +1 de Contador de Ahogo",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttackTail] Inflige +1 de Contador de Ahogo"
                 }
               ]
             }
@@ -9117,17 +9117,17 @@
         {
           "level": 2,
           "name": "Paraguazo",
-          "desc": "[WhenUse] Gana +1 de Contador de Declive",
+          "desc": "[WhenUse] Gana +1 de Contador de Ahogo",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de Declive"
+                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de Ahogo"
                 }
               ]
             }
@@ -9136,17 +9136,17 @@
         {
           "level": 4,
           "name": "Paraguazo",
-          "desc": "[WhenUse] Gana +1 de Contador de Declive\n[DefeatDuel] Gana 3 de Declive",
+          "desc": "[WhenUse] Gana +1 de Contador de Ahogo\n[DefeatDuel] Gana 3 de Ahogo",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de Declive"
+                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de Ahogo"
                 }
               ]
             }
@@ -9180,7 +9180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttackTail] Provoca Estallida de Tremor"
                 }
               ]
             }
@@ -9209,10 +9209,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Gasta 5 de Declive para realizar un +20% de daño extra"
+                  "desc": "Gasta 5 de Ahogo para realizar un +20% de daño extra"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttackTail] Provoca Estallida de Tremor"
                 }
               ]
             }
@@ -9241,10 +9241,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Gasta 5 de Declive para realizar un +20% de daño extra"
+                  "desc": "Gasta 5 de Ahogo para realizar un +20% de daño extra"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttackTail] Provoca Estallida de Tremor"
                 }
               ]
             }
@@ -9258,7 +9258,7 @@
         {
           "level": 1,
           "name": "¡Extensión!",
-          "desc": "[WhenUse] Gana 6 de Declive y +3 de Contador de Declive",
+          "desc": "[WhenUse] Gana 6 de Ahogo y +3 de Contador de Ahogo",
           "coinlist": [
             {
               "coindescs": [
@@ -9288,7 +9288,7 @@
         {
           "level": 1,
           "name": "Aviso",
-          "desc": "[WhenUse] Gana 3 de Declive",
+          "desc": "[WhenUse] Gana 3 de Ahogo",
           "coinlist": [
             {
               "coindescs": [
@@ -9300,7 +9300,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
@@ -9312,7 +9312,7 @@
         {
           "level": 4,
           "name": "Aviso",
-          "desc": "[WhenUse] Gana 5 de Declive",
+          "desc": "[WhenUse] Gana 5 de Ahogo",
           "coinlist": [
             {
               "coindescs": [
@@ -9324,7 +9324,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
@@ -9347,14 +9347,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Ahogo el siguiente turno"
                 }
               ]
             }
@@ -9369,14 +9369,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo el siguiente turno"
                 }
               ]
             }
@@ -9391,14 +9391,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ahogo el siguiente turno"
                 }
               ]
             }
@@ -9417,21 +9417,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             }
@@ -9445,21 +9445,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             }
@@ -9468,26 +9468,26 @@
         {
           "level": 4,
           "name": "Brisa Fugaz de Flores",
-          "desc": "[StartBattle] Gasta 6 de Contador de Tremor para convertirla en una habilidad AdE con 3 de Alcance de Atq\nIf main target has 6+ de Contador de Declive, Poder de Moneda +1",
+          "desc": "[StartBattle] Gasta 6 de Contador de Tremor para convertirla en una habilidad AdE con 3 de Alcance de Atq\nIf main target has 6+ de Contador de Ahogo, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Declive el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahogo el siguiente turno"
                 }
               ]
             }
@@ -9506,21 +9506,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ Declive, causa Diluvio"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ Ahogo, causa Diluvio"
                 },
                 {
                   "desc": "[OnSucceedAttack] si el objetivo tiene 10+ de Contador de Tremor, Realiza 30% del Daño realizado como Daño extra"
@@ -9537,21 +9537,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ahogo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ Declive, causa Diluvio"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ Ahogo, causa Diluvio"
                 },
                 {
                   "desc": "[OnSucceedAttack] si el objetivo tiene 10+ de Contador de Tremor, 40% de Daño realizado como Daño extra"
@@ -9568,7 +9568,7 @@
         {
           "level": 1,
           "name": "Dispersión de Aroma",
-          "desc": "[OnSucceedEvade] Inflige 1 de Declive",
+          "desc": "[OnSucceedEvade] Inflige 1 de Ahogo",
           "coinlist": [
             {}
           ]
@@ -9612,7 +9612,7 @@
         {
           "level": 4,
           "name": "¡Que Pesado...!",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Inflige 2 de Tremor y 2 de Ruptura",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 2 de Tremor y 2 de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -9676,7 +9676,7 @@
         {
           "level": 4,
           "name": "¡Se Agita...!",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Inflige 3 Tremor y 3 de Ruptura",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 3 Tremor y 3 de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -9707,7 +9707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nDespues de provocar Estallido de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nDespues de provocar Estallida de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
                 }
               ]
             }
@@ -9716,12 +9716,12 @@
         {
           "level": 4,
           "name": "Salpicadura Corrosiva",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Inflige 5 de Tremor y 5 de Ruptura",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 5 de Tremor y 5 de Ruptura",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nDespues de provocar Estallido de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
+                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nDespues de provocar Estallida de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
                 }
               ]
             }
@@ -9743,7 +9743,7 @@
         {
           "level": 4,
           "name": "Protegerse",
-          "desc": "[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "Impedir Intrusión",
-          "desc": "Si el objetivo tiene 5+ Ruptura, Poder de Moneda +3\n[WhenUse] Gana +5 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "Si el objetivo tiene 5+ Ruptura, Poder de Moneda +3\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -9827,7 +9827,7 @@
         {
           "level": 4,
           "name": "Cuchilla Desintegradora",
-          "desc": "[WhenUse] Gana +5 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -9908,7 +9908,7 @@
         {
           "level": 4,
           "name": "Injección de Ámpula",
-          "desc": "[WhenUse] Gana 1 de Ámpula de K Corp el siguiente turno\n[WhenUse] Gana +5 de Agro para esta ranura de habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana 1 de Ámpula de K Corp el siguiente turno\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -10658,7 +10658,7 @@
         {
           "level": 4,
           "name": "Obstrucción Caustelosa",
-          "desc": "[WhenUse] Gana +2 de Agro para esta ranura de habilidad el siguiente turno\n[DefeatDuel] Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Gana +2 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Gana +2 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -10707,7 +10707,7 @@
         {
           "level": 4,
           "name": "Defensa Concentrada",
-          "desc": "[WhenUse] Con 15+ de escudo, Gana +2 de Contador de Temple\n[WhenUse] Gana +4 de Agro para esta ranura de habilidad el siguiente turno\n[WhenUse] Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Con 15+ de escudo, Gana +2 de Contador de Temple\n[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana +2 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -10783,7 +10783,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WhenUse] Gana +5 de Agro para esta ranura de habilidad el siguiente turno"
+                  "desc": "[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno"
                 }
               ]
             }

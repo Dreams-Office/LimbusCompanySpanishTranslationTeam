@@ -62,7 +62,7 @@
     {
       "id": "SelfHarm_LowMorale",
       "name": "Perseverante (Baja Moral)",
-      "desc": "Inicio de Turno: Gana 2 de Rapidez y 2 de Frágilidad.",
+      "desc": "Inicio de Turno: Gana 2 de Rapidez y 2 de Fragilidad.",
       "undefined": "-"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "Blame_LowMorale",
       "name": "Sobresaliente (Baja Moral)",
-      "desc": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado y 2 de Frágilidad.",
+      "desc": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado y 2 de Fragilidad.",
       "undefined": "-"
     },
     {
@@ -288,9 +288,9 @@
     },
     {
       "id": "Sinking",
-      "name": "Declive",
+      "name": "Ahogo",
       "desc": "Las siguientes {1} veces que esta unidad es golpeada, recibe {0} de daño fijo a los PC. (Unidades sin Cordura reciben daño de Melancolía)",
-      "summary": "{0} Daño de Declive"
+      "summary": "{0} Daño de Ahogo"
     },
     {
       "id": "Breath",
@@ -628,7 +628,7 @@
     {
       "id": "Choice_901001",
       "name": "Propagación de Llama",
-      "desc": "Inicio de Turno: Aliados sin Ataques con Afinidad de Ira reciben 5 Daño de Ira"
+      "desc": "Al inicio del siguiente Encuentro, los aliados sin Afinidad de Ira reciben 5 de Daño de Ira"
     },
     {
       "id": "Choice_901007",
@@ -639,7 +639,7 @@
     {
       "id": "Choice_901009",
       "name": "Fotopía",
-      "desc": "Inicio de Combate: Poder Final de la Habilidad -1.",
+      "desc": "Todas las unidades pierden 1 de Poder Final para el siguiente Encuentro.",
       "summary": "Poder Final de Habilidad -1"
     },
     {
@@ -673,7 +673,7 @@
     },
     {
       "id": "Assemble",
-      "name": "Fánatico",
+      "name": "Fanático",
       "desc": "Poder Final de la Habilidad +{0} contra unidades con Clavos este turno. (Aplica igualmente para Choques)",
       "summary": "Poder Final +{0}"
     },
@@ -746,8 +746,8 @@
     {
       "id": "Enrage",
       "name": "Frenzy",
-      "desc": "Gana 3 de Poder de Ataque Aumentado and 3 de Frágilidad this turn, and change behavior. Does not gain Instincts when attacked.",
-      "summary": "Gana 3 de Poder de Ataque Aumentado & 3 de Frágilidad"
+      "desc": "Gana 3 de Poder de Ataque Aumentado and 3 de Fragilidad this turn, and change behavior. Does not gain Instincts when attacked.",
+      "summary": "Gana 3 de Poder de Ataque Aumentado & 3 de Fragilidad"
     },
     {
       "id": "Aggressive",
@@ -798,7 +798,7 @@
     },
     {
       "id": "AmberTakeDamageDown",
-      "name": "Sloth Protection",
+      "name": "Protección de Pereza",
       "desc": "Take -{0}0% damage from Sloth skills this turn. (Max 100%)",
       "summary": "Sloth Daño Recibido -{0}0%"
     },
@@ -828,7 +828,7 @@
     },
     {
       "id": "SlashTakeDamageUp",
-      "name": "Slash Fragility",
+      "name": "Fragilidad Cortante",
       "desc": "Take +{0}0% damage from Slash skills this turn. (Max 100%)",
       "summary": "Slash Daño Recibido +{0}0%"
     },
@@ -900,14 +900,14 @@
     },
     {
       "id": "AssemblePersonality",
-      "name": "Fanatic",
+      "name": "Fanático",
       "desc": "Poder Final de Habilidad +{0} against units with Nails este turno. (Applies to clashes as well)",
       "summary": "Poder Final +{0}"
     },
     {
       "id": "MarkOfHeresy",
       "name": "Gaze",
-      "desc": "Take +20% damage from Pierce and Blunt skills this turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is from N Corp, also apply 1 Fanatic next turn.",
+      "desc": "Take +20% damage from Pierce and Blunt skills this turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is from N Corp, also apply 1 Fanático next turn.",
       "summary": "Pierce & Blunt Daño Recibido +20%"
     },
     {
@@ -936,7 +936,7 @@
     },
     {
       "id": "VioletResultUp",
-      "name": "Envy Power Up",
+      "name": "Poder de Envidia Aumentado",
       "desc": "Envy Poder Final de Habilidad +{0} este turno.",
       "summary": "Envy Poder Final de Habilidad +{0}"
     },
@@ -1180,13 +1180,13 @@
       "summary": "Deal 50% of Daño Recibido to attacker"
     },
     {
-      "id": "de Frágilidad_Mind_LowMorale",
+      "id": "Fragile_Mind_LowMorale",
       "name": "Perilous Heart",
       "desc": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado and 3 Bind",
       "summary": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado and 3 Bind"
     },
     {
-      "id": "de Frágilidad_Mind_Panic",
+      "id": "de Fragilidad_Mind_Panic",
       "name": "Faltering Heart",
       "desc": "In panic, become staggered.",
       "summary": "In panic, become staggered."
@@ -1194,8 +1194,8 @@
     {
       "id": "ErodingMind",
       "name": "Corroding Heart",
-      "desc": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Frágilidad, and 5 Bind",
-      "summary": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Frágilidad, and 5 Bind"
+      "desc": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Fragilidad, and 5 Bind",
+      "summary": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Fragilidad, and 5 Bind"
     },
     {
       "id": "Blue_LowMorale",
@@ -1315,7 +1315,7 @@
     {
       "id": "EgoAwakenDongrangOverHeal",
       "name": "Overheal",
-      "desc": "Count rises by the amount of HP Dongrang caused to heal; at 50+ Count, take Gluttony damage by the effect's Count, gana 5 de Frágilidad, and remove the effect."
+      "desc": "Count rises by the amount of HP Dongrang caused to heal; at 50+ Count, take Gluttony damage by the effect's Count, gana 5 de Fragilidad, and remove the effect."
     },
     {
       "id": "SinkingSurge",
@@ -1325,7 +1325,7 @@
     {
       "id": "Blue",
       "name": "Tears",
-      "desc": "Turn End: Lose 5 SP\nTails Coins Inflige 2 de Declive"
+      "desc": "Turn End: Lose 5 SP\nTails Coins Inflige 2 de Ahogo"
     },
     {
       "id": "AmberResultUp",
@@ -1472,12 +1472,12 @@
     },
     {
       "id": "MentalSystemResultIncrease_Typo",
-      "name": "SP Heal Efficiency",
+      "name": "Eficiencia en Cura de PC",
       "desc": "Amount of SP healed from SP heal conditions"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
-      "name": "SP Loss Efficiency",
+      "name": "Eficiencia en Pérdida de PC",
       "desc": "Amount of SP lost from SP loss conditions"
     },
     {
@@ -1518,7 +1518,7 @@
     {
       "id": "PseudoLastBoss_KingCrap",
       "name": "Crab Rage",
-      "desc": "At the start of the turn, apply de Poder de Ataque Aumentado to all other allied crabs, and gana 2 Protection if its Shell isn't broken.\n-5 SP to target when using a skill.\nAt 50%- HP, every part gains 2 de Poder de Ataque Aumentado and 2 de Frágilidad."
+      "desc": "At the start of the turn, apply de Poder de Ataque Aumentado to all other allied crabs, and gana 2 Protection if its Shell isn't broken.\n-5 SP to target when using a skill.\nAt 50%- HP, every part gains 2 de Poder de Ataque Aumentado and 2 de Fragilidad."
     },
     {
       "id": "ChargeForceField",
@@ -1527,7 +1527,7 @@
     },
     {
       "id": "SlashResultUp",
-      "name": "Slash Power Up",
+      "name": "Poder Cortante Aumentado",
       "desc": "Slash Poder Final de Habilidad +{0} este turno.",
       "summary": "Slash Poder Final de Habilidad +{0}"
     },
@@ -1652,7 +1652,7 @@
     },
     {
       "id": "RetaliationBook",
-      "name": "Vengeance Mark",
+      "name": "Marca de Venganza",
       "desc": "Applied to the unit that dealt the most damage to an ally (Max 1)",
       "undefined": "-"
     },
@@ -1735,19 +1735,19 @@
     },
     {
       "id": "BladeResultUpTier1",
-      "name": "Sword of the Homeland - Rending",
+      "name": "Espada de la Patría - Desgarro",
       "desc": "Skill 1 Final Power +{0} for this turn.",
       "summary": "Skill 1 Final Power +{0}"
     },
     {
       "id": "BladeResultUpTier2",
-      "name": "Sword of the Homeland - Penetrating",
+      "name": "Espada de la Patría - Penetrante",
       "desc": "Skill 2 Final Power +{0} for this turn.",
       "summary": "Skill 2 Final Power +{0}"
     },
     {
       "id": "SwordPlayOfTheHomeland",
-      "name": "Swordplay of the Homeland",
+      "name": "Juego de Espadas Patriótico",
       "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit",
       "summary": "Enhance Skill when over a certain Poise threshold"
     },
@@ -1886,15 +1886,50 @@
     },
     {
       "id": "Switch_Vibration",
-      "name": "Amplitude Conversion",
+      "name": "Conversión de Amplitud",
       "desc": "Converts Tremor or already converted Tremor on target to a different type of Tremor.\nPotency and Count values do not change over the conversion."
     },
     {
       "id": "MarkOfButler",
-      "name": "B.M.",
+      "name": "M.M.",
       "desc": "Enhances Edgar Family Chief Butler Ryōshū Skills against targets with this effect.\nReduced by 1 at Turn End",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "LibrarianOfHistoryNormal",
+      "name": "Assistant Librarian of History",
+      "desc": "- Skill Slot +1\n- Heal 15 SP at Turn Start\n- Inflicts double the amount of Potency & Count for Burn, Bleed, Rupture, Sinking, and Tremor. (applies to 'Unique' Status effects as well)",
+      "summary": ""
+    },
+    {
+      "id": "PreparedMeat",
+      "name": "Prepared Meat",
+      "desc": "If conditions are met, Fairy Queen kills this unit at Turn End"
+    },
+    {
+      "id": "Hunger",
+      "name": "Hunger",
+      "desc": "Turn End: gain 1 if this unit failed to defeat an ally with Prepared Meat.\nAt 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: lose 1 if this unit defeated an ally with Prepared Meat.\nAt 0 value, gain (# of allies defeated x 3)Attack Power Down and Defense Power Down.",
+      "summary": ""
+    },
+    {
+      "id": "UnstableFeeling",
+      "name": "Volatile Passion",
+      "desc": "- On Hit, inflict 1 Burn\n- If the main target has Burn, Final Power +1\n- If this unit has a Defense Skill chained at Combat Start, inflict 1 Burn per hit against the attacker for the turn\n- Turn End: lose ({0} x 5) SP. (Max SP loss : 40)",
+      "summary": " "
+    },
+    {
+      "id": "LibrarianOfHistoryHard",
+      "name": "Librarian of History",
+      "desc": "- Skill Slot +1\n- Heal 15 SP at Turn Start\n- Inflicts double the amount of Potency & Count for Burn, Bleed, Rupture, Sinking, and Tremor. (applies to 'Unique' Status effects as well)\n- When an enemy is defeated, 2 allies(including this unit) with the least SP heal 25 SP.\n- On Kill, gain +2 E.G.O resource for the Affinity that defeated the enemy; +1 to all E.G.O resources",
+      "summary": ""
+    },
+    {
+      "id": "PriceOfCare",
+      "name": "Bottomless Hunger",
+      "desc": "Fairy Mass Devoured: {0}",
+      "summary": ""
     }
   ]
 }

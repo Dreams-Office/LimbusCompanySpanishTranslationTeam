@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Checking the Book",
+          "name": "Revisando el Libro",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -26,20 +26,20 @@
         },
         {
           "level": 2,
-          "name": "Checking the Book",
-          "desc": "[WhenUse] Heal 5 SP on self",
+          "name": "Revisando el Libro",
+          "desc": "[WhenUse] Cura 5 PC a sí mismo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -47,20 +47,20 @@
         },
         {
           "level": 4,
-          "name": "Checking the Book",
-          "desc": "[WhenUse] Heal 5 SP on self",
+          "name": "Revisando el Libro",
+          "desc": "[WhenUse] Cura 5 PC a sí mismo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -73,8 +73,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proof of Loyalty",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (Highest A-Reson./3) (Max 4)",
+          "name": "Prueba de Lealtad",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson-A más alta/3) (Máx 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -84,10 +84,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Damage Down"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Daño Reducido"
                 }
               ]
             }
@@ -95,8 +95,8 @@
         },
         {
           "level": 2,
-          "name": "Proof of Loyalty",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)",
+          "name": "Prueba de Lealtad",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson-A más alta/3) (Máx 4)\nSi la Reson-A más alta es Envidia, Gana un 50% adicional de 'Nivel Ofensivo' para el 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)",
           "coinlist": [
             {
               "coindescs": [
@@ -106,10 +106,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Damage Down"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Daño Reducido"
                 }
               ]
             }
@@ -117,8 +117,8 @@
         },
         {
           "level": 4,
-          "name": "Proof of Loyalty",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the 'Offense Level' gained by the above effect by 50% (rounded down)\nGain double the 'Offense Level' from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
+          "name": "Prueba de Lealtad",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson-A más alta/2) (Máx 6)\nSi la Reson-A más alta es Envidia, Gana un 50% adicional de 'Nivel Ofensivo' para el 'Nivel Ofensivo' obtenido por los efectos anteriores en Encuentros Centrados con 7 o menos Límite de Participantes.",
           "coinlist": [
             {
               "coindescs": [
@@ -128,10 +128,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Damage Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Daño Reducido"
                 }
               ]
             }
@@ -144,34 +144,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (Highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional ''Offense Level'' to the ''Offense Level'' gained by the above effect (rounded down)",
+          "name": "Una Justa Venganza",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson-A más alta/3) (Máx 4)\nSi la Reson-A más alta es Envidia, Gana un 50% adicional de 'Nivel Ofensivo' para el 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is defeated, 1 ally with the least SP heals 6 SP"
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con la menor PC se cura 6 PC"
                 }
               ]
             }
@@ -179,34 +179,34 @@
         },
         {
           "level": 4,
-          "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson., boost the 'Offense Level' gained by the above effect by 50% (rounded down)\nGain double the 'Offense Level' from the above effects in Focused Encounters with 7 or fewer Participant Limits.",
+          "name": "Una Justa Venganza",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson-A más alta/2) (Máx 6)\nSi la Reson-A más alta es Envidia, Gana un 50% adicional de 'Nivel Ofensivo' para el 'Nivel Ofensivo' obtenido por los efectos anteriores en Encuentros Centrados con 7 o menos Límite de Participantes.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is defeated, 1 ally with the least SP heals 6 SP"
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con la menor PC se cura 6 PC"
                 }
               ]
             }
@@ -219,20 +219,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multifold Retribution",
+          "name": "Retribución Múltiple",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 3"
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario en 3"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 3"
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario en 3"
                 }
               ]
             }
@@ -240,20 +240,20 @@
         },
         {
           "level": 4,
-          "name": "Multifold Retribution",
-          "desc": "[StartBattle] If at 6+ Envy A-Reson including this Skill, use 'A Just Vengeance' as Counter.\nUpon activating the above effect, the Skill's affinity is changed to Envy.\n(Leftmost 'Multifold Retribution' is activated first. Activates 2 times per turn)",
+          "name": "Retribución Múltiple",
+          "desc": "[StartBattle] Al tener 6+ Reson-A de Envidia incluyendo esta Habilidad, usa 'Una Justa Venganza' como Contraataque.\nAl activar el efecto anterior, la afinidad de la Habilidad es cambiada a Envidia.\n(La 'Retribución Múltiple' más a la izquierda es activada primero. Se activa 2 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 5"
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario en 5"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lower user's Stagger Threshold by 5"
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario en 5"
                 }
               ]
             }
@@ -266,34 +266,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./3) (Max 4)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)",
+          "name": "Una Justa Venganza",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson-A más alta/3) (Máx 4)\nSi la Reson-A más alta es Envidia, Gana un 50% adicional de 'Nivel Ofensivo' para el 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is defeated, 1 ally with the least SP heals 6 SP"
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con la menor PC se cura 6 PC"
                 }
               ]
             }
@@ -302,33 +302,33 @@
         {
           "level": 4,
           "name": "A Just Vengeance",
-          "desc": "[StartBattle] This Skill gains 1 'Offense Level' by (highest A-Reson./2) (Max 6)\nIf the highest A-Reson is Envy A-Reson, Gain 50% additional 'Offense Level' to the 'Offense Level' gained by the above effect (rounded down)\nGain double the 'Offense Level' from above effects in encounters with 6 or fewer Participant Limits.",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson-A más alta/2) (Máx 6)\nSi la Reson-A más alta es Envidia, Gana un 50% adicional de 'Nivel Ofensivo' para el 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)\nGana el doble de 'Nivel Ofensivo' de los efectos anteriores en encuentros con 6 o menos Límite de Participantes.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] If target is defeated, 1 ally with the least SP heals 6 SP"
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con la menor PC se cura 6 PC"
                 }
               ]
             }
@@ -341,13 +341,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Nibble Thee!",
+          "name": "¡He de Mordisquearté!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de [Burst]"
                 }
               ]
             }
@@ -355,13 +355,13 @@
         },
         {
           "level": 2,
-          "name": "I Shall Nibble Thee!",
-          "desc": "[WhenUse] Gain +1 [Aggro] to this Skill Slot next turn",
+          "name": "¡He de Mordisquearté!",
+          "desc": "[WhenUse] Gana +1 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Burst]"
                 }
               ]
             }
@@ -369,13 +369,13 @@
         },
         {
           "level": 4,
-          "name": "I Shall Nibble Thee!",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn",
+          "name": "¡He de Mordisquearté!",
+          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Burst]"
                 }
               ]
             }
@@ -388,27 +388,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flashing Lure",
+          "name": "Señuelo Destellante",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Burst]"
                 }
               ]
             }
@@ -416,30 +416,30 @@
         },
         {
           "level": 2,
-          "name": "Flashing Lure",
-          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn",
+          "name": "Señuelo Destellante",
+          "desc": "[WhenUse] Gana +2 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 2 or less [Burst] Count, inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 2 o menos Contador de [Burst], Inflige +2 de Contador de [Burst]"
                 }
               ]
             }
@@ -447,30 +447,30 @@
         },
         {
           "level": 4,
-          "name": "Flashing Lure",
-          "desc": "[WhenUse] Gain +4 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
+          "name": "Señuelo Destellante",
+          "desc": "[WhenUse] Gana +4 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 2 or less [Burst] Count, inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 2 o menos Contador de [Burst], Inflige +3 de Contador de [Burst] "
                 }
               ]
             }
@@ -483,13 +483,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Whirlwind Om-Nom-Nom!",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn ",
+          "name": "¡Ciclón Om-Ñom-Ñom!",
+          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno ",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Burst] "
                 }
               ]
             },
@@ -497,13 +497,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 HP."
+                  "desc": "[OnSucceedAttack] Cura 10 PV."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal additional HP based on [Burst] on target (1 HP healed per 1 [Burst]. Max 20)"
+                  "desc": "[OnSucceedAttack] Cura PV adicional basado en la [Burst] del objetivo (1 PV curado cada 1 de [Burst]. Máx 20)"
                 },
                 {
-                  "desc": "At 50%- HP, reuse Coin once"
+                  "desc": "Con menos de 50% PV, Reusa esta Moneda una vez más"
                 }
               ]
             }
@@ -511,13 +511,13 @@
         },
         {
           "level": 4,
-          "name": "Whirlwind Om-Nom-Nom!",
-          "desc": "[WhenUse] Gain +5 [Aggro] to this Skill Slot next turn\n[WhenUse] If target has 6+ [Burst], Coin Power +1",
+          "name": "¡Ciclón Om-Ñom-Ñom!",
+          "desc": "[WhenUse] Gana +5 [Aggro] para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Burst] "
                 }
               ]
             },
@@ -528,10 +528,10 @@
                   "desc": "[OnSucceedAttack] Heal 15 HP. Heal by +50% more HP when reusing Coin."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal additional HP based on [Burst] on target (2 HP healed per 1 [Burst]. Max 40)"
+                  "desc": "[OnSucceedAttack] Cura PV adicional basado en la [Burst] del objetivo (2 PV curado cada 1 de [Burst]. Máx 40)"
                 },
                 {
-                  "desc": "At 50%- HP, reuse Coin once"
+                  "desc": "Con menos de 50% PV, Reusa esta Moneda una vez más"
                 }
               ]
             }
@@ -544,8 +544,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chattering Teeth",
-          "desc": "[EndBattle] Heal HP equal to remaining Shield HP (Once per turn. Max Heal amount: 10% of Max HP)",
+          "name": "Dientes Dentellantes",
+          "desc": "[EndBattle] Cura PV igual a los PV restantes del Escudo (Una vez por turno. Curación Máx: 10% de los PV)",
           "coinlist": [
             {
               "coindescs": [
@@ -558,8 +558,8 @@
         },
         {
           "level": 4,
-          "name": "Chattering Teeth",
-          "desc": "[WhenUse] If target has 6+ [Burst], Final Power +3\n[EndBattle] Heal HP equal to remaining Shield HP (Once per turn. Max Heal amount: 10% of Max HP)",
+          "name": "Dientes Dentellantes",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder Final +3\n[EndBattle] Cura PV igual a los PV restantes del Escudo (Una vez por turno. Curación Máx: 10% de los PV)",
           "coinlist": [
             {
               "coindescs": [
@@ -577,20 +577,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desenvainar la Espada",
+          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
                 }
               ]
             }
@@ -598,20 +598,20 @@
         },
         {
           "level": 2,
-          "name": "Draw of the Sword",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desenvainar la Espada",
+          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
                 }
               ]
             }
@@ -619,20 +619,20 @@
         },
         {
           "level": 4,
-          "name": "Draw of the Sword",
-          "desc": "<style=\"highlight\">At 5+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desenvainar la Espada",
+          "desc": "<style=\"highlight\">Con 5+ de [Breath] en sí mismo, Poder de Moneda +1\n</style>[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             }
@@ -645,20 +645,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blade Arc",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Hoja Pendular",
+          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 1 ally either with no [Breath] or with the least [Breath] Potency, apply 2 [Breath]"
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de [Breath] a un aliado sin [Breath] o con menos Potencia de [Breath]"
                 }
               ]
             }
@@ -666,20 +666,20 @@
         },
         {
           "level": 2,
-          "name": "Blade Arc",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Hoja Pendular",
+          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 1 ally either with no [Breath] or with the least [Breath] Potency, apply 2 [Breath]"
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de [Breath] a un aliado sin [Breath] o con menos Potencia de [Breath]"
                 }
               ]
             }
@@ -687,20 +687,20 @@
         },
         {
           "level": 4,
-          "name": "Blade Arc",
-          "desc": "<style=\"highlight\">At 7+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain +2 [Breath] Count",
+          "name": "Hoja Pendular",
+          "desc": "<style=\"highlight\">Con 7+ de [Breath] en sí mismo, Poder de Moneda +1\n</style>[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 1 ally either with no [Breath] or with the least [Breath] Potency, apply 2 [Breath]\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath]</style>"
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de [Breath] a un aliado sin [Breath] o con menos Potencia de [Breath]\n<style=\"highlight\">Si el aliado afectado es del Linaje de la Espada, Aplica 2 de [Breath] adicional"
                 }
               ]
             }
@@ -713,30 +713,30 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Fare Thee Well!",
-          "desc": "[WhenUse] Gain 5 [Breath]",
+          "name": "¡Que Os Vaya Bien!",
+          "desc": "[WhenUse] Gana 5 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] La Moneda final realiza +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] La Moneda final realiza +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply 2 [Breath] Count"
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de Contador de [Breath] a 2 aliados sin [Breath] o con menos Contador de [Breath]"
                 },
                 {
-                  "desc": "[EndSkill] If the target is defeated, gain 1 [SlashDamageUp] next turn"
+                  "desc": "[EndSkill] Si el objetivo es derrotado, gana 1 de [SlashDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -744,33 +744,33 @@
         },
         {
           "level": 4,
-          "name": "Fare Thee Well!",
-          "desc": "<style=\"highlight\">At 10+ [Breath] on self, Coin Power +1\n</style>[WhenUse] Gain 5 [Breath]",
+          "name": "¡Que Os Vaya Bien!",
+          "desc": "<style=\"highlight\">Con 10+ de [Breath] en sí mismo, Poder de Moneda +1\n</style>[WhenUse] Gana 5 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] La Moneda final realiza +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] The final Coin deals +10% damage"
+                  "desc": "[OnSucceedAttackHead] La Moneda final realiza +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% de Daño en un Golpe Crítico"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] To 2 allies either with no [Breath] or with the least [Breath] Count, apply 2 [Breath] Count.\n<style=\"highlight\">If the affected ally is from the Blade Lineage, apply 2 additional [Breath] Count</style>"
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de Contador de [Breath] a 2 aliados sin [Breath] o con menos Contador de [Breath].\n<style=\"highlight\">Si el aliado afectado es del Linaje de la Espada, Aplica 2 de [Breath] adicional</style>"
                 },
                 {
-                  "desc": "[EndSkill] If the target is defeated, <style=\"highlight\">apply 1 [SlashDamageUp] to self and 1 random other ally next turn</style>"
+                  "desc": "[EndSkill] Si el objetivo es derrotado, <style=\"highlight\">aplica 1 de [SlashDamageUp] en sí mismo y a otro aliado aleatorio el siguiente turno</style>"
                 }
               ]
             }
@@ -783,7 +783,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Evadir",
           "desc": "",
           "coinlist": [
             {
@@ -797,7 +797,7 @@
         },
         {
           "level": 4,
-          "name": "Evade",
+          "name": "Evadir",
           "desc": "",
           "coinlist": [
             {

@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Energy Cycle",
-          "desc": "[WhenUse] Gain +2 Contador de Carga",
+          "name": "Ciclo de Energía",
+          "desc": "[WhenUse] Gana +2 de Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de Carga"
                 }
               ]
             }
@@ -26,20 +26,20 @@
         },
         {
           "level": 2,
-          "name": "Energy Cycle",
-          "desc": "[WhenUse] Gain +3 Contador de Carga",
+          "name": "Ciclo de Energía",
+          "desc": "[WhenUse] Gana +3 Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de Carga"
                 }
               ]
             }
@@ -47,20 +47,20 @@
         },
         {
           "level": 4,
-          "name": "Energy Cycle",
-          "desc": "[WhenUse] Gain +4 Contador de Carga",
+          "name": "Ciclo de Energía",
+          "desc": "[WhenUse] Gana +4 Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de Carga"
                 }
               ]
             }
@@ -73,14 +73,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cleanup Support",
-          "desc": "[WhenUse] Gain +2 Charge Count\nClash Power +1 when Shielded",
+          "name": "Soporte de Limpieza",
+          "desc": "[WhenUse] Gana +2 de Contador de Carga\nPoder de Choque +1 al estar Escudado",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] At 10+ Charge Count, gana 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttackHead] Con 10+ de Contador de Carga, gana 2 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> el siguiente turno"
                 }
               ]
             }
@@ -88,20 +88,20 @@
         },
         {
           "level": 2,
-          "name": "Cleanup Support",
-          "desc": "[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded",
+          "name": "Soporte de Limpieza",
+          "desc": "[WhenUse] Gana +3 Contador de Carga\nPoder de Choque +2 al estar Escudado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Charge Count, gana 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttack] Con 10+ de Contador de Carga, gana 2 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> el siguiente turno"
                 }
               ]
             }
@@ -109,20 +109,20 @@
         },
         {
           "level": 4,
-          "name": "Cleanup Support",
-          "desc": "[WhenUse] Gain +3 Charge Count\nClash Power +2 when Shielded",
+          "name": "Soporte de Limpieza",
+          "desc": "[WhenUse] Gana +3 Contador de Carga\nPoder de Choque +2 al estar Escudado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de Carga"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ Charge Count, gana 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> for every 5 Charge Count next turn (Max 4)"
+                  "desc": "[OnSucceedAttack] Con 5+ Contador de Carga, gana 1 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> for every 5 Contador de Carga el siguiente turno (Máx 4)"
                 }
               ]
             }
@@ -135,8 +135,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Deploy Charge Barrier",
-          "desc": "[WhenUse] At 10+ Charge Count, consume all Charge Count to apply (Consumed Charge Count / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
+          "name": "Deploy Barrera Cargada",
+          "desc": "[WhenUse] Con 10+ de Contador de Carga, consume todo el Contador de Carga para aplicar (Contador de Carga consumido / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (redondeado hacia abajo) a 2 aliados con el menor porcentaje de PV",
           "coinlist": [
             {},
             {},
@@ -146,7 +146,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> el siguiente turno"
                 }
               ]
             }
@@ -154,8 +154,8 @@
         },
         {
           "level": 4,
-          "name": "Deploy Charge Barrier",
-          "desc": "[WhenUse] At 10+ Charge Count, consume all Charge Count to apply (Consumed Charge Count / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (Rounded Down) to 2 allies with the lowest HP percentage",
+          "name": "Deploy Barrera Cargada",
+          "desc": "[WhenUse] Con 10+ de Contador de Carga, consume todo el Contador de Carga para aplicar (Contador de Carga consumido / 2) de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (redondeado hacia abajo) a 2 aliados con el menor porcentaje de PV",
           "coinlist": [
             {},
             {},
@@ -165,7 +165,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> el siguiente turno"
                 }
               ]
             }
@@ -178,16 +178,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "[WhenUse] Gana 2 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times per turn)",
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 2 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (3 veces por turno)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Charge Barrier</color></link></u> (3 times per turn)",
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana <style=\"highlight\">3</style> <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (3 veces por turno)",
           "coinlist": [
             {}
           ]
@@ -199,14 +199,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Track",
+          "name": "Rastrear",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
@@ -217,14 +217,14 @@
         },
         {
           "level": 2,
-          "name": "Track",
+          "name": "Rastrear",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
@@ -235,14 +235,14 @@
         },
         {
           "level": 4,
-          "name": "Track",
-          "desc": "At 2+ Haste, Final Power +1",
+          "name": "Rastrear",
+          "desc": "Con 2+ de Rapidez, Poder Final +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
@@ -258,27 +258,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Goin' First",
-          "desc": "[WhenUse] Gana 1 Haste next turn",
+          "name": "Yendo Primero",
+          "desc": "[WhenUse] Gana 1 de Velocidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Max 2)"
+                  "desc": "[OnSucceedAttack] Si esta unidad es más rapida que el objetivo, Inflige Contador de Sangrado al igual que la Diferenia de Velocidad (Máx 2)"
                 }
               ]
             }
@@ -286,27 +286,27 @@
         },
         {
           "level": 2,
-          "name": "Goin' First",
-          "desc": "[WhenUse] Gana 2 Haste next turn",
+          "name": "Yendo Primero",
+          "desc": "[WhenUse] Gana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Max 3)"
+                  "desc": "[OnSucceedAttack] Si esta unidad es más rapida que el objetivo, Inflige Contador de Sangrado al igual que la Diferenia de Velocidad (Máx 3)"
                 }
               ]
             }
@@ -314,27 +314,27 @@
         },
         {
           "level": 4,
-          "name": "Goin' First",
-          "desc": "At 6+ Speed, Coin Power +1\n[WhenUse] Gana 2 Haste next turn",
+          "name": "Yendo Primero",
+          "desc": "Con 6+ de Velocidad, Poder de Moneda +1\n[WhenUse] Gana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit is faster than the target, inflict Bleed Count equal to their Speed difference (Max 4)"
+                  "desc": "[OnSucceedAttack] Si esta unidad es más rapida que el objetivo, Inflige Contador de Sangrado al igual que la Diferenia de Velocidad (Máx 4)"
                 }
               ]
             }
@@ -347,13 +347,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Rampage",
-          "desc": "At 8+ Speed, Coin Power +1\nDeal more damage based on target's missing HP (+0.3% damage per 1% missing HP)",
+          "name": "Alboroto",
+          "desc": "Con 8+ de Velocidad, Poder de Moneda +1\nRealiza más daño según los PV faltantes del objetivo (+0.3% de daño por cada 1% de PV perdido)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 5)"
+                  "desc": "[OnSucceedAttackHead] Cura 1 PC por Sangrado en el ojbetivo (Máx 5)"
                 }
               ]
             },
@@ -361,7 +361,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
@@ -376,13 +376,13 @@
         },
         {
           "level": 4,
-          "name": "Rampage",
-          "desc": "At 6+ Speed, Coin Power +1\nDeal more damage based on target's missing HP (+0.5% damage per 1% missing HP)",
+          "name": "Alboroto",
+          "desc": "Con 6+ de Velocidad, Poder de Moneda +1\nRealiza más daño según los PV faltantes del objetivo (+0.5% de daño por cada 1% de PV perdido)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 SP per Bleed on target (Max 10)"
+                  "desc": "[OnSucceedAttackHead] Cura 1 PC por Sangrado en el ojbetivo (Máx 10)"
                 }
               ]
             },
@@ -390,7 +390,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
@@ -410,16 +410,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quickness",
-          "desc": "[OnSucceedEvade] Gana 1 Haste next turn (3 times per turn)",
+          "name": "Presteza",
+          "desc": "[OnSucceedEvade] Gana 1 de Velocidad el siguiente turno (3 veces por turno)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Quickness",
-          "desc": "If target has 7+ Bleed, gain +2 Coin Power\n[OnSucceedEvade] Gana 1 Haste next turn (3 times per turn)",
+          "name": "Presteza",
+          "desc": "Si el objetivo tiene 7+ de Sangrado, gana Poder de Moneda +2\n[OnSucceedEvade] Gana 1 de Velocidad el siguiente turno (3 veces por turno)",
           "coinlist": [
             {}
           ]
@@ -431,13 +431,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expend Knowledge",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "name": "Emplear Conocimientos",
+          "desc": "[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contaddor de [Sinking]"
                 }
               ]
             }
@@ -445,16 +445,16 @@
         },
         {
           "level": 2,
-          "name": "Expend Knowledge",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] At 3+ [KnowledgeExplored], Clash Power +1",
+          "name": "Emplear Conocimientos",
+          "desc": "[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Con 3+ de [KnowledgeExplored], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contaddor de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] At 3+ [KnowledgeExplored], reuse Coin once"
+                  "desc": "[OnSucceedAttack] Con 3+ de [KnowledgeExplored], Reutiliza esta Moneda una vez"
                 }
               ]
             }
@@ -462,16 +462,16 @@
         },
         {
           "level": 4,
-          "name": "Expend Knowledge",
-          "desc": "[WhenUse] Discard 1 Skill of the highest rank in all of this unit's Skill Slots\n[WhenUse] Clash Power +([KnowledgeExplored] - 1)",
+          "name": "Emplear Conocimientos",
+          "desc": "[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Poder de Choque +([KnowledgeExplored] - 1)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contaddor de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reuse Coin ([KnowledgeExplored] - 1) times"
+                  "desc": "[OnSucceedAttack] Reutiliza esta Moneda ([KnowledgeExplored] - 1) veces"
                 }
               ]
             }
@@ -484,15 +484,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unveil",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "name": "Revelar",
+          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascenten de rango dentro de todas sus Ranuras de Habilidades",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 [Sinking]"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Sinking]"
                 }
               ]
             }
@@ -500,15 +500,15 @@
         },
         {
           "level": 2,
-          "name": "Unveil",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] At 3+ [KnowledgeExplored], Coin Power +1",
+          "name": "Revelar",
+          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascenten de rango dentro de todas sus Ranuras de Habilidades\n[WhenUse] Con 3+ de [KnowledgeExplored], Poder de Moneda +1",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 }
               ]
             }
@@ -516,15 +516,15 @@
         },
         {
           "level": 4,
-          "name": "Unveil",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n[WhenUse] Coin Power +([KnowledgeExplored] - 1)",
+          "name": "Revelar",
+          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascenten de rango dentro de todas sus Ranuras de Habilidades\n[WhenUse] Poder de Moneda +([KnowledgeExplored] - 1)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 }
               ]
             }
@@ -537,18 +537,18 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Cyclical Knowledge",
-          "desc": "[WhenUse] At 2+ [KnowledgeExplored], gain Coin Power equal to [KnowledgeExplored]\n[WhenUse] Deal +1.5% more damage per [Sinking] on target (Max 15%)",
+          "name": "Conocimiento Cíclico",
+          "desc": "[WhenUse] Con 2+ de [KnowledgeExplored], gana Poder de Moneda al igual que la [KnowledgeExplored]\n[WhenUse] Realiza +1.5% más de daño por [Sinking] en el objetivo (Máx 15%)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contaddor de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, heal 10 SP"
+                  "desc": "[EndSkill] Si el objetivo es aturdido o derrotado, cura 10 PV"
                 }
               ]
             }
@@ -556,18 +556,18 @@
         },
         {
           "level": 4,
-          "name": "Cyclical Knowledge",
-          "desc": "[WhenUse] At 2+ [KnowledgeExplored], gain Coin Power equal to [KnowledgeExplored]\n[WhenUse] Deal +3% more damage per [Sinking] on target (Max 30%)",
+          "name": "Conocimiento Cíclico",
+          "desc": "[WhenUse] Con 2+ de [KnowledgeExplored], gana Poder de Moneda al igual que la [KnowledgeExplored]\n[WhenUse] Realiza +3% más de daño por [Sinking] en el objetivo (Máx 30%)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +4 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +4 de Contaddor de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] If target is Staggered or defeated, heal 10 SP"
+                  "desc": "[EndSkill] Si el objetivo es aturdido o derrotado, cura 10 PV"
                 }
               ]
             }
@@ -580,16 +580,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guiding Steps",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "name": "Pasos Guiados",
+          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascenten de rango dentro de todas sus Ranuras de Habilidades",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Guiding Steps",
-          "desc": "[WhenUse] Randomly Discard 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "name": "Pasos Guiados",
+          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascenten de rango dentro de todas sus Ranuras de Habilidades",
           "coinlist": [
             {}
           ]

@@ -11,7 +11,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflige 5 Sinking and +5 de Contador de Declive"
+                                    "desc": "[OnSucceedAttackHead] Inflige 5 Sinking and +5 de Contador de Ahogo"
                                 }
                             ]
                         }
@@ -52,14 +52,14 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Deal bonus damage by target’sde Declive"
+                                    "desc": "[OnSucceedAttackHead] Deal bonus damage by target’sde Ahogo"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’sde Declive"
+                                    "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’sde Ahogo"
                                 }
                             ]
                         }
@@ -73,26 +73,26 @@
                 {
                     "level": 1,
                     "name": "Gushing Gloom",
-                    "desc": "[WhenUse] Target loses 5 SP\nTargets the enemy with the mostde Declive",
+                    "desc": "[WhenUse] Target loses 5 SP\nTargets the enemy with the mostde Ahogo",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +3 de Contador de Declive"
+                                    "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ahogo"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Deal bonus damage by target’sde Declive"
+                                    "desc": "[OnSucceedAttackHead] Deal bonus damage by target’sde Ahogo"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’sde Declive"
+                                    "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’sde Ahogo"
                                 }
                             ]
                         }
@@ -130,7 +130,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’sde Declive"
+                                    "desc": "[OnSucceedAttackHead] Deal bonus SP damage by target’sde Ahogo"
                                 }
                             ]
                         }
@@ -149,7 +149,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Deal bonus damage by target’sde Declive"
+                                    "desc": "[OnSucceedAttackHead] Deal bonus damage by target’sde Ahogo"
                                 }
                             ]
                         }
@@ -245,7 +245,7 @@
                 {
                     "level": 1,
                     "name": "Pleased to Meet You, Dear Neighbor",
-                    "desc": "Attacks target in Captivity; cannot be clashed with",
+                    "desc": "[CantDuel]\nAttacks target in Captivity",
                     "coinlist": [
                         {
                             "coindescs": [

@@ -11,7 +11,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
+                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unrelentingde Declive",
+          "name": "Unrelenting Sinking",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflict +2 Sinking Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
+                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
                 }
               ]
             }
@@ -56,14 +56,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
                 }
               ]
             }
@@ -82,17 +82,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 Rupture"
                 }
               ]
             }
@@ -111,7 +111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Declive"
+                  "desc": "[OnSucceedAttack] Inflict 5 Sinking"
                 }
               ]
             }
@@ -187,7 +187,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Declive"
+                  "desc": "[OnSucceedAttack] Inflict 3 Sinking"
                 }
               ]
             }
@@ -201,7 +201,7 @@
         {
           "level": 1,
           "name": "Scattering Sorrow",
-          "desc": "[EndSkill] Inflige +3 Rupture Count and +3 Sinking Count to all enemies",
+          "desc": "[EndSkill] Inflict +3 Rupture Count and +3 Sinking Count to all enemies",
           "coinlist": [
             {
               "coindescs": [
@@ -220,13 +220,13 @@
         {
           "level": 1,
           "name": "Electric Load",
-          "desc": "[StartBattle] Gana 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
+          "desc": "[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
                 }
               ]
             }
@@ -240,14 +240,14 @@
         {
           "level": 1,
           "name": "Electric Release",
-          "desc": "[StartBattle] Gana 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
+          "desc": "[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
                 }
               ]
             }
@@ -261,22 +261,22 @@
         {
           "level": 1,
           "name": "Electric Discharge",
-          "desc": "[StartBattle] Gana 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
+          "desc": "[StartBattle] Gain 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge\nDeal +10% damage to targets with <sprite name=\"Paralysis\"><color=#e30000><u><link=\"Paralysis\">Paralyze</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Fragile next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflict 2 Bind next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
                 }
               ]
             }
@@ -295,14 +295,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Fragile next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
                 }
               ]
             }
@@ -316,7 +316,7 @@
         {
           "level": 1,
           "name": "Coil Up",
-          "desc": "If this Skill is on a slot, head gains 50 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, gana 25 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge instead.</color></link></u>\nGasta 1 Self-charge for every amount of Shield HP lost equal to the Shield HP gained for every Self-charge",
+          "desc": "If this Skill is on a slot, head gains 50 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge</color></link></u>.\nIf the head is broken, gain 25 Shield HP for every <sprite name=\"SelfCharge\"><color=#a16a3b><u><link=\"SelfCharge\">Self-charge instead.</color></link></u>\nSpend 1 Self-charge for every amount of Shield HP lost equal to the Shield HP gained for every Self-charge",
           "coinlist": [
             {}
           ]
@@ -329,13 +329,13 @@
         {
           "level": 1,
           "name": "Wriggling Head",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 1 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
                 }
               ]
             }
@@ -349,14 +349,14 @@
         {
           "level": 1,
           "name": "Wriggling Tail",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 1 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse] Spend 1 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Paralyze next turn"
                 }
               ]
             }
@@ -375,7 +375,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor and +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count"
                 }
               ]
             }
@@ -394,7 +394,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 5% of Max HP"
@@ -416,7 +416,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 }
               ]
             },
@@ -462,7 +462,7 @@
         {
           "level": 1,
           "name": "You Like This Brew?",
-          "desc": "[WhenUse] Gana 3 Bind next turn",
+          "desc": "[WhenUse] Gain 3 Bind next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -486,10 +486,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
                 }
               ]
             }
@@ -516,12 +516,12 @@
         {
           "level": 1,
           "name": "Entangling Talisman",
-          "desc": "[WhenUse] Inflige 3 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflict 3 Entangled Curse Talisman",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura y +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn"
                 }
               ]
             }
@@ -535,20 +535,20 @@
         {
           "level": 1,
           "name": "Cumulating Curse",
-          "desc": "[WhenUse] Inflige Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target",
+          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura y +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 Rupture and +2 Rupture Count next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura y +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture and +2 Rupture Count next turn"
                 }
               ]
             }
@@ -567,38 +567,38 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 Bind next turn"
                 }
               ]
             }
@@ -612,7 +612,7 @@
         {
           "level": 1,
           "name": "Transferring Talisman",
-          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangled Curse Talisman</color></link></u> from target.\nGain Reattached Curse Talisman equal to number of Entangled Curse removed\n[StartBattle] All parts gana 3 Protection",
+          "desc": "[WhenUse] Remove all <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangled Curse Talisman</color></link></u> from target.\nGain Reattached Curse Talisman equal to number of Entangled Curse removed\n[StartBattle] All parts gain 3 Protection",
           "coinlist": [
             {
               "coindescs": [
@@ -631,7 +631,7 @@
         {
           "level": 1,
           "name": "Proliferating Curse",
-          "desc": "[WhenUse] Inflige Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target",
+          "desc": "[WhenUse] Inflict Entangling Talisman equal to the number of <sprite name=\"WrappedCurseTag\"><color=#a16a3b><u><link=\"WrappedCurseTag\">Entangling Talisman</color></link></u> on target",
           "coinlist": [
             {
               "coindescs": [
@@ -655,13 +655,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
+                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 1 Bleed"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Apply +4 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Apply +4 Bleed Count"
                 }
               ]
             }
@@ -680,7 +680,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
                 }
               ]
             }
@@ -699,7 +699,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP"
@@ -709,7 +709,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
+                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, inflict 5 Bleed"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, heal 25 HP"
@@ -734,7 +734,7 @@
                   "desc": "[OnSucceedAttack] Deal +5% damage for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Spend all of target'sDe Sangrado"
+                  "desc": "[OnSucceedAttack] Spend all of target's Bleed"
                 }
               ]
             }
@@ -748,7 +748,7 @@
         {
           "level": 1,
           "name": "Churning",
-          "desc": "[StartBattle] All parts gana 3 Protection.",
+          "desc": "[StartBattle] All parts gain 3 Protection.",
           "coinlist": [
             {
               "coindescs": [
@@ -756,7 +756,7 @@
                   "desc": "[OnSucceedAttack] Heal 1% of Max HP for every <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> on target"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 1 Bleed Count from target"
+                  "desc": "[OnSucceedAttack] Spend 1 Bleed Count from target"
                 }
               ]
             }
@@ -775,7 +775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor and +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict 5 Tremor and +2 Tremor Count"
                 }
               ]
             }
@@ -794,7 +794,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal 5% of Max HP"
@@ -816,7 +816,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 }
               ]
             },
@@ -862,7 +862,7 @@
         {
           "level": 1,
           "name": "You Like This Brew?",
-          "desc": "[WhenUse] Gana 3 Bind next turn",
+          "desc": "[WhenUse] Gain 3 Bind next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -886,10 +886,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
                 }
               ]
             }
@@ -921,10 +921,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
                 },
                 {
                   "desc": "[OnSucceedAttack] Core, Body heals 15 HP"
@@ -946,10 +946,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict +3 Rupture Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict +3 Bleed Count"
                 }
               ]
             }
@@ -968,10 +968,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict 5 Bleed"
                 }
               ]
             }
@@ -1042,12 +1042,12 @@
         {
           "level": 1,
           "name": "Dimensional Slice",
-          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Gasta 2 Contador de Carga",
+          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 2 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
                 }
               ]
             }
@@ -1061,19 +1061,19 @@
         {
           "level": 1,
           "name": "Consecutive Dimensional Slice",
-          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Gasta 2 Contador de Carga",
+          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 2 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
                 }
               ]
             }
@@ -1087,12 +1087,12 @@
         {
           "level": 1,
           "name": "Discharge Byproducts",
-          "desc": "[DefeatDuel] Gasta 2 Contador de Carga",
+          "desc": "[DefeatDuel] Spend 2 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
                 }
               ]
             }
@@ -1106,25 +1106,25 @@
         {
           "level": 1,
           "name": "Rip Space",
-          "desc": "At 10+ Charge Count, Gasta 10 Charge Count and gain Clash Power +5 and deal +100% damage\nAt 10- Charge Count, Gasta 100 Core HP and deal +80% damage\nThis skill does not reduce the unit's HP to 0.",
+          "desc": "At 10+ Charge Count, spend 10 Charge Count and gain Clash Power +5 and deal +100% damage\nAt 10- Charge Count, spend 100 Core HP and deal +80% damage\nThis skill does not reduce the unit's HP to 0.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +2 Contador de Carga"
+                  "desc": "[OnSucceedAttackHead] Gain +2 Charge Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
                 }
               ]
             }
@@ -1138,19 +1138,19 @@
         {
           "level": 1,
           "name": "Prepared Retribution",
-          "desc": "[WhenUse] Gain +1 Contador de Carga",
+          "desc": "[WhenUse] Gain +1 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict +2 Rupture Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture"
                 }
               ]
             }
@@ -1164,12 +1164,12 @@
         {
           "level": 1,
           "name": "Vomit Byproducts",
-          "desc": "[WhenUse] If target has Dimensional Rift, deal +10% damage\n[DefeatDuel] Gasta 2 Contador de Carga",
+          "desc": "[WhenUse] If target has Dimensional Rift, deal +10% damage\n[DefeatDuel] Spend 2 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Inflict 5 Dimensional Rift"
                 }
               ]
             }
@@ -1188,7 +1188,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 3 Rupture"
                 }
               ]
             }
@@ -1207,7 +1207,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
                 }
               ]
             }
@@ -1226,7 +1226,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Dimensional Rift"
+                  "desc": "[OnSucceedAttack] Inflict 3 Dimensional Rift"
                 }
               ]
             }
@@ -1240,15 +1240,15 @@
         {
           "level": 1,
           "name": "Interlocking Moment",
-          "desc": "[DefeatDuel] Gasta 2 Contador de Carga",
+          "desc": "[DefeatDuel] Spend 2 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflict 1 Interlocking Time"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Paralyze"
+                  "desc": "[OnSucceedAttackHead] Inflict 3 Paralyze"
                 }
               ]
             }
@@ -1262,15 +1262,15 @@
         {
           "level": 1,
           "name": "Siphon Time",
-          "desc": "Skill Power +1 for every 3 Charge Count\n[WhenUse] Gain +4 Contador de Carga",
+          "desc": "Skill Power +1 for every 3 Charge Count\n[WhenUse] Gain +4 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 Borrowed Time next turn"
+                  "desc": "[OnSucceedAttack] Gain 3 Borrowed Time next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
                 }
               ]
             }
@@ -1284,15 +1284,15 @@
         {
           "level": 1,
           "name": "Accelerating Moment",
-          "desc": "Skill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel] Gasta 3 Contador de Carga",
+          "desc": "Skill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>\n[DefeatDuel] Spend 3 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflict 2 Interlocking Time"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
                 }
               ]
             },
@@ -1302,7 +1302,7 @@
                   "desc": "[OnSucceedAttack] Deal +20% damage for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Borrowed Time</color></link></u>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +4 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gain +4 Charge Count"
                 }
               ]
             }
@@ -1316,7 +1316,7 @@
         {
           "level": 1,
           "name": "Charged Defense",
-          "desc": "[StartBattle] Gain +1 Contador de Carga",
+          "desc": "[StartBattle] Gain +1 Charge Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1335,12 +1335,12 @@
         {
           "level": 1,
           "name": "6463",
-          "desc": "Deal +10% damage for every 50 Accumulated Past",
+          "desc": "Deal +10% more damage for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
                 }
               ]
             }
@@ -1354,12 +1354,12 @@
         {
           "level": 1,
           "name": "6753",
-          "desc": "Deal +10% damage for every 50 Accumulated Past",
+          "desc": "Deal +10% more damage for every 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Past</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
                 }
               ]
             }
@@ -1373,12 +1373,12 @@
         {
           "level": 1,
           "name": "853",
-          "desc": "At 5+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, Clash Power +1",
+          "desc": "At 5+ [Breath], Clash Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 3 [Paralysis] next turn"
                 }
               ]
             },
@@ -1402,22 +1402,22 @@
         {
           "level": 1,
           "name": "5384",
-          "desc": "[WhenUse] All parts gana 3 de Temple y +3 de Contador de Temple",
+          "desc": "[WhenUse] All parts gain 3 [Breath] and +3 [Breath] Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by number equal to <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>"
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold equal to [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +20% damage per 3 Poise (Max 100%)"
+                  "desc": "[OnSucceedAttack] Deal +20% more damage per 3 [Breath] (Max 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] All parts gana 4 de Temple"
+                  "desc": "[OnSucceedAttack] Gain 4 [Breath] to all Parts"
                 }
               ]
             }
@@ -1431,15 +1431,15 @@
         {
           "level": 1,
           "name": "6475384",
-          "desc": "At 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, Coin Power +1",
+          "desc": "At 7+ [Breath], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If at 5+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, raise Stagger Threshold by number equal to 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] At 5+ [Breath], raise Stagger Threshold by 50% of damage dealt"
                 },
                 {
-                  "desc": "[OnSucceedAttack] All parts gana 8 de Temple y +4 de Contador de Temple"
+                  "desc": "[OnSucceedAttack] All Parts gain 8 [Breath] and +4 [Breath] Count"
                 }
               ]
             }
@@ -1453,7 +1453,7 @@
         {
           "level": 1,
           "name": "974569A",
-          "desc": "At 10+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, Skill Power +2",
+          "desc": "At 10+ [Breath], Skill Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1490,20 +1490,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Burn and 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 Burn and 2 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Burn and 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 2 Burn and 2 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze next turn"
                 }
               ]
             }
@@ -1522,14 +1522,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bind next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 De Sangrado y 3 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 3 Bleed and 3 Rupture"
                 },
                 {
                   "desc": "[OnSucceedAttack] Heal the Rose with the lowest HP percentages for 10 HP"
@@ -1551,7 +1551,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze and 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 1 Paralyze and 1 Bind next turn"
                 }
               ]
             },
@@ -1598,7 +1598,7 @@
         {
           "level": 1,
           "name": "Wishing for Eternity",
-          "desc": "[StartBattle] Apply 1 Attack Power Up to 1 random Rose next turn\nIf attacked while Shielded, Inflige 1 Sinking on the attacker",
+          "desc": "[StartBattle] Apply 1 Attack Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1617,7 +1617,7 @@
         {
           "level": 1,
           "name": "Here, With You",
-          "desc": "[StartBattle] Apply 1 Poder Defensivo Aumentado to 1 random Rose next turn\nIf attacked while Shielded, Inflige 1 Sinking on the attacker",
+          "desc": "[StartBattle] Apply 1 Defense Power Up to 1 random Rose next turn\nIf attacked while Shielded, inflict 1 Sinking on the attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1641,21 +1641,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflict 2 Burn"
                 }
               ]
             }
@@ -1674,14 +1674,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflict +2 Burn Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflict +2 Burn Count"
                 }
               ]
             }
@@ -1700,7 +1700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
@@ -1710,7 +1710,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
@@ -1720,7 +1720,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lower user’s Stagger Threshold by 50% of damage dealt"
@@ -1742,21 +1742,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflict +2 Bleed Count"
                 }
               ]
             }
@@ -1775,7 +1775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 8 Tremor"
+                  "desc": "[OnSucceedAttack] Inflict 8 Tremor"
                 }
               ]
             }
@@ -1794,10 +1794,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
                 }
               ]
             }
@@ -1835,7 +1835,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict 5 Rupture"
                 }
               ]
             }
@@ -1854,7 +1854,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +4 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflict +4 Rupture Count"
                 }
               ]
             }
@@ -1913,7 +1913,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Declive"
+                  "desc": "[OnSucceedAttack] Inflict 6 Sinking"
                 }
               ]
             }
@@ -1932,14 +1932,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Declive"
+                  "desc": "[OnSucceedAttack] Inflict +3 Sinking Count"
                 }
               ]
             }
@@ -1953,7 +1953,7 @@
         {
           "level": 1,
           "name": "Embracing Gloom",
-          "desc": "If attacked while Shielded, Inflige +1 Sinking Count on self and the attacker",
+          "desc": "If attacked while Shielded, inflict +1 Sinking Count on self and the attacker",
           "coinlist": [
             {
               "coindescs": [
@@ -1991,19 +1991,19 @@
         {
           "level": 1,
           "name": "Erect Pride",
-          "desc": "[WhenUse] All allies gain +2 de Contador de Temple",
+          "desc": "[WhenUse] All allies gain +2 Poise Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
                 }
               ]
             }
@@ -2036,19 +2036,19 @@
         {
           "level": 1,
           "name": "Heaping Envy",
-          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Gasta 3 Contador de Carga",
+          "desc": "[WhenUse] Gain +3 Charge Count\n[DefeatDuel] Spend 3 Charge Count",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gain +1 Charge Count"
                 }
               ]
             }
@@ -2062,7 +2062,7 @@
         {
           "level": 1,
           "name": "Spreading Envy",
-          "desc": "[WhenUse] Gasta 10 Charge to gain +4 Coin Power",
+          "desc": "[WhenUse] Spend 10 Charge to gain +4 Coin Power",
           "coinlist": [
             {
               "coindescs": [
@@ -2107,7 +2107,7 @@
         {
           "level": 1,
           "name": "Dimensional Leap",
-          "desc": "If this Dimensional Rift remains, gana 1 Speed",
+          "desc": "If this Dimensional Rift remains, gain 1 Speed",
           "coinlist": [
             {}
           ]
@@ -2138,38 +2138,38 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflict 2 Rupture next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflict 5 Bind next turn"
                 }
               ]
             }

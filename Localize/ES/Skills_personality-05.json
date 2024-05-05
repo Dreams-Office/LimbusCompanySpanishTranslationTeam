@@ -5,20 +5,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "We Remember",
+          "name": "Nosotros Recordamos",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -26,20 +26,20 @@
         },
         {
           "level": 2,
-          "name": "We Remember",
-          "desc": "[DefeatDuel] Gana 1 Envy DMG Up next turn",
+          "name": "Nosotros Recordamos",
+          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -47,20 +47,20 @@
         },
         {
           "level": 4,
-          "name": "We Remember",
-          "desc": "[DefeatDuel] Gana 1 Envy DMG Up next turn",
+          "name": "Nosotros Recordamos",
+          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -73,20 +73,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Chains of Loyalty",
-          "desc": "[StartBattle] Apply 1 Envy Power Up to 2 allies adjacent to this unit on the Dashboard.",
+          "name": "Cadenas de Lealtad",
+          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adjacentes a esta unidad en el Tablero.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -94,20 +94,20 @@
         },
         {
           "level": 2,
-          "name": "Chains of Loyalty",
-          "desc": "[StartBattle] Apply 1 Envy Power Up to 2 allies adjacent to this unit on the Dashboard.",
+          "name": "Cadenas de Lealtad",
+          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adjacentes a esta unidad en el Tablero.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -115,20 +115,20 @@
         },
         {
           "level": 4,
-          "name": "Chains of Loyalty",
-          "desc": "[StartBattle] Apply 1 Envy Power Up to 2 allies adjacent to this unit on the Dashboard\nApply 1 Envy DMG Up as well when selecting Envy affinity Skills from the affected Skill Slots",
+          "name": "Cadenas de Lealtad",
+          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adjacentes a esta unidad en el Tablero\nAplica 1 de Daño de Envidia Aumentado también al seleccionar Habilidades con afinidad de Envidia de las Ranuras de Habilidad afectadas",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -141,13 +141,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Recording",
-          "desc": "At 4+ Envy Reson., Coin Power +1",
+          "name": "Registrando",
+          "desc": "Con 4+ de Resonancia de Envidia., Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Vengeance Mark, Inflige 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             },
@@ -159,7 +159,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Vengeance Mark, Inflige 1 Envy Fragility next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Fragilidad de Envidia el siguiente turno"
                 }
               ]
             }
@@ -167,13 +167,13 @@
         },
         {
           "level": 4,
-          "name": "Recording",
-          "desc": "At 4+ Envy Reson., Coin Power +1\nAt 6+ Envy A-Reson., Coin Power +1",
+          "name": "Registrando",
+          "desc": "Con 4+ de Resonancia de Envidia., Poder de Moneda +1\nAt 6+ Envy A-Reson., Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Vengeance Mark, Inflige 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             },
@@ -185,7 +185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Vengeance Mark, Inflige 2 Envy Fragility next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 2 de Fragilidad de Envidia el siguiente turno"
                 }
               ]
             }
@@ -198,20 +198,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multifold Retribution",
+          "name": "Retribución Múltiple",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -219,20 +219,20 @@
         },
         {
           "level": 4,
-          "name": "Multifold Retribution",
-          "desc": "At 4+ Envy Reson., Coin Power +1",
+          "name": "Retribución Múltiple",
+          "desc": "Con 4+ de Resonancia de Envidia., Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 De Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
                 }
               ]
             }
@@ -245,20 +245,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Draw of the Sword",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desenvainar la Espada",
+          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
                 }
               ]
             }
@@ -266,20 +266,20 @@
         },
         {
           "level": 2,
-          "name": "Draw of the Sword",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n</style>[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desenvainar la Espada",
+          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n</style>[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             }
@@ -287,20 +287,20 @@
         },
         {
           "level": 3,
-          "name": "Draw of the Sword",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desenvainar la Espada",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             }
@@ -308,20 +308,20 @@
         },
         {
           "level": 4,
-          "name": "Draw of the Sword",
-          "desc": "<style=\"highlight\">At 5+ [Breath], Coin Power +1</style>\n[StartBattle] Apply 1 [BladeResultUpTier1] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- If there are 6 or more allied Blade Lineage Identities in the Encounter, apply 2 instead</style>\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desenvainar la Espada",
+          "desc": "<style=\"highlight\">Con 5+ de [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +2 de Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 }
               ]
             }
@@ -334,13 +334,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Acupuncture",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
+          "name": "Acupuntura",
+          "desc": "[WhenUse] Gana +2 de Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttackHead] Gana 3 de [Breath]"
                 }
               ]
             },
@@ -348,7 +348,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% de daño en un Golpe Crítico"
                 }
               ]
             }
@@ -356,13 +356,13 @@
         },
         {
           "level": 2,
-          "name": "Acupuncture",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</style>\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
+          "name": "Acupuntura",
+          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier2] to (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</style>\n[WhenUse] Gana +2 de Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                 }
               ]
             },
@@ -370,7 +370,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% Damage on Critical Hit"
+                  "desc": "+40% de daño en un Golpe Crítico"
                 }
               ]
             }
@@ -378,13 +378,13 @@
         },
         {
           "level": 3,
-          "name": "Acupuncture",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)</color>\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
+          "name": "Acupuntura",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 de Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                 }
               ]
             },
@@ -392,7 +392,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% Damage on Critical Hit"
+                  "desc": "+40% de daño en un Golpe Crítico"
                 }
               ]
             }
@@ -400,13 +400,13 @@
         },
         {
           "level": 4,
-          "name": "Acupuncture",
-          "desc": "<style=\"highlight\">At 7+ [Breath], Coin Power +1</style>\n[StartBattle] Apply 1 [BladeResultUpTier2] to (highest A-Reson.) other Blade Lineage allies in ascending order of Speeds (slowest to fastest, 2 times max)\n<style=\"highlight\">- If there are 6 or more allied Blade Lineage Identities in the Encounter, apply 2 instead</style>\n[WhenUse] Gain +3 [Breath] Count\n[WinDuel] Gain 1 Slash Power Up next turn",
+          "name": "Acupuntura",
+          "desc": "<style=\"highlight\">At 7+ [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier2] to (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +3 de [Breath] Count\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                 }
               ]
             },
@@ -414,7 +414,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+60% Damage on Critical Hit"
+                  "desc": "+60% de daño en un Golpe Crítico"
                 }
               ]
             }
@@ -427,16 +427,16 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Yield My Flesh",
-          "desc": "[WhenUse] Gain +3 Aggro to this Skill Slot next turn\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] Deal +2% more damage on Critical Hit for every Poise Potency on self (Max 50%)\n+15% Damage on Critical Hit\nDeal +0.5% more damage per 1% missing HP on self (Max 25%)",
+          "name": "Ceder Mi Carne",
+          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+15% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de PV perdidos (Máx 25%)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Yield My Flesh",
-          "desc": "[WhenUse] Gain +3 Aggro to this Skill Slot next turn\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WinDuel] Gain 5 [Breath]\n[DefeatDuel] After getting hit, use 'To Claim Their Bones' Skill\n[CriticalActivated] Deal +3% more damage on Critical Hit for every Poise Potency on self (Max 75%)\n+30% Damage on Critical Hit\nDeal +0.5% more damage per 1% missing HP on self (Max 25%)",
+          "name": "Ceder Mi Carne",
+          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +3% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 75%)\n+30% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de PV perdidos (Máx 25%)",
           "coinlist": [
             {}
           ]
@@ -448,13 +448,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overthrow",
-          "desc": "[WhenUse] Gain 1 Slash Power Up next turn (1 time max)",
+          "name": "Derribar",
+          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (Máx 1 vez)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 }
               ]
             }
@@ -462,13 +462,13 @@
         },
         {
           "level": 4,
-          "name": "Overthrow",
-          "desc": "[WhenUse] Gain 1 Slash Power Up next turn (1 time max)\n<style=\"highlight\">Deal +0.5% more damage for every 1% missing HP on self (Max 25%)</style>",
+          "name": "Derribar",
+          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (Máx 1 vez)\n<style=\"highlight\">Realiza +0.5% más de daño por cada 1% de PV perdidos (Máx 25%)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 }
               ]
             }
@@ -481,8 +481,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Claim Their Bones",
-          "desc": "[BeforeAttack] At 10+ [Breath], Atk Weight +1\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WhenUse] Deal +2% more damage on Critical Hit for every Poise Potency on self (Max 50%)\n+20% Damage on Critical Hit\nDeal +0.5% more damage for every 1% missing HP on self (Max 25%)",
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "[BeforeAttack] Con 10+ de [Breath], Alcance de Atq +1\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WhenUse] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+20% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de vida perdido (Máx 25%)",
           "coinlist": [
             {},
             {},
@@ -490,10 +490,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis el siguiente turno"
                 }
               ]
             }
@@ -501,8 +501,8 @@
         },
         {
           "level": 4,
-          "name": "To Claim Their Bones",
-          "desc": "<style=\"highlight\">[BeforeAttack] For every 7 [Breath] on self, Atk Weight +1 (Max +2)</style>\n[WhenUse] Until this Skill ends, this unit cannot be Staggered from taking damage\n[WhenUse] Deal +2% more damage on Critical Hit for every Poise Potency on self (Max 50%)\n+<style=\"highlight\">30</style>% Damage on Critical Hit\nDeal +0.5% more damage for every 1% missing HP on self (Max 25%)\n<style=\"highlight\">If this Skill targets only a single enemy, deal +100% more damage (In Focused Encounters, a single Part)</style>",
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "<style=\"highlight\">[BeforeAttack] Por cada 7 de [Breath], Alcance de Atq +1 (Máx +2)</style>\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WhenUse] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+<style=\"highlight\">30</style>% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de vida perdido (Máx 25%)\n<style=\"highlight\">Si esta Habilidad se dirige a un solo enemigo, realiza +100% más de daño (En Encuentros Centrados, una sola Parte)</style>",
           "coinlist": [
             {},
             {},
@@ -510,10 +510,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis el siguiente turno"
                 }
               ]
             }
@@ -526,13 +526,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bat Strike",
+          "name": "Golpe de Bate",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Burst]"
                 }
               ]
             }
@@ -540,13 +540,13 @@
         },
         {
           "level": 2,
-          "name": "Bat Strike",
-          "desc": "If the target has 5+ [Burst], Coin Power +1",
+          "name": "Golpe de Bate",
+          "desc": "Si el objetivo tiene 5+ de [Burst], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             }
@@ -554,13 +554,13 @@
         },
         {
           "level": 4,
-          "name": "Bat Strike",
-          "desc": "If the target has 5+ [Burst], Coin Power +<style=\"highlight\">2</style>",
+          "name": "Golpe de Bate",
+          "desc": "Si el objetivo tiene 5+ de [Burst], Poder de Moneda +<style=\"highlight\">2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             }
@@ -573,17 +573,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Smackdown",
+          "name": "Aplastar",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown]"
                 }
               ]
             }
@@ -591,17 +591,17 @@
         },
         {
           "level": 2,
-          "name": "Smackdown",
-          "desc": "[WinDuel] Inflict +2 [Burst] Count",
+          "name": "Aplastar",
+          "desc": "[WinDuel] Inflige +2 de [Burst] Count",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown]"
                 }
               ]
             }
@@ -609,17 +609,17 @@
         },
         {
           "level": 4,
-          "name": "Smackdown",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 6+ [Burst], Coin Power +1</style>\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "Aplastar",
+          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1</style>\n[WinDuel] Inflige +2 de [Burst] Count",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Burst], inflict 2 [AttackDown]"
+                  "desc": "[OnSucceedAttack] If the target has 4+ [Burst], Inflige 2 de [AttackDown]"
                 }
               ]
             }
@@ -632,8 +632,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Relentless",
-          "desc": "[WhenUse] If the target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]",
+          "name": "Implacable",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 de [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -641,10 +641,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown] el siguiente turno"
                 }
               ]
             }
@@ -652,8 +652,8 @@
         },
         {
           "level": 4,
-          "name": "Relentless",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 3+ [Burst], Clash Power +1</style>\n[WhenUse] If the target has 6+ [Burst], Coin Power +1\n[WinDuel] Inflict 2 [AttackDown]",
+          "name": "Implacable",
+          "desc": "<style=\"highlight\">[WhenUse] If the target has 3+ [Burst], Clash Power +1</style>\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 de [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -661,10 +661,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Burst], inflict 2 [AttackDown] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown] el siguiente turno"
                 }
               ]
             }
@@ -677,13 +677,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter",
+          "name": "Contraataque",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -691,13 +691,13 @@
         },
         {
           "level": 4,
-          "name": "Counter",
+          "name": "Contraataque",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }

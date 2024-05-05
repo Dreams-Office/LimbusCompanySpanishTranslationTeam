@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "tutorial_101_01",
-      "content": "Permiteme mostrarte los fundamentos basicos de la gestión de mando."
+      "content": "Permíteme mostrarte los fundamentos básicos de la gestión de mando."
     },
     {
       "id": "tutorial_101_02",
-      "content": "Puedes darle ordenes a los Pecadores conectando (Encadenando) habilidades en el tablero en la parte inferior de la pantalla"
+      "content": "Puedes darle ordenes a los Pecadores conectando (Encadenando) habilidades en el tablero en la parte inferior de la pantalla."
     },
     {
       "id": "tutorial_101_03",
@@ -18,7 +18,7 @@
     },
     {
       "id": "tutorial_101_05",
-      "content": "Despues de que hayas formado una cadena de habilidades, pulsa el engranaje a la derecha para empezar el combate."
+      "content": "Después de que hayas formado una cadena de habilidades, pulsa el engranaje a la derecha para empezar el combate."
     },
     {
       "id": "tutorial_102_01",
@@ -46,7 +46,7 @@
     },
     {
       "id": "tutorial_103_03_popup_title",
-      "content": "¿Qué es una Resonancia Absoulta?"
+      "content": "¿Qué es una Resonancia Absoluta?"
     },
     {
       "id": "tutorial_103_03",
@@ -58,31 +58,31 @@
     },
     {
       "id": "tutorial_104_02_popup_title",
-      "content": "¿Que es el Aturdimiento?"
+      "content": "¿Qué es el Aturdimiento?"
     },
     {
       "id": "tutorial_104_02",
-      "content": "Cuando un ataque disminuye los PV de una unidad por debajo del umbral con linea amarilla, estos se volveran <Aturdidos>.\nMientras estan <Aturdidos>, todas las resistencias físicas cambian a Fatal.\nSi los PV de una unidad caen por debajo de mas de un Umbral de Aturdimiento en un solo turno, Su <Nivel de Aturdimiento> se verá aumentado.\nEste <Nivel de Aturdimiento> puede aumentar hasta 3, y mientras mas sube el daño que recibe la unidad es amplificado."
+      "content": "Cuando un ataque disminuye los PV de una unidad por debajo del umbral con linea amarilla, estos se volverán <Aturdidos>.\nMientras están <Aturdidos>, todas las resistencias físicas cambian a Fatal.\nSi los PV de una unidad caen por debajo de mas de un Umbral de Aturdimiento en un solo turno, Su <Nivel de Aturdimiento> se verá aumentado.\nEste <Nivel de Aturdimiento> puede aumentar hasta 3, y mientras mas sube el daño que recibe la unidad es amplificado."
     },
     {
       "id": "tutorial_104_03",
-      "content": "Bien hecho. Hemos <Aturdido> a un Enemigo. Ahora, prosigamos con la pelea con lo que te he enseñado hasta ahora"
+      "content": "Bien hecho. Hemos <Aturdido> a un Enemigo. Ahora, prosigamos con la pelea con lo que te he enseñado hasta ahora."
     },
     {
       "id": "tutorial_201_01",
-      "content": "Todas las acciónes estan dictadas según un valor de <Velocidad>."
+      "content": "Todas las acciones están dictadas según un valor de <Velocidad>."
     },
     {
       "id": "tutorial_201_02_popup_title",
-      "content": "¿Que es la Velocidad?"
+      "content": "¿Qué es la Velocidad?"
     },
     {
       "id": "tutorial_201_02",
-      "content": "La Velocidad es un numero aleatorio elegido dentro de un rango determinado cada turno.\nLa posición de las unidades es reorganizada cada turno dependiendo de sus Velocidades.\nAquellos con menor velocidad son colocados al frente, volviendolos un blanco mas fácil."
+      "content": "La Velocidad es un numero aleatorio elegido dentro de un rango determinado cada turno.\nLa posición de las unidades es reorganizada cada turno dependiendo de sus Velocidades.\nAquellos con menor velocidad son colocados al frente, volviéndolos un blanco mas fácil."
     },
     {
       "id": "tutorial_201_05",
-      "content": "Antes de usar una habilidad, los personajes dispondran de lanzar una Moneda la cual determinara el valor final de Poder.\nUn Poder más alto significa un daño más alto."
+      "content": "Antes de usar una habilidad, los personajes dispondrán de lanzar una Moneda la cual determinara el valor final de Poder.\nUn Poder más alto significa un daño más alto."
     },
     {
       "id": "tutorial_201_06",
@@ -94,7 +94,7 @@
     },
     {
       "id": "tutorial_201_08",
-      "content": "Por lo general, Si una Moneda aterriza en Cara, su Fuerza se añadirá al Poder de la habilidad.\nParece que la habilidad sera fortalecida en esta ocasión."
+      "content": "Por lo general, Si una Moneda aterriza en Cara, su Fuerza se añadirá al Poder de la habilidad.\nParece que la habilidad será fortalecida en esta ocasión."
     },
     {
       "id": "tutorial_201_09",
@@ -102,26 +102,26 @@
     },
     {
       "id": "tutorial_202_01",
-      "content": "Al principio de cada turno, una ranura de habilidad sera añadida para un Pecador en el orden en el que fueron desplegados durante la configuración de equipo, sin importar si el Pecador esta <Aturdido>, <en Pánico >, o <corrosión de E.G.O>."
+      "content": "Al principio de cada turno, una ranura de habilidad será añadida para un Pecador en el orden en el que fueron desplegados durante la configuración de equipo, sin importar si el Pecador esta <Aturdido>, <en Pánico >, o <corrosión de E.G.O>."
     },
     {
       "id": "tutorial_202_02",
-      "content": "Cuando ambos, el Pecador y su objetivo usan una habilidad,un <Choque> ocurre."
+      "content": "Cuando ambos, el Pecador y su objetivo usan una habilidad, un <Choque> ocurre."
     },
     {
       "id": "tutorial_202_03_popup_title",
-      "content": "¿Que son los Choques?"
+      "content": "¿Qué son los Choques?"
     },
     {
       "id": "tutorial_202_03",
-      "content": "Un <Choque> ocurre cuando dos personajes se atacan entre sí.\nEl atacante con mayor Poder gana, removiendo Una Moneda del perdedor.\nSi ambos lados aun tienen más Monedas, más choques se dispondran a ocurrir hasta que uno de los lados haya perdido todas sus Monedas.\nEl lado que pierda todas sus Monedas verá su habilidad cancelada.\nEl ganador se dispondra a atacar con sus Monedas restantes, ganando un bono de daño basado en numero total de Choques realizados."    },
+      "content": "Un <Choque> ocurre cuando dos personajes se atacan entre sí.\nEl atacante con mayor Poder gana, removiendo Una Moneda del perdedor.\nSi ambos lados aun tienen más Monedas, más choques se dispondrán a ocurrir hasta que uno de los lados haya perdido todas sus Monedas.\nEl lado que pierda todas sus Monedas verá su habilidad cancelada.\nEl ganador se dispondrá a atacar con sus Monedas restantes, ganando un bono de daño basado en numero total de Choques realizados."    },
     {
       "id": "tutorial_202_04",
       "content": "En un <Choque>, se compara el Poder de Choque de dos habilidades enfrentadas, y el lado con mayor Poder gana.\nEl indicador y texto mostrados en la parte superior de la pantalla predicen tus probabilidades de ganar."
     },
     {
       "id": "tutorial_202_05",
-      "content": "Cuando un Choque empieza, ambos personajes dispondran de lanzar una Moneda para determinar el poder de su habilidad en el Choque. Entonces, el lado con mas Poder gana y destruye la Moneda del oponente."
+      "content": "Cuando un Choque empieza, ambos personajes dispondrán de lanzar una Moneda para determinar el poder de su habilidad en el Choque. Entonces, el lado con mas Poder gana y destruye la Moneda del oponente."
     },
     {
       "id": "tutorial_202_06",
@@ -137,7 +137,7 @@
     },
     {
       "id": "tutorial_203_02",
-      "content": "La esfera a la derecha de una unidad indica su <Cordura>, o PC. Tiene un rango de -45 hasta 45.\nUnidades con una Cordura más alta tienen una mayor probabilidad de que al Lanzar la Moneda aterrize en Cara.\nDerrotar enemigos aumenta la Cordura, mientras que la muerte de un aliado perjudicará la Cordura.\nUnidades enemigas con baja cordura caerán en estados de “Baja Moral” o “Pánico”."
+      "content": "La esfera a la derecha de una unidad indica su <Cordura>, o PC. Tiene un rango de -45 hasta 45.\nUnidades con una Cordura más alta tienen una mayor probabilidad de que al Lanzar la Moneda aterrice en Cara.\nDerrotar enemigos aumenta la Cordura, mientras que la muerte de un aliado perjudicará la Cordura.\nUnidades enemigas con baja cordura caerán en estados de “Baja Moral” o “Pánico”."
     },
     {
       "id": "tutorial_203_06",
@@ -161,15 +161,15 @@
     },
     {
       "id": "tutorial_301_02",
-      "content": "Las habilidades tienen dos importantes propiedades:\nSu <Tipo de Ataque> y <Afinidad de Pecado>.\nLos Tipos de Ataque son Cortante,Perforante y Contundente.\nLas Afinidades de Pecado son Ira, Lujuria, Pereza, Gula, Melancolía, Orgullo, y Envidia.\n Combinado con las resistencias, los Tipo de Ataque y Afinidades determinan el daño de la habilidad."
+      "content": "Las habilidades tienen dos importantes propiedades:\nSu <Tipo de Ataque> y <Afinidad de Pecado>.\nLos Tipos de Ataque son Cortante, Perforante y Contundente.\nLas Afinidades de Pecado son Ira, Lujuria, Pereza, Gula, Melancolía, Orgullo, y Envidia.\n Combinado con las resistencias, los Tipo de Ataque y Afinidades determinan el daño de la habilidad."
     },
     {
       "id": "tutorial_301_03",
-      "content": "Aquí, puedes revisar el Tipo de Ataque y la Afinidad de Pecado en las Habilidades de tus Pecadores-"
+      "content": "Aquí, puedes revisar el Tipo de Ataque y la Afinidad de Pecado en las Habilidades de tus Pecadores."
     },
     {
       "id": "tutorial_301_04",
-      "content": "Puedes ver las resistencias y debilidades de cada unidad aqui arriba. Este vándalo es vulnerable a ataques Cortantes."
+      "content": "Puedes ver las resistencias y debilidades de cada unidad aquí arriba. Este vándalo es vulnerable a ataques Cortantes."
     },
     {
       "id": "tutorial_302_01",
@@ -193,7 +193,7 @@
     },
     {
       "id": "tutorial_302_05",
-      "content": "La Guardia crea un escudo con vida equivalente a su valor de Poder.\nEste escudo absorberá todo el daño entrante.\nAl usar Guardia multiples veces en un turno, la activara nuevamente cada vez."
+      "content": "La Guardia crea un escudo con vida equivalente a su valor de Poder.\nEste escudo absorberá todo el daño entrante.\nAl usar Guardia múltiples veces en un turno, la activara nuevamente cada vez."
     },
     {
       "id": "tutorial_302_06",
@@ -209,7 +209,7 @@
     },
     {
       "id": "tutorial_302_08",
-      "content": "A diferencia de las otras habilidades defensivas, el Contraataque tiene una Afinidad, y genera su correspondiente recurso E.G.O.\nAl momento de usar Contraataque, la unidad se dispondra de ejecutar un ataque sin oposicion antes de ser alcanzado.\nSin embargo, la unidad no puede lanzar un Contraataque mientras esta Aturdida."
+      "content": "A diferencia de las otras habilidades defensivas, el Contraataque tiene una Afinidad, y genera su correspondiente recurso E.G.O.\nAl momento de usar Contraataque, la unidad se dispondrá de ejecutar un ataque sin oposición antes de ser alcanzado.\nSin embargo, la unidad no puede lanzar un Contraataque mientras esta Aturdida."
     },
     {
       "id": "tutorial_302_09",
@@ -229,7 +229,7 @@
     },
     {
       "id": "tutorial_302_12",
-      "content": "Estas habilidades se han generado sin ningún problema.\nAhora, utilizalas y continua con la batalla.\nTu objetivo es eliminar a todos los enemigos."
+      "content": "Estas habilidades se han generado sin ningún problema.\nAhora, utilízalas y continua con la batalla.\nTu objetivo es eliminar a todos los enemigos."
     },
     {
       "id": "tutorial_1001_01",
@@ -237,19 +237,19 @@
     },
     {
       "id": "tutorial_1001_02_popup_title",
-      "content": "Anormalidades y sus Partes."
+      "content": "Anormalidades y sus Partes"
     },
     {
       "id": "tutorial_1001_02",
-      "content": "Las Anormalidades consisten de almenos una parte del cuerpo.\nCada parte tiene sus propias ranuras, como habilidades individuales."
+      "content": "Las Anormalidades consisten de al menos una parte del cuerpo.\nCada parte tiene sus propias ranuras, como habilidades individuales."
     },
     {
       "id": "tutorial_1001_03",
-      "content": "Escoge una de las habilidades de tus Pecadores y arrastrala hacia una ranura de habilidad de la Anormalidad."
+      "content": "Escoge una de las habilidades de tus Pecadores y arrástrala hacia una ranura de habilidad de la Anormalidad."
     },
     {
       "id": "tutorial_1001_04",
-      "content": "Las habilidades de la Anormalidad también tienen valores de <Velocidad>.\nAdemás de determinar el orden de las acciónes, la Velocidad de una Anormalidad es algo a lo que prestar atención al momento de querer redirigir sus ataques."    },
+      "content": "Las habilidades de la Anormalidad también tienen valores de <Velocidad>.\nAdemás de determinar el orden de las acciones, la Velocidad de una Anormalidad es algo a lo que prestar atención al momento de querer redirigir sus ataques."    },
     {
       "id": "tutorial_1001_05",
       "content": "Cuando le ordenas apuntar a un Pecador con una *alta* Velocidad en una de las ranuras de habilidad de la Anormalidad, éste se verá obligado a efectuar un <Choque> con su nuevo objetivo."
@@ -260,7 +260,7 @@
     },
     {
       "id": "tutorial_1001_07",
-      "content": "Has redirigido el objetivo de la Anormalidad. Estos dos ahora dispondran de un <Choque> este turno."
+      "content": "Has redirigido el objetivo de la Anormalidad. Estos dos ahora dispondrán de un <Choque> este turno."
     },
     {
       "id": "tutorial_1001_08",
@@ -272,7 +272,7 @@
     },
     {
       "id": "tutorial_1001_10",
-      "content": "Despues de que hayas planeado los movimientos de tus Pecadores, presiona aqui para empezar el combate."
+      "content": "Después de que hayas planeado los movimientos de tus Pecadores, presiona aquí para empezar el combate."
     },
     {
       "id": "tutorial_1001_99_popup_title",
@@ -280,10 +280,10 @@
     },
     {
       "id": "tutorial_1001_99",
-      "content": "Cuando los PV de una parte del cuerpo es reducida a 0, estará <Rota>.\nUna parte rota se vuelve vulnerable a todos los tipos de ataques físicos.\nAlgunas partes pueden perder ciertas habilidades o pasivas luego de ser rompidas.\nTen en cuenta que algunas de las Anormalidades tienen partes regenerativas, y así por el contrario, romper alguna puede enfurecer a la Anormalidad."    },
+      "content": "Cuando los PV de una parte del cuerpo es reducida a 0, estará <Rota>.\nUna parte rota se vuelve vulnerable a todos los tipos de ataques físicos.\nAlgunas partes pueden perder ciertas habilidades o pasivas luego de ser rompidos.\nTen en cuenta que algunas de las Anormalidades tienen partes regenerativas, y así por el contrario, romper alguna puede enfurecer a la Anormalidad."    },
     {
       "id": "tutorial_1101_01",
-      "content": "Puede que encuentres Anormalidades con multiples partes en las mazmorras que exploras.\nEn tales casos, cada parte tendrá diferentes Resistencias y Pasivas, y usarán distintas habilidades."
+      "content": "Puede que encuentres Anormalidades con múltiples partes en las mazmorras que exploras.\nEn tales casos, cada parte tendrá diferentes Resistencias y Pasivas, y usarán distintas habilidades."
     },
     {
       "id": "tutorial_1101_02",
@@ -291,7 +291,7 @@
     },
     {
       "id": "tutorial_1101_03_popup_title",
-      "content": "Sin embargo, la enciclopedia está incompleta por el momento.\nUn análisis superficial solo puede aportar cierta información.\nNuestras entradas seran complementadas con más Información a medida que encuentres mas Anormalidades." 
+      "content": "Sin embargo, la enciclopedia está incompleta por el momento.\nUn análisis superficial solo puede aportar cierta información.\nNuestras entradas serán complementadas con más Información a medida que encuentres mas Anormalidades." 
     },
     {
       "id": "tutorial_1101_03",
@@ -307,7 +307,7 @@
     },
     {
       "id": "tutorial_1301_01",
-      "content": "Habilidades de Área-de-Efecto, o para acortar Hablidades de AdE, tienen un alcanze de ataque (Alcance de Atq) asginado a estas.\nLos objetivos de una habilidad AdE dependen de su alcance. (Frente, Centro, Detrás, Especial, etc.)\nCon habilidades de AdE, los Choques soló pueden ocurrir producirse contra la unidad seleccionada manualmente.\nSi una Habilidad AdE pierde en un Choque, el ataque sera cancelado contra todos sus objetivos.\nLas habilidades defensivas seguirán activandose contra las Hablidades de AdE."  
+      "content": "Habilidades de Área-de-Efecto, o para acortar Habilidades de AdE, tienen un alcance de ataque (Alcance de Atq) asginado a estas.\nLos objetivos de una habilidad AdE dependen de su alcance. (Frente, Centro, Detrás, Especial, etc.)\nCon habilidades de AdE, los Choques soló pueden ocurrir producirse contra la unidad seleccionada manualmente.\nSi una Habilidad AdE pierde en un Choque, el ataque será cancelado contra todos sus objetivos.\nLas habilidades defensivas seguirán activándose contra las Habilidades de AdE."  
     }
   ]
 }                                         

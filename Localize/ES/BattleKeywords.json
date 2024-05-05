@@ -215,7 +215,7 @@
     },
     {
       "id": "Sinking",
-      "name": "Declive",
+      "name": "Ahogo",
       "desc": "When hit by an attack, take fixed SP damage by the effect’s Potency.\n(Units with no Sanity take Gloom damage instead.)\nThen, reduce its Count by 1."
     },
     {
@@ -275,7 +275,7 @@
     },
     {
       "id": "Muckworm",
-      "name": "Maggots",
+      "name": "Gusanos",
       "desc": "Turn End: Take Gluttony damage by the Count, then lower it by 1; Bleed Count +1."
     },
     {
@@ -310,7 +310,7 @@
     },
     {
       "id": "SlashDamageUp",
-      "name": "Slash DMG Up",
+      "name": "Daño Cortante Aumentado",
       "desc": "Deal more damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
@@ -575,7 +575,7 @@
     },
     {
       "id": "Assemble",
-      "name": "Fanatic",
+      "name": "Fanático",
       "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
     },
     {
@@ -615,7 +615,7 @@
     },
     {
       "id": "AmberTakeDamageDown",
-      "name": "Sloth Protection",
+      "name": "Protección de Pereza",
       "desc": "Take less damage from Sloth skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
@@ -640,7 +640,7 @@
     },
     {
       "id": "SlashTakeDamageUp",
-      "name": "Slash Fragility",
+      "name": "Fragilidad Cortante",
       "desc": "Take more damage from Slash skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
@@ -685,7 +685,7 @@
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "Envy Fragility",
+      "name": "Fragilidad de Envidia",
       "desc": "Take more damage from Envy skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
@@ -695,7 +695,7 @@
     },
     {
       "id": "AssemblePersonality",
-      "name": "Fánatico",
+      "name": "Fanático",
       "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
     },
     {
@@ -725,7 +725,7 @@
     },
     {
       "id": "VioletResultUp",
-      "name": "Envy Power Up",
+      "name": "Poder de Envidia Aumentado",
       "desc": "Envy skills gain final Power by the effect’s Count for one turn."
     },
     {
@@ -1116,7 +1116,7 @@
     {
       "id": "Blue",
       "name": "Tears",
-      "desc": "Turn End: Lose 5 SP\nTails Coins Inflige 2 de Declive"
+      "desc": "Turn End: Lose 5 SP\nTails Coins Inflige 2 de Ahogo"
     },
     {
       "id": "EgoAwakenDongrangTreeDisplay",
@@ -1176,12 +1176,12 @@
     },
     {
       "id": "MentalSystemResultIncrease_Typo",
-      "name": "SP Heal Efficiency",
+      "name": "Eficiencia en Cura de PC",
       "desc": "Amount of SP healed from SP heal conditions"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
-      "name": "SP Loss Efficiency",
+      "name": "Eficiencia en Pérdida de PC",
       "desc": "Amount of SP lost from SP loss conditions"
     },
     {
@@ -1231,7 +1231,7 @@
     },
     {
       "id": "SlashResultUp",
-      "name": "Slash Power Up",
+      "name": "Poder Cortante Aumentado",
       "desc": "Slash skills gain final Power by the effect’s Count for one turn."
     },
     {
@@ -1257,7 +1257,7 @@
     },
     {
       "id": "RetaliationBook",
-      "name": "Vengeance Mark",
+      "name": "Marca de Venganza",
       "desc": "Applied to the unit that dealt the most damage to an ally (Max 1)",
       "undefined": "-"
     },
@@ -1338,17 +1338,17 @@
     },
     {
       "id": "BladeResultUpTier1",
-      "name": "Sword of the Homeland - Rending",
+      "name": "Espada de la Patría - Desgarro",
       "desc": "Skill 1 gains Final Power by the effect’s Count for this turn."
     },
     {
       "id": "BladeResultUpTier2",
-      "name": "Sword of the Homeland - Penetrating",
+      "name": "Espada de la Patría - Penetrante",
       "desc": "Skill 2 gains Final Power by the effect’s Count for this turn."
     },
     {
       "id": "SwordPlayOfTheHomeland",
-      "name": "Swordplay of the Homeland",
+      "name": "Juego de Espadas Patriótico",
       "desc": "- When at 5+ Poise, upon Skill use, Skill 1 and Skill 2 gain Coin Power +(3/# of Coins, minimum 1) and deal +(30/# of Coins)% damage on Critical Hit\n- When at 7+ Poise, upon Skill use, Skill 3 deals +(30/# of Coins)% more damage and deals +(50/# of Coins)% damage on Critical Hit"
     },
     {
@@ -1364,7 +1364,7 @@
     },
     {
       "id": "Vibration_Collapse",
-      "name": "Tremor - Decay",
+      "name": "Tremor - Deteriorado",
       "desc": "Lose 1 Defense Level for every 4 Tremor Potency on self\nWhen Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)"
     },
     {
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "Switch_Vibration",
-      "name": "Amplitude Conversion",
+      "name": "Conversión de Amplitud",
       "desc": "Converts Tremor or already converted Tremor on target to a different type of Tremor.\nPotency and Count values do not change over the conversion."
     },
     {
@@ -1384,7 +1384,7 @@
     },
     {
       "id": "VibrationCrack",
-      "name": "Tremor - Fracture",
+      "name": "Tremor - Fracturado",
       "desc": "- When Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\n- Cannot exceed maximum Stagger Level with this effect\n\nWhen hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\nTurn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raises or reduces Tremor Potency/Count)"
     },
     {
@@ -1401,10 +1401,27 @@
     },
     {
       "id": "MarkOfButler",
-      "name": "B.M.",
+      "name": "M.M.",
       "desc": "Enhances Edgar Family Chief Butler Ryōshū Skills against targets with this effect.\nTurn End: reduce the Count by 1",
       "summary": "",
       "undefined": "-"
+    },
+    {
+      "id": "PreparedMeat",
+      "name": "Prepared Meat",
+      "desc": "If conditions are met, Fairy Queen kills this unit at Turn End"
+    },
+    {
+      "id": "Hunger",
+      "name": "Hunger",
+      "desc": "Turn End: gain 1 if this unit failed to defeat an ally with Prepared Meat.\nAt 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: lose 1 if this unit defeated an ally with Prepared Meat.\nAt 0 value, gain (# of allies defeated x 3)Attack Power Down and Defense Power Down.",
+      "summary": ""
+    },
+    {
+      "id": "UnstableFeeling",
+      "name": "Volatile Passion",
+      "desc": "- On Hit, inflict 1 Burn\n- If the main target has Burn, Final Power +1\n- When hit, if this unit had a Defense Skill chained at Combat Start, inflict Burn against the attacker for the turn\n- Turn End: lose (# of turns spent in Volatile E.G.O state x 5) SP. (Max SP loss : 40)",
+      "summary": ""
     }
   ]
 }

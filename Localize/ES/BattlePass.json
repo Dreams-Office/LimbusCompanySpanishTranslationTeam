@@ -34,7 +34,7 @@
     },
     {
       "id": "battlepass_remain_time",
-      "content": "{0} days {1} hours left"
+      "content": "DiasHoras: {0}"
     },
     {
       "id": "battlepass_ask_purchase_limbus_pass",
@@ -74,15 +74,15 @@
     },
     {
       "id": "remain_days_with_label",
-      "content": "{0}d left"
+      "content": "Quedan {0} días"
     },
     {
       "id": "remain_hours_with_label",
-      "content": "{0}h left"
+      "content": "Quedan {0} horas"
     },
     {
       "id": "remain_minutes_with_label",
-      "content": "{0}m left"
+      "content": "Quedan {0} minutos"
     },
     {
       "id": "update_progress",
@@ -122,11 +122,11 @@
     },
     {
       "id": "battlepass_free",
-      "content": "Free"
+      "content": "Gratis"
     },
     {
       "id": "battlepass_limbuspass",
-      "content": "Limbus Pass"
+      "content": "Pase de Limbus"
     },
     {
       "id": "battlepass_unable_levelup_by_level",
