@@ -746,7 +746,7 @@
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "Curación de PV Reducida",
+      "name": "Curación de HP Reducida",
       "desc": "HP healed by Passives, Skill effects, or Coin effects decreases proportionally to the value of this effect. (Max 5)"
     },
     {
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "KCorpSerum",
-      "name": "Ámpula de K Corp",
+      "name": "Vial de K Corp",
       "desc": "Turn Start: At less than 4 Count, heal by (Count * 5)% of Max HP\nAt 4+ Count, the unit dies",
       "summary": ""
     },
@@ -1216,7 +1216,7 @@
     },
     {
       "id": "BurstProtection",
-      "name": "Rupture Protection",
+      "name": "Protección de Ruptura",
       "desc": "Take -1 damage per Count from Rupture effects for one turn."
     },
     {

@@ -2,133 +2,133 @@
   "dataList": [
     {
       "id": 816101,
-      "name": "Sin Nullification",
-      "desc": "Unless this unit is Staggered or Part Broken, take 80% less [Combustion] damage."
+      "name": "Anulación del Pecado",
+      "desc": "A menos que esta unidad esté Aturdida o con una Parte Rota, recibe un 80% menos de daño de [Combustion]."
     },
     {
       "id": 816102,
-      "name": "Proliferating Flame",
-      "desc": "If the target has [Combustion]: On Hit, spread half of [Combustion] on target to 2 units adjacent to the target on the Dashboard."
+      "name": "Llama Proliferante",
+      "desc": "Si el objetivo tiene [Combustion]: al golpear, distribuye la mitad de [Combustion] en el objetivo a 2 unidades adyacentes al objetivo en el Tablero."
     },
     {
       "id": 816601,
-      "name": "Chaotic Hunt",
-      "desc": "Clash Win: Clash Power -1 for the next Clash (max 2)\nClash Lose: Clash Power +1 for the next Clash (max 2)"
+      "name": "Caza Caótica",
+      "desc": "Choque Ganado: Poder de Choque -1 para el próximo Choque (máx 2)\nChoque Perdido: Poder de Choque +1 para el próximo Choque (máx 2)"
     },
     {
       "id": 816602,
-      "name": "Humanity Abandoned",
-      "desc": "Turn Start: gain 2 [AttackDmgUp]."
+      "name": "Humanidad Abandonada",
+      "desc": "Inicio de Turno: gana 2 de [AttackDmgUp]."
     },
     {
       "id": 816603,
-      "name": "Sack",
-      "desc": "- When this unit has the Chain, all Parts gain 1 [Enhancement] and 2 [AttackDmgUp]\n- When the Chain is broken, starting next turn, gain 2 [Binding] and +0.7 to all physical resistances until the end of this Encounter"
+      "name": "Saco",
+      "desc": "- Cuando esta unidad tiene la Cadena, todas las Partes ganan 1 de [Enhancement] y 2 de [AttackDmgUp]\n- Cuando se rompa la Cadena, empezando el siguiente turno, gana 2 de [Binding] y +0.7 a todas las resintencias físicas hasta el final del Encuentro"
     },
     {
       "id": 816604,
-      "name": "Ressentiment",
-      "desc": "When this unit has 35% or less HP: If the target has a higher HP percentage than this unit, Clash Power +2"
+      "name": "Resentimiento",
+      "desc": "Cuando esta unidad tiene 35% o menos HP: si el objetivo tiene un porcentaje de HP más alto que esta unidad, Poder de Choque +2"
     },
     {
       "id": 816605,
-      "name": "Spite-driven",
-      "desc": "If this Unit's current HP percentage is 30% or less:\n- Blunt Skills Deal +20% more damage\n- Gain 1 [Enhancement] and 2 [Vulnerable] with every turn that passes. (3 times max)"
+      "name": "Rencoroso",
+      "desc": "Si el porcentaje de HP actual de esta unidad es del 30% o menos:\n- Las habilidades contundentes causan +20% más de daño.\n- Gana 1 de [Enhancement] y 2  de [Vulnerable] con cada turno que pasa. (3 veces máximo)"
     },
     {
       "id": 816606,
-      "name": "Infernal Hound",
-      "desc": "When the Chain is broken, inflict [AaCfPcBg] to a random enemy.\nStarting next turn, prioritize target with [AaCfPcBg]."
+      "name": "Sabueso Infernal",
+      "desc": "Cuando se rompa la Cadena, inflige [AaCfPcBg] a un enemigo aleatorio.\nA partir del siguiente turno, prioriza el objetivo con [AaCfPcBg]."
     },
     {
       "id": 817101,
-      "name": "Superiority",
-      "desc": "Clash Win: If this unit's Speed is faster than the target's, heal 3 SP"
+      "name": "Superioridad",
+      "desc": "Choque Ganado: si la Velocidad de esta unidad es más rápida que la del objetivo, cura 3 PC"
     },
     {
       "id": 817102,
-      "name": "The Uninvited",
-      "desc": "If there are Staggered enemies, this unit prioritizes Staggered targets with its Attack Skills\nDeal +20% more damage to Staggered enemies On Hit"
+      "name": "El no Invitado",
+      "desc": "Si hay enemigos Aturdidos, esta unidad prioriza los objetivos Aturdidos con sus habilidades de ataque.\nInflige +20% más de daño a enemigos Aturdidos al golpear."
     },
     {
       "id": 817103,
-      "name": "Receiving Arts 9: Binding",
-      "desc": "After this unit gains a new pattern, and after Combat End, inflict [AaCfPcBc] to a random Identity without [AaCfPcBc] next turn"
+      "name": "Artes Hospitalarias 9: Atadura",
+      "desc": "Después de que esta unidad obtenga un nuevo patrón, y después de Finalizar el Combate, inflige [AaCfPcBc] a una identidad aleatoria sin [AaCfPcBc] el próximo turno."
     },
     {
       "id": 817104,
-      "name": "Release From Binds",
-      "desc": "All [AaCfPcBc] less than or equal to 2 expires when this unit is Staggered"
+      "name": "Liberación de Ataduras",
+      "desc": "Todo [AaCfPcBc] menor o igual a 2 caduca cuando esta unidad está Aturdido"
     },
     {
       "id": 817201,
-      "name": "Spreading Emotions",
-      "desc": "When an ally with the same Affinity to this unit's Explosive Emotions effect is defeated: lose Explosive Emotions effect on self, kill all other allies, and gain [AaCfPbBd] next turn.\nAll Sinners gain the effects of the corresponding Explosive Emotions effect, and protection against the corresponding Affinity."
+      "name": "Difundiendo Emociones",
+      "desc": "Cuando un aliado con la misma Afinidad al efecto de Emociones Explosivas de esta unidad es derrotada: pierde el efecto de Emociones Explosivas en uno mismo, mata a todos los demás aliados y gana [AaCfPbBd] en el próximo turno.\nTodos los Pecadores obtienen los efectos del correspondiente efecto de Emociones Explosivas y protección contra la Afinidad correspondiente."
     },
     {
       "id": 817202,
-      "name": "Amalgamated Resentment",
-      "desc": "When this unit has an Explosive Emotions effect, all Skill Affinities are replaced with the corresponding Affinity.\nEven after the Explosive Emotions effect expires, the changed Skill Affinities remain changed for the rest of the Phase."
+      "name": "Resentimiento Amalgamado",
+      "desc": "Cuando esta unidad tiene un efecto de Emociones Explosivas, todas las Afinidades de habilidad se reemplazan con la afinidad correspondiente.\nIncluso después de que expire el efecto de Emociones Explosivas, las Afinidades de habilidades modificadas permanecen cambiadas durante el resto de la Fase.."
     },
     {
       "id": 817203,
-      "name": "Continuing Revenge",
-      "desc": "Gains a new pattern at 75% and 35% of max HP.\nWhen this unit gains a new pattern, halve the Potency and Count of every negative effect on self"
+      "name": "Venganza Continua",
+      "desc": "Obtiene un nuevo patrón al 75% y 35% del HP máximo.\nCuando esta unidad obtenga un nuevo patrón, reducirá a la mitad la Potencia y el Contador de cada efecto negativo sobre sí mismo"
     },
     {
       "id": 9101602,
-      "name": "Antagonism",
-      "desc": "If the target's current HP is higher than this unit's, Clash Power +2 and deal +20% more damage"
+      "name": "Antagonismo",
+      "desc": "Si el HP actual del objetivo es mayor que el de esta unidad, Poder de Choque +2 e inflige +20% más de daño."
     },
     {
       "id": 9101603,
-      "name": "Long-awaited Moment",
-      "desc": "Clash Win: Heal 5 SP on self\nClash Lose against Heathcliff: Lose 5 SP and gain 2 [Binding] next turn. (Once per turn)\nIf this unit did not land a single hit against Heathcliff this turn, lose 5 SP at Turn End"
+      "name": "Momento tan Esperado",
+      "desc": "Choque Ganado: Cura 5 PC a si mismo\nChoque Perdido contra Heathcliff: Pierde 5 PC y gana 2 de [Binding] el próximo turno. (Una vez por turno)\nSi esta unidad no logró un solo golpe contra Heathcliff este turno, perderá 5 PC al final del turno."
     },
     {
       "id": 9101606,
-      "name": "Vying Spirit",
-      "desc": "The lower this unit's HP gets, the higher this unit's Defense Level gets\nDefense Level +1 for every 10% missing HP on self (rounded down)"
+      "name": "Espíritu Competitivo",
+      "desc": "Cuanto menor sea el HP de esta unidad, mayor será su Nivel Defensivo.\nNivel Defensivo +1 por cada 10% de HP faltante en sí mismo (redondeado hacia abajo)"
     },
     {
       "id": 821601,
-      "name": "Wild Hunt of Desolation",
-      "desc": "Cannot be defeated at 0 HP. HP does not drop below 1."
+      "name": "Cacería Salvaje de la Desolación",
+      "desc": "No puede ser derrotado con 0 HP. El HP no cae por debajo de 1."
     },
     {
       "id": 817401,
-      "name": "A Distant Identity",
-      "desc": "Turn End: If both Hands are at 1 HP, become Immobilized."
+      "name": "Una Identidad Distante",
+      "desc": "Fin del Turno: si ambas manos tienen 1 HP, queda inmovilizado."
     },
     {
       "id": 817402,
-      "name": "Cold Body",
-      "desc": "HP does not drop below 1."
+      "name": "Cuerpo Frio",
+      "desc": "HP no cae por debajo de 1."
     },
     {
       "id": 817403,
-      "name": "A Shaky Ego",
-      "desc": "Turn End: If both Hands are at 1 HP, gain Shield next turn.\nOnce the Shield is fully depleted, become Immobilized."
+      "name": "Un Ego Tambaleante",
+      "desc": "Fin del Turno: si ambas manos tienen 1 HP, gana escudo el próximo turno.\nUna vez que el escudo esté completamente agotado, queda inmovilizado."
     },
     {
       "id": 819201,
-      "name": "Misery-severing Hand",
-      "desc": "If the other Hand is at 2+ HP at the next Turn End after the turn in which this Hand reaches 1 HP, this unit heals HP equal to 50% of the other Hand's HP. (rounded down)"
+      "name": "Mano Corta-Miserias",
+      "desc": "Si la otra Mano tiene 2+ HP al final del siguiente turno después del turno en el que esta Mano alcanza 1 HP, esta unidad se cura HP equivalente al 50% de los HP de la otra Mano. (redondeado hacia abajo)"
     },
     {
       "id": 821401,
-      "name": "Deep Bereavement",
-      "desc": "Become Staggered as long as this unit's HP is at 1. The HP does not drop below 1."
+      "name": "Aflicción Profunda",
+      "desc": "Queda Aturdido siempre que el HP de esta unidad sea 1. El HP no cae por debajo de 1."
     },
     {
       "id": 817404,
-      "name": "Broken Heart",
-      "desc": "Turn Start: If there is a Hand with 2+ HP, gain 10 [Protection], and all Resistance values become 0.2.\nTurn Start: If both Hands are at 1 HP, [Protection] expires, and all Resistance values revert to default values."
+      "name": "Corazón Roto",
+      "desc": "Inicio de Turno: Si hay una Mano con 2+ HP, gana 10 de [Protection], y todos los valores de Resistencia pasan a 0.2.\nIncio de Turno: Si ambas Manos están a 1 HP, [Protection] caduca, y todos los valores de Resistencia vuelven a sus valores por defecto."
     },
     {
       "id": 817405,
-      "name": "For Every Heathcliff",
-      "desc": "When Clashing against Heathcliff, Clash Power -3 and deal -50% less damage against Heathcliff\nWins Encounter if Heathcliff dies"
+      "name": "Para Cada Heathcliff",
+      "desc": "Al chocar contra Heathcliff, Poder de Choque -3 e inflige -50% menos de daño contra Heathcliff\nGana el encuentro si Heathcliff muere"
     }
   ]
 }

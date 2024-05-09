@@ -136,7 +136,7 @@
         {
           "level": 3,
           "name": "Deploy Barrera Cargada",
-          "desc": "[WhenUse] Con 10+ de Contador de Carga, consume todo el Contador de Carga para aplicar (Contador de Carga consumido / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (redondeado hacia abajo) a 2 aliados con el menor porcentaje de PV",
+          "desc": "[WhenUse] Con 10+ de Contador de Carga, consume todo el Contador de Carga para aplicar (Contador de Carga consumido / 2) <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (redondeado hacia abajo) a 2 aliados con el menor porcentaje de HP",
           "coinlist": [
             {},
             {},
@@ -155,7 +155,7 @@
         {
           "level": 4,
           "name": "Deploy Barrera Cargada",
-          "desc": "[WhenUse] Con 10+ de Contador de Carga, consume todo el Contador de Carga para aplicar (Contador de Carga consumido / 2) de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (redondeado hacia abajo) a 2 aliados con el menor porcentaje de PV",
+          "desc": "[WhenUse] Con 10+ de Contador de Carga, consume todo el Contador de Carga para aplicar (Contador de Carga consumido / 2) de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera Cargada</color></link></u> (redondeado hacia abajo) a 2 aliados con el menor porcentaje de HP",
           "coinlist": [
             {},
             {},
@@ -348,7 +348,7 @@
         {
           "level": 3,
           "name": "Alboroto",
-          "desc": "Con 8+ de Velocidad, Poder de Moneda +1\nRealiza más daño según los PV faltantes del objetivo (+0.3% de daño por cada 1% de PV perdido)",
+          "desc": "Con 8+ de Velocidad, Poder de Moneda +1\nRealiza más daño según los HP faltantes del objetivo (+0.3% de daño por cada 1% de HP perdido)",
           "coinlist": [
             {
               "coindescs": [
@@ -377,7 +377,7 @@
         {
           "level": 4,
           "name": "Alboroto",
-          "desc": "Con 6+ de Velocidad, Poder de Moneda +1\nRealiza más daño según los PV faltantes del objetivo (+0.5% de daño por cada 1% de PV perdido)",
+          "desc": "Con 6+ de Velocidad, Poder de Moneda +1\nRealiza más daño según los HP faltantes del objetivo (+0.5% de daño por cada 1% de HP perdido)",
           "coinlist": [
             {
               "coindescs": [
@@ -548,7 +548,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 de Contaddor de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] Si el objetivo es aturdido o derrotado, cura 10 PV"
+                  "desc": "[EndSkill] Si el objetivo es aturdido o derrotado, cura 10 HP"
                 }
               ]
             }
@@ -567,7 +567,7 @@
                   "desc": "[OnSucceedAttack] Inflige +4 de Contaddor de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] Si el objetivo es aturdido o derrotado, cura 10 PV"
+                  "desc": "[EndSkill] Si el objetivo es aturdido o derrotado, cura 10 HP"
                 }
               ]
             }

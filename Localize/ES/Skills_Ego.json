@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vista de Cuervo",
+          "name": "A Vista de Cuervo",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
@@ -23,7 +23,7 @@
         },
         {
           "level": 3,
-          "name": "Vista de Cuervo",
+          "name": "A Vista de Cuervo",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
@@ -41,7 +41,7 @@
         },
         {
           "level": 4,
-          "name": "Vista de Cuervo",
+          "name": "A Vista de Cuervo",
           "abName": "Yi Sang",
           "desc": "",
           "coinlist": [
@@ -318,7 +318,7 @@
                   "desc": "[EndSkill] Cura 10 PC para todos los aliados"
                 },
                 {
-                  "desc": "[EndSkill] Cura a todos los aliados un 10% de sus PV"
+                  "desc": "[EndSkill] Cura a todos los aliados un 10% de sus HP"
                 }
               ]
             }
@@ -336,7 +336,7 @@
                   "desc": "[EndSkill] Cura 15 PC para todos los aliados"
                 },
                 {
-                  "desc": "[EndSkill] Cura a todos los aliados un 15% de sus PV"
+                  "desc": "[EndSkill] Cura a todos los aliados un 15% de sus HP"
                 }
               ]
             }
@@ -354,7 +354,7 @@
                   "desc": "[EndSkill] Cura 15 PC para todos los aliados"
                 },
                 {
-                  "desc": "[EndSkill] Cura a todos los aliados un 15% de sus PV"
+                  "desc": "[EndSkill] Cura a todos los aliados un 15% de sus HP"
                 },
                 {
                   "desc": "[EndSkillHead] Cura 10 PC para todos los aliados"
@@ -442,7 +442,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
                 }
               ]
             }
@@ -460,7 +460,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Frágil Penetrante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Maldición"
@@ -481,7 +481,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Frágil Penetrante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Maldición"
@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
                 }
               ]
             }
@@ -1080,7 +1080,7 @@
           "level": 1,
           "name": "Prosecución",
           "abName": "Escriba del Ejecutor Celestial",
-          "desc": "[EndSkill] Cura a los 2 aliados con menos PV por 15% de sus PV",
+          "desc": "[EndSkill] Cura a los 2 aliados con menos HP por 15% de sus HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1095,7 +1095,7 @@
           "level": 3,
           "name": "Prosecución",
           "abName": "Escriba del Ejecutor Celestial",
-          "desc": "[EndSkill] Cura a los 2 aliados con menos PV por 30% de sus PV; Aplica 2 de Protección el siguiente turno",
+          "desc": "[EndSkill] Cura a los 2 aliados con menos HP por 30% de sus HP; Aplica 2 de Protección el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1115,7 +1115,7 @@
           "level": 1,
           "name": "Prosecución",
           "abName": "Escriba del Ejecutor Celestial",
-          "desc": "[CantIdentify] Elección Aleatoria\n[EndSkill] Aplica 1 de Frágil y 2 de Aumento de Atq. el siguiente turno a los 2 aliados con menos PV",
+          "desc": "[CantIdentify] Elección Aleatoria\n[EndSkill] Aplica 1 de Frágil y 2 de Aumento de Atq. el siguiente turno a los 2 aliados con menos HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1130,7 +1130,7 @@
           "level": 3,
           "name": "Prosecución",
           "abName": "Escriba del Ejecutor Celestial",
-          "desc": "[CantIdentify] Elección Aleatoria\n[EndSkill] Aplica 2 de Frágil y 3 de Aumento de Atq. el siguiente turno a los 2 aliados con menos PV",
+          "desc": "[CantIdentify] Elección Aleatoria\n[EndSkill] Aplica 2 de Frágil y 3 de Aumento de Atq. el siguiente turno a los 2 aliados con menos HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1749,7 +1749,7 @@
           "level": 1,
           "name": "Estrella De Pétalo Ardiente",
           "abName": "Polilla de Pétalo Ardiente",
-          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1764,7 +1764,7 @@
           "level": 3,
           "name": "Estrella De Pétalo Ardiente",
           "abName": "Polilla de Pétalo Ardiente",
-          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1782,7 +1782,7 @@
           "level": 4,
           "name": "Estrella De Pétalo Ardiente",
           "abName": "Polilla de Pétalo Ardiente",
-          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus PV",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[WhenUse] Lose HP by 10% de sus HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1805,7 +1805,7 @@
           "level": 1,
           "name": "Lo Que Fue Arrojado",
           "abName": "Rodion",
-          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +10% del total",
+          "desc": "Si los HP del objetivo estan sobre el 50%, Realiza un +10% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -1820,7 +1820,7 @@
           "level": 3,
           "name": "Lo Que Fue Arrojado",
           "abName": "Rodion",
-          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "Si los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -1835,7 +1835,7 @@
           "level": 4,
           "name": "Lo Que Fue Arrojado",
           "abName": "Rodion",
-          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "Si los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -1937,7 +1937,7 @@
           "level": 1,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un 10% del total",
+          "desc": "Si los HP del objetivo estan sobre el 50%, Realiza un 10% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -1955,7 +1955,7 @@
           "level": 3,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "Si los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -1973,7 +1973,7 @@
           "level": 4,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "Si los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "Si los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -1996,7 +1996,7 @@
           "level": 1,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nElije a la unidad con mas PV\nSi los PV del objetivo estan sobre el 50%, Realiza un +10% del total",
+          "desc": "[CantIdentify]\nElije a la unidad con mas HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +10% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2014,7 +2014,7 @@
           "level": 3,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nElije a la unidad con mas PV\nSi los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "[CantIdentify]\nElije a la unidad con mas HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2032,7 +2032,7 @@
           "level": 4,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nElije a la unidad con mas PV\nSi los PV del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "[CantIdentify]\nElije a la unidad con mas HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2122,7 +2122,7 @@
           "level": 1,
           "name": "Dia Inminente",
           "abName": "Calendario del Juicio Final",
-          "desc": "Si los PV estan debajo del 25%, Realiza un 15% del total",
+          "desc": "Si los HP estan debajo del 25%, Realiza un 15% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2137,7 +2137,7 @@
           "level": 3,
           "name": "Dia Inminente",
           "abName": "Calendario del Juicio Final",
-          "desc": "Si los PV estan debajo del 25%, Realiza un 20% del total",
+          "desc": "Si los HP estan debajo del 25%, Realiza un 20% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2145,7 +2145,7 @@
                   "desc": "[EnemyKill] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
                 },
                 {
-                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus PV máx."
+                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus HP máx."
                 }
               ]
             }
@@ -2155,7 +2155,7 @@
           "level": 4,
           "name": "Dia Inminente",
           "abName": "Calendario del Juicio Final",
-          "desc": "Si los PV estan debajo del 25%, Realiza un 40% del total",
+          "desc": "Si los HP estan debajo del 25%, Realiza un 40% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2163,7 +2163,7 @@
                   "desc": "[EnemyKill] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
                 },
                 {
-                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus PV máx."
+                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus HP máx."
                 }
               ]
             }
@@ -2178,7 +2178,7 @@
           "level": 1,
           "name": "Dia Inminente",
           "abName": "Calendario del Juicio Final",
-          "desc": "[CantIdentify]\nElección Aleatoria\nSi los PV estan debajo del 25%, Realiza un 15% del total",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi los HP estan debajo del 25%, Realiza un 15% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2193,7 +2193,7 @@
           "level": 3,
           "name": "Dia Inminente",
           "abName": "Calendario del Juicio Final",
-          "desc": "[CantIdentify]\nElección Aleatoria\nSi los PV estan debajo del 25%, Realiza un 25% del total",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi los HP estan debajo del 25%, Realiza un 25% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2211,7 +2211,7 @@
           "level": 4,
           "name": "Dia Inminente",
           "abName": "Calendario del Juicio Final",
-          "desc": "[CantIdentify]\nElección Aleatoria\nSi los PV estan debajo del 25%, Realiza un 50% del total",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi los HP estan debajo del 25%, Realiza un 50% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2234,7 +2234,7 @@
           "level": 1,
           "name": "To Páthos Máthos",
           "abName": "Outis",
-          "desc": "Si los PV estan debajo del 50%, Realiza un 10% del total",
+          "desc": "Si los HP estan debajo del 50%, Realiza un 10% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2249,7 +2249,7 @@
           "level": 3,
           "name": "To Páthos Máthos",
           "abName": "Outis",
-          "desc": "Si los PV estan debajo del 50%, Realiza un 30% del total",
+          "desc": "Si los HP estan debajo del 50%, Realiza un 30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2264,7 +2264,7 @@
           "level": 4,
           "name": "To Páthos Máthos",
           "abName": "Outis",
-          "desc": "Si los PV estan debajo del 50%, Realiza un 30% del total",
+          "desc": "Si los HP estan debajo del 50%, Realiza un 30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2303,7 +2303,7 @@
         },
         {
           "level": 3,
-          "name": "Rama Ébano",
+          "name": "Rama de Ébano",
           "abName": "Manzana de la Reina de Ébano",
           "desc": "",
           "coinlist": [
@@ -2329,7 +2329,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rama Ébano",
+          "name": "Rama de Ébano",
           "abName": "Manzana de la Reina de Ébano",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
@@ -2347,7 +2347,7 @@
         },
         {
           "level": 3,
-          "name": "Rama Ébano",
+          "name": "Rama de Ébano",
           "abName": "Manzana de la Reina de Ébano",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
@@ -2672,7 +2672,7 @@
           "level": 1,
           "name": "Linterna",
           "abName": "Hadalinterna",
-          "desc": "[CantIdentify] \nElije a la unidad con mas PV",
+          "desc": "[CantIdentify] \nElije a la unidad con mas HP",
           "coinlist": [
             {
               "coindescs": [
@@ -2690,7 +2690,7 @@
           "level": 3,
           "name": "Linterna",
           "abName": "Hadalinterna",
-          "desc": "[CantIdentify] \nElije a la unidad con mas PV",
+          "desc": "[CantIdentify] \nElije a la unidad con mas HP",
           "coinlist": [
             {
               "coindescs": [
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 25%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 5% por cada recurso gastado",
+          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 25%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 5% por cada recurso gastado",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 50%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 10% por cada recurso gastado",
+          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 50%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 10% por cada recurso gastado",
           "coinlist": [
             {
               "coindescs": [
@@ -3025,12 +3025,12 @@
           "level": 1,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\nSi el objetivo es un aliado no lo lastima.",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\nSi el objetivo es un aliado no lo lastima.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 5% de su PV máximo"
+                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 5% de su HP máximo"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Inflige 7 de Quemado; Si el objetivo es un aliado, Les da 2 de Rapidez el siguiente turno"
@@ -3043,12 +3043,12 @@
           "level": 3,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\nSi el objetivo es un aliado no lo lastima.",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\nSi el objetivo es un aliado no lo lastima.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 10% de su PV máximo"
+                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 10% de su HP máximo"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Inflige 7 de Quemado; Si el objetivo es un aliado, Da 2 de Rapidez y 1 de <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">de amplificación de recursos E.G.O </color></link></u> el siguiente turno"
@@ -3066,7 +3066,7 @@
           "level": 1,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 10%",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 10%",
           "coinlist": [
             {
               "coindescs": [
@@ -3081,7 +3081,7 @@
           "level": 3,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 20%",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 20%",
           "coinlist": [
             {
               "coindescs": [
@@ -3096,7 +3096,7 @@
           "level": 4,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 30%",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentaro el ataque en un 30%",
           "coinlist": [
             {
               "coindescs": [
@@ -3272,7 +3272,7 @@
           "level": 1,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Gana 2 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +1 de Frágil y de Grieta Dimensional con esta habilidad",
+          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Gana 2 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +1 de Frágil y de Grieta Dimensional con esta habilidad",
           "coinlist": [
             {
               "coindescs": [
@@ -3287,7 +3287,7 @@
           "level": 3,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "[CantIdentify]\nElije a la unidad con mas PV\n\n[BeforeAttack] Gana 3 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +2 de Frágil y de Grieta Dimensional con esta habilidad",
+          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Gana 3 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +2 de Frágil y de Grieta Dimensional con esta habilidad",
           "coinlist": [
             {
               "coindescs": [
@@ -3496,7 +3496,7 @@
           "level": 1,
           "name": "Capote",
           "abName": "Toro Bronceado",
-          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Frágil de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3517,7 +3517,7 @@
           "level": 3,
           "name": "Capote",
           "abName": "Toro Bronceado",
-          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Frágil de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3608,7 +3608,7 @@
           "level": 1,
           "name": "Sol Lluvia",
           "abName": "Zorro Despropositado",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\n[BeforeAttack] Gana +5 de Contador de Temple",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\n[BeforeAttack] Gana +5 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -3626,7 +3626,7 @@
           "level": 3,
           "name": "Sol Lluvia",
           "abName": "Zorro Despropositado",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\n[BeforeAttack] Gana +7 de Contador de Temple",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\n[BeforeAttack] Gana +7 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -3650,7 +3650,7 @@
           "level": 4,
           "name": "Sol Lluvia",
           "abName": "Zorro Despropositado",
-          "desc": "[CantIdentify]\nElije la unidad con menos PV\n[BeforeAttack] Gana +7 de Contador de Temple",
+          "desc": "[CantIdentify]\nElije la unidad con menos HP\n[BeforeAttack] Gana +7 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -3799,7 +3799,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis y 1 de Frágil de Tristeza"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis y 1 de Fragilidad de Tristeza"
                 }
               ]
             }
@@ -3822,7 +3822,7 @@
                   "desc": "[OnSucceedAttack] Gasta todo el Contador de Carga para obtener un bono de Atq en Tristeza (de Contador de Carga * 1.5)% del total realizado (Max 30%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Despues de atacar, pierde 10% de sus PV para Ganar +7 de Contador de Carga"
+                  "desc": "[OnSucceedAttackTail] Despues de atacar, pierde 10% de sus HP para Ganar +7 de Contador de Carga"
                 }
               ]
             }
@@ -3840,7 +3840,7 @@
                   "desc": "[OnSucceedAttack] Gasta todo el Contador de Carga para obtener un bono de Atq en Tristeza (de Contador de Carga * 2.5)% del total realizado (Max 50%)"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Despues de atacar, pierde 10% de sus PV para Ganar +10 de Contador de Carga"
+                  "desc": "[OnSucceedAttackTail] Despues de atacar, pierde 10% de sus HP para Ganar +10 de Contador de Carga"
                 }
               ]
             }
@@ -3861,7 +3861,7 @@
                   "desc": "[EndSkill] Gasta todo el Contador de Carga"
                 },
                 {
-                  "desc": "[EndSkillTail] Pierde un 10% de sus PV para Ganar +10 de Contador de Carga"
+                  "desc": "[EndSkillTail] Pierde un 10% de sus HP para Ganar +10 de Contador de Carga"
                 }
               ]
             }
@@ -4072,7 +4072,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza 20% del Atq total"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
                 }
               ]
             }
@@ -4090,7 +4090,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +40% del Atq total"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
                 }
               ]
             }
@@ -4128,7 +4128,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +30% del Ataque Total"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
                 }
               ]
             }
@@ -4146,7 +4146,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de Atadura, Realiza +50% del Atq total"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos PV por 10% de sus PV"
+                  "desc": "[OnSucceedAttack] Si esta habilidad mata o Aturde al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
                 }
               ]
             }

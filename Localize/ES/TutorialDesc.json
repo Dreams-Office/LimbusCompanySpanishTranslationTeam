@@ -62,7 +62,7 @@
     },
     {
       "id": "tutorial_104_02",
-      "content": "Cuando un ataque disminuye los PV de una unidad por debajo del umbral con linea amarilla, estos se volverán <Aturdidos>.\nMientras están <Aturdidos>, todas las resistencias físicas cambian a Fatal.\nSi los PV de una unidad caen por debajo de mas de un Umbral de Aturdimiento en un solo turno, Su <Nivel de Aturdimiento> se verá aumentado.\nEste <Nivel de Aturdimiento> puede aumentar hasta 3, y mientras mas sube el daño que recibe la unidad es amplificado."
+      "content": "Cuando un ataque disminuye los HP de una unidad por debajo del umbral con linea amarilla, estos se volverán <Aturdidos>.\nMientras están <Aturdidos>, todas las resistencias físicas cambian a Fatal.\nSi los HP de una unidad caen por debajo de mas de un Umbral de Aturdimiento en un solo turno, Su <Nivel de Aturdimiento> se verá aumentado.\nEste <Nivel de Aturdimiento> puede aumentar hasta 3, y mientras mas sube el daño que recibe la unidad es amplificado."
     },
     {
       "id": "tutorial_104_03",
@@ -280,7 +280,7 @@
     },
     {
       "id": "tutorial_1001_99",
-      "content": "Cuando los PV de una parte del cuerpo es reducida a 0, estará <Rota>.\nUna parte rota se vuelve vulnerable a todos los tipos de ataques físicos.\nAlgunas partes pueden perder ciertas habilidades o pasivas luego de ser rompidos.\nTen en cuenta que algunas de las Anormalidades tienen partes regenerativas, y así por el contrario, romper alguna puede enfurecer a la Anormalidad."    },
+      "content": "Cuando los HP de una parte del cuerpo es reducida a 0, estará <Rota>.\nUna parte rota se vuelve vulnerable a todos los tipos de ataques físicos.\nAlgunas partes pueden perder ciertas habilidades o pasivas luego de ser rompidos.\nTen en cuenta que algunas de las Anormalidades tienen partes regenerativas, y así por el contrario, romper alguna puede enfurecer a la Anormalidad."    },
     {
       "id": "tutorial_1101_01",
       "content": "Puede que encuentres Anormalidades con múltiples partes en las mazmorras que exploras.\nEn tales casos, cada parte tendrá diferentes Resistencias y Pasivas, y usarán distintas habilidades."

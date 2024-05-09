@@ -497,13 +497,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura 10 PV."
+                  "desc": "[OnSucceedAttack] Cura 10 HP."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Cura PV adicional basado en la [Burst] del objetivo (1 PV curado cada 1 de [Burst]. Máx 20)"
+                  "desc": "[OnSucceedAttack] Cura HP adicional basado en la [Burst] del objetivo (1 HP curado cada 1 de [Burst]. Máx 20)"
                 },
                 {
-                  "desc": "Con menos de 50% PV, Reusa esta Moneda una vez más"
+                  "desc": "Con menos de 50% HP, Reusa esta Moneda una vez más"
                 }
               ]
             }
@@ -528,10 +528,10 @@
                   "desc": "[OnSucceedAttack] Heal 15 HP. Heal by +50% more HP when reusing Coin."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Cura PV adicional basado en la [Burst] del objetivo (2 PV curado cada 1 de [Burst]. Máx 40)"
+                  "desc": "[OnSucceedAttack] Cura HP adicional basado en la [Burst] del objetivo (2 HP curado cada 1 de [Burst]. Máx 40)"
                 },
                 {
-                  "desc": "Con menos de 50% PV, Reusa esta Moneda una vez más"
+                  "desc": "Con menos de 50% HP, Reusa esta Moneda una vez más"
                 }
               ]
             }
@@ -545,7 +545,7 @@
         {
           "level": 1,
           "name": "Dientes Dentellantes",
-          "desc": "[EndBattle] Cura PV igual a los PV restantes del Escudo (Una vez por turno. Curación Máx: 10% de los PV)",
+          "desc": "[EndBattle] Cura HP igual a los HP restantes del Escudo (Una vez por turno. Curación Máx: 10% de los HP)",
           "coinlist": [
             {
               "coindescs": [
@@ -559,7 +559,7 @@
         {
           "level": 4,
           "name": "Dientes Dentellantes",
-          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder Final +3\n[EndBattle] Cura PV igual a los PV restantes del Escudo (Una vez por turno. Curación Máx: 10% de los PV)",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder Final +3\n[EndBattle] Cura HP igual a los HP restantes del Escudo (Una vez por turno. Curación Máx: 10% de los HP)",
           "coinlist": [
             {
               "coindescs": [

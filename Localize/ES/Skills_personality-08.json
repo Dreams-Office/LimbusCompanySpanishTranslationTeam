@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ready to Crush",
+          "name": "Lista para Triturar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
                 }
               ]
             },
@@ -26,13 +26,13 @@
         },
         {
           "level": 2,
-          "name": "Ready to Crush",
-          "desc": "[WhenUse] Gain +3 Tremor Count",
+          "name": "Lista para Triturar",
+          "desc": "[WhenUse] Gana +3 de Contador de Tremor",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
                 }
               ]
             },
@@ -47,13 +47,13 @@
         },
         {
           "level": 4,
-          "name": "Ready to Crush",
-          "desc": "[WhenUse] Gain +3 Tremor Count",
+          "name": "Lista para Triturar",
+          "desc": "[WhenUse] Gana +3 de Contador de Tremor",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
                 }
               ]
             },
@@ -73,13 +73,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Blast",
+          "name": "Perforación Explosiva",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Tremor"
                 }
               ]
             },
@@ -89,7 +89,7 @@
                   "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Nivel Defensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -97,16 +97,16 @@
         },
         {
           "level": 2,
-          "name": "Explosive Blast",
-          "desc": "At 5+ Tremor Count, Coin Power +1",
+          "name": "Perforación Explosiva",
+          "desc": "Con 5+ de Contador de Tremor, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 de Contador de Tremor"
                 }
               ]
             },
@@ -116,7 +116,7 @@
                   "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Nivel Defensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -124,16 +124,16 @@
         },
         {
           "level": 4,
-          "name": "Explosive Blast",
-          "desc": "At 5+ Tremor Count, Coin Power +1",
+          "name": "Perforación Explosiva",
+          "desc": "Con 5+ de Contador de Tremor, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gain +2 de Contador de Tremor"
                 }
               ]
             },
@@ -143,7 +143,7 @@
                   "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 Nivel Defensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -156,8 +156,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Risky Judgement",
-          "desc": "At 5+ Tremor Count, Coin Power +1\nIf target has 6+ Sinking, deal +20% damage",
+          "name": "Decisión Radical",
+          "desc": "Con 5+ de Contador de Tremor, Poder de Moneda +1\nSi el objetivo tiene 6+ de Sinking, realiza +20% de daño",
           "coinlist": [
             {
               "coindescs": [
@@ -172,7 +172,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 Tremor Count to Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
                 }
               ]
             },
@@ -182,7 +182,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 Tremor Count to Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -190,8 +190,8 @@
         },
         {
           "level": 4,
-          "name": "Risky Judgement",
-          "desc": "Coin Power +1 for every 5 Tremor Count on self (Max 2)\nIf target has 6+ Sinking, deal +40% damage",
+          "name": "Decisión Radical",
+          "desc": "Poder de Moneda +1 por cada 5 de Contador de Tremor en sí mismo (Máx 2)\nSi el objetivo tiene 6+ de Sinking, realiza +40% de daño",
           "coinlist": [
             {
               "coindescs": [
@@ -206,7 +206,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 Tremor Count to Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
                 }
               ]
             },
@@ -216,7 +216,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 Tremor Count to Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -229,8 +229,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nimble Steps",
-          "desc": "[WhenUse] Gana 2 Rupture Protection (6 times per turn)",
+          "name": "Pasos Ágil",
+          "desc": "[WhenUse] Gana 2 de Protección de Ruptura (6 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -248,14 +248,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "To Me!",
-          "desc": "[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) Aggro (Once per turn)",
+          "name": "¡A mi alrededor!",
+          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agro (Una vez por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
                 }
               ]
             }
@@ -263,14 +263,14 @@
         },
         {
           "level": 2,
-          "name": "To Me!",
-          "desc": "[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(highest Reson.) Aggro (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
+          "name": "¡A mi alrededor!",
+          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agro (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agro (una vez por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 }
               ]
             }
@@ -278,14 +278,14 @@
         },
         {
           "level": 4,
-          "name": "To Me!",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Next turn, the leftmost Skill Slot of 1 other ally with the highest Max HP gains +(Highest Reson.) Aggro (Once per turn)\n- At 4+ highest A-Reson., apply 1 Protection to the ally next turn when they gain Aggro (Once per turn)",
+          "name": "¡A mi alrededor!",
+          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agro (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agro (una vez por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 }
               ]
             }
@@ -321,7 +321,7 @@
         {
           "level": 2,
           "name": "Pursue Them to the End!",
-          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 1 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up",
+          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 1 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up",
           "coinlist": [
             {},
             {
@@ -343,13 +343,13 @@
         {
           "level": 4,
           "name": "Pursue Them to the End!",
-          "desc": "[StartBattle] Apply 3 Offense Level Up to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- At 4+ highest A-Reson., apply 2 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up",
+          "desc": "[StartBattle] Apply 3 Offense Level Up to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 2 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 }
               ]
             },
@@ -370,7 +370,7 @@
         {
           "level": 3,
           "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, max +20%)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, máx +20%)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times máx. Máx # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
@@ -383,7 +383,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 }
               ]
             },
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, max +30%)\nCoin Power +1 for every 5 [Laceration] on target (Max 2)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times max. Max # of allies that can be healed: 4)",
+          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, máx +30%)\nCoin Power +1 for every 5 [Laceration] on target (Máx 2)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times máx. Máx # of allies that can be healed: 4)",
           "coinlist": [
             {},
             {
@@ -412,7 +412,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
                 }
               ]
             },
@@ -433,7 +433,7 @@
         {
           "level": 1,
           "name": "Do Not Fear",
-          "desc": "[WhenUse] Heal 3 SP for 2 allies adjacent to this unit on the Dashboard (2 times max)",
+          "desc": "[WhenUse] Heal 3 SP for 2 allies adjacent to this unit on the Dashboard (2 times máx)",
           "coinlist": [
             {
               "coindescs": [
@@ -447,7 +447,7 @@
         {
           "level": 4,
           "name": "Do Not Fear",
-          "desc": "[WhenUse] Heal 5 SP for 2 allies adjacent to this unit on the Dashboard (2 times max)",
+          "desc": "[WhenUse] Heal 5 SP for 2 allies adjacent to this unit on the Dashboard (2 times máx)",
           "coinlist": [
             {}
           ]
@@ -684,7 +684,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade",
+          "name": "Evadir",
           "desc": "",
           "coinlist": [
             {
@@ -698,7 +698,7 @@
         },
         {
           "level": 4,
-          "name": "Evade",
+          "name": "Evadir",
           "desc": "[OnSucceedEvade] Heal 5 SP (once per turn)",
           "coinlist": [
             {}

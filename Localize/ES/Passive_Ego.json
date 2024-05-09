@@ -23,7 +23,7 @@
     {
       "id": 2020211,
       "name": "Velo Líquido",
-      "desc": "Al inicio del turno, aplica 2 de Protección al aliado con menos PV. (Incluye a la unidad misma.)"
+      "desc": "Al inicio del turno, aplica 2 de Protección al aliado con menos HP. (Incluye a la unidad misma.)"
     },
     {
       "id": 2020311,
@@ -33,7 +33,7 @@
     {
       "id": 2030111,
       "name": "Pasión Inmoderada",
-      "desc": "Al golpear, si el objetivo tenía Sangrado, cura 3 PV."
+      "desc": "Al golpear, si el objetivo tenía Sangrado, cura 3 HP."
     },
     {
       "id": 2030211,
@@ -58,7 +58,7 @@
     {
       "id": 2050211,
       "name": "Aumento Final",
-      "desc": "Si la Habilidad de E.G.O <¿Quieres ser golpeado? ¿Dolorosamente?> es usada al tener menos de 25% de PV, gana 3 Poder de Ataque Aumentado, Poder Defensivo Aumentado, y Rapidez cada turno, pero muere en 3 turnos."
+      "desc": "Si la Habilidad de E.G.O <¿Quieres ser golpeado? ¿Dolorosamente?> es usada al tener menos de 25% de HP, gana 3 Poder de Ataque Aumentado, Poder Defensivo Aumentado, y Rapidez cada turno, pero muere en 3 turnos."
     },
     {
       "id": 2050311,
@@ -108,7 +108,7 @@
     {
       "id": 2090211,
       "name": "Chispazo de Llama",
-      "desc": "Tras derrotar a un enemigo que tiene Quemado, cura PV por el (Reson.-A de Ira)% de PV Máx."
+      "desc": "Tras derrotar a un enemigo que tiene Quemado, cura HP por el (Reson.-A de Ira)% de HP Máx."
     },
     {
       "id": 2090311,
@@ -143,7 +143,7 @@
     {
       "id": 2120111,
       "name": "Transformación Incontrolable",
-      "desc": "Al inicio del turno, si está debajo del 25% de PV, cura 15 PV y gana 2 de Protección.\nCuando este efecto se active, inflige a 1 otro aliado al azar y a 1 enemigo al azar con +2 de Eficiencia en Pérdida de PC."
+      "desc": "Al inicio del turno, si está debajo del 25% de HP, cura 15 HP y gana 2 de Protección.\nCuando este efecto se active, inflige a 1 otro aliado al azar y a 1 enemigo al azar con +2 de Eficiencia en Pérdida de PC."
     },
     {
       "id": 2120211,
@@ -153,7 +153,7 @@
     {
       "id": 2120311,
       "name": "Absorción de Nutrientes",
-      "desc": "Tras derrotar a un enemigo que tiene Ruptura, cura PV por el (Reson-A de Gula)% de PV Máx."
+      "desc": "Tras derrotar a un enemigo que tiene Ruptura, cura HP por el (Reson-A de Gula)% de HP Máx."
     },
     {
       "id": 2030311,
@@ -183,7 +183,7 @@
     {
       "id": 2060311,
       "name": "Restauración de Fenómeno Enredado",
-      "desc": "Al golpear un enemigo con efectos de estado negativos, esta unidad gana +1 de Carga.\n(Máx. +4 por turno.)\nCuando los PV caigan a 0 por primera vez durante la batalla, usa toda la Carga y cura PV en proporción a la cantidad usada. (No puede curar más del 50% de PV Máx.)"
+      "desc": "Al golpear un enemigo con efectos de estado negativos, esta unidad gana +1 de Carga.\n(Máx. +4 por turno.)\nCuando los HP caigan a 0 por primera vez durante la batalla, usa toda la Carga y cura HP en proporción a la cantidad usada. (No puede curar más del 50% de HP Máx.)"
     },
     {
       "id": 2050411,
@@ -193,7 +193,7 @@
     {
       "id": 2080411,
       "name": "Asesinatos Entre Aplausos",
-      "desc": "Al atacar un objetivo con menos de 30% de PV, las habilidades de Ira infligen +20% de daño."
+      "desc": "Al atacar un objetivo con menos de 30% de HP, las habilidades de Ira infligen +20% de daño."
     },
     {
       "id": 2110411,
@@ -203,7 +203,7 @@
     {
       "id": 2070311,
       "name": "Descarga Temperamental",
-      "desc": "Al ser golpeado, usa 1 de Carga para curar el 2.5% de los PV Máx.\nAl tener menos de 40% de PV, gana 1 de Carga antes de activar el efecto de curación. (Puede gana máx. 10 de Carga por turno.)"
+      "desc": "Al ser golpeado, usa 1 de Carga para curar el 2.5% de los HP Máx.\nAl tener menos de 40% de HP, gana 1 de Carga antes de activar el efecto de curación. (Puede gana máx. 10 de Carga por turno.)"
     },
     {
       "id": 2120411,
@@ -223,7 +223,7 @@
     {
       "id": 2040411,
       "name": "Depredadora",
-      "desc": "Si esta unidad curó más del 10% de sus PV Máx. este turno, gana 1 de Poder de Ataque Aumentado el próximo turno."
+      "desc": "Si esta unidad curó más del 10% de sus HP Máx. este turno, gana 1 de Poder de Ataque Aumentado el próximo turno."
     },
     {
       "id": 2040511,
@@ -238,12 +238,12 @@
     {
       "id": 2100411,
       "name": "Señuelo de Hada",
-      "desc": "Tras derrotar a un enemigo que apuntaba a esta unidad al incio de la fase de combate, cura 3% de PV Máx. + (Reson.-A de Gula)% de PV Máx."
+      "desc": "Tras derrotar a un enemigo que apuntaba a esta unidad al incio de la fase de combate, cura 3% de HP Máx. + (Reson.-A de Gula)% de HP Máx."
     },
     {
       "id": 2070411,
       "name": "Dhyāna",
-      "desc": "Aumenta PV Máx. por el 15% de los PV Máx. base de esta identidad al recuperarse del estado de Aturdimiento.\nLuego, cura por el 15% de PV Máx. actuales. Si se está a menos del 30% de los PV Máx. actuales, cura el 25%.\n(3 veces por Encuentro. Al Final del Encuentro, se revierte a los PV Máx. base. Los valores de PV actuales serán ajustados para reflejar el porcentaje de PV al tiempo del Final del Encuentro.)"
+      "desc": "Aumenta HP Máx. por el 15% de los HP Máx. base de esta identidad al recuperarse del estado de Aturdimiento.\nLuego, cura por el 15% de HP Máx. actuales. Si se está a menos del 30% de los HP Máx. actuales, cura el 25%.\n(3 veces por Encuentro. Al Final del Encuentro, se revierte a los HP Máx. base. Los valores de HP actuales serán ajustados para reflejar el porcentaje de HP al tiempo del Final del Encuentro.)"
     },
     {
       "id": 2050511,
@@ -258,7 +258,7 @@
     {
       "id": 2060511,
       "name": "Slime Verde",
-      "desc": "Tras ser golpeado con menos del 50% de PV, inflige 1 de Ruptura en el atacante. Se activa (Reson.-A de Gula más alta) veces por turno."
+      "desc": "Tras ser golpeado con menos del 50% de HP, inflige 1 de Ruptura en el atacante. Se activa (Reson.-A de Gula más alta) veces por turno."
     },
     {
       "id": 2040611,
@@ -268,7 +268,7 @@
     {
       "id": 2080511,
       "name": "Temeroso Viaje",
-      "desc": "Al final del turno, inflige 5 de Ahogo a 1 otro aliado con los PV más bajos; aplica con 1 de Rapidez y 3 de Nivel Ofensivo Aumentado el próximo turno."
+      "desc": "Al final del turno, inflige 5 de Ahogo a 1 otro aliado con los HP más bajos; aplica con 1 de Rapidez y 3 de Nivel Ofensivo Aumentado el próximo turno."
     },
     {
       "id": 2090411,
@@ -283,7 +283,7 @@
     {
       "id": 2090511,
       "name": "Sentencia de Arriba",
-      "desc": "Cuando un enemigo es Aturdido, el aliado con el porcentaje de PV más bajo cura 4% de sus PV Máx. (Una vez por turno.)"
+      "desc": "Cuando un enemigo es Aturdido, el aliado con el porcentaje de HP más bajo cura 4% de sus HP Máx. (Una vez por turno.)"
     },
     {
       "id": 2070511,
@@ -338,8 +338,8 @@
     {
       "id": 2080611,
       "name": "Glotonería",
-      "desc": "Si el objetivo principal recibio PV de daño este turno y no está a su maximo PV al usar esta Habilidad:\nAl golpear,\nCuando esta unidad está con PV al máx, realiza +5~+10% más de daño.\n Cuando esta unidad no está con PV al máx, se cura 2~5 PV.\n(7 veces por turno)",
-      "summary": "Si el ojbetivo no está con los PV al máx, realiza más daño Al golpear o cura PV Al golpear"
+      "desc": "Si el objetivo principal recibio HP de daño este turno y no está a su maximo HP al usar esta Habilidad:\nAl golpear,\nCuando esta unidad está con HP al máx, realiza +5~+10% más de daño.\n Cuando esta unidad no está con HP al máx, se cura 2~5 HP.\n(7 veces por turno)",
+      "summary": "Si el ojbetivo no está con los HP al máx, realiza más daño Al golpear o cura HP Al golpear"
     },
     {
       "id": 2090611,

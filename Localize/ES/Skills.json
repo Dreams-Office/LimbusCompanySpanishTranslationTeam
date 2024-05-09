@@ -1367,7 +1367,7 @@
         {
           "level": 2,
           "name": "Golpe Doble",
-          "desc": "[WhenUse] Con menos de 50% PV, gana 2 de Rapidez el siguiente turno",
+          "desc": "[WhenUse] Con menos de 50% HP, gana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1388,7 +1388,7 @@
         {
           "level": 4,
           "name": "Golpe Doble",
-          "desc": "[WhenUse] Con menos de 50% PV, gana 4 de Rapidez el siguiente turno",
+          "desc": "[WhenUse] Con menos de 50% HP, gana 4 de Rapidez el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -2877,7 +2877,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene menos de 25% PV, usa esta Moneda una vez más si el objetivo sobrevive\nCara: +50% de Daño por Moneda"
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene menos de 25% HP, usa esta Moneda una vez más si el objetivo sobrevive\nCara: +50% de Daño por Moneda"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttackHead] +50% de Daño por Moneda"
@@ -2908,7 +2908,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene menos de 25% PV, usa esta Moneda una vez más si el objetivo sobrevive\nCara: +50% de Daño por Moneda"
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene menos de 25% HP, usa esta Moneda una vez más si el objetivo sobrevive\nCara: +50% de Daño por Moneda"
                 },
                 {
                   "desc": "[ReUseOnSucceedAttackHead] +50% de Daño por Moneda"
@@ -3107,7 +3107,7 @@
         {
           "level": 1,
           "name": "Filo Extremo",
-          "desc": "Con menos de 25% PV, Poder de habilidad +1",
+          "desc": "Con menos de 25% HP, Poder de habilidad +1",
           "coinlist": [
             {}
           ]
@@ -3115,7 +3115,7 @@
         {
           "level": 2,
           "name": "Filo Extremo",
-          "desc": "Con menos de 25% PV, Poder de habilidad +2",
+          "desc": "Con menos de 25% HP, Poder de habilidad +2",
           "coinlist": [
             {}
           ]
@@ -3123,7 +3123,7 @@
         {
           "level": 4,
           "name": "Filo Extremo",
-          "desc": "Con menos de 50% PV, Poder de Habilidad +2\n[WhenUse] Gana +3 de Contador de Temple",
+          "desc": "Con menos de 50% HP, Poder de Habilidad +2\n[WhenUse] Gana +3 de Contador de Temple",
           "coinlist": [
             {}
           ]
@@ -3136,7 +3136,7 @@
         {
           "level": 1,
           "name": "Espada Voladora",
-          "desc": "Con menos de 25% PV, Poder de habilidad +1",
+          "desc": "Con menos de 25% HP, Poder de habilidad +1",
           "coinlist": [
             {}
           ]
@@ -3144,7 +3144,7 @@
         {
           "level": 2,
           "name": "Espada Voladora",
-          "desc": "Con menos de 25% PV, Poder de habilidad +2",
+          "desc": "Con menos de 25% HP, Poder de habilidad +2",
           "coinlist": [
             {}
           ]
@@ -3152,7 +3152,7 @@
         {
           "level": 4,
           "name": "Espada Voladora",
-          "desc": "Con menos de 50% PV, Poder de habilidad +2\n[WhenUse] Gana 3 de Temple",
+          "desc": "Con menos de 50% HP, Poder de habilidad +2\n[WhenUse] Gana 3 de Temple",
           "coinlist": [
             {}
           ]
@@ -3165,19 +3165,19 @@
         {
           "level": 3,
           "name": "Golpe Relampagueante",
-          "desc": "Con menos de 25% PV, Poder de habilidad +2",
+          "desc": "Con menos de 25% HP, Poder de habilidad +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Pierde 5 PV; +50% de Daño a la Moneda de habilidad"
+                  "desc": "[BeforeAttack] Pierde 5 HP; +50% de Daño a la Moneda de habilidad"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Pierde 5 PV; +50% de Daño a la Moneda de habilidad"
+                  "desc": "[BeforeAttack] Pierde 5 HP; +50% de Daño a la Moneda de habilidad"
                 }
               ]
             }
@@ -3186,19 +3186,19 @@
         {
           "level": 4,
           "name": "Golpe Relampagueante",
-          "desc": "At 10+ de Contador de Temple, Poder de Habilidad +2\nCon menos de 50% PV, Atk Weight +1",
+          "desc": "At 10+ de Contador de Temple, Poder de Habilidad +2\nCon menos de 50% HP, Atk Weight +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Pierde 5 PV; +50% de Daño a la Moneda de habilidad"
+                  "desc": "[BeforeAttack] Pierde 5 HP; +50% de Daño a la Moneda de habilidad"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[BeforeAttack] Pierde 5 PV; +50% de Daño a la Moneda de habilidad"
+                  "desc": "[BeforeAttack] Pierde 5 HP; +50% de Daño a la Moneda de habilidad"
                 }
               ]
             }
@@ -3220,7 +3220,7 @@
         {
           "level": 4,
           "name": "Contraataque",
-          "desc": "[WhenUse] Pierde 5 PV\nCon 3+ de Contador de Temple, Daño +50%",
+          "desc": "[WhenUse] Pierde 5 HP\nCon 3+ de Contador de Temple, Daño +50%",
           "coinlist": [
             {}
           ]
@@ -3797,7 +3797,7 @@
         {
           "level": 2,
           "name": "Espada Voladora",
-          "desc": "Con menos de 50% PV, Esta habilidad otorga 1 de Temple adicional",
+          "desc": "Con menos de 50% HP, Esta habilidad otorga 1 de Temple adicional",
           "keywords": [],
           "coinlist": [
             {
@@ -3819,7 +3819,7 @@
         {
           "level": 4,
           "name": "Espada Voladora",
-          "desc": "Con menos de 50% PV, Esta habilidad otorga 3 de Temple adicional",
+          "desc": "Con menos de 50% HP, Esta habilidad otorga 3 de Temple adicional",
           "keywords": [],
           "coinlist": [
             {
@@ -3868,7 +3868,7 @@
         {
           "level": 2,
           "name": "Golpe Relampagueante",
-          "desc": "[WhenUse] Con menos de 50% PV, usa la primera y segunda moneda una vez más",
+          "desc": "[WhenUse] Con menos de 50% HP, usa la primera y segunda moneda una vez más",
           "keywords": [],
           "coinlist": [
             {
@@ -3890,7 +3890,7 @@
         {
           "level": 4,
           "name": "Golpe Relampagueante",
-          "desc": "[WhenUse] Con menos de 50% PV, usa la primera y segunda moneda una vez más",
+          "desc": "[WhenUse] Con menos de 50% HP, usa la primera y segunda moneda una vez más",
           "keywords": [],
           "coinlist": [
             {
@@ -3930,7 +3930,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Con menos de 25% PV, Se cura un 100% del Daño realizado"
+                  "desc": "[CriticalOnSucceedAttack] Con menos de 25% HP, Se cura un 100% del Daño realizado"
                 }
               ]
             }
@@ -3952,7 +3952,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Con menos de 25% PV, Se cura un 100% del Daño realizado"
+                  "desc": "[CriticalOnSucceedAttack] Con menos de 25% HP, Se cura un 100% del Daño realizado"
                 }
               ]
             }
@@ -4402,7 +4402,7 @@
         {
           "level": 4,
           "name": "Hoja Afilada",
-          "desc": "Con 4+ de Temple, Poder de Moneda +3",
+          "desc": "Con 4+ de Temple, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -5176,7 +5176,7 @@
         {
           "level": 3,
           "name": "Golpe Fuerte",
-          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos PV el siguiente turno",
+          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos HP el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -5193,7 +5193,7 @@
         {
           "level": 4,
           "name": "Golpe Fuerte",
-          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos PV el siguiente turno\n[WhenUse] Gana +10 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos HP el siguiente turno\n[WhenUse] Gana +10 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -6531,7 +6531,7 @@
         {
           "level": 4,
           "name": "Impulso",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nCon menos de 50% PV, Poder de Moneda +2",
+          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nCon menos de 50% HP, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -6666,7 +6666,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura 50% del Daño Realizado\nCuración de PV +3% por cada Clavos del objetivo"
+                  "desc": "[OnSucceedAttack] Cura 50% del Daño Realizado\nCuración de HP +3% por cada Clavos del objetivo"
                 }
               ]
             }
@@ -6680,7 +6680,7 @@
         {
           "level": 1,
           "name": "¡Insensatos…!",
-          "desc": "[StartBattle] Gana 1 de Protección\nCon menos de 50% PV, Poder Final +2",
+          "desc": "[StartBattle] Gana 1 de Protección\nCon menos de 50% HP, Poder Final +2",
           "coinlist": [
             {}
           ]
@@ -7724,7 +7724,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 1 Curación de PV Reducida el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 1 Curación de HP Reducida el siguiente turno"
                 }
               ]
             }
@@ -7752,7 +7752,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 3 Curación de PV Reducida el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 3 Curación de HP Reducida el siguiente turno"
                 }
               ]
             }
@@ -7780,7 +7780,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 4 Curación de PV Reducida el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado o Parálisis Inflige 4 Curación de HP Reducida el siguiente turno"
                 }
               ]
             }
@@ -7982,7 +7982,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura PV basado en el Sangrado del objetivo (Max 20%)"
+                  "desc": "[OnSucceedAttack] Cura HP basado en el Sangrado del objetivo (Max 20%)"
                 }
               ]
             }
@@ -8017,7 +8017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura PV basado en el Sangrado del objetivo (Max 20%)"
+                  "desc": "[OnSucceedAttack] Cura HP basado en el Sangrado del objetivo (Max 20%)"
                 }
               ]
             }
@@ -9853,7 +9853,7 @@
         {
           "level": 3,
           "name": "Objetivo Extirpado",
-          "desc": "Con 80% o más PV, Poder de Moneda +1",
+          "desc": "Con 80% o más HP, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -9865,7 +9865,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Contador de Ruptura por la cantidad de Ámpula de K Corp; +5%  de Daño por Ámpula de K Corp"
+                  "desc": "[OnSucceedAttack] Inflige Contador de Ruptura por la cantidad de Vial de K Corp; +5%  de Daño por Vial de K Corp"
                 }
               ]
             }
@@ -9874,7 +9874,7 @@
         {
           "level": 4,
           "name": "Objetivo Extirpado",
-          "desc": "Con 80% o más PV, Poder de Moneda +2",
+          "desc": "Con 80% o más HP, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -9886,7 +9886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Contador de Ruptura por la cantidad de Ámpula de K Corp; +5%  de Daño por Ámpula de K Corp"
+                  "desc": "[OnSucceedAttack] Inflige Contador de Ruptura por la cantidad de Vial de K Corp; +5%  de Daño por Vial de K Corp"
                 }
               ]
             }
@@ -9899,16 +9899,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Injección de Ámpula",
-          "desc": "[WhenUse] Gana 1 de Ámpula de K Corp el siguiente turno",
+          "name": "Injección de Vial",
+          "desc": "[WhenUse] Gana 1 Vial de K Corp el siguiente turno",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Injección de Ámpula",
-          "desc": "[WhenUse] Gana 1 de Ámpula de K Corp el siguiente turno\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "name": "Injección de Vial",
+          "desc": "[WhenUse] Gana 1 Vial de K Corp el siguiente turno\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]

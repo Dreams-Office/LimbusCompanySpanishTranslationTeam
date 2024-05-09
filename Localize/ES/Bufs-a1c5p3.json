@@ -24,7 +24,7 @@
     {
       "id": "AaCePcBg",
       "name": "Larva",
-      "desc": "Finalizar Turno: Mover la Larva al aliado con los PV más altos.\nInicio de Turno: Pierde PC igual al valor de Larva en sí mismo.",
+      "desc": "Finalizar Turno: Mover la Larva al aliado con los HP más altos.\nInicio de Turno: Pierde PC igual al valor de Larva en sí mismo.",
       "summary": "",
       "undefined": "-"
     },
@@ -66,28 +66,28 @@
     {
       "id": "AaCePcBn",
       "name": "Comando Indiscutible",
-      "desc": "Pierde 10% de PV actual al usar una Habilidad. Poder de Habilidad Final +1\nTras Golpear, Ahab cura 8 PC; aplicar 2 Temple a sí mismo y a Ahab.",
-      "summary": "Pierde PV al usar una Habilidad; Poder Final +1",
+      "desc": "Pierde 10% de HP actual al usar una Habilidad. Poder de Habilidad Final +1\nTras Golpear, Ahab cura 8 PC; aplicar 2 Temple a sí mismo y a Ahab.",
+      "summary": "Pierde HP al usar una Habilidad; Poder Final +1",
       "undefined": "-"
     },
     {
       "id": "AaCePcBo",
       "name": "Ego de Pip",
-      "desc": "Inicio de Turno: Cura 3 SP por el valor.\nSe reduce al usar Peso de Culpa luego de fallar Evasión.\nFinalizar Turno: Si el valor es 0, Aturdir al usuario.",
+      "desc": "Inicio de Turno: Cura 3 SP por el valor.\nSe reduce al usar Peso de Culpa luego de fallar Evasión.\nFinalizar Turno: Si el valor es 0, Aturde al usuario.",
       "summary": "Cura PC por el valor. Reduce su valor al usar una cierta Habilidad luego de fallar Evasión.",
       "undefined": "-"
     },
     {
       "id": "AaCePcBp",
       "name": "Ego de Starbuck",
-      "desc": "Inicio de Turno: Gana 1 de Protección por cada 6 de valor.\nSe reduce por cada Moneda destruida en un Choque contra blancos con Marca de Presa.\nFinalizar Turno: SI el valor es 0, Aturdir al usuario.",
+      "desc": "Inicio de Turno: Gana 1 de Protección por cada 6 de valor.\nSe reduce por cada Moneda destruida en un Choque contra blancos con Marca de Presa.\nFinalizar Turno: SI el valor es 0, Aturde al usuario.",
       "summary": "Gana Protección por el valor. Reduce su valor al perder un Choque contra ciertos objetivos.",
       "undefined": "-"
     },
     {
       "id": "AaCePcBq",
       "name": "Ego de Queequeg",
-      "desc": "Inicio de Turno: Gana valor si se está Escudado.\nFinalizar Turno: Pierde valor si no se tiene Escudo o al usar Enmienda Desvanecida.\nFinalizar Turno: Si el valor es 0, Aturdir al usuario.",
+      "desc": "Inicio de Turno: Gana valor si se está Escudado.\nFinalizar Turno: Pierde valor si no se tiene Escudo o al usar Enmienda Desvanecida.\nFinalizar Turno: Si el valor es 0, Aturde al usuario.",
       "summary": "Finalizar Turno: Dependiendo de que si esta unidad está Escudada o no, pierde o gana valor.",
       "undefined": "-"
     },
@@ -110,7 +110,7 @@
     {
       "id": "AaCePcBr",
       "name": "Barrera Asistente",
-      "desc": "Reduce el valor por la cantidad de daño recibido.\nNo expira al final del turno.\nFinalizar Turno: Si el valor es 0, Aturdir al usuario el próximo turno.",
+      "desc": "Reduce el valor por la cantidad de daño recibido.\nNo expira al final del turno.\nFinalizar Turno: Si el valor es 0, Aturde al usuario el próximo turno.",
       "summary": "",
       "undefined": "-"
     },

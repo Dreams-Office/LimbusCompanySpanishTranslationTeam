@@ -22,7 +22,7 @@
     },
     {
       "id": "mainui_main_button5",
-      "content": "Administrar"
+      "content": "Dispensa"
     },
     {
       "id": "mainui_main_exp",
@@ -402,15 +402,15 @@
     },
     {
       "id": "mainui_abnormality_analysis_level",
-      "content": "Tier Actual"
+      "content": "Grado Actual"
     },
     {
       "id": "mainui_analysis",
-      "content": "Aunar"
+      "content": "Cognición"
     },
     {
       "id": "mainui_abnormality_analysis",
-      "content": "Aunación"
+      "content": "Metacognición"
     },
     {
       "id": "mainui_receive",
@@ -826,7 +826,7 @@
     },
     {
       "id": "mainui_unlock_condition_by_personality_awaken_level",
-      "content": "Desbloquear a Tier {0}"
+      "content": "Desbloquear a Grado {0}"
     },
     {
       "id": "skill_growth_value",
@@ -974,7 +974,7 @@
     },
     {
       "id": "progress_ego_gacksung",
-      "content": "Progreso de Aunado"
+      "content": "Aumentar Metacognición"
     },
     {
       "id": "skill_with_index",
@@ -1422,7 +1422,7 @@
     },
     {
       "id": "cannot_exit_node_after_enter_by_force_alice_character",
-      "content": "Una vez dentro, No seras capaz de viajar a otros nodos en la mazmorra; {0} Tu PV seran curados y tus PC volveran a 0.\n¿Seguro que quieres continuar?"
+      "content": "Una vez dentro, No seras capaz de viajar a otros nodos en la mazmorra; {0} Tu HP seran curados y tus PC volveran a 0.\n¿Seguro que quieres continuar?"
     },
     {
       "id": "story_dungeon_4_first_open_popup_desc",

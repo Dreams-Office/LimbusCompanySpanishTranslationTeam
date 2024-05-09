@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "Protección de Clientes",
-          "desc": "[WhenUse] Aplica 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de PV (3 veces por turno)",
+          "desc": "[WhenUse] Aplica 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP (3 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -84,7 +84,7 @@
         {
           "level": 2,
           "name": "Protección de Clientes",
-          "desc": "[WhenUse] Apply 3 de Nivel Defensivo Aumentado al aliado con el menor procentaje de PV (3 veces por turno)\nCon 5+ de Nivel Defensivo Aumentado, Poder de Choque +1",
+          "desc": "[WhenUse] Apply 3 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP (3 veces por turno)\nCon 5+ de Nivel Defensivo Aumentado, Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
@@ -112,7 +112,7 @@
         {
           "level": 4,
           "name": "Protección de Clientes",
-          "desc": "[WhenUse] Aplica 4 de Nivel Defensivo Aumentado al aliado con el menor procentaje de PV (3 veces por turno)\nCon 5+ de Nivel Defensivo Aumentado, Poder de Choque +2",
+          "desc": "[WhenUse] Aplica 4 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP (3 veces por turno)\nCon 5+ de Nivel Defensivo Aumentado, Poder de Choque +2",
           "coinlist": [
             {
               "coindescs": [
@@ -145,13 +145,13 @@
         {
           "level": 3,
           "name": "Ley y Orden",
-          "desc": "Con 5+ de Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Cura 2 PV",
+          "desc": "Con 5+ de Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Cura 2 HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Aplica 1 de Rapidez y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de PV el siguiente turno"
+                  "desc": "Aplica 1 de Rapidez y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el siguiente turno"
                 }
               ]
             }
@@ -166,7 +166,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Aplica 1 de Rapidez y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de PV el siguiente turno"
+                  "desc": "Aplica 1 de Rapidez y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el siguiente turno"
                 },
                 {
                   "desc": "Si el aliado es un Fixer de la Asosiación Zwei, aplica 1 de Rapidez y 1 de Nivel Defensivo Aumentado adicional"

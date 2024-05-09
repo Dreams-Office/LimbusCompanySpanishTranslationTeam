@@ -428,7 +428,7 @@
         {
           "level": 3,
           "name": "Ceder Mi Carne",
-          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+15% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de PV perdidos (Máx 25%)",
+          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+15% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
           "coinlist": [
             {}
           ]
@@ -436,7 +436,7 @@
         {
           "level": 4,
           "name": "Ceder Mi Carne",
-          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +3% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 75%)\n+30% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de PV perdidos (Máx 25%)",
+          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +3% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 75%)\n+30% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
           "coinlist": [
             {}
           ]
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "Derribar",
-          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (Máx 1 vez)\n<style=\"highlight\">Realiza +0.5% más de daño por cada 1% de PV perdidos (Máx 25%)</style>",
+          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (Máx 1 vez)\n<style=\"highlight\">Realiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)</style>",
           "coinlist": [
             {
               "coindescs": [

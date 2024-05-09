@@ -16,7 +16,7 @@
     },
     {
       "id": "MaxHpMultiplierRail",
-      "desc": "PV Máx. {0}%"
+      "desc": "HP Máx. {0}%"
     },
     {
       "id": "SlotWeightAdder",
@@ -32,7 +32,7 @@
     },
     {
       "id": "AtkAdderIfNotDamagedPrevTurn",
-      "desc": "Si el usuario no recibe daño de PV por un turno, Nivel Ofensivo {0}\n(Daño de escudo ≠ Daño de PV)"
+      "desc": "Si el usuario no recibe daño de HP por un turno, Nivel Ofensivo {0}\n(Daño de escudo ≠ Daño de HP)"
     },
     {
       "id": "MaxSpeedAdderAsStack",
@@ -48,7 +48,7 @@
     },
     {
       "id": "TakeHpHealMultiplier",
-      "desc": "PV curado por Efectos de Habilidad {0}%"
+      "desc": "HP curado por Efectos de Habilidad {0}%"
     },
     {
       "id": "RecoverSelfHpOnSucceedAttackByDmg",
@@ -60,7 +60,7 @@
     },
     {
       "id": "MaxHpMultiplier",
-      "desc": "PV Máx. {0}%"
+      "desc": "HP Máx. {0}%"
     },
     {
       "id": "AtkAndDefAdder",

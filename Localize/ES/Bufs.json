@@ -68,7 +68,7 @@
     {
       "id": "SelfHarm_Panic",
       "name": "Perseverante (Panico)",
-      "desc": "Inicio de Turno: Pierde 10 PV.",
+      "desc": "Inicio de Turno: Pierde 10 HP.",
       "undefined": "-"
     },
     {
@@ -100,8 +100,8 @@
     {
       "id": "DamageOverTime",
       "name": "Daño Continuo",
-      "desc": "Inicio de Turno: Recibe {0} Daño fijo a los PV.",
-      "summary": "{0} Daño fijo a los PV"
+      "desc": "Inicio de Turno: Recibe {0} Daño fijo a los HP.",
+      "summary": "{0} Daño fijo a los HP"
     },
     {
       "id": "ResultEnhancement",
@@ -196,8 +196,8 @@
     {
       "id": "BeingGolden",
       "name": "Brillo Dorado",
-      "desc": "Inicio de Turno: Cura 10 PV por Contador.",
-      "summary": "Recuperar PV"
+      "desc": "Inicio de Turno: Cura 10 HP por Contador.",
+      "summary": "Recuperar HP"
     },
     {
       "id": "MoonLight",
@@ -266,13 +266,13 @@
       "id": "Combustion",
       "name": "Quemado",
       "desc": "Finalizar Turno: Recibe {0} daño fijo. Dura {1} turno(s).",
-      "summary": "{0} Daño fijo a los PV"
+      "summary": "{0} Daño fijo a los HP"
     },
     {
       "id": "Laceration",
       "name": "Sangrado",
       "desc": "La(s) siguiente(s) {1} veces que esta unidad lance una Moneda de habilidad de ataque, recibe {0} daño fijo.",
-      "summary": "{0} Daño fijo a los PV"
+      "summary": "{0} Daño fijo a los HP"
     },
     {
       "id": "Vibration",
@@ -284,7 +284,7 @@
       "id": "Burst",
       "name": "Ruptura",
       "desc": "Las siguientes {1} veces que esta unidad es golpeada, recibe {0} daño fijo.",
-      "summary": "{0} Daño fijo a los PV"
+      "summary": "{0} Daño fijo a los HP"
     },
     {
       "id": "Sinking",
@@ -307,8 +307,8 @@
     {
       "id": "WaterPocket",
       "name": "Bolsa de Fluidos",
-      "desc": "Cura {0} x 20 PV.",
-      "summary": "Mejora curación de PV"
+      "desc": "Cura {0} x 20 HP.",
+      "summary": "Mejora curación de HP"
     },
     {
       "id": "DogThunder",
@@ -325,13 +325,13 @@
     {
       "id": "Operation",
       "name": "Cirugía",
-      "desc": "Muere cuando el Contador llega a 5.\nReduce PV Maximo en un 20% por Contador ({0}).\nInflige 20% mas de daño por Contador ({0}).\nInicio de Turno: Gana {0} Rapidez.",
+      "desc": "Muere cuando el Contador llega a 5.\nReduce HP Maximo en un 20% por Contador ({0}).\nInflige 20% mas de daño por Contador ({0}).\nInicio de Turno: Gana {0} Rapidez.",
       "summary": "Muere cuando el Contador llega a 5."
     },
     {
       "id": "Emergency_Operation",
       "name": "Cirugía urgente",
-      "desc": "Aumenta los PV Máx. en un 25% y Poder de la habilidad en 1 por cada Contador de este efecto.\nCada turno, incrementa el Contador de este efecto en 1.\nMuere cuando el Contador llega a 5.",
+      "desc": "Aumenta los HP Máx. en un 25% y Poder de la habilidad en 1 por cada Contador de este efecto.\nCada turno, incrementa el Contador de este efecto en 1.\nMuere cuando el Contador llega a 5.",
       "summary": "Muere cuando el Contador llega a 5."
     },
     {
@@ -633,8 +633,8 @@
     {
       "id": "Choice_901007",
       "name": "Despedida Amable",
-      "desc": "Inicio de Turno: Cura 10 PV y PC. (Hasta 3 turnos)",
-      "summary": "PV y PC +10"
+      "desc": "Inicio de Turno: Cura 10 HP y PC. (Hasta 3 turnos)",
+      "summary": "HP y PC +10"
     },
     {
       "id": "Choice_901009",
@@ -709,7 +709,7 @@
       "id": "Poison",
       "name": "Veneno",
       "desc": "Finalizar Turno: Recibe {0} daño fijo, luego divida a la mitad el Contador.",
-      "summary": "{0} Daño de PV"
+      "summary": "{0} Daño de HP"
     },
     {
       "id": "Cromer_Target",
@@ -948,7 +948,7 @@
     },
     {
       "id": "TakeHpHealReduce",
-      "name": "Curación de PV Reducida",
+      "name": "Curación de HP Reducida",
       "desc": "Heal -{0}0% HP from Passives, Skills, and Coin effects this turn. (Max 5)",
       "summary": "HP Healing -{0}0%"
     },
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "KCorpSerum",
-      "name": "Ámpula de K Corp",
+      "name": "Vial de K Corp",
       "desc": "Inicio de Turno: At less than 4 Count, heal by ({0} * 5)% of Max HP\nAt 4+ Count, the unit dies",
       "summary": ""
     },
