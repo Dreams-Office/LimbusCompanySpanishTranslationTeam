@@ -2,63 +2,63 @@
   "dataList": [
     {
       "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
-      "add": "Increases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
-      "min": "Decreases after winning a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
+      "add": "Se incrementa tras ganar un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, incrementado por {1}% por cada número de Choques después de 1)</size>",
+      "min": "Se reduce tras ganar un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, reducido por {1}% por cada número de Choques después de 1)</size>"
     },
     {
       "id": "OnKillEnemyAsLevelRatioMultiply",
-      "add": "Increase by {0} after this unit defeats an enemy whose level was higher than this unit’s",
-      "min": "Decrease by {0} after this unit defeats an enemy whose level was higher than this unit’s"
+      "add": "Incrementa por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor al de esta unidad.",
+      "min": "Reduce por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor al de esta unidad."
     },
     {
       "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
-      "add": "Increase by {0} after an ally defeats an enemy whose level was higher than the unit’s",
-      "min": "Decrease by {0} after an ally defeats an enemy whose level was higher than the unit’s"
+      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de la unidad.",
+      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de la unidad."
     },
     {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
-      "add": "Increases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>",
-      "min": "Decreases after losing a Clash based on the Clash count\n<size=95%>(Base Value is {0}, raised by {1}% per Clash count after 1)</size>"
+      "add": "Se incrementa tras perder un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, incrementado por {1}% por cada número de Choques después de 1)</size>",
+      "min": "Se reduce tras perder un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, incrementado por {1}% por cada número de Choques después de 1)</size>"
     },
     {
       "id": "OnDieAllyAsLevelRatio",
-      "add": "If the level of the defeated ally was higher than the unit’s,\nincrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>",
-      "min": "If the level of the defeated ally was higher than the unit’s,\ndecrease based on the level difference\n<size=95%>(Base Value is {0}, raised by {0} per level)</size>"
+      "add": "Si el nivel del aliado derrotado era mayor al de la unidad,\nincrementa basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>",
+      "min": "Si el nivel del aliado derrotado era mayor al de la unidad,\nreduce basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>"
     },
     {
       "id": "OnRoundStartAfterEvent",
-      "add": "SP increased by {0} at the start of the turn",
-      "min": "SP decreased by {0} at the start of the turn"
+      "add": "PC incrementados por {0} al inicio del turno.",
+      "min": "PC reducidos por {0} al inicio del turno."
     },
     {
       "id": "OnKillEnemyMp",
-      "add": "Increase by {0} after this unit defeats an enemy regardless of their level",
-      "min": "Decrease by {0} after this unit defeats an enemy regardless of their level"
+      "add": "Incrementa por {0} después de que esta unidad derrota a un enemigo, sin importar su nivel",
+      "min": "Reduce por {0} después de que esta unidad derrota a un enemigo, sin importar su nivel."
     },
     {
       "id": "OnDieAllyMp",
-      "add": "If an ally is defeated, increase by {0} regardless of the ally's level",
-      "min": "If an ally is defeated, decrease by {0} regardless of the ally's level"
+      "add": "Si un aliado en derrotado, incrementa por {0}, sin importar el nivel del aliado.",
+      "min": "Si un aliado en derrotado, reduce por {0}, sin importar el nivel del aliado."
     },
     {
       "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
-      "add": "Increase by {0} after an ally defeats an enemy whose level was higher than this unit’s",
-      "min": "Decrease by {0} after an ally defeats an enemy whose level was higher than this unit’s. Does not decrease when the enemy was defeated by an Assist Attack."
+      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de esta unidad.",
+      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de esta unidad. No se reduce cuando el enemigo es derrotado por un Ataque Asistente."
     },
     {
       "id": "OnDieBladeLineageAlly",
-      "add": "If a Blade Lineage ally is defeated, gain {0} regardless of the ally's level",
-      "min": "If a Blade Lineage ally is defeated, lose {0} regardless of the ally's level"
+      "add": "Si un aliado del Linaje de la Espada es derrotado, gana {0} sin importarel nivel del aliado",
+      "min": "Si un aliado del Linaje de la Espada es derrotado, pierde {0} sin importarel nivel del aliado"
     },
     {
       "id": "OnWinDuelLessMpTarget",
-      "add": "Increases by {0} after winning a Clash against an enemy with SP lower than this unit's",
-      "min": "Decreases by {0} after winning a Clash against an enemy with SP lower than this unit's"
+      "add": "Incrementa por {0} después de ganar un Choque contra un enemigo con un PC menor al de esta unidad",
+      "min": "Reduce por {0} después de ganar un Choque contra un enemigo con un PC menor al de esta unidad"
     },
     {
       "id": "OnLoseDuelLessMpTarget",
-      "add": "Increases by {0} after losing a Clash against an enemy with SP lower than this unit's",
-      "min": "Decreases by {0} after losing a Clash against an enemy with SP lower than this unit's"
+      "add": "Incrementa por {0} después de perder un Choque contra un enemigo con un PC menor al de esta unidad",
+      "min": "Reduce por {0} después de perder un Choque contra un enemigo con un PC menor al de esta unidad"
     }
   ]
 }

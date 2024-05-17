@@ -180,7 +180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad en Pereza"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Parálisis"
@@ -198,7 +198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Pereza"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Fragilidad en Pereza"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Parálisis"
@@ -221,7 +221,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad en Pereza"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Parálisis"
@@ -239,7 +239,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad en Pereza"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Parálisis"
@@ -439,10 +439,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                  "desc": "[OnSucceedAttack] Inflige 1 en Fragilidad Perforante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad en Envidia"
                 }
               ]
             }
@@ -457,10 +457,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil Penetrante"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Fragilidad Perforante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad en Envidia"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Maldición"
@@ -478,10 +478,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil Penetrante"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Fragilidad Perforante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad en Envidia"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Maldición"
@@ -510,10 +510,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                  "desc": "[OnSucceedAttack] Inflige 1 en Fragilidad Perforante"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad de Envidia"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad en Envidia"
                 }
               ]
             }
@@ -528,7 +528,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                  "desc": "[OnSucceedAttack] Inflige 1 en Fragilidad Perforante"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 Envy Fragility"
@@ -549,7 +549,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 en Frágil Penetrante"
+                  "desc": "[OnSucceedAttack] Inflige 1 en Fragilidad Perforante"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 Envy Fragility"
@@ -1884,7 +1884,7 @@
                   "desc": "[OnSucceedAttack] Inflige 6 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil en Ira el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Fragilidad en Ira el siguiente turno"
                 }
               ]
             }
@@ -1922,7 +1922,7 @@
                   "desc": "[OnSucceedAttack] Inflige 6 de Quemado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil en Ira el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Fragilidad en Ira el siguiente turno"
                 }
               ]
             }
@@ -2316,7 +2316,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Gula"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Fragilidad en Gula"
                 }
               ]
             }
@@ -2360,7 +2360,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil en Gula"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Fragilidad en Gula"
                 }
               ]
             }
@@ -2380,7 +2380,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Lujuria"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad en Lujuria"
                 }
               ]
             }
@@ -2395,7 +2395,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Lujuria"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Fragilidad en Lujuria"
                 }
               ]
             }
@@ -2415,7 +2415,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Lujuria"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad en Lujuria"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Inflige 1 de Frágil"
@@ -2436,7 +2436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Lujuria"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Fragilidad en Lujuria"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Frágil"
@@ -3496,7 +3496,7 @@
           "level": 1,
           "name": "Capote",
           "abName": "Toro Bronceado",
-          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad en Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3517,7 +3517,7 @@
           "level": 3,
           "name": "Capote",
           "abName": "Toro Bronceado",
-          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad de Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
+          "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad en Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3799,7 +3799,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis y 1 de Fragilidad de Tristeza"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Parálisis y 1 de Fragilidad en Tristeza"
                 }
               ]
             }
@@ -3910,7 +3910,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil en Pereza y 1 de Frágil Penetrante Este turno y el siguiente"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad en Pereza y 1 de Fragilidad Perforante Este turno y el siguiente"
                 }
               ]
             }
@@ -3925,7 +3925,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil en Pereza y 2 de Frágil Penetrante Este turno y el siguiente"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Fragilidad en Pereza y 2 de Fragilidad Perforante Este turno y el siguiente"
                 }
               ]
             }

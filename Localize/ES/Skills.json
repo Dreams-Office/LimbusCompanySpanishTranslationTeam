@@ -85,8 +85,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tajo Profundo",
-          "desc": "",
+          "name": "Apuñalamiento Detenido",
+          "desc": "", 
           "keywords": [],
           "coinlist": [
             {},
@@ -101,7 +101,7 @@
         },
         {
           "level": 2,
-          "name": "Tajo Profundo",
+          "name": "Apuñalamiento Detenido",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -117,7 +117,7 @@
         },
         {
           "level": 4,
-          "name": "Tajo Profundo",
+          "name": "Apuñalamiento Detenido",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -138,7 +138,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Usurpar",
+          "name": "Encabalgar",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -155,7 +155,7 @@
         },
         {
           "level": 4,
-          "name": "Usurpar",
+          "name": "Encabalgar",
           "desc": "",
           "keywords": [],
           "coinlist": [
@@ -260,7 +260,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil Penetrante el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad Perforante el siguiente turno"
                 }
               ]
             }
@@ -291,7 +291,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil Penetrante el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad Perforante el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 de Ruptura"
@@ -5947,7 +5947,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil Penetrante"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Fragilidad Perforante"
                 }
               ]
             }
@@ -5964,7 +5964,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil Penetrante"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Fragilidad Perforante"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura"

@@ -645,12 +645,12 @@
     },
     {
       "id": "PenetrateTakeDamageUp",
-      "name": "Pierce Fragility",
+      "name": "Fragilidad Perforante",
       "desc": "Take more damage from Pierce skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "HitTakeDamageUp",
-      "name": "Blunt Fragility",
+      "name": "Fragilidad Contundente",
       "desc": "Take more damage from Blunt skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
@@ -660,32 +660,32 @@
     },
     {
       "id": "ScarletTakeDamageUp",
-      "name": "Lust Fragility",
+      "name": "Fragildiad en Lujuria",
       "desc": "Take more damage from Lust skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AmberTakeDamageUp",
-      "name": "Sloth Fragility",
+      "name": "Fragildiad en Pereza",
       "desc": "Take more damage from Sloth skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "ShamrockTakeDamageUp",
-      "name": "Gluttony Fragility",
+      "name": "Fragildiad en Gula",
       "desc": "Take more damage from Gluttony skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "AzureTakeDamageUp",
-      "name": "Gloom Fragility",
+      "name": "Fragildiad en Melancolía",
       "desc": "Take more damage from Gloom skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "IndigoTakeDamageUp",
-      "name": "Pride Fragility",
+      "name": "Fragildiad en Orgullo",
       "desc": "Take more damage from Pride skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "Fragilidad de Envidia",
+      "name": "Fragilidad en Envidia",
       "desc": "Take more damage from Envy skills based on the effect’s Count for one turn. (Max 10)"
     },
     {
@@ -756,7 +756,7 @@
     },
     {
       "id": "Thirst",
-      "name": "Appetite",
+      "name": "Apetito",
       "desc": "Increases the healing provided by the Passive [Rustle Up].\nSpent when the Passive activates."
     },
     {
@@ -1177,12 +1177,12 @@
     {
       "id": "MentalSystemResultIncrease_Typo",
       "name": "Eficiencia en Cura de PC",
-      "desc": "Amount of SP healed from SP heal conditions"
+      "desc": "Amount of SP healed due to the Identity's 'Base factors increasing Sanity(SP)'"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
       "name": "Eficiencia en Pérdida de PC",
-      "desc": "Amount of SP lost from SP loss conditions"
+      "desc": "Amount of SP lost due to the Identity's 'Base factors decreasing Sanity(SP)'"
     },
     {
       "id": "DuelDeclaration",

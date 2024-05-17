@@ -834,55 +834,55 @@
     },
     {
       "id": "PenetrateTakeDamageUp",
-      "name": "Pierce Fragility",
+      "name": "Fragilidad Perforante",
       "desc": "Take +{0}0% damage from Pierce skills this turn. (Max 100%)",
       "summary": "Pierce Daño Recibido +{0}0%"
     },
     {
       "id": "HitTakeDamageUp",
-      "name": "Blunt Fragility",
+      "name": "Fragildiad Contundente",
       "desc": "Take +{0}0% damage from Blunt skills this turn. (Max 100%)",
       "summary": "Blunt Daño Recibido +{0}0%"
     },
     {
       "id": "CrimsonTakeDamageUp",
-      "name": "Wrath Fragility",
+      "name": "Fragildiad en Ira",
       "desc": "Take +{0}0% damage from Wrath skills this turn. (Max 100%)",
       "summary": "Wrath Daño Recibido +{0}0%"
     },
     {
       "id": "ScarletTakeDamageUp",
-      "name": "Lust Fragility",
+      "name": "Fragildiad en Lujuria",
       "desc": "Take +{0}0% damage from Lust skills this turn. (Max 100%)",
       "summary": "Lust Daño Recibido +{0}0%"
     },
     {
       "id": "AmberTakeDamageUp",
-      "name": "Sloth Fragility",
+      "name": "Fragildiad en Pereza",
       "desc": "Take +{0}0% damage from Sloth skills this turn. (Max 100%)",
       "summary": "Sloth Daño Recibido +{0}0%"
     },
     {
       "id": "ShamrockTakeDamageUp",
-      "name": "Gluttony Fragility",
+      "name": "Fragildiad en Gula",
       "desc": "Take +{0}0% damage from Gluttony skills this turn. (Max 100%)",
       "summary": "Gluttony Daño Recibido +{0}0%"
     },
     {
       "id": "AzureTakeDamageUp",
-      "name": "Gloom Fragility",
+      "name": "Fragildiad en Melancolía",
       "desc": "Take +{0}0% damage from Gloom skills this turn. (Max 100%)",
       "summary": "Gloom Daño Recibido +{0}0%"
     },
     {
       "id": "IndigoTakeDamageUp",
-      "name": "Pride Fragility",
+      "name": "Fragildiad en Orgullo",
       "desc": "Take +{0}0% damage from Pride skills this turn. (Max 100%)",
       "summary": "Pride Daño Recibido +{0}0%"
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "Envy Fragility",
+      "name": "Fragildiad en Envidia",
       "desc": "Take +{0}0% damage from Envy skills this turn. (Max 100%)",
       "summary": "Envy Daño Recibido +{0}0%"
     },
@@ -960,7 +960,7 @@
     },
     {
       "id": "Thirst",
-      "name": "Appetite",
+      "name": "Apetito",
       "desc": "+{0}0% healing from [Rustle Up].\nSpent when the Passive activates.",
       "summary": "[Rustle Up] healing +{0}0% HP"
     },
@@ -1186,7 +1186,7 @@
       "summary": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado and 3 Bind"
     },
     {
-      "id": "de Fragilidad_Mind_Panic",
+      "id": "Fragile_Mind_Panic",
       "name": "Faltering Heart",
       "desc": "In panic, become staggered.",
       "summary": "In panic, become staggered."
@@ -1473,12 +1473,12 @@
     {
       "id": "MentalSystemResultIncrease_Typo",
       "name": "Eficiencia en Cura de PC",
-      "desc": "Amount of SP healed from SP heal conditions"
+      "desc": "Amount of SP healed due to the Identity's 'Base factors increasing Sanity(SP)'"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
       "name": "Eficiencia en Pérdida de PC",
-      "desc": "Amount of SP lost from SP loss conditions"
+      "desc": "Amount of SP lost due to the Identity's 'Base factors decreasing Sanity(SP)'"
     },
     {
       "id": "DuelDeclaration",
