@@ -216,7 +216,7 @@
       "prevDesc": "",
       "behaveDesc": "Who should go forth?",
       "successDesc": [
-        "{0} takes a few steps, and the passenger follows.\n\nAs we draw closer to what appears to be an exit, the passenger bows down as though to show us gratitude.\n\nWe heard something fall; it left behind what appears to be a patrol flashlight.\n\nLooks like it wasn't lost after all. It may have been an employee of a transport company that happened to be patrolling the area.\n\nMaybe we didn't guide it—maybe it was merely following us to make sure that we found the right exit."
+        "{0} takes a few steps, and the passenger follows.\n\nAs we draw closer to what appears to be an exit, the passenger bows down as though to show us gratitude.\n\nWe heard something fall; it left behind what appears to be a patrol flashlight.\n\nLooks like it wasn't lost after all. It may have been an employee of a transport company that happened to be patrolling the area.\n\nMaybe we didn't guide it-maybe it was merely following us to make sure that we found the right exit."
       ],
       "failureDesc": [
         "{0} takes a few steps, and the passenger follows.\n\nAfter a while, {0} accidentally leads us back to where we started.\n\nThe passenger stands there, somewhat confused and awkwardly waving its arms, before striding forth and beckoning us to follow.\n\nIt led us to the exit."
@@ -229,8 +229,7 @@
       "prevDesc": "",
       "behaveDesc": "What will you do?",
       "successDesc": [
-        "You quickly ducked out of its path.\n\nHowever, it was no easy task\nto avoid its obsessive hands.\n\nA few of them managed to grab and scratch at us.\n\nThough we managed to escape, we suffered a lot."
-      ],
+        "You quickly ducked out of its path.\n\nAmong the onslaught of the obsessively encroaching hands is a particularly small hand.\n\nYou reach out and pull on that hand. The statue ceases to move.\n\nIn your hands is an unforeseen, symmetrical figurine."      ],
       "failureDesc": [
         "You quickly ducked out of its path.\n\nHowever, it was no easy task\nto avoid its obsessive hands.\n\nA few of them managed to grab and scratch at us.\n\nThough we managed to escape, we suffered a lot."
       ]

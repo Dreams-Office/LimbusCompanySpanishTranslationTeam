@@ -2243,7 +2243,7 @@
         {
           "level": 1,
           "name": "Desgarro",
-          "desc": "[WhenUse] Gana 1 de Protección Cortante",
+          "desc": "[WhenUse] Gana 1 de Protección a lo Cortante",
           "coinlist": [
             {
               "coindescs": [
@@ -2257,7 +2257,7 @@
         {
           "level": 2,
           "name": "Desgarro",
-          "desc": "[WhenUse] Gana 2 de Protección Cortante",
+          "desc": "[WhenUse] Gana 2 de Protección a lo Cortante",
           "coinlist": [
             {
               "coindescs": [
@@ -2271,7 +2271,7 @@
         {
           "level": 4,
           "name": "Desgarro",
-          "desc": "[WhenUse] Gana 2 de Protección Cortante\nGana +3 de Contador de Carga",
+          "desc": "[WhenUse] Gana 2 de Protección a lo Cortante\nGana +3 de Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
@@ -5508,14 +5508,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Si la velocidad del usuario es mas alta que la del objetivo, +10% de Daño"
+                  "desc": "Si la velocidad del usuario es más alta que la del objetivo, +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Si la velocidad del usuario es mas alta que la del objetivo, +10% de Daño"
+                  "desc": "Si la velocidad del usuario es más alta que la del objetivo, +10% de Daño"
                 }
               ]
             }
@@ -5529,14 +5529,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Si la velocidad del usuario es mas alta que la del objetivo, +20% de Daño"
+                  "desc": "Si la velocidad del usuario es más alta que la del objetivo, +20% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Si la velocidad del usuario es mas alta que la del objetivo, +20% de Daño"
+                  "desc": "Si la velocidad del usuario es más alta que la del objetivo, +20% de Daño"
                 }
               ]
             }
@@ -7937,7 +7937,7 @@
         {
           "level": 4,
           "name": "¿Suficentemente Fresco?",
-          "desc": "Si la velocidad del usuario es mas alta que la del objetivo por 3+, Poder de Moneda +3",
+          "desc": "Si la velocidad del usuario es más alta que la del objetivo por 3+, Poder de Moneda +3",
           "coinlist": [
             {
               "coindescs": [

@@ -175,7 +175,7 @@
           "level": 1,
           "name": "Túmulo de Deseos",
           "abName": "Veneración a la Pagoda",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -193,7 +193,7 @@
           "level": 3,
           "name": "Túmulo de Deseos",
           "abName": "Veneración a la Pagoda",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Cura 8 de PC para los 4 aliados con menos PC" 
+                  "desc": "[EndSkill] Cura 8 de PC para los 4 aliados con menor PC" 
                 }
               ]
             }
@@ -280,7 +280,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Cura 10 de PC para los 4 aliados con menos PC"
+                  "desc": "[EndSkill] Cura 10 de PC para los 4 aliados con menor PC"
                 }
               ]
             }
@@ -295,7 +295,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Cura 12 de PC para los 4 aliados con menos PC"
+                  "desc": "[EndSkill] Cura 12 de PC para los 4 aliados con menor PC"
                 }
               ]
             }
@@ -854,7 +854,7 @@
           "level": 4,
           "name": "Cuarta Llama del Fósforo",
           "abName": "Chica Chamuscada",
-          "desc": "Poder de Habilidad + 2 contra unidades con Quemado\nRealiza 5% mas por cada 1 de Quemado del objetivo (Máximo 100%)\n[EnemyKill] Gana +2 de Poder de Ataque Aumentado el siguiente turno",
+          "desc": "Poder de Habilidad + 2 contra unidades con Quemado\nRealiza 5% más por cada 1 de Quemado del objetivo (Máximo 100%)\n[EnemyKill] Gana +2 de Poder de Ataque Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -904,7 +904,7 @@
           "level": 4,
           "name": "Cuarta Llama del Fósforo",
           "abName": "Chica Chamuscada",
-          "desc": "[CantIdentify]\nElección Aleatoria\nnPoder de Habilidad + 4 contra unidades con Quemado\nRealiza 5% mas por cada 1 de Quemado del objetivo (Máximo 100%)\n[EnemyKill] Gana +3 de Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 de Poder de Ataque Aumentado y 10 de Quemado el siguiente turno",
+          "desc": "[CantIdentify]\nElección Aleatoria\nnPoder de Habilidad + 4 contra unidades con Quemado\nRealiza 5% más por cada 1 de Quemado del objetivo (Máximo 100%)\n[EnemyKill] Gana +3 de Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 de Poder de Ataque Aumentado y 10 de Quemado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1005,7 +1005,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golpazo Desatornillado",
+          "name": "Impacto Desatornillado",
           "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
           "desc": "[EndSkill] Gana 3 de Protección",
           "coinlist": [
@@ -1020,7 +1020,7 @@
         },
         {
           "level": 3,
-          "name": "Golpazo Desatornillado",
+          "name": "Impacto Desatornillado",
           "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
           "desc": "[EndSkill] Gana 3 de Protección\n[EndSkill] Gana 1 de Cirugía el siguiente turno",
           "coinlist": [
@@ -1040,7 +1040,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golpazo Desatornillado",
+          "name": "Impacto Desatornillado",
           "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
           "desc": "[EndSkill] Gana 2 de Cirugía el siguiente turno",
           "coinlist": [
@@ -1055,7 +1055,7 @@
         },
         {
           "level": 3,
-          "name": "Golpazo Desatornillado",
+          "name": "Impacto Desatornillado",
           "abName": "¿Quieres ser golpeado? ¿Dolorosamente?",
           "desc": "[EndSkill] Gana 2 de Cirugía el siguiente turno",
           "coinlist": [
@@ -1262,7 +1262,7 @@
           "level": 1,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "desc": "[CantIdentify]\nElije a la unidad con más alta Rapidez",
           "coinlist": [
             {
               "coindescs": [
@@ -1283,7 +1283,7 @@
           "level": 3,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "desc": "[CantIdentify]\nElije a la unidad con más alta Rapidez",
           "coinlist": [
             {
               "coindescs": [
@@ -1304,7 +1304,7 @@
           "level": 4,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "desc": "[CantIdentify]\nElije a la unidad con más alta Rapidez",
           "coinlist": [
             {
               "coindescs": [
@@ -1492,7 +1492,7 @@
           "level": 1,
           "name": "Enganche de Harpón",
           "abName": "Ishmael",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1510,7 +1510,7 @@
           "level": 3,
           "name": "Enganche de Harpón",
           "abName": "Ishmael",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1528,7 +1528,7 @@
           "level": 4,
           "name": "Enganche de Harpón",
           "abName": "Ishmael",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1554,7 +1554,7 @@
           "level": 1,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1572,7 +1572,7 @@
           "level": 3,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1590,7 +1590,7 @@
           "level": 4,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1616,7 +1616,7 @@
           "level": 1,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "desc": "[CantIdentify]\nElije a la unidad con más alta Rapidez",
           "coinlist": [
             {
               "coindescs": [
@@ -1637,7 +1637,7 @@
           "level": 3,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "desc": "[CantIdentify]\nElije a la unidad con más alta Rapidez",
           "coinlist": [
             {
               "coindescs": [
@@ -1658,7 +1658,7 @@
           "level": 4,
           "name": "Anhelo Rosáceo",
           "abName": "Tacones Rosas",
-          "desc": "[CantIdentify]\nElije a la unidad con mas alta Rapidez",
+          "desc": "[CantIdentify]\nElije a la unidad con más alta Rapidez",
           "coinlist": [
             {
               "coindescs": [
@@ -1684,7 +1684,7 @@
           "level": 1,
           "name": "Estrella De Pétalo Ardiente",
           "abName": "Polilla de Pétalo Ardiente",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1702,7 +1702,7 @@
           "level": 3,
           "name": "Estrella De Pétalo Ardiente",
           "abName": "Polilla de Pétalo Ardiente",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1723,7 +1723,7 @@
           "level": 4,
           "name": "Estrella De Pétalo Ardiente",
           "abName": "Polilla de Pétalo Ardiente",
-          "desc": "Elije a la unidad mas lejana (En encuentros normales)",
+          "desc": "Elije a la unidad más lejana (En encuentros normales)",
           "coinlist": [
             {
               "coindescs": [
@@ -1996,7 +1996,7 @@
           "level": 1,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nElije a la unidad con mas HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +10% del total",
+          "desc": "[CantIdentify]\nElije a la unidad con más HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +10% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2014,7 +2014,7 @@
           "level": 3,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nElije a la unidad con mas HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "[CantIdentify]\nElije a la unidad con más HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2032,7 +2032,7 @@
           "level": 4,
           "name": "Puente Escarchado",
           "abName": "Baba Yaga",
-          "desc": "[CantIdentify]\nElije a la unidad con mas HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
+          "desc": "[CantIdentify]\nElije a la unidad con más HP\nSi los HP del objetivo estan sobre el 50%, Realiza un +30% del total",
           "coinlist": [
             {
               "coindescs": [
@@ -2374,7 +2374,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[EndSkill] Sana 12 PC",
           "coinlist": [
             {
@@ -2389,7 +2389,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[EndSkill] Sana 18 PC\n[EndSkill] Aplica 1 de Poder de Ataque Aumentado a 2 Aliados aleatorios",
           "coinlist": [
             {
@@ -2409,7 +2409,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -2430,7 +2430,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Aplica 1 de Poder de Ataque Aumentado a 2 Aliados aleatorios",
           "coinlist": [
             {
@@ -2672,7 +2672,7 @@
           "level": 1,
           "name": "Linterna",
           "abName": "Hadalinterna",
-          "desc": "[CantIdentify] \nElije a la unidad con mas HP",
+          "desc": "[CantIdentify] \nElije a la unidad con más HP",
           "coinlist": [
             {
               "coindescs": [
@@ -2690,7 +2690,7 @@
           "level": 3,
           "name": "Linterna",
           "abName": "Hadalinterna",
-          "desc": "[CantIdentify] \nElije a la unidad con mas HP",
+          "desc": "[CantIdentify] \nElije a la unidad con más HP",
           "coinlist": [
             {
               "coindescs": [
@@ -2990,7 +2990,7 @@
           "level": 1,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 25%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 5% por cada recurso gastado",
+          "desc": "[CantIdentify]\nElije a la unidad con más HP\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 25%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 5% por cada recurso gastado",
           "coinlist": [
             {
               "coindescs": [
@@ -3005,7 +3005,7 @@
           "level": 3,
           "name": "Estofado De Por Vida",
           "abName": "Basilisopa",
-          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 50%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 10% por cada recurso gastado",
+          "desc": "[CantIdentify]\nElije a la unidad con más HP\n\n[BeforeAttack] Aumenta el Ataque basado en la cantidad de recursos de Lujuria actuales (Hasta de 50%)\nEntonces gata los recuros de Lujuria por (Reson. de Lujuria); Aumentando el ataque un 10% por cada recurso gastado",
           "coinlist": [
             {
               "coindescs": [
@@ -3116,7 +3116,7 @@
           "level": 1,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total (Máx 50%)",
+          "desc": "Elije la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total (Máx 50%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3131,7 +3131,7 @@
           "level": 3,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total total(Max 75%)",
+          "desc": "Elije la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total total(Max 75%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3149,7 +3149,7 @@
           "level": 4,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total total (Max 75%)",
+          "desc": "Elije la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Carga para aumentar el Atq total total (Max 75%)",
           "coinlist": [
             {
               "coindescs": [
@@ -3237,7 +3237,7 @@
           "level": 1,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gana +3 de Contador de Carga; Gana 2 de Rapidez el siguiente turno",
+          "desc": "Elije la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gana +3 de Contador de Carga; Gana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3252,7 +3252,7 @@
           "level": 3,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "Elije la unidad mas lejana (En encuentros normales)\n\n[BeforeAttack] Gana +5 de Contador de Carga; Gana 2 de Rapidez el siguiente turno",
+          "desc": "Elije la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gana +5 de Contador de Carga; Gana 2 de Rapidez el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3272,7 +3272,7 @@
           "level": 1,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Gana 2 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +1 de Frágil y de Grieta Dimensional con esta habilidad",
+          "desc": "[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain 2 Haste next turn\nSpend 10 Charge Count to inflict +1 more Fragile and Dimensional Rift On Hit with this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -3287,7 +3287,7 @@
           "level": 3,
           "name": "Triturador Dimensional",
           "abName": "Pasajero Rebelde",
-          "desc": "[CantIdentify]\nElije a la unidad con mas HP\n\n[BeforeAttack] Gana 3 de Rapidez el siguiente turno\nGasta 10 de Carga e Inflige +2 de Frágil y de Grieta Dimensional con esta habilidad",
+          "desc": "[CantIdentify]\nTargets the unit with the most HP\n\n[BeforeAttack] Gain 3 Haste next turn\nSpend 10 Charge Count to inflict +2 more Fragile and Dimensional Rift On Hit with this Skill",
           "coinlist": [
             {
               "coindescs": [
@@ -3306,7 +3306,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[EndSkill] Gana 1 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
           "coinlist": [
             {
@@ -3327,7 +3327,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
           "coinlist": [
             {
@@ -3351,7 +3351,7 @@
         {
           "level": 4,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
           "coinlist": [
             {
@@ -3380,7 +3380,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Gana 1 de Rapidez, 1 de Poder de Ira Positivo, y 1 de Poder Contundente Positivo el siguiente turno",
           "coinlist": [
             {
@@ -3401,7 +3401,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 Poder Contundente Positivo el siguiente turno",
           "coinlist": [
             {
@@ -3425,7 +3425,7 @@
         {
           "level": 4,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Gana 2 de Rapidez, 1 de Poder de Ira Positivo, y 1 Poder Contundente Positivo el siguiente turno",
           "coinlist": [
             {
@@ -3454,7 +3454,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[EndSkill] Aplica 1 de Poder de Ira Positivo a todos los aliados el siguiente turno",
           "coinlist": [
             {
@@ -3472,7 +3472,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[EndSkill] Aplica 1 de Poder de Ira Positivo a todos los aliados el siguiente turno",
           "coinlist": [
             {
@@ -3495,7 +3495,7 @@
         {
           "level": 1,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad en Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
           "coinlist": [
             {
@@ -3516,7 +3516,7 @@
         {
           "level": 3,
           "name": "Capote",
-          "abName": "Toro Bronceado",
+          "abName": "Toro de Bronce",
           "desc": "[CantIdentify]\nElección Aleatoria\n[EndSkill] Da 1 de Fragilidad en Ira, y 1 de Poder de Ira Positivo A todas las unidades el siguiente turno",
           "coinlist": [
             {
@@ -3542,7 +3542,7 @@
         {
           "level": 1,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[BeforeAttack] Gana +4 de Contador de Temple",
           "coinlist": [
             {
@@ -3560,7 +3560,7 @@
         {
           "level": 3,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[BeforeAttack] Gana +6 de Contador de Temple",
           "coinlist": [
             {
@@ -3581,7 +3581,7 @@
         {
           "level": 4,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[BeforeAttack] Gana +7 de Contador de Temple",
           "coinlist": [
             {
@@ -3607,7 +3607,7 @@
         {
           "level": 1,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[CantIdentify]\nElije la unidad con menos HP\n[BeforeAttack] Gana +5 de Contador de Temple",
           "coinlist": [
             {
@@ -3625,7 +3625,7 @@
         {
           "level": 3,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[CantIdentify]\nElije la unidad con menos HP\n[BeforeAttack] Gana +7 de Contador de Temple",
           "coinlist": [
             {
@@ -3649,7 +3649,7 @@
         {
           "level": 4,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[CantIdentify]\nElije la unidad con menos HP\n[BeforeAttack] Gana +7 de Contador de Temple",
           "coinlist": [
             {
@@ -3875,7 +3875,7 @@
         {
           "level": 1,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[BeforeAttack] Da 1 de Poder de Pereza Positivo, 1 De Ataque de Pereza Positivo, y 2 de Protección a todos los aliados Este turno y el siguiente",
           "coinlist": [
             {}
@@ -3884,7 +3884,7 @@
         {
           "level": 3,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[BeforeAttack] Da 1 de Poder de Pereza Positivo, 2 De Ataque de Pereza Positivo, y 3 de Protección a todos los aliados Este turno y el siguiente",
           "coinlist": [
             {
@@ -3904,7 +3904,7 @@
         {
           "level": 1,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana 1 de Poder de Pereza Positivo y 1 De Ataque de Pereza Positivo este turno y los siguientes 2 turnos",
           "coinlist": [
             {
@@ -3919,7 +3919,7 @@
         {
           "level": 3,
           "name": "Sol Lluvia",
-          "abName": "Zorro Despropositado",
+          "abName": "Zorro Errante",
           "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Gana 2 de Poder de Pereza Positivo y 2 De Ataque de Pereza Positivo este turno y los siguientes 2 turnos",
           "coinlist": [
             {
@@ -4049,7 +4049,7 @@
           "level": 1,
           "name": "Ojos Rojos (Abiertos)",
           "abName": "Brote Aracnido",
-          "desc": "Si la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder de Moneda +4",
+          "desc": "Si la Velocidad del objetivo es menor a 3 o más que la del usuario, Poder de Moneda +4",
           "coinlist": [
             {
               "coindescs": [
@@ -4064,7 +4064,7 @@
           "level": 3,
           "name": "Ojos Rojos (Abiertos)",
           "abName": "Brote Aracnido",
-          "desc": "Si la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder de Moneda +4",
+          "desc": "Si la Velocidad del objetivo es menor a 3 o más que la del usuario, Poder de Moneda +4",
           "coinlist": [
             {
               "coindescs": [
@@ -4082,7 +4082,7 @@
           "level": 4,
           "name": "Ojos Rojos (Abiertos)",
           "abName": "Brote Aracnido",
-          "desc": "Si la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder de Moneda +7",
+          "desc": "Si la Velocidad del objetivo es menor a 3 o más que la del usuario, Poder de Moneda +7",
           "coinlist": [
             {
               "coindescs": [
@@ -4105,7 +4105,7 @@
           "level": 1,
           "name": "Ojos Rojos (Abiertos)",
           "abName": "Brote Aracnido",
-          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder Final +7",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o más que la del usuario, Poder Final +7",
           "coinlist": [
             {
               "coindescs": [
@@ -4120,7 +4120,7 @@
           "level": 3,
           "name": "Ojos Rojos (Abiertos)",
           "abName": "Brote Aracnido",
-          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder Final +7",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o más que la del usuario, Poder Final +7",
           "coinlist": [
             {
               "coindescs": [
@@ -4138,7 +4138,7 @@
           "level": 4,
           "name": "Ojos Rojos (Abiertos)",
           "abName": "Brote Aracnido",
-          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o mas que la del usuario, Poder Final +10",
+          "desc": "[CantIdentify]\nElección Aleatoria\nSi la Velocidad del objetivo es menor a 3 o más que la del usuario, Poder Final +10",
           "coinlist": [
             {
               "coindescs": [
@@ -4160,7 +4160,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "",
           "coinlist": [
             {
@@ -4169,7 +4169,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 de Poder de Ataque Reducido al siguiente turno"
                 },
                 {
-                  "desc": "[EndSkill] Sana 12 PC a otros 4 aliados con los PC mas bajos"
+                  "desc": "[EndSkill] Sana 12 PC a otros 4 aliados con los PC más bajos"
                 }
               ]
             }
@@ -4178,7 +4178,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +1",
           "coinlist": [
             {
@@ -4187,7 +4187,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido el siguiente turno"
                 },
                 {
-                  "desc": "[EndSkill] Sana 17 PC a otros 4 aliados con los PC mas bajos"
+                  "desc": "[EndSkill] Sana 17 PC a otros 4 aliados con los PC más bajos"
                 }
               ]
             }
@@ -4196,7 +4196,7 @@
         {
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +2",
           "coinlist": [
             {
@@ -4205,7 +4205,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Poder de Ataque Reducido el siguiente turno"
                 },
                 {
-                  "desc": "[EndSkill] Sana 25 PC a otros 4 aliados con los PC mas bajos"
+                  "desc": "[EndSkill] Sana 25 PC a otros 4 aliados con los PC más bajos"
                 }
               ]
             }
@@ -4219,7 +4219,7 @@
         {
           "level": 1,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[CantIdentify]\nElección Aleatoria",
           "coinlist": [
             {
@@ -4240,7 +4240,7 @@
         {
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +1",
           "coinlist": [
             {
@@ -4264,7 +4264,7 @@
         {
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
-          "abName": "Mi Figura Vacía",
+          "abName": "Mi Forma Vacua",
           "desc": "[CantIdentify]\nElección Aleatoria\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +2",
           "coinlist": [
             {

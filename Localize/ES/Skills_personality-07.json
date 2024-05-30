@@ -360,7 +360,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si la suma de la Potencia y Contador de [Vibration] del objetivo es 20 o más alto, trigger [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [Vibration_Collapse]\n([Switch_Vibration] : Convierte [Vibration] o [Vibration] ya convertido en un objetivo a un diferente tipo de [Vibration]. Los valores de Potencia y Contador se transfieren con la conversión.)"
+                  "desc": "[OnSucceedAttack] Si la suma de la Potencia y Contador de [Vibration] del objetivo es 20 o más alto, provoca [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [VibrationCollapse]\n([Switch_Vibration] : Convierte [Vibration] o [Vibration] ya convertido en un objetivo a un diferente tipo de [Vibration]. Los valores de Potencia y Contador se transfieren con la conversión.)"
                 }
               ]
             }
@@ -388,7 +388,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si la suma de la Potencia y Contador de [Vibration] del objetivo es 20 o más alto, trigger [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [Vibration_Collapse]\n([Switch_Vibration] : Convierte [Vibration] o [Vibration] ya convertido en un objetivo a un diferente tipo de [Vibration]. Los valores de Potencia y Contador se transfieren con la conversión.)"
+                  "desc": "[OnSucceedAttack] Si la suma de la Potencia y Contador de [Vibration] del objetivo es 20 o más alto, provoca [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [VibrationCollapse]\n([Switch_Vibration] : Convierte [Vibration] o [Vibration] ya convertido en un objetivo a un diferente tipo de [Vibration]. Los valores de Potencia y Contador se transfieren con la conversión.)"
                 }
               ]
             }
