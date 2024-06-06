@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": 800101,
-      "name": "An Apple’s Twilight",
-      "desc": "When the Fruit is destroyed, all parts are inflicted with 2 Fragile.\nThe Fruit regenerates after 1 turn.",
-      "summary": "When the Fruit is destroyed, apply 2 Fragile to all parts"
+      "name": "Una Manzana Crepúscular",
+      "desc": "Cuando la Fruta es destruida, todas las partes serán infligidas con 2 de Frágil.\nLa Fruta se regenera después de un turno.",
+      "summary": "Cuando la Fruta es destruida, aplica 2 de Frágil a todas las partes"
     },
     {
       "id": 800102,
@@ -18,19 +18,19 @@
     },
     {
       "id": 800104,
-      "name": "Entangling Roots",
-      "desc": "At the start of the turn, Inflige 1 Bind on all enemies.\nThis lasts until the Roots have been broken.",
-      "summary": "Inflige 1 Bind on all enemies until Roots are broken"
+      "name": "Raíces Enredadas",
+      "desc": "Al inicio del turno, Inflige 1 de Atadura en todos los enemigos.\nEsto durará hasta que las Raíces sean destruidas.",
+      "summary": "Inflige 1 de Atadura en todos los enemigos hasta que las Raíces sean destruidas"
     },
     {
       "id": 800105,
-      "name": "One Sole Root",
-      "desc": "The Roots gana 2 Attack Power Up for each intact Arm."
+      "name": "Raíz Solitaria",
+      "desc": "Las Raíces ganan 2 de Poder de Ataque Aumentado por cada brazo intacto."
     },
     {
       "id": 800201,
-      "name": "Let the Blood Festival Flow",
-      "desc": "The battle proceeds to the next phase after all the Clay Dolls are defeated."
+      "name": "Que Fluya el Festival de Sangre",
+      "desc": "El combate continua a la siguiente fase una vez que todos los Muñecos de Arcilla son derrotados."
     },
     {
       "id": 800202,
@@ -39,13 +39,13 @@
     },
     {
       "id": 800203,
-      "name": "Let the Fire Festival Ignite",
-      "desc": "If both Arms are destroyed or the main body’s HP is brought to 70%, the battle proceeds to the next phase."
+      "name": "Que arda el Festival de Fuego",
+      "desc": "Si ambos brazos son destruidos o el cuerpo pricipal es llevado a 70%, el combate continua a la siguiente fase."
     },
     {
       "id": 800204,
-      "name": "Frenzy",
-      "desc": "During Phase 3\nAt the start of the turn, Inflige 3 Burn on all enemies."
+      "name": "Frenesí",
+      "desc": "Durante la fase 3\nAl inicio del turno, Inflige 3 de Quemado en todos los enemigos."
     },
     {
       "id": 800205,
@@ -54,8 +54,8 @@
     },
     {
       "id": 800206,
-      "name": "Let the Star Festival Fall",
-      "desc": "When HP is brought to 25%, the battle proceeds to the next phase."
+      "name": "Que Caiga el Festival Estrella",
+      "desc": "Cuando la HP es llevada a 20%, el combate continua a la siguiente fase."
     },
     {
       "id": 800207,
@@ -64,13 +64,13 @@
     },
     {
       "id": 800301,
-      "name": "Idolatry",
-      "desc": "Does not die at 0 HP; instead, remains on the stage as an immobile and untargetable unit.\nSuppressed when the Doomsday Calendar is suppressed."
+      "name": "Idolatría",
+      "desc": "No muere al tener 0 HP, en cambio, permanece en el escenario como un objetivo inmovil e inseleccionable.\nSuprimido cuando el Calendario del Juicio Final es Suprimido."
     },
     {
       "id": 800801,
-      "name": "Cracked Gold",
-      "desc": "Heals HP every turn based on the amount of Golden Sheen."
+      "name": "Oro Quebrado",
+      "desc": "Cura HP cada turno basado en la cantidad de Brillo Dorado."
     },
     {
       "id": 800901,
@@ -79,13 +79,13 @@
     },
     {
       "id": 800902,
-      "name": "Frail Core",
-      "desc": "When the Head is destroyed, all parts are inflicted with Immobilize next turn.\nThe Head regenerates after 1 turn."
+      "name": "Núcleo Frágil",
+      "desc": "Cuando la Cabeza es destruida, Todas las partes sonWhen the Head is destroyed, all parts are inflicted with Immobilize next turn.\nThe Head regenerates after 1 turn."
     },
     {
       "id": 800903,
-      "name": "Rotting Apple",
-      "desc": "After the body is destroyed, all parts are inflicted with 2 Attack Power Down every turn."
+      "name": "Manzana Podrida",
+      "desc": "Después de que el cuerpo es destruido, todas las partes son infligidas con 2 de Poder de Ataque Reducido cada turno."
     },
     {
       "id": 800904,

@@ -3,115 +3,115 @@
     {
       "id": 800101,
       "title": "SnowWhite1",
-      "eventDesc": "A heart torn into thousands of pieces must be kept from all eyes, thus it burrowed into the ground and tangled itself.\n\nYet, someone has to pull up these thorny roots,\nas there is no wound that can remain unearthed.\n\nThe Sinners gave each other looks.\nBeing coiled in piercing, sharp pain was something to avoid even in one’s dreams.",
-      "prevDesc": "The vines growing on the ground are a hassle.\nMaybe there’ll be a chance to get rid of them?",
-      "behaveDesc": "The dry earth must be upturned.\nWhich Sinner was up to the task?",
+      "eventDesc": "Un corazón roto en mil pedazos debe esconderse de las miradas, por lo que se enterró en el suelo y se enredó.\n\nPero alguien debe arrancar estas raíces espinosas,\npues no hay herida que pueda permanecer sin salir a la luz.\n\nLos Pecadores se miraron entre ellos.\nEstar atrapado en un dolor punzante y agudo era algo a evitar incluso en sueños.",
+      "prevDesc": "Las enredaderas del suelo son un estorbo.\n¿Tal vez haya una forma de deshacerse de ellas?",
+      "behaveDesc": "La tierra seca debe ser excavada.\n¿Qué Pecador está a la altura para la tarea?",
       "successDesc": [
-        "{0} walked with shaky steps.\nWith bare hands, they dug up the roots.\n\nIn their hands were the doubts of others.\nThe Sinner realized…\n\nThat while the injury may heal, distrust might take deep root in their heart."
+        "'{0} no pudo hacer nada.\nNo era una tarea fácil después de todo: tan enredadas estaban las raíces, que uno ni las podía distinguir entre sí.\n\nAferrándose, la resistente red de fibra continuó expandiéndose\ny los Pecadores seguirán sufriendo.'"
       ],
       "failureDesc": [
-        "{0} could not uproot anything.\nIt was no easy task, after all-entangled so tightly together, one couldn’t make heads or tails of it.\n\nClutching itself, the durable web of fiber continued to expand,\nand the Sinners will continue to suffer."
+        "'{0} no pudo hacer nada.\nNo era una tarea fácil después de todo: tan enredadas estaban las raíces, que uno ni las podía distinguir entre sí.\n\nAferrándose, la resistente red de fibra continuó expandiéndose\ny los Pecadores seguirán sufriendo.'"
       ]
     },
     {
       "id": 800102,
       "title": "백설선택지2",
-      "eventDesc": "The ground began to tremor ever so slightly.\nThe Sinners remained quiet, but they could read from each other’s glances the single thought they shared:\n“Shouldn’t one of us step up to endure the pain so that the rest will be spared from suffering?”",
+      "eventDesc": "El suelo comenzó a temblar ligeramente.\nLos Pecadores permanecieron en silencio, pero al verse sus miradas pudieron leer el único pensamiento que todos compartían:\n\"¿No debería uno de nosotros soportar el dolor para que el resto no tenga que sufrir?\"”",
       "prevDesc": "백설 선택지 2 뜰 예정",
-      "behaveDesc": "A small crack was found in the ground.\nWho will be the one to seal it?",
+      "behaveDesc": "Una pequeña grieta se encontraba en el suelo.\n ¿Quién será aquel que la sellará?",
       "successDesc": [
-        "The root impales {0}’s chest and extends skyward.\nThe Sinner gasps for air, but that’s none of your business."
+        "'La raíz empaló el abdomen de {0}  y se extendió hasta los cielos.\n El Pecador jadeaba con fuerza, pero no le diste importancia.'"
       ],
       "failureDesc": [
-        "The roots whisper as they skewer each Sinner:\n“All of us should feel the pain.”\n“Just as your sadness throws gloom over me, so should pain be felt equally.”\nThe thousands of roots, a unified whole, piercing into everyone’s flesh."
+        "'Las raíces susurraban mientras ensartaban a cada Pecador.\n“Todos nosotros deberíamos sentir el dolor“.\n “Al igual que tu tristeza me sumerge, también el dolor debe sentirse.“ \nLas miles de raíces, como un todo unificado, perforaba la carne de todos.'"
       ]
     },
     {
       "id": 800104,
       "title": "백설선택지4",
-      "eventDesc": "As if to demonstrate the unrewarding harshness of life, and in spite of enduring so much pain, not a single flower seemed to bloom from the corpse.\nInstead, the Sinners discover fruits borne on it.\n\nOne audibly swallows to drain their salivations.\nAn urge to know the taste of a fruit made fertile with a Sinner starts to grow.",
+      "eventDesc": "Demostrando la dureza poco gratificante de la vida, y el pesar de haber soportado tanto dolor, ninguna sola flor parecía florecer desde los cadáveres.\nEn cambio, los Pecadores encontraron los frutos que nacían de ellos.\n\nSe escuchó a alguien tragar saliva con fuerza.\nComenzando con la curiosidad de dar a conocer los sabores de un fruto fecundado por un Pecador.",
       "prevDesc": "백설 선택지 4 뜰 예정",
-      "behaveDesc": "A Sinner eventually reached for the fruit.\nWho among them took the bite?",
+      "behaveDesc": "Después de un momento, un Pecador finalmente dio con el fruto.\n¿Quién de ellos le dará la mordida?",
       "successDesc": [
-        "{0} took a bite out of the fruit.\nTheir tongue is doused in pure delight.\n\nYet it’s more of a curse, as no other flavor will ever again be able to rouse them."
+        "{0} le dio una mordida al fruto.\n Su lengua estaba empapada en un deleite puro.\n\nSin embargo, aquello no era más que una maldición, porque los otros sabores solo parecían ser insípidos."
       ],
       "failureDesc": [
-        "Something was eating away at the Sinner from the inside.\nIt was something more humiliating than a bug craving sweetness, no; it was an emotion, an ignoble feeling.\n\nThe Sinner looked around.\nThey were now envious of everything, no longer able to love themself."
+        "Algo estaba empezando a carcomer las entrañas del Pecador.\nEra algo más humillante que sólo un bichito buscando delicias, no; era una emoción, un sentimiento innoble.\n\nEl Pecador miró sus alrededores.\nPues ahora tenía envidia de todo, y era incapaz de amarse a sí mismo."
       ]
     },
     {
       "id": 800105,
       "title": "백설선택지5",
-      "eventDesc": "The Sinners peered at its face.\nThey gazed upon the weathered memories within…\n\nDown to the holes left by pests.\n\nAn apple does not culminate when it ripens to a glossy red.\nWhen the apple browns, cracks, shrivels, and attracts lowly creatures…\nThat is when it has met its golden bliss.\n\nThe Sinners knew now was the time to bring the apple to the earth.",
-      "prevDesc": "The fruit was borne again.\nMaybe this is a chance to destroy it once and for all?",
-      "behaveDesc": "The apple is open for attack.\nWho was the Sinner to bring down the apple in its moment of bliss?",
+      "eventDesc": "Los Pecadores contemplaron fijamente su rostro.\n Observaron los recuerdos desgastados que contenía... \n\n Al Mirar por el agujero dejado por los gusanos.\n\n Una manzana no alcanza su plenitud cuando está roja y madura.\n Es cuando se oxida, se agrieta, se marchita, y atrae a sus alrededores formas de vida insignificantes... \n Es ahí cuando alcanza su apogeo.\n\n Los Pecadores Sabían que era el momento de dejar caer la manzana.",
+      "prevDesc": "El fruto volvió a nacer.\n¿Quizá esta es la oportunidad de destruirla de una vez por todas?",
+      "behaveDesc": "La manzana se ha convertido en un blanco fácil.\n¿Quién será el Pecador que haga caer la manzana de su apogeo? ",
       "successDesc": [
-        "{0} brought the apple to the ground.\nThe fall left a dull thud.\n\nThe fruit was emptied of its lifeblood long ago; only futility remained.\nThis attack allowed the Sinners a brief moment of respite."
+        "{0} dejó caer la manzana al suelo.\n La caída causo un ruido sordo.\n\n El fruto carecía de vitalidad hace ya tiempo; sólo vacío es lo que quedaba. \n Este ataque permitió a los Pecadores recobrar un poco el aliento, al menos, momentáneamente."
       ],
       "failureDesc": [
-        "{0} could not strike the apple.\nIt must have been the Sinner’s wavering heart that caused them to falter.\n\nThe mind is such a superficial thing.\nIn any mind, you will find a sense of inferiority that likes to belittle the self."
+        "{0} no pudo golpear la manzana. \n Debió haber sido el vacilante corazón del Pecador que lo hizo flaquear en el ultimo momento.\n\n La mente es algo tan frágil.\n Todo el mundo tiene un complejo de inferioridad en su ser, donde se considera insignificante."
       ]
     },
     {
       "id": 800801,
       "title": "구더기사과선택지1",
-      "eventDesc": "The apple’s body broke, and the raging fruit still grew.\nCould the Golden Bough really be in there?\n\n“I’ll go check it out!”\nYuri said to the others.\n\nThe Sinner with a bug’s arm seems nervous about this.\nDoes he want to go with her, perhaps?",
-      "prevDesc": "Maybe the Golden Bough lies inside the apple?",
-      "behaveDesc": "You can’t just send Yuri out there alone.\nWhat Sinner will be able to keep her safe?",
+      "eventDesc": "El cuerpo de la manzana se rompió, y la fruta iracunda siguió creciendo.\n¿Realmente podría la Rama Dorada estar ahí?\n\n“¡Iré a revisar!”\nLe dijo Yuri a los demás.\n\nEl Pecador del brazo de insecto parece algo inquieto.\n¿Acaso quiere ir con ella?",
+      "prevDesc": "¿Talvez la Rama Dorada yace dentro de la manzana?",
+      "behaveDesc": "No puedes simplemente enviar a Yuri por ahí sola.\n¿Qué Pecador sería capaz de mantenerla a salvo?",
       "successDesc": [
-        "The fruit’s cracked shell suddenly began to rattle as if it would jump at any moment.\n\n{0} managed to escape, but it seems Yuri couldn’t.\nThe fruit’s flesh melted to form a new body.\n\nDon’t feel too guilty about it. One lost life is better than two."
+        "La agrietada cáscara de la fruta comenzó a temblar como si estuviera a punto de atacar.\n\n{0} logró escapar, pero Yuri no tuvo la misma suerte.\nLa pulpa de la fruta se derritió y dio origen a un nuevo cuerpo.\n\nNo te sientas demasiado culpable. Perder a uno es mejor que perder a dos."
       ],
       "failureDesc": [
-        "The fruit’s cracked shell suddenly began to rattle as if it would jump at any moment.\n\n{0} was too occupied to notice it in time.\nThey managed to get away but ended up injured.\n\nYuri was even later to notice. The fruit’s flesh had already melted with her to form a new body.\n\nIt’s unfortunate, but there’s nothing we can do about it. One of our own got hurt, too."
+        "La agrietada cáscara de la fruta comenzó a temblar como si estuviera a punto de atacar.\n\n{0} se dio cuenta demasiado tarde.\nLogró alejarse pero resultó herido.\n\nYuri tardó en reaccionar aún más. La pulpa de la fruta la derritió y dio origen a un nuevo cuerpo.\n\nEs una lástima, pero ya no hay nada que podamos hacer. Uno de los nuestros se lastimó también."
       ]
     },
     {
       "id": 800201,
-      "prevDesc": "The Abnormality looks upset.\nIt seems to want something, but what should we give?"
+      "prevDesc": "La Anormalidad se ve molesta.\nParece querer algo, pero ¿qué deberíamos darle?"
     },
     {
       "id": 800202,
       "title": "아즈텍원판선택지2",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Who would appease the Abnormality?",
+      "eventDesc": "Parece que uno de los Pecadores tendrá que hacer el trabajo de un muñeco de arcilla.",
+      "behaveDesc": "¿Quién apaciguará a la Anormalidad?",
       "successDesc": [
-        "It appears that {0}’s blood was fresh enough.\nSatiated, the Abnormality calmed down for a moment."
+        "Parece que la sangre de {0} fue lo suficientemente fresca.\nSatisfecha, la Anormalidad se calmó por un momento."
       ],
       "failureDesc": [
-        "It didn’t seem to like {0}’s blood.\nThe Abnormality looks even madder than before."
+        "No parece que le haya gustado la sangre de {0}.\nLa Anormalidad se ve más enojada que antes."
       ]
     },
     {
       "id": 800203,
-      "prevDesc": "The heat of the Abnormality is wearing everyone down.\nWe’ll have to make an offering to calm its wrath."
+      "prevDesc": "El calor de la Anormalidad está agotando a todos.\nTendremos que hacer un sacrificio para calmar su ira."
     },
     {
       "id": 800204,
       "title": "아즈텍원판선택지4",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Whose heart would be the coldest among them?",
+      "eventDesc": "Parece que uno de los Pecadores tendrá que hacer el trabajo de un muñeco de arcilla.",
+      "behaveDesc": "¿De quién es el corazón más frío?",
       "successDesc": [
-        "{0} was able to cool the Abnormality’s fervor.\nThe flame shrunk to a flicker."
+        "{0} consiguió enfriar el ardor de la Anormalidad.\nLa llama se redujo a una chispa."
       ],
       "failureDesc": [
-        "Maybe {0} was warmer than we thought.\nThe Abnormality’s belching an even fiercer flame now."
+        "Tal vez {0} era más cálido de lo que creíamos.\nAhora la Anormalidad está arrojando una llama aún más ardiente."
       ]
     },
     {
       "id": 800205,
-      "prevDesc": "You sense a dangerous glow.",
-      "behaveDesc": "The stars are twinkling.\nWhen they shine, they’ll rob us all of our sight.\nWhat gift would the stars like?"
+      "prevDesc": "Sientes un brillo peligroso.",
+      "behaveDesc": "Las estrellas titilan.\nCuando brillen, nos quemarán la vista.\n¿Qué regalo les podría gustar?"
     },
     {
       "id": 800206,
       "title": "아즈텍원판선택지6",
-      "eventDesc": "It looks like one of the Sinners will have to do a clay doll’s job.",
-      "behaveDesc": "Whose voice could lull the stars to sleep?",
+      "eventDesc": "Parece que uno de los Pecadores tendrá que hacer el trabajo de un muñeco de arcilla.",
+      "behaveDesc": "¿Qué voz podría hacer dormir a las estrellas?",
       "successDesc": [
-        "{0}’s lullaby brought the stars into a deep slumber.\nTheir starlight will leave us be for a while."
+        "La canción de cuna de {0} dejó a las estrellas en un sueño profundo.\nSus luces nos dejarán en paz por un rato."
       ],
       "failureDesc": [
-        "{0}’s lullaby ended up waking the stars.\nIt appears that they are about to punish us.\n\nAn unimaginably bright flash will burn all of our eyes.\nPerhaps the cosmos will reveal itself before our scorched sockets."
+        "La canción de cuna de {0} terminó por despertar a las estrellas.\nParece que van a castigarnos.\n\nUna luz inimaginablemente brillante nos quemará los ojos a todos.\nQuizás el cosmos se revele ante nuestras cuencas quemadas"
       ]
     },
     {
@@ -142,14 +142,14 @@
     {
       "id": 10100201,
       "title": "Eternal Rest",
-      "eventDesc": "A soldier was crushed under rubble, gasping in agony.\n\n“Please just kill me… It hurts too much.”\n\nYou can’t ignore this person.",
+      "eventDesc": "Un soldado se hallaba aplastado bajo los escombros, jadeando en agonía.\n\n“Por favor, sólo mátame… Duele demasiado.”\n\nNo puedes simplemente ignorarlo.",
       "prevDesc": "",
-      "behaveDesc": "Who will undertake bringing this soldier to peace?",
+      "behaveDesc": "¿Quién se encargará de llevar a este soldado a la paz?",
       "successDesc": [
-        "“Thank… you…”\n\nThe soldier’s life was delivered a coup de grâce by the knife.\nThe human rhythm that rose through the blade soon ceased, and the soldier was eased into eternal rest."
+        "“Muchas… gracias…”\n\nLa vida del soldado recibió el golpde de gracia por su cuchillo.\nEl pulso humano que se elevaba a través de la hoja pronto cesó, y el soldado fue llevado al descanso eterno."
       ],
       "failureDesc": [
-        "“Gyaagh…!”\n\nThe knife came down upon the wrong spot.\nThe soldier’s bloody coughs and face full of terror felt like they endured for an eternity.\n\nIt took a while for that suffering soldier to pass away.\nRegret and hate were the final things in those eyes."
+        "“Gyaagh…!”\n\nEl cuchillo cortó el lugar equivocado.\nEl soldado tosiendo sangre con un rostro colmado de terror se sentía soportando una eternidad de dolor.\n\nLe llevó un tiempo a ese sufrido soldado finalmente irse.\nArrepentimiento y odio fueron las últimas cosas en reflejar sus ojos."
       ]
     },
     {

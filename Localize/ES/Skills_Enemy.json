@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab"
+          "name": "Apuñalada"
         }
       ]
     },
@@ -14,8 +14,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keep Down",
-          "desc": "[OnSucceedAttack] Inflige 2 Bind; Heal 5% of Max HP"
+          "name": "Mantenerse Abajo",
+          "desc": "[OnSucceedAttack] Inflige 2 de Atadura; Cura 5% de la vida máx"
         }
       ]
     },
@@ -24,8 +24,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sneaky Attack",
-          "desc": "[OnSucceedAttack] Gana 1 Attack Power Up next turn"
+          "name": "Ataque Sigiloso",
+          "desc": "[OnSucceedAttack] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
         }
       ]
     },
@@ -34,7 +34,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wild Swipe"
+          "name": "Golpe Salvaje"
         }
       ]
     },
@@ -43,8 +43,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Open Wound",
-          "desc": "[OnSucceedAttack] Inflige 1 Attack Power Down next turn"
+          "name": "Herida Abierta",
+          "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Negativo el siguiente turno"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier"
+          "name": "Portavoz"
         }
       ]
     },
@@ -72,7 +72,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
+          "name": "Comando de Ataque",
           "desc": "[WhenUse] Apply 1 Attack Power Up to a random ally next turn"
         }
       ]
@@ -82,7 +82,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
+          "name": "Comando de Defensa",
           "desc": "[2xPostLine]\n[WhenUse] Give 2 Poder Defensivo Aumentado to 2 random allies next turn"
         }
       ]
@@ -92,7 +92,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Wave",
+          "name": "Onda Mental",
           "desc": "[5xPostLine]\n[OnSucceedAttack] Target loses 20 SP"
         }
       ]
@@ -102,7 +102,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clumsy Chop",
+          "name": "Corte soso",
           "desc": "",
           "coinlist": [
             {}
@@ -115,7 +115,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clunky Stab",
+          "name": "Puñalada Torpe",
           "desc": "",
           "coinlist": [
             {}
@@ -128,7 +128,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Weak Blow",
+          "name": "Golpe Débil",
           "desc": "",
           "coinlist": [
             {}
@@ -141,7 +141,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hit",
+          "name": "Golpe",
           "desc": "",
           "coinlist": [
             {}
@@ -154,7 +154,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heavy Strike",
+          "name": "Golpe Pesado",
           "desc": "",
           "coinlist": [
             {}
@@ -167,7 +167,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Block",
+          "name": "Bloqueo",
           "desc": ""
         }
       ]
@@ -177,7 +177,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Golpetazo",
           "desc": "",
           "coinlist": [
             {}
@@ -190,7 +190,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Multi-Bloqueo",
           "desc": ""
         }
       ]
@@ -200,7 +200,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Apuñalar",
           "desc": "",
           "coinlist": [
             {}
@@ -213,7 +213,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Puñetazos Veloces",
           "desc": "",
           "coinlist": [
             {},
@@ -227,7 +227,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Golpetazo",
           "desc": "",
           "coinlist": [
             {}
@@ -240,7 +240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Rebanar",
           "desc": "",
           "coinlist": [
             {}
@@ -253,7 +253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Barrido",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -263,7 +263,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -276,7 +276,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Multi-Bloqueo",
           "desc": ""
         }
       ]
@@ -286,7 +286,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Apuñalada",
           "desc": "",
           "coinlist": [
             {}
@@ -299,7 +299,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Puñetazos Veloces",
           "desc": "",
           "coinlist": [
             {}
@@ -312,7 +312,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Golpetazo",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -328,13 +328,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Rebanar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -347,13 +347,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Barrido",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -366,7 +366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Guardia",
           "desc": ""
         }
       ]
@@ -376,7 +376,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Apuñalada",
           "desc": "",
           "coinlist": [
             {}
@@ -389,27 +389,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Puñetazos Veloces",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -422,7 +422,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Golpetazo",
           "desc": "",
           "coinlist": [
             {}
@@ -435,13 +435,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Rebanar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -454,13 +454,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweep",
+          "name": "Barrido",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -473,7 +473,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Multi-Bloqueo",
           "desc": ""
         }
       ]
@@ -483,7 +483,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stab",
+          "name": "Apuñalada",
           "desc": "",
           "coinlist": [
             {}
@@ -496,27 +496,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quick Jabs",
+          "name": "Puñetazos Veloces",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -529,7 +529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Golpetazo",
           "desc": "",
           "coinlist": [
             {}
@@ -542,13 +542,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slice",
+          "name": "Rebanar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -561,7 +561,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multi-block",
+          "name": "Multi-Bloqueo",
           "desc": ""
         }
       ]
@@ -571,7 +571,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier",
+          "name": "Portavoz",
           "desc": "",
           "coinlist": [
             {}
@@ -584,8 +584,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
-          "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
+          "name": "Comando de Defensa",
+          "desc": "[WhenUse] Aplica 1 de Protección a 2 aliados aleatorios el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -597,7 +597,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harden",
+          "name": "Endurecer",
           "desc": ""
         }
       ]
@@ -607,13 +607,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
+          "name": "Comando de Ataque",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +5 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +5 de Contador de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -626,20 +626,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crier",
+          "name": "Portavoz",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] El Objetivo pierde 5 PC"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] El Objetivo pierde 5 PC"
                 }
               ]
             }
@@ -652,13 +652,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Onslaught Command",
-          "desc": "[WhenUse] Apply 1 Damage Up to 2 random allies next turn",
+          "name": "Comando de Ataque",
+          "desc": "[WhenUse] Aplica 1 de Daño Aumentado a 2 aliados aleatorios el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +5 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +5 de Contador de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -671,13 +671,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mind Wave",
+          "name": "Onda Mental",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 15 SP"
+                  "desc": "[OnSucceedAttackHead] El Objetivo Pierde 15 PC"
                 }
               ]
             }
@@ -690,7 +690,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harden",
+          "name": "Endurecer",
           "desc": ""
         }
       ]
@@ -700,13 +700,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rampart Command",
-          "desc": "[WhenUse] Apply 1 Protection to 2 random allies next turn",
+          "name": "Comando de Defensa",
+          "desc": "[WhenUse] Aplica 1 de Protección a 2 aliados aleatorios el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] El Objetivo pierde 5 PC"
                 }
               ]
             }
@@ -719,7 +719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
+          "name": "Golpetazo",
           "desc": "",
           "coinlist": [
             {}
@@ -738,14 +738,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -790,7 +790,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             },
@@ -798,7 +798,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -1006,7 +1006,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -1111,7 +1111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -1226,14 +1226,14 @@
         {
           "level": 1,
           "name": "Duelo de Baile",
-          "desc": "[WinDuel] Target loses 5 SP",
+          "desc": "[WinDuel] El Objetivo pierde 5 PC",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
                 }
               ]
             }
@@ -1260,7 +1260,7 @@
         {
           "level": 1,
           "name": "¡Olé!",
-          "desc": "[OnSucceedEvade] Target loses 5 SP",
+          "desc": "[OnSucceedEvade] El Objetivo pierde 5 PC",
           "coinlist": [
             {}
           ]
@@ -1273,7 +1273,7 @@
         {
           "level": 1,
           "name": "Danza de Emoción",
-          "desc": "[WhenUse] Gana 1 Attack Power Up next turn",
+          "desc": "[WhenUse] Gana 1 de Poder de Ataque Aumentado el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -1351,7 +1351,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 de Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             }
@@ -1482,7 +1482,7 @@
         {
           "level": 1,
           "name": "Ey!",
-          "desc": "[WinDuel] Target loses 15 SP",
+          "desc": "[WinDuel] El Objetivo Pierde 15 PC",
           "coinlist": [
             {
               "coindescs": [
@@ -1797,7 +1797,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -1958,12 +1958,12 @@
         {
           "level": 1,
           "name": "Oppressive Preaching",
-          "desc": "[DefeatDuel] Gana 2 Attack Power Down next turn",
+          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Negativo el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
                 }
               ]
             }
@@ -1990,7 +1990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Inflige 10 Bind next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Inflige 10 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -2074,7 +2074,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Bind and 2 Poder de Ataque Negativo el siguiente turno"
                 }
               ]
             }
@@ -2574,7 +2574,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Defense Down and +1 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Defense Down and +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -2839,7 +2839,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
@@ -2978,7 +2978,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
                 }
               ]
             }
@@ -3931,7 +3931,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Give 2 de Poder de Ataque Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Fragile next turn"
@@ -4050,7 +4050,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -4179,7 +4179,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -4212,7 +4212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 5 de Ruptura"
@@ -4253,7 +4253,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -4336,7 +4336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -4606,7 +4606,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Haste; Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 Haste; Inflige 2 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -4625,7 +4625,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             },
@@ -4693,10 +4693,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 5 SP"
+                  "desc": "[OnSucceedAttack] El Objetivo pierde 5 PC"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Target loses 5 SP"
+                  "desc": "[OnSucceedAttackHead] El Objetivo pierde 5 PC"
                 }
               ]
             }

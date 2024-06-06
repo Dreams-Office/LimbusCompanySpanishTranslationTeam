@@ -2,63 +2,63 @@
   "dataList": [
     {
       "id": 1001,
-      "name": "Mask of a Devotee",
-      "desc": "All allies gain +5 Defense Level.",
+      "name": "Máscara del Devoto",
+      "desc": "Todos los aliados ganan +5 Nivel Defensivo.",
       "simpleDesc": [
         {
           "abilityID": 1001,
-          "simpleDesc": "Defense Level +5"
+          "simpleDesc": "Nivel Defensivo +5"
         }
       ]
     },
     {
       "id": 1002,
-      "name": "Shoddy Dressing",
-      "desc": "All allies gain +10% Max HP.",
+      "name": "Apósito de Mala Calidad",
+      "desc": "Todos los aliados ganan +10% de HP máx.",
       "simpleDesc": [
         {
           "abilityID": 1002,
-          "simpleDesc": "Max HP +10%"
+          "simpleDesc": "HP Máx +10%"
         }
       ]
     },
     {
       "id": 1003,
-      "name": "Festered Fragment",
-      "desc": "At the start of the turn, allies with 50% or less health heal 5 HP.",
+      "name": "Fragmento Enconado",
+      "desc": "Al inicio del turno, aliados con 5'% o menos salud se curan 5 de HP.",
       "simpleDesc": [
         {
           "abilityID": 1003,
-          "simpleDesc": "Allies at <50% health heal 5 HP"
+          "simpleDesc": "Aliados con <50% de salud se curan 5 HP"
         }
       ]
     },
     {
       "id": 1004,
-      "name": "Bloodied Mask of a Devotee",
-      "desc": "All allies gain +5 Offense Level and +5 Defense Level.",
+      "name": "Máscara del Devoto Sangriento",
+      "desc": "Todos los aliados ganan +5 Nivel Ofensivo y +5 Nivel Defensivo.",
       "simpleDesc": [
         {
           "abilityID": 1004,
-          "simpleDesc": "Offense & Defense Levels +5"
+          "simpleDesc": "Nivel Ofensivo & Defensivo +5"
         }
       ]
     },
     {
       "id": 1005,
-      "name": "Ebony Brooch",
-      "desc": "For the first 3 turns of battle, Inflige 2 Bind on all enemies.",
+      "name": "Broche de Ébano",
+      "desc": "Por los primeros 3 turnos de un combate, Inflige 2 de Atadura en todos los enemigos.",
       "simpleDesc": [
         {
           "abilityID": 1005,
-          "simpleDesc": "Inflige 2 Bind"
+          "simpleDesc": "Inflige 2 de Atadura"
         }
       ]
     },
     {
       "id": 1006,
-      "name": "Etched Doomsday",
-      "desc": "On the first turn of battle, Inflige 1 Burn on all enemies 5 times.",
+      "name": "Grabado del Juicio Final",
+      "desc": "En el primer turno de un combate, Inflige 1 de Quemadura en todos los enemigos 5 veces.",
       "simpleDesc": [
         {
           "abilityID": 1006,

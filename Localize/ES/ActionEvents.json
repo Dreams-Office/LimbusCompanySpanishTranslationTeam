@@ -2,94 +2,94 @@
   "dataList": [
     {
       "id": 101001,
-      "name": "Human Offering",
-      "subDesc": "You see clay dolls in the distance.",
-      "desc": "They’re rummaging through corpses, looking for something.\nRelentless demands for an offering ring in the ears.\nThey look like they might jump us at any second.\n\nYou see a dying person nearby, gasping for air.\nShould you offer this person up?\nOr…",
+      "name": "Sacrificio Humano",
+      "subDesc": "Ves muñecos de arcilla a la distancia.",
+      "desc": "Figuras de arcilla hurgan entre cadáveres, como si buscasen algo.\nDemandas por un sacrificio se hacen sonar.\nParecen listas para atacarnos en cualquier momento.\n\nVes a una persona moribunda cerca, luchando por respirar.\n¿Deberías ofrecerla como sacrificio?\nO...",
       "options": [
         {
-          "message": "Offer the person.",
-          "messageDesc": "All allies lose SP. Gain an E.G.O Gift.",
+          "message": "Ofrecer a la persona.",
+          "messageDesc": "Todos los aliados pierden PC. Gana un Regalo E.G.O.",
           "result": [
-            "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
+            "Satisfechos, los muñecos de arcilla se llevaron al futuro cadáver a lo lejos."
           ]
         },
         {
-          "message": "Don’t offer the person.",
-          "messageDesc": "Begin a combat encounter. Win to gain a stronger E.G.O Gift.",
+          "message": "No ofrecer a la persona.",
+          "messageDesc": "Inicia un combate. Gana para ganar un Regalo E.G.O más fuerte.",
           "result": [
-            "Angered by your inaction, the clay dolls attacked you."
+            "Irritados por tu inactividad, los muñecos de arcilla te atacaron."
           ]
         },
         {
-          "message": "Offer a Sinner.",
+          "message": "Ofrecer un Pecador.",
           "messageDesc": "……",
           "result": [
-            "“Are your screws loose, Manager?”\n\nThe Sinners seem upset by your decision."
+            "¿Te has vuelto loco, Gerente?”\n\nLos Pecadores parecen molestos por tu decisión."
           ]
         }
       ]
     },
     {
       "id": 10100101,
-      "name": "Human Offering",
-      "subDesc": "You see clay dolls in the distance.",
-      "desc": "Looks like the Sinners are out of the question.\n\nShould you offer up this dying person?\nOr…",
+      "name": "Sacrificio Humano",
+      "subDesc": "Ves muñecos de arcilla a la distancia.",
+      "desc": "Parece que los Pecadores están descartados.\n\n¿Deberías ofrecer a esta persona moribunda?\nO…",
       "options": [
         {
-          "message": "Offer the person.",
-          "messageDesc": "All allies lose SP. Gain an E.G.O Gift.",
+          "message": "Ofrecer a la persona.",
+          "messageDesc": "Todos los aliados pierden PC. Gana un Regalo E.G.O.",
           "result": [
-            "Satisfied, the clay dolls carried the corpse-to-be off into the distance."
+            "Satisfechos, los muñecos de arcilla se llevaron al futuro cadáver a lo lejos."
           ]
         },
         {
-          "message": "Don’t offer the person.",
-          "messageDesc": "Begin a combat encounter. Win to gain a stronger E.G.O Gift.",
+          "message": "No ofrecer a la persona.",
+          "messageDesc": "Inicia un combate. Gana para ganar un Regalo E.G.O más fuerte.",
           "result": [
-            "Angered by your inaction, the clay dolls attacked you."
+            "Irritados por tu inactividad, los muñecos de arcilla te atacaron."
           ]
         }
       ]
     },
     {
       "id": 101002,
-      "name": "Eternal Rest",
-      "desc": "You hear a faint voice.\n\n“Please, help…”\n\nDo you follow the sound? Or…",
+      "name": "Descanso Eterno",
+      "desc": "Escuchas una voz débil.\n\n“Por favor, ayuda…”\n\n¿Vas hacia la voz? O...",
       "options": [
         {
-          "message": "Check out the source of the voice.",
-          "messageDesc": "Run a Pride check. Gain an E.G.O Gift.",
+          "message": "Buscar de dónde viene la voz.",
+          "messageDesc": "Haz un juicio de Orgullo. Gana un Regalo E.G.O.",
           "result": [
-            "A soldier was crushed under rubble, gasping in agony.\n\n“Please just kill me… It hurts too much.”\n\nYou can’t ignore this person.\nWho will be ordered to bring this soldier to peace?"
+            "Un soldado aplastado por un escombro jadea de agonía.\n\n“Por favor, mátame… Duele demasiado.”\n\nNo puedes ignorar a esta persona.\n¿A quién se le ordenará darle la paz a este soldado?'"
           ]
         },
         {
-          "message": "Ignore the voice.",
+          "message": "Ignorar la voz.",
           "messageDesc": "",
           "result": [
-            "It could just have been your senses playing tricks on you.\nIt’s not uncommon for howling wind to be mistaken for a human voice.\n\nYou decided to hurry along."
+            "Tal vez solo eran tus sentidos jugándote una mala pasada.\nNo es raro confundir el aullido del viento con una voz humana.\n\nDecidiste darte prisa."
           ]
         }
       ]
     },
     {
       "id": 101003,
-      "name": "An Encounter with the Unbearable",
-      "subDesc": "Crunching sounds jar on your nerves.",
-      "desc": "While traversing a narrow passage, a swarm of cockroaches crawled into the way.\nThe rustling visage is almost revolting.\n\nDo you walk past them? Or…",
+      "name": "Encuentro con lo Insoportable",
+      "subDesc": "Los crujidos te ponen los nervios de punta.",
+      "desc": "Al atravesar un pasadizo estrecho, una plaga de cucarachas se pone en el camino.\nEl crujido que hacen te provocan náuseas.\n\n¿Pasas de ellas? O...",
       "options": [
         {
-          "message": "Carefully move past the gross swarm.",
-          "messageDesc": "All allies lose SP",
+          "message": "Pasar con cuidado a través del asqueroso enjambre.",
+          "messageDesc": "Todos los aliados pierden PC",
           "result": [
-            "“Ewwww… One got on my leg!”\n\nEveryone managed to get through the passage, but their disgust is clearly visible.\nThey seem fatigued by the experience."
+            "“Ewwww… ¡Una se subió a mi pierna!”\n\nTodos pudieron atravesar el pasillo, pero el disgusto es claramente visible.\nParecen fatigados por la experiencia."
           ]
         },
         {
-          "message": "Enough is enough. Crush the cockroaches with the Sinners.",
-          "messageDesc": "Gregor loses a lot of SP. Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "message": "Suficiente. Aplastar las cucarachas con los Pecadores.",
+          "messageDesc": "Gregor pierde muchos PC. Inicia un combate. Gana para ganar un Regalo E.G.O.",
           "result": [
-            "“Tsk…”\n\nGregor turned away from the carnage, discontent.\nSoon after, a crowd of angry bug-soldiers came charging for us."
+            "“Tsk…”\n\nGregor se apartó de la matanza, descontento.\nPoco después, una multitud de soldados bicho enojados cargó contra nosotros."
           ]
         }
       ]
@@ -591,16 +591,16 @@
       "id": 800201,
       "name": "아즈텍원판 선택지1",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "There are many ways to calm one down,\nbut this Abnormality seems to like gifts the most.\nA fresh batch of blood might be able to appease it.",
+      "desc": "Hay muchas maneras de calmar a una\npero esta Anormalidad parece decantarse más por los regalos.\nUn nuevo lote de sangre podría apaciguarlo.",
       "options": [
         {
-          "message": "Offer a clay doll.",
+          "message": "Ofrecer un muñeco de arcilla.",
           "result": [
-            "You gave a living clay doll as tribute.\nSatiated, the Abnormality calmed down for a moment."
+            "Le entregaste un muñeco de arcilla viviente como tributo.\nSatisfecha, la Anormalidad se calmó por un momento."
           ]
         },
         {
-          "message": "Offer a Sinner.",
+          "message": "Ofrecer un Pecador.",
           "result": [
             ""
           ]
@@ -611,16 +611,16 @@
       "id": 800203,
       "name": "아즈텍원판 선택지3",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "To weaken the flame, you’ll need cool water.\nSince we aren’t carrying any buckets of water, we should offer up someone cool instead.",
+      "desc": "Para debilitar la llama, necesitarás agua helada.\nDebido a que no llevamos ningun balde con agua, deberíamos ofrecer algo helado en cambio.",
       "options": [
         {
-          "message": "Offer a clay doll.",
+          "message": "Ofrecer un muñeco de arcilla.",
           "result": [
-            "You gave a living clay doll as tribute.\nThe flame shrunk to a flicker."
+            "Le entregaste un muñeco de arcilla viviente como tributo.\nLa llama se redujo a sólo un vestigio."
           ]
         },
         {
-          "message": "Offer a Sinner.",
+          "message": "Ofrecer un Pecador.",
           "result": [
             ""
           ]
@@ -631,10 +631,10 @@
       "id": 800205,
       "name": "아즈텍원판 선택지5",
       "subDesc": "사용 안하는 텍스트",
-      "desc": "The stars are twinkling.\nWhen they shine, they’ll rob us all of our sight.\nWhat gift would the stars like?",
+      "desc": "Las estrellas están parpadean.\nCuando ellas brillan, se roban nuestra vista.\n¿Qué regalo le podría gustar a la estrellas?",
       "options": [
         {
-          "message": "Offer a Sinner.",
+          "message": "Ofrecer un Pecador.",
           "result": [
             ""
           ]

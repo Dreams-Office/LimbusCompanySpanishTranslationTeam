@@ -6,19 +6,19 @@
     },
     {
       "id": "Nothing",
-      "content": "<color=#ebcaa2>Nothing happened.</color>"
+      "content": "<color=#ebcaa2>Nada ocurrió.</color>"
     },
     {
       "id": "LevelupPersonality",
-      "content": "<color=#ebcaa2>Event: Sinner Power-up!</color>"
+      "content": "<color=#ebcaa2>Evento: ¡Pecador Potenciado!</color>"
     },
     {
       "id": "GetEgogift",
-      "content": "<color=#ebcaa2>Event: Random E.G.O Gift!</color>"
+      "content": "<color=#ebcaa2>Evento: ¡Regalo E.G.O Aleatorio!</color>"
     },
     {
       "id": "GetCharacter",
-      "content": "<color=#ebcaa2>Event: Sinner Recruitment!</color>"
+      "content": "<color=#ebcaa2>Evento: ¡Reclutamiento de Pecador!</color>"
     },
     {
       "id": "LevelupPersonalityOnWinBattle",
@@ -70,7 +70,7 @@
     },
     {
       "id": "LoseMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>lost</color> <color=#fe4b48>{amount} SP!</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>pierden</color> <color=#fe4b48>{amount} PC!</color>"
     },
     {
       "id": "RecoverHpMpSameAmount",
@@ -90,7 +90,7 @@
     },
     {
       "id": "GetConfirmedEgogift",
-      "content": "<color=#ebcaa2>{reward} Earned!</color>"
+      "content": "<color=#ebcaa2>{reward} Conseguido!</color>"
     },
     {
       "id": "GetBuff_OnStageStart",
@@ -306,7 +306,7 @@
     },
     {
       "id": "MirrorDungeonLossCost",
-      "content": "<color=#ebcaa2>Cost {amount} lost</color>"
+      "content": "<color=#ebcaa2>Cost {amount} pierden </color>"
     },
     {
       "id": "Choice_90104001",

@@ -4286,16 +4286,16 @@
     },
     {
       "id": 9403,
-      "name": "Ebony Brooch",
-      "desc": "First Turn Start of an Encounter: Inflict 2 [Burst] Potency and Count to all enemies.\n\nInflict 2 [Binding] next turn at Turn End to all enemies for 3 turns.",
+      "name": "Broche de Ébano",
+      "desc": "Primer Turno de un Encuentro: Inflige 2 de Potencia y Contador de [Burst] a todos los enemigos.\n\nInflige 2 de [Binding] el siguiente turno a todos los enemigos por 3 turnos.",
       "simpleDesc": [
         {
           "abilityID": 9403,
-          "simpleDesc": "Inflict 2 [Burst] Potency and +2 [Burst] Count on all enemies"
+          "simpleDesc": "Inflige 2 de Potencia de [Burst] y +2 de Contador de [Burst] en todos los enemigos"
         },
         {
           "abilityID": 94031,
-          "simpleDesc": "Inflict 2 [Binding] on all enemies"
+          "simpleDesc": "Inflige 2 de [Binding] en todos los enemigos"
         }
       ]
     },

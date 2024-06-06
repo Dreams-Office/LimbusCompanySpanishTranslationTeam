@@ -41,7 +41,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Distrust",
+          "name": "Desconfianza",
           "coinlist": [
             {},
             {}
@@ -54,7 +54,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pale Stem"
+          "name": "Tallo Pálido"
         }
       ]
     },
@@ -63,7 +63,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pale Stem"
+          "name": "Tallo Pálido"
         }
       ]
     },
@@ -72,13 +72,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Root Spike",
+          "name": "Púa de Raiz",
           "keywords": [],
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -91,7 +91,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shared Pain",
+          "name": "Dolor Compartido",
           "desc": [
             ""
           ],
@@ -99,7 +99,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -112,7 +112,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vain Fruit",
+          "name": "Fruto Fútil",
           "desc": ""
         }
       ]
@@ -122,7 +122,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nibble",
+          "name": "Mordisquito",
           "coinlist": [
             {},
             {}
@@ -135,26 +135,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Greedy Gluttons",
+          "name": "Glotonería Avariciosa",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] Cura 1 HP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] Cura 1 HP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] Cura 1 HP"
                 }
               ]
             }
@@ -167,7 +167,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roll",
+          "name": "Girar",
           "coinlist": [
             {}
           ]
@@ -179,12 +179,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slothful Grip",
+          "name": "Agarre Perezoso",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -210,12 +210,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Wrath",
+          "name": "Ira Explosiva",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Burn next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Quemado el siguiente turno"
                 }
               ]
             }
@@ -228,7 +228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam",
+          "name": "Azote",
           "coinlist": [
             {}
           ]
@@ -240,7 +240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam",
+          "name": "Azote",
           "coinlist": [
             {}
           ]
@@ -252,12 +252,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quake",
+          "name": "Agitación",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -270,12 +270,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Live Offering",
+          "name": "Ofrenda Viva",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -288,7 +288,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Universe Aflame",
+          "name": "Universo Llameante",
           "coinlist": [
             {}
           ]
@@ -300,7 +300,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stalwart Altar",
+          "name": "Altar Inquebrantable",
           "coinlist": [
             {}
           ]
@@ -312,8 +312,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Universe Aflame",
-          "desc": "[CantDuel] Targets allies",
+          "name": "Universo Llameante",
+          "desc": "[CantDuel] Apunta a Todos los Aliados",
           "coinlist": [
             {}
           ]
@@ -325,12 +325,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lunge",
+          "name": "Estocada",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -343,13 +343,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Claw",
+          "name": "Garra",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -362,15 +362,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Severe Lunge",
+          "name": "Estocada severa",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Burn Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Quemado el siguiente turno"
                 }
               ]
             }
@@ -383,16 +383,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raw Claw",
+          "name": "Garra Bruta",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Bleed Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Burn Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de Quemado el siguiente turno"
                 }
               ]
             }
@@ -405,12 +405,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Belch Fire",
+          "name": "Arrojar Fuego",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Burn next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado el siguiente turno"
                 }
               ]
             }
@@ -423,7 +423,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sprout",
+          "name": "Brote",
           "desc": ""
         }
       ]
@@ -433,15 +433,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golden Fruit",
+          "name": "Fruta Dorada",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[DefeatDuel] Take 20 damage"
+                  "desc": "[DefeatDuel] Recibe 20 de daño"
                 },
                 {
-                  "desc": "[DefeatDuel] Lose 1 Golden Sheen"
+                  "desc": "[DefeatDuel] Pierde 1 Brillo Dorado"
                 }
               ]
             }
@@ -454,7 +454,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Solid Gold",
+          "name": "Oro Sólido",
           "coinlist": [
             {}
           ]
@@ -466,13 +466,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Absorb Nutrients",
+          "name": "Absorber Nutrientes",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Main body heals 3 HP"
+                  "desc": "[OnSucceedAttack] El Cuerpo Principal se cura 3 HP"
                 }
               ]
             },
@@ -486,15 +486,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deteriorating Flesh",
+          "name": "Carne Deteriorada",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -507,16 +507,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangle",
+          "name": "Enredar",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Main body heals 10 HP"
+                  "desc": "[OnSucceedAttack] El Cuerpo Principal se cura 10 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -935,7 +935,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -965,14 +965,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -1015,7 +1015,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -1058,7 +1058,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -1146,7 +1146,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 10 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1164,21 +1164,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1196,14 +1196,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1221,40 +1221,40 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -1272,7 +1272,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +6 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Inflige +6 de Contador de Sangrado el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige +6 Rupture Count next turn"
@@ -1301,12 +1301,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Claw",
+          "name": "Garra",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1336,14 +1336,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1434,7 +1434,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10; Inflige 5 Bind next turn"
+                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10; Inflige 5 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -1461,7 +1461,7 @@
         {
           "level": 1,
           "name": "Pained Writhing",
-          "desc": "[WhenUse] Lose 12 HP; Gana 5 Bleed next turn",
+          "desc": "[WhenUse] Lose 12 HP; Gana 5 de Sangrado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1494,7 +1494,7 @@
         {
           "level": 1,
           "name": "Pained Struggle",
-          "desc": "[WhenUse] Lose 12 HP; Gain +3 Bleed Count next turn",
+          "desc": "[WhenUse] Lose 12 HP; Gain +3 de Contador de Sangrado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1537,7 +1537,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 6 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1693,7 +1693,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Stagger target and Inflige 10 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Stagger target and Inflige 10 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -1762,7 +1762,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1772,7 +1772,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1782,7 +1782,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1792,7 +1792,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1813,7 +1813,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1823,7 +1823,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1844,7 +1844,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1854,7 +1854,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
@@ -1887,30 +1887,30 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1948,10 +1948,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -2030,14 +2030,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -2058,7 +2058,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -2117,12 +2117,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Claw",
+          "name": "Garra",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -2183,7 +2183,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 4 Poder Defensivo Reducido"
@@ -2275,7 +2275,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 4 Poder Defensivo Reducido"
@@ -2340,7 +2340,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -2372,7 +2372,7 @@
         {
           "level": 1,
           "name": "Poison Spray",
-          "desc": "[WhenUse] Lose 6 HP; Gana 5 Bleed next turn",
+          "desc": "[WhenUse] Lose 6 HP; Gana 5 de Sangrado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3051,7 +3051,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -3073,7 +3073,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 Fragile"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -3436,7 +3436,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -3500,7 +3500,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -3603,7 +3603,7 @@
         {
           "level": 1,
           "name": "You Like This Brew?",
-          "desc": "[WhenUse] Gana 1 Bind next turn",
+          "desc": "[WhenUse] Gana 1 de Atadura el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -4215,7 +4215,7 @@
         {
           "level": 1,
           "name": "Thinning",
-          "desc": "Deal +50% damage to targets with Empty Mark\n[DefeatDuel] Gana 1 Fragile next turn",
+          "desc": "Deal +50% damage to targets with Empty Mark\n[DefeatDuel] Gana 1 de Frágil el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -4414,14 +4414,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
@@ -4720,7 +4720,7 @@
         {
           "level": 1,
           "name": "Entangled Injury",
-          "desc": "[WhenUse] If target has Bleed, Inflige 1 Bind next turn",
+          "desc": "[WhenUse] If target has Bleed, Inflige 1 de Atadura el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -4805,7 +4805,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nibble",
+          "name": "Mordisquito",
           "coinlist": [
             {},
             {}
@@ -4818,26 +4818,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Greedy Gluttons",
+          "name": "Glotonería Avariciosa",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] Cura 1 HP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] Cura 1 HP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Heal 1 HP"
+                  "desc": "[OnSucceedAttackHead] Cura 1 HP"
                 }
               ]
             }
@@ -4850,7 +4850,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Roll",
+          "name": "Girar",
           "coinlist": [
             {}
           ]
@@ -4862,12 +4862,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slothful Grip",
+          "name": "Agarre Perezoso",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -4880,7 +4880,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sear",
+          "name": "Abrasar",
           "coinlist": [
             {},
             {}
@@ -4893,12 +4893,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Wrath",
+          "name": "Ira Explosiva",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Burn next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Quemado el siguiente turno"
                 }
               ]
             }
@@ -4958,7 +4958,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -4988,14 +4988,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             }
