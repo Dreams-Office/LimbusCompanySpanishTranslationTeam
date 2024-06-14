@@ -45,7 +45,7 @@
     {
       "id": 800204,
       "name": "Frenesí",
-      "desc": "Durante la fase 3\nAl inicio del turno, Inflige 3 de Quemado en todos los enemigos."
+      "desc": "Durante la fase 3\nAl inicio del turno, Inflige 3 de Quemadura en todos los enemigos."
     },
     {
       "id": 800205,
@@ -95,7 +95,7 @@
     {
       "id": 801001,
       "name": "Upgrade Factory at Work",
-      "desc": "When this unit is defeated, it revives the next turn and gains 1 Surgery."
+      "desc": "When this unit is defeated, it revives the next turn and gains 1 Cirugía."
     },
     {
       "id": 801002,
@@ -110,12 +110,12 @@
     {
       "id": 801301,
       "name": "Wavering Desires",
-      "desc": "While Desirous, the unit gains 2 Fragile and 10 Bind, gains 1 skill slot, and changes behavior."
+      "desc": "While Codicioso, the unit gains 2 Fragile and 10 Bind, gains 1 skill slot, and changes behavior."
     },
     {
       "id": 801302,
       "name": "Ensnaring Desires",
-      "desc": "The unit becomes Desirous every time it loses 30% of its HP."
+      "desc": "The unit becomes Codicioso every time it loses 30% of its HP."
     },
     {
       "id": 801904,
@@ -125,52 +125,52 @@
     {
       "id": 802401,
       "name": "Pulsating Arms",
-      "desc": "At the start of the turn, gain Attack Power Up and Protection by the Count of Instincts."
+      "desc": "At the start of the turn, gain Attack Power Up and Protection by the Count of Instintos."
     },
     {
       "id": 802402,
       "name": "Damaged Arms",
-      "desc": "Lose 1 Instincts whenever the unit takes damage from attacks."
+      "desc": "Lose 1 Instintos whenever the unit takes damage from attacks."
     },
     {
       "id": 802403,
       "name": "Regenerating Shell",
-      "desc": "At the end of the turn, if the unit didn’t take any damage from attacks during the turn, heal 5% HP and gana 1 Instincts."
+      "desc": "At the end of the turn, if the unit didn’t take any damage from attacks during the turn, heal 5% HP and gana 1 Instintos."
     },
     {
       "id": 802404,
       "name": "Frantic Eyes",
-      "desc": "Behavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 3 or less."
+      "desc": "Behavior depends on the Count of Instintos.\nUses aggressive skills at +4 Instintos, and becomes defensive at 3 or less."
     },
     {
       "id": 802501,
       "name": "Amplified Aggression",
-      "desc": "When hit by an attack, gana 1 Instincts.\nIf the unit has +4 Instincts at the end of the turn, enter a state of Frenzy."
+      "desc": "When hit by an attack, gana 1 Instintos.\nIf the unit has +4 Instintos at the end of the turn, enter a state of Frenesí."
     },
     {
       "id": 802502,
-      "name": "Frenzy",
-      "desc": "In the Frenzy state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instincts from being attacked."
+      "name": "Frenesí",
+      "desc": "In the Frenesí state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instintos from being attacked."
     },
     {
       "id": 802503,
       "name": "Shimmering Rage",
-      "desc": "At less than 50% HP, enters Frenzy every turn."
+      "desc": "At less than 50% HP, enters Frenesí every turn."
     },
     {
       "id": 802701,
       "name": "Amplified Aggression",
-      "desc": "When hit by an attack, gana 1 Instincts.\nIf the unit has +4 Instincts at the end of the turn, enter a state of Frenzy."
+      "desc": "When hit by an attack, gana 1 Instintos.\nIf the unit has +4 Instintos at the end of the turn, enter a state of Frenesí."
     },
     {
       "id": 802702,
-      "name": "Frenzy",
-      "desc": "In the Frenzy state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instincts from being attacked."
+      "name": "Frenesí",
+      "desc": "In the Frenesí state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instintos from being attacked."
     },
     {
       "id": 802801,
       "name": "Rotting Skin",
-      "desc": "At the start of the turn, if at less than 50% HP, Inflige 3 Poison when attacked."
+      "desc": "At the start of the turn, if at less than 50% HP, Inflige 3 Veneno when attacked."
     },
     {
       "id": 802802,
@@ -180,12 +180,12 @@
     {
       "id": 802803,
       "name": "Pained Writhing",
-      "desc": "When both arms are broken, the unit gains 5 Fragile and inflicts 10 Poison on all enemies every turn."
+      "desc": "When both arms are broken, the unit gains 5 Fragile and inflicts 10 Veneno on all enemies every turn."
     },
     {
       "id": 802804,
-      "name": "Wriggling Instincts",
-      "desc": "Behavior depends on the Count of Instincts.\nUses aggressive skills at +4 Instincts, and becomes defensive at 0."
+      "name": "Wriggling Instintos",
+      "desc": "Behavior depends on the Count of Instintos.\nUses aggressive skills at +4 Instintos, and becomes defensive at 0."
     },
     {
       "id": 803302,
@@ -310,12 +310,12 @@
     {
       "id": 804501,
       "name": "Living Nerves",
-      "desc": "Upon death, all Skills are cancelled for the turn.\nDoubles currently owned Self-charge."
+      "desc": "Upon death, all Skills are cancelled for the turn.\nDoubles currently owned Autocarga."
     },
     {
       "id": 804502,
       "name": "Motioning Nerves",
-      "desc": "After dying, attack skills Gasta 1 Self-charge.\nAttacks enemies until Self-charge runs out."
+      "desc": "After dying, attack skills Gasta 1 Autocarga.\nAttacks enemies until Autocarga runs out."
     },
     {
       "id": 804503,
@@ -325,7 +325,7 @@
     {
       "id": 804504,
       "name": "Terminated Persistence",
-      "desc": "After using 'Coil Up', if the Shield is exhausted, spend Self-charge.\nAll parts become staggered next turn."
+      "desc": "After using 'Coil Up', if the Shield is exhausted, spend Autocarga.\nAll parts become staggered next turn."
     },
     {
       "id": 804601,
@@ -335,7 +335,7 @@
     {
       "id": 804602,
       "name": "Ragged Umbrella",
-      "desc": "After the head umbrella is broken, gana 5 Offense Level Down every turn. Inflict +2 Sinking."
+      "desc": "After the head umbrella is broken, gana 5 Nivel Ofensivo Reducidoevery turn. Inflict +2 Sinking."
     },
     {
       "id": 804603,
@@ -355,17 +355,17 @@
     {
       "id": 804801,
       "name": "Booze Makes You Hicc!",
-      "desc": "After using 'I'll Have This!' on enemies with 5+ Tipsy and successfully landing the attack, become staggered."
+      "desc": "After using 'I'll Have This!' on enemies with 5+ [Tipsiness] and successfully landing the attack, become staggered."
     },
     {
       "id": 804802,
       "name": "Stimulating Smell, Isn't It?",
-      "desc": "A mysterious smell from within boosts the spirit.\nA random Sinner gains 5 Morale Boost at the start of the wave."
+      "desc": "A mysterious smell from within boosts the spirit.\nA random Sinner gains 5 [Exalted] at the start of the wave."
     },
     {
       "id": 805201,
       "name": "Old and Abandoned",
-      "desc": "When this unit is defeated, the Sinner that defeated it gains 2 Haste next turn.\nAll parts of Drifting Fox are inflicted with 2 Bind and 1 Umbrella Splinters."
+      "desc": "When this unit is defeated, the Sinner that defeated it gains 2 Haste next turn.\nAll parts of Drifting Fox are inflicted with 2 Bind and 1 Esquirlas de Paraguas."
     },
     {
       "id": 804301,

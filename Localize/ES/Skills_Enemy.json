@@ -1592,7 +1592,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -1656,7 +1656,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttackHead] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -1738,14 +1738,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             }
@@ -1816,7 +1816,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos N Corp"
                 }
               ]
             },
@@ -1857,21 +1857,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp and Bleed next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp and Bleed next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp and Bleed next turn"
                 }
               ]
             }
@@ -1910,7 +1910,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             }
@@ -1983,14 +1983,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos N Corp"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Inflige 10 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Inflige 10 de Atadura el siguiente turno"
                 }
               ]
             }
@@ -2009,7 +2009,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp next turn"
                 }
               ]
             }
@@ -2036,7 +2036,7 @@
         {
           "level": 1,
           "name": "Congregate",
-          "desc": "[WinDuel] Apply 1 Fanatic to 2 random allies next turn",
+          "desc": "[WinDuel] Apply 1 Fanático to 2 random allies next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -2132,7 +2132,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Clavos N Corp"
                 }
               ]
             },
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Inflige 10 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Inflige 10 Attack Power Down and Paralyze next turn"
                 }
               ]
             }
@@ -2159,21 +2159,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp next turn"
                 }
               ]
             }
@@ -2207,7 +2207,7 @@
         {
           "level": 1,
           "name": "Hammers, Heed Me…!",
-          "desc": "[WinDuel] Apply 1 Fanatic to all allies next turn",
+          "desc": "[WinDuel] Apply 1 Fanático to all allies next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -2231,14 +2231,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Clavos N Corp"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Stagger them"
                 }
               ]
             }
@@ -2265,26 +2265,26 @@
         {
           "level": 1,
           "name": "Spike Drive",
-          "desc": "At less than 50% HP, Inflige +1 N Corp’s Nails",
+          "desc": "At less than 50% HP, Inflige +1 Clavos N Corp",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp next turn"
                 }
               ]
             }
@@ -2317,7 +2317,7 @@
         {
           "level": 1,
           "name": "The Great Task Will Be Done…!",
-          "desc": "[WhenUse] Apply 1 Fanatic to all allies next turn",
+          "desc": "[WhenUse] Apply 1 Fanático to all allies next turn",
           "coinlist": [
             {}
           ]
@@ -2335,14 +2335,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 N Corp’s Nails"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 Clavos N Corp"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them"
+                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Stagger them"
                 }
               ]
             }
@@ -2356,7 +2356,7 @@
         {
           "level": 1,
           "name": "Annihilate Heretics",
-          "desc": "If the target has N Corp’s Nails, +100% Damage",
+          "desc": "If the target has Clavos N Corp, +100% Damage",
           "coinlist": [
             {
               "coindescs": [
@@ -2387,7 +2387,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             }
@@ -2644,7 +2644,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -2842,7 +2842,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttackHead] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -2997,14 +2997,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Ofensivo Reducidonext turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -3099,7 +3099,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 5 Paralyze next turn"
@@ -3175,7 +3175,7 @@
                   "desc": "[OnSucceedAttack] Inflige Tremor by the number of Coins that hit last turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -3232,14 +3232,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -3253,7 +3253,7 @@
         {
           "level": 1,
           "name": "Rev Up",
-          "desc": "[WhenUse] Gana 1 Tremor Sync next turn",
+          "desc": "[WhenUse] Gana 1 Tremor Sincronizado next turn",
           "coinlist": [
             {}
           ]
@@ -3323,7 +3323,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -3337,7 +3337,7 @@
         {
           "level": 1,
           "name": "Rev Up",
-          "desc": "[WhenUse] Gana 1 Tremor Sync next turn",
+          "desc": "[WhenUse] Gana 1 Tremor Sincronizado next turn",
           "coinlist": [
             {}
           ]
@@ -3442,7 +3442,7 @@
         {
           "level": 1,
           "name": "Rev Up",
-          "desc": "[WhenUse] Gana 1 Tremor Sync next turn",
+          "desc": "[WhenUse] Gana 1 Tremor Sincronizado next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3575,7 +3575,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -3748,7 +3748,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -3818,7 +3818,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Decay Ampule\nInflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Vial de Descomposición\nInflige 1 Paralyze next turn"
                 }
               ]
             }
@@ -3859,7 +3859,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 Paralyze next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Vial de Descomposición"
                 }
               ]
             }
@@ -3893,7 +3893,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Decay Ampule"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Vial de Descomposición"
                 }
               ]
             }
@@ -4069,7 +4069,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -4267,12 +4267,12 @@
         {
           "level": 1,
           "name": "Explosive Fluid",
-          "desc": "[WhenUse] Gana 1 Morale Boost",
+          "desc": "[WhenUse] Gana 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -4286,7 +4286,7 @@
         {
           "level": 1,
           "name": "Wobbling Fluid",
-          "desc": "[WhenUse] Gana 1 Morale Boost",
+          "desc": "[WhenUse] Gana 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
@@ -4312,7 +4312,7 @@
         {
           "level": 1,
           "name": "Fluid Guard",
-          "desc": "[WhenUse] Heal 5% of Max HP\nGana 2 Fragile next turn\n[EndBattle] Remove all Tipsy",
+          "desc": "[WhenUse] Heal 5% of Max HP\nGana 2 Fragile next turn\n[EndBattle] Remove all [Tipsiness]",
           "coinlist": [
             {
               "coindescs": [
@@ -4350,7 +4350,7 @@
         {
           "level": 1,
           "name": "Blunt Curse",
-          "desc": "[WhenUse] Inflige 1 Reattached Curse Talisman",
+          "desc": "[WhenUse] Inflige 1 Talismán Maldito Reatado",
           "coinlist": [
             {},
             {
@@ -4376,7 +4376,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Inflige Rupture by the amount of Talismán Maldito Reatado on target"
                 }
               ]
             }
@@ -4390,7 +4390,7 @@
         {
           "level": 1,
           "name": "Paralyzing Curse",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman from target",
+          "desc": "[EndBattle] Remove all Talismán Maldito Reatado from target",
           "coinlist": [
             {},
             {
@@ -4403,7 +4403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Paralyze by the amount of Reattached Curse Talisman on target"
+                  "desc": "[OnSucceedAttack] Inflige Paralyze by the amount of Talismán Maldito Reatado on target"
                 }
               ]
             }
@@ -4417,12 +4417,12 @@
         {
           "level": 1,
           "name": "Strangling Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans",
+          "desc": "Target the enemy with the most Talismán Maldito Reatados",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflige 5 Talismán Maldito Reatado"
                 }
               ]
             }
@@ -4436,19 +4436,19 @@
         {
           "level": 1,
           "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target",
+          "desc": "Target the enemy with the most Talismán Maldito Reatados\n[EndBattle] Remove all Talismán Maldito Reatado from target",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflige 2 Talismán Maldito Reatado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 9+ Reattached Curse Talisman, Inflige 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] If target has 9+ Talismán Maldito Reatado, Inflige 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
                 }
               ]
             }
@@ -4462,7 +4462,7 @@
         {
           "level": 1,
           "name": "Spreading Curse Talisman",
-          "desc": "[WhenUse] Inflige 2 Reattached Curse Talisman",
+          "desc": "[WhenUse] Inflige 2 Talismán Maldito Reatado",
           "coinlist": [
             {
               "coindescs": [
@@ -4481,19 +4481,19 @@
         {
           "level": 1,
           "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Reattached Curse Talismans\n[EndBattle] Remove all Reattached Curse Talisman from target",
+          "desc": "Target the enemy with the most Talismán Maldito Reatados\n[EndBattle] Remove all Talismán Maldito Reatado from target",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Reattached Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflige 2 Talismán Maldito Reatado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 9+ Reattached Curse Talisman, Inflige 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackTail] If target has 9+ Talismán Maldito Reatado, Inflige 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
                 }
               ]
             }
@@ -4584,7 +4584,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflige 1 Tiempo Entrelazado"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gasta 2 Charge Count to Inflige 3 Paralyze"
@@ -4635,7 +4635,7 @@
                   "desc": "[OnSucceedAttack] At 5+ Charge Count, spend all Charge Count to deal +10% damage for each Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Interlocking Time"
+                  "desc": "[OnSucceedAttack] Inflige 1 Tiempo Entrelazado"
                 }
               ]
             }
@@ -4649,7 +4649,7 @@
         {
           "level": 1,
           "name": "Borrow Time",
-          "desc": "[StartBattle] Gana 3 Borrowed Time and +1 Contador de Carga",
+          "desc": "[StartBattle] Gana 3 Tiempo Prestado and +1 Contador de Carga",
           "coinlist": [
             {}
           ]

@@ -2,586 +2,586 @@
   "dataList": [
     {
       "id": "AreaAtk",
-      "name": "AoE Attack",
-      "desc": "Targets 2 or more foes."
+      "name": "Ataque con AdE",
+      "desc": "Se dirige a 2 o mas enemigos."
     },
     {
       "id": "Enhancement",
       "name": "Poder de Ataque Aumentado",
-      "desc": "Attack skills gain final Power by the effect’s Count for one turn."
+      "desc": "Las habilidades ofensivas obtienen Ataque Final por el Contador de este efecto por un turno."
     },
     {
       "id": "Agility",
       "name": "Rapidez",
-      "desc": "Speed increases by the effect’s Count for one turn."
+      "desc": "La Velocidad aumenta por el Contador de este efecto por un turno."
     },
     {
       "id": "Endurance",
       "name": "Poder Defensivo Aumentado",
-      "desc": "Defense skills gain final Power by the effect’s Count for one turn."
+      "desc": "Habilidades Defensivas obtienen Poder final por el Contador de este efecto por un turno."
     },
     {
       "id": "Reduction",
       "name": "Poder de Ataque Reducido",
-      "desc": "Attack skills lose final Power by the effect’s Count for one turn."
+      "desc": "Habilidades de ataque pierden Poder final por el Contador de este efecto por un turno."
     },
     {
       "id": "Binding",
       "name": "Atadura",
-      "desc": "Speed decreases by the effect’s Count for one turn."
+      "desc": "La velocidad disminuye por el Contador de este efecto por un turno."
     },
     {
       "id": "Vulnerable",
-      "name": "Fragile",
-      "desc": "Take more damage from skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "+{0}0% Damage Taken"
+      "name": "Frágil",
+      "desc": "Recibe más daño de habilidades basado en el Contador de este efecto por un turno. (Máx 10)",
+      "summary": "+{0}0% Daño Recibido"
     },
     {
       "id": "Taunt",
-      "name": "Taunt",
+      "name": "Provocación",
       "desc": ""
     },
     {
       "id": "Stun",
-      "name": "Stun",
+      "name": "Desmayo",
       "desc": ""
     },
     {
       "id": "ElectricShock",
-      "name": "Shock",
-      "desc": "Take more damage by the effect’s value for the turn"
+      "name": "Descarga",
+      "desc": "Recibe más daño por el valor de este efecto por un turno."
     },
     {
       "id": "Burn",
-      "name": "Burn",
-      "desc": "At the end of the turn, take fixed damage by the effect’s Count, then halve it."
+      "name": "Quemadura",
+      "desc": "Al final del turno, recibe un daño fijo por el Contador de este efecto, y luego lo reduce a la mitad."
     },
     {
       "id": "Bleeding",
-      "name": "Bleed",
-      "desc": "When attacking, take fixed damage equal to (Count)% of current HP, then halve it."
+      "name": "Sangrado",
+      "desc": "Al atacar, recibe daño fijo igual al (Contador)% del HP actual, y luego lo reduce a la mitad."
     },
     {
       "id": "Target",
-      "name": "Marked",
-      "desc": "Targeted by the character with the Passive [Sharp Edge]."
+      "name": "Marcado",
+      "desc": "Priorizado por los personajes con la Pasiva [Hoja Afilada]."
     },
     {
       "id": "SelfHarm_LowMorale",
-      "name": "Compulsion (Low Morale)",
-      "desc": "At the start of the turn, gana 2 Haste and 2 Fragile."
+      "name": "Compulsión (Baja Moral)",
+      "desc": "Al inicio del turno, Gana 2 de Rapidez y 2 de Frágil"
     },
     {
       "id": "SelfHarm_Panic",
-      "name": "Compulsion (Panic)",
-      "desc": "At the start of the turn, lose 10 HP."
+      "name": "Compulsión (Pánico)",
+      "desc": "Al inicio del turno, pierde 10 HP."
     },
     {
       "id": "Blame_LowMorale",
-      "name": "Outlash (Low Morale)",
-      "desc": "At the start of the turn, gana 2 Attack Power Up and 2 Fragile."
+      "name": "Inculpar (Baja Moral)",
+      "desc": "Al inicio del turno, gana 2 de Poder de Ataque Aumentado y 2 de Frágil."
     },
     {
       "id": "Blame_Panic",
-      "name": "Outlash (Panic)",
-      "desc": "At the start of the turn, a random ally loses 20 SP."
+      "name": "Inculpar (Pánico)",
+      "desc": "Al inicio del turno, un aliado al azar pierde 20 PC."
     },
     {
       "id": "Charge",
-      "name": "Charge",
-      "desc": "Resource used by certain skills for additional effects. Its Count can go up to 20. Count lowers by 1 at the end of each turn."
+      "name": "Carga",
+      "desc": "Recurso usado por ciertas habilidades para efectos adicionales. Su Contador puede subir hasta 20. El Contador disminuye en 1 al final de cada turno."
     },
     {
       "id": "DamageOverTime",
-      "name": "Ongoing Damage",
-      "desc": "At the start of the turn, take fixed damage by the effect’s Count."
+      "name": "Daño Continuo",
+      "desc": "Al inicio del turno, recibe daño fijo por el Contador del efecto."
     },
     {
       "id": "ResultEnhancement",
-      "name": "Power Up",
-      "desc": "Skills gain final Power by the effect’s Count for one turn.",
-      "summary": "Skill Final Power +{0}"
+      "name": "Poder Aumentado",
+      "desc": "Las Habilidades obtienen Poder final por el Contador del efecto por un turno.",
+      "summary": "Poder Final de la Habilidad +{0}"
     },
     {
       "id": "Protection",
-      "name": "Protection",
-      "desc": "Take less damage from skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "-{0}0% Damage Taken"
+      "name": "Protección",
+      "desc": "Recibe menos daño de habilidades basado en el Contador de este efecto por un turno. (Máx 10)",
+      "summary": "-{0}0% Daño Recibido"
     },
     {
       "id": "AttackDmgUp",
       "name": "Daño Aumentado",
-      "desc": "Deal more damage with skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "+{0}0% Damage Dealt"
+      "desc": "Inflige más daño con habilidades basado en el Contador de este efecto por un turno. (Máx 10)",
+      "summary": "+{0}0% Daño Realizado"
     },
     {
       "id": "DefenseUp",
-      "name": "Defense Level Up",
-      "desc": "Defense Level increases based on the effect's Potency for one turn.",
-      "summary": "Defense Level +{0}"
+      "name": "Nivel Defensivo Aumentado",
+      "desc": "El Nivel Defensivo incrementa basado en la Potencia de este efecto por un turno.",
+      "summary": "Nivel Defensivo +{0}"
     },
     {
       "id": "PlusCoinValueUp",
       "name": "Mejora de Moneda Positiva",
-      "desc": "Raise the Power of Plus Coins by the effect’s Count."
+      "desc": "Aumenta el Poder de las Monedas Positivas por el Contador de este efecto."
     },
     {
       "id": "MinusCoinValueUp",
-      "name": "Minus Coin Boost",
-      "desc": "Raise the Power of Minus Coins by the effect’s Count."
+      "name": "Mejora de Moneda Negativa",
+      "desc": "Aumenta el Poder de las Monedas Negativas por el Contador de este efecto."
     },
     {
       "id": "TimesCoinValueUp",
-      "name": "Multiply Coin Boost",
-      "desc": "Raise the Power of Multiply Coins by the effect’s Count."
+      "name": "Mejora Multiplicadora de Moneda",
+      "desc": "Aumenta el Poder de Monedas Multiplicadoras por el Contador de este efecto."
     },
     {
       "id": "Disarming",
       "name": "Poder Defensivo Reducido",
-      "desc": "Defense skills lose final Power by the effect’s Count for one turn."
+      "desc": "Las habilidades defensivas pierden Poder Final por el Contador de este efecto por un turno."
     },
     {
       "id": "ResultReduction",
-      "name": "Power Down",
-      "desc": "All skills lose final Power by the effect’s Count for one turn.",
-      "summary": "Skill Final Power -{0}"
+      "name": "Poder Reducido",
+      "desc": "Todas las habilidades pierden Poder final por el Contador de este efecto por un turno.",
+      "summary": "Poder Final de la Habilidad -{0}"
     },
     {
       "id": "AttackDmgDown",
       "name": "Daño Reducido",
-      "desc": "Deal less damage with skills based on the effect’s Count for one turn. (Max 10)",
-      "summary": "-{0}0% Damage Dealt"
+      "desc": "Inflige menos daño con habilidades basado en el Contador de este efecto por un turno. (Máx 10)",
+      "summary": "-{0}0% Daño Realizado"
     },
     {
       "id": "DefenseDown",
-      "name": "Defense Level Down",
-      "desc": "Defense Level decreases based on the effect's Potency for one turn.",
-      "summary": "Defense Level -{0}"
+      "name": "Nivel Defensivo Reducido",
+      "desc": "El Nivel Defensivo disminuye basado en la Potencia del efecto por un turno.",
+      "summary": "Nivel Defensivo -{0}"
     },
     {
       "id": "Paralysis",
-      "name": "Paralyze",
-      "desc": "Fix the Power of Coins to 0 for one turn, with one Coin per the effect’s Count."
+      "name": "Parálisis",
+      "desc": "Fija el Poder de las Monedas a 0 por un turno, con una Moneda por cada Contador del efecto."
     },
     {
       "id": "PlusCoinValueDown",
-      "name": "Plus Coin Drop",
-      "desc": "Reduce the power of Plus Coins by the effect’s Count."
+      "name": "Debilitamiento de Moneda Positiva",
+      "desc": "Reduce el poder de las Monedas Positivas por el Contador de este efecto."
     },
     {
       "id": "MinusCoinValueDown",
-      "name": "Minus Coin Drop",
-      "desc": "Reduce the power of Minus Coins by the effect’s Count."
+      "name": "Debilitamiento de Moneda Negativa",
+      "desc": "Reduce el poder de las Monedas Negativas por el Contador de este efecto."
     },
     {
       "id": "TimesCoinValueDown",
-      "name": "Multiply Coin Drop",
-      "desc": "Reduce the power of Multiply Coins by the effect’s Count."
+      "name": "Debilitamiento del Multiplicador de Moneda",
+      "desc": "reduce el poder de las Monedas Multiplicadoras por el Contador de este efecto."
     },
     {
       "id": "MoonLight",
-      "name": "Moonlight",
-      "desc": "Resource used by certain skills for additional effects."
+      "name": "Luz de Luna",
+      "desc": "Recurso usado por ciertas habilidades para efectos adicionales."
     },
     {
       "id": "Anger",
-      "name": "Rage",
-      "desc": "Spent by certain skills. Required for the use of certain skills."
+      "name": "Furia",
+      "desc": "Gastado por cierta habilidades. Requerido para el uso de ciertas habilidades."
     },
     {
       "id": "Inactible",
-      "name": "Immobilize",
-      "desc": "Does not act for the turn."
+      "name": "Inmovilizar",
+      "desc": "No actúa por el turno."
     },
     {
       "id": "Combustion",
-      "name": "Quemado",
-      "desc": "At the end of the turn, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "name": "Quemadura",
+      "desc": "Al final del turno, recibe daño fijo por la Potencia de este efecto.\nLuego, lo reduce su Contador en 1."
     },
     {
       "id": "Laceration",
       "name": "Sangrado",
-      "desc": "When tossing an attack Coin, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "desc": "Cuando lanzas una Moneda de ataque, recibes un daño fijo por la Potencia del efecto.\nLuego, reduce su Contador en 1."
     },
     {
       "id": "Vibration",
       "name": "Tremor",
-      "desc": "When attacked by skills that trigger Tremor Burst, raise the Stagger Threshold by the effect’s Potency.\nAt the end of the turn, reduce the Count by 1."
+      "desc": "Cuando se es golpeado por una habilidad que active Estallido de Tremor, aumenta el Umbral de Aturdimiento por la Potencia de este efecto.\nAl final del turno, reduce su Contador en 1."
     },
     {
       "id": "Burst",
       "name": "Ruptura",
-      "desc": "When hit by an attack, take fixed damage by the effect’s Potency.\nThen, reduce its Count by 1."
+      "desc": "Al ser atacado, recibe daño fijo por la Potencia de este efecto.\nLuego, reduce su Contador por 1."
     },
     {
       "id": "Sinking",
       "name": "Ahogo",
-      "desc": "When hit by an attack, take fixed SP damage by the effect’s Potency.\n(Units with no Sanity take Gloom damage instead.)\nThen, reduce its Count by 1."
+      "desc": "Al ser atacado, recibe daño de PC fijo por la Potencia de este efecto.\n(Unidades sin Cordura reciben daño de Melancolía en su lugar.)\nLuego, reduce su Contador por 1."
     },
     {
       "id": "Breath",
       "name": "Temple",
-      "desc": "On hit, gain a Potency-based chance to deal critical damage, reducing the Count by 1 if successful.\nAt the end of the turn, reduce the Count by 1."
+      "desc": " Al golpear, obtienes una probabilidad basada en la Potencia de infligir daño crítico, reduciendo el Contador en 1 si tienes éxito.\nAl final del turno, reduce el Contador por 1."
     },
     {
       "id": "BloodPocket",
-      "name": "Blood Sac",
-      "desc": "Use a powerful attack after the Count reaches a certain amount."
+      "name": "Bolsa de Sangre.",
+      "desc": "Utiliza un poderoso ataque cuando el Contador alcance una cierta cantidad."
     },
     {
       "id": "WaterPocket",
-      "name": "Fluid Sac",
-      "desc": "Heals HP based on the Count."
+      "name": "Bolsa de Fluidos",
+      "desc": "Cura HP basado en el Contador."
     },
     {
       "id": "DogThunder",
-      "name": "Lightning",
-      "desc": "Powers up after the Count reaches a certain amount."
+      "name": "Rayo",
+      "desc": "Se fortalece cuando el Contador alcanza cierta cantidad."
     },
     {
       "id": "Run_Panic",
-      "name": "Oppression",
-      "desc": "Cannot act for one turn. When hit, flees battle after the attacker’s skill has finished."
+      "name": "Opresión",
+      "desc": "No puede actuar durante un turno. Cuando es golpeado, huye de la batalla después de que la habilidad del atacante haya terminado."
     },
     {
       "id": "Operation",
-      "name": "Surgery",
-      "desc": "Die when Count reaches 5.\nReduce Max HP by 20% (per Count).\nDeal 20% (per Count) more damage.\nAt the start of the turn, gain Haste by the effect’s Count."
+      "name": "Cirugía",
+      "desc": "Muere cuando el Contador alcanza 5.\nReduce el HP Máximo en 20% (por Contador).\nInflige 20% (por Contador) más de daño.\nAl inicio del turno, obtén Rapidez por el Contador de este efecto."
     },
     {
       "id": "Emergency_Operation",
-      "name": "Makeshift Surgery",
-      "desc": "Boost Max HP by 25% and skill Power by 1 per this effect’s Count.\nEach turn, increase this effect’s Count by 1.\nDie when Count reaches 5."
+      "name": "Cirugía urgente",
+      "desc": "Aumenta el HP Máx. en un 25% y Poder de la habilidad en 1 por cada Contador de este efecto.\nCada turno, incrementa el Contador de este efecto en 1.\nMuere cuando el Contador llega a 5."
     },
     {
       "id": "BabayagaTimeLimit",
-      "name": "Baba Yaga’s Coming!",
+      "name": "¡Ahí viene Baba Yaga!",
       "desc": ""
     },
     {
       "id": "PinkRibbon",
-      "name": "Pink Ribbons",
-      "desc": "At the end of the turn, if at 5+ Potency, remove this effect and apply ‘Desirous’ next turn."
+      "name": "Cintas Rosas",
+      "desc": "Al final del turno, si está a +5 de Potencia, remueve este efecto y aplica 'Codicioso' el siguiente turno."
     },
     {
       "id": "Greedy",
-      "name": "Desirous",
-      "desc": "At the start of the turn, gana 10 Bind.\nAll phys. resistances change to ‘Fatal’.\nAttack Skill Power +2.\nDefense Skill Power -2."
+      "name": "Codicioso",
+      "desc": "Al inicio del turno, obtén 10 de Atadura.\nTodas las resistencias físicas cambian a 'Fatal'.\nPoder de Ataque de la Habilidad +2.\nPoder Defensivo de la Habilidad -2."
     },
     {
       "id": "PinkRibbon_Ishmael",
-      "name": "Pink Ribbons",
-      "desc": "Count increases by 1 whenever the affected unit tosses an attack skill Coin.\nAt the end of the turn, inflict Bind by the effect’s Count, then remove the effect."
+      "name": "Cintas Rosas",
+      "desc": "El Contador incrementa en 1 cuando la unidad afectada lanza una Moneda de habilidad de ataque.\nAl final del turno, inflige Atadura por el Contador de este efecto, luego remueve el efecto."
     },
     {
       "id": "Muckworm",
       "name": "Gusanos",
-      "desc": "Turn End: Take Gluttony damage by the Count, then lower it by 1; Bleed Count +1."
+      "desc": "Finalizar Turno: Recibe Daño de Gula igual al Contador, luego disminuye en 1; Contador de Sangrado +1."
     },
     {
       "id": "AttackUp",
-      "name": "Offense Level Up",
-      "desc": "Offense level increases based on the effect's Potency for one turn."
+      "name": "Nivel Ofensivo Aumentado",
+      "desc": "El Nivel Ofensivo incrementa basado en la Potencia de este efecto por un turno."
     },
     {
       "id": "AttackDown",
-      "name": "Nivel Ofensivo Negativo",
-      "desc": "Offense level decreases based on the effect's Potency for one turn."
+      "name": "Nivel Ofensivo Reducido",
+      "desc": "El Nivel Ofensivo disminuye basado en la Potencia de este efecto por un turno."
     },
     {
       "id": "Liu_Meursault_Guard_Buff",
-      "name": "Great Mountain",
-      "desc": "When attacked, Inflige +1 Burn Count on the attacker."
+      "name": "Monte Tai",
+      "desc": "Cuando es atacado, inflige +1 Contador de Quemadura sobre el atacante."
     },
     {
       "id": "SlashResistUp",
-      "name": "Slash Resist Up",
-      "desc": "Increase Slash Resistance by a % based on Count.\n(0.1% per Count)"
+      "name": "Aumento de Resistencia Cortante",
+      "desc": "Incrementa la Resistencia al Cortante por un % basado en el Contador.\n(0.1% por Contador)"
     },
     {
       "id": "PenetrateResistUp",
-      "name": "Pierce Resist Up",
-      "desc": "Increase Pierce Resistance by a % based on Count.\n(0.1% per Count)"
+      "name": "Aumento de Resistencia Perforante",
+      "desc": "Incrementa la Resistencia al Perforante por un % basado en el Contador.\n(0.1% por Contador)"
     },
     {
       "id": "HitResistUp",
-      "name": "Blunt Resist Up",
-      "desc": "Increase Blunt Resistance by a % based on Count.\n(0.1% per Count)"
+      "name": "Aumento de Resistencia Contundente",
+      "desc": "Incrementa la Resistencia al Contundente por un % basado en el Contador.\n(0.1% por Contador)"
     },
     {
       "id": "SlashDamageUp",
       "name": "Daño Cortante Aumentado",
-      "desc": "Deal more damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
+      "desc": "Inflige más daño con habilidades Cortantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "PenetrateDamageUp",
-      "name": "Pierce DMG Up",
-      "desc": "Deal more damage with Pierce skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño Perforante Aumentado",
+      "desc": "Inflige más daño con habilidades Perforantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "HitDamageUp",
-      "name": "Blunt DMG Up",
-      "desc": "Deal more damage with Blunt skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño Contundente Aumentado",
+      "desc": "Inflige más daño con habilidades Contundentes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "SlashResistDown",
-      "name": "Slash Resist Down",
-      "desc": "Reduce Slash Resistance by a % based on Count.\n(0.1% per Count)"
+      "name": "Resistencia Cortante Reducida",
+      "desc": "Reduce la Resistencia al Cortante por un % basado en el Contador.\n(0.1% por Contador)"
     },
     {
       "id": "PenetrateResistDown",
-      "name": "Pierce Resist Down",
-      "desc": "Reduce Pierce Resistance by a % based on Count.\n(0.1% per Count)"
+      "name": "Resistencia Perforante Reducida",
+      "desc": "Reduce la Resistencia al Perforante por un % basado en el Contador.\n(0.1% por Contador)"
     },
     {
       "id": "HitResistDown",
-      "name": "Blunt Resist Down",
-      "desc": "Reduce Blunt Resistance by a % based on Count.\n(0.1% per Count)"
+      "name": "Resistencia Contundente Reducida",
+      "desc": "Reduce la Resistencia al Contundente por un % basado en el Contador.\n(0.1% por Contador)"
     },
     {
       "id": "SlashDamageDown",
-      "name": "Slash DMG Down",
-      "desc": "Deal less damage with Slash skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño Cortante Reducido",
+      "desc": "Inflige menos daño con habilidades Cortantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "PenetrateDamageDown",
-      "name": "Pierce DMG Down",
-      "desc": "Deal less damage with Pierce skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño Perforante Reducido",
+      "desc": "Inflige menos daño con habilidades Perforantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "HitDamageDown",
-      "name": "Blunt DMG Down",
-      "desc": "Deal less damage with Blunt skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño Contundente Reducido",
+      "desc": "Inflige menos daño con habilidades Contundentes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "CrimsonResistDown",
-      "name": "Wrath Resist Down",
-      "desc": "Increase Wrath Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Ira Reducida",
+      "desc": "Incrementa la Resistencia a Ira basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "ScarletResistDown",
-      "name": "Lust Resist Down",
-      "desc": "Increase Lust Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Lujuria Reducida",
+      "desc": "Incrementa la Resistencia a Lujuria basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "AmberResistDown",
-      "name": "Sloth Resist Down",
-      "desc": "Increase Sloth Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Pereza Reducida",
+      "desc": "Incrementa la Resistencia a Pereza basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "ShamrockResistDown",
-      "name": "Gluttony Resist Down",
-      "desc": "Increase Gluttony Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Gula Reducida",
+      "desc": "Incrementa la Resistencia a Gula basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "AzureResistDown",
-      "name": "Gloom Resist Down",
-      "desc": "Increase Gloom Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Melancolía Reducida",
+      "desc": "Incrementa la Resistencia a Melancolía basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "IndigoResistDown",
-      "name": "Pride Resist Down",
-      "desc": "Increase Pride Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Orgullo Reducida",
+      "desc": "Incrementa la Resistencia a el Orgullo basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "VioletResistDown",
-      "name": "Envy Resist Down",
-      "desc": "Increase Envy Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Envidia Reducida",
+      "desc": "Incrementa la Resistencia a Envidia basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "CrimsonResistUp",
-      "name": "Wrath Resist Up",
-      "desc": "Reduce Wrath Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Ira Aumentada",
+      "desc": "Reduce la Resistencia a Ira basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "ScarletResistUp",
-      "name": "Lust Resist Up",
-      "desc": "Reduce Lust Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Lujuria Aumentada",
+      "desc": "Reduce la Resistencia a Lujuria basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "AmberResistUp",
-      "name": "Sloth Resist Up",
-      "desc": "Decrease Sloth Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Pereza Aumentada",
+      "desc": "Reduce la Resistencia a Pereza basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "ShamrockResistUp",
-      "name": "Gluttony Resist Up",
-      "desc": "Decrease Gluttony Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Gula Aumentada",
+      "desc": "Reduce la Resistencia a Gula basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "AzureResistUp",
-      "name": "Gloom Resist Up",
-      "desc": "Decrease Gloom Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Melancolía Aumentada",
+      "desc": "Reduce la Resistencia a Melancolía basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "IndigoResistUp",
-      "name": "Pride Resist Up",
-      "desc": "Decrease Pride Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Orgullo Aumentado",
+      "desc": "Reduce la Resistencia a Orgullo basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "VioletResistUp",
-      "name": "Envy Resist Up",
-      "desc": "Decrease Envy Resistance based on Count.\n(0.1 per Count)"
+      "name": "Resistencia a Envidia Aumentada",
+      "desc": "Reduce la Resistencia a Envidia basado en el Contador.\n(0.1 por Contador)"
     },
     {
       "id": "CrimsonDamageDown",
-      "name": "Wrath DMG Down",
-      "desc": "Deal less damage with Wrath skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Ira Reducido",
+      "desc": "Inflige menos daño con habilidades de Ira basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ScarletDamageDown",
-      "name": "Lust DMG Down",
-      "desc": "Deal less damage with Lust skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Lujuria Reducido",
+      "desc": "Inflige menos daño con habilidades de Lujuria basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AmberDamageDown",
-      "name": "Sloth DMG Down",
-      "desc": "Deal less damage with Sloth skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Pereza Reducido",
+      "desc": "Inflige menos daño con habilidades de Pereza basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ShamrockDamageDown",
-      "name": "Gluttony DMG Down",
-      "desc": "Deal less damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Gula Reducido",
+      "desc": "Inflige menos daño con habilidades de Gula basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AzureDamageDown",
-      "name": "Gloom DMG Down",
-      "desc": "Deal less damage with Gloom skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Melancolía Reducido",
+      "desc": "Inflige menos daño con habilidades de Melancolía basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "IndigoDamageDown",
-      "name": "Pride DMG Down",
-      "desc": "Deal less damage with Pride skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Orgullo Reducido",
+      "desc": "Inflige menos daño con habilidades de Orgullo basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "VioletDamageDown",
-      "name": "Envy DMG Down",
-      "desc": "Deal less damage with Envy skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Envidia Reducido",
+      "desc": "Inflige menos daño con habilidades de Envidia basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "CrimsonDamageUp",
-      "name": "Wrath DMG Up",
-      "desc": "Deal more damage with Wrath skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Ira Aumentado",
+      "desc": "Inflige más daño con habilidades de Ira basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ScarletDamageUp",
-      "name": "Lust DMG Up",
-      "desc": "Deal more damage with Lust skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Lujuria Aumentado",
+      "desc": "Inflige más daño con habilidades de Lujuria basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AmberDamageUp",
-      "name": "Sloth DMG Up",
-      "desc": "Deal more damage with Sloth skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Pereza Aumentado",
+      "desc": "Inflige más daño con habilidades de Pereza basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ShamrockDamageUp",
-      "name": "Gluttony DMG Up",
-      "desc": "Deal more damage with Gluttony skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Gula Aumentado",
+      "desc": "Inflige más daño con habilidades de Gula basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AzureDamageUp",
-      "name": "Gloom DMG Up",
-      "desc": "Deal more damage with Gloom skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Melancolía Aumentado",
+      "desc": "Inflige más daño con habilidades de Melancolía basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "IndigoDamageUp",
-      "name": "Pride DMG Up",
-      "desc": "Deal more damage with Pride skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Orgullo Aumentado",
+      "desc": "Inflige más daño con habilidades de Orgullo basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "VioletDamageUp",
-      "name": "Envy DMG Up",
-      "desc": "Deal more damage with Envy skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Daño de Envidia Aumentado",
+      "desc": "Inflige más daño con habilidades de Envidia basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "Curse",
-      "name": "Curse",
-      "desc": "Turn End: Gain one of the following, then reduce this effect’s Count by 1.\n1 Attack Power Down/1 Poder Defensivo Reducido/2 Offense Level Down/2 Defense Level Down."
+      "name": "Maldición",
+      "desc": "Finalizar Turno: Gana uno de los siguientes, y entonces reduce el Contador en 1.\n1 Poder de Ataque Reducido/1 Poder Defensivo Reducido/2 Nivel Ofensivo Reducido/2 Nivel Defensivo Reducido."
     },
     {
       "id": "AttackDmgUp_Weak",
-      "name": "Weak-resist DMG Boost",
-      "desc": "Boost the damage of attacks against Weak resistances by a % based on Count.\n(10% per Count)"
+      "name": "Mejora de Daño a Resistencias Débiles",
+      "desc": "Mejora el daño de ataques contra resistencias Débiles por un % basado en el Contador.\n(10% por Contador)"
     },
     {
       "id": "Bullet",
-      "name": "Ammo",
-      "desc": "Spent by certain skills.\nSome attacks cancel if lacking Ammo."
+      "name": "Munición",
+      "desc": "Gastado por ciertas habilidades. \nAlgunos ataques se cancelan si falta Munición."
     },
     {
       "id": "Meursault_Last_Remodeling",
-      "name": "Final Augment",
-      "desc": "At the start of the turn, gana 3 Attack Power Up, Poder Defensivo Aumentado, and Haste; die after 3 turns."
+      "name": "Modificación Final",
+      "desc": "Al inicio del turno, gana 3 de Poder de Ataque Aumentado, Poder Defensivo Aumentado, y Rapidez; muere después de 3 turnos."
     },
     {
       "id": "Choice_90103301",
-      "name": "Struggle",
-      "desc": "Speed +1 for this battle.",
-      "summary": "SPD +1"
+      "name": "Forcejeo",
+      "desc": "Velocidad +1 para esta batalla.",
+      "summary": "VEL +1"
     },
     {
       "id": "Choice_90103402",
-      "name": "Relief",
-      "desc": "Speed +2 for this battle.",
-      "summary": "SPD +2"
+      "name": "Alivio",
+      "desc": "Velocidad +2 para esta batalla.",
+      "summary": "VEL +2"
     },
     {
       "id": "Choice_901001",
-      "name": "Spreading Flame",
-      "desc": "Combat Start: Allies without Wrath Affinity Attack Skill take 5 Wrath damage"
+      "name": "Propagación de Llama",
+      "desc": "Inicio del Combate: Aliados sin Habilidades de Ataque con Afinidad de Ira reciben 5 Daño de Ira "
     },
     {
       "id": "Choice_901007",
-      "name": "Gentle Sendoff",
-      "desc": "Turn Start: Heal 10 HP and SP. (Up to 3 turns)",
-      "summary": "HP & SP +10"
+      "name": "Despedida Amable",
+      "desc": "Inicio de Turno: Cura 10 HP y PC. (Hasta 3 turnos)",
+      "summary": "HP y PC +10"
     },
     {
       "id": "Choice_901009",
-      "name": "Photopia",
-      "desc": "Combat Start: Skill Final Power -1.",
-      "summary": "Skill Final Power -1"
+      "name": "Fotópica",
+      "desc": "Inicio de Combate: Poder Final de la Habilidad -1.",
+      "summary": "Poder Final de la Habilidad -1"
     },
     {
       "id": "Choice_901010",
-      "name": "Emptied",
-      "desc": "Combat Start: Allies without Lust Affinity Attack Skill are Staggered."
+      "name": "Vacío",
+      "desc": "Inicio de Combate: Aliados sin Ataques con Afinidad de Lujuria son Aturdidos."
     },
     {
       "id": "Choice_901019",
-      "name": "Contamination",
-      "desc": "Combat Start: Speed -2.",
-      "summary": "SPD -2"
+      "name": "Contaminación",
+      "desc": "Inicio de Combate: Velocidad -2",
+      "summary": "VEL -2"
     },
     {
       "id": "Aggressive",
-      "name": "Instincts",
-      "desc": "At the end of the turn, if the Count is at 4+, change to an “aggressive” state."
+      "name": "Instintos",
+      "desc": "Al final del turno, si el Contador está a 4+, cambia a un estado \"agresivo\""
     },
     {
       "id": "Cromer_Target",
-      "name": "Gaze of the One Who Grips",
-      "desc": "Staggered for one turn. Take +100% damage from Kromer."
+      "name": "Mirada de Aquella Que Agarra",
+      "desc": "Aturdido por este turno. Recibe +100% del daño realizado por Kromer."
     },
     {
       "id": "Poison",
-      "name": "Poison",
-      "desc": "At the end of the turn, take fixed damage by the Count, then halve the Count."
+      "name": "Veneno",
+      "desc": "Al final del turno, recibe daño fijo por el Contador, luego reduce el Contador a la mitad"
     },
     {
       "id": "Desire",
-      "name": "Urge",
-      "desc": "At the end of the turn, if at 5+ stacks, take 30 SP damage, gana 2 Fragile and 10 Bind, and remove this effect."
+      "name": "Deseo",
+      "desc": "Al final del turno, si está a 5 acumulaciones, recibe 30 de daño de PC, obtienes 2 Frágil y 10 Atadura, y remueve este efecto."
     },
     {
       "id": "Assemble",
       "name": "Fanático",
-      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
+      "desc": "Incrementa el Poder Final de la Habilidad por el Contador de este efecto contra unidades con Clavos por un turno. (También se aplica a los choques)"
     },
     {
       "id": "Nail",
-      "name": "N Corp’s Nails",
-      "desc": "At the start of the turn, gana 1 De Sangrado y increase the Bleed Count by this effect’s Count.\nAt the end of the turn, reduce the Count by 1."
+      "name": "Clavos N Corp.",
+      "desc": "Al inicio del turno, obtiene 1 Sangrado e incrementa el Contador de Sangrado por el Contador de este efecto.\nAl final del turno, reduce el Contador por 1."
     },
     {
       "id": "BeingGolden",
@@ -590,314 +590,314 @@
     },
     {
       "id": "SlashTakeDamageDown",
-      "name": "Slash Protection",
-      "desc": "Take less damage from Slash skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Cortante",
+      "desc": "Recibe menos daño de habilidades Cortantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "PenetrateTakeDamageDown",
-      "name": "Pierce Protection",
-      "desc": "Take less damage from Pierce skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Perforante",
+      "desc": "Recibe menos daño de habilidades Perforantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "HitTakeDamageDown",
-      "name": "Blunt Protection",
-      "desc": "Take less damage from Blunt skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Contundente",
+      "desc": "Recibe menos daño de habilidades Contundentes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "CrimsonTakeDamageDown",
-      "name": "Wrath Protection",
-      "desc": "Take less damage from Wrath skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Ira",
+      "desc": "Recibe menos daño de habilidades de Ira basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ScarletTakeDamageDown",
-      "name": "Lust Protection",
-      "desc": "Take less damage from Lust skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Lujuria",
+      "desc": "Recibe menos daño de habilidades de Lujuria basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AmberTakeDamageDown",
-      "name": "Protección de Pereza",
-      "desc": "Take less damage from Sloth skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Pereza",
+      "desc": "Recibe menos daño de habilidades de Pereza basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ShamrockTakeDamageDown",
-      "name": "Gluttony Protection",
-      "desc": "Take less damage from Gluttony skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Gula",
+      "desc": "Recibe menos daño de habilidades de Gula basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AzureTakeDamageDown",
-      "name": "Gloom Protection",
-      "desc": "Take less damage from Gloom skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Melancolía",
+      "desc": "Recibe menos daño de habilidades de Melancolía basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "IndigoTakeDamageDown",
-      "name": "Pride Protection",
-      "desc": "Take less damage from Pride skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Orgullo",
+      "desc": "Recibe menos daño de habilidades de Orgullo basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "VioletTakeDamageDown",
-      "name": "Envy Protection",
-      "desc": "Take less damage from Envy skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Protección a Envidia",
+      "desc": "Recibe menos daño de habilidades de Envidia basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "SlashTakeDamageUp",
-      "name": "Fragilidad A lo Cortante",
-      "desc": "Take more damage from Slash skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a lo Cortante",
+      "desc": "Recibe más daño de habilidades Cortantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "PenetrateTakeDamageUp",
       "name": "Fragilidad A lo Perforante",
-      "desc": "Take more damage from Pierce skills based on the effect’s Count for one turn. (Max 10)"
+      "desc": "Recibe más daño de habilidades Perforantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "HitTakeDamageUp",
-      "name": "Fragilidad A lo Contundente",
-      "desc": "Take more damage from Blunt skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a lo Contundente",
+      "desc": "Recibe más daño de habilidades Contundentes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "CrimsonTakeDamageUp",
-      "name": "Fragilidad en Ira",
-      "desc": "Take more damage from Wrath skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a la Ira",
+      "desc": "Recibe más daño de habilidades de Ira basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ScarletTakeDamageUp",
-      "name": "Fragilidad en Lujuria",
-      "desc": "Take more damage from Lust skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a la Lujuria",
+      "desc": "Recibe más daño de habilidades de Lujuria basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AmberTakeDamageUp",
-      "name": "Fragilidad en Pereza",
-      "desc": "Take more damage from Sloth skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a la Pereza",
+      "desc": "Recibe más daño de habilidades de Pereza basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "ShamrockTakeDamageUp",
-      "name": "Fragilidad en Gula",
-      "desc": "Take more damage from Gluttony skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a la Gula",
+      "desc": "Recibe más daño de habilidades de Gula basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "AzureTakeDamageUp",
-      "name": "Fragilidad en Melancolía",
-      "desc": "Take more damage from Gloom skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a la Melancolía",
+      "desc": "Recibe más daño de habilidades de Melancolía basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "IndigoTakeDamageUp",
-      "name": "Fragilidad en Orgullo",
-      "desc": "Take more damage from Pride skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad al Orgullo",
+      "desc": "Recibe más daño de habilidades de Orgullo basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "Fragilidad en Envidia",
-      "desc": "Take more damage from Envy skills based on the effect’s Count for one turn. (Max 10)"
+      "name": "Fragilidad a la Envidia",
+      "desc": "Recibe más daño de habilidades de Envidia basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "NailPersonality",
       "name": "Clavos",
-      "desc": "Unique Bleed\nTurn Start: Gana 1 De Sangrado y increase the Bleed Count by this effect’s Count.\nTurn End: Halve the Count. (Rounded down)"
+      "desc": "Sangrado Único\nInicio de turno: Obtén 1 de Sangrado e incrementa el Contador de Sangrado por el Contador de este efecto.\nFin de turno: Reduce a la mitad el Contador. (Redondeado hacia abajo)"
     },
     {
       "id": "AssemblePersonality",
       "name": "Fanático",
-      "desc": "Raise Skill Final Power by the effect’s Count against units with Nails for the turn. (Applies to clashes as well)"
+      "desc": "Incrementa el Poder Final de la Habilidad por el Contador de este efecto contra unidades con Clavos por un turno. (También se aplica a los choques)"
     },
     {
       "id": "MarkOfHeresy",
-      "name": "Gaze",
-      "desc": "Take +20% damage from Pierce and Blunt skills for one turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is from N Corp, also apply 1 Fanatic next turn."
+      "name": "Mirada",
+      "desc": "Recibe +20% de daño de habilidades Perforantes y Contundentes este turno.\nEl aliado que derrote a la unidad marcada se cura 10 PC; si es un aliado de la N Corp, además aplica 1 de Fanático el siguiente turno."
     },
     {
       "id": "HitResultUp",
-      "name": "Daño Contundente Aumentado",
-      "desc": "Blunt skills gain final Power by the effect’s Count for one turn."
+      "name": "Poder Contundente Aumentado",
+      "desc": "Las Habilidades Contundentes obtienen Poder final por el Contador del efecto por un turno."
     },
     {
       "id": "WeaknessAnalysis",
       "name": "Debilidad Analizada",
-      "desc": "A random “Endure” or “Normal” attack type resistance is weakened [+0.2 to damage multiplier] for one turn."
+      "desc": "Un tipo de resistencia \"Resistente\" o \"Normal\" al azar es debilitada [+0.2 al multiplicador de daño] por un turno."
     },
     {
       "id": "Cycle",
       "name": "Karma",
-      "desc": "Take +1% damage per Count. At the end of the turn, if at 108+ Count, the unit dies."
+      "desc": "Recibe +1% de daño por Contador. Al final del turno, si el Contador está a 108+, la unidad muere."
     },
     {
       "id": "Duress",
-      "name": "Captivity",
-      "desc": "Become Staggered for 3 turns.\nTurn Start: If Kqe-1j-23 is Staggered, remove this status."
+      "name": "Cautividad",
+      "desc": "Queda Aturdido durante 3 turnos.\nInicio de Turno: Si Kqe-1j-23 está Aturdido, remueve este efecto"
     },
     {
       "id": "VioletResultUp",
       "name": "Poder de Envidia Aumentado",
-      "desc": "Envy skills gain final Power by the effect’s Count for one turn."
+      "desc": "Las Habilidades de Envidia obtienen Poder final por el Contador del efecto por un turno."
     },
     {
       "id": "CyclingKarma",
-      "name": "Cyclical Karma",
-      "desc": "All units transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.",
-      "summary": "Karma transferred on Clash win"
+      "name": "Ciclo Kármico",
+      "desc": "Todas las unidades transfieren su Karma a sus respectivos objetivos después de un ataque exitoso.\nKarma no es transferido a Mi Forma Vacua mientras sus aliados estén vivos.",
+      "summary": "Karma se transfiere al ganar un Choque"
     },
     {
       "id": "Cromer_Ecstasy",
-      "name": "Ecstatic",
-      "desc": "All the Maw’s physical resistances change to ‘Fatal’."
+      "name": "Éxtasis",
+      "desc": "Todas las resistencias físicas de las Fauces cambian a ‘Fatal’."
     },
     {
       "id": "Cromer_Madness",
-      "name": "Purity",
-      "desc": "All parts gana 3 Bind and 3 Daño Aumentado, and their phys. resistances change to ‘Fatal’."
+      "name": "Pureza",
+      "desc": "Todas las partes ganan 3 Atadura y 3 Daño Aumentado, y sus resistencias físicas cambian a ‘Fatal’."
     },
     {
       "id": "TakeHpHealReduce",
       "name": "Curación de HP Reducida",
-      "desc": "HP healed by Passives, Skill effects, or Coin effects decreases proportionally to the value of this effect. (Max 5)"
+      "desc": "El HP curado por pasivas, efecto de habilidades, o efectos de Moneda disminuyen proporcionalmente al valor de este efecto. (Máx 5)"
     },
     {
       "id": "AttackLevelAdder",
-      "name": "Offense level+",
-      "desc": "Offense Level increases by the effect’s Count for one turn."
+      "name": "Nivel Ofensivo+",
+      "desc": "El Nivel Ofensivo aumenta por el Contador de este efecto por un turno."
     },
     {
       "id": "Thirst",
       "name": "Apetito",
-      "desc": "Increases the healing provided by the Passive [Rustle Up].\nSpent when the Passive activates."
+      "desc": "Incrementa la curación proporcionada por la Pasiva [Comida Instantánea].\nSe gasta cuando la Pasiva se activa."
     },
     {
       "id": "GainSinStockAdder",
-      "name": "E.G.O Resource Amp",
-      "desc": "Increases the amount of E.G.O resources earned from skills by the effect’s Count for one turn."
+      "name": "Amplificador de Recursos E.G.O",
+      "desc": "Incrementa la cantidad de recursos E.G.O obtenidos de habilidades por el Contador de este efecto por un turno."
     },
     {
       "id": "Enrage",
-      "name": "Frenzy",
-      "desc": "Gana 3 Attack Power Up and 3 Fragile for one turn, and change behavior. Does not gain Aggression when attacked."
+      "name": "Frenesí",
+      "desc": "Gana 3 Poder de Ataque Aumentado y 3 Frágil por un turno, y cambia el comportamiento. No gana Agresión cuando es atacado."
     },
     {
       "id": "DimensionRift",
       "name": "Grieta Dimensional",
-      "desc": "At the end of the turn, gain Rupture Count by this effect’s amount. Then, remove this effect."
+      "desc": "Al final del turno, gana Contador de Ruptura por la cantidad de este efecto. Luego, remueve este efecto."
     },
     {
       "id": "ShardOfUmbrella",
-      "name": "Umbrella Splinters",
-      "desc": "Gana 5 Rupture per Count at turn end",
-      "summary": "Gana 5 Rupture per Count at turn end"
+      "name": "Esquirlas de Paraguas",
+      "desc": "Obtiene 5 de Ruptura por Contador al final de turno",
+      "summary": "Obtiene 5 de Ruptura por Contador al final de turno"
     },
     {
       "id": "WrappedCurseTag",
-      "name": "Entangled Curse Talisman",
-      "desc": "Deal +1% damage per Count\nAt 9+ Count, gana 2 Attack Power Down at turn start",
-      "summary": "Deal +1% damage per Count; at 9+ Count, gana 2 Attack Power Down at turn start"
+      "name": "Talismán Maldito Enredado",
+      "desc": "Inflige +1% de daño por Contador\na 9+ de Contador, gana 2 Poder de Ataque Reducido al inicio del turno",
+      "summary": "Inflige +1% de daño por Contador; a 9+ de Contador, gana 2 de Poder de Ataque Reducido al inicio del turno"
     },
     {
       "id": "ReattachedCurseTag",
-      "name": "Reattached Curse Talisman",
-      "desc": "At 9+, gana 5 Bind at the start of the turn.\nAt 12+, gana 5 Attack Power Down at the start of the turn.",
-      "summary": "At 9+, gana 5 Bind at the start of the turn.\nAt 12+, gana 5 Attack Power Down at the start of the turn."
+      "name": "Talismán Maldito Reatado",
+      "desc": "A 9+, gana 5 Atadura al inicio del turno.\nA 12+, gana 5 Poder de Ataque Reducido al inicio del turno.",
+      "summary": "A 9+, gana 5 Atadura al inicio del turno.\nA 12+, gana 5 Poder de Ataque Reducido al inicio del turno."
     },
     {
       "id": "ElectricStorage",
-      "name": "Capacitor",
-      "desc": "It seems to be storing electricity in its body.",
+      "name": "Condensador",
+      "desc": "Parece que está almacenando electricidad en su cuerpo.",
       "summary": "표시용"
     },
     {
       "id": "SelfCharge",
-      "name": "Self-charge",
-      "desc": "Electric currents seem to flow around its body.\nAfter the unit faces death, as long as it has Self-charge, its HP is fixed at 1 until it is fully consumed. (Max 20)",
+      "name": "Autocarga",
+      "desc": "Las corrientes de electricidad parecen estar fluyendo alrededor de su cuerpo.\nDespués de que esta unidad enfrente la muerte, mientras tenga Autocarga, su HP es fijada a 1 hasta que sea totalmente consumida. (Máx 20)",
       "summary": "표시용"
     },
     {
       "id": "Exalted",
-      "name": "Morale Boost",
-      "desc": "Gain Daño Aumentado by the the effect's Count every turn (Max 5)\nCannot gain the status while Tipsy",
-      "summary": "Gain Daño Aumentado by the effect's Count every turn; Cannot gain the status while Tipsy"
+      "name": "Subida de Moral",
+      "desc": "Gana Daño Aumentado por el Contador de este efecto todos los turnos (Máx 5)\nNo puedes obtener este estado mientras estás Emborrachado",
+      "summary": "Obtén Daño Aumentado por el Contador de este efecto todos los turnos; No puedes obtener este estado mientras estés Emborrachado"
     },
     {
       "id": "Tipsiness",
-      "name": "Tipsy",
-      "desc": "Lose Clash Power by the effect's Count (Max 5)",
-      "summary": "Lose Clash Power by the effect's Count"
+      "name": "Emborrachado",
+      "desc": "Pierde Poder de Choque por el Contador del efecto (Máx 5)",
+      "summary": "Pierde Poder de Choque por el Contador del efecto"
     },
     {
       "id": "Predation",
-      "name": "Predation",
-      "desc": "It seems to be preparing a powerful move.",
+      "name": "Depredación",
+      "desc": "Parece que está preparando un movimiento poderoso.",
       "summary": "표시용"
     },
     {
       "id": "ATL_EndureCombustion",
-      "name": "Burn Resistance",
-      "desc": "When taking damage from Burn, reduce the damage by 10% per Count (Max 10)",
-      "summary": "When taking damage from Burn, take 10% less damage per Count"
+      "name": "Resistencia a la Quemadura",
+      "desc": "Cuando se recibe daño de Quemadura, reduce el daño en 10% por Contador (Máx 10)",
+      "summary": "Al recibir daño por Quemadura, recibe 10% menos de daño por Contador"
     },
     {
       "id": "Resonate",
-      "name": "Resonant",
-      "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal 3% fixed damage per Count and further raise stagger threshold by 3% per Count",
-      "summary": "When triggering Tremor Burst or raising Stagger Thresholds, deal damage and raise Stagger Threshold further"
+      "name": "Resonante",
+      "desc": "Cuando activas Estallido de Tremor o aumentas el Umbral de Aturdimiento, inflige 3% de daño fijo por Contador y eleva aún más el umbral de aturdimiento un 3% por Contador",
+      "summary": "Cuando activas Estallido de Tremor o aumentas el Umbral de Aturdimiento, inflige daño y aumenta más el Umbral de Aturdimiento"
     },
     {
       "id": "VibrationAssimilation",
-      "name": "Tremor Sync",
-      "desc": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have",
-      "summary": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have"
+      "name": "Tremor Sincronizado",
+      "desc": "En un choque, el oponente tiene -1 de Poder de Choque por cada 5 Tremor que tenga",
+      "summary": "En un choque, el oponente tiene -1 de Poder de Choque por cada 5 Tremor que tenga"
     },
     {
       "id": "CollapseAmpoule",
-      "name": "Decay Ampule",
-      "desc": "Take damage by 2% of Max HP per Count",
-      "summary": "Take damage by 2% of Max HP per Count"
+      "name": "Vial de Descomposición",
+      "desc": "Recibe daño por un 2% del Máx. HP por Contador",
+      "summary": "Recibe daño por un 2% del Máx. HP por Contador"
     },
     {
       "id": "InterlockingTime",
-      "name": "Interlocking Time",
-      "desc": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 1.5 times the accumulated damage, and gana 3 Bind next turn.",
-      "summary": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 1.5 times the accumulated damage, and gana 3 Bind next turn."
+      "name": "Tiempo Entrelazado",
+      "desc": "Reduce el daño final en un 30% y lo guarda. Con 3 de Contador, recibe daño fijo por 1.5 veces el daño acumulado, y gana 3 de Atadura el siguiente turno.",
+      "summary": "Reduce el daño final en un 30% y lo guarda. Con 3 de Contador, recibe daño fijo por 1.5 veces el daño acumulado, y gana 3 de Atadura el siguiente turno."
     },
     {
       "id": "TimeRental",
-      "name": "Borrowed Time",
-      "desc": "At the end of the turn, gana 3 Haste and 2 Daño Aumentado; If only 1 Count remains, gana 4 Bind and 1 Attack Power Down next turn",
-      "summary": "At the end of the turn, gana 3 Haste and 2 Daño Aumentado; If only 1 Count remains, gana 4 Bind and 1 Attack Power Down next turn"
+      "name": "Tiempo Prestado",
+      "desc": "Al final del turno, Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 Atadura y 1 Poder de Ataque Reducido el siguiente turno",
+      "summary": "Al final del turno, Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 Atadura y 1 Poder de Ataque Reducido el siguiente turno"
     },
     {
       "id": "ATL_EndureLaceration",
-      "name": "Bleed Resistance",
-      "desc": "When taking damage from Bleed, reduce the damage by 10% per Count (Max 10)",
-      "summary": "When taking damage from Bleed, take 10% less damage per Count"
+      "name": "Resistencia al Sangrado",
+      "desc": "Al recibir daño de Sangrado, reduce el daño un 10% por Contador (Máx. 10)",
+      "summary": "Cuando recibe daño de Sangrado, recibes un 10% menos de daño"
     },
     {
       "id": "Bull_Sadness",
-      "name": "Unresolved Sorrow",
-      "desc": "At the start of the turn, gain Attack Power Down by the Count.\nAt the end of the turn, if this effect is at 3+ Count, changes to Expanding Sorrow",
+      "name": "Pena sin Resolver",
+      "desc": "Al inicio del turno, gana Poder de Ataque Reducido por el Contador.\nAl final del turno, si este efecto tiene 3+ de Contador, cambia a Pena Creciente",
       "summary": ""
     },
     {
       "id": "Bull_BuzzingEmotion",
-      "name": "Wavering Emotions",
-      "desc": "Turn Start: Randomly gain Attack Power Down, Paralyze, or Bind by this effect's Count, then remove this effect",
-      "summary": "Turn Start: Randomly gain Attack Power Down, Paralyze, or Bind by this effect's Count, then remove this effect"
+      "name": "Emociones Vacilantes",
+      "desc": "Inicio de Turno: Gana aleatoriamente Poder de Ataque Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto.",
+      "summary": "Inicio de Turno: Gana aleatoriamente Poder de Ataque Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto."
     },
     {
       "id": "Scared",
-      "name": "Fear",
-      "desc": "Turn End: At -20 SP or lower, gana 1 Protection next turn.",
-      "summary": "Turn End: At -20 SP or lower, gana 1 Protection next turn."
+      "name": "Miedo",
+      "desc": "Finalizar Turno: A -20 PC o menos, gana 1 Protección el siguiente turno.",
+      "summary": "Finalizar Turno: A -20 PC o menos, gana 1 Protección el siguiente turno."
     },
     {
       "id": "Stressed",
-      "name": "Stressed",
-      "desc": "Turn End: At -25 SP or lower, gana 1 Poder Defensivo Aumentado next turn",
-      "summary": "Turn End: At -25 SP or lower, gana 1 Poder Defensivo Aumentado next turn"
+      "name": "Estresado",
+      "desc": "Finalizar Turno: A -25 PC o menos, gana 1 Poder Defensivo Aumentado el siguiente turno",
+      "summary": "Finalizar Turno: A -25 PC o menos, gana 1 Poder Defensivo Aumentado el siguiente turno"
     },
     {
       "id": "Nervous",
       "name": "Nervous",
-      "desc": "Turn End: At -15 SP or lower, gana 5 Defense Level Up next turn",
-      "summary": "Turn End: At -15 SP or lower, gana 5 Defense Level Up next turn"
+      "desc": "Finalizar turno: A -15 PC o menos, gana 5 Nivel Defensivo Aumentado el siguiente turno",
+      "summary": "Finalizar turno: A -15 PC o menos, gana 5 Nivel Defensivo Aumentado el siguiente turno"
     },
     {
       "id": "ATL_Agility",
-      "name": "Faster!",
-      "desc": "Gana 2 Haste",
+      "name": "¡Rápido!",
+      "desc": "Gana 2 de Rapidez",
       "summary": "표시용"
     },
     {
@@ -908,26 +908,26 @@
     },
     {
       "id": "ATL_Target",
-      "name": "Get 'Em!",
-      "desc": "Simultaneously attacks one unit.",
+      "name": "¡A por ellos!",
+      "desc": "Ataca simultáneamente una unidad.",
       "summary": "표시용"
     },
     {
       "id": "Bull_FadedHeat",
-      "name": "Momentary Cool",
-      "desc": "Core and body lose 50% Max HP"
+      "name": "Frío Momentánea",
+      "desc": "El Cuerpo y el Núcleo pierden un 50% de HP máximo"
     },
     {
       "id": "Bull_Fever",
-      "name": "Fever",
-      "desc": "Deal +10% damage per Count\nReduced by 1 at turn end",
+      "name": "Fiebre",
+      "desc": "Realiza +10% de daño por Contador\nReduce el Contador en 1 al finalizar el turno",
       "summary": ""
     },
     {
       "id": "Bull_ReinforcedSadness",
-      "name": "Expanding Sorrow",
-      "desc": "Changes behavior.",
-      "summary": "Changes behavior."
+      "name": "Pena Creciente",
+      "desc": "Cambia el comportamiento..",
+      "summary": "Cambia el comportamiento.."
     },
     {
       "id": "Crazy_LowMorale",
@@ -1283,7 +1283,7 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Estallida de Tremor",
+      "name": "Estallido de Tremor",
       "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
     },
     {
@@ -1433,6 +1433,12 @@
       "id": "ShieldManagerCryingToad",
       "name": "Blubberbubble",
       "desc": "- This effect counts as a 'Shield Management' effect.\n- Turn End: Reduce Count by 1\n- This unit does not lose Shield at Turn End as long as it has the Blubberbubble effect (unless depleted by damage or effect)\n- If the Shield affected by Blubberbubble breaks due to taking damage, inflict 4 Sinking Potency/Count against the attacker. (How much of that '4' value is Potency or Count is randomly determined)\n- This unit can stack their Shield value by using this effect. However, as long as Blubberbubble is in effect, the Shield value cannot exceed 60% of this unit's Max HP.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationContinue",
+      "name": "Tremor - Eternidad",
+      "desc": "- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Potency on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Count on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     }
   ]

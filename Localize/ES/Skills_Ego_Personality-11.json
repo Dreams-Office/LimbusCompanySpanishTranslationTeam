@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 2 allies with the least SP"
@@ -33,7 +33,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 3 allies with the least SP"
@@ -54,7 +54,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 4 allies with the least SP"
@@ -83,7 +83,7 @@
                   "desc": "[OnSucceedAttack] Target loses 10 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Inflige 1 Fragility to the Affinity with the highest Resonance count"
@@ -104,7 +104,7 @@
                   "desc": "[OnSucceedAttack] Target loses 10 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackTail] Inflige 2 Fragility for the Affinity with the highest Resonance count"
@@ -128,7 +128,7 @@
                   "desc": "[OnSucceedAttack] Target loses 10 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Fragility for the Affinity with the highest Resonance count"
@@ -285,7 +285,7 @@
                   "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"

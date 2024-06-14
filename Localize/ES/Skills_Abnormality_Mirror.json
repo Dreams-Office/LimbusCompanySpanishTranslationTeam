@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "The Gripping",
-          "desc": "[StartBattle] Gaze into the target for the next turn",
+          "desc": "[StartBattle] Mirada into the target for the next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -68,21 +68,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
                 }
               ]
             }
@@ -101,28 +101,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 N Corp’s Nails"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ N Corp’s Nails, Stagger them and remove the Nails"
+                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Stagger them and remove the Clavos"
                 }
               ]
             }
@@ -727,7 +727,7 @@
         {
           "level": 1,
           "name": "Bite",
-          "desc": "[WhenUse] Gana 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "desc": "[WhenUse] Gana 2 Autocarga\n[DefeatDuel] Lose 1 Autocarga",
           "coinlist": [
             {
               "coindescs": [
@@ -746,7 +746,7 @@
         {
           "level": 1,
           "name": "Tail Poke",
-          "desc": "[WhenUse] Gana 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "desc": "[WhenUse] Gana 2 Autocarga\n[DefeatDuel] Lose 1 Autocarga",
           "coinlist": [
             {
               "coindescs": [
@@ -772,7 +772,7 @@
         {
           "level": 1,
           "name": "Wrapping Coil",
-          "desc": "[WhenUse] Gana 2 Self-charge\n[DefeatDuel] Lose 1 Self-charge",
+          "desc": "[WhenUse] Gana 2 Autocarga\n[DefeatDuel] Lose 1 Autocarga",
           "coinlist": [
             {
               "coindescs": [
@@ -794,7 +794,7 @@
         {
           "level": 1,
           "name": "Electric Load",
-          "desc": "[WhenUse] Gana 1 Self-charge\nDeal +10% damage to targets with Paralyze",
+          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Paralyze",
           "coinlist": [
             {},
             {
@@ -814,7 +814,7 @@
         {
           "level": 1,
           "name": "Electric Release",
-          "desc": "[WhenUse] Gana 1 Self-charge\nDeal +10% damage to targets with Paralyze",
+          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Paralyze",
           "coinlist": [
             {},
             {},
@@ -835,7 +835,7 @@
         {
           "level": 1,
           "name": "Electric Discharge",
-          "desc": "[WhenUse] Gana 1 Self-charge\nDeal +20% damage to targets with Paralyze",
+          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +20% damage to targets with Paralyze",
           "coinlist": [
             {
               "coindescs": [
@@ -861,7 +861,7 @@
         {
           "level": 1,
           "name": "High-voltage Electric Discharge",
-          "desc": "At 11+ Self-charge, deal +10% Damage for each Count of Self-charge over 10\nSpend all Self-charge",
+          "desc": "At 11+ Autocarga, deal +10% Damage for each Count of Autocarga over 10\nSpend all Autocarga",
           "coinlist": [
             {
               "coindescs": [
@@ -873,10 +873,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Capacitor, deal 40% of damage dealt as fixed damage"
+                  "desc": "[OnSucceedAttack] If target has Condensador, deal 40% of damage dealt as fixed damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze and 1 Capacitor"
+                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze and 1 Condensador"
                 }
               ]
             }
@@ -903,7 +903,7 @@
         {
           "level": 1,
           "name": "Wriggling Head",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 2 Self-charge\n[DefeatDuel] Lose 2 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 2 Autocarga\n[DefeatDuel] Lose 2 Autocarga",
           "coinlist": [
             {},
             {
@@ -923,7 +923,7 @@
         {
           "level": 1,
           "name": "Wriggling Tail",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 2 Self-charge\n[DefeatDuel] Lose 3 Self-charge",
+          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 2 Autocarga\n[DefeatDuel] Lose 3 Autocarga",
           "coinlist": [
             {},
             {},
@@ -1092,7 +1092,7 @@
         {
           "level": 1,
           "name": "Entangling Talisman",
-          "desc": "[WhenUse] Inflige 2 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflige 2 Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
@@ -1111,12 +1111,12 @@
         {
           "level": 1,
           "name": "Cumulating Curse",
-          "desc": "[WhenUse] Inflige 1 Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflige 1 Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Entangled Curse Talisman by target's Entangled Curse Talisman"
+                  "desc": "[OnSucceedAttack] Inflige Talismán Maldito Enredado by target's Talismán Maldito Enredado"
                 }
               ]
             },
@@ -1144,7 +1144,7 @@
         {
           "level": 1,
           "name": "So That No One Will Cry",
-          "desc": "[EndBattle] Remove all Reattached Curse Talisman",
+          "desc": "[EndBattle] Remove all Talismán Maldito Reatado",
           "coinlist": [
             {},
             {},
@@ -1170,7 +1170,7 @@
         {
           "level": 1,
           "name": "Transferring Talisman",
-          "desc": "[WhenUse] Remove all Entangled Curse Talisman from target; Gain the same amount of Reattached Curse Talisman",
+          "desc": "[WhenUse] Remove all Talismán Maldito Enredado from target; Gain the same amount of Talismán Maldito Reatado",
           "coinlist": [
             {}
           ]
@@ -1183,7 +1183,7 @@
         {
           "level": 1,
           "name": "Proliferating Curse",
-          "desc": "[WhenUse] Inflige Entangled Curse Talisman by target's Entangled Curse Talisman",
+          "desc": "[WhenUse] Inflige Talismán Maldito Enredado by target's Talismán Maldito Enredado",
           "coinlist": [
             {}
           ]
@@ -1196,7 +1196,7 @@
         {
           "level": 1,
           "name": "Wanna Get Drunk?",
-          "desc": "In a clash, give 1 Morale Boost",
+          "desc": "In a clash, give 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
@@ -1215,7 +1215,7 @@
         {
           "level": 1,
           "name": "Let's Share the Drink!",
-          "desc": "In a clash, give 2 Morale Boost\n[WhenUse] Heal 5% HP",
+          "desc": "In a clash, give 2 [Exalted]\n[WhenUse] Heal 5% HP",
           "coinlist": [
             {
               "coindescs": [
@@ -1234,7 +1234,7 @@
         {
           "level": 1,
           "name": "This is All I Got!",
-          "desc": "In a clash, give 2 Morale Boost\nPrioritizes enemies with Tremor",
+          "desc": "In a clash, give 2 [Exalted]\nPrioritizes enemies with Tremor",
           "coinlist": [
             {},
             {
@@ -1254,18 +1254,18 @@
         {
           "level": 1,
           "name": "I'll Have This!",
-          "desc": "[CantDuel]\nCannot be redirected\nPrioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5",
+          "desc": "[CantDuel]\nCannot be redirected\nPrioritizes enemies with [Exalted]\nIf target has no [Tipsiness], Clash Power +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] If target has [Exalted], deal +10% damage for each Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
+                  "desc": "[OnSucceedAttack] If target has [Tipsiness], deal 0 damage, and user loses 50 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all Morale Boost or Tipsy"
+                  "desc": "[OnSucceedAttack] Remove all [Exalted] or [Tipsiness]"
                 }
               ]
             }
@@ -1279,18 +1279,18 @@
         {
           "level": 1,
           "name": "I'll Have This!",
-          "desc": "Prioritizes enemies with Morale Boost\nIf target has no Tipsy, Clash Power +5",
+          "desc": "Prioritizes enemies with [Exalted]\nIf target has no [Tipsiness], Clash Power +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Morale Boost, deal +100% damage for each Count"
+                  "desc": "[OnSucceedAttack] If target has [Exalted], deal +100% damage for each Count"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Tipsy, deal 0 damage, and user loses 50 HP"
+                  "desc": "[OnSucceedAttack] If target has [Tipsiness], deal 0 damage, and user loses 50 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all Morale Boost or Tipsy"
+                  "desc": "[OnSucceedAttack] Remove all [Exalted] or [Tipsiness]"
                 }
               ]
             }
@@ -1336,7 +1336,7 @@
         {
           "level": 1,
           "name": "Fairy Wine",
-          "desc": "[WhenUse] Convert opponent's Morale Boost into Tipsy",
+          "desc": "[WhenUse] Convert opponent's [Exalted] into [Tipsiness]",
           "coinlist": [
             {}
           ]
@@ -1474,7 +1474,7 @@
                   "desc": "[DefeatDuel] Take 20 damage"
                 },
                 {
-                  "desc": "[DefeatDuel] Lose 1 Golden Sheen"
+                  "desc": "[DefeatDuel] Lose 1 Brillo Dorado"
                 }
               ]
             }
@@ -1568,14 +1568,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 }
               ]
             }
@@ -1594,7 +1594,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemadura"
                 }
               ]
             }
@@ -1613,7 +1613,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
@@ -1623,7 +1623,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
@@ -1633,7 +1633,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
@@ -1650,7 +1650,7 @@
         {
           "level": 1,
           "name": "Overflowing Sorrow",
-          "desc": "[DefeatDuel] Gana 1 Unresolved Sorrow",
+          "desc": "[DefeatDuel] Gana 1 Pena sin Resolver",
           "coinlist": [
             {
               "coindescs": [
@@ -1677,7 +1677,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] Inflige 1 Emociones Vacilantes"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ahogo"
@@ -1699,7 +1699,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] Inflige 1 Emociones Vacilantes"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
@@ -1709,7 +1709,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Wavering Emotions"
+                  "desc": "[OnSucceedAttack] Inflige 1 Emociones Vacilantes"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"

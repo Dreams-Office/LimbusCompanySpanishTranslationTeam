@@ -31,22 +31,22 @@
     {
       "id": "AaCfPbBa",
       "name": "Explosive Gloom",
-      "desc": "- Gloom Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Offense Level Up next turn (9 times per turn)",
-      "summary": "Resistance to Gloom(and only Gloom) becomes Fatal.\nWhen hit: Inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Offense Level Up next turn.",
+      "desc": "- Gloom Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Nivel Ofensivo Aumentado next turn (9 times per turn)",
+      "summary": "Resistance to Gloom(and only Gloom) becomes Fatal.\nWhen hit: Inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Nivel Ofensivo Aumentado next turn.",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBb",
       "name": "Explosive Envy",
-      "desc": "- Envy Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: apply 1 Offense Level Up, inflict 2 Bleed, and 2 Bleed Count on attacker, and gain 1 Defense Level Down next turn (9 times per turn)",
-      "summary": "Resistance to Envy(and only Envy) becomes Fatal\nWhen hit: apply 1 Offense Level Up, 2 Bleed, and 2 Bleed Count on target, and gain 1 Defense Level Down next turn",
+      "desc": "- Envy Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: apply 1 Nivel Ofensivo Aumentado, inflict 2 Bleed, and 2 Bleed Count on attacker, and gain 1 Defense Level Down next turn (9 times per turn)",
+      "summary": "Resistance to Envy(and only Envy) becomes Fatal\nWhen hit: apply 1 Nivel Ofensivo Aumentado, 2 Bleed, and 2 Bleed Count on target, and gain 1 Defense Level Down next turn",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBc",
       "name": "Explosive Wrath",
-      "desc": "- Wrath Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: Gain 1 Offense Level Up and 1 Defense Level Down next turn (9 times per turn)",
-      "summary": "Resistance to Wrath(and only Wrath) becomes Fatal.\nWhen hit, gain 1 Offense Level Up and 1 Defense Level Down.",
+      "desc": "- Wrath Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: Gain 1 Nivel Ofensivo Aumentado and 1 Defense Level Down next turn (9 times per turn)",
+      "summary": "Resistance to Wrath(and only Wrath) becomes Fatal.\nWhen hit, gain 1 Nivel Ofensivo Aumentado and 1 Defense Level Down.",
       "undefined": "-"
     },
     {
@@ -70,14 +70,14 @@
     {
       "id": "AaCfPbBi",
       "name": "Hatred",
-      "desc": "- Low Morale\n- Clash Win: Gain 1 Offense Level Up next turn. (max 3 per turn)\nClash Lose: Gain 1 Defense Level Up. (max 3 per turn)",
+      "desc": "- Low Morale\n- Clash Win: Gain 1 Nivel Ofensivo Aumentado next turn. (max 3 per turn)\nClash Lose: Gain 1 Defense Level Up. (max 3 per turn)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBj",
       "iconID": "Vengeanse_LowMoral",
       "name": "Hatred",
-      "desc": "- Panic\n- Clash Win: Gain 1 Offense Level Up this turn and next turn. (max 3 per turn)\nClash Lose: Gain 1 Defense Level Up. (max 3 per turn)\nTurn End: Gain 2 Haste next turn",
+      "desc": "- Panic\n- Clash Win: Gain 1 Nivel Ofensivo Aumentado this turn and next turn. (max 3 per turn)\nClash Lose: Gain 1 Defense Level Up. (max 3 per turn)\nTurn End: Gain 2 Haste next turn",
       "undefined": "-"
     }
   ]

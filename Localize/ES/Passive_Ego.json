@@ -8,12 +8,12 @@
     {
       "id": 2010211,
       "name": "Ascuas",
-      "desc": "Tras victoria de choque, inflige Quemado por (Reson.-A de Ira / 2).\n(Una vez por habilidad)"
+      "desc": "Tras victoria de choque, inflige Quemadura por (Reson.-A de Ira / 2).\n(Una vez por habilidad)"
     },
     {
       "id": 2010311,
       "name": "Dol Hareubang",
-      "desc": "Al inicio del turno, gana 3 de Protección de Contundente y Protección de Pereza."
+      "desc": "Al inicio del turno, gana 3 de Protección a Contundente y Protección a Pereza."
     },
     {
       "id": 2020111,
@@ -48,7 +48,7 @@
     {
       "id": 2040211,
       "name": "Llama del 4to Fósforo",
-      "desc": "Cada 4ta habilidad usada gana +4 de Poder Final e inflige 4 de Quemado con cada uno de sus ataques."
+      "desc": "Cada 4ta habilidad usada gana +4 de Poder Final e inflige 4 de Quemadura con cada uno de sus ataques."
     },
     {
       "id": 2050111,
@@ -73,7 +73,7 @@
     {
       "id": 2060211,
       "name": "Cintas que Atan",
-      "desc": "El objetivo de la habilidad más a la izquierda del Tablero es infligida por (Reson.-A de Lujuria / 4) de Fragilidad en Lujuria el próximo turno."
+      "desc": "El objetivo de la habilidad más a la izquierda del Tablero es infligida por (Reson.-A de Lujuria / 4) de Fragilidad a la Lujuria el próximo turno."
     },
     {
       "id": 2070111,
@@ -98,7 +98,7 @@
     {
       "id": 2080311,
       "name": "Ducha de Fuego",
-      "desc": "Al golpear, si el objetivo tenía Quemado, inflige 1 de Quemado en 3 enemigos al azar."
+      "desc": "Al golpear, si el objetivo tenía Quemadura, inflige 1 de Quemadura en 3 enemigos al azar."
     },
     {
       "id": 2090111,
@@ -108,7 +108,7 @@
     {
       "id": 2090211,
       "name": "Chispazo de Llama",
-      "desc": "Tras derrotar a un enemigo que tiene Quemado, cura HP por el (Reson.-A de Ira)% de HP Máx."
+      "desc": "Tras derrotar a un enemigo que tiene Quemadura, cura HP por el (Reson.-A de Ira)% de HP Máx."
     },
     {
       "id": 2090311,
@@ -173,7 +173,7 @@
     {
       "id": 2100311,
       "name": "Reflujo de Estofado",
-      "desc": "Monedas en Sello infligen 1 de Quemado si golpean un enemigo."
+      "desc": "Monedas en Sello infligen 1 de Quemadura si golpean un enemigo."
     },
     {
       "id": 2010411,
@@ -188,7 +188,7 @@
     {
       "id": 2050411,
       "name": "Agitación Inmoderada ",
-      "desc": "Al inicio de la fase de combate, si es blanco de 2 o más habilidades, las habilidades de esta unidad tienen +1 de Poder Base; al ser golpeado, inflige 1 de Quemado en el atacante. (5 veces por turno.)"
+      "desc": "Al inicio de la fase de combate, si es blanco de 2 o más habilidades, las habilidades de esta unidad tienen +1 de Poder Base; al ser golpeado, inflige 1 de Quemadura en el atacante. (5 veces por turno.)"
     },
     {
       "id": 2080411,
@@ -253,7 +253,7 @@
     {
       "id": 2020511,
       "name": "Marca Ígnea",
-      "desc": "Tras Golpear con Cabeza con una habilidad de afinidad de Lujuria, inflige 1 de Quemado en el objetivo. (6 veces por turno.)"
+      "desc": "Tras Golpear con Cabeza con una habilidad de afinidad de Lujuria, inflige 1 de Quemadura en el objetivo. (6 veces por turno.)"
     },
     {
       "id": 2060511,
@@ -288,12 +288,12 @@
     {
       "id": 2070511,
       "name": "Odio Infinito",
-      "desc": "Cuando esta unidad tiene un efecto de estado negativo, y si su objetivo principal o atacante tiene un efecto positivo:\n- Inflige +1 de Potencia de Quemado, Sangrado, Tremor, Ruptura y Ahogo a sí mismo y a los enemigos con efectos de Habilidad o efectos de Moneda.\n- Gana +1 de Contador de Temple y Carga con efectos de Habilidad o efectos de Moneda."
+      "desc": "Cuando esta unidad tiene un efecto de estado negativo, y si su objetivo principal o atacante tiene un efecto positivo:\n- Inflige +1 de Potencia de Quemadura, Sangrado, Tremor, Ruptura y Ahogo a sí mismo y a los enemigos con efectos de Habilidad o efectos de Moneda.\n- Gana +1 de Contador de Temple y Carga con efectos de Habilidad o efectos de Moneda."
     },
     {
       "id": 2110511,
       "name": "Regalos Justos",
-      "desc": "Al aplicar efectos positivos a otros aliados con efectos de Habilidad o efectos de Moneda, selecciona al azar uno de los siguientes efectos: Quemado, Sangrado, Tremor, Ruptura o Ahogo.\nLuego, inflige 1 de Potencia del efecto seleccionado a 1 enemigo al azar. (Se activa 5 veces por Turno. Puede ser aplicado hasta 5 veces por enemigo. Para Anormalidades, aplicado a una Parte al azar.)"
+      "desc": "Al aplicar efectos positivos a otros aliados con efectos de Habilidad o efectos de Moneda, selecciona al azar uno de los siguientes efectos: Quemadura, Sangrado, Tremor, Ruptura o Ahogo.\nLuego, inflige 1 de Potencia del efecto seleccionado a 1 enemigo al azar. (Se activa 5 veces por Turno. Puede ser aplicado hasta 5 veces por enemigo. Para Anormalidades, aplicado a una Parte al azar.)"
     },
     {
       "id": 2030511,
@@ -358,6 +358,12 @@
       "name": "Tear Film",
       "desc": "Turn Start: If this unit has Shield, gain 1 [Protection]\nIf this unit is under [ShieldManagerCryingToad]'s effect, gain 1 additional [Protection]",
       "summary": "If this unit has Shield, gain 1 [Protection]\nIf [ShieldManagerCryingToad] is active, gain 1 [Protection]"
+    },
+    {
+      "id": 2020611,
+      "name": "Running Time",
+      "desc": "When this unit uses a Skill to trigger [VibrationExplosion] on an enemy, gain 1 [Agility] next turn. (4 times per turn, including E.G.O Skills)",
+      "summary": "When using a Skill to trigger [VibrationExplosion] on an enemy, gain 1 [Agility] next turn. (4 times per turn, including E.G.O Skills)"
     }
   ]
 }

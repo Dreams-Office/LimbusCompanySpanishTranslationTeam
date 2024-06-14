@@ -62,7 +62,7 @@
       "simpleDesc": [
         {
           "abilityID": 1006,
-          "simpleDesc": "Inflige 1 de Quemado"
+          "simpleDesc": "Inflige 1 de Quemadura"
         }
       ]
     },
@@ -125,7 +125,7 @@
     {
       "id": 1016,
       "name": "Emergency Surgical Kit",
-      "desc": "During battle, if an ally takes lethal damage, their HP won’t go below 1.\nOn the next turn, fully heal their HP and gana 3 Surgery.\nThey will die at the end of the battle.\n(Activates once per dungeon, then the Gift expires.)",
+      "desc": "During battle, if an ally takes lethal damage, their HP won’t go below 1.\nOn the next turn, fully heal their HP and gana 3 Cirugía.\nThey will die at the end of the battle.\n(Activates once per dungeon, then the Gift expires.)",
       "simpleDesc": [
         {
           "abilityID": 1016,
@@ -133,7 +133,7 @@
         },
         {
           "abilityID": 10161,
-          "simpleDesc": "Gana 3 Surgery"
+          "simpleDesc": "Gana 3 de Cirugía"
         }
       ]
     },

@@ -81,7 +81,7 @@
         {
           "level": 2,
           "name": "Slice",
-          "desc": "If this Skill is Discarded, gana 1 Offense Level Up\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "If this Skill is Discarded, gana 1 Nivel Ofensivo Aumentado\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -109,7 +109,7 @@
         {
           "level": 4,
           "name": "Slice",
-          "desc": "If this Skill is Discarded, gana 1 Offense Level Up\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "If this Skill is Discarded, gana 1 Nivel Ofensivo Aumentado\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -582,7 +582,7 @@
         {
           "level": 3,
           "name": "Magic Bullet Fire",
-          "desc": "Deal +0.5% damage for every [Combustion] on target (Max 15%)\n\n[BeforeAttack] Gana 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last Ammo)",
+          "desc": "Deal +0.5% damage for every [Combustion] on target (Max 15%)\n\n[BeforeAttack] Gana 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last Munición)",
           "coinlist": [
             {
               "coindescs": [
@@ -596,7 +596,7 @@
         {
           "level": 4,
           "name": "Magic Bullet Fire",
-          "desc": "<style=\"highlight\">Deal +1% damage for every [Combustion] on target (Max 30%)</style>\n\n[BeforeAttack] Gana 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last Ammo)",
+          "desc": "<style=\"highlight\">Deal +1% damage for every [Combustion] on target (Max 30%)</style>\n\n[BeforeAttack] Gana 1 [FreischutzShotCount]\n- Lose (([FreischutzShotCount] -1)x5) SP\n- Atk Weight becomes equal to [FreischutzShotCount] value\n- At 10 or less SP, 50% chance to attack indiscriminately\n\n[EndSkill] If at 7 [FreischutzShotCount], reset to 0 (Counts as spending the last Munición)",
           "coinlist": [
             {
               "coindescs": [

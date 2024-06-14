@@ -88,12 +88,12 @@
     {
       "id": 9100601,
       "name": "Persistence",
-      "desc": "When HP drops below 50%, remove all negative status effects next turn, and gana 4 Fanatic, 1 Attack Power Up, and 1 Poder Defensivo Aumentado each turn."
+      "desc": "When HP drops below 50%, remove all negative status effects next turn, and gana 4 Fanático, 1 Attack Power Up, and 1 Poder Defensivo Aumentado each turn."
     },
     {
       "id": 9100502,
       "name": "Thou Shalt Hammer",
-      "desc": "If this unit is Fanatic, deal +50% damage."
+      "desc": "If this unit is Fanático, deal +50% damage."
     },
     {
       "id": 9004601,
@@ -108,7 +108,7 @@
     {
       "id": 9004603,
       "name": "Caution: Unsteady",
-      "desc": "This unit's stagger threshold rises by 50% more when affected by Estallida de Tremor"
+      "desc": "This unit's stagger threshold rises by 50% more when affected by Estallido de Tremor"
     },
     {
       "id": 9004604,
@@ -153,7 +153,7 @@
     {
       "id": 9100803,
       "name": "Guess I'm the Last",
-      "desc": "When alone, gana 1 Resonant and 1 Tremor Sync every turn."
+      "desc": "When alone, gana 1 Resonant and 1 Tremor Sincronizado every turn."
     },
     {
       "id": 9100804,
@@ -162,23 +162,23 @@
     },
     {
       "id": 9100901,
-      "name": "Entangling Curse Talisman",
-      "desc": "Gain Entangled Curse Talismans by the number of clashes the unit engaged in during a turn."
+      "name": "Talismán Maldito Enredado",
+      "desc": "Gain Talismán Maldito Enredado by the number of clashes the unit engaged in during a turn."
     },
     {
       "id": 9100902,
       "name": "Strangling Curse Talisman",
-      "desc": "At 10 Entangled Curse Talismans, raise stagger threshold by 10, then remove the status."
+      "desc": "At 10 Talismán Maldito Enredado, raise stagger threshold by 10, then remove the status."
     },
     {
       "id": 9100903,
       "name": "Multiplying Curse Talisman",
-      "desc": "At 30% or less HP, Inflige +1 Reattached Curse Talisman"
+      "desc": "At 30% or less HP, Inflige +1 Talismán Maldito Reatado"
     },
     {
       "id": 9100904,
       "name": "Encroaching Curse Talisman",
-      "desc": "At 30% or less HP, if the target has 5+ Reattached Curse Talisman after an attack is finished, Inflige 2 Paralyze next turn."
+      "desc": "At 30% or less HP, if the target has 5+ Talismán Maldito Reatado after an attack is finished, Inflige 2 Paralyze next turn."
     },
     {
       "id": 9006201,
@@ -193,12 +193,12 @@
     {
       "id": 9006101,
       "name": "Intoxication",
-      "desc": "At 5 Morale Boost, gana 5 Tipsy."
+      "desc": "At 5 [Exalted], gana 5 [Tipsiness]."
     },
     {
       "id": 9006102,
       "name": "Hangover Cure",
-      "desc": "At 5 Tipsy, uses a defense skill."
+      "desc": "At 5 [Tipsiness], uses a defense skill."
     },
     {
       "id": 9006801,

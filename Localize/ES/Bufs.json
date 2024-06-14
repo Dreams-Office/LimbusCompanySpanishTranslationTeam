@@ -56,7 +56,7 @@
     {
       "id": "Target",
       "name": "Marcado",
-      "desc": "Targeted by the character with the Passive [Sharp Edge].",
+      "desc": "Priorizado por los personajes con la Pasiva [Hoja Afilada].",
       "undefined": "-"
     },
     {
@@ -141,7 +141,7 @@
     },
     {
       "id": "TimesCoinValueUp",
-      "name": "Mejora de Moneda Multiple",
+      "name": "Mejora Multiplicadora de Moneda",
       "desc": "Poder Multiplicador de Moneda +{0} por este turno.",
       "summary": "Poder Multiplicador de Moneda +{0} por este turno."
     },
@@ -264,7 +264,7 @@
     },
     {
       "id": "Combustion",
-      "name": "Quemado",
+      "name": "Quemadura",
       "desc": "Finalizar Turno: Recibe {0} daño fijo. Dura {1} turno(s).",
       "summary": "{0} Daño fijo a los HP"
     },
@@ -277,7 +277,7 @@
     {
       "id": "Vibration",
       "name": "Tremor",
-      "desc": "Cuando es golpeado por un ataque que activa Estallida de Tremor, aumenta el Umbral de Aturdimiento en {0}. Dura {1} turno(s).",
+      "desc": "Cuando es golpeado por un ataque que activa Estallido de Tremor, aumenta el Umbral de Aturdimiento en {0}. Dura {1} turno(s).",
       "summary": "Aumenta Umbral de Aturdimiento en {0}"
     },
     {
@@ -300,8 +300,8 @@
     },
     {
       "id": "BloodPocket",
-      "name": "Saco de Sangre",
-      "desc": "Usa un poderoso ataque al alcanzar un cierto valor determinado del Contador.",
+      "name": "Bolsa de Sangre",
+      "desc": "Utiliza un poderoso ataque cuando el Contador alcance una cierta cantidad.",
       "summary": "Prepara un poderoso ataque"
     },
     {
@@ -349,7 +349,7 @@
     {
       "id": "Muckworm",
       "name": "Gusanos",
-      "desc": "Finalizar Turno: Recibe daño de Gula igual al Contador, luego disminuye en 1; Contador de Sangrado +1.",
+      "desc": "Finalizar Turno: Recibe Daño de Gula igual al Contador, luego disminuye en 1; Contador de Sangrado +1.",
       "summary": "Daño de Gula; Contador de Sangrado +1"
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "id": "IndigoResistDown",
-      "name": "Resistencia a el Orgullo Reducida",
+      "name": "Resistencia a Orgullo Reducida",
       "desc": "Reduce la Resistencia a Orgullo en un 0.{0}"
     },
     {
@@ -638,7 +638,7 @@
     },
     {
       "id": "Choice_901009",
-      "name": "Fotopía",
+      "name": "Fotópica",
       "desc": "Todas las unidades pierden 1 de Poder Final para el siguiente Encuentro.",
       "summary": "Poder Final de Habilidad -1"
     },
@@ -713,429 +713,429 @@
     },
     {
       "id": "Cromer_Target",
-      "name": "Gaze of the One Who Grips",
-      "desc": "Staggered este turno. Take +100% damage from Kromer."
+      "name": "Mirada de Aquella Que Agarra",
+      "desc": "Aturdido por este turno. Recibe +100% del daño realizado por Kromer."
     },
     {
       "id": "Cromer_Boredom",
-      "name": "Accept the Pain!",
-      "desc": "Deal and take 100% more damage.\nLa Defensa de la habilidad final aumenta en -5."
+      "name": "¡Acepta el Dolor!",
+      "desc": "Realiza y recibe 100% más daño.\nPoder Final de la Habilidad Defensiva -5."
     },
     {
       "id": "Cromer_Ecstasy",
-      "name": "Ecstatic",
-      "desc": "All the Maw’s physical resistances change to ‘Fatal’.",
-      "summary": "Weaken part’s phys. resist"
+      "name": "Éxtasis",
+      "desc": "Todas las resistencias físicas de las Fauces cambian a ‘Fatal’.",
+      "summary": "Debilitamiento de las resistencias físicas de las partes."
     },
     {
       "id": "Cromer_Madness",
-      "name": "Purity",
-      "desc": "All parts gana 3 Bind and 3 Damage Up, and their phys. resistances change to ‘Fatal’."
+      "name": "Pureza",
+      "desc": "Todas las partes ganan 3 Atadura y 3 Daño Aumentado, y sus resistencias físicas cambian a ‘Fatal’."
     },
     {
       "id": "Hardening",
-      "name": "Hardening",
-      "desc": "Inicio de Turno: At 3+ Count, the Arms change into a “perfect” state."
+      "name": "Endurecimiento",
+      "desc": "Inicio de Turno: Con +3 de Contador, los Brazos cambian a un estado \"perfecto\"."
     },
     {
       "id": "Perfected",
-      "name": "Perfect Shell",
-      "desc": "Inicio de Turno: The Arms gana 2 de Poder de Ataque Aumentado. Removed when the Arms’ HP falls below 50%",
-      "summary": "Gana 2 de Poder de Ataque Aumentado"
+      "name": "Cascaron Perfecto",
+      "desc": "Inicio de Turno: Los Brazos ganan 2 Poder de Ataque Aumentado. Removido cuando el HP de los Brazos bajan un 50%",
+      "summary": " Gana 2 de Poder de Ataque Aumentado"
     },
     {
       "id": "Enrage",
-      "name": "Frenzy",
-      "desc": "Gana 3 de Poder de Ataque Aumentado and 3 de Fragilidad this turn, and change behavior. Does not gain Instincts when attacked.",
-      "summary": "Gana 3 de Poder de Ataque Aumentado & 3 de Fragilidad"
+      "name": "Frenesí",
+      "desc": "Gana 3 Poder de Ataque Aumentado y 3 Frágil este turno, y cambia el comportamiento. No gana Instintos cuando es atacado.",
+      "summary": "Gana 3 de Poder de Ataque Aumentado y 3 de Frágil"
     },
     {
       "id": "Aggressive",
-      "name": "Instincts",
-      "desc": "Turn End: At 4+ Count, change to an “aggressive” state."
+      "name": "Instintos",
+      "desc": "Finalizar Turno: con 4+ de Contador, cambia a estado \"Agresivo\"."
     },
     {
       "id": "Whistle_Courage",
-      "name": "Courage to Triumph Fear",
-      "desc": "Inicio de Turno: Gana 1 de Poder de Ataque Aumentado and 2 Protection.",
-      "summary": "Gana 1 de Poder de Ataque Aumentado & 2 Protection"
+      "name": "Valor para Triunfar ante el Miedo",
+      "desc": "Inicio de Turno: Gana 1 Poder de Ataque Aumentado y 2 Protección.",
+      "summary": "Gana 1 Poder de Ataque Aumentado y 2 Protección"
     },
     {
       "id": "Whistle_Fear",
-      "name": "Fearsome Whistles",
-      "desc": "Inicio de Turno: Gana 1 Bind and 1 Parálisis.",
-      "summary": "Gana 1 Bind & 1 Parálisis"
+      "name": "Silbidos Temibles",
+      "desc": "Inicio de Turno: Gana 1 Atadura y 1 Parálisis",
+      "summary": "Gana 1 Atadura y 1 Parálisis"
     },
     {
       "id": "SlashTakeDamageDown",
-      "name": "Slash Protection",
-      "desc": "Take -{0}0% damage from Slash skills this turn. (Max 100%)",
-      "summary": "Slash Daño Recibido -{0}0%"
+      "name": "Protección a Cortante",
+      "desc": "Recibe -{0}0% daño de habilidades Cortantes este turno. (Máx 100%)",
+      "summary": "Daño Cortante recibido -{0}0%"
     },
     {
       "id": "PenetrateTakeDamageDown",
-      "name": "Pierce Protection",
-      "desc": "Take -{0}0% damage from Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce Daño Recibido -{0}0%"
+      "name": "Protección a Perforante",
+      "desc": "Recibe -{0}0% daño de habilidades Perforantes este turno. (Máx 100%)",
+      "summary": "Daño Perforante recibido -{0}0%"
     },
     {
       "id": "HitTakeDamageDown",
-      "name": "Blunt Protection",
-      "desc": "Take -{0}0% damage from Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt Daño Recibido -{0}0%"
+      "name": "Protección a Contundente",
+      "desc": "Recibe -{0}0% daño de habilidades Contundentes este turno. (Máx 100%)",
+      "summary": "Daño Contundente recibido -{0}0%"
     },
     {
       "id": "CrimsonTakeDamageDown",
-      "name": "Wrath Protection",
-      "desc": "Take -{0}0% damage from Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath Daño Recibido -{0}0%"
+      "name": "Protección a Ira",
+      "desc": "Recibe -{0}0% de daño de habilidades de Ira este turno. (Máx 100%)",
+      "summary": "Daño de Ira recibido -{0}0%"
     },
     {
       "id": "ScarletTakeDamageDown",
-      "name": "Lust Protection",
-      "desc": "Take -{0}0% damage from Lust skills this turn. (Max 100%)",
-      "summary": "Lust Daño Recibido -{0}0%"
+      "name": "Protección a Lujuria",
+      "desc": "Recibe -{0}0% daño de habilidades de Lujuria este turno. (Máx 100%)",
+      "summary": "Daño de Lujuria recibido -{0}0%"
     },
     {
       "id": "AmberTakeDamageDown",
-      "name": "Protección de Pereza",
-      "desc": "Take -{0}0% damage from Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth Daño Recibido -{0}0%"
+      "name": "Protección a Pereza",
+      "desc": "Recibe -{0}0% daño de habilidades de Pereza este turno. (Máx 100%)",
+      "summary": "Daño de Pereza recibido -{0}0%"
     },
     {
       "id": "ShamrockTakeDamageDown",
-      "name": "Gluttony Protection",
-      "desc": "Take -{0}0% damage from Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony Daño Recibido -{0}0%"
+      "name": "Protección a Gula",
+      "desc": "Recibe -{0}0% daño de habilidades de Gula este turno. (Máx 100%)",
+      "summary": "Daño de Gula recibido -{0}0%"
     },
     {
       "id": "AzureTakeDamageDown",
-      "name": "Gloom Protection",
-      "desc": "Take -{0}0% damage from Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom Daño Recibido -{0}0%"
+      "name": "Protección a Melancolía",
+      "desc": "Recibe -{0}0% daño de habilidades de Melancolía este turno. (Máx 100%)",
+      "summary": "Daño de Melancolía recibido -{0}0%"
     },
     {
       "id": "IndigoTakeDamageDown",
-      "name": "Pride Protection",
-      "desc": "Take -{0}0% damage from Pride skills this turn. (Max 100%)",
-      "summary": "Pride Daño Recibido -{0}0%"
+      "name": "Protección a Orgullo",
+      "desc": "Recibe -{0}0% daño de habilidades de Orgullo este turno. (Máx 100%)",
+      "summary": "Daño de Orgullo recibido -{0}0%"
     },
     {
       "id": "VioletTakeDamageDown",
-      "name": "Envy Protection",
-      "desc": "Take -{0}0% damage from Envy skills this turn. (Max 100%)",
-      "summary": "Envy Daño Recibido -{0}0%"
+      "name": "Protección a Envidia",
+      "desc": "Recibe -{0}0% daño de habilidades de Envidia este turno. (Máx 100%)",
+      "summary": "Daño de Envidia recibido -{0}0%"
     },
     {
       "id": "SlashTakeDamageUp",
-      "name": "Fragilidad Cortante",
-      "desc": "Take +{0}0% damage from Slash skills this turn. (Max 100%)",
-      "summary": "Slash Daño Recibido +{0}0%"
+      "name": "Fragilidad a lo Cortante",
+      "desc": "Recibe +{0}0% de daño de habilidades Cortantes este turno. (Máx 100%)",
+      "summary": "Daño Cortante recibido +{0}0%"
     },
     {
       "id": "PenetrateTakeDamageUp",
-      "name": "Fragilidad Perforante",
-      "desc": "Take +{0}0% damage from Pierce skills this turn. (Max 100%)",
-      "summary": "Pierce Daño Recibido +{0}0%"
+      "name": "Fragilidad a lo Perforante",
+      "desc": "Recibe +{0}0% de daño de habilidades Perforantes este turno. (Máx 100%)",
+      "summary": "Daño Perforante recibido +{0}0%"
     },
     {
       "id": "HitTakeDamageUp",
-      "name": "Fragildiad Contundente",
-      "desc": "Take +{0}0% damage from Blunt skills this turn. (Max 100%)",
-      "summary": "Blunt Daño Recibido +{0}0%"
+      "name": "Fragilidad a lo Contundente",
+      "desc": "Recibe +{0}0% de daño de habilidades Contundentes este turno. (Máx 100%)",
+      "summary": "Daño Contundente recibido +{0}0%"
     },
     {
       "id": "CrimsonTakeDamageUp",
-      "name": "Fragildiad en Ira",
-      "desc": "Take +{0}0% damage from Wrath skills this turn. (Max 100%)",
-      "summary": "Wrath Daño Recibido +{0}0%"
+      "name": "Fragilidad a la Ira",
+      "desc": "Recibe +{0}0% de daño de habilidades de Ira este turno. (Máx 100%)",
+      "summary": "Daño de Ira recibido +{0}0%"
     },
     {
       "id": "ScarletTakeDamageUp",
-      "name": "Fragildiad en Lujuria",
-      "desc": "Take +{0}0% damage from Lust skills this turn. (Max 100%)",
-      "summary": "Lust Daño Recibido +{0}0%"
+      "name": "Fragilidad a la Lujuria",
+      "desc": "Recibe +{0}0% de daño de habilidades de Lujuria este turno. (Máx 100%)",
+      "summary": "Daño de Lujuria recibido +{0}0%"
     },
     {
       "id": "AmberTakeDamageUp",
-      "name": "Fragildiad en Pereza",
-      "desc": "Take +{0}0% damage from Sloth skills this turn. (Max 100%)",
-      "summary": "Sloth Daño Recibido +{0}0%"
+      "name": "Fragilidad a la Pereza",
+      "desc": "Recibe +{0}0% de daño de habilidades de Pereza este turno. (Máx 100%)",
+      "summary": "Daño de Pereza recibido +{0}0%"
     },
     {
       "id": "ShamrockTakeDamageUp",
-      "name": "Fragildiad en Gula",
-      "desc": "Take +{0}0% damage from Gluttony skills this turn. (Max 100%)",
-      "summary": "Gluttony Daño Recibido +{0}0%"
+      "name": "Fragilidad a la Gula",
+      "desc": "Recibe +{0}0% de daño de habilidades de Gula este turno. (Máx 100%)",
+      "summary": "Daño de Gula recibido +{0}0%"
     },
     {
       "id": "AzureTakeDamageUp",
-      "name": "Fragildiad en Melancolía",
-      "desc": "Take +{0}0% damage from Gloom skills this turn. (Max 100%)",
-      "summary": "Gloom Daño Recibido +{0}0%"
+      "name": "Fragilidad a la Melancolía",
+      "desc": "Recibe +{0}0% de daño de habilidades de Melancolía este turno. (Máx 100%)",
+      "summary": "Daño de Melancolía recibido +{0}0%"
     },
     {
       "id": "IndigoTakeDamageUp",
-      "name": "Fragildiad en Orgullo",
-      "desc": "Take +{0}0% damage from Pride skills this turn. (Max 100%)",
-      "summary": "Pride Daño Recibido +{0}0%"
+      "name": "Fragildiad al Orgullo",
+      "desc": "Recibe +{0}0% de daño de habilidades de Orgullo este turno. (Máx 100%)",
+      "summary": "Daño de Orgullo recibido +{0}0%"
     },
     {
       "id": "VioletTakeDamageUp",
-      "name": "Fragildiad en Envidia",
-      "desc": "Take +{0}0% damage from Envy skills this turn. (Max 100%)",
-      "summary": "Envy Daño Recibido +{0}0%"
+      "name": "Fragilidad a la Envidia",
+      "desc": "Recibe +{0}0% de daño de habilidades de Envidia este turno. (Máx 100%)",
+      "summary": "Daño de Envidia recibido +{0}0%"
     },
     {
       "id": "LittleCourage",
-      "name": "A Sign",
-      "desc": "Sinclair’s determination to stand up to Kromer. Once three strokes have been drawn…",
-      "summary": "Sinclair’s Will"
+      "name": "Una Marca",
+      "desc": "La determinación de Sinclair para encarar a Kromer. Una vez que 3 golpes se hayan dado...",
+      "summary": "La voluntad de Sinclair"
     },
     {
       "id": "NailPersonality",
       "name": "Clavos",
-      "desc": "Unique Sangrado\nInicio de Turno: Gana 1 Sangrado and increase the Sangrado Count by {0}.\nTurn End: Halve this effect’s Count. (Rounded down)",
-      "summary": "Gana 1 Sangrado and add +{0} Sangrado Count"
+      "desc": "Sangrado Único\nInicio de Turno: Gana 1 de Sangrado e incrementa el Contador de Sangrado en {0}\nFinalizar Turno: Divide a la mitad el contador de este efecto. (Redondeado hacia abajo)",
+      "summary": "Gana 1 de Sangrado y añade +{0} al Contador de Sangrado."
     },
     {
       "id": "AssemblePersonality",
       "name": "Fanático",
-      "desc": "Poder Final de Habilidad +{0} against units with Nails este turno. (Applies to clashes as well)",
+      "desc": "Poder Final de la Habilidad +{0} contra unidades con Clavos este turno. (Aplica igualmente para Choques)",
       "summary": "Poder Final +{0}"
     },
     {
       "id": "MarkOfHeresy",
-      "name": "Gaze",
-      "desc": "Take +20% damage from Pierce and Blunt skills this turn.\nThe ally that defeats the marked unit heals 10 SP; if the ally is from N Corp, also apply 1 Fanático next turn.",
-      "summary": "Pierce & Blunt Daño Recibido +20%"
+      "name": "Mirada",
+      "desc": "Recibe +20% de daño de habilidades Perforantes y Contundentes este turno.\nEl aliado que derrote a la unidad marcada se cura 10 PC; si es un aliado de la N Corp, además aplica 1 Fanático el siguiente turno.",
+      "summary": "Daño Perforante y Contundente +20%"
     },
     {
       "id": "HitResultUp",
-      "name": "Daño Contundente Aumentado",
-      "desc": "Blunt Poder Final de Habilidad +{0} este turno.",
-      "summary": "Blunt Poder Final de Habilidad +{0}"
+      "name": "Poder Contundente Aumentado",
+      "desc": "Daño final de la habilidad Contundente +{0} por este turno.",
+      "summary": "Poder Final de la Habilidad Contundente +{0}"
     },
     {
       "id": "WeaknessAnalysis",
       "name": "Debilidad Analizada",
-      "desc": "A random “Endure” or “Normal” attack type resistance is weakened [+0.2 to damage multiplier] este turno.",
-      "summary": "Weaken [+0.2 dmg multi] an “Endured” or “Normal” resistance"
+      "desc": "Un tipo de resistencia \"Resistente\" o \"Normal\" al azar es debilitada [+0.2 al multiplicador de daño] por un turno.",
+      "summary": "Debilita [+0.2 multiplicador de daño] a una resistencia \"Resistente\" o \"Normal\""
     },
     {
       "id": "Cycle",
       "name": "Karma",
-      "desc": "Take +{0}% damage. Turn End: Die at 108+ Count.",
-      "summary": "My Form Empties’ Passive"
+      "desc": "Recibe +{0}% de daño. Finalizar Turno: Muere cuando el contador llega a 108.",
+      "summary": "Pasiva de Mi Forma Vacua"
     },
     {
       "id": "Duress",
-      "name": "Captivity",
-      "desc": "Become Staggered for 3 turns.\nInicio de Turno: If Kqe-1j-23 is Staggered, remove this status.",
-      "summary": "Kqe’s Passive"
+      "name": "Cautividad",
+      "desc": "Queda Aturdido durante 3 turnos.\nInicio de Turno: Si Kqe-1j-23 está Aturdido, remueve este efecto",
+      "summary": "Pasiva de Kqe-1j-23"
     },
     {
       "id": "VioletResultUp",
       "name": "Poder de Envidia Aumentado",
-      "desc": "Envy Poder Final de Habilidad +{0} este turno.",
-      "summary": "Envy Poder Final de Habilidad +{0}"
+      "desc": "Poder Final de la Habilidad de Envidia +{0} por este turno.",
+      "summary": "Poder Final de la Habilidad de Envidia +{0}"
     },
     {
-      "id": "CyclingKarma",
-      "name": "Cyclical Karma",
-      "desc": "All units transfer their Karma to their targets after a successful attack.\nKarma is not transferred to My Form Empties as long as its allies are alive.",
-      "summary": "Karma transfers on hit"
+      "id": "Ciclo Kármico",
+      "name": "Ciclo Kármico",
+      "desc": "Todas las unidades transfieren su Karma a sus respectivos objetivos después de un ataque exitoso.\nKarma no es transferido a Mi Forma Vacua mientras sus aliados estén vivos.",
+      "summary": "Al golpear se transfiere Karma"
     },
     {
       "id": "TakeHpHealReduce",
       "name": "Curación de HP Reducida",
-      "desc": "Heal -{0}0% HP from Passives, Skills, and Coin effects this turn. (Max 5)",
-      "summary": "HP Healing -{0}0%"
+      "desc": "Cura -{0}0% HP de Pasivas, Habilidades o efectos de Monedas este turno. (Máx 5)",
+      "summary": "Curación de HP -{0}0%"
     },
     {
       "id": "AttackLevelAdder",
-      "name": "Offense Level+",
-      "desc": "Offense Level +{0} este turno.",
-      "summary": "Offense Level +{0}"
+      "name": "Nivel Ofensivo+",
+      "desc": "Nivel Ofensivo +{0} por este turno.",
+      "summary": "Nivel Ofensivo +{0}"
     },
     {
       "id": "Thirst",
       "name": "Apetito",
-      "desc": "+{0}0% healing from [Rustle Up].\nSpent when the Passive activates.",
-      "summary": "[Rustle Up] healing +{0}0% HP"
+      "desc": "+{0}0% curación de [Comida Instantánea]\nSe gasta cuando la Pasiva se activa.",
+      "summary": "[Comida Instantánea] healing +{0}0% HP"
     },
     {
       "id": "GainSinStockAdder",
-      "name": "E.G.O Resource Amp",
-      "desc": "Gain +{0} E.G.O resources from using skills this turn.",
-      "summary": "+{0} E.G.O resource gain"
+      "name": "Amplificador de Recursos E.G.O",
+      "desc": "Gana +{0} recursos E.G.O de habilidades usadas este turno.",
+      "summary": "+{0} Ganancia de recursos E.G.O"
     },
     {
       "id": "Weak_Chicken",
-      "name": "Poultry Apocalypse",
-      "desc": "The reaction wrought by the Sinners’ cooking. Loses HP by 40% of Max HP.",
+      "name": "Apocalipsis Avícola",
+      "desc": "La reacción provocada por el arte culinario de los Pecadores. Pierde HP en un 40% del HP Máx.",
       "summary": "HP -40%"
     },
     {
       "id": "Strong_Chicken",
-      "name": "Unvented Anger",
-      "desc": "Gana 1 de Poder de Ataque Aumentado every turn.",
+      "name": "Ira Aguantada",
+      "desc": "Gana 1 de Poder de Ataque Aumentado cada turno.",
       "summary": "Gana 1 de Poder de Ataque Aumentado"
     },
     {
       "id": "DimensionRift",
       "name": "Grieta Dimensional",
-      "desc": "Turn End: Gain +{0} Ruptura Count",
-      "summary": "Increase Ruptura Count"
+      "desc": "Finalizar Turno: Gana +{0} Contador de Ruptura",
+      "summary": "Incrementa el Contador de Ruptura"
     },
     {
       "id": "Scared",
-      "name": "Fear",
-      "desc": "Turn End: At -20 SP or lower, gana 1 Protection next turn.",
-      "summary": "Turn End: At -20 SP or lower, gana 1 Protection next turn."
+      "name": "Miedo",
+      "desc": "Finalizar Turno: A -20 PC o menos, gana 1 Protección el siguiente turno.",
+      "summary": "Finalizar Turno: A -20 PC o menos, gana 1 Protección el siguiente turno."
     },
     {
       "id": "Stressed",
-      "name": "Stressed",
-      "desc": "Turn End: At -25 SP or lower, gana 1 Poder Defensivo Aumentado next turn",
-      "summary": "Turn End: At -25 SP or lower, gana 1 Poder Defensivo Aumentado next turn"
+      "name": "Estresado",
+      "desc": "Finalizar Turno: A -25 PC o menos, gana 1 Poder Defensivo Aumentado el siguiente turno",
+      "summary": "Finalizar Turno: A -25 PC o menos, gana 1 Poder Defensivo Aumentado el siguiente turno"
     },
     {
       "id": "Nervous",
-      "name": "Nervous",
-      "desc": "Turn End: At -15 SP or lower, gana 5 Nivel de Defensa Positivo next turn",
-      "summary": "Turn End: At -15 SP or lower, gana 5 Nivel de Defensa Positivo next turn"
+      "name": "Nervioso",
+      "desc": "Finalizar turno: A -15 PC o menos, gana 5 Nivel Defensivo Aumentado el siguiente turno",
+      "summary": "Finalizar turno: A -15 PC o menos, gana 5 Nivel Defensivo Aumentado el siguiente turno"
     },
     {
       "id": "ShardOfUmbrella",
-      "name": "Umbrella Splinters",
-      "desc": "Turn End: Gain {0} x 5 Ruptura",
-      "summary": "Turn End: Gain {0} x 5 Ruptura"
+      "name": "Esquirlas de Paraguas",
+      "desc": "Finalizar Turno: Gana {0} x5 de Ruptura",
+      "summary": "Finalizar Turno: Gana {0} x5 de Ruptura"
     },
     {
       "id": "WrappedCurseTag",
-      "name": "Entangled Curse Talisman",
-      "desc": "Deal +{0}% damage\nAt 9+ Count, gana 2 Poder de Ataque Reducido at Inicio de Turno",
-      "summary": "Deal +{0}% damage; at 9+ Count, gana 2 Poder de Ataque Reducido at Inicio de Turno"
+      "name": "Talismán Maldito Enredado",
+      "desc": "Inflige +{0}% de daño\na +9 Contador, gana 2 de Poder de Ataque Reducido al inicio del turno",
+      "summary": "Inflige +{0}% de daño; con 9+ de Contador, gana 2 de Poder de Ataque Reducido al inicio del turno"
     },
     {
       "id": "ReattachedCurseTag",
-      "name": "Reattached Curse Talisman",
-      "desc": "At 9+, gana 5 Bind at the start of the turn.\nAt 12+, gana 5 Poder de Ataque Reducido at the start of the turn.",
-      "summary": "At 9+, gana 5 Bind at the start of the turn.\nAt 12+, gana 5 Poder de Ataque Reducido at the start of the turn."
+      "name": "Talismán Maldito Reatado",
+      "desc": "A partir de 9+, gana 5 Atadura al inicio del turno.\nA partir de 12+, gana 5 Poder de Ataque Reducido al inicio del turno.",
+      "summary": "A partir de 9+, gana 5 Atadura al inicio del turno.\nA partir de 12+, gana 5 Poder de Ataque Reducido al inicio del turno."
     },
     {
       "id": "ElectricStorage",
-      "name": "Capacitor",
-      "desc": "It seems to be storing electricity in its body.",
+      "name": "Condensador",
+      "desc": "Parece que está almacenando electricidad en su cuerpo.",
       "summary": "표시용"
     },
     {
       "id": "SelfCharge",
-      "name": "Self-charge",
-      "desc": "Electric currents seem to flow around its body.\nAfter the unit faces death, as long as it has Self-charge, its HP is fixed at 1 until it is fully consumed. (Max 20)",
+      "name": "Autocarga",
+      "desc": "Las corrientes de electricidad parecen estar fluyendo alrededor de su cuerpo.\nDespués de que esta unidad enfrente la muerte, mientras tenga Autocarga, su HP es fijada a 1 hasta que sea totalmente consumida. (Máx 20)",
       "summary": "표시용"
     },
     {
       "id": "Exalted",
-      "name": "Morale Boost",
-      "desc": "Gain {0} Damage Up every turn (Max 5)\nCannot gain the status while Tipsy",
+      "name": "Subida de Moral",
+      "desc": "Gana {0} Daño Aumentado cada turno (Máx 5)\nNo puede ganar este estado mientras está Emborrachado",
       "summary": "Gain Damage Up by the effect's Count every turn; Cannot gain the status while Tipsy"
     },
     {
       "id": "Tipsiness",
-      "name": "Tipsy",
-      "desc": "Clash Power -{0} (Max 5)",
-      "summary": "Lose Clash Power by the effect's Count"
+      "name": "Emborrachado",
+      "desc": "Poder de Choque -{0} (Máx 5)",
+      "summary": "Pierde Poder de Choque por el Contador del efecto"
     },
     {
       "id": "Predation",
-      "name": "Predation",
-      "desc": "It seems to be preparing a powerful move.",
+      "name": "Depredación",
+      "desc": "Parece que está preparando un movimiento poderoso..",
       "summary": "표시용"
     },
     {
       "id": "ATL_Agility",
-      "name": "Faster!",
-      "desc": "Gana 2 Haste",
+      "name": "¡Rápido!",
+      "desc": "Gana 2 de Rapidez",
       "summary": "표시용"
     },
     {
       "id": "ATL_Breath",
-      "name": "Aim True!",
+      "name": "¡Precisión!",
       "desc": "Gana 3 de Temple",
       "summary": "표시용"
     },
     {
       "id": "ATL_Target",
-      "name": "Get 'Em!",
-      "desc": "Simultaneously attacks one unit",
+      "name": "¡A por ellos!",
+      "desc": "Ataca simultáneamente una unidad",
       "summary": "표시용"
     },
     {
       "id": "ATL_EndureCombustion",
-      "name": "Quemado Resistance",
-      "desc": "When taking damage from Quemado, reduce the damage by {0}0% (Max 10)",
-      "summary": "When taking damage from Quemado, take {0}0% less damage"
+      "name": "Resistencia a la Quemadura",
+      "desc": "Cuando se recibe daño de Quemadura, reduce el daño en 10% por Contador (Máx 10)",
+      "summary": "Cuando recibe daño de Quemado, recibe {0}0% menos de daño"
     },
     {
       "id": "Resonate",
-      "name": "Resonant",
-      "desc": "When triggering Tremor Burst or raising Stagger Threshold, deal {0} * 3 fixed damage and raise Stagger Threshold by {0} * 3%",
-      "summary": "When triggering Tremor Burst or raising Stagger Thresholds, deal damage and raise Stagger Threshold further"
+      "name": "Resonante",
+      "desc": "Cuando activas Estallido de Tremor o aumentas el Umbral de Aturdimiento, inflige {0} * 3 de daño fijo y Aumenta Umbral de Aturdimiento en {0} * 3%",
+      "summary": "Cuando activas Estallido de Tremor o aumentas el Umbral de Aturdimiento, inflige daño y aumenta más el Umbral de Aturdimiento"
     },
     {
       "id": "VibrationAssimilation",
-      "name": "Tremor Sync",
-      "desc": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have",
-      "summary": "In a clash, the opponent has -1 Clash Power for every 5 Tremor they have"
+      "name": "Tremor Sincronizado",
+      "desc": "En un choque, el oponente tiene -1 de Poder de Choque por cada 5 Tremor que tenga",
+      "summary": "En un choque, el oponente tiene -1 de Poder de Choque por cada 5 Tremor que tenga"
     },
     {
       "id": "CollapseAmpoule",
-      "name": "Decay Ampule",
-      "desc": "Take damage by {0} * 2% of Max HP",
-      "summary": "Take damage by {0} * 2% of Max HP"
+      "name": "Vial de Descomposición",
+      "desc": "Recibe daño en {0} * 2% del Máx. HP",
+      "summary": "Recibe daño en {0} * 2% del Máx. HP"
     },
     {
       "id": "InterlockingTime",
-      "name": "Interlocking Time",
-      "desc": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 1.5 times the accumulated damage, and gana 3 Bind next turn.",
-      "summary": "Reduce final damage by 30% and store it. At 3 Count, take fixed damage by 1.5 times the accumulated damage, and gana 3 Bind next turn."
+      "name": "Tiempo Entrelazado",
+      "desc": "Reduce el daño final en un 30% y lo guarda. Con 3 de Contador, recibe daño fijo por 1.5 veces el daño acumulado, y gana 3 de Atadura el siguiente turno.",
+      "summary": "Reduce el daño final en un 30% y lo guarda. Con 3 de Contador, recibe daño fijo por 1.5 veces el daño acumulado, y gana 3 de Atadura el siguiente turno."
     },
     {
       "id": "TimeRental",
-      "name": "Borrowed Time",
-      "desc": "Turn End: Gana 3 Haste and 2 Damage Up; If only 1 Count remains, gana 4 Bind and 1 Poder de Ataque Reducido",
-      "summary": "Turn End: Gana 3 Haste and 2 Damage Up; If only 1 Count remains, gana 4 Bind and 1 Poder de Ataque Reducido"
+      "name": "Tiempo Prestado",
+      "desc": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder de Ataque Reducido",
+      "summary": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder de Ataque Reducido"
     },
     {
       "id": "Bull_FadedHeat",
-      "name": "Momentary Cool",
-      "desc": "Core and body lose 50% Max HP"
+      "name": "Frío Momentánea",
+      "desc": "El Cuerpo y el Núcleo pierden un 50% de HP máximo"
     },
     {
       "id": "Bull_Fever",
-      "name": "Fever",
-      "desc": "Deal +{0}0% damage\nTurn End: Reduce Count by 1",
+      "name": "Fiebre",
+      "desc": "Inflige +{0} 0% de daño\nFin del Turno: Reduce el Contador en 1",
       "summary": ""
     },
     {
       "id": "Bull_Sadness",
-      "name": "Unresolved Sorrow",
-      "desc": "Gain Poder de Ataque Reducido by the Count next turn.\nTurn End: At 3+ Count, changes to Expanding Sorrow.",
+      "name": "Pena sin Resolver",
+      "desc": "Gana Poder de Ataque Baja al Contador en el próximo turno.\nFin de Turno: Con el Contador 3+, cambia a Pena Creciente.",
       "summary": ""
     },
     {
       "id": "Bull_ReinforcedSadness",
-      "name": "Expanding Sorrow",
-      "desc": "Changes behavior.",
-      "summary": "Changes behavior."
+      "name": "Pena Creciente",
+      "desc": "Cambia el comportamiento..",
+      "summary": "Cambia el comportamiento.."
     },
     {
       "id": "Bull_BuzzingEmotion",
-      "name": "Wavering Emotions",
-      "desc": "Inicio de Turno: Randomly gain Poder de Ataque Reducido, Parálisis, or Bind by this effect's Count, then remove this effect",
-      "summary": "Inicio de Turno: Randomly gain Poder de Ataque Reducido, Parálisis, or Bind by this effect's Count, then remove this effect"
+      "name": "Emociones Vacilantes",
+      "desc": "Inicio de Turno: Gana aleatoriamente Poder de Ataque Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto.",
+      "summary": "Inicio de Turno: Gana aleatoriamente Poder de Ataque Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto."
     },
     {
       "id": "Crazy_LowMorale",
@@ -1211,7 +1211,7 @@
     },
     {
       "id": "ATL_EndureLaceration",
-      "name": "Sangrado Resistance",
+      "name": "Resistencia al Sangrado",
       "desc": "When taking damage from Sangrado, reduce the damage by {0}0% (Max 10)",
       "summary": "When taking damage from Sangrado, take {0}0% less damage"
     },
@@ -1614,7 +1614,7 @@
     },
     {
       "id": "RailBuffForLine2_M_ALLY",
-      "name": "Quemado Boost"
+      "name": "Quemadura Boost"
     },
     {
       "id": "RailBuffForLine2_N_ALLY",
@@ -1679,7 +1679,7 @@
     },
     {
       "id": "VibrationExplosion",
-      "name": "Estallida de Tremor",
+      "name": "Estallido de Tremor",
       "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
     },
     {
@@ -1700,7 +1700,7 @@
     {
       "id": "DarkFlame",
       "name": "Dark Flame",
-      "desc": "- Unique Quemado\n- Max Value: 7\n- Target Defense Level -{0}\n- Turn End: Deal ({0} x Quemado on target) Pride Affinity damage, then expires"
+      "desc": "- Unique Quemadura\n- Max Value: 7\n- Target Defense Level -{0}\n- Turn End: Deal ({0} x Quemadura on target) Pride Affinity damage, then expires"
     },
     {
       "id": "CtrlTeamCaptain",
@@ -1710,12 +1710,12 @@
     {
       "id": "HeatedGasHarpoon",
       "name": "Heated Gas Harpoon",
-      "desc": "This Turn: Inflige 1 Quemado with Heads Hit"
+      "desc": "This Turn: Inflige 1 Quemadura with Heads Hit"
     },
     {
       "id": "OverHeatedGasHarpoon",
       "name": "Overheated Gas Harpoon",
-      "desc": "This Turn: Inflige 1 Quemado On Hit"
+      "desc": "This Turn: Inflige 1 Quemadura On Hit"
     },
     {
       "id": "CoverAttack",
@@ -1941,6 +1941,12 @@
       "id": "ShieldManagerCryingToad",
       "name": "Blubberbubble",
       "desc": "- This effect counts as a 'Shield Management' effect.\n- Turn End: Reduce Count by 1\n- This unit does not lose Shield at Turn End as long as it has the Blubberbubble effect (unless depleted by damage or effect)\n- If the Shield affected by Blubberbubble breaks due to taking damage, inflict 4 Sinking Potency/Count against the attacker. (How much of that '4' value is Potency or Count is randomly determined)\n- This unit can stack their Shield value by using this effect. However, as long as Blubberbubble is in effect, the Shield value cannot exceed 60% of this unit's Max HP.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationContinue",
+      "name": "Tremor - Eternidad",
+      "desc": "- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Potency on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Count on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     }
   ]

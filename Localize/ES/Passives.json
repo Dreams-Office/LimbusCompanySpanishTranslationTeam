@@ -67,7 +67,7 @@
     },
     {
       "id": 1050201,
-      "name": "Great Mountain",
+      "name": "Monte Tai",
       "desc": "When attacked, Inflige 1 Burn on a random enemy.\n(Up to 4 times)"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "id": 1110301,
-      "name": "Morale Boost",
+      "name": "Subida de Moral",
       "desc": "Next turn, apply 2 Haste to self and allies who are adjacent to this unit on the Dashboard this turn."
     },
     {
@@ -208,7 +208,7 @@
     {
       "id": 1020121,
       "name": "Keen Observation",
-      "desc": "1 ally with the highest Max HP inflicts 2 Offense Level Down with attacks at a 25% chance."
+      "desc": "1 ally with the highest Max HP inflicts 2 Nivel Ofensivo Reducidowith attacks at a 25% chance."
     },
     {
       "id": 1020221,
@@ -488,7 +488,7 @@
     {
       "id": 1070421,
       "name": "Cantillation",
-      "desc": "1 ally with the highest Speed inflicts +1 Nails."
+      "desc": "1 ally with the highest Speed inflicts +1 Clavos."
     },
     {
       "id": 1110401,
@@ -512,7 +512,7 @@
     },
     {
       "id": 1040401,
-      "name": "Rustle Up",
+      "name": "Comida Instantánea",
       "desc": "After defeating an enemy, heal the ally with the least HP for 15 HP. (Once per turn.)\nIf this unit has an Appetite, spend it to boost the healing based on its Count."
     },
     {
@@ -543,7 +543,7 @@
     {
       "id": 1030401,
       "name": "Thou Shalt Hammer!",
-      "desc": "If the target has Nails, Inflige +1 Tremor Count.\nIf this unit is de Fanático, Inflige +1 Nails."
+      "desc": "If the target has Clavos, Inflige +1 Tremor Count.\nIf this unit is de Fanático, Inflige +1 Clavos."
     },
     {
       "id": 1030421,
@@ -850,12 +850,12 @@
     {
       "id": 1120701,
       "name": "Bullets are Pricey",
-      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
+      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
     },
     {
       "id": 1120702,
       "name": "Bullets are Pricey",
-      "desc": "<style=\"highlight\">- Always Activate : Begin encounters with 7 Ammo</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\">- If a Coin that uses Ammo hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage.</style>\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage"
+      "desc": "<style=\"highlight\">- Always Activate : Begin encounters with 7 Munición</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\">- If a Coin that uses Munición hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage.</style>\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage"
     },
     {
       "id": 1120721,
@@ -870,22 +870,22 @@
     {
       "id": 1040602,
       "name": "A S.B.",
-      "desc": "<style=\"highlight\">- Always Active : Begin encounters with 7 Ammo</style>\n- If this unit has 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> at Turn End, heal 8 SP."
+      "desc": "<style=\"highlight\">- Always Active : Begin encounters with 7 Munición</style>\n- If this unit has 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> at Turn End, heal 8 SP."
     },
     {
       "id": 1040611,
       "name": "A S.B.",
-      "desc": "- Always Active : Begin encounters with 7 Ammo\n- If this unit has 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> at Turn End, heal 8 SP.\n<style=\"highlight\">- If this unit already has max SP upon meeting the above condition, gana 1 de Temple el siguiente turno</style>"
+      "desc": "- Always Active : Begin encounters with 7 Munición\n- If this unit has 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> at Turn End, heal 8 SP.\n<style=\"highlight\">- If this unit already has max SP upon meeting the above condition, gana 1 de Temple el siguiente turno</style>"
     },
     {
       "id": 1040621,
       "name": "The Lucky Cig",
-      "desc": "If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> uses up their last <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> with a Skill, deal 50% of the Skill's damage as bonus damage to that Skill's target at Attack End."
+      "desc": "If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u> uses up their last <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u> with a Skill, deal 50% of the Skill's damage as bonus damage to that Skill's target at Attack End."
     },
     {
       "id": 1040631,
       "name": "The Lucky Cig",
-      "desc": "<style=\"highlight\">- If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> uses a Skill that spends <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u>, gana 3 Poise (once per turn; does not apply to allies without Ammo)</style>\n- If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> uses up their last <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Ammo</color></link></u> with a Skill, deal 50% of the Skill's damage as bonus damage to that Skill's target at Attack End."
+      "desc": "<style=\"highlight\">- If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u> uses a Skill that spends <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u>, gana 3 Poise (once per turn; does not apply to allies without Munición)</style>\n- If 1 ally with the least <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u> uses up their last <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u> with a Skill, deal 50% of the Skill's damage as bonus damage to that Skill's target at Attack End."
     },
     {
       "id": 1030601,
@@ -1144,12 +1144,12 @@
     {
       "id": 1120821,
       "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 10+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
+      "desc": "When 1 ally with the slowest Speed hits an enemy with 10+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn (3 times per turn)"
     },
     {
       "id": 1120831,
       "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 7+ [Laceration], inflict 1 Offense Level Down next turn (3 times per turn)"
+      "desc": "When 1 ally with the slowest Speed hits an enemy with 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn (3 times per turn)"
     },
     {
       "id": 1050802,
@@ -1476,6 +1476,26 @@
       "id": 1110902,
       "name": "Sanguine Pointillist",
       "desc": "This Identity only counts as an 'Identity that inflicts [Laceration]'. This Identity's Skills that randomly inflict [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] do not count as Skills that inflict each respective Keyword."
+    },
+    {
+      "id": 1040901,
+      "name": "N.O.",
+      "desc": "- When an ally Staggers an enemy with an attack: follow up with a Skill 1 against the Staggered enemy. (once per Turn)\n- If multiple enemies are Staggered at once, target the enemy with the least HP(for Abnormalities, target the Abnormality with the least HP; then, target the Part with the least HP).\n- When using Skill 1 with this effect, this unit gains +1 more [Vibration] Count from its Coin effects, and triggers a [VibrationExplosion] with the last Coin On Hit"
+    },
+    {
+      "id": 1040921,
+      "name": "The A.I.",
+      "desc": "#1 Deployed ally gains +1 more Tremor Count from their Skill or Coin effects (2 times per turn)"
+    },
+    {
+      "id": 1060901,
+      "name": "Vibroweld Morph-combat Cane (Unauthorized Invention)",
+      "desc": "Turn End: gain [AttackDmgUp] next turn equal to the number of times this unit triggered [VibrationExplosion] this turn (max 3)"
+    },
+    {
+      "id": 1060921,
+      "name": "In the Culprit's Shoes",
+      "desc": "When #1 Deployed Identity triggers Tremor Burst with Skill or Coin effects, 25% chance to trigger an additional Tremor Burst (once per turn)"
     }
   ]
 }

@@ -61,7 +61,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallida de Tremor. Reduce el Contador de Tremor del objetivo en 2"
+                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallido de Tremor. Reduce el Contador de Tremor del objetivo en 2"
                 }
               ]
             }
@@ -78,7 +78,7 @@
                   "desc": "[OnSucceedAttack] Inflige +2 de Contador de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallida de Tremor. Reduce el Contador de Tremor del objetivo en 2"
+                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallido de Tremor. Reduce el Contador de Tremor del objetivo en 2"
                 }
               ]
             }
@@ -95,7 +95,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 de Contador de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallida de Tremor. Reduce el Contador de Tremor del objetivo en 2"
+                  "desc": "[OnSucceedAttack] Con 5+ de Contador de Tremor, provoca Estallido de Tremor. Reduce el Contador de Tremor del objetivo en 2"
                 }
               ]
             }
@@ -117,7 +117,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallido de Tremor"
                 }
               ]
             },
@@ -128,7 +128,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 2 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -145,7 +145,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallido de Tremor"
                 }
               ]
             },
@@ -156,7 +156,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Si la habilidad gasta Contador de Tremor, Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -695,7 +695,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cerradura Sellada",
+          "name": "Cerrado y Sellado",
           "desc": "Gana ([KnowledgeExplored] x 4% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad",
           "coinlist": [
             {},
@@ -717,7 +717,7 @@
         },
         {
           "level": 2,
-          "name": "Cerradura Sellada",
+          "name": "Cerrado y Sellado",
           "desc": "Gana ([KnowledgeExplored] x 5% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
@@ -739,7 +739,7 @@
         },
         {
           "level": 4,
-          "name": "Cerradura Sellada",
+          "name": "Cerrado y Sellado",
           "desc": "Gana ([KnowledgeExplored] x 6% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Si el objetivo tiene 5+ [Sinking], Poder de Moneda +1\n[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},

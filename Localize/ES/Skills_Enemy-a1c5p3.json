@@ -129,7 +129,7 @@
                 {
                     "level": 1,
                     "name": "Guard",
-                    "desc": "When attacked while this unit has Shield, gana 1 Offense Level Up next turn",
+                    "desc": "When attacked while this unit has Shield, gana 1 Nivel Ofensivo Aumentado next turn",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -285,7 +285,7 @@
                 {
                     "level": 1,
                     "name": "Evade",
-                    "desc": "[OnSucceedEvade] Gana 1 Offense Level Up next turn (Max 3)",
+                    "desc": "[OnSucceedEvade] Gana 1 Nivel Ofensivo Aumentado next turn (Max 3)",
                     "coinlist": [
                         {
                             "coindescs": [

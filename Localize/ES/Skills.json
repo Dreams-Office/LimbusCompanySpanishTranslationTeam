@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si los PC del objetivo son menor a 0, Inflige 1 de Frágil"
+                  "desc": "[OnSucceedAttack] Si los PC del objetivo son menor a 0, Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -176,7 +176,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si los PC del objetivo son menor a 0, Inflige 1 de Frágil"
+                  "desc": "[OnSucceedAttack] Si los PC del objetivo son menor a 0, Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -260,7 +260,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad Perforante el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad a lo Perforante el siguiente turno"
                 }
               ]
             }
@@ -291,7 +291,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad Perforante el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad a lo Perforante el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 de Ruptura"
@@ -1788,10 +1788,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Aplica +3 de Contador de Sangrado "
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado "
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Daño Reducido"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Daño Reducido"
                 }
               ]
             }
@@ -1923,7 +1923,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -1937,7 +1937,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -2026,14 +2026,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -2047,14 +2047,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -2068,14 +2068,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 }
               ]
             }
@@ -2094,14 +2094,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -2115,17 +2115,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, Inflige 2 de Quemado a 2 enemigos aleatorios"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, Inflige 2 de Quemadura a 2 enemigos aleatorios"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -2139,17 +2139,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, Inflige 3 de Quemado a 2 enemigos aleatorios"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, Inflige 3 de Quemadura a 2 enemigos aleatorios"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -2168,7 +2168,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Quemadura"
                 }
               ]
             },
@@ -2182,10 +2182,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, Inflige 3 de Quemado a 2 enemigos aleatorios"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, Inflige 3 de Quemadura a 2 enemigos aleatorios"
                 }
               ]
             }
@@ -2194,12 +2194,12 @@
         {
           "level": 4,
           "name": "Puñetazo mortal Perfeccionado",
-          "desc": "Si el objetivo tiene 5+ de Quemado, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 5+ de Quemadura, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Quemadura"
                 }
               ]
             },
@@ -2213,10 +2213,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, Inflige 3 de Quemado a 2 enemigos aleatorios"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, Inflige 3 de Quemadura a 2 enemigos aleatorios"
                 }
               ]
             }
@@ -3080,7 +3080,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -3501,7 +3501,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor; Inflige 1 de Frágil Contundente"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor; Inflige 1 de Frágil Contundente"
                 }
               ]
             }
@@ -4109,7 +4109,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             },
@@ -4144,7 +4144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             },
@@ -5181,7 +5181,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Frágil Contundente"
@@ -5198,7 +5198,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Tremor sobre [VibrationExplosion], gana 2 de Protección el siguiente turno"
@@ -5947,7 +5947,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Fragilidad Perforante"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Fragilidad a lo Perforante"
                 }
               ]
             }
@@ -5964,7 +5964,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 de Contador de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Fragilidad Perforante"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Fragilidad a lo Perforante"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura"
@@ -6028,14 +6028,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -6049,14 +6049,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -6065,25 +6065,25 @@
         {
           "level": 4,
           "name": "Apuñalada a un Punto",
-          "desc": "Si el objetivo tiene 6+ de Quemado, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 6+ de Quemadura, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -6104,7 +6104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 }
               ]
             }
@@ -6118,24 +6118,24 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, gana 1 Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             }
@@ -6144,29 +6144,29 @@
         {
           "level": 4,
           "name": "Carrera Descendente",
-          "desc": "Si el objetivo tiene 6+ de Quemado, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 6+ de Quemadura, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, gana 1 Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             }
@@ -6185,28 +6185,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 }
               ]
             }
@@ -6215,33 +6215,33 @@
         {
           "level": 4,
           "name": "Golpe de Palma Perfeccionado",
-          "desc": "Si el objetivo tiene 6+ de Quemado, +10% de Daño",
+          "desc": "Si el objetivo tiene 6+ de Quemadura, +10% de Daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 }
               ]
             }
@@ -7474,7 +7474,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -7489,7 +7489,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -7508,14 +7508,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado; Si el objetivo ya tiene Quemado, Inflige 1 más"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura; Si el objetivo ya tiene Quemadura, Inflige 1 más"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemadura"
                 }
               ]
             }
@@ -7529,14 +7529,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado; Si el objetivo ya tiene Quemado, Inflige 1 más"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura; Si el objetivo ya tiene Quemadura, Inflige 1 más"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado; at 30+ PC, Inflige 1 más; Con 45+ PC, Inflige 2 más"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemadura; at 30+ PC, Inflige 1 más; Con 45+ PC, Inflige 2 más"
                 }
               ]
             }
@@ -7545,19 +7545,19 @@
         {
           "level": 4,
           "name": "LLama Fluyente",
-          "desc": "Si el objetivo tiene 6+ de Contador de Quemado, Poder de Moneda +2",
+          "desc": "Si el objetivo tiene 6+ de Contador de Quemadura, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado; Si el objetivo ya tiene Quemado, Inflige 1 más"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura; Si el objetivo ya tiene Quemadura, Inflige 1 más"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado; at 30+ PC, Inflige 1 más; Con 45+ PC, Inflige 2 más"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemadura; at 30+ PC, Inflige 1 más; Con 45+ PC, Inflige 2 más"
                 }
               ]
             }
@@ -7576,7 +7576,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado; Si el objetivo ya tiene Quemado, Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura; Si el objetivo ya tiene Quemadura, Inflige +1 de Contador de Quemadura"
                 }
               ]
             },
@@ -7586,7 +7586,7 @@
                   "desc": "[OnSucceedAttackHead] Cura 6 PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Contador de Quemado, Aumenta el Umbral de Aturdimiento por 30% del Daño realizado"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Contador de Quemadura, Aumenta el Umbral de Aturdimiento por 30% del Daño realizado"
                 }
               ]
             }
@@ -7595,12 +7595,12 @@
         {
           "level": 4,
           "name": "Puño Flameante Carmesí",
-          "desc": "Si el objetivo tiene 6+ de Contador de Quemado, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 6+ de Contador de Quemadura, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado; Si el objetivo ya tiene Quemado, Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura; Si el objetivo ya tiene Quemadura, Inflige +1 de Contador de Quemadura"
                 }
               ]
             },
@@ -7610,7 +7610,7 @@
                   "desc": "[OnSucceedAttackHead] Cura 6 PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Contador de Quemado, Aumenta el Umbral de Aturdimiento por 30% del Daño realizado"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Contador de Quemadura, Aumenta el Umbral de Aturdimiento por 30% del Daño realizado"
                 }
               ]
             }
@@ -8050,7 +8050,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de Quemadura"
                 }
               ]
             }
@@ -8068,7 +8068,7 @@
                   "desc": "[OnSucceedAttackTail] Gana 1 Fánatico el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 }
               ]
             }
@@ -8086,7 +8086,7 @@
                   "desc": "[OnSucceedAttackTail] Gana 1 Fánatico el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
                 }
               ]
             }
@@ -8106,14 +8106,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackTail] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttackTail] Inflige 1 de Quemadura"
                 }
               ]
             },
@@ -8135,27 +8135,27 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 2 de Quemado"
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttackTail] Inflige +1 de Contador de Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
@@ -8185,7 +8185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Sangrado, Inflige 5 de Quemado"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Sangrado, Inflige 5 de Quemadura"
                 },
                 {
                   "desc": "[EnemyKill] Gana 1 Daño Contundente Aumentado el siguiente turno"
@@ -8210,7 +8210,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Sangrado, Inflige 7 de Quemado"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de Sangrado, Inflige 7 de Quemadura"
                 },
                 {
                   "desc": "[EnemyKill] Gana 1 Daño Contundente Aumentado el siguiente turno"
@@ -8322,7 +8322,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -8336,7 +8336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "+20% de Daño a objetivos con 5+ Clavos"
@@ -8353,7 +8353,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
                 },
                 {
                   "desc": "+30% de Daño a objetivos con 5+ Clavos"
@@ -8551,8 +8551,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallida de Tremor\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1",
-                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallida de Tremor, entonces reduce el Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallido de Tremor\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1",
+                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallido de Tremor, entonces reduce el Contador de Tremor"
                 }
               ]
             }
@@ -8573,8 +8573,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallida de Tremor\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1",
-                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallida de Tremor, entonces reduce el Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallido de Tremor\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1",
+                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor.\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallido de Tremor, entonces reduce el Contador de Tremor"
                 }
               ]
             }
@@ -8595,8 +8595,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallida de Tremor\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1",
-                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallida de Tremor, entonces reduce el Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 Tremor\nCon 3+ de Contador de Carga, reutiliza esta Moneda si cae en Cara (Hasta 2 Veces)\nInflige 2 más Tremor cada vez que es reutilizada\nsi la moneda es reutilizada dos veces, Inflige Tremor, entonces provoca Estallido de Tremor\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1",
+                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor\nReusa la Moneda si las condiciones son cumplidas; Inflige +2 Tremor si se reusa.\nsi la moneda es reusada dos veces, provoca Estallido de Tremor, entonces reduce el Contador de Tremor"
                 }
               ]
             }
@@ -8625,14 +8625,14 @@
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor.\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor.\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor.\nDespues del Estallida de Tremor, reduce el Contador de Tremor en 1"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor.\nDespues del Estallido de Tremor, reduce el Contador de Tremor en 1"
                 },
                 {
                   "desc": "[OnSucceedAttack] si el objetivo está Aturdido, 25% de Daño como Daño extra"
@@ -8824,8 +8824,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nCuando provoca Estallida de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
-                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nCuando provoca Estallido de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
+                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
                 }
               ]
             }
@@ -8869,8 +8869,8 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nCuando provoca Estallida de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
-                  "summary": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nCuando provoca Estallido de Tremor, reduce el Contador de Tremor en 3, entonces Gasta todo el Contador de Carga para impulsar el Aumento del Umbral de Aturdimiento por (Contador de Carga x 5)% (Máx 50%)",
+                  "summary": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 3; Gasta Contador de Carga para impulsar el aumento del Umbral de Aturdimiento"
                 }
               ]
             }
@@ -9011,7 +9011,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
                 }
               ]
             },
@@ -9045,7 +9045,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, entonces reduce el Contador de Tremor en 2;\nGasta hasta 4 de Contador de Carga para inflingir Contador de Ruptura al igual que Contador de Carga Gastado"
                 }
               ]
             },
@@ -9180,7 +9180,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttackTail] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -9212,7 +9212,7 @@
                   "desc": "Gasta 5 de Ahogo para realizar un +20% de daño extra"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttackTail] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -9244,7 +9244,7 @@
                   "desc": "Gasta 5 de Ahogo para realizar un +20% de daño extra"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Provoca Estallida de Tremor"
+                  "desc": "[OnSucceedAttackTail] Provoca Estallido de Tremor"
                 }
               ]
             }
@@ -9707,7 +9707,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nDespues de provocar Estallida de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nDespues de provocar Estallido de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
                 }
               ]
             }
@@ -9721,7 +9721,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallida de Tremor\nDespues de provocar Estallida de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor\nDespues de provocar Estallido de Tremor, reduce el Contador de Tremor en 4. Inflige 5 de Ruptura"
                 }
               ]
             }
@@ -10140,14 +10140,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -10156,19 +10156,19 @@
         {
           "level": 2,
           "name": "Patada Roja",
-          "desc": "Si el objetivo tiene 3+ de Quemado, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 3+ de Quemadura, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -10177,19 +10177,19 @@
         {
           "level": 4,
           "name": "Patada Roja",
-          "desc": "Poder de Moneda +1 for every 3 de Quemado en el Objetivo (Max 2)",
+          "desc": "Poder de Moneda +1 for every 3 de Quemadura en el Objetivo (Max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             }
@@ -10208,21 +10208,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, Inflige +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, Inflige +2 de Contador de Quemadura"
                 }
               ]
             }
@@ -10231,26 +10231,26 @@
         {
           "level": 2,
           "name": "Asalto Frontal",
-          "desc": "Si el objetivo tiene 6+ de Quemado, Poder de Moneda +1",
+          "desc": "Si el objetivo tiene 6+ de Quemadura, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, Inflige +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, Inflige +2 de Contador de Quemadura"
                 }
               ]
             }
@@ -10259,26 +10259,26 @@
         {
           "level": 4,
           "name": "Asalto Frontal",
-          "desc": "Poder de Moneda +1 for every 6 de Quemado en el Objetivo (Max 2)",
+          "desc": "Poder de Moneda +1 for every 6 de Quemadura en el Objetivo (Max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemado, Inflige +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de Quemadura, Inflige +2 de Contador de Quemadura"
                 }
               ]
             }
@@ -10292,26 +10292,26 @@
         {
           "level": 1,
           "name": "Codazo en el Plexo Solar",
-          "desc": "Si el objetivo tiene 6+ de Quemado y de Contador de Quemado, recibe un +30% de daño extra",
+          "desc": "Si el objetivo tiene 6+ de Quemadura y de Contador de Quemadura, recibe un +30% de daño extra",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemadura"
                 }
               ]
             },
@@ -10327,26 +10327,26 @@
         {
           "level": 4,
           "name": "Codazo en el Plexo Solar",
-          "desc": "Si el objetivo tiene 6+ de Quemado y de Contador de Quemado, realiza un 50% de daño extra",
+          "desc": "Si el objetivo tiene 6+ de Quemadura y de Contador de Quemadura, realiza un 50% de daño extra",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Quemadura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Quemadura"
                 }
               ]
             },
@@ -10372,7 +10372,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemadura"
                 }
               ]
             }

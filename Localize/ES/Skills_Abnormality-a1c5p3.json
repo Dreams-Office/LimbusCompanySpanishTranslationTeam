@@ -40,7 +40,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 Wrath Fragility next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], Inflige 4 de Quemado"
+                  "desc": "[OnSucceedAttack] If target has [Combustion], Inflige 4 de Quemadura"
                 }
               ]
             },
@@ -50,7 +50,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 Wrath Fragility next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Combustion], Inflige 4 de Quemado"
+                  "desc": "[OnSucceedAttack] If target has [Combustion], Inflige 4 de Quemadura"
                 }
               ]
             }
@@ -72,7 +72,7 @@
                   "desc": "[OnSucceedAttack] Target's max HP decreases by 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Burn and +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 5 Burn and +2 de Contador de Quemadura"
                 }
               ]
             },
@@ -82,7 +82,7 @@
                   "desc": "[OnSucceedAttack] Target's max HP decreases by 10%."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Burn and +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 5 Burn and +2 de Contador de Quemadura"
                 }
               ]
             }
@@ -146,7 +146,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "All Shallde Quemado",
+          "name": "All Shallde Quemadura",
           "desc": "[CantDuel]",
           "coinlist": [
             {
@@ -171,7 +171,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 Burn and +2 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 6 Burn and +2 de Contador de Quemadura"
                 }
               ]
             }
@@ -184,13 +184,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So That It Willde Quemado",
+          "name": "So That It Willde Quemadura",
           "desc": "[StartBattle] Gana 20 Shield\nSnuff out the lights next turn when out of Shield",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Burn and +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige 1 Burn and +1 de Contador de Quemadura"
                 }
               ]
             }
@@ -209,14 +209,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Poison"
+                  "desc": "[OnSucceedAttack] Inflige 3 Veneno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Poison"
+                  "desc": "[OnSucceedAttack] Inflige 3 Veneno"
                 }
               ]
             }
@@ -235,7 +235,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Defense Level Down by [Poison] on target"
+                  "desc": "[OnSucceedAttack] Inflige Defense Level Down by [Veneno] on target"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Larva"
@@ -245,7 +245,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Defense Level Down by [Poison] on target"
+                  "desc": "[OnSucceedAttack] Inflige Defense Level Down by [Veneno] on target"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Larva"
@@ -267,7 +267,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Poison], Inflige 1 Paralyze"
+                  "desc": "[OnSucceedAttack] If target has [Veneno], Inflige 1 Paralyze"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Larva"
@@ -277,7 +277,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Poison], Inflige 1 Paralyze"
+                  "desc": "[OnSucceedAttack] If target has [Veneno], Inflige 1 Paralyze"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Larva"
@@ -299,7 +299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Poison"
+                  "desc": "[OnSucceedAttack] Inflige 4 Veneno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 1 Paralyze next turn"
@@ -309,7 +309,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Poison"
+                  "desc": "[OnSucceedAttack] Inflige 4 Veneno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 1 Paralyze next turn"
@@ -331,7 +331,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 Poison"
+                  "desc": "[OnSucceedAttack] Inflige 10 Veneno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Lose 7 SP"
@@ -372,8 +372,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overflowing Poison",
-          "desc": "[OnSucceedEvade] Inflige 5 Poison",
+          "name": "Overflowing Veneno",
+          "desc": "[OnSucceedEvade] Inflige 5 Veneno",
           "coinlist": [
             {
               "coindescs": [
@@ -743,7 +743,7 @@
         {
           "level": 1,
           "name": "Guard",
-          "desc": "When attacked while this unit has Shield, gana 1 Offense Level Up next turn",
+          "desc": "When attacked while this unit has Shield, gana 1 Nivel Ofensivo Aumentado next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -902,7 +902,7 @@
         {
           "level": 1,
           "name": "Evade",
-          "desc": "[OnSucceedEvade] Gana 1 Offense Level Up next turn (Max 3)",
+          "desc": "[OnSucceedEvade] Gana 1 Nivel Ofensivo Aumentado next turn (Max 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1543,7 +1543,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
@@ -1553,7 +1553,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
@@ -1563,7 +1563,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemado"
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Apply 1 Paralyze to a random other ally next turn"
@@ -1771,7 +1771,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 1 Pallid Noise"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Nivel Ofensivo Reducidonext turn"
                 }
               ]
             }

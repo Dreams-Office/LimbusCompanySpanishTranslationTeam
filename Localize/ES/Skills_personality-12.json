@@ -379,7 +379,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "Spend 1 Munición"
                 },
                 {
                   "desc": "+50% Damage on Critical Hit"
@@ -403,7 +403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Ammo"
+                  "desc": "Spend 1 Munición"
                 },
                 {
                   "desc": "+100% Damage on Critical Hit"
@@ -590,7 +590,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn "
                 }
               ]
             },
@@ -600,7 +600,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn "
                 }
               ]
             },
@@ -624,7 +624,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn "
+                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn "
                 }
               ]
             },
@@ -634,7 +634,7 @@
                   "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Offense Level Down next turn"
+                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn"
                 }
               ]
             },
