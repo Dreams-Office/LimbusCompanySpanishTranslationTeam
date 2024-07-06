@@ -691,7 +691,7 @@
     {
       "id": "Desire",
       "name": "Deseo",
-      "desc": "Finalizar Turno: A 5+ Contadores, toma daño igual a 30 PC, gana 2 Frágil y 10 Atadura, y remueve este efecto.",
+      "desc": "Finalizar Turno: A 5+ de Acumulación, toma daño igual a 30 PC, gana 2 Frágil y 10 Atadura, y remueve este efecto.",
       "summary": "Recibe 30 daño al PC y gana 2 Frágil y 10 Atadura"
     },
     {
@@ -1104,13 +1104,13 @@
     },
     {
       "id": "TimeRental",
-      "name": "Tiempo Prestado",
+      "name": "Borrowed Time of the Fathoms",
       "desc": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder de Ataque Reducido",
       "summary": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder de Ataque Reducido"
     },
     {
       "id": "Bull_FadedHeat",
-      "name": "Frío Momentánea",
+      "name": "Frío Momentáneo",
       "desc": "El Cuerpo y el Núcleo pierden un 50% de HP máximo"
     },
     {
@@ -1139,553 +1139,553 @@
     },
     {
       "id": "Crazy_LowMorale",
-      "name": "Maddened (Low Morale)",
-      "desc": "When at low morale for the first time, targets units indiscriminately",
+      "name": "Enloquecido (Moral Baja)",
+      "desc": "Cuando tiene la moral baja por primera vez, apunta indiscriminadamente a las unidades",
       "undefined": "-"
     },
     {
       "id": "Crazy_Panic",
-      "name": "Maddened (Panic)",
-      "desc": "Targets indiscriminately; Clash Power +1, and gana 2 Damage Up",
+      "name": "Enloquecido (Pánico)",
+      "desc": "Ataca indiscriminadamente; Poder de Choque +1, y gana 2 de Daño Aumentado",
       "undefined": "-"
     },
     {
       "id": "Suicide_LowMorale",
-      "name": "Suicidal (Low Morale)",
-      "desc": "When at low morale for the first time, become unable to act",
+      "name": "Suicida (Moral Baja)",
+      "desc": "Cuando la moral baja por primera vez, se vuelven incapaces de actuar",
       "undefined": "-"
     },
     {
       "id": "Suicide_Panic",
-      "name": "Suicidal (Panic)",
-      "desc": "Cannot act for 3 turns. Unit dies at Inicio de Turno; all its allies lose 10 SP",
+      "name": "Suicida (Pánico)",
+      "desc": "No puede actuar durante 3 turnos. La unidad muere al inicio del turno; todos sus aliados pierden 10 PC",
       "undefined": "-"
     },
     {
       "id": "Prowl_LowMorale",
-      "name": "Wandering (Low Morale)",
-      "desc": "Turn End: Deal 2 SP damage to allies",
+      "name": "Errante (Moral baja)",
+      "desc": "Fin de Turno: Inflige 2 de daño de PC a tus aliados",
       "undefined": "-"
     },
     {
       "id": "Prowl_Panic",
-      "name": "Wandering (Panic)",
-      "desc": "Turn End: Deal 5 SP damage to allies. Flees from battle after 3 turns have passed",
+      "name": "Errante (Pánico)",
+      "desc": "Fin de Turno: Inflige 5 de daño de PC a tus aliados. Huye de la batalla una vez transcurridos 3 turnos",
       "undefined": "-"
     },
     {
       "id": "Thorn",
-      "name": "Thorns",
-      "desc": "When hit, return 50% of the Daño Recibido to the attacker",
-      "summary": "Deal 50% of Daño Recibido to attacker"
+      "name": "Espinas",
+      "desc": "Al ser golpeado, devuelve al atacante el 50% del daño recibido",
+      "summary": "Inflige el 50% del daño recibido al atacante"
     },
     {
       "id": "Fragile_Mind_LowMorale",
-      "name": "Perilous Heart",
-      "desc": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado and 3 Bind",
-      "summary": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado and 3 Bind"
+      "name": "Corazón Precario",
+      "desc": "Inicio de Turno: Gana 2 Potencia de Ataque y 3 de Atadura",
+      "summary": "Inicio de Turno: Gana 2 Potencia de Ataque y 3 de Atadura"
     },
     {
       "id": "Fragile_Mind_Panic",
-      "name": "Faltering Heart",
-      "desc": "In panic, become staggered.",
-      "summary": "In panic, become staggered."
+      "name": "Corazón Vacilante",
+      "desc": "En pánico, queda aturdido..",
+      "summary": "En pánico, queda aturdido.."
     },
     {
       "id": "ErodingMind",
-      "name": "Corroding Heart",
-      "desc": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Fragilidad, and 5 Bind",
-      "summary": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Fragilidad, and 5 Bind"
+      "name": "Corazón Corroído",
+      "desc": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Frágil, y 5 de Atadura",
+      "summary": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Frágil, y 5 de Atadura"
     },
     {
       "id": "Blue_LowMorale",
-      "name": "Dejection (Low Morale)",
-      "desc": "In a clash, if any Coin lands tails, Clash Power -1 for the clash",
+      "name": "Desaliento (Moral Baja)",
+      "desc": "En un choque, si alguna Moneda aterriza en sello, Poder de Choque -1 durante el choque",
       "undefined": "-"
     },
     {
       "id": "Blue_Panic",
-      "name": "Dejection (Panic)",
-      "desc": "In a clash, if any Coin lands tails, Clash Power -3 for the clash",
+      "name": "Desaliento (Pánico)",
+      "desc": "En un choque, si alguna Moneda aterriza en sello, Poder de Choque -3 durante el choque",
       "undefined": "-"
     },
     {
       "id": "ATL_EndureLaceration",
       "name": "Resistencia al Sangrado",
-      "desc": "When taking damage from Sangrado, reduce the damage by {0}0% (Max 10)",
-      "summary": "When taking damage from Sangrado, take {0}0% less damage"
+      "desc": "Al recibir daño de Sangrado, reduce el daño un {0}0% (Máx. 10)",
+      "summary": "Cuando recibe daño de Sangrado, recibes un {0}0% menos de daño"
     },
     {
       "id": "DongbaekGrow",
-      "name": "Growing",
-      "desc": "Turn End: Add +1 Count, and gain Max HP proportionally to the Count (Max 3)",
-      "summary": "Turn End: Add +1 Count, and gain Max HP proportionally to the Count (Max 3)"
+      "name": "Cultivo",
+      "desc": "Fin del Turno: Añade +1 al Contador, y gana HP Máx. proporcionalmente al Contador (Max 3)",
+      "summary": "Fin del Turno: Añade +1 al Contador, y gana HP Máx. proporcionalmente al Contador (Max 3)"
     },
     {
       "id": "DongbaekFlorescence",
-      "name": "Blooming",
-      "desc": "Turn End: At 5+ Count, take Sloth damage by (Count)% of Max HP, and become Fully Bloomed\nAt less than 5 Count, lose (Count * 5) SP, then reduce Count by 1",
+      "name": "Floración",
+      "desc": "Fin de Turno: A  5+ de Contador, recibe daño de Pereza por el (Contador)% del HP Máx, y queda Totalmente Florecido.\nCon menos de 5 de Contador, pierde (Contador * 5) PC, y reduce el Contador en 1",
       "summary": ""
     },
     {
       "id": "DongbaekFullBloom",
-      "name": "Fully Bloomed",
-      "desc": "Cannot act\nAt the end of the turn, lose 20 SP; if SP reaches -45, fully heal SP, then gain 'Dazzled Mind' next turn.\nIf this effect isn't removed for 2 turns, remove it at the end of the turn.",
+      "name": "Totalmente Florecido",
+      "desc": "No puede actuar\nAl final del turno, pierde 20 PC; si el PC llega a -45, cura completamente el PC, luego gana \"Mente Deslumbrada\" el próximo turno.\nSi este efecto no se elimina en 2 turnos, se elimina al final del turno.",
       "summary": ""
     },
     {
       "id": "DongbaekFascination",
-      "name": "Dazzled Mind",
-      "desc": "Targets allies for attacks\nWhen staggered, remove this effect next turn\nIf this effect isn't removed for 2 turns, lose 30 SP and remove it at the end of the turn",
+      "name": "Mente Deslumbrada",
+      "desc": "Ataca a los aliados\nCuando es Aturdido, elimina este efecto el próximo turno\nSi este efecto no se elimina en 2 turnos, pierde 30 PC y se elimina al final del turno.",
       "summary": ""
     },
     {
       "id": "DongbaekShowdown",
-      "name": "Dueling",
+      "name": "Duelo",
       "desc": "Inicio de Turno: Units without this status go into a 'Fully Bloomed' status\nIf Yi Sang has this effect, Dongbaek gains 1 de Poder de Ataque Aumentado",
       "summary": ""
     },
     {
       "id": "DongbaekScatterPetal",
-      "name": "Scattering Petals",
-      "desc": "Turn End: At 6+ Count, become staggered",
+      "name": "Dispersión de Pétalos",
+      "desc": "Fin de Turno: A 6+ de Contador , queda Aturdido",
       "summary": ""
     },
     {
       "id": "CrimsonResultUp",
-      "name": "Wrath Power Up",
-      "desc": "Wrath Poder Final de Habilidad +{0} este turno",
-      "summary": "Wrath Poder Final de Habilidad +{0}"
+      "name": "Poder de Ira Aumentado",
+      "desc": "Poder Final a Habilidad de Ira +{0} para este turno",
+      "summary": "Poder Final a Habilidad de Ira +{0}"
     },
     {
       "id": "EmittedCurrent",
-      "name": "Spark Discharge",
-      "desc": "When hit, the attacker gains +1 Charge Count; when hit with a Gloom attack, gain +1 Ruptura Count, then reduce Count by 1"
+      "name": "Descarga Chispeante",
+      "desc": "Cuando es golpeado, el atacante gana +1 Contador de Carga; cuando es golpeado con un ataque de Melancolía, gana +1 Contador de Ruptura, luego reduce la Contador en 1"
     },
     {
       "id": "DistortedDongrangRadiantVanity",
-      "name": "Radiant Vanity",
-      "desc": "Inicio de Turno: Dongrang gains 1 Protection and 1 de Poder de Ataque Aumentado"
+      "name": "Vanidad Radiante",
+      "desc": "Inicio de Turno: Dongrang gana 1 de Protección y 1 de Poder de Ataque Aumentado"
     },
     {
       "id": "DistortedDongrangEmptyMark",
-      "name": "Empty Mark",
-      "desc": "Targeted by Dongrang. Gana 2 Bind every turn, and take +50% damage from Dongrang."
+      "name": "Marca Vacía",
+      "desc": "Priorizado por Dongrang. Gana 2 de Atadura cada turno y recibe +50% de daño de Dongrang."
     },
     {
       "id": "DistortedDongrangEarnestAchievement",
-      "name": "Earnest Accomplishment",
-      "desc": "If this unit is defeated or its HP is brought to 1, the attacker gains buffs"
+      "name": "Dedicación Sincera",
+      "desc": "Si esta unidad es derrotada o sus HP se reducen a 1, el atacante obtiene potenciadores."
     },
     {
       "id": "DistortedDongrangEmptyHonor",
-      "name": "Empty Honor",
-      "desc": "If Dongrang defeats this unit, he loses HP, gains 1 Emptiness, and is weakened next turn"
+      "name": "Honor Vacío",
+      "desc": "Si Dongrang derrota a esta unidad, pierde HP, gana 1 de Vacío y se debilita en el siguiente turno."
     },
     {
       "id": "DistortedDongrangMomentaryGlory",
-      "name": "Momentary Glory",
-      "desc": "At 3+ Count, Dongrang becomes more powerful"
+      "name": "Gloria Momentánea",
+      "desc": "Con Contador 3+, Dongrang se vuelve más poderoso"
     },
     {
       "id": "DistortedDongrangEmptiness",
-      "name": "Emptiness",
-      "desc": "At 4+ Count, Dongrang becomes staggered."
+      "name": "Vacío",
+      "desc": "A 4+ de Contador, Dongrang queda Aturdido.."
     },
     {
       "id": "DistortedDongrangFruition",
-      "name": "Borne Fruition",
-      "desc": "The unit that defeated this unit heals HP, and gains 1 Haste and 1 de Poder de Ataque Aumentado next turn"
+      "name": "Fructificación",
+      "desc": "La unidad que derrotó a esta unidad se cura el HP, y gana 1 de Rapidez y 1 de Poder de Ataque Aumentado en el siguiente turno"
     },
     {
       "id": "EgoAwakenDongrangRadiantDesire",
-      "name": "Radiant Desire",
-      "desc": "Inicio de Turno: Dongrang gains 1 Damage Up and 1 Protection"
+      "name": "Deseo Radiante",
+      "desc": "Inicio de Turno: Dongrang gana 1 de Daño Aumentado y 1 de Protección "
     },
     {
       "id": "EgoAwakenDongrangSeed",
-      "name": "Seeds",
-      "desc": "Turn End: At 5+ Count, gain Nutrient Drain for 2 turns; at less than 5 Count, reduce Count by 1"
+      "name": "Semillas",
+      "desc": "Fin del Turno: A 5+ de Contador, Obtiene Drenaje de Nutrientes durante 2 turnos; a menos de 5 de Contador, el Contador se reduce en 1"
     },
     {
       "id": "EgoAwakenDongrangTree",
-      "name": "Nutrient Drain",
-      "desc": "Turn End: Dongrang heals 10 HP"
+      "name": "Drenaje de Nutrientes",
+      "desc": "Fin del Turno: Dongrang se cura 10 HP"
     },
     {
       "id": "EgoAwakenDongrangOverHeal",
-      "name": "Overheal",
-      "desc": "Count rises by the amount of HP Dongrang caused to heal; at 50+ Count, take Gluttony damage by the effect's Count, gana 5 de Fragilidad, and remove the effect."
+      "name": "Sobrecuración",
+      "desc": "El Contador aumenta según la cantidad de HP que Dongrang se haya curado; a 50+ de Contador, recibe daño de Gula por el Contador del efecto, gana 5 de Frágil y elimina el efecto."
     },
     {
       "id": "SinkingSurge",
       "name": "Diluvio",
-      "desc": "Deal SP damage by (Sinking Count * Sinking Potency), then remove Sinking\nIf target's SP is -45 or lower, the excess SP damage is dealt as Gloom-affinity HP damage\n(Units with no Sanity take all of it as Gloom HP damage)"
+      "desc": "Inflige daño de PC por (Contador de Ahogo * Potencia de Ahogo) luego remueve el Ahogo.\nSi el PC del objetivo es -45 o inferior, el daño de PC en exceso se inflige como daño de HP por Afinidad de Melancolía.\n(Las unidades sin Cordura lo toman todo como daño de Melancolía al HP)"
     },
     {
       "id": "Blue",
-      "name": "Tears",
-      "desc": "Turn End: Lose 5 SP\nTails Coins Inflige 2 de Ahogo"
+      "name": "Lágrimas ",
+      "desc": "Fin de Turno: Pierde de 5 PC\nLas Monedas en Sello infligen 2 de Ahogo"
     },
     {
       "id": "AmberResultUp",
-      "name": "Sloth Power Up",
-      "desc": "Sloth Poder Final de Habilidad +{0} este turno",
-      "summary": "Sloth Poder Final de Habilidad +{0}"
+      "name": "Poder de Pereza Aumentado",
+      "desc": "Poder Final de la Habilidad de Pereza +{0} para este turno",
+      "summary": "Poder Final de la Habilidad de Pereza +{0}"
     },
     {
       "id": "EgoAwakenDongrangTreeDisplay",
-      "name": "Nutrient Drain",
-      "desc": "Turn End: Dongrang heals 10 HP"
+      "name": "Drenaje de Nutrientes",
+      "desc": "Fin del Turno: Dongrang se cura 10 HP"
     },
     {
       "id": "DongbaekFullBloomDisplay",
-      "name": "Fully Bloomed",
-      "desc": "Cannot act\nAt the end of the turn, lose 20 SP; if SP reaches -45, fully heal SP, then gain 'Dazzled Mind' next turn.\nIf this effect isn't removed for 2 turns, remove it at the end of the turn.",
+      "name": "Totalmente Florecido",
+      "desc": "No puede actuar\nAl final del turno, pierde 20 PC; si el PC llega a -45, cura completamente el PC, luego gana \"Mente Deslumbrada\" el próximo turno.\nSi este efecto no se elimina en 2 turnos, se elimina al final del turno.",
       "summary": ""
     },
     {
       "id": "EgoAwakenDongrangShardOfBrokenConnection",
-      "name": "Piece of a Broken Bond",
-      "desc": "Yi Sang's skills gain +2 Final Power\nWhen an ally dies, remaining allies gana 1 Haste and 1 de Poder de Ataque Aumentado next turn (Once per turn)\nAs long as at least one other ally is alive in this battle, Yi Sang does not die",
+      "name": "Pedazo de un Lazo Roto",
+      "desc": "Las habilidades de Yi Sang ganan +2 de Poder Final\nCuando un aliado muere, los aliados restantes ganan 1 de Rapidez y 1 de Poder de Ataque Aumentado en el siguiente turno (Una vez por turno)\nMientras haya al menos otro aliado vivo en esta batalla, Yi Sang no muere.",
       "summary": ""
     },
     {
       "id": "Choice_1040301",
-      "name": "Unknown Wound",
-      "desc": "Gana 10 Ruptura este turno.",
+      "name": "Herida Desconocida",
+      "desc": "Gana 10 de Ruptura para este turno..",
       "summary": "Gana 10 Ruptura for the turn"
     },
     {
       "id": "TakeHpHealIncrease",
-      "name": "HP Healing Boost",
-      "desc": "Heal +{0}0% HP from Passives, Skills, and Coin effects this turn. (Max 5)",
-      "summary": "HP Healing +{0}0%"
+      "name": "Potenciador de Curación HP",
+      "desc": "Cura +{0}0% de HP de las Pasivas, Habilidades y Efectos de Monedas este turno. (Máx 5)",
+      "summary": "Curacion de HP +{0}%"
     },
     {
       "id": "Choice_90104001",
-      "name": "Understanding",
-      "desc": "At the start of the battle, gana 2 E.G.O resources for every Affinity",
-      "summary": "Gain +2 E.G.O resource for all Affinities"
+      "name": "Comprender",
+      "desc": "Al inicio del combate, gana 2 recursos E.G.O por cada Afinidad",
+      "summary": "Gana +2 recursos E.G.O para todas las Afinidades"
     },
     {
       "id": "Choice_9010400101",
-      "name": "Determined",
-      "desc": "All Ally Units gain +2 Poder Final de Habilidad for this battle",
+      "name": "Determinado",
+      "desc": "Todas las Unidades Aliadas ganan +2 de Poder Final de Habilidad para esta batalla",
       "summary": "Poder Final de Habilidad +2"
     },
     {
       "id": "Choice_90104002",
-      "name": "Longing",
-      "desc": "All Ally Units gain +1 Skill Power for this battle",
-      "summary": "Skill Power +1"
+      "name": "Anhelo",
+      "desc": "Todas las Unidades Aliadas ganan +1 Poder de Habilidad para esta Combate",
+      "summary": "Poder de Habilidad +1"
     },
     {
       "id": "S2Mirror2ndFloor",
-      "name": "Mirror of Mirrors - F2",
+      "name": "Espejo de Espejos - P2",
       "desc": "Poder Final de Habilidad +1",
       "summary": "Poder Final de Habilidad +1"
     },
     {
       "id": "S2Mirror3rdFloor",
-      "name": "Mirror of Mirrors - F3",
-      "desc": "Poder Final de Habilidad +1\nSkill Offense Level +3",
-      "summary": "Poder Final de Habilidad +1; Skill Offense Level +3"
+      "name": "Espejo de Espejos - P3",
+      "desc": "Poder Final de Habilidad +1\nNivel Ofensivo de Habilidad +3",
+      "summary": "Poder Final de la Habilidad +1; Nivel Ofensivo de Habilidad +3"
     },
     {
       "id": "S2Mirror4thFloor",
-      "name": "Mirror of Mirrors - F4",
-      "desc": "Poder Final de Habilidad +1\nSkill Offense Level +3\nSkill Base Power +1",
-      "summary": "Poder Final de Habilidad +1; Skill Offense Level +3; Skill Base Power +1"
+      "name": "Espejo de Espejos - P4",
+      "desc": "Poder Final de la Habilidad +1\nNivel Ofensivo de Habilidad +3\nPoder Base de Habilidad +1",
+      "summary": "Poder Final de la Habilidad +1; Nivel Ofensivo de Habilidad +3; Poder Base de Habilidad +1"
     },
     {
       "id": "S2Mirror5thFloor",
-      "name": "Mirror of Mirrors - F5",
-      "desc": "Poder Final de Habilidad +1\nSkill Offense Level +3\nSkill Base Power +1\nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
-      "summary": "Poder Final de Habilidad +1; Skill Offense Level +3; Skill Base Power +1; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+      "name": "Espejo de Espejos - P5",
+      "desc": "Poder Final de la Habilidad +1\nNivel Ofensivo de Habilidad +3\nPoder Base de Habilidad +1\nPoder de Moneda Positivo +2\nPoder de Moneda Negativo -2",
+      "summary": "Poder Final de la Habilidad +1; Nivel Ofensivo de Habilidad +3; Poder Base de Habilidad +1; Poder de Habilidades de Monedas Positivas +2; Poder de Habilidades de Monedas Negativos -2"
     },
     {
       "id": "SkillPowerUp",
-      "name": "Base Power Up",
-      "desc": "Skill Base Power +{0} este turno.",
-      "summary": "Skill Base Power +{0}"
+      "name": "Poder Base Aumentado",
+      "desc": "Poder de Habilidad Base +{0} para este turno.",
+      "summary": "Poder Base de Habilidad +{0}"
     },
     {
       "id": "MaxHpMultiplier",
-      "name": "Max HP Up",
-      "desc": "Increase Max HP by {0}0",
-      "summary": "Max HP +{0}0"
+      "name": "HP Máx Aumentado",
+      "desc": "Aumento Máx de HP en {0}0",
+      "summary": "HP Max +{0}0"
     },
     {
       "id": "StickCoinHeadAndTailToMaxPer",
-      "name": "Meshed Possibilities",
-      "desc": "Every three turns, all Coins on each skill used by allies land on the same side depending on the Coin's type",
-      "summary": "Every 3 turns, all Coins land on the same side based on the type"
+      "name": "Posibilidades Entrelazadas",
+      "desc": "Cada tres turnos, todas las Monedas de cada habilidad utilizadas por los aliados caen del mismo lado dependiendo del tipo de Moneda",
+      "summary": "Cada 3 turnos, todas las Monedas caen en el mismo lado según el tipo"
     },
     {
       "id": "RemoveBreakSection",
-      "name": "Stalwart Spirit",
-      "desc": "The 1st stagger thresholds of allies are nullified",
-      "summary": "Nullify 1st stagger threshold"
+      "name": "Espíritu Incondicional",
+      "desc": "El 1er umbral de aturdimiento de los aliados es anulado",
+      "summary": "Anula el 1er umbral de aturdimiento"
     },
     {
       "id": "KCorpSerum",
       "name": "Vial de K Corp",
-      "desc": "Inicio de Turno: At less than 4 Count, heal by ({0} * 5)% of Max HP\nAt 4+ Count, the unit dies",
+      "desc": "Inicio de Turno: Con menos de 4 del Contador, la unidad se cura un ({0} * 5)% de su HP máximo.\nA partir de 4, la unidad muere",
       "summary": ""
     },
     {
       "id": "Talisman",
       "name": "Talismán",
-      "desc": "On hit, inflict {0} Ruptura; When hit, gain {0} Ruptura\nTurn End: At 6+ Count, remove all Talisman and take fixed damage by its Count",
-      "summary": "Inflict Ruptura with attacks and gain Ruptura when hit"
+      "desc": "Al golpear, inflige {0} de Ruptura; Al ser golpeado, gana {0} de Ruptura.\nFin de Turno: Con el Contador 6+, elimina todo el Talismán y recibe daño fijo por su Contador",
+      "summary": "Inflige Ruptura con ataques y gana Ruptura al ser golpeado"
     },
     {
       "id": "S2Mirror2ndFloor_Hard",
-      "name": "Mirror of Mirrors Hard - F2",
-      "desc": "Poder Final de Habilidad +1\nSkill Offense Level +3\nSkill Base Power +1\nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
-      "summary": "Poder Final de Habilidad +1; Skill Offense Level +3; Skill Base Power +1; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+      "name": "Espejo de Espejos Difícil - P2",
+      "desc": "Poder Final de la Habilidad +1\nNivel Ofensivo de Habilidad +3\nPoder Base de Habilidad +1\nPoder de Moneda Positiva de Habilidad +2\nPoder de Moneda Negativo de Habilidad -2",
+      "summary": "Poder Final de la Habilidad +1; Nivel Ofensivo de Habilidad +3; Poder Base de Habilidad +1; Poder de Moneda Positiva de Habilidad +2; Poder de Moneda Negativo de Habilidad -2"
     },
     {
       "id": "S2Mirror3rdFloor_Hard",
-      "name": "Mirror of Mirrors Hard - F3",
-      "desc": "Poder Final de Habilidad +2\nSkill Offense Level +3\nSkill Base Power +1\nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
-      "summary": "Poder Final de Habilidad +2; Skill Offense Level +3; Skill Base Power +1; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+      "name": "Espejo de Espejos Difícil - P3",
+      "desc": "Poder Final de la Habilidad +2\nNivel Ofensivo de Habilidad +3\nPoder Base de Habilidad +1\nPoder de Moneda Positiva de Habilidad +2\nPoder de Moneda Negativo de Habilidad -2",
+      "summary": "Poder Final de la Habilidad +2; Nivel Ofensivo de Habilidad +3; Poder Base de Habilidad +1; Poder de Moneda Positiva de Habilidad +2; Poder de Moneda Negativo de Habilidad -2"
     },
     {
       "id": "S2Mirror4thFloor_Hard",
-      "name": "Mirror of Mirrors Hard - F4",
-      "desc": "Poder Final de Habilidad +3\nSkill Offense Level +3\nSkill Base Power +1\nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
-      "summary": "Poder Final de Habilidad +3; Skill Offense Level +3; Skill Base Power +1; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+      "name": "Espejo de Espejos Difícil - P4",
+      "desc": "Poder Final de la Habilidad +3\nNivel Ofensivo de Habilidad +3\nPoder Base de Habilidad +1\nPoder de Moneda Positiva de Habilidad +2\nPoder de Moneda Negativo de Habilidad -2",
+      "summary": "Poder Final de la Habilidad +3; Nivel Ofensivo de Habilidad +3; Poder Base de Habilidad +1; Poder de Moneda Positiva de Habilidad +2; Poder de Moneda Negativo de Habilidad -2"
     },
     {
       "id": "S2Mirror5thFloor_Hard",
-      "name": "Mirror of Mirrors Hard - F5",
-      "desc": "Poder Final de Habilidad +5\nSkill Offense Level +3\nSkill Base Power +1\nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
-      "summary": "Poder Final de Habilidad +5; Skill Offense Level +3; Skill Base Power +1; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+      "name": "Espejo de Espejos Difícil - P5",
+      "desc": "Poder Final de la Habilidad +5\nNivel Ofensivo de Habilidad +3\nPoder Base de Habilidad +1\nPoder de Moneda Positiva de Habilidad +2\nPoder de Moneda Negativo de Habilidad -2",
+      "summary": "Poder Final de la Habilidad +5; Nivel Ofensivo de Habilidad +3; Poder Base de Habilidad +1; Poder de Moneda Positiva de Habilidad +2; Poder de Moneda Negativo de Habilidad -2"
     },
     {
       "id": "S2Mirror1stFloor_Hard",
-      "name": "Mirror of Mirrors Hard - F1",
-      "desc": "Poder Final de Habilidad +1\nSkill Offense Level +3\nSkill Base Power +1\nSkill Plus Coin Power +2\nSkill Minus Coin Power -2",
-      "summary": "Poder Final de Habilidad +1; Skill Offense Level +3; Skill Base Power +1; Skill Plus Coin Power +2; Skill Minus Coin Power -2"
+      "name": "Espejo de Espejos Difícil - P1",
+      "desc": "Poder Final de la Habilidad +1\nNivel Ofensivo de Habilidad +3\nPoder Base de Habilidad +1\nPoder de Moneda Positiva de Habilidad +2\nPoder de Moneda Negativo de Habilidad -2",
+      "summary": "Poder Final de la Habilidad +1; Nivel Ofensivo de Habilidad +3; Poder Base de Habilidad +1; Poder de Moneda Positiva de Habilidad +2; Poder de Moneda Negativo de Habilidad -2"
     },
     {
       "id": "MentalSystemResultIncrease_Typo",
-      "name": "Eficiencia en Cura de PC",
-      "desc": "Amount of SP healed due to the Identity's 'Base factors increasing Sanity(SP)'"
+      "name": "Eficacia Curativa de PC",
+      "desc": "Cantidad de PC curados por las condiciones de curación de PC base de los Pecadores'"
     },
     {
       "id": "MentalSystemResultDecrease_Typo",
       "name": "Eficiencia en Pérdida de PC",
-      "desc": "Amount of SP lost due to the Identity's 'Base factors decreasing Sanity(SP)'"
+      "desc": "Cantidad de PC perdidos por las condiciones de curación de PC base de los Pecadores'"
     },
     {
       "id": "DuelDeclaration",
-      "name": "Declared Duel",
-      "desc": "In a clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power, and gains 1 Haste next turn after a successful attack. (4 times per turn) Effect lifted when the unit that declared duel declares it on a different target. Replaced when another unit declares a duel. "
+      "name": "Duelo Declarado",
+      "desc": "En un choque entre la unidad que infligió Duelo Declarado y la unidad con el estado, el declarante tiene +1 Poder de Choque, y gana 1 de Rapidez el siguiente turno tras un ataque con éxito. (4 veces por turno) El efecto desaparece cuando la unidad que declaró el duelo lo declara sobre un objetivo diferente. Reemplazado cuando otra unidad declara duelo. "
     },
     {
       "id": "Aggro",
-      "name": "Aggro",
-      "desc": "In focused encounters, slots with higher Aggro values are more likely to be targeted by enemies."
+      "name": "Agravio",
+      "desc": "En los Encuentros Centrados, las ranuras con valores de Agravio más altos tienen más probabilidades de ser objetivo de los enemigos."
     },
     {
       "id": "BurstVulnerable",
-      "name": "Ruptura Fragility",
-      "desc": "Take +{0} damage from Ruptura effects this turn."
+      "name": "Fragilidad a la Ruptura",
+      "desc": "Recibe +{0} de daño de efectos de Ruptura este turno."
     },
     {
       "id": "EmergencyFeed",
-      "name": "Emergency Nutrient Supply",
-      "desc": "At the end of the turn, if this unit has healed 15% of Max HP or more, the body is restored next turn."
+      "name": "Suministro de Nutrientes de Emergencia",
+      "desc": "Al final del turno, si esta unidad se ha curado un 15% de su HP máximo o más, se restaura el cuerpo en el siguiente turno."
     },
     {
       "id": "Bullet_Crab",
-      "name": "Molted Shell Shot",
-      "desc": "Resource used by certain skills for additional effects."
+      "name": "Proyectil de Caparazón Fundido",
+      "desc": "Recurso utilizado por ciertas habilidades para obtener efectos adicionales."
     },
     {
       "id": "SinkingVulnerable",
-      "name": "Sinking Fragility",
-      "desc": "Take +{0} damage from Sinking effects this turn."
+      "name": "Fragilidad al Ahogo",
+      "desc": "Recibe +{0} de daño de efectos de Ahogo este turno."
     },
     {
       "id": "BurstProtection",
-      "name": "Ruptura Protection",
-      "desc": "Take -{0} damage from Ruptura effects this turn."
+      "name": "Protección a la Ruptura",
+      "desc": "Recibe -{0} de daño de efectos de Ruptura este turno."
     },
     {
       "id": "PseudoLastBoss_KingCrap",
-      "name": "Crab Rage",
-      "desc": "At the start of the turn, apply de Poder de Ataque Aumentado to all other allied crabs, and gana 2 Protection if its Shell isn't broken.\n-5 SP to target when using a skill.\nAt 50%- HP, every part gains 2 de Poder de Ataque Aumentado and 2 de Fragilidad."
+      "name": "Furia Cangrejera",
+      "desc": "Al inicio del turno, aplica Poder de Ataque Aumentado a todos los cangrejos aliados, y obtiene 2 Protección si su Caparazón no está roto.\n-5 PC al objetivo cuando se usa una habilidad.\nA 50%- de HP, cada parte gana 2 Poder de Ataque Aumentado y 2 Frágil."
     },
     {
       "id": "ChargeForceField",
-      "name": "Barrera Cargada",
-      "desc": "- Gain ({0} x 3) Shield.\n- Lose 1 Barrera Cargada # after losing ({0} x 3) Shield.\n- (If the unit is a W Corp. employee, ALL Barrera Cargada effects activate at ({0} x 5) instead of at ({0} x 3))\n- Turn End: Gain a Charge Count for each Barrera Cargada #, and Barrera Cargada and Shield Gained from Barrera Cargada expire completely next turn"
+      "name": "Barrera de Carga",
+      "desc": "- Gana ({0} x 3) de Escudo.\n- Pierde 1 Barrera de Carga # después de perder ({0} x 3) Escudo.\n- (Si la unidad es un empleado de W Corp, TODOS los efectos de Barrera de Carga se activan a ({0} x 5) en vez de a ({0} x 3))\n- Fin de Turno: Gana un Contador de Carga por cada # de Barrera de Carga, y la Barrera de Carga y el Escudo ganados por la Barrera de Carga expiran completamente el siguiente turno."
     },
     {
       "id": "SlashResultUp",
       "name": "Poder Cortante Aumentado",
-      "desc": "Slash Poder Final de Habilidad +{0} este turno.",
-      "summary": "Slash Poder Final de Habilidad +{0}"
+      "desc": "Poder Final de la Habilidad Cortante +{0} para este turno.",
+      "summary": "Poder Final de la Habilidad Cortante +{0}"
     },
     {
       "id": "RailBuffForLine2_A_ENEMY",
-      "name": "Cycle"
+      "name": "Ciclo"
     },
     {
       "id": "RailBuffForLine2_B_ENEMY",
-      "name": "Opportunistic"
+      "name": "Oportunista"
     },
     {
       "id": "RailBuffForLine2_C_ENEMY",
-      "name": "Hardening"
+      "name": "Endurecimiento"
     },
     {
       "id": "RailBuffForLine2_D_ENEMY",
-      "name": "Accelerating"
+      "name": "Aceleración"
     },
     {
       "id": "RailBuffForLine2_E_ENEMY",
-      "name": "Inhaling"
+      "name": "Inhalación"
     },
     {
       "id": "RailBuffForLine2_F_ENEMY",
-      "name": "Thirsting"
+      "name": "Sediento"
     },
     {
       "id": "RailBuffForLine2_A_ALLY",
-      "name": "Slash Boost"
+      "name": "Potencia Cortante"
     },
     {
       "id": "RailBuffForLine2_B_ALLY",
-      "name": "Pierce Boost"
+      "name": "Potencia Perforante"
     },
     {
       "id": "RailBuffForLine2_C_ALLY",
-      "name": "Blunt Boost"
+      "name": "Potencia Contundente"
     },
     {
       "id": "RailBuffForLine2_D_ALLY",
-      "name": "Wrath Boost"
+      "name": "Ira Potenciada"
     },
     {
       "id": "RailBuffForLine2_E_ALLY",
-      "name": "Lust Boost"
+      "name": "Lujuria Potenciada"
     },
     {
       "id": "RailBuffForLine2_F_ALLY",
-      "name": "Sloth Boost"
+      "name": "Pereza Potenciada"
     },
     {
       "id": "RailBuffForLine2_G_ALLY",
-      "name": "Gluttony Boost"
+      "name": "Gula Potenciada"
     },
     {
       "id": "RailBuffForLine2_H_ALLY",
-      "name": "Gloom Boost"
+      "name": "Melancolía Potenciada"
     },
     {
       "id": "RailBuffForLine2_I_ALLY",
-      "name": "Pride Boost"
+      "name": "Orgullo Potenciado"
     },
     {
       "id": "RailBuffForLine2_J_ALLY",
-      "name": "Envy Boost"
+      "name": "Envidia Potenciada"
     },
     {
       "id": "RailBuffForLine2_K_ALLY",
-      "name": "Heal All"
+      "name": "Curar a Todos"
     },
     {
       "id": "RailBuffForLine2_L_ALLY",
-      "name": "Heal Selected"
+      "name": "Curar Seleccionado"
     },
     {
       "id": "RailBuffForLine2_T_ALLY",
-      "name": "Resurrect"
+      "name": "Resucitar"
     },
     {
       "id": "Discard",
       "name": "Descarta",
-      "desc": "- Delete Skills that fit the condition and are selectable during the Chaining Phase from the Dashboard. (Defensive & E.G.O Skills do not count. Does not delete the Skill from the upcoming Skills list)\n- Discarded Skills will not activate Skill effects or Coin effects other than effects from Discard, and will not give E.G.O resources."
+      "desc": "- - Elimina las Habilidades que se ajusten a la condición y que se puedan seleccionar durante la Fase de Encadenamiento desde el Tablero. (Las Habilidades Defensivas y E.G.O. no cuentan. No elimina la Habilidad de la lista de próximas Habilidades)\n- Las Habilidades Descartadas no activarán efectos de Habilidad o efectos de Moneda que no sean efectos de Descarte, y no darán recursos E.G.O."
     },
     {
       "id": "RailBuffForLine2_M_ALLY",
-      "name": "Quemadura Boost"
+      "name": "Potenciador de Quemadura"
     },
     {
       "id": "RailBuffForLine2_N_ALLY",
-      "name": "Sangrado Boost"
+      "name": "Potenciador de Sangrado"
     },
     {
       "id": "RailBuffForLine2_O_ALLY",
-      "name": "Tremor Boost"
+      "name": "Potenciador de Tremor"
     },
     {
       "id": "RailBuffForLine2_P_ALLY",
-      "name": "Ruptura Boost"
+      "name": "Potenciador de Ruptura"
     },
     {
       "id": "RailBuffForLine2_Q_ALLY",
-      "name": "Sinking Boost"
+      "name": "Potenciador de Ahogo"
     },
     {
       "id": "RailBuffForLine2_R_ALLY",
-      "name": "Poise Boost"
+      "name": "Potenciador de Temple"
     },
     {
       "id": "RailBuffForLine2_S_ALLY",
-      "name": "Charge Boost"
+      "name": "Potenciador de Carga"
     },
     {
       "id": "KnowledgeExplored",
-      "name": "Percepción",
-      "desc": "Last Discarded Skill Rank: {0} (Base Value: 1)"
+      "name": "Conocimiento",
+      "desc": "Último Rango de Habilidad Descartado: {0} (Valor Base: 1)"
     },
     {
       "id": "Unjust_Enrichment",
-      "name": "Unjust Enrichment",
-      "desc": "- Gained on Heads Hit against target with Sangrado (Max 4)\n- When 'Bullets are Pricey' Passive activates, consume all Unjust Enrichment stack to deal bonus damage"
+      "name": "Enriquecimiento Injusto",
+      "desc": "--Obtenido al golpear enemigos con Sangrado de Monedas caídas en Cara (Máx 4)\n- Cuando la pasiva 'Balas Costosas' se activa, consume toda la pila de Enriquecimiento Injusto para infligir daño adicional"
     },
     {
       "id": "RetaliationBook",
       "name": "Marca de Venganza",
-      "desc": "Applied to the unit that dealt the most damage to an ally (Max 1)",
+      "desc": "Se aplica a la unidad que haya infligido más daño a un aliado (Máx 1)",
       "undefined": "-"
     },
     {
       "id": "PenetrateResultUp",
-      "name": "Pierce Power Up",
-      "desc": "Pierce Poder Final de Habilidad +{0} este turno.",
-      "summary": "Pierce Poder Final de Habilidad +{0}"
+      "name": "Poder Perforante Aumentado",
+      "desc": "Poder Final de la Habilidad Perforante +{0} para este turno.",
+      "summary": "Poder Final de la Habilidad Perforante +{0}"
     },
     {
       "id": "DuelDeclaration_DonQuixote",
-      "name": "Declared Duel - Don Quixote",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Duelo Declarado - Don Quixote",
+      "desc": "- En un Choque entre la unidad que infligió Duelo Declarado y la unidad con el estado, el declarante tiene +1 Poder de Choque. Al Golpear, el declarante gana 1 Rapidez en el siguiente turno. (4 veces por turno)\n- Expira cuando la unidad inflige Duelo Declarado a un objetivo diferente. Se reemplaza cuando otra unidad inflige Duelo Declarado al mismo objetivo."
     },
     {
       "id": "DuelDeclaration_Outis",
-      "name": "Declared Duel - Outis",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Duelo Declarado - Outis",
+      "desc": "- En un Choque entre la unidad que infligió Duelo Declarado y la unidad con el estado, el declarante tiene +1 Poder de Choque. Al Golpear, el declarante gana 1 Rapidez en el siguiente turno. (4 veces por turno)\n- Expira cuando la unidad inflige Duelo Declarado a un objetivo diferente. Se reemplaza cuando otra unidad inflige Duelo Declarado al mismo objetivo."
     },
     {
       "id": "DuelDeclaration_Sinclair",
-      "name": "Declared Duel - Sinclair",
-      "desc": "- In a Clash between the unit that inflicted Declared Duel and the unit with the status, the declarer has +1 Clash Power. On Hit, the declarer gains 1 Haste next turn. (4 times per turn)\n- Expires when the unit inflicts Declared Duel on a different target. Replaced when another unit inflicts Declared Duel on the same target."
+      "name": "Duelo Declarado - Sinclair",
+      "desc": "- En un Choque entre la unidad que infligió Duelo Declarado y la unidad con el estado, el declarante tiene +1 Poder de Choque. Al Golpear, el declarante gana 1 Rapidez en el siguiente turno. (4 veces por turno)\n- Expira cuando la unidad inflige Duelo Declarado a un objetivo diferente. Se reemplaza cuando otra unidad inflige Duelo Declarado al mismo objetivo."
     },
     {
       "id": "VibrationExplosion",
       "name": "Estallido de Tremor",
-      "desc": "Raise target's Stagger Threshold by Tremor Potency on target"
+      "desc": "Aumenta el Umbral de Aturdimiento del objetivo por la Potencia de Tremor del objetivo."
     },
     {
       "id": "OneOnOneDuel",
-      "name": "Single Combat",
-      "desc": "Established when the attacked Slot is targeted by a single unit, and only by that single unit. This condition is established only between the attacking unit and the attacked Slot. (Does not apply to reused Skills)"
+      "name": "Combate Individual",
+      "desc": "Se establece cuando la Ranura atacada es objetivo de una única unidad, y sólo de esa única unidad. Esta condición se establece sólo entre la unidad atacante y la Ranura atacada. (No se aplica a las Habilidades reutilizadas)"
     },
     {
       "id": "BulletFreischutz",
@@ -1694,44 +1694,44 @@
     },
     {
       "id": "FreischutzShotCount",
-      "name": "Magic Bullet",
-      "desc": "- Max Value: 7\n- Value changes depending on certain Skill effects.\n- Skill 3 Base Power +{0}\n- Skill 3 Coin Power +{1}"
+      "name": "Bala Mágica",
+      "desc": "- Valor máximo: 7\n- El valor cambia dependiendo de ciertos efectos de Habilidad.\n- Poder Base de la Tercera Habilidad +{0}\n- Poder de Moneda de la Tercera Habilidad +{1}"
     },
     {
       "id": "DarkFlame",
-      "name": "Dark Flame",
-      "desc": "- Unique Quemadura\n- Max Value: 7\n- Target Defense Level -{0}\n- Turn End: Deal ({0} x Quemadura on target) Pride Affinity damage, then expires"
+      "name": "Llama Oscura",
+      "desc": "- Quemadura Única\n- Valor máximo: 7\n- Nivel de Defensa del Objetivo -{0}\n- Fin de Turno: Inflige ({0} x Quemadura en el objetivo) de daño de Afinidad de Orgullo, luego expira"
     },
     {
       "id": "CtrlTeamCaptain",
-      "name": "Control Team Captain",
-      "desc": "- Skill Slot +1\n- Modify Skill pool: Gana 1 use of Skill 3, but lose 1 use of Skill 1\n- When this unit defeats an enemy with a Skill, 2 allies(including this unit) with the least SP heal 25 SP. Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities"
+      "name": "Capitán del Equipo de Control",
+      "desc": "- Ranura de Habilidad +1\n- Modifica la reserva de Habilidades: Gana 1 uso de para la 3ra Habilidad, pero pierde 1 uso de la 1ra Habilidad\n- Cuando esta unidad derrota a un enemigo con una Habilidad, 2 aliados (incluida esta) con el menor PC se curan 25 PC. Gana +2 recursos E.G.O de la Afinidad de la Habilidad que derrotó al enemigo; gana +1 recurso E.G.O para el resto de Afinidades"
     },
     {
       "id": "HeatedGasHarpoon",
-      "name": "Heated Gas Harpoon",
-      "desc": "This Turn: Inflige 1 Quemadura with Heads Hit"
+      "name": "Arpón de Gas Calentado",
+      "desc": "Este Turno: Inflige 1 Quemadura si Cae Cara"
     },
     {
       "id": "OverHeatedGasHarpoon",
-      "name": "Overheated Gas Harpoon",
-      "desc": "This Turn: Inflige 1 Quemadura On Hit"
+      "name": "Arpón de Gas Sobrecalentado",
+      "desc": "Este Turno: Inflige 1 de Quemadura al Golpear"
     },
     {
       "id": "CoverAttack",
-      "name": "Assist Attack",
-      "desc": "- If unit A applies this effect to unit B: Unit B follows up with an Unopposed Attack with its Skill 1 against the same enemy unit A attacked with its Skill. Activates at Unit A's Attack End.\n- The Skill used as an Assist Attack does not affect Unit B's upcoming Skills list."
+      "name": "Ataque Asistente",
+      "desc": "- Si la unidad A aplica este efecto a la unidad B: La unidad B sigue con un Ataque Sin Oposición con su Habilidad 1 contra el mismo enemigo que la unidad A atacó con su Habilidad. Se activa al Final del Ataque de la Unidad A.\n- La Habilidad usada como Ataque Asistente no afecta a la próxima lista de Habilidades de la Unidad B."
     },
     {
       "id": "ReCompulsion",
-      "name": "Reverse Compulsion",
-      "desc": "Heal 15 SP at every Inicio de Turno"
+      "name": "Compulsión Inversa",
+      "desc": "Cura 15 de PC en cada Inicio de Turno"
     },
     {
       "id": "IndigoResultUp",
-      "name": "Pride Power Up",
-      "desc": "Pride Poder Final de Habilidad +{0} este turno.",
-      "summary": "Pride Poder Final de Habilidad +{0}"
+      "name": "Poder de Orgullo Aumentado",
+      "desc": "Poder Final de la Habilidad de Orgullo +{0} para este turno.",
+      "summary": "Poder Final de la Habilidad de Orgullo +{0}"
     },
     {
       "id": "BladeResultUpTier1",
@@ -1947,6 +1947,24 @@
       "id": "VibrationContinue",
       "name": "Tremor - Eternidad",
       "desc": "- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Potency on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills or Coin effects that trigger Tremor Burst, (Tremor Count on self)% chance to trigger an additional Tremor Burst. (max 50%)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n(Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "summary": ""
+    },
+    {
+      "id": "TimeSuspend",
+      "name": "Time Moratorium",
+      "desc": "- Does not take any damage as long as this effect is active; store all damage received instead\n- Combat End: If there is only 1 Count left of this effect, the effect triggers {0} Tremor Burst(s) after dealing {3} Sloth damage.\n- Turn End: gain 1 Stack and lose 1 Count\n- The Time Moratorium will immediately expire after triggering the Tremor Burst and the Sloth damage effect if another instance of Time Moratorium is inflicted on a unit with Time Moratorium.\n- Stored damage: {2}",
+      "summary": ""
+    },
+    {
+      "id": "TimeRentalTwoPersonality",
+      "name": "Borrowed Time",
+      "desc": "Turn End at 2+ Count:\n- Gain {1} Haste, Clash Power Up, and Fragile next turn\n- If this unit is set to gain more Bind than Haste next turn, the Borrowed Time effect expires at the next Turn Start, and this unit gets Staggered\n\nTurn End: At 1 Count, gain {0} Bind next turn\nTurn End: Gain 1 Stack, lose 1 Count",
+      "summary": ""
+    },
+    {
+      "id": "VibrationChainPersonality",
+      "name": "Tremor - Chain",
+      "desc": "- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": ""
     }
   ]

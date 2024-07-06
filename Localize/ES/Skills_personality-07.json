@@ -6,7 +6,7 @@
         {
           "level": 1,
           "name": "Acechar Presa",
-          "desc": "[WhenUse] Gana +2 de Contador de Temple\n[WhenUse] Gana +2 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +2 de Contador de Temple\n[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -21,7 +21,7 @@
         {
           "level": 2,
           "name": "Acechar Presa",
-          "desc": "[WhenUse] Gana +3 de Contador de Temple\n[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +3 de Contador de Temple\n[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "Acechar Presa",
-          "desc": "[WhenUse] Gana +4 de Contador de Temple\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +4 de Contador de Temple\n[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -56,7 +56,7 @@
         {
           "level": 1,
           "name": "Enganche de Arpón",
-          "desc": "[WhenUse] Gana +2 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -72,7 +72,7 @@
         {
           "level": 2,
           "name": "Enganche de Arpón",
-          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de Temple por cada 3 de Sangrado en el objetivo (Máx 10)",
+          "desc": "[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de Temple por cada 3 de Sangrado en el objetivo (Máx 10)",
           "coinlist": [
             {},
             {
@@ -88,7 +88,7 @@
         {
           "level": 4,
           "name": "Enganche de Arpón",
-          "desc": "[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de Temple por cada 3 de Sangrado en el objetivo (Máx 10)",
+          "desc": "[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de Temple por cada 3 de Sangrado en el objetivo (Máx 10)",
           "coinlist": [
             {},
             {
@@ -190,7 +190,7 @@
         {
           "level": 1,
           "name": "Retribución",
-          "desc": "[WhenUse] Gana +2 de Agro para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
+          "desc": "[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
         {
           "level": 4,
           "name": "Retribución",
-          "desc": "[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
+          "desc": "[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
           "coinlist": [
             {
               "coindescs": [

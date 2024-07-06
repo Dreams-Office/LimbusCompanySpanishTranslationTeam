@@ -150,7 +150,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "R.D.D.F.D ",
+          "name": "R.D.D.F.D",
           "desc": "[WhenUse] Con 7 a 14 de Contador de Carga\nConsume todo el Contador de Carga,\nY consume 3 x (15 - Contador de Carga consumido)% de HP para ganar Poder de Moneda +3 \n[WhenUse] Consume 15 de Contador de Carga para ganar Poder de Moneda +3 ",
           "coinlist": [
             {
@@ -177,7 +177,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Si la habilidad consume 15 de Contador de Carga al usarse, aplica 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">de Barrera Cargada</color></link></u> en sí misma y en otro aliado"
+                  "desc": "[EnemyKill] Si la habilidad consume 15 de Contador de Carga al usarse, aplica 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera de Carga</color></link></u> en sí misma y en otro aliado"
                 }
               ]
             }
@@ -185,7 +185,7 @@
         },
         {
           "level": 4,
-          "name": "R.D.D.F.D ",
+          "name": "R.D.D.F.D",
           "desc": "[WhenUse] Con 7 a 14 de Contador de Carga\nConsume todo el Contador de Carga,\nY consume 3 x (15 - Contador de Carga consumido)% de HP para ganar Poder de Moneda +5\n[WhenUse] Consume 15 de Contador de Carga para ganar Poder de Moneda +5",
           "coinlist": [
             {
@@ -212,7 +212,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Si la habilidad consume 15 de Contador de Carga al usarse, aplica 7 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\"> Barrera Cargada</color></link></u> en sí misma y en otro aliado"
+                  "desc": "[EnemyKill] Si la habilidad consume 15 de Contador de Carga al usarse, aplica 7 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\"> Barrera de Carga</color></link></u> en sí misma y en otro aliado"
                 }
               ]
             }

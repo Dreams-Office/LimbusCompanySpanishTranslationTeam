@@ -359,7 +359,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Gana 3 [AaCePcBh] upon defeating the target."
+                  "desc": "[TargetKill] Gain 3 [AaCePcBh]."
                 }
               ]
             }
@@ -1264,7 +1264,7 @@
         {
           "level": 1,
           "name": "I Follow Orders...",
-          "desc": "[TurnStartBattle] If Queequeg has more than 0 Assist Barrier, activate Assist Attack",
+          "desc": "[TurnStartBattle] If Queequeg has more than 0 Assist Barrier, activate Ataque Asistente",
           "coinlist": [
             {
               "coindescs": [

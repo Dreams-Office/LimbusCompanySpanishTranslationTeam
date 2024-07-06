@@ -18,15 +18,15 @@
       {
           "id": 2028,
           "name": "Rusted Hilt",
-          "desc": "Turn Start: all allies gain 1 Slash Power Up.\n\nBlade Lineage or Kurokumo Clan Identities gain 2 Slash Power Up instead.",
+          "desc": "Turn Start: all allies gain 1 Poder Cortante Aumentado .\n\nBlade Lineage or Kurokumo Clan Identities gain 2 Poder Cortante Aumentado  instead.",
           "simpleDesc": [
               {
                   "abilityID": 2028,
-                  "simpleDesc": "Gain 1 Slash Power Up"
+                  "simpleDesc": "Gain 1 Poder Cortante Aumentado "
               },
               {
                   "abilityID": 20281,
-                  "simpleDesc": "Gain 2 Slash Power Up"
+                  "simpleDesc": "Gain 2 Poder Cortante Aumentado "
               }
           ]
       },
@@ -74,11 +74,11 @@
       {
           "id": 2032,
           "name": "Sublimity",
-          "desc": "Encounter Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)",
+          "desc": "Encounter Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nTurn Start: all allies gain 2 Poder Cortante Aumentado , and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)",
           "simpleDesc": [
               {
                   "abilityID": 2032,
-                  "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                  "simpleDesc": "Gain 2 Poder Cortante Aumentado  and deal +35% more Slash Damage"
               },
               {
                   "abilityID": 20321,
@@ -89,11 +89,11 @@
       {
           "id": 2033,
           "name": "Unbending",
-          "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self.",
+          "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 Poder Cortante Aumentado , and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self.",
           "simpleDesc": [
               {
                   "abilityID": 2033,
-                  "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
+                  "simpleDesc": "Gain 2 Poder Cortante Aumentado  and deal +35% more Slash Damage"
               },
               {
                   "abilityID": 20331,

@@ -571,13 +571,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Firing Molted Shell Shot",
+                    "name": "Disparando Proyectil de Caparazón Fundido",
                     "desc": "[CantIdentify]\nDeal +15% damage per 5 Rupture on target",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Gasta 1 Molted Shell Shot"
+                                    "desc": "[OnSucceedAttack] Gasta 1 Proyectil de Caparazón Fundido"
                                 }
                             ]
                         }

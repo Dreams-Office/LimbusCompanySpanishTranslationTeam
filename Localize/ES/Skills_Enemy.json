@@ -4128,7 +4128,7 @@
         {
           "level": 1,
           "name": "Harming Curse",
-          "desc": "[WhenUse] Gana 1 Entangled Curse Talisman",
+          "desc": "[WhenUse] Gana 1 Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
@@ -4147,7 +4147,7 @@
         {
           "level": 1,
           "name": "Proliferating Curse",
-          "desc": "[WhenUse] Gana 2 Entangled Curse Talisman",
+          "desc": "[WhenUse] Gana 2 Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
@@ -4173,7 +4173,7 @@
         {
           "level": 1,
           "name": "Restraining Curse",
-          "desc": "[WhenUse] Gana 2 Entangled Curse Talisman",
+          "desc": "[WhenUse] Gana 2 Talismán Maldito Enredado",
           "coinlist": [
             {},
             {
@@ -4193,7 +4193,7 @@
         {
           "level": 1,
           "name": "Pronounced Wound",
-          "desc": "[EndBattle] Remove all Entangled Curse Talisman",
+          "desc": "[EndBattle] Remove all Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
@@ -4649,7 +4649,7 @@
         {
           "level": 1,
           "name": "Borrow Time",
-          "desc": "[StartBattle] Gana 3 Tiempo Prestado and +1 Contador de Carga",
+          "desc": "[StartBattle] Gana 3 [TimeRental] and +1 Contador de Carga",
           "coinlist": [
             {}
           ]

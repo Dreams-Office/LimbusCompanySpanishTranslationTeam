@@ -144,7 +144,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gana 6 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gana 6 Tremor and trigger Estallido de Tremor on self\nDeal Blunt damage equal to Estallido de Tremor damage"
                 }
               ]
             }
@@ -158,7 +158,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gana 10 Tremor and trigger Tremor Burst on self\nDeal Blunt damage equal to Tremor Burst damage"
+                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gana 10 Tremor and trigger Estallido de Tremor on self\nDeal Blunt damage equal to Estallido de Tremor damage"
                 }
               ]
             }
@@ -172,7 +172,7 @@
         {
           "level": 1,
           "name": "Crab Bastards...!",
-          "desc": "[WhenUse] Gana 1 Rupture Protection (3 times per turn)",
+          "desc": "[WhenUse] Gana 1 Protección a la Ruptura (3 times per turn)",
           "coinlist": [
             {
               "coindescs": [

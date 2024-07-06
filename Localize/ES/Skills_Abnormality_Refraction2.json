@@ -144,7 +144,7 @@
         {
           "level": 1,
           "name": "Volatile Response",
-          "desc": "[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>",
+          "desc": "[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Espinas</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
@@ -163,7 +163,7 @@
         {
           "level": 1,
           "name": "Volatile Reaction",
-          "desc": "[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Thorns</color></link></u>",
+          "desc": "[StartBattle] Gain <sprite name=\"Thorn\"><color=#a16a3b><u><link=\"Thorn\">Espinas</color></link></u>",
           "coinlist": [
             {
               "coindescs": [
@@ -489,7 +489,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor"
                 }
               ]
             }
@@ -889,7 +889,7 @@
                   "desc": "[OnSucceedAttack] Inflict 5 Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor"
                 }
               ]
             }
@@ -1023,7 +1023,7 @@
         {
           "level": 1,
           "name": "Charmed Consciousness",
-          "desc": "Attacking Faelantern deals 0 damage.",
+          "desc": "Attacking Linterna de las Hadas deals 0 damage.",
           "coinlist": [
             {
               "coindescs": [
@@ -1797,7 +1797,7 @@
                   "desc": "[OnSucceedAttack] Inflict +2 Tremor Count"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst"
+                  "desc": "[OnSucceedAttackHead] Trigger Estallido de Tremor"
                 }
               ]
             }
@@ -1811,7 +1811,7 @@
         {
           "level": 1,
           "name": "Slumbering Sloth",
-          "desc": "If attacked while Shielded, trigger Tremor Burst on self and the attacker",
+          "desc": "If attacked while Shielded, trigger Estallido de Tremor on self and the attacker",
           "coinlist": [
             {
               "coindescs": [

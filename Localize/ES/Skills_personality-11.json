@@ -53,7 +53,7 @@
         {
           "level": 1,
           "name": "Slice",
-          "desc": "[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] Descarta the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -72,7 +72,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Estallido de Tremor. Reduce target's Tremor Count by 1"
                 }
               ]
             }
@@ -81,7 +81,7 @@
         {
           "level": 2,
           "name": "Slice",
-          "desc": "If this Skill is Discarded, gana 1 Nivel Ofensivo Aumentado\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "If this Skill is Discarded, gana 1 Nivel Ofensivo Aumentado\n[WhenUse] Descarta the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -100,7 +100,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Estallido de Tremor. Reduce target's Tremor Count by 1"
                 }
               ]
             }
@@ -109,7 +109,7 @@
         {
           "level": 4,
           "name": "Slice",
-          "desc": "If this Skill is Discarded, gana 1 Nivel Ofensivo Aumentado\n[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "If this Skill is Discarded, gana 1 Nivel Ofensivo Aumentado\n[WhenUse] Descarta the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {
               "coindescs": [
@@ -128,7 +128,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Tremor Burst. Reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] At 6+ Tremor Count, trigger Estallido de Tremor. Reduce target's Tremor Count by 1"
                 }
               ]
             }
@@ -142,7 +142,7 @@
         {
           "level": 3,
           "name": "Daring Decision",
-          "desc": "[WhenUse] Discard this unit's Skills in descending order of ranks from all of its Skill Slots\nGasta 10 Tremor Count to gain Coin Power +1",
+          "desc": "[WhenUse] Descarta this unit's Skills in descending order of ranks from all of its Skill Slots\nGasta 10 Tremor Count to gain Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -157,21 +157,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttackHead] Trigger Estallido de Tremor; after Estallido de Tremor, reduce target's Tremor Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttackHead] Trigger Estallido de Tremor; after Estallido de Tremor, reduce target's Tremor Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Trigger Tremor Burst; after Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttackHead] Trigger Estallido de Tremor; after Estallido de Tremor, reduce target's Tremor Count by 1"
                 }
               ]
             }
@@ -180,7 +180,7 @@
         {
           "level": 4,
           "name": "Daring Decision",
-          "desc": "[WhenUse] Discard this unit's Skills in descending order of ranks from all of its Skill Slots\nGasta 10 Tremor Count to gain Coin Power +2",
+          "desc": "[WhenUse] Descarta this unit's Skills in descending order of ranks from all of its Skill Slots\nGasta 10 Tremor Count to gain Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -195,21 +195,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; After Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor; After Estallido de Tremor, reduce target's Tremor Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; After Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor; After Estallido de Tremor, reduce target's Tremor Count by 1"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst; After Tremor Burst, reduce target's Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor; After Estallido de Tremor, reduce target's Tremor Count by 1"
                 }
               ]
             }
@@ -223,7 +223,7 @@
         {
           "level": 1,
           "name": "Hangover Cure",
-          "desc": "[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] Descarta the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {}
           ]
@@ -231,7 +231,7 @@
         {
           "level": 4,
           "name": "Hangover Cure",
-          "desc": "[WhenUse] Discard the Skill of lowest rank in all of this unit's Skill Slots",
+          "desc": "[WhenUse] Descarta the Skill of lowest rank in all of this unit's Skill Slots",
           "coinlist": [
             {}
           ]
@@ -265,7 +265,7 @@
         {
           "level": 2,
           "name": "Marche",
-          "desc": "[WhenUse] Gana 2 [Agility] next turn\n[WhenUse] This slot gains 1 Aggro next turn",
+          "desc": "[WhenUse] Gana 2 [Agility] next turn\n[WhenUse] This slot gains 1 Agravio next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -286,7 +286,7 @@
         {
           "level": 4,
           "name": "Marche",
-          "desc": "[WhenUse] Gana 2 [Agility] next turn\n[WhenUse] This Skill Slot gains 3 Aggro next turn",
+          "desc": "[WhenUse] Gana 2 [Agility] next turn\n[WhenUse] This Skill Slot gains 3 Agravio next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -333,7 +333,7 @@
         {
           "level": 2,
           "name": "Punition",
-          "desc": "If this unit's Speed is higher than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 2 Aggro next turn",
+          "desc": "If this unit's Speed is higher than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 2 Agravio next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -354,7 +354,7 @@
         {
           "level": 4,
           "name": "Punition",
-          "desc": "If this unit's Speed is higher than the target's, Coin Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 4 Aggro next turn",
+          "desc": "If this unit's Speed is higher than the target's, Coin Power +2\n[WhenUse] Gain +2 [Breath] Count\n[WhenUse] This Skill Slot gains 4 Agravio next turn",
           "coinlist": [
             {
               "coindescs": [

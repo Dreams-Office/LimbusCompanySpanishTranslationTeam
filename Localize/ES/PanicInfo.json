@@ -50,25 +50,25 @@
     },
     {
       "id": 1009,
-      "panicName": "Suicidal",
+      "panicName": "Suicida",
       "lowMoraleDescription": "When at low morale for the first time, become unable to act",
       "panicDescription": "Cannot act for 3 turns. After 3 turns, unit dies at turn start; all its allies lose additional 10 SP with every SP loss condition"
     },
     {
       "id": 1010,
-      "panicName": "Wandering",
+      "panicName": "Errante",
       "lowMoraleDescription": "Turn End: Deal 2 SP damage to allies",
       "panicDescription": "Turn End: Deal 5 SP damage to allies. Flees from battle after 3 turns have passed"
     },
     {
       "id": 1011,
-      "panicName": "Unstable",
+      "panicName": "Inestable",
       "lowMoraleDescription": "Turn Start: Gain 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> and 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>",
       "panicDescription": "Turn Start: Become staggered"
     },
     {
       "id": 1012,
-      "panicName": "Dejection",
+      "panicName": "Desaliento",
       "lowMoraleDescription": "Gana 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -1 for the clash.",
       "panicDescription": "Gain 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; In a clash, if any Coin lands tails, Clash Power -3 for the clash."
     },
@@ -92,7 +92,7 @@
     },
     {
       "id": 1015,
-      "panicName": "Pallid Panic",
+      "panicName": "Pánico Pálido",
       "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
       "panicDescription": "Every Turn End: Gain 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Bind</color></link></u>.\nEvery Coin this unit flips lands on tails."
     },

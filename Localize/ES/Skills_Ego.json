@@ -258,7 +258,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Emisor Representativo",
+          "name": "Emisor de Representaciones",
           "abName": "Faust",
           "desc": "",
           "coinlist": [
@@ -273,7 +273,7 @@
         },
         {
           "level": 3,
-          "name": "Emisor Representativo",
+          "name": "Emisor de Representaciones",
           "abName": "Faust",
           "desc": "",
           "coinlist": [
@@ -288,7 +288,7 @@
         },
         {
           "level": 4,
-          "name": "Emisor Representativo",
+          "name": "Emisor de Representaciones",
           "abName": "Faust",
           "desc": "",
           "coinlist": [
@@ -2636,7 +2636,7 @@
         {
           "level": 1,
           "name": "Linterna",
-          "abName": "Hadalinterna",
+          "abName": "Linterna de las Hadas",
           "desc": "",
           "coinlist": [
             {
@@ -2651,7 +2651,7 @@
         {
           "level": 3,
           "name": "Linterna",
-          "abName": "Hadalinterna",
+          "abName": "Linterna de las Hadas",
           "desc": "",
           "coinlist": [
             {
@@ -2671,7 +2671,7 @@
         {
           "level": 1,
           "name": "Linterna",
-          "abName": "Hadalinterna",
+          "abName": "Linterna de las Hadas",
           "desc": "[CantIdentify] \nElije a la unidad con más HP",
           "coinlist": [
             {
@@ -2689,7 +2689,7 @@
         {
           "level": 3,
           "name": "Linterna",
-          "abName": "Hadalinterna",
+          "abName": "Linterna de las Hadas",
           "desc": "[CantIdentify] \nElije a la unidad con más HP",
           "coinlist": [
             {
@@ -3366,7 +3366,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Quemadura on 5 enemigos"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, Entonces reducie el contador de Tremor por 2; if the Tremor Burst Staggered the target, Inflige +3 de Contador de Quemadura on 5 enemigos aleatorios"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, Entonces reducie el contador de Tremor por 2; if the Estallido de Tremor Staggered the target, Inflige +3 de Contador de Quemadura on 5 enemigos aleatorios"
                 }
               ]
             }
@@ -3440,7 +3440,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Quemadura on 5 unidades aleatorias"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, Entonces reducie el contador de Tremor por 2; if the Tremor Burst Staggered the target, Inflige +4 de Contador de Quemadura on 5 unidades aleatorias"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor, Entonces reducie el contador de Tremor por 2; if the Estallido de Tremor Staggered the target, Inflige +4 de Contador de Quemadura on 5 unidades aleatorias"
                 }
               ]
             }

@@ -3520,7 +3520,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Tremor Burst by target's Tremor Count"
+                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor by target's Tremor Count"
                 }
               ]
             }
@@ -3749,7 +3749,7 @@
         {
           "level": 1,
           "name": "Sink It All",
-          "desc": "[WhenUse] Lose 30 SP and gana 5 Sinking; Gain Corroding Heart next turn",
+          "desc": "[WhenUse] Lose 30 SP and gana 5 Sinking; Gain Corazón Corroído next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -3784,7 +3784,7 @@
         {
           "level": 1,
           "name": "Don't Touch Me...!",
-          "desc": "[StartBattle] Gain Thorns",
+          "desc": "[StartBattle] Gain Espinas",
           "coinlist": [
             {}
           ]
@@ -3805,7 +3805,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             },
@@ -3815,7 +3815,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             }
@@ -3834,14 +3834,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Floración"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Floración"
                 }
               ]
             }
@@ -3863,7 +3863,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Floración"
                 }
               ]
             }
@@ -3877,19 +3877,19 @@
         {
           "level": 1,
           "name": "Like Flowers in Full Bloom...",
-          "desc": "[WhenUse] Inflige 3 Blooming",
+          "desc": "[WhenUse] Inflige 3 de Floración",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             },
@@ -3912,7 +3912,7 @@
                   "desc": "[OnSucceedAttack] Target loses 15 SP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Floración"
                 }
               ]
             }
@@ -3939,7 +3939,7 @@
         {
           "level": 1,
           "name": "Flowering Glory",
-          "desc": "[StartBattle] Gana 10 Protection\n[DefeatDuel] Gana 1 Scattering Petals",
+          "desc": "[StartBattle] Gana 10 Protection\n[DefeatDuel] Gana 1 Dispersión de Pétalos",
           "coinlist": [
             {}
           ]
@@ -3952,7 +3952,7 @@
         {
           "level": 1,
           "name": "Withering Flower",
-          "desc": "[StartBattle] Gana 10 Protection\n[DefeatDuel] Gana 3 Scattering Petals",
+          "desc": "[StartBattle] Gana 10 Protection\n[DefeatDuel] Gana 3 Dispersión de Pétalos",
           "coinlist": [
             {}
           ]
@@ -3965,12 +3965,12 @@
         {
           "level": 1,
           "name": "Culminating Fragrance",
-          "desc": "If target is Fully Bloomed, deal +100% damage",
+          "desc": "If target is Totalmente Florecido, deal +100% damage",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target is Fully Bloomed, stagger them and remove the effect"
+                  "desc": "[OnSucceedAttack] If target is Totalmente Florecido, stagger them and remove the effect"
                 }
               ]
             },
@@ -4001,7 +4001,7 @@
         {
           "level": 1,
           "name": "Piquant Scent",
-          "desc": "[OnSucceedEvade] Inflige 1 Blooming",
+          "desc": "[OnSucceedEvade] Inflige 1 de Floración",
           "coinlist": [
             {}
           ]
@@ -4032,7 +4032,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             }
@@ -4051,14 +4051,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             }
@@ -4077,21 +4077,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Blooming"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Floración"
                 }
               ]
             }
@@ -4117,7 +4117,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fully Bloomed",
+          "name": "Totalmente Florecido",
           "desc": "[DefeatDuel] This unit is defeated",
           "coinlist": [
             {}
@@ -4131,7 +4131,7 @@
         {
           "level": 1,
           "name": "Full Bloom",
-          "desc": "Cannot act\nAt the end of the turn, lose 20 SP\nIf SP reaches -45, fully heal SP, then gain Dazzled Mind next turn\nIf this effect isn't removed for 2 turns, remove it at the end of the turn",
+          "desc": "Cannot act\nAt the end of the turn, lose 20 SP\nIf SP reaches -45, fully heal SP, then gain Mente Deslumbrada next turn\nIf this effect isn't removed for 2 turns, remove it at the end of the turn",
           "coinlist": [
             {}
           ]
@@ -4144,7 +4144,7 @@
         {
           "level": 1,
           "name": "You're Empty As Well",
-          "desc": "[WhenUse] Inflige Empty Mark next turn",
+          "desc": "[WhenUse] Inflige Marca Vacía next turn",
           "coinlist": [
             {
               "coindescs": [
@@ -4215,19 +4215,19 @@
         {
           "level": 1,
           "name": "Thinning",
-          "desc": "Deal +50% damage to targets with Empty Mark\n[DefeatDuel] Gana 1 de Frágil el siguiente turno",
+          "desc": "Deal +50% damage to targets with Marca Vacía\n[DefeatDuel] Gana 1 de Frágil el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Empty Mark, gana 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up next turn"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Empty Mark, gana 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up next turn"
                 }
               ]
             }
@@ -4428,7 +4428,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Seeds next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Semillas next turn"
                 }
               ]
             }
@@ -4447,21 +4447,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Seeds; if target already has Seeds, Inflige 1 more"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; if target already has Semillas, Inflige 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Seeds; if target already has Seeds, Inflige 1 more"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; if target already has Semillas, Inflige 1 more"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Seeds; if target already has Seeds, Inflige 1 more"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; if target already has Semillas, Inflige 1 more"
                 }
               ]
             }
@@ -4480,7 +4480,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Seeds and Overheal; Heal target's HP by 15"
+                  "desc": "[OnSucceedAttack] Inflige 3 Semillas and Sobrecuración; Heal target's HP by 15"
                 }
               ]
             }
@@ -4499,7 +4499,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Fragile and 10 Bleed\nIf target has Nutrient Drain, heal 20 HP, and gana 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragile and 10 Bleed\nIf target has Drenaje de Nutrientes, heal 20 HP, and gana 2 Attack Power Up next turn"
                 }
               ]
             }
@@ -4518,7 +4518,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 HP; Inflige 3 Seeds"
+                  "desc": "[OnSucceedAttack] Heal 10 HP; Inflige 3 Semillas"
                 }
               ]
             }
@@ -4537,14 +4537,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Seeds"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Seeds"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas"
                 }
               ]
             }

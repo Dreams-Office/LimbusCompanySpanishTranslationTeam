@@ -249,7 +249,7 @@
         {
           "level": 1,
           "name": "¡A mi alrededor!",
-          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agro (Una vez por turno)",
+          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agravio (Una vez por turno)",
           "coinlist": [
             {},
             {
@@ -264,7 +264,7 @@
         {
           "level": 2,
           "name": "¡A mi alrededor!",
-          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agro (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agro (una vez por turno)",
+          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agravio (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agravio (una vez por turno)",
           "coinlist": [
             {},
             {
@@ -279,7 +279,7 @@
         {
           "level": 4,
           "name": "¡A mi alrededor!",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agro (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agro (una vez por turno)",
+          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agravio (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agravio (una vez por turno)",
           "coinlist": [
             {},
             {
@@ -321,7 +321,7 @@
         {
           "level": 2,
           "name": "Pursue Them to the End!",
-          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 1 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 1 additional Pride Power Up",
+          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 1 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 1 additional Poder de Orgullo Aumentado",
           "coinlist": [
             {},
             {
@@ -343,7 +343,7 @@
         {
           "level": 4,
           "name": "Pursue Them to the End!",
-          "desc": "[StartBattle] Apply 3 Nivel Ofensivo Aumentado to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 2 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 2 additional Pride Power Up",
+          "desc": "[StartBattle] Apply 3 Nivel Ofensivo Aumentado to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 2 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 2 additional Poder de Orgullo Aumentado",
           "coinlist": [
             {},
             {

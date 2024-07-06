@@ -428,7 +428,7 @@
         {
           "level": 3,
           "name": "Ceder Mi Carne",
-          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+15% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
+          "desc": "[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+15% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
           "coinlist": [
             {}
           ]
@@ -436,7 +436,7 @@
         {
           "level": 4,
           "name": "Ceder Mi Carne",
-          "desc": "[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +3% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 75%)\n+30% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
+          "desc": "[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +3% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 75%)\n+30% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
           "coinlist": [
             {}
           ]
@@ -573,7 +573,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aplastar",
+          "name": "Paliza",
           "desc": "",
           "coinlist": [
             {},
@@ -591,7 +591,7 @@
         },
         {
           "level": 2,
-          "name": "Aplastar",
+          "name": "Paliza",
           "desc": "[WinDuel] Inflige +2 de [Burst] Count",
           "coinlist": [
             {},
@@ -609,7 +609,7 @@
         },
         {
           "level": 4,
-          "name": "Aplastar",
+          "name": "Paliza",
           "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1</style>\n[WinDuel] Inflige +2 de [Burst] Count",
           "coinlist": [
             {},

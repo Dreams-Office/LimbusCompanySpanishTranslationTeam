@@ -3020,7 +3020,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aplastar",
+          "name": "Paliza",
           "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado el siguiente turno",
           "coinlist": [
             {
@@ -3034,7 +3034,7 @@
         },
         {
           "level": 2,
-          "name": "Aplastar",
+          "name": "Paliza",
           "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado y Daño Aumentado el siguiente turno",
           "coinlist": [
             {
@@ -3048,7 +3048,7 @@
         },
         {
           "level": 4,
-          "name": "Aplastar",
+          "name": "Paliza",
           "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado y Daño Aumentado el siguiente turno",
           "coinlist": [
             {
@@ -3067,7 +3067,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Sublevación",
+          "name": "Exasperación",
           "desc": "",
           "coinlist": [
             {
@@ -4024,7 +4024,7 @@
         {
           "level": 4,
           "name": "Empujón",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nSi el objetivo tiene 8+ de Tremor, Poder de Habilidad +2",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\nSi el objetivo tiene 8+ de Tremor, Poder de Habilidad +2",
           "coinlist": [
             {
               "coindescs": [
@@ -4187,7 +4187,7 @@
         {
           "level": 4,
           "name": "Protegerse",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nCon 0 de Munición, gana 2 más de Agro",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\nCon 0 de Munición, gana 2 más de Agravio",
           "coinlist": [
             {}
           ]
@@ -5153,7 +5153,7 @@
         {
           "level": 4,
           "name": "Suprimir",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 6 de Tremor",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 6 de Tremor",
           "coinlist": [
             {},
             {
@@ -5193,7 +5193,7 @@
         {
           "level": 4,
           "name": "Golpe Fuerte",
-          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos HP el siguiente turno\n[WhenUse] Gana +10 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Otorga 1 de Protección al aliado con menos HP el siguiente turno\n[WhenUse] Gana +10 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -5226,7 +5226,7 @@
         {
           "level": 4,
           "name": "Protegerse",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -6531,7 +6531,7 @@
         {
           "level": 4,
           "name": "Impulso",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\nCon menos de 50% HP, Poder de Moneda +2",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\nCon menos de 50% HP, Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -6604,7 +6604,7 @@
         {
           "level": 4,
           "name": "Quedas Limpio de Pecado",
-          "desc": "[WhenUse] Gana +6 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +6 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -6654,7 +6654,7 @@
         {
           "level": 4,
           "name": "Aniquilar Herejes",
-          "desc": "[WhenUse] Gana +6 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +6 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -9612,7 +9612,7 @@
         {
           "level": 4,
           "name": "¡Que Pesado...!",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 2 de Tremor y 2 de Ruptura",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 2 de Tremor y 2 de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -9676,7 +9676,7 @@
         {
           "level": 4,
           "name": "¡Se Agita...!",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 3 Tremor y 3 de Ruptura",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 3 Tremor y 3 de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -9716,7 +9716,7 @@
         {
           "level": 4,
           "name": "Salpicadura Corrosiva",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 5 de Tremor y 5 de Ruptura",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 5 de Tremor y 5 de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -9743,7 +9743,7 @@
         {
           "level": 4,
           "name": "Protegerse",
-          "desc": "[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -9772,7 +9772,7 @@
         {
           "level": 4,
           "name": "Impedir Intrusión",
-          "desc": "Si el objetivo tiene 5+ Ruptura, Poder de Moneda +3\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "Si el objetivo tiene 5+ Ruptura, Poder de Moneda +3\n[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -9827,7 +9827,7 @@
         {
           "level": 4,
           "name": "Cuchilla Desintegradora",
-          "desc": "[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -9908,7 +9908,7 @@
         {
           "level": 4,
           "name": "Injección de Vial",
-          "desc": "[WhenUse] Gana 1 Vial de K Corp el siguiente turno\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana 1 Vial de K Corp el siguiente turno\n[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -10658,7 +10658,7 @@
         {
           "level": 4,
           "name": "Obstrucción Caustelosa",
-          "desc": "[WhenUse] Gana +2 de Agro para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Gana +2 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -10707,7 +10707,7 @@
         {
           "level": 4,
           "name": "Defensa Concentrada",
-          "desc": "[WhenUse] Con 15+ de escudo, Gana +2 de Contador de Temple\n[WhenUse] Gana +4 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Con 15+ de escudo, Gana +2 de Contador de Temple\n[WhenUse] Gana +4 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana +2 de Contador de Temple",
           "coinlist": [
             {
               "coindescs": [
@@ -10783,7 +10783,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno"
+                  "desc": "[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno"
                 }
               ]
             }

@@ -553,12 +553,12 @@
     {
       "id": 1090501,
       "name": "Here’s to Getting Off Early~",
-      "desc": "On Tremor Burst, Gasta 3 Charge Count to increase the Stagger Threshold raise by +40%.\nAfter triggering Tremor Burst, gana 1 Haste and 1 Blunt DMG Up next turn."
+      "desc": "On Estallido de Tremor, Gasta 3 Charge Count to increase the Stagger Threshold raise by +40%.\nAfter triggering Estallido de Tremor, gana 1 Haste and 1 Blunt DMG Up next turn."
     },
     {
       "id": 1090521,
       "name": "Resonant Spanner",
-      "desc": "When 1 ally with the lowest Speed triggers Tremor Burst, increase the Stagger Threshold raise by +20%."
+      "desc": "When 1 ally with the lowest Speed triggers Estallido de Tremor, increase the Stagger Threshold raise by +20%."
     },
     {
       "id": 1050501,
@@ -608,27 +608,27 @@
     {
       "id": 1080521,
       "name": "Corrosive Slime",
-      "desc": "When 1 ally with the highest Speed triggers Tremor Burst, they Inflige 2 Rupture."
+      "desc": "When 1 ally with the highest Speed triggers Estallido de Tremor, they Inflige 2 Rupture."
     },
     {
       "id": 1060501,
       "name": "Regeneration Ampule Activation",
-      "desc": "When hit, if at less than 20% HP, heal by 90% of Max HP and gana 1 K Corp Ampule.\nAfter this activates, gana 1 Fragile every turn for the rest of the battle. (Once per battle)"
+      "desc": "When hit, if at less than 20% HP, heal by 90% of Max HP and gana 1 Vial de K Corp.\nAfter this activates, gana 1 Fragile every turn for the rest of the battle. (Once per battle)"
     },
     {
       "id": 1060521,
       "name": "High-grade Ampule",
-      "desc": "At the start of the combat phase, give 2 K Corp Ampule to 1 ally with the lowest HP percentage."
+      "desc": "At the start of the combat phase, give 2 Vial de K Corp to 1 ally with the lowest HP percentage."
     },
     {
       "id": 1100601,
       "name": "Unfixing Talismans",
-      "desc": "On hit, if the target had Rupture, gana 1 Talisman."
+      "desc": "On hit, if the target had Rupture, gana 1 Talismán."
     },
     {
       "id": 1100621,
       "name": "Wishing Talisman",
-      "desc": "At the start of the combat phase, give (Highest Reson. * 2) Talisman to the ally with the most HP."
+      "desc": "At the start of the combat phase, give (Highest Reson. * 2) Talismán to the ally with the most HP."
     },
     {
       "id": 1080601,
@@ -780,17 +780,17 @@
     {
       "id": 1010501,
       "name": "In Times Like These...",
-      "desc": "Upon triggering Tremor Burst on an enemy, Inflige 1 Defense Level Down per 4 Stagger Threshold raised (Max 5 per 1 enemy every turn)"
+      "desc": "Upon triggering Estallido de Tremor on an enemy, Inflige 1 Defense Level Down per 4 Stagger Threshold raised (Max 5 per 1 enemy every turn)"
     },
     {
       "id": 1010521,
       "name": "Cleaning Up the Mess",
-      "desc": "When 1 ally with the lowest Max HP triggers Tremor Burst on an enemy, Inflige 1 Defense Level Down per 4 Stagger Threshold raised (Max 3 per 1 enemy every turn)"
+      "desc": "When 1 ally with the lowest Max HP triggers Estallido de Tremor on an enemy, Inflige 1 Defense Level Down per 4 Stagger Threshold raised (Max 3 per 1 enemy every turn)"
     },
     {
       "id": 1110501,
       "name": "Drinking Boast",
-      "desc": "Upon triggering Tremor Burst on an enemy, Inflige 30% of Raised Stagger Threshold as Sloth damage (Max 20; rounded down)"
+      "desc": "Upon triggering Estallido de Tremor on an enemy, Inflige 30% of Raised Stagger Threshold as Sloth damage (Max 20; rounded down)"
     },
     {
       "id": 1110521,
@@ -820,12 +820,12 @@
     {
       "id": 1020701,
       "name": "Coerced Regret",
-      "desc": "- In a clash, the target has -1 Clash Power if they have 3+ types of negative effects\n- When this unit is alive, enemies affected by Tremor Burst gana 2 Defense Level Down. (Once per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gana 2 Bind and 1 Blunt Power Up next turn"
+      "desc": "- In a clash, the target has -1 Clash Power if they have 3+ types of negative effects\n- When this unit is alive, enemies affected by Estallido de Tremor gana 2 Defense Level Down. (Once per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gana 2 Bind and 1 Blunt Power Up next turn"
     },
     {
       "id": 1020711,
       "name": "Coerced Regret",
-      "desc": "- In a clash, the target has -1 Clash Power for every 3 types of negative effects it has (Max -2 Clash Power)\n- When this unit is alive, enemies affected by Tremor Burst gana 2 Defense Level Down. (3 times per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gana 2 Bind and 1 Blunt Power Up next turn"
+      "desc": "- In a clash, the target has -1 Clash Power for every 3 types of negative effects it has (Max -2 Clash Power)\n- When this unit is alive, enemies affected by Estallido de Tremor gana 2 Defense Level Down. (3 times per enemy per turn)\n- Mental Corruption: If at less than -25 SP at Turn End, gana 2 Bind and 1 Blunt Power Up next turn"
     },
     {
       "id": 1020721,
@@ -835,12 +835,12 @@
     {
       "id": 1010601,
       "name": "Emptied Thought",
-      "desc": "- At Turn End, gana 1 Haste per 5 Charge Count on self next turn. (Max 2)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "desc": "- At Turn End, gana 1 Haste per 5 Charge Count on self next turn. (Max 2)\n- If this unit's Skill consumed Charge Count, apply 3 Barrera de Carga to 1 ally with the lowest HP percentage"
     },
     {
       "id": 1010611,
       "name": "Emptied Thought",
-      "desc": "- At Turn End, gana 1 Haste per 5 Charge Count on self next turn. (Max 3)\n- If this unit's Skill consumed Charge Count, apply 3 Charge Barrier to 1 ally with the lowest HP percentage"
+      "desc": "- At Turn End, gana 1 Haste per 5 Charge Count on self next turn. (Max 3)\n- If this unit's Skill consumed Charge Count, apply 3 Barrera de Carga to 1 ally with the lowest HP percentage"
     },
     {
       "id": 1010621,
@@ -850,12 +850,12 @@
     {
       "id": 1120701,
       "name": "Bullets are Pricey",
-      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage."
+      "desc": "- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u>. (Max 4)\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u> consumed)% of damage dealt as bonus damage."
     },
     {
       "id": 1120702,
       "name": "Bullets are Pricey",
-      "desc": "<style=\"highlight\">- Always Activate : Begin encounters with 7 Munición</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u>. (Max 4)\n<style=\"highlight\">- If a Coin that uses Munición hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage.</style>\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Unjust Enrichment</color></link></u> consumed)% of damage dealt as bonus damage"
+      "desc": "<style=\"highlight\">- Always Activate : Begin encounters with 7 Munición</style>\n- On Heads Hit against target with <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, gain <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u>. (Max 4)\n<style=\"highlight\">- If a Coin that uses Munición hits, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u> and deal (25 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u> consumed)% of damage dealt as bonus damage.</style>\n- If this unit Critical Hits when out of <sprite name=\"Bullet\"><color=#a16a3b><u><link=\"Bullet\">Munición</color></link></u>, consume all <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u> and deal (5 x <sprite name=\"Unjust_Enrichment\"><color=#f8c200><u><link=\"Unjust_Enrichment\">Enriquecimiento Injusto</color></link></u> consumed)% of damage dealt as bonus damage"
     },
     {
       "id": 1120721,
@@ -890,12 +890,12 @@
     {
       "id": 1030601,
       "name": "Vengeance Tattoo",
-      "desc": "- Gana 1 Envy DMG Up next turn every time the enemies strike an ally(including this unit) 3 times. (Max 5)\n- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Final Power +1"
+      "desc": "- Gana 1 Envy DMG Up next turn every time the enemies strike an ally(including this unit) 3 times. (Max 5)\n- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Marca de Venganza</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Marca de Venganza, Final Power +1"
     },
     {
       "id": 1030611,
       "name": "Vengeance Tattoo",
-      "desc": "- Gana 1 Envy DMG Up next turn every time the enemies strike an ally(including this unit) 3 times. (Max 5)\n- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Coin Power +1"
+      "desc": "- Gana 1 Envy DMG Up next turn every time the enemies strike an ally(including this unit) 3 times. (Max 5)\n- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Marca de Venganza</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Marca de Venganza, Coin Power +1"
     },
     {
       "id": 1030621,
@@ -905,12 +905,12 @@
     {
       "id": 1050701,
       "name": "Loyalty",
-      "desc": "- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Final Power +1\n- If there is another surviving ally from the Middle, heal 6 SP at every Turn End"
+      "desc": "- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Marca de Venganza</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Marca de Venganza, Final Power +1\n- If there is another surviving ally from the Middle, heal 6 SP at every Turn End"
     },
     {
       "id": 1050711,
       "name": "Loyalty",
-      "desc": "- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Vengeance Mark</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Vengeance Mark, Final Power +1\n- If there is another surviving ally from the Middle other than this unit, this unit and the surviving ally from the Middle with the least SP both heal 6 SP at every Turn End"
+      "desc": "- Apply <sprite name=\"RetaliationBook\"><color=#e30000><u><link=\"RetaliationBook\">Marca de Venganza</color></link></u> to the unit that dealt the most Skill damage to an ally.\n- If the main target has Marca de Venganza, Final Power +1\n- If there is another surviving ally from the Middle other than this unit, this unit and the surviving ally from the Middle with the least SP both heal 6 SP at every Turn End"
     },
     {
       "id": 1050721,
@@ -1074,7 +1074,7 @@
     {
       "id": 1080811,
       "name": "Captain of the Pequod",
-      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gana 4 Poise, +2 de Contador de Temple. Then, gain [OverHeatedGasHarpoon] next turn.</style>\n<style=\"highlight\">2 other allies with the least SP heal 7 SP and gana 4 Poise.</style>\nIf the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Pierce Power Up next turn.</style>"
+      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gana 4 Poise, +2 de Contador de Temple. Then, gain [OverHeatedGasHarpoon] next turn.</style>\n<style=\"highlight\">2 other allies with the least SP heal 7 SP and gana 4 Poise.</style>\nIf the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Poder Perforante Aumentado next turn.</style>"
     },
     {
       "id": 1080821,
@@ -1480,7 +1480,7 @@
     {
       "id": 1040901,
       "name": "N.O.",
-      "desc": "- When an ally Staggers an enemy with an attack: follow up with a Skill 1 against the Staggered enemy. (once per Turn)\n- If multiple enemies are Staggered at once, target the enemy with the least HP(for Abnormalities, target the Abnormality with the least HP; then, target the Part with the least HP).\n- When using Skill 1 with this effect, this unit gains +1 more [Vibration] Count from its Coin effects, and triggers a [VibrationExplosion] with the last Coin On Hit"
+      "desc": "- When an other ally Staggers an enemy with an attack: follow up with a Skill 1 against the Staggered enemy. (once per Turn)\n- If multiple enemies are Staggered at once, target the enemy with the least HP(for Abnormalities, target the Abnormality with the least HP; then, target the Part with the least HP).\n- When using Skill 1 with this effect, this unit gains +1 more [Vibration] Count from its Coin effects, and triggers a [VibrationExplosion] with the last Coin On Hit"
     },
     {
       "id": 1040921,
@@ -1495,7 +1495,27 @@
     {
       "id": 1060921,
       "name": "In the Culprit's Shoes",
-      "desc": "When #1 Deployed Identity triggers Tremor Burst with Skill or Coin effects, 25% chance to trigger an additional Tremor Burst (once per turn)"
+      "desc": "When #1 Deployed Identity triggers Estallido de Tremor with Skill or Coin effects, 25% chance to trigger an additional Estallido de Tremor (once per turn)"
+    },
+    {
+      "id": 1030901,
+      "name": "Golden Time - Extracting",
+      "desc": "Turn End: If this unit's HP is between 10% ~ 20%, instantly heal 80% of this unit's max HP, and recover from Stagger. (once per Encounter)\n\nWhen this unit loses [TimeRentalTwoPersonality], gain +8 [Aggro] to one of this unit's Skill Slots next turn"
+    },
+    {
+      "id": 1030921,
+      "name": "T Corp. Physics Distortion Field",
+      "desc": "When 1 ally with the slowest Speed takes damage from enemies with [Vibration], take -10% less damage"
+    },
+    {
+      "id": 1090901,
+      "name": "Golden Time - Standoff",
+      "desc": "Turn End: if this unit's HP is between 16% ~ 20%, instantly heal up to 60% of Max HP, and recover from Stagger. (once per Encounter)\n\nWhen Clashing against targets with [TimeSuspend], Clash Power +2\nTake -10% less damage from targets with [TimeSuspend]"
+    },
+    {
+      "id": 1090921,
+      "name": "T Corp. Martial Arts",
+      "desc": "To 1 ally with the fastest Speed: Clash Power +1 when Clashing against targets with 5+ [Vibration]"
     }
   ]
 }

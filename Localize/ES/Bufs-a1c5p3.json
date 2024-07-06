@@ -117,7 +117,7 @@
     {
       "id": "AaCePcBs",
       "name": "Defensa Asistente",
-      "desc": "Atrae las habilidades dirigidas hacia Ahab a las ranuras de esta unidad.\nLa unidad con este efecto tiene Alcance de Ranura ilimitado",
+      "desc": "Reduce el valor por la cantidad de daño recibido.\nNo expira al final del turno.\nFinalizar Turno: Si el valor es 0, Aturdir al usuario el próximo turno.",
       "summary": "",
       "undefined": "-"
     },

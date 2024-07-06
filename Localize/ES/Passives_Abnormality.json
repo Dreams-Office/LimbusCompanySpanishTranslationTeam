@@ -290,12 +290,12 @@
     {
       "id": 804101,
       "name": "Expanding Sorrow",
-      "desc": "At the end of the turn, if the unit has 3+ Unresolved Sorrow, generates a head next turn and changes behavior."
+      "desc": "At the end of the turn, if the unit has 3+ Pena sin Resolver, generates a head next turn and changes behavior."
     },
     {
       "id": 804102,
       "name": "Inconsolable Sorrow",
-      "desc": "At the end of the turn, if the unit has 3+ Unresolved Sorrow and the head is broken, becomes staggered next turn."
+      "desc": "At the end of the turn, if the unit has 3+ Pena sin Resolver and the head is broken, becomes staggered next turn."
     },
     {
       "id": 804103,
@@ -374,12 +374,12 @@
     },
     {
       "id": 804302,
-      "name": "Perilous Heart",
+      "name": "Corazón Precario",
       "desc": "While in low morale, gana 2 Attack Power Up and 3 Bind."
     },
     {
       "id": 804303,
-      "name": "Faltering Heart",
+      "name": "Corazón Vacilante",
       "desc": "In panic, become staggered."
     },
     {
@@ -400,7 +400,7 @@
     {
       "id": 804401,
       "name": "Into Full Bloom",
-      "desc": "At the start of Turn 5, spawn 4 Soon-to-bloom Flowers with 3 Growing"
+      "desc": "At the start of Turn 5, spawn 4 Soon-to-bloom Flowers with 3 Cultivo"
     },
     {
       "id": 804402,
@@ -409,8 +409,8 @@
     },
     {
       "id": 804403,
-      "name": "Dueling",
-      "desc": "When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Dueling', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gana 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP."
+      "name": "Duelo",
+      "desc": "When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Duelo', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gana 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP."
     },
     {
       "id": 804404,
@@ -420,7 +420,7 @@
     {
       "id": 805401,
       "name": "Growing Flower",
-      "desc": "Spawns with 1 Growing"
+      "desc": "Spawns with 1 Cultivo"
     },
     {
       "id": 804901,
@@ -444,22 +444,22 @@
     },
     {
       "id": 805601,
-      "name": "Radiant Vanity",
+      "name": "Vanidad Radiante",
       "desc": "While this unit is present, Dongrang gains 1 Protection and 1 Attack Power Up at the start of each turn."
     },
     {
       "id": 805602,
-      "name": "Earnest Accomplishment",
-      "desc": "While this unit has Earnest Accomplishment, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If a Sinner drops this unit's HP to 1, the Sinner heals HP, and this unit gains Empty Honor.\n- If Dongrang defeats this unit, Dongrang heals HP and powers up next turn."
+      "name": "Dedicación Sincera",
+      "desc": "While this unit has Dedicación Sincera, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If a Sinner drops this unit's HP to 1, the Sinner heals HP, and this unit gains Honor Vacío.\n- If Dongrang defeats this unit, Dongrang heals HP and powers up next turn."
     },
     {
       "id": 805603,
-      "name": "Empty Honor",
-      "desc": "While this unit has Empty Honor, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If Dongrang defeats this unit, Dongrang loses HP, gains 1 Emptiness, and is weakened next turn"
+      "name": "Honor Vacío",
+      "desc": "While this unit has Honor Vacío, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If Dongrang defeats this unit, Dongrang loses HP, gains 1 Vacío, and is weakened next turn"
     },
     {
       "id": 805701,
-      "name": "Borne Fruition",
+      "name": "Fructificación",
       "desc": "The unit that defeated this unit heals by 5% of Max HP, and gains 1 Haste and 1 Attack Power Up next turn"
     },
     {
@@ -469,7 +469,7 @@
     },
     {
       "id": 806001,
-      "name": "Radiant Desire",
+      "name": "Deseo Radiante",
       "desc": "While this unit is present, Dongrang gains 1 Damage Up and 1 Protection at the start of each turn."
     },
     {
@@ -545,12 +545,12 @@
     {
       "id": 806201,
       "name": "Contaminating Leaf",
-      "desc": "At the start of the turn, give 1 HP Healing Boost and 1 Attack Power Up to Fairy-Long-Legs."
+      "desc": "At the start of the turn, give 1 Potenciador de Curación HP and 1 Attack Power Up to Fairy-Long-Legs."
     },
     {
       "id": 80620101,
       "name": "Contaminating Leaf",
-      "desc": "At the start of the turn, give 1 HP Healing Boost and 1 Attack Power Up to Fairy-Long-Legs."
+      "desc": "At the start of the turn, give 1 Potenciador de Curación HP and 1 Attack Power Up to Fairy-Long-Legs."
     },
     {
       "id": 826301,

@@ -343,7 +343,7 @@
                   "desc": "[OnSucceedAttack] Si la Habilidad consumió 15 de Contador de Carga al usarse, Inflige 2 Grieta Dimensional"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 de Barrera Cargada"
+                  "desc": "[EnemyKill] Gana 3 Barrera de Carga"
                 }
               ]
             }
@@ -377,7 +377,7 @@
                   "desc": "[OnSucceedAttack] Si la Habilidad consumió 15 de Contador de Carga al usarse, Inflige 2 Grieta Dimensional"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 5 de Barrera Cargada"
+                  "desc": "[EnemyKill] Gana 5 Barrera de Carga"
                 }
               ]
             }
@@ -718,7 +718,7 @@
         {
           "level": 2,
           "name": "Cerrado y Sellado",
-          "desc": "Gana ([KnowledgeExplored] x 5% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "Gana ([KnowledgeExplored] x 5% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -740,7 +740,7 @@
         {
           "level": 4,
           "name": "Cerrado y Sellado",
-          "desc": "Gana ([KnowledgeExplored] x 6% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Si el objetivo tiene 5+ [Sinking], Poder de Moneda +1\n[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "Gana ([KnowledgeExplored] x 6% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Descarta 1 Habilidad del rango más alto dentro de todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Si el objetivo tiene 5+ [Sinking], Poder de Moneda +1\n[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -767,7 +767,7 @@
         {
           "level": 3,
           "name": "Don del Conocimiento",
-          "desc": "Gana ([KnowledgeExplored] x 9% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +8 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "Gana ([KnowledgeExplored] x 9% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +8 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {},
@@ -784,7 +784,7 @@
         {
           "level": 4,
           "name": "Don del Conocimiento",
-          "desc": "Gana ([KnowledgeExplored] x 12% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +10 de Agro para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Con menos 50% HP, Poder de Moneda +1",
+          "desc": "Gana ([KnowledgeExplored] x 12% de la vida máx.) de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +10 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Con menos 50% HP, Poder de Moneda +1",
           "coinlist": [
             {},
             {},
@@ -806,7 +806,7 @@
         {
           "level": 1,
           "name": "Estudio Específico",
-          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascendente de rangos dentro de todas sus Ranuras de Habilidad\n[WhenUse] Gana +3 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascendente de rangos dentro de todas sus Ranuras de Habilidad\n[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -820,7 +820,7 @@
         {
           "level": 4,
           "name": "Estudio Específico",
-          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascendente de rangos dentro de todas sus Ranuras de Habilidad\n[WhenUse] Gana +5 de Agro para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Aleatoriamente Descarta 2 Habilidades de esta unidad en orden ascendente de rangos dentro de todas sus Ranuras de Habilidad\n[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
