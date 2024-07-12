@@ -124,7 +124,7 @@
         {
           "level": 1,
           "name": "Chirrido Eléctrico",
-          "abName": "Oveja eléctrica soñadora",
+          "abName": "Oveja Eléctrica Soñadora",
           "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 3)",
           "coinlist": [
             {
@@ -139,7 +139,7 @@
         {
           "level": 3,
           "name": "Chirrido Eléctrico",
-          "abName": "Oveja eléctrica soñadora",
+          "abName": "Oveja Eléctrica Soñadora",
           "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 4)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies",
           "coinlist": [
             {
@@ -154,7 +154,7 @@
         {
           "level": 4,
           "name": "Chirrido Eléctrico",
-          "abName": "Oveja eléctrica soñadora",
+          "abName": "Oveja Eléctrica Soñadora",
           "desc": "[BeforeAttack] Gain +12 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max <style=\"highlight\">5</style>)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies\n<style=\"highlight\">- At 6+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies</style>",
           "coinlist": [
             {
@@ -174,7 +174,7 @@
         {
           "level": 1,
           "name": "Chirrido Eléctrico",
-          "abName": "Oveja eléctrica soñadora",
+          "abName": "Oveja Eléctrica Soñadora",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +2% more damage for every [Charge] Count consumed (max 40%)",
           "coinlist": [
             {
@@ -192,7 +192,7 @@
         {
           "level": 3,
           "name": "Chirrido Eléctrico",
-          "abName": "Oveja eléctrica soñadora",
+          "abName": "Oveja Eléctrica Soñadora",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max <style=\"highlight\">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style=\"highlight\">2.5</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">50</style>%)",
           "coinlist": [
             {
@@ -210,7 +210,7 @@
         {
           "level": 4,
           "name": "Chirrido Eléctrico",
-          "abName": "Oveja eléctrica soñadora",
+          "abName": "Oveja Eléctrica Soñadora",
           "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 3)\n<style=\"highlight\">[BeforeAttack] At 10+ [Charge] Count, apply the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style=\"highlight\">3</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">60</style>%)",
           "coinlist": [
             {

@@ -7,13 +7,13 @@
     },
     {
       "id": "OnKillEnemyAsLevelRatioMultiply",
-      "add": "Incrementa por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor al de esta unidad.",
-      "min": "Reduce por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor al de esta unidad."
+      "add": "Incrementa por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor o igual al de esta unidad.",
+      "min": "Reduce por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor o igual al de esta unidad."
     },
     {
       "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
-      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de la unidad.",
-      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de la unidad."
+      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de la unidad.",
+      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de la unidad."
     },
     {
       "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
@@ -22,8 +22,8 @@
     },
     {
       "id": "OnDieAllyAsLevelRatio",
-      "add": "Si el nivel del aliado derrotado era mayor al de la unidad,\nincrementa basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>",
-      "min": "Si el nivel del aliado derrotado era mayor al de la unidad,\nreduce basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>"
+      "add": "Si el nivel del aliado derrotado era mayor o igual al de la unidad,\nincrementa basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>",
+      "min": "Si el nivel del aliado derrotado era mayor o igual al de la unidad,\nreduce basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>"
     },
     {
       "id": "OnRoundStartAfterEvent",
@@ -42,8 +42,8 @@
     },
     {
       "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
-      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de esta unidad.",
-      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor al de esta unidad. No se reduce cuando el enemigo es derrotado por un Ataque Asistente."
+      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de esta unidad.",
+      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de esta unidad. No se reduce cuando el enemigo es derrotado por un Ataque Asistente."
     },
     {
       "id": "OnDieBladeLineageAlly",

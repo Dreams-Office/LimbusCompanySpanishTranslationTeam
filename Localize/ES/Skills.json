@@ -6789,7 +6789,7 @@
         {
           "level": 2,
           "name": "Purga Feroz",
-          "desc": "[WinDuel] Gana 1 de Fánatico el siguiente turno",
+          "desc": "[WinDuel] Gana 1 de Fanático el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -6816,7 +6816,7 @@
         {
           "level": 3,
           "name": "Retribución Acorazada",
-          "desc": "+15% Daño mientras la unidad tenga Fánatico",
+          "desc": "+15% Daño mientras la unidad tenga Fanático",
           "coinlist": [
             {},
             {},
@@ -6839,7 +6839,7 @@
         {
           "level": 4,
           "name": "Retribución Acorazada",
-          "desc": "Si está unidad tiene Fánatico, +15% de Daño\n+5% de Daño por cada aliado de N Corp. en el Equipo",
+          "desc": "Si está unidad tiene Fanático, +15% de Daño\n+5% de Daño por cada aliado de N Corp. en el Equipo",
           "coinlist": [
             {},
             {},
@@ -7253,7 +7253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "E.G.O Corrosion",
+          "name": "E.G.O Corrosión",
           "desc": ""
         }
       ]
@@ -8065,7 +8065,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gana 1 Fánatico el siguiente turno"
+                  "desc": "[OnSucceedAttackTail] Gana 1 Fanático el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
@@ -8083,7 +8083,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Gana 1 Fánatico el siguiente turno"
+                  "desc": "[OnSucceedAttackTail] Gana 1 Fanático el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
@@ -8100,7 +8100,7 @@
         {
           "level": 1,
           "name": "Promulgación Inmoral",
-          "desc": "[WhenUse] Pierde 10 PC\nSi está unidad tiene Fánatico, +5%  de Daño",
+          "desc": "[WhenUse] Pierde 10 PC\nSi está unidad tiene Fanático, +5%  de Daño",
           "coinlist": [
             {},
             {
@@ -8129,7 +8129,7 @@
         {
           "level": 2,
           "name": "Promulgación Inmoral",
-          "desc": "[WhenUse] Pierde 10 PC\nSi está unidad tiene Fánatico, recibe un +10% de daño extra",
+          "desc": "[WhenUse] Pierde 10 PC\nSi está unidad tiene Fanático, recibe un +10% de daño extra",
           "coinlist": [
             {},
             {
@@ -8172,7 +8172,7 @@
         {
           "level": 3,
           "name": "Purga Autodestructiva",
-          "desc": "[WhenUse] Pierde 15 PC\nSi está unidad tiene Fánatico, +15% de Daño\nSi el objetivo es una <Amalgama Mecánica>, recibe un +10% de daño extra",
+          "desc": "[WhenUse] Pierde 15 PC\nSi está unidad tiene Fanático, +15% de Daño\nSi el objetivo es una <Amalgama Mecánica>, recibe un +10% de daño extra",
           "coinlist": [
             {},
             {
@@ -8197,7 +8197,7 @@
         {
           "level": 4,
           "name": "Purga Autodestructiva",
-          "desc": "- [WhenUse] Pierde 15 PC\n- Si está unidad tiene Fánatico, +15% de Daño\n- Si el objetivo es una <Amalgama Mecánica>, recibe un +10% de daño extra",
+          "desc": "- [WhenUse] Pierde 15 PC\n- Si está unidad tiene Fanático, +15% de Daño\n- Si el objetivo es una <Amalgama Mecánica>, recibe un +10% de daño extra",
           "coinlist": [
             {},
             {

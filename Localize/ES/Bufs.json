@@ -337,7 +337,7 @@
     {
       "id": "BabayagaTimeLimit",
       "name": "¡Ahí viene Baba Yaga!",
-      "desc": "Baba Yaga se esta acercando. Despeja el camino o enfréntate a una muerte certera.",
+      "desc": "Baba Yaga se está acercando. Despeja el camino o enfréntate a una muerte certera.",
       "summary": "¡Baba Yaga se aproxima!"
     },
     {
@@ -680,7 +680,7 @@
     {
       "id": "ReinforcedAssemble",
       "name": "Silbido de Kromer",
-      "desc": "No debemos sentir miedo, Aquella Que Agarra esta con nosotros."
+      "desc": "No debemos sentir miedo, Aquella Que Agarra está con nosotros."
     },
     {
       "id": "Greedy",
@@ -739,7 +739,7 @@
     },
     {
       "id": "Perfected",
-      "name": "Cascaron Perfecto",
+      "name": "Caparazón Perfecto",
       "desc": "Inicio de Turno: Los Brazos ganan 2 Poder de Ataque Aumentado. Removido cuando el HP de los Brazos bajan un 50%",
       "summary": " Gana 2 de Poder de Ataque Aumentado"
     },
@@ -889,8 +889,8 @@
     {
       "id": "LittleCourage",
       "name": "Una Marca",
-      "desc": "La determinación de Sinclair para encarar a Kromer. Una vez que 3 golpes se hayan dado...",
-      "summary": "La voluntad de Sinclair"
+      "desc": "La determinación de Sinclair para encarar a Kromer. Una vez que 3 líneas se hayan dibujado...",
+      "summary": "La Voluntad de Sinclair"
     },
     {
       "id": "NailPersonality",
@@ -1965,6 +1965,24 @@
       "id": "VibrationChainPersonality",
       "name": "Tremor - Chain",
       "desc": "- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "summary": ""
+    },
+    {
+      "id": "GazePersonality",
+      "name": "Gaze of Contempt",
+      "desc": "- Max Value: 7\n- Deal +7% more damage for every Gaze of Contempt\n- Turn End: this effect expires\n- Turn End: At 7 Gaze of Contempt value, convert it to Contempt of the Gaze next turn instead of expiring",
+      "summary": ""
+    },
+    {
+      "id": "ContemptPersonality",
+      "name": "Contempt of the Gaze",
+      "desc": "- Gain 7 Protection\n- Gain 7 Damage Down\n- One of this unit's Skill Slots gains +20 Aggro\n- Cannot gain Gaze of Contempt as long as Contempt of the Gaze is active\n- Turn End: this effect expires",
+      "summary": ""
+    },
+    {
+      "id": "KnowledgeTraining",
+      "name": "Erudition",
+      "desc": "- Max Value: 6\n- When Discarding a Skill, gain (Erudition x 1.5)% of this unit's max HP as Shield (once per turn)\n- If this unit Discards a Skill at 2+ Insight, gain 1 Clash Power (once per turn)\n- Reduced by 1 when taking HP damage after getting hit by an enemy's Attack Skill\n- Expires when Staggered",
       "summary": ""
     }
   ]
