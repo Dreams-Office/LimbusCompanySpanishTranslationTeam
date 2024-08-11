@@ -93,7 +93,7 @@
     {
       "id": "Charge",
       "name": "Carga",
-      "desc": "Recurso usado por ciertas habilidades para efectos adicionales. Su contador puede aumentar hasta 20.\nFinalizar Turno: Baja el Contador en 1.",
+      "desc": "Recurso usado por ciertas habilidades para efectos adicionales. Su contador puede aumentar hasta 20.\nFinalizar Turno: Baja el Contador en 1.\n\n<color=#1aece7>Contador Total consumido: {2}</color>",
       "summary": "Recurso de Habilidad Especifico",
       "undefined": "-"
     },
@@ -325,7 +325,7 @@
     {
       "id": "Operation",
       "name": "Cirugía",
-      "desc": "Muere cuando el Contador llega a 5.\nReduce HP Maximo en un 20% por Contador ({0}).\nInflige 20% más de daño por Contador ({0}).\nInicio de Turno: Gana {0} Rapidez.",
+      "desc": "Muere cuando el Contador llega a 5.\nReduce HP Máximo en un 20% por Contador ({0}).\nInflige 20% más de daño por Contador ({0}).\nInicio de Turno: Gana {0} Rapidez.",
       "summary": "Muere cuando el Contador llega a 5."
     },
     {
@@ -1983,6 +1983,24 @@
       "id": "KnowledgeTraining",
       "name": "Erudition",
       "desc": "- Max Value: 6\n- When Discarding a Skill, gain (Erudition x 1.5)% of this unit's max HP as Shield (once per turn)\n- If this unit Discards a Skill at 2+ Insight, gain 1 Clash Power (once per turn)\n- Reduced by 1 when taking HP damage after getting hit by an enemy's Attack Skill\n- Expires when Staggered",
+      "summary": ""
+    },
+    {
+      "id": "BoseProjektil",
+      "name": "Torn Memory",
+      "desc": "- Max Value : 7\n- Used for certain Skills",
+      "summary": ""
+    },
+    {
+      "id": "ChargeLoad",
+      "name": "Load",
+      "desc": "- Max Value: 6\n- Attack Skills that consumed Charge Count: deal +({0} x 2.5)% more damage (max 15%)\n- If the affected unit is a W Corp. employee, deal +({0} x 5)% more damage instead. (max 30%)\n- Turn End: this effect expires",
+      "summary": ""
+    },
+    {
+      "id": "PhotoElectricity",
+      "name": "Photoelectricity",
+      "desc": "Max Value: 3\nWhen this unit is hit, the Attacker gains Charge Count equal to the value (once per Skill)\n- If the Attacker has 5- Charge Count, they gain +3 additional Charge Count\nTurn End: this effect expires",
       "summary": ""
     }
   ]

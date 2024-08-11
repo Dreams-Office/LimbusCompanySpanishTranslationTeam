@@ -83,7 +83,7 @@
     {
       "id": 2070211,
       "name": "Rugido",
-      "desc": "Tras derrotar a un enemigo, gana Carga por la mitad de la Reson.-A de Envidia de ese turno.\n(Reson.-A de Envidia / 2)"
+      "desc": "Tras derrotar a un enemigo, gana Contador de Carga por la mitad de la Reson.-A de Envidia de ese turno.\n(Reson.-A de Envidia / 2)"
     },
     {
       "id": 2080111,
@@ -183,7 +183,7 @@
     {
       "id": 2060311,
       "name": "Restauración de Fenómeno Enredado",
-      "desc": "Al golpear un enemigo con efectos de estado negativos, esta unidad gana +1 de Carga.\n(Máx. +4 por turno.)\nCuando los HP caigan a 0 por primera vez durante la batalla, usa toda la Carga y cura HP en proporción a la cantidad usada. (No puede curar más del 50% de HP Máx.)"
+      "desc": "Al golpear un enemigo con efectos de estado negativos, esta unidad gana +1 Contador de Carga.\n(Máx. +4 por turno.)\nCuando el HP caigan a 0 por primera vez durante la batalla, usa todo el Contador de Carga y cura HP en proporción a la cantidad usada. (No puede curar más del 50% de HP Máx.)"
     },
     {
       "id": 2050411,
@@ -238,7 +238,7 @@
     {
       "id": 2100411,
       "name": "Señuelo de Hada",
-      "desc": "Tras derrotar a un enemigo que apuntaba a esta unidad al incio de la fase de combate, cura 3% de HP Máx. + (Reson.-A de Gula)% de HP Máx."
+      "desc": "Tras derrotar a un enemigo que apuntaba a esta unidad al inicio de la fase de combate, cura 3% de HP Máx. + (Reson.-A de Gula)% de HP Máx."
     },
     {
       "id": 2070411,
@@ -338,7 +338,7 @@
     {
       "id": 2080611,
       "name": "Glotonería",
-      "desc": "Si el objetivo principal recibio HP de daño este turno y no está a su maximo HP al usar esta Habilidad:\nAl golpear,\nCuando esta unidad está con HP al máx, realiza +5~+10% más de daño.\n Cuando esta unidad no está con HP al máx, se cura 2~5 HP.\n(7 veces por turno)",
+      "desc": "Si el objetivo principal recibio HP de daño este turno y no está a su máximo HP al usar esta Habilidad:\nAl golpear,\nCuando esta unidad está con HP al máx, realiza +5~+10% más de daño.\n Cuando esta unidad no está con HP al máx, se cura 2~5 HP.\n(7 veces por turno)",
       "summary": "Si el ojbetivo no está con los HP al máx, realiza más daño Al golpear o cura HP Al golpear"
     },
     {
@@ -369,6 +369,17 @@
       "id": 2040711,
       "name": "Mark of the Gaze",
       "desc": "Whenever this unit uses a base Attack Skill against an enemy, gain 1 additional E.G.O resource for a random, least-owned Affinity that doesn't correspond to the Affinity of the Attack Skill used"
+    },
+    {
+      "id": 2070711,
+      "name": "Crushed Pendant",
+      "desc": "Combat Start: At 3+ highest Reson., gain 3 [Breath]."
+    },
+    {
+      "id": 2110711,
+      "name": "Rambling Man",
+      "desc": "Max [Charge] Count +5\nSkills that consume [Charge] Count deal +2% more damage for every ([Charge] - 1) (max 10%)",
+      "summary": "Skills that consume [Charge] Count deal more damage"
     }
   ]
 }

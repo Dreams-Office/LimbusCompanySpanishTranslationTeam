@@ -2340,7 +2340,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 3 de Carga para inflingir 2 de Frágil Cortante"
+                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga para inflingir 2 de Frágil Cortante"
                 }
               ]
             }
@@ -2371,7 +2371,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 3 de Carga para inflingir 2 de Frágil Cortante"
+                  "desc": "[OnSucceedAttack] Gasta 3 de Contador de Carga para inflingir 2 de Frágil Cortante"
                 }
               ]
             }
@@ -2390,28 +2390,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             }
@@ -2425,28 +2425,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 de Carga para inflingir 2 Nivel Defensivo Reducido"
+                  "desc": "[OnSucceedAttack] Gasta 2 de Contador de Carga para inflingir 2 Nivel Defensivo Reducido"
                 }
               ]
             }
@@ -3655,7 +3655,7 @@
         {
           "level": 3,
           "name": "Látigo Mental",
-          "desc": "Gasta toda la Carga\nCon menos de 10 de Contador de Carga al Iniciar Combate, Escoge una unidad aleatoria para un ataque directo",
+          "desc": "Gasta todo el Contador de Carga\nCon menos de 10 de Contador de Carga al Iniciar Combate, Escoge una unidad aleatoria para un ataque directo",
           "coinlist": [
             {
               "coindescs": [

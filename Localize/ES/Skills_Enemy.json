@@ -732,7 +732,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sneaky Bash",
+          "name": "Golpe Sigiloso",
           "desc": "",
           "coinlist": [
             {
@@ -758,8 +758,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
-          "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
+          "name": "Pequeño Deseo",
+          "desc": "[StartBattle] Cada Moneda de habilidad perteneciente a la 2da ranura caen en Cara",
           "coinlist": [
             {}
           ]
@@ -771,7 +771,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pipe Down",
+          "name": "Tubazo",
           "desc": "",
           "coinlist": [
             {}
@@ -784,7 +784,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Heavy Swing",
+          "name": "Golpe Pesado",
           "desc": "",
           "coinlist": [
             {
@@ -811,8 +811,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
-          "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
+          "name": "Pequeño Deseo",
+          "desc": "[StartBattle] Cada Moneda de habilidad perteneciente a la 2da ranura caen en Cara",
           "coinlist": [
             {}
           ]
@@ -824,7 +824,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carve",
+          "name": "Tallar",
           "desc": "",
           "coinlist": [
             {}
@@ -837,7 +837,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cunning Stab",
+          "name": "Apuñalada Astuta",
           "desc": "",
           "coinlist": [
             {
@@ -856,8 +856,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wee Wish",
-          "desc": "[StartBattle] Every Coin of the skill in the 2nd slot lands Heads",
+          "name": "Pequeño Deseo",
+          "desc": "[StartBattle] Cada Moneda de habilidad perteneciente a la 2da ranura caen en Cara",
           "coinlist": [
             {}
           ]
@@ -869,7 +869,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Block",
+          "name": "Bloqueo",
           "desc": "",
           "coinlist": [
             {}
@@ -882,13 +882,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Throat Slit",
+          "name": "Degollado",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Bleed next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -901,20 +901,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shank",
-          "desc": "[BeforeAttack] If target has less than 50% HP, use Coin 1 and 2 an additional time",
+          "name": "Navajazo",
+          "desc": "[BeforeAttack] Si el objetivo tiene menos del 50% de HP, usa la Moneda 1 y 2 una vez más",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -927,27 +927,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mutilate",
-          "desc": "[EnemyKill] Use this skill 1 more time",
+          "name": "Mutilación",
+          "desc": "[EnemyKill] Usa esta habilidad 1 vez máse",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 damage"
+                  "desc": "[OnSucceedAttackHead] Realiza 3 de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 damage"
+                  "desc": "[OnSucceedAttackHead] Realiza 3 de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Deal 3 damage"
+                  "desc": "[OnSucceedAttackHead] Realiza 3 de daño"
                 }
               ]
             }
@@ -960,8 +960,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Show You…!",
-          "desc": "[StartBattle] Gana 1 Attack Power Up",
+          "name": "¡Ya verán...!",
+          "desc": "[StartBattle] Gana 1 Poder de Ataque Aumentado",
           "coinlist": [
             {}
           ]
@@ -973,8 +973,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Glinting Wish",
-          "desc": "[StartBattle] All Coins land Heads this turn",
+          "name": "Deseo Destellante",
+          "desc": "[StartBattle] Todas las monedas caen en Cara este turno",
           "coinlist": [
             {}
           ]
@@ -986,7 +986,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Buzz Off!",
+          "name": "¡Fuera!",
           "desc": "",
           "coinlist": [
             {}
@@ -999,7 +999,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Intruder Alert!",
+          "name": "¡Alerta de Intruso!",
           "desc": "",
           "coinlist": [
             {},
@@ -1019,13 +1019,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Freeze!",
+          "name": "¡Alto!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -1038,20 +1038,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hold It Right There!",
+          "name": "¡No te Muevas!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Poder Reducido el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Poder Reducido el siguiente turno"
                 }
               ]
             }
@@ -1064,8 +1064,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This’ll Hurt!",
-          "desc": "[WinDuel] Skill Power +1",
+          "name": "¡Va a doler!",
+          "desc": "[WinDuel] Poder de Habilidad +1",
           "coinlist": [
             {}
           ]
@@ -1103,7 +1103,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Interloper Spotted",
+          "name": "Intruso Encontrado",
           "desc": "",
           "coinlist": [
             {},
@@ -1124,14 +1124,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wary Move",
+          "name": "Maniobra Cautelosa",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             },
@@ -1145,15 +1145,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wide Arrest",
-          "desc": "[WinDuel] Skill Power +2",
+          "name": "Gran Detención",
+          "desc": "[WinDuel] Poder de Habilidad +2",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1166,7 +1166,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Not a Chance",
+          "name": "Ni lo pienses",
           "desc": "",
           "coinlist": [
             {}
@@ -1185,21 +1185,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] Cura 2 PC"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] Cura 2 PC"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 SP"
+                  "desc": "[OnSucceedAttack] Cura 2 PC"
                 }
               ]
             }
@@ -1213,7 +1213,7 @@
         {
           "level": 1,
           "name": "Danza de Paz",
-          "desc": "[WhenUse] Apply 1 Poder Defensivo Aumentado to all allies next turn",
+          "desc": "[WhenUse] Aplica 1 Poder Defensivo Aumentado a todos los aliados el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -1233,7 +1233,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -1247,7 +1247,7 @@
         {
           "level": 1,
           "name": "Puñales Joviales",
-          "desc": "If target’s SP is below 0, Skill Power +1",
+          "desc": "Si los PC del objetivo son menor a 0, Poder de Habilidad +1",
           "coinlist": [
             {}
           ]
@@ -1326,12 +1326,12 @@
         {
           "level": 1,
           "name": "¿Eso es todo?",
-          "desc": "[WinDuel] Deal 10 SP damage",
+          "desc": "[WinDuel] Inflige 10 daño de PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Poder de Ataque Reducido y Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1371,7 +1371,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 Poder Defensivo Aumentado next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 Poder Defensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -1385,12 +1385,12 @@
         {
           "level": 1,
           "name": "¡FIesta de Piñata~!",
-          "desc": "[WhenUse] If target’s SP is below 0, crit chance increases in proportion to target’s SP",
+          "desc": "[WhenUse] Si los PC del objetivo son menores a 0, la probabilidad de crítico aumenta en proporción a los PC del objetivo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Lower user’s Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Baja el Umbral de Aturdimiento del usuario en un 50% del daño infligido"
                 }
               ]
             }
@@ -1404,7 +1404,7 @@
         {
           "level": 1,
           "name": "¡Excelente!",
-          "desc": "[OnSucceedEvade] Lower user’s Stagger Threshold by 5; Deal 5 SP damage",
+          "desc": "[OnSucceedEvade] Baja el Umbral de Aturdimiento del usuario por 5; Inflige 5 daño de SP",
           "coinlist": [
             {}
           ]
@@ -1416,20 +1416,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Tear Ya Apart",
-          "desc": "If target’s SP is lower than user’s, Skill Power +1",
+          "name": "Te Destrozaré",
+          "desc": "Si los PC del objetivo son menores que los del usuario, Poder de Habilidad +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1442,13 +1442,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gruesome Welcome",
+          "name": "Grotesca Bienvenida",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 15 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 15 daño de PC"
                 }
               ]
             }
@@ -1461,14 +1461,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Insult Barrage",
-          "desc": "[WinDuel] Heal 10 SP for a random ally",
+          "name": "Lluvia de Insultos",
+          "desc": "[WinDuel] Cura 10 SP a un aliado al azar",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 5 daño de PC"
                 }
               ]
             }
@@ -1481,13 +1481,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ey!",
+          "name": "¡Oye!",
           "desc": "[WinDuel] El Objetivo Pierde 15 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1500,7 +1500,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What’re Ya Lookin’ At?",
+          "name": "¿Qué Andas Mirando?",
           "desc": "",
           "coinlist": [
             {}
@@ -1513,13 +1513,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I’ll Crack Ya Skull",
-          "desc": "If target’s SP is lower than user’s, Skill Power +1",
+          "name": "Te Partiré El Craneo",
+          "desc": "Si los PC del objetivo son menores que los del usuario, Poder de Habilidad +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 Bleed Count next turn"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Sangrado"
                 }
               ]
             }
@@ -1532,27 +1532,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raid",
+          "name": "Redada",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Inflige1 Tremor el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Inflige1 Tremor el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Tremor next turn"
+                  "desc": "[OnSucceedAttack] Inflige1 Tremor el siguiente turno"
                 }
               ]
             }
@@ -1823,7 +1823,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -2361,7 +2361,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 10 de Ruptura el siguiente turno"
                 }
               ]
             },

@@ -106,7 +106,7 @@
     },
     {
       "id": "info_button_skill",
-      "content": "Habilidad"
+      "content": "Habilidad "
     },
     {
       "id": "info_button_awakenskill",
@@ -671,6 +671,34 @@
     {
       "id": "perfect",
       "content": "A-Res"
+    },
+    {
+      "id": "ab_part_destroyed",
+      "content": "Destruido"
+    },
+    {
+      "id": "ab_part_vanished",
+      "content": "Destr. & Cortado"
+    },
+    {
+      "id": "ab_part_cannot_destroy_and_vanish",
+      "content": "Indestr. & Incortable."
+    },
+    {
+      "id": "current_hp",
+      "content": "HP Actual"
+    },
+    {
+      "id": "break_section_format",
+      "content": "Aturdimiento [{0}]"
+    },
+    {
+      "id": "no_break_section",
+      "content": "Sin Umbral de Aturdimiento"
+    },
+    {
+      "id": "correction_based_on_unit_keyword",
+      "content": "{0} Modificador de Identidad: {1}(, )"
     }
   ]
 }

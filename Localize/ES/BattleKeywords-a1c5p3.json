@@ -24,7 +24,7 @@
         {
             "id": "AaCePcBg",
             "name": "Larva",
-            "desc": "Fin de Turno: Mueve la Larva al aliado con los PV más altos.\nInicio de Turno: Pierde PC igual al valor de Larva en sí mismo.",
+            "desc": "Fin de Turno: Mueve la Larva al aliado con el HP más altos.\nInicio de Turno: Pierde PC igual al valor de Larva en sí mismo.",
             "summary": "",
             "undefined": "-"
         },
@@ -66,8 +66,8 @@
         {
             "id": "AaCePcBn",
             "name": "Comando Indiscutible",
-            "desc": "Pierde 10% de PV actual al usar una Habilidad. Poder de Habilidad Final +1\nTras Golpear, Ahab cura 8 PC; aplicar 2 Temple a sí mismo y a Ahab.",
-            "summary": "Pierde PV al usar una Habilidad; Poder Final +1",
+            "desc": "Pierde 10% del HP actual al usar una Habilidad. Poder de Habilidad Final +1\nTras Golpear, Ahab cura 8 PC; aplicar 2 Temple a sí mismo y a Ahab.",
+            "summary": "Pierde HP al usar una Habilidad; Poder Final +1",
             "undefined": "-"
         },
         {
