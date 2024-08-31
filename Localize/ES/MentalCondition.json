@@ -59,6 +59,11 @@
       "id": "OnLoseDuelLessMpTarget",
       "add": "Incrementa por {0} después de perder un Choque contra un enemigo con un PC menor al de esta unidad",
       "min": "Reduce por {0} después de perder un Choque contra un enemigo con un PC menor al de esta unidad"
+    },
+    {
+      "id": "OnKillEnemyByOtherAlly",
+      "add": "Increase by {0} after an ally defeats an enemy regardless of their level",
+      "min": "Decrease by {0} after an ally defeats an enemy regardless of their level"
     }
   ]
 }

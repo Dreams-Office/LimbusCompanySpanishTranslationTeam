@@ -2,119 +2,119 @@
   "dataList": [
     {
       "id": "FusionVibration",
-      "name": "Amplitude Entanglement",
-      "desc": "- Fuses the effects of the Tremor type added by Amplitude Entanglement and the Tremor type currently on the target together under Tremor - Superposition.\n- Potency and Count values do not change over Entanglement.\n- When triggering Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement instead.\n- Turn End: converted into base Tremor.",
+      "name": "Enredo de Amplitud",
+      "desc": "- - Fusiona los efectos del tipo de Tremor añadido por el Enredo de Amplitud y el tipo de Tremor actual en el objetivo bajo Tremor - Superposición.\n- Los valores de Potencia y Contador no cambian en el Enredo.\n- Al activar una Conversión de Amplitud en Tremor - Superposición, se activa como Enredo de Amplitud en su lugar.\n- Fin del Turno: Se convierte en Tremor base.",
       "summary": ""
     },
     {
       "id": "VibrationNesting",
-      "name": "Tremor - Superposition",
-      "desc": "- Gained through Amplitude Entanglement\n- When triggering Amplitude Conversion, add the effects of the resulting Tremor type to the list of active Tremor effects under Tremor - Superposition.",
+      "name": "Tremor - Superposición",
+      "desc": "- Obtenido a través de Entrelazamiento de Amplitudn- Al activar la Conversión de Amplitud, añade los efectos del tipo de Tremor resultante a la lista de efectos de Tremor activos bajo Tremor - Superposición.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationDistribution",
-      "name": "Tremor - Distribution",
+      "name": "Tremor - Distribución",
       "desc": "- Turn End: Gain ((sum of all allies' Tremor Count) / (# of surviving allies)) Offense Level Up next turn (max 5)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TcorpSpecialInvestigator",
-      "name": "T Corp. Special Investigator Badge",
-      "desc": "-When this unit takes lethal damage, their HP does not drop below 1, instantly heals 80% of their max HP, and recovers from Stagger. (Once per Encounter)\n- When this buff effect activates, starting next turn, this unit gains 2 Attack Power Up at every Turn Start for 5 turns.",
+      "name": "Insignia de Investigador Especial de T Corp",
+      "desc": "-Cuando esta unidad recibe daño letal, su HP no cae por debajo de 1, se cura instantáneamente un 80% de su HP máximo y se recupera del Aturdimiento. (Una vez por Encuentro)n- Cuando este efecto se activa, a partir del siguiente turno, esta unidad gana 2 de Poder de Ataque al inicio de cada turno durante 5 turnos.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "VibrationChain",
-      "name": "Tremor - Chain",
-      "desc": "- Lose 1 Clash Power for every 10 Tremor Potency on self (max 3)\n- When Hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "name": "Tremor - Cadena",
+      "desc": "- - Pierde 1Poder de Choque por cada 10 de Potencia de Tremor en sí mismo (máx 3).\n- Tras ser golpeado por Habilidades que activen Estallido de Tremor, aumenta el Umbral de Aturdimiento por la Potencia del efecto.\n- Final del Turno: Reduce el Contador por 1.\n- (Interactúa de la misma forma que el Tremor base lo hace con los efectos que aumentan o reducen la Potencia/Contador de Tremor)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeRentalTwo",
-      "name": "T Corp. Borrowed Time",
-      "desc": "Turn End:\n- Gain (Cantidad de Tiempo Prestado - 1) Haste, Clash Power Up, and Fragile next turn.\n- At 1 Count, gain (2 x (Potencia de Tiempo Prestado - 1) Bind next turn instead.\n- Gain 1 Potency and lose 1 Count\n- If this unit has more Bind than it has Haste, the Borrowed Time effect expires and this unit gets Staggered.",
+      "name": "T Corp. Tiempo Prestado",
+      "desc": "Fin del Turno:n-Gana (Contador de Tiempo Prestado - 1) de Rapidez, Poder de Choque Aumentado y Frágil el próximo turno.n- Con 1 de Contador, gana (2 x (Potencia de Tiempo Prestado - 1)) de Atadura el próximo turno en su lugar.n- Gana 1 de Potencia y pierde 1 de Contador\n- Si esta unidad tiene más Atadura que Rapidez, el efecto de Tiempo Prestado expira y esta unidad queda Aturdida.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeAccumulation",
-      "name": "Time Delay",
-      "desc": "As long as this effect is active, damage dealt against this unit is stored and not taken.\nTurn End: reduce value by 1\nTurn End: If there is only 1 value left of this effect, the effect expires after dealing (2 x stored damage) Sloth damage to this unit\nWhen this effect is active, its value cannot be gained or be refreshed.",
+      "name": "Retraso Temporal",
+      "desc": "Mientras este efecto esté activo, el daño infligido a esta unidad se almacena y no se recibe.\nFin del Turno: reduce el valor en 1\nFin del Turno: Si solo queda 1 de Valor de este efecto, el efecto expira después de infligir (2 x daño almacenado) de daño de Pereza a esta unidad.\nCuando este efecto está activo, su valor no puede ser incrementado ni refrescado..",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ParryingResultDown",
-      "name": "Clash Power Down",
-      "desc": "In a Clash, lose Clash Power equal to the value",
+      "name": "Poder de Choque Reducido",
+      "desc": "En un Choque, pierde Poder de Choque igual al valor",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "ParryingResultUp",
-      "name": "Clash Power Up",
-      "desc": "In a Clash, gain Clash Power equal to the value",
-      "summary": "In a Clash, gain Clash Power equal to the value",
+      "name": "Poder de Choque Aumentado.",
+      "desc": "En un Choque, gana Poder de Choque igual a su valor",
+      "summary": "En un Choque, gana Poder de Choque igual a su valor",
       "undefined": "-"
     },
     {
       "id": "LimitedTime",
-      "name": "Stolen Time",
-      "desc": "- Turn Start: At 200+ value, gain (value - 200)/50 Offense Level Up & Defense Level Up.\n- Turn Start: At less than 200 value, gain (200 - value)/50 Offense Level Down & Defense Level Down.",
+      "name": "Tiempo Robado",
+      "desc": "- Inicio del Turno: A 200 o más de valor, gana (valor - 200)/50 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado.\n- Inicio del Turno: A menos de 200 de valor, gana (200 - valor)/50 Nivel Ofensivo Reducido & Nivel Defensivo Reducido.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "OwnTime",
-      "name": "Shared Time",
-      "desc": "- Turn Start: At 40+ value, gain (value - 40)/10 Offense Level Up & Defense Level Up.\n- Turn Start: At less than 40 value, gain (40 - value)/10 Offense Level Down & Defense Level Down.",
+      "name": "Tiempo Compartido",
+      "desc": "- Inicio del Turno: A 40 o más de valor, gana (valor - 40)/10 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado.\n- Inicio del Turno: A 40 o más de valor, gana (40 - valor)/10 Nivel Ofensivo Reducido & Nivel Defensivo Reducido.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "EquitableDistribution",
-      "name": "Joint Time Expenditure",
-      "desc": "When spending Shared Time, the Brains spend an equal amount of time across the board.",
+      "name": "Gasto de tiempo conjunto",
+      "desc": "Al gastar Tiempo Compartido, los Cerebros gastan una cantidad igual de tiempo a través del tablero.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "UnfairDistribution",
-      "name": "Infighting",
-      "desc": "When spending Shared Time, the Brains no longer spend an equal amount of time across the board.\nTurn Start: all parts lose Protection equal to the number of Parts with different remaining Time values.",
+      "name": "Luchas internas",
+      "desc": "Al gastar Tiempo Compartido, los Cerebros ya no gastan una cantidad igualitaria de tiempo a través del tablero.\nInicio de Turno: Todas las partes pierden Protección igual al número de Partes con valores de Tiempo restantes que sean diferentes.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeAcceleration",
-      "name": "Time Acceleration",
-      "desc": "- Gain 5 Speed\n- Enhances this unit's Skills.\n- Gain 1 Fragile; when Tremor Burst, Skill or Coin effect raises this unit's Stagger Threshold, it raises it by +50% more.",
+      "name": "Aceleración de Tiempo",
+      "desc": "- - Obtiene 5 de Velocidad\n- Mejora las Habilidades de esta unida.\n- Obtiene 1 de Frágil; Al recibir el efecto de Estallido de Tremor, habilidad o moneda que incremente el Umbral de Aturdimiento de esta unidad, se incrementa un 50% más.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Yurodivy_LowMorale",
-      "name": "Broken Unity",
-      "desc": "- Low Morale\nGain 1 Fragile. Gain 1 Tremor Count when hit. (3 times max)",
+      "name": "Unidad Quebrada",
+      "desc": "- Moral Baja\nGana 1 de Frágil. Gana 1 de Contador de Tremor al ser golpeado. (3 veces máx)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Yurodivy_Panic",
-      "name": "Broken Unity",
-      "desc": "- Panic\nGain 2 Fragile. Gain 2 Tremor Count when hit. (3 times max)",
+      "name": "Unidad Quebrada",
+      "desc": "- - Pánico\\n Gana 2 de Frágil. Gana 2 de Contador de Tremor al ser golpeado. (3 veces máx)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeKillerWatch",
-      "name": "Time Rescue Target",
-      "desc": "Targeted by the Time Ripper while Time Acceleration is active.",
+      "name": "Objetivo Reabastecedor de Tiempo de Emergencia",
+      "desc": "Priorizado por el Destripador de Tiempo mientras que Aceleración de Tiempo esté activo",
       "summary": "",
       "undefined": "-"
     }
