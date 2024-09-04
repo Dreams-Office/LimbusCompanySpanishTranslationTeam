@@ -16,8 +16,8 @@ Traducción al Español de Limbus Company
 ### 0.- Descargar e Instalar [.NET 6.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.413-windows-x64-installer)
 ### 1.- Instalar el Framework Mod.
    - Descargar [BepInEx](https://builds.bepinex.dev/projects/bepinex_be/674/BepInEx-Unity.IL2CPP-win-x64-6.0.0-be.674%2B82077ec.zip); y descomprimirlo dentro de la carpeta con los archivos del juego ``\Steam\steamapps\common\Limbus Company``.
-### 2.- Ejecute el juego hasta la Pantalla de Inicio (La pantalla con el logo del juego) y a continuación cierre el juego
-### 3.- Prepara una carpeta para el mod
+### 2.- Ejecute el juego, al hacerlo se abrirá el BepinEX cargando hasta cargar el juego, una vez en la pantalla de inicio (La pantalla con el logo del juego), a continuación cierre el juego
+### 3.- Prepare una carpeta para el mod
    - A diferencia de MelonLoader, para el correcto funcionamiento de los plugins en BIE es necesario poner todo en una carpeta. Crea dicha carpeta en la ruta ``...\Limbus Company\BepInEx\plugins``. El nombre puede ser cualquier cosa
 ### 4.- Instalar el archivo con las Fuentes.
    - Descargar el [Archivo con las Fuentes en Español](https://drive.google.com/file/d/1jOftfjr8Ks3VoTYOx4s0_TfwdMkdQJOw/view?usp=sharing) para el juego, luego mueve el archivo a la carpeta creada en el paso 3.
