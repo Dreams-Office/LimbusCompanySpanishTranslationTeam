@@ -84,88 +84,85 @@
             "eventDesc": "\"Ya casi. Escaparemos pronto. Hasta la siguiente zona\"\n\nYa casi estamos.",
             "behaveDesc": "Ya casi estamos afuera, pero todavía no se confíen.",
             "successDesc": [
-                "\"It's opening up-wait! It's a waterfall! Steady as you go!\"\n\n\"Phew... Oh! Rocks ahoy! Keep left, keep left... And right full rudder!\"\n\nThanks to [{0}]'s quick and straightforward directions, we managed to lose the Mermaids and escape the waterway.",
-                "\"It's opening up-wait! There's a drop! Steady as you go!\"\n\n\"Phew... Oh! More rocks ahoy! Left 10 degrees rudder, steady... And right full rudder!\"\n\nThanks to [{0}]'s quick and straightforward directions, we managed to lose the Mermaids and escape the waterway.\n\n\"... Been a while, since we've done something like this together.\"\n\n\"Yes. Remember? Starbuck, on helm. You, me, shouting at Starbuck...\"\n\n\"Yeah...\"\n\nThe ship was covered with blood and oil of Mermaids we killed in the waterway.\n\n\"These, useful. Put them in barrel.\"\n\nThe boat smooth-sailed to the next area as we spent our time collecting Mermaid oil from the ship. There was so much of it that the deck was almost flooded with it."
+                "['\"Se esta abriendo... ¡Espera! ¡Es una cascada, sigue el mismo curso con precaución!\"\n\n\"Fiuu... ¡Vaya! ¡Rocas adelante! ¡Mantente a la izquierda, izquierda... Y gira el timón a la derecha!\"\n\nGracias a las rápidas y acertadas direcciones de [{0}], Nos encargamos de perder a las sirenas y escapamos del río.', '\"Se esta abriendo... ¡Espera! Hay una cascada, sigue el mismo curso con precaución!\"\n\n\"Fiuu... ¡Vaya! ¡Mas rocas adelante! Ve 10 grados a la izquierda, Mantenlo... Y Gira el timón a la derecha!\"\n\nGracias a las rápidas y acertadas direcciones de [{0}], Nos encargamos de perder a las sirenas y escapamos de los ríos.\n\n\"...Ha pasado tiempo, desde que hicimos algo como esto juntos\"\n\n\"Si. ¿recuerdas? Starbuck, en el timón. Tu, yo, gritando a Starbuck...\"\n\n\"Si...\"\n\nEl barco fue cubierto con la sangre y el aceite de las sirenas que matamos en el río.\n\n\"Esto, Útil. Ponlo en el barril.\"\n\nEl barco zarpó sin problemas a la siguiente área mientras pasamos tiempo juntando el aceite de sirena del barco. Había demasiado, tanto que la cubierta casi se inunda.']"
             ],
             "failureDesc": [
-                "\"...? W-wait! There's a drop?! U-uh, what do we do...?\"\n\n\"Haah, haah... I-I can't see too well in here...\"\n\n[{0}] was trying their best, but exhaustion seems to have gotten the better of them; their directions were very muddled.\n\n\"Agh... And we were so close to the exit...!\"\n\nWe'll have to fight our way to the end, then..."
+                "['\"¿...? ¡E-espera! ¡¿Hay una cascada?! ¿E-eh, que hacemos...?\"\n\n\"Aaah, aaah... Y-yo aquí no puedo ver bien.\n\n[{0}] estaba haciendo lo mejor que podía, pero su cansancio le estaba ganando; sus indicaciones fueron confusas.\n\n\"Agh... ¡Y eso que estábamos tan cerca de la salida...!\"\n\nTendremos que luchar hasta el final, entonces ...']"
             ]
         },
         {
             "id": 10503,
-            "title": "To the Arteries",
+            "title": "A las Arterias",
             "prevDesc": "",
-            "eventDesc": "After defeating the Abnormality, we sailed for a while without much incident. That was when...\n\n\"A wall...\"\n\n... a thick, solid wall appeared before us.\n\n\"Artery. Beyond this wall.\"\n\n\"Wall opens. Closes. Opening is very short. Don't get grabbed by Mermaid there. Chopped in half, if grabbed by mermaid.\"\n\nAnd with a heavy rumble, the wall immediately started to open.\n\n\"Keep Mermaids off ship. They slow us down, we get cut in half.\"\n\nThe Mermaids must've sensed the rumbling. They begin rushing at our ship.",
-            "behaveDesc": "Who will take vanguard in keeping the Mermaids off our ship?",
+            "eventDesc": "Después de vencer a la Anormalidad, Navegamos por un tiempo sin ninguna complicación. Eso fue cuando...\n\n\"Un muro...\"\n\n… un solido, grueso muro apareció frente a nosotros.\n\n\"Arteria, mas allá de este muro.\"\n\nY con un fuerte retumbar, el muro inmediatamente se empezó a abrir.\n\n\"Muro abre. Cierra. Abre poco, No dejes ser atrapado por sirenas. cortado a la mitad, si ser atrapado por sirenas.\"\n\n\"Mantén sirenas alejadas de barco. Nos retrasaran, nos cortaran a la mitad.\"\n\nLas sirenas deben haber sentido la vibración. Empezaron a apresurarse a nuestro barco.",
+            "behaveDesc": "¿Quién tomará el frente y mantendrá a las sirenas fuera del barco?",
             "successDesc": [
-                "[{0}] takes vanguard, knocking Mermaids off the boat.\n\n\"Good enough.\"\n\n\"Nice, we made it through...\"\n\n\"Phew. Huh, the wall is twitching. Like it's about to-\"\n\nNot a second after the stern of our boat made it past the wall, the door slammed shut.\n\n... Let's keep moving to the artery.",
-                "[{0}] takes vanguard, knocking Mermaids off the boat.\n\n\"Good enough.\"\n\n\"Nice, we made it through...\"\n\n\"Don't get complacent. We have to remain alert.\"\n\n\"Phew. Huh, the wall is twitching. Like it's about to-\"\n\nNot a second after the stern of our boat made it past the wall, the door slammed shut.\n\n... Let's keep moving to the artery."
+                "['[{0}] va al frente, empujando sirenas fuera del barco.\n\n\"Con esto basta.\"\n\n\"Bien, estamos haciéndonos paso...\"\n\n\"Fiu. Eh, el muro está estremeciéndose, como si fuera a...\"\n\nNo paso ni un segundo después de que la parte trasera de nuestro barco pasó el muro, cerrándose estrepitosamente.\n\n...Sigámonos moviéndonos hacia la arteria.', '[{0}] va al frente, empujando sirenas fuera del barco.\n\n\"Con esto basta.\"\n\n\"Bien, estamos haciéndonos paso...\"\n\n\"No te confíes, tenemos que estar alerta.\"\n\n\"Fiu. Eh, el muro está estremeciéndose, como si fuera a...\"\n\nNo paso ni un segundo después de que la parte trasera de nuestro barco paso el muro, cerrándose estrepitosamente.\n\n...Sigámonos moviéndonos hacia la arteria.']"
             ],
             "failureDesc": [
-                "[{0}] takes vanguard, knocking Mermaids off the boat.\n\nBut...\n\n\"I-I think there's more of them than we expected...\"\n\n\"Oi! Help 'em out!\"\n\n\"Aagh, w-wait...!\"\n\nWe eventually managed to shake the Mermaids off and made it past the opening, but...\n\n\"Haah...\"\n\nThis kerfuffle exhausted everyone and left some of us wounded.\n\n... We have no choice but to continue on our way to the artery."
+                "['[{0}] va al frente, empujando sirenas fuera del barco.\n\n\"Pero...\"\n\n\"Y-yo pienso que hay más de lo que esperábamos..\"\n\n\"¡Oye, Ayúdalo!\"\n\n\"¡Aaagh, e-espera...!\"\n\nEventualmente nos encargamos de quitar a las sirenas y nos hicimos camino, pero...\n\n\"Haah...\"\n\nEste alboroto cansó a todos y dejo a alguno de nosotros heridos.\n\n... No tenemos otra elección que continuar nuestro camino hacia la arteria']"
             ]
         },
         {
             "id": 1050401,
-            "title": "The Artery",
+            "title": "La Arteria",
             "prevDesc": "",
-            "eventDesc": "\"This is much tougher than I expected...\"\n\nThe artery appeared much sturdier than we had initially assumed.\n\nCutting it open with a single strike won't be an easy task... but if we delay too much here, we won't be able to arrive at the rendezvous area in time.",
-            "behaveDesc": "Who can possibly cut it open with a single strike?",
+            "eventDesc": "\"Esto es mucho más duro de lo que esperaba...\"\n\nLa arteria parece más maciza de lo que inicialmente asumimos.\n\nCortarla de un sólo ataque no será tarea fácil... pero si nos retrasamos más aquí, no seremos capaces de llegar al área de reunión a tiempo.",
+            "behaveDesc": "¿Quién podría hacerle un corte de un solo golpe?",
             "successDesc": [
-                "[{0}] slowed their breathing and steadied their poise...\n\n\"Ooh!\"\n\n... before striking the artery, slicing it clean open.\n\n\"Sanguine fluid gushes at a terrifying rate.\"\n\nAs bloodflow from the opening begins to slow, the path begins to open.\n\n... Let's make our way to the heart."
+                "['[{0}] respiró lentamente y mantuvo su temple...\n\n\"¡Ooh!\"\n\n...Al hacer el corte, la incisión fue limpia.\n\n\"Fluido sanguíneo chorrea a ritmos terroríficos.\"\n\nComo el flujo de sangre de la incisión empieza a disminuir, el camino se empieza a mostrar.\n\n… Hagámonos camino hacia el corazón.']"
             ],
             "failureDesc": [
-                "[{0}] struck the artery with all their might, but...\n\n\"Just a little gash, huh...\"\n\n... failed to slice it open.\n\n\"We don't have time for this...!\"\n\nFlustered, [{0}] began repeatedly slamming their weapon into the artery, trying to hack it open.\n\n... Luckily, we were able to cut open the artery in time. But this clearly left [{0}] exhausted from the effort.\n\n\"Sanguine fluid gushes at a terrifying rate.\"\n\nAs bloodflow from the opening begins to slow, the path begins to open.\n\n... Let's make our way to the heart."
+                "['[{0}] golpeó la arteria con toda su fuerza, pero....\n\n\"Sólo un rasguño, eh...\"\n\n... Falló el corte completamente,\n\n\"No tenemos tiempo para esto...!\"\n\nAvergonzado, [{0}] empezó a golpear con su arma repetidamente la arteria, intentando torpemente cortarla.\n\n... por fortuna, fuimos capaces de cortar la arteria por completo a tiempo. Pero esto dejó claramente a [{0}] exhausto por el esfuerzo. \n\n\"Fluido sanguíneo esta expulsándose a un ritmo terrible\"\n\nEn el momento que el flujo de sangre del corte comienza a reducirse, el camino empieza aparecer.\n\n…Hagámonos camino hacia el corazón.']"
             ]
         },
         {
             "id": 1050501,
-            "title": "Supply Crate 1",
+            "title": "Caja de suministros 1",
             "prevDesc": "",
-            "eventDesc": "We stopped before a crate with the Twinhook Pirates' logo on it.\n\n\"This crate appears to be locked.\"\n\n\"It's all rusted... I don't think we can even try to pick the lock.\"\n\n\"Then let's smash it open!\"\n\n... But the box itself looks pretty flimsy. We risk smashing its contents as well.",
-            "behaveDesc": "Who can strike the crate with just the right amount of force?",
+            "eventDesc": "Nos detuvimos ante una caja que contenía el logo de los Piratas Twinhook.\n\n\"Esta caja parece necesitar una llave\".\n\n\"Está toda oxidada... No creo que podamos incluso abrir la cerradura\"\n\n\"¡Entonces hay que golpearla para abrirla!\"\n\n… Pero la caja se ve frágil. También nos arriesgamos a golpear lo que contiene.",
+            "behaveDesc": "¿Quién puede golpear la caja con solo la fuerza necesaria?",
             "successDesc": [
-                "[{0}] observed the crate closely, then took a step back. Then, with a controlled strike, smashed only the lid of the crate.\n\nWhat we found inside the box was a rusted hook covered in blood and white membrane. It was probably used to kill Mermaids.\n\nI don't know what use this could possibly have... but it might come in useful.\n\nShould we check the other boxes, too?"
+                "[\"[{0}] observa la caja detenidamente, entonces dio un paso atrás. después, con un golpe controlado, le dio al cerrojo de la caja.\n\nLo que encontramos dentro de la caja fue un garfio oxidado cubierto de sangre y piel cortada de color blanco. Probablemente fue usado para matar sirenas.\n\nNo sé el uso que probablemente tenga... pero esto nos podría ser útil.\n\n¿Deberíamos verificar las otras cajas también?\"]"
             ],
             "failureDesc": [
-                "\"Oop...\"\n\nThat was not a controlled strike at all. I wasn't sure if they even tried.\n\nThe crate was smashed to bits, so much so that we couldn't tell its contents apart from its crushed remains.\n\nWell, no choice but to check what other crates we have..."
+                "['\"Ups...\"\n\nNo fue del todo un golpe controlado. No estaba seguro si siquiera lo intento.\n\nLa caja se hizo añicos, de tantos pedazos, ni siquiera pudimos adivinar lo que había dentro.\n\nBueno, no tenemos más elección que ver las otras cajas que tenemos.']"
             ]
         },
         {
             "id": 1050502,
-            "title": "Supply Crate 2",
+            "title": "Caja de suministros 2",
             "prevDesc": "",
-            "eventDesc": "This crate has the LCCB logo on it.\n\nThis one looks sturdy enough... we probably can't smash it open.\n\n\"This appears to have been sealed by an intricate locking mechanism.\"\n\n\"Doubt I'll be able to just smash this open...\"\n\n\"Wait, I think I remember something...\"\n\nMaybe a Sinner who's used an LCCB Identity in the past may know something about this.",
-            "behaveDesc": "Who will attempt to crack open the lock?",
+            "eventDesc": "Esta caja tiene el logo de la LCCB.\n\nEsta se ve muy robusta... Probablemente no podamos abrirla.\n\n\"Esta parece que ha estado sellada por un complejo mecanismo de cerraduras\"\n\n\"Dudo que sea capaz de golpearla para abrirla...\"\n\n\"Espera, me estoy acordando de algo...\"\n\nTal vez un Pecador que en el pasado haya usado una identidad LCCB pueda saber algo sobre esto.",
+            "behaveDesc": "¿Quién intentará forzar la cerradura?",
             "successDesc": [
-                "\"I think this was how they did it...\"\n\n[{0}] fiddles with the lock and opens the crate.\n\n\"I see. In this crate was a magazine for a firearm.\"\n\nIndeed, what we found inside the crate was a magazine full of bullets.\n\nWe can definitely find a good use for this.\n\nThere aren't any more useful boxes around... We decided to move on to the next area.",
-                "[{0}] fiddles with the lock and opens the crate.\n\n\"I see. In this crate was a magazine for a firearm.\"\n\nIndeed, what we found inside the crate was a magazine full of bullets.\n\nWe can definitely find a good use for this.\n\nThere aren't any more useful boxes around... We decided to move on to the next area."
+                "['\"Yo creo que así es como lo hicieron...\"\n\n[{0}] fuerza la cerradura y abre la caja.\n\n\"Ya veo. en esta caja había un cartucho para un arma de fuego\"\n\nAsí es, lo que encontramos dentro de la caja era un cartucho lleno de balas.\n\nDefinitivamente podemos hacer buen uso de esto.\n\nYa no hay cajas que valgan la pena... decidimos movernos a la siguiente zona, '[{0}] fuerza la cerradura y abre la caja.\n\n\"Ya veo. en esta caja había un cartucho para un arma de fuego\"\n\nAsí es, lo que encontramos dentro de la caja era un cartucho lleno de balas.\n\nDefinitivamente podeos hacer buen use de esto.\n\nYa no hay cajas que valgan la pena... decidimos movernos a la siguiente zona,']"
             ],
             "failureDesc": [
-                "[{0}] fiddled with the lock, but failed to make any progress.\n\n\"Hmm...\"\n\nAfter a few more adjustments, the crate seemed to reinforce itself with an additional locking mechanism.\n\n\"Well, what can we do.\"\n\nThere probably was something useful in there... but we don't have any means to break it open. We have no choice but to leave it behind.\n\nThere aren't any more useful boxes around... We decided to move on to the next area."
+                "['[{0}] forzó la cerradura, pero fallo sin ningún progreso.\n\n\"Hmmm....\"\n\nDespués de algunos ajustes, la caja se reforzó así misma con algún mecanismo adicional\n\n\"Bueno, que podemos hacer.\"\n\nProbablemente había algo útil dentro... pero no tenemos los medios para abrirla. no tuvimos elección que dejarlo atrás.\n\nNo hay más cajas que nos sean de utilidad... decidimos movernos hacia otra zona,']"
             ]
         },
         {
             "id": 810602,
             "title": "Ahab 2",
             "prevDesc": "",
-            "eventDesc": "Sure, you could say that.\n\nBut... her own answers matter the most here, no?\n\n\"......\"\n\nHer breathing is quick and shaking. She deliberates.\n\nWhat answer awaits you at the end of this deliberation?",
-            "behaveDesc": "Can she endure her own past?",
+            "eventDesc": "Seguro, tu podrías decir eso.\n\nPero... aquí sus propias respuestas son las que importan, ¿no?\n\n\".......\"\n\nSu respiración es agitada y temblorosa. Está pensativa.\n\n¿Qué respuestas te esperan al final de este debate?",
+            "behaveDesc": "¿Puede ella soportar su propio pasado?",
             "successDesc": [
-                "\"... Akh!\"\n\nIshmael swings her arm with determination. She tries to focus.\n\n\"Still with your bullshit... I'll tear your mouth from ear to ear!\"\n\n\"Fine. Go ahead.\"\n\n\"What are you waiting for? Is it because you are too weak to do it? ... Hahaha!\"\n\nAt the Captain's provocation, Ishmael's eyes begin to burn with hatred. She rushes at the Captain.\n\nLooks like she's still searching for an answer. And sometimes, wrath may draw one off course. Isn't that right?"
+                "['\"... ¡AGHHH!\".\n\nIshmael balancea su brazo con determinación. ella intenta concentrarse..\n\n¡Siempre con tu misma mierda... Cortaré tu boca de oreja a oreja!..\n\n\"Bien, Inténtalo\"\n\n\"¿Qué estas esperando? ¿es porque eres muy débil para hacerlo? ... ¡Jajaja!\"\n\nAl escuchar la provocación de la capitana, los ojos de Ishmael empezaron a arder con odio, ella corre hacia la capitana.\n\nParece como si siguieras buscando una respuesta. y a veces , la ira puede dártela. ¿Me equivoco?']"
             ],
             "failureDesc": [
-                "\"…….\"\n\nHer answer to the Manager's question is... endless silence.\n\nIs she still contemplating? Or does she think they're wrong?\n\nIndeed... it may be too early for her.\nTo decide, that is."
+                "['\"…….\"\n\nLa respuesta a la pregunta del Gerente es... un profundo silencio.\n\n¿Ella sigue pensando? o ¿piensa que estamos equivocados?\n\nEfectivamente... puede que sea demasiado pronto para ella.\nEn decidir, claro está.']"
             ]
         },
         {
             "id": 810603,
             "title": "Ahab 3",
             "prevDesc": "",
-            "eventDesc": "\"<Ishmael.>\"\n\n\"<It's not over yet.>\"\n\n\"<It's too early to decide. There's still time.>\"\n\n\"<And when the time comes... no one will make that decision in your stead.>\"\n\n\"<Not me. Not Ahab.>\"\n\n\"<I know that you can reach your own answers. Find your own way.>\"\n\n\"…….\"\n\nIshmael does not reply. Instead, she tightens the grip on her weapon arm.",
-            "behaveDesc": "A delayed answer...\n... is not a bad idea.",
+            "eventDesc": "\"<Ishmael.>\"\n\n\"<Esto no se ha acabado.>\"\n\n\"<Es muy pronto para decidirse, queda tiempo.>\"\n\n\"<Y cuando llegue el momento... Nadie podrá interponerse en tu decisión. >\"\n\n\"<Ni yo, ni Ahab>\"\n\n\"<Sé que tú puedes alcanzar tus propias respuestas. encuentra tu propio camino...>\"\n\n\"…….\"\n\nIshmael no contestó, en vez de eso, ella apretó fuertemente su arma.",
+            "behaveDesc": "Una respuesta tardía..\n... No es mala idea.",
             "successDesc": [
-                "\"... Akh!\"\n\nIshmael swings her arm with determination. She tries to focus.\n\n\"Still with your bullshit... I'll tear your mouth from ear to ear!\"\n\n\"Fine. Go ahead.\"\n\n\"What are you waiting for? Is it because you are too weak to do it? ... Hahaha!\"\n\nAt the Captain's provocation, Ishmael's eyes begin to burn with hatred. She rushes at the Captain.\n\nLooks like she's still searching for an answer. And sometimes, wrath may draw one off course. Isn't that right?"
+                "['\"... ¡AGHHH!\".\n\nIshmael balancea su brazo con determinación. ella intenta concentrarse..\n\n¡Siempre con tu misma mierda... Cortaré tu boca de oreja a oreja!..\n\n\"Bien, Inténtalo\"\n\n\"¿Qué estas esperando? ¿es porque eres muy débil para hacerlo? ... ¡Jajaja!\"\n\nAl escuchar la provocación de la capitana, los ojos de Ishmael empezaron a arder con odio, ella corre hacia la capitana.\n\nParece como si siguieras buscando una respuesta. y a veces , la ira puede dártela. ¿Me equivoco?']"
             ],
             "failureDesc": [
                 ""

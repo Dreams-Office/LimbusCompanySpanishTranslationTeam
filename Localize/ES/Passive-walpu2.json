@@ -2,33 +2,33 @@
   "dataList": [
     {
       "id": 814702,
-      "name": "Doubt",
-      "desc": "When this unit defeats an enemy with an Attack Skill, deal 10 SP damage to all enemies."
+      "name": "Duda",
+      "desc": "Cuando esta unidad derrota a un enemigo con una Habilidad de Ataque, inflige 10 de daño de PC a todos los enemigos."
     },
     {
       "id": 814801,
-      "name": "Life",
-      "desc": "When Staggering or Defeating an enemy with an Attack Skill, this unit heals 50 HP (Both Core and Part)"
+      "name": "Vida",
+      "desc": "Al Aturdir o Derrotar a un enemigo con una Habilidad de Ataque, esta unidad se cura 50 HP (El Núcleo y la Parte)"
     },
     {
       "id": 814901,
-      "name": "Pain",
-      "desc": "If an ally is defeated in Combat, gana 1 Bind, 1 Attack Power Up, and 3 Damage Up next turn."
+      "name": "Dolor",
+      "desc": "Si un aliado es derrotado en Combate, gana 1 Atadura, 1 Poder de Ataque Aumentado y 3 Daño Aumentado el próximo turno."
     },
     {
       "id": 814902,
-      "name": "Weakness",
-      "desc": "If this unit dies, apply 5 Damage Up next turn to all enemies. This effect does not stack."
+      "name": "Debilidad",
+      "desc": "Si esta unidad muere, aplica 5 Daño Aumentado a todos los enemigos el próximo turno. Este efecto no se acumula."
     },
     {
       "id": 815001,
-      "name": "Irresponsible",
-      "desc": "If there are no other allies than Dawn of Green - Doubt - δ, double the effects of 'Doubt' and 'Life'."
+      "name": "Irresponsable",
+      "desc": "Si no hay otros aliados además de Amanecer Del Verde - Duda - δ, duplica los efectos de 'Duda' y 'Vida'."
     },
     {
       "id": 815002,
-      "name": "Beginning",
-      "desc": "If this unit is alive, no enemies are generated at Turn End."
+      "name": "Comienzo",
+      "desc": "Si esta unidad está viva, no se generan enemigos al Finalizar el Turno."
     }
   ]
 }

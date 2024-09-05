@@ -82,50 +82,50 @@
     },
     {
       "id": "LoseTurnOnRoundEnd",
-      "desc": "Turn End: lose {0} Count"
+      "desc": "Fin de Turno: pierde {0} de Contador"
     },
     {
       "id": "Vibration",
-      "desc": "When hit by attacks that trigger Tremor Burst, raise the Stagger Threshold by {0}. Lasts {1} turn(s)."
+      "desc": "Cuando es golpeado por un ataque que activa Estallido de Tremor, aumenta el Umbral de Aturdimiento en {0}. Dura {1} turno(s)."
     },
     {
       "id": "DefAdderByStackCeilToInt",
-      "desc": "Lose 1 Defense Level for every 4 Tremor Potency"
+      "desc": "Pierde 1 de Nivel Defensivo por cada 4 de Potencia de Tremor"
     },
     {
       "id": "Crack",
-      "desc": "When Staggered, and when the sum of Tremor Potency and Count adds up to 20 or higher, raise Stagger Level by 1\nCannot exceed maximum Stagger Level with this effect"
+      "desc": "Al ser Aturdido, y cuando la suma de la Potencia y el Contador de Tremor sea 20 o mayor, sube el Nivel de Aturdimiento en 1\nNo se puede exceder el Nivel máximo de Aturdimiento con este efecto"
     },
     {
       "id": "VibrationEcho",
-      "desc": "When hit by attacks that trigger Tremor Burst, take {0} Sloth damage."
+      "desc": "Cuando es golpeado por un ataque que activa Estallido de Tremor, recibe {0} de daño de Pereza."
     },
     {
       "id": "VibrationDistribution",
-      "desc": "- Turn End: Gain ((sum of all allies' Tremor - Distribution Count) / (# of allies with Tremor - Distribution)) Nivel Ofensivo Aumentado next turn (max 5)"
+      "desc": "- Fin del Turno: Gana ((suma del Contador de Tremor - Distribución de todos los aliados) / (# de aliados con Tremor - Distribución)) de Nivel Ofensivo Aumentado el siguiente turno (máx 5)"
     },
     {
       "id": "VibrationChain",
-      "desc": "Lose 1 Clash Power for every 10 Tremor Potency on target (max 3)"
+      "desc": "Pierde 1 de Poder de Choque por cada 10 Potencia de Tremor sobre el objetivo (máx 3)"
     },
     {
       "id": "VibrationContinue",
-      "desc": "- When triggering Tremor Burst with Skill or Coin effects, {0}% chance to trigger an additional Tremor Burst. (max 50%)\n- When triggering Tremor Burst with Skill or Coin effects, {1}% chance to trigger an additional Tremor Burst. (max 50%)"
+      "desc": "- Al activar Estallido de Tremor con efectos de Habilidad o Monedas, {0}% de posibilidad de activar un Estallido de Tremor adicional. (máx 50%)\n- Al activar Estallido de Tremor con efectos de Habilidad o Monedas, {1}% de posibilidad de activar un Estallido de Tremor adicional. (máx 50%)"
     },
     {
       "id": "TimeSuspend",
-      "desc": "Upon activation, deal {3} Sloth damage and trigger {0} Tremor Burst(s)"
+      "desc": "Al activarse, inflige {3} de daño de Pereza y activa {0} Estallido(s) de Tremor"
     },
     {
       "id": "TimeRentalTwoPersonality",
       "name": "Borrowed Time",
-      "desc": "Turn End: gain {1} Haste, Clash Power Up, and Fragile next turn\nAt 1 Count, gain {0} Bind next turn instead",
+      "desc": "Final del Turno: gana {1} de Rapidez, Poder de Choque Aumentado y Frágil el siguiente turno\nA 1 de Contador, gana {0} de Atadura en su lugar",
       "summary": ""
     },
     {
       "id": "VibrationChainPersonality",
-      "name": "Tremor - Chain",
-      "desc": "Lose 1 Clash Power for every 10 Tremor Potency (max 3)",
+      "name": "Tremor - Cadena",
+      "desc": "Pierde 1 de Poder de Choque por cada 10 Potencia de Tremor (máx 3)",
       "summary": ""
     }
   ]

@@ -2,16 +2,16 @@
   "dataList": [
     {
       "id": 0,
-      "place": "Distrito 4 - Interior de la Sucursal LC",
+      "place": "Distrito 4 - Interior de la Sucursal de LC",
       "content": "La cabeza de Yuri permanecía inmóvil, mirando a Gregor. Su rostro estaba recto."
     },
     {
       "id": 1,
-      "content": "Sin embargo, la Yuri que conocíamos y acompañábamos siempre estaba jorobada."
+      "content": "Sin embargo, la Yuri que conocíamos y que nos había acompañado ahora estaba jorobada."
     },
     {
       "id": 2,
-      "content": "Se encorvaba en todo momento, como si fuera su única obligación en vida cargar con la voluntad de sus difuntos colegas."
+      "content": "Se encorvaba en todo momento, como si cargar con la voluntad de sus difuntos colegas fuera su única obligación en vida."
     },
     {
       "id": 3,
@@ -25,7 +25,7 @@
     {
       "id": 5,
       "model": "그레고르",
-      "content": "...Ajá. Sí, creo que estás en lo cierto."
+      "content": "... Ajá. Sí, creo que estás en lo cierto."
     },
     {
       "id": 6,
@@ -33,7 +33,7 @@
     },
     {
       "id": 7,
-      "content": "Entonces estiró su brazo, enviándolo a volar hacia \"Yuri\"."
+      "content": "Entonces, estiró su brazo, enviándolo a volar hacia \"Yuri\"."
     },
     {
       "id": 8,
@@ -58,7 +58,7 @@
     },
     {
       "id": 12,
-      "content": "No sé si es la manera correcta de abordar esto como gerente."
+      "content": "No sé si esta sea la manera correcta de abordar esto como gerente."
     },
     {
       "id": 13,
@@ -74,7 +74,7 @@
     {
       "id": 15,
       "model": "단테",
-      "content": "<¡Córtalo, Ahora! >"
+      "content": "<¡Córtala, Ahora!>"
     },
     {
       "id": 16,
@@ -105,7 +105,7 @@
       "model": "여자시민",
       "teller": "Ciudadana Amable",
       "title": "Persona Recordada",
-      "content": "P-Por favor, ten piedad... Te daré todo mi dinero."
+      "content": "P-por favor, ten piedad... Te daré todo mi dinero."
     },
     {
       "id": 22,
@@ -122,7 +122,7 @@
       "id": 24,
       "teller": "Guardia de Seguridad",
       "title": "Persona Recordada",
-      "content": "Esta es su última advertencia. Libérala ahora, o..."
+      "content": "Esta es tu última advertencia. Libérala ahora, o..."
     },
     {
       "id": 25,
@@ -167,7 +167,7 @@
     {
       "id": 33,
       "model": "그레고르",
-      "content": "Enserio no deberías... No luché en la guerra porque quisiera..."
+      "content": "No debería, en serio... No luché en la guerra porque haya querido..."
     },
     {
       "id": 34,
@@ -179,12 +179,12 @@
       "id": 35,
       "teller": "Yuri",
       "title": "Fixer de Grado 8",
-      "content": "¿Qué más se supone que debía hacer? ¿Tan mal está que haya sobrevivido?"
+      "content": "¿Qué otra cosa se supone que debía hacer? ¿Tan mal está que haya sobrevivido?"
     },
     {
       "id": 36,
       "model": "그레고르",
-      "content": "Sigue viviendo, por favor... No es que nos hayamos metido en este lío voluntariamente."
+      "content": "Sigue viviendo, por favor... No es como si nos hayamos metido en este lío voluntariamente."
     },
     {
       "id": 37,
@@ -196,13 +196,13 @@
       "id": 38,
       "teller": "???",
       "title": "???",
-      "content": "Haber llegado a este extremo, sólo para ser detenido justo antes de que tu labor dé frutos. Qué lamentable."
+      "content": "Llegaron tan lejos solo para ser detenidos justo antes de que su labor dé frutos. Qué lamentable."
     },
     {
       "id": 39,
       "teller": "???",
       "title": "???",
-      "content": "Bien, la tomaremos. Las oportunidades que queden sin reclamar sólo se volverán nulas."
+      "content": "Bien, la tomaremos. Las oportunidades que no se aprovechan, se pierden."
     },
     {
       "id": 40,
@@ -241,7 +241,7 @@
       "id": 47,
       "teller": "???",
       "title": "???",
-      "content": "¿No es un poco pequeño?"
+      "content": "Se ve más pequeña de lo que uno pensaría, ¿no creen?"
     },
     {
       "id": 48,
@@ -255,14 +255,14 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Necesitamos... esas ramas, y tú... eres capaz de encontrarlas."
+      "content": "Nosotros... necesitamos esas Ramas, y ustedes... son capaces de encontrarlas."
     },
     {
       "id": 50,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Tú... no morirás, pero nosotros... te mataremos."
+      "content": "Ustedes... no morirán, pero nosotros... los mataremos."
     },
     {
       "id": 51,
@@ -285,7 +285,7 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Cuidaremos bien de la Rama Dorada que encontraste."
+      "content": "Cuidaremos bien de la Rama Dorada que encontraron."
     },
     {
       "id": 55,
@@ -297,19 +297,19 @@
       "model": "구보",
       "teller": "Gubo",
       "title": "???",
-      "content": "En efecto. Ahora sólo quedan unos pocos."
+      "content": "En efecto. Ahora solo quedan unos pocos."
     },
     {
       "id": 57,
       "model": "홍루",
-      "content": "...Ha pasado tiempo, Hermano."
+      "content": "... Ha pasado un tiempo, Hermano."
     },
     {
       "id": 58,
       "model": "가환",
       "teller": "Jia Huan",
       "title": "???",
-      "content": "¿Sabes lo sucia que huele tu ropa? Si sólo tu familia estuviera aquí para ver como te encuentras."
+      "content": "¿Sabes lo sucia que huele tu ropa? Si tan solo tu familia estuviera aquí para ver como te encuentras."
     },
     {
       "id": 59,
@@ -328,7 +328,7 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "No invertí en ti sólo para verte como semejante desastre."
+      "content": "No invertí en ti para que te conviertas en semejante desastre."
     },
     {
       "id": 62,
@@ -340,14 +340,14 @@
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Al menos deberías terminar de desenvolver lo que te di."
+      "content": "Al menos deberías terminar de desenvolverlo."
     },
     {
       "id": 64,
       "model": "헤르만",
       "teller": "Hermann",
       "title": "???",
-      "content": "Ese bracito no es todo lo que tiene."
+      "content": "Ese bracito no es todo lo que te di."
     },
     {
       "id": 65,
@@ -366,11 +366,11 @@
     },
     {
       "id": 68,
-      "content": "Como despertarse de una larga pesadilla..."
+      "content": "Y como si despertase de una larga pesadilla..."
     },
     {
       "id": 69,
-      "content": "El amanecer te da la bienvenida."
+      "content": "El amanecer me da la bienvenida."
     },
     {
       "id": 70,
@@ -380,12 +380,12 @@
       "id": 71,
       "place": "A bordo de Mefistófeles",
       "model": "베르길리우스",
-      "content": "Y pensé que esta sería una misión bastante fácil para vosotros."
+      "content": "Y yo que pensé que esta misión se les haría fácil."
     },
     {
       "id": 72,
       "model": "베르길리우스",
-      "content": "Después de permitir que se llevaran la Rama Dorada ante sus propios ojos, tuvieron el descaro de entrar con la cara en alto."
+      "content": "Después de permitir que se llevaran la Rama Dorada ante sus propios ojos, tuvieron el descaro de volver con la cara en alto."
     },
     {
       "id": 73,
@@ -405,12 +405,12 @@
     {
       "id": 76,
       "model": "파우스트",
-      "content": "Resulta que la inmortalidad no era la solución a todo."
+      "content": "Resulta que la inmortalidad no es la solución a todo."
     },
     {
       "id": 77,
       "model": "베르길리우스",
-      "content": "…Hm."
+      "content": "… Hm."
     },
     {
       "id": 78,
@@ -425,7 +425,7 @@
     {
       "id": 80,
       "model": "단테",
-      "content": "<Tenías que haberlo sabido, ¿por qué no me avisaste?>"
+      "content": "<Supongo que ya lo sabías, así que ¿por qué no me avisaste?>"
     },
     {
       "id": 81,
@@ -434,32 +434,32 @@
     },
     {
       "id": 82,
-      "content": "Faust plácidamente transmitió mis palabras a Vergilius."
+      "content": "Faust transmitió plácidamente mis palabras a Vergilius."
     },
     {
       "id": 83,
       "model": "베르길리우스",
-      "content": "...No me digas. ¿Me estás haciendo responsable?"
+      "content": "... No me digas. ¿Me estás haciendo responsable?"
     },
     {
       "id": 84,
       "model": "베르길리우스",
-      "content": "Entonces dime, Dante. ¿Por qué nos molestaríamos en enviar doce combatientes enteros a un lugar sin amenazas?"
+      "content": "Entonces dime, Dante. ¿Por qué nos molestaríamos en enviar doce combatientes a un lugar sin amenazas?"
     },
     {
       "id": 85,
       "model": "베르길리우스",
-      "content": "También, después de contratar Fixers para guiarlos."
+      "content": "Además de contratar a Fixers para guiarlos, claro."
     },
     {
       "id": 86,
       "model": "단테",
-      "content": "<Eso…>"
+      "content": "<Pues…>"
     },
     {
       "id": 87,
       "model": "그레고르",
-      "content": "Suficiente de eso, Amigo Gerente."
+      "content": "Suficiente de eso, Jefazo."
     },
     {
       "id": 88,
@@ -479,7 +479,7 @@
     {
       "id": 91,
       "model": "베르길리우스",
-      "content": "Bueno, supongo que no está tan mal cubrirse unos a otros ya que están todos en el mismo bus..."
+      "content": "Bueno, supongo que no está tan mal que se cubran entre ustedes ya que están todos en el mismo bus..."
     },
     {
       "id": 92,
@@ -489,7 +489,7 @@
     {
       "id": 93,
       "model": "파우스트",
-      "content": "...Recibimos una llamada. La Sección 4 de Operaciones Especiales del Equipo After acaba de pasar al subsuelo por su trabajo."
+      "content": "... Recibimos una llamada. La Sección 4 de Operaciones Especiales del Equipo After acaba de entrar al subsuelo para terminar el trabajo."
     },
     {
       "id": 94,
@@ -499,7 +499,7 @@
     {
       "id": 95,
       "model": "베르길리우스",
-      "content": "...Aunque es una verdadera lástima que se haya perdido la esencia."
+      "content": "... Aunque es una verdadera lástima que se haya perdido la esencia."
     },
     {
       "id": 96,
@@ -509,7 +509,7 @@
     {
       "id": 97,
       "model": "오티스",
-      "content": "Fallar es algo habitual en el campo de batalla. Si un objetivo no se cumplió, diseñas otro plan y vuelves a desplegar."
+      "content": "Fallar es algo habitual en el campo de batalla. Si un objetivo no se cumplió, se diseña otro plan y se reorganiza el despliegue."
     },
     {
       "id": 98,
@@ -537,11 +537,11 @@
     },
     {
       "id": 103,
-      "content": "Pero ahora mismo no me quedaban ni energía ni fuerza de voluntad para ponerme inquisitivo."
+      "content": "Pero ahora mismo no me quedaban ni las energías ni la fuerza de voluntad como para ponerme inquisitivo."
     },
     {
       "id": 104,
-      "content": "El bus apestaba a sangre por todas las manchas y sangre de nuestros trajes, pero ninguno de nosotros intentó abrir las ventanillas."
+      "content": "El bus apestaba a sangre por todas las manchas y carne de nuestros trajes, pero ninguno de nosotros intentó abrir las ventanillas."
     },
     {
       "id": 105,
@@ -553,21 +553,21 @@
     },
     {
       "id": 107,
-      "content": "Gregor tenía la mirada más derrotada de todos, mirando por la ventana..."
+      "content": "Gregor tenía la mirada más derrotada de todos y no hacía más que mirar por la ventana..."
     },
     {
       "id": 108,
-      "content": "Entonces, de repente, fue a colgar algo de su bolsillo cerca del parabrisas del bus."
+      "content": "Entonces, de repente, sacó algo de su bolsillo y lo colgó cerca del parabrisas del bus."
     },
     {
       "id": 109,
       "model": "카론",
-      "content": "Hombre Bicho. ¿Qué pusiste en la cabeza de Mefi?"
+      "content": "Insecto. ¿Qué es eso que pusiste sobre la cabeza de Mefi?"
     },
     {
       "id": 110,
       "model": "그레고르",
-      "content": "…Un recuerdo."
+      "content": "… Un recuerdo."
     },
     {
       "id": 111,
@@ -582,11 +582,11 @@
     {
       "id": 113,
       "model": "그레고르",
-      "content": "Es... todo lo que hay."
+      "content": "Y... eso es todo."
     },
     {
       "id": 114,
-      "content": "Consideré la posibilidad de darle una charla de ánimo, pero se disipó rápidamente."
+      "content": "Pensé en darle unas palabras de ánimo, pero las ganas desaparecieron rápidamente."
     },
     {
       "id": 115,
@@ -605,7 +605,7 @@
     {
       "id": 118,
       "model": "베르길리우스",
-      "content": "...Muy bien, pongámonos en marcha."
+      "content": "... Muy bien, pongámonos en marcha."
     },
     {
       "id": 119,

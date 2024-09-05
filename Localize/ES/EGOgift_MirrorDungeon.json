@@ -2,46 +2,46 @@
   "dataList": [
     {
       "id": 9001,
-      "name": "El sueño de la Infernoposa",
-      "desc": "Al aplicar Potencia de [Combustion] o Quemadura Única a un enemigo con [Combustion] o Quemado Único, inflige de manera aleatoria un total de 3 de Potencia de [Combustion] entre todo los enemigos.\n\nAl activar la Resonancia Absoluta de la Ira, inflige de manera aleatoria un total de 5 de Potencia de [Combustion] entre todos los enemigos al Inicio de Combate.",
+      "name": "Hellterfly’s Dream",
+      "desc": "When applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of 3 [Combustion] Potency between all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of 5 [Combustion] Potency between all enemies at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 9001,
-          "simpleDesc": "Inflige aleatoriamente 3 de Potencia de [Combustion]"
+          "simpleDesc": "Randomly inflict 3 [Combustion] Potency"
         },
         {
           "abilityID": 90011,
-          "simpleDesc": "Inflige aleatoriamente 5 de Potencia de [Combustion]"
+          "simpleDesc": "Randomly inflict 5 [Combustion] Potency"
         }
       ]
     },
     {
       "id": 19001,
-      "name": "El sueño de la Infernoposa+",
-      "desc": "When applying de Potencia de [Combustion] or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of <style=\"upgradeHighlight\">4 de Potencia de [Combustion]</style> between all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of <style=\"upgradeHighlight\">6 de Potencia de [Combustion]</style> between all enemies at Combat Start.",
+      "name": "Hellterfly’s Dream+",
+      "desc": "When applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of <style=\"upgradeHighlight\">4 [Combustion] Potency</style> between all enemies.\n\nWhen activating Wrath Absolute Resonance, randomly inflict a total of <style=\"upgradeHighlight\">6 [Combustion] Potency</style> between all enemies at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 19001,
-          "simpleDesc": "Inflige aleatoriamente 4 de Potencia de [Combustion]"
+          "simpleDesc": "Randomly inflict 4 [Combustion] Potency"
         },
         {
           "abilityID": 190011,
-          "simpleDesc": "Inflige aleatoriamente 6 de Potencia de [Combustion]"
+          "simpleDesc": "Randomly inflict 6 [Combustion] Potency"
         }
       ]
     },
     {
       "id": 29001,
       "name": "Hellterfly’s Dream++",
-      "desc": "When applying de Potencia de [Combustion] or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of <style=\"upgradeHighlight\">5 [Combustion]</style> between all enemies.\n\nWhen activating <style=\"upgradeHighlight\">Wrath Resonance</style>, randomly inflict a total of <style=\"upgradeHighlight\">8 de Potencia de [Combustion]</style> between all enemies at Combat Start.",
+      "desc": "When applying [Combustion] Potency or 'Unique Burn' to an enemy with [Combustion] or 'Unique Burn', randomly inflict a total of <style=\"upgradeHighlight\">5 [Combustion]</style> between all enemies.\n\nWhen activating <style=\"upgradeHighlight\">Wrath Resonance</style>, randomly inflict a total of <style=\"upgradeHighlight\">8 [Combustion] Potency</style> between all enemies at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 29001,
-          "simpleDesc": "Inflige aleatoriamente 5 de Potencia de [Combustion]"
+          "simpleDesc": "Randomly inflict 5 [Combustion] Potency"
         },
         {
           "abilityID": 290011,
-          "simpleDesc": "Inflige aleatoriamente 8 de Potencia de [Combustion]"
+          "simpleDesc": "Randomly inflict 8 [Combustion] Potency"
         }
       ]
     },
@@ -63,33 +63,33 @@
     {
       "id": 9003,
       "name": "Ashes to Ashes",
-      "desc": "Combat Start: if all enemies (or all Abnormality parts) have [Combustion] or 'Unique Burn', inflict 2 de Potencia de [Combustion] on all enemies (or all Abnormality parts).",
+      "desc": "Combat Start: if all enemies (or all Abnormality parts) have [Combustion] or 'Unique Burn', inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts).",
       "simpleDesc": [
         {
           "abilityID": 9003,
-          "simpleDesc": "Inflict 2 de Potencia de [Combustion]"
+          "simpleDesc": "Inflict 2 [Combustion] Potency"
         }
       ]
     },
     {
       "id": 19003,
       "name": "Ashes to Ashes+",
-      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 2 de Potencia de [Combustion] on all enemies (or all Abnormality parts) with [Combustion] or 'Unique Burn'</style>.",
+      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 2 [Combustion] Potency on all enemies (or all Abnormality parts) with [Combustion] or 'Unique Burn'</style>.",
       "simpleDesc": [
         {
           "abilityID": 19003,
-          "simpleDesc": "Inflict 2 de Potencia de [Combustion]"
+          "simpleDesc": "Inflict 2 [Combustion] Potency"
         }
       ]
     },
     {
       "id": 29003,
       "name": "Ashes to Ashes++",
-      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 3 de Potencia de [Combustion] on all enemies (or all Abnormality parts)</style>.",
+      "desc": "Combat Start: <style=\"upgradeHighlight\">inflict 3 [Combustion] Potency on all enemies (or all Abnormality parts)</style>.",
       "simpleDesc": [
         {
           "abilityID": 29003,
-          "simpleDesc": "Inflict 3 de Potencia de [Combustion]"
+          "simpleDesc": "Inflict 3 [Combustion] Potency"
         }
       ]
     },
@@ -189,45 +189,45 @@
     {
       "id": 9009,
       "name": "Fiery Down",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts de Potencia de [Combustion] or 'Unique Burn', inflict 3 de Potencia de [Combustion].\n\nTurn Start: If the enemy has 20+ de Potencia de [Combustion], (Current de Potencia de [Combustion] on enemy) x2",
+      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 3 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
       "simpleDesc": [
         {
           "abilityID": 9009,
-          "simpleDesc": "Inflict 3 de Potencia de [Combustion]"
+          "simpleDesc": "Inflict 3 [Combustion] Potency"
         },
         {
           "abilityID": 90091,
-          "simpleDesc": "de Potencia de [Combustion] on target x2"
+          "simpleDesc": "[Combustion] Potency on target x2"
         }
       ]
     },
     {
       "id": 19009,
       "name": "Fiery Down+",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts de Potencia de [Combustion] or 'Unique Burn', <style=\"upgradeHighlight\">inflict 4 de Potencia de [Combustion]</style>.\n\nTurn Start: If the enemy has 20+ de Potencia de [Combustion], (Current de Potencia de [Combustion] on enemy) x2",
+      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', <style=\"upgradeHighlight\">inflict 4 [Combustion] Potency</style>.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, (Current [Combustion] Potency on enemy) x2",
       "simpleDesc": [
         {
           "abilityID": 19009,
-          "simpleDesc": "Inflict 4 de Potencia de [Combustion]"
+          "simpleDesc": "Inflict 4 [Combustion] Potency"
         },
         {
           "abilityID": 190091,
-          "simpleDesc": "de Potencia de [Combustion] on target x2"
+          "simpleDesc": "[Combustion] Potency on target x2"
         }
       ]
     },
     {
       "id": 29009,
       "name": "Fiery Down++",
-      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts de Potencia de [Combustion] or 'Unique Burn', inflict 4 de Potencia de [Combustion].\n\nTurn Start: If the enemy has 20+ de Potencia de [Combustion], <style=\"upgradeHighlight\">(Current de Potencia de [Combustion] on enemy) x2.5</style>",
+      "desc": "When hitting an enemy with a Lust Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 4 [Combustion] Potency.\n\nTurn Start: If the enemy has 20+ [Combustion] Potency, <style=\"upgradeHighlight\">(Current [Combustion] Potency on enemy) x2.5</style>",
       "simpleDesc": [
         {
           "abilityID": 29009,
-          "simpleDesc": "Inflict 4 de Potencia de [Combustion]"
+          "simpleDesc": "Inflict 4 [Combustion] Potency"
         },
         {
           "abilityID": 290091,
-          "simpleDesc": "de Potencia de [Combustion] on target x2.5"
+          "simpleDesc": "[Combustion] Potency on target x2.5"
         }
       ]
     },
@@ -410,7 +410,7 @@
       "simpleDesc": [
         {
           "abilityID": 9016,
-          "simpleDesc": "Inflige aleatoriamente 4 [Vibration] Potency"
+          "simpleDesc": "Randomly inflict 4 [Vibration] Potency"
         }
       ]
     },
@@ -421,7 +421,7 @@
       "simpleDesc": [
         {
           "abilityID": 19016,
-          "simpleDesc": "Inflige aleatoriamente 6 [Vibration] Potency"
+          "simpleDesc": "Randomly inflict 6 [Vibration] Potency"
         }
       ]
     },
@@ -432,7 +432,7 @@
       "simpleDesc": [
         {
           "abilityID": 29016,
-          "simpleDesc": "Inflige aleatoriamente 8 [Vibration] Potency"
+          "simpleDesc": "Randomly inflict 8 [Vibration] Potency"
         }
       ]
     },
@@ -781,7 +781,7 @@
     },
     {
       "id": 9032,
-      "name": "Oveja Eléctrica Soñadora",
+      "name": "Dreaming Electric Sheep",
       "desc": "After defeating an enemy by using an Envy Affinity or Slash damage Skill, raise the unit's Slash Skill Power by 2 for the next 2 turns.\n\nWhen activating Envy Absolute Resonance, all allies gain 2 [AttackUp] and 2 [DefenseUp] at Combat Start.",
       "simpleDesc": [
         {
@@ -812,11 +812,11 @@
     {
       "id": 9034,
       "name": "Pinpoint Logic Circuit",
-      "desc": "When hitting an enemy with an Envy Affinity Skill or a Skill that inflicts de Potencia de [Combustion] or 'Unique Burn', inflict additional de Potencia de [Combustion] by half the Skill's total Coins. (rounded up)",
+      "desc": "When hitting an enemy with an Envy Affinity Skill or a Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict additional [Combustion] Potency by half the Skill's total Coins. (rounded up)",
       "simpleDesc": [
         {
           "abilityID": 9034,
-          "simpleDesc": "Inflict de Potencia de [Combustion] by half the Skill's total Coins"
+          "simpleDesc": "Inflict [Combustion] Potency by half the Skill's total Coins"
         }
       ]
     },
@@ -945,7 +945,7 @@
     {
       "id": 9041,
       "name": "Red Order",
-      "desc": "Whenever an ally inflicts [Sinking] Potency or Count on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. (Max 3)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. (Max 4)",
+      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. (Max 3)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. (Max 4)",
       "simpleDesc": [
         {
           "abilityID": 9041,
@@ -960,7 +960,7 @@
     {
       "id": 19041,
       "name": "Red Order+",
-      "desc": "Whenever an ally inflicts [Sinking] Potency or Count on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. <style=\"upgradeHighlight\">(Max 4)</style>\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. <style=\"upgradeHighlight\">(Max 5)</style>",
+      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally gains 1 'Offense Level' next turn. <style=\"upgradeHighlight\">(Max 4)</style>\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, gain 2 'Offense Level' next turn instead. <style=\"upgradeHighlight\">(Max 5)</style>",
       "simpleDesc": [
         {
           "abilityID": 19041,
@@ -975,7 +975,7 @@
     {
       "id": 29041,
       "name": "Red Order++",
-      "desc": "Whenever an ally inflicts [Sinking] Potency or Count on enemies with Skill Effects, the ally <style=\"upgradeHighlight\">gains 2 'Offense Level' next turn</style>. (Max 4)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, <style=\"upgradeHighlight\">gain 3 'Offense Level' next turn instead. (Max 6)</style>",
+      "desc": "Whenever an ally inflicts [Sinking] Potency, Count, or 'Unique Sinking' on enemies with Skill Effects, the ally <style=\"upgradeHighlight\">gains 2 'Offense Level' next turn</style>. (Max 4)\n\nAllies with Wrath Affinity Attack Skills, upon inflicting [Sinking] Potency or Count on enemies with Skill Effects, <style=\"upgradeHighlight\">gain 3 'Offense Level' next turn instead. (Max 6)</style>",
       "simpleDesc": [
         {
           "abilityID": 29041,
@@ -1035,7 +1035,7 @@
     {
       "id": 9043,
       "name": "Employee Card",
-      "desc": "When activating Wrath Absolute Resonance or using a Skill that gains or applies [Charge] Count, all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
+      "desc": "When activating Wrath Absolute Resonance or using a Skill that gains or applies [Charge] Count or 'Unique Charge', all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
       "simpleDesc": [
         {
           "abilityID": 9043,
@@ -1046,7 +1046,7 @@
     {
       "id": 19043,
       "name": "Employee Card+",
-      "desc": "When activating <style=\"upgradeHighlight\">Wrath Resonance</style> or using a Skill that gains or applies [Charge] Count, all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
+      "desc": "When activating <style=\"upgradeHighlight\">Wrath Resonance</style> or using a Skill that gains or applies [Charge] Count or 'Unique Charge', all allies gain +3 [Charge] Count at the next Turn Start. (Once per turn)",
       "simpleDesc": [
         {
           "abilityID": 19043,
@@ -1057,7 +1057,7 @@
     {
       "id": 29043,
       "name": "Employee Card++",
-      "desc": "When activating Wrath Resonance or using a Skill that gains or applies [Charge] Count, all allies <style=\"upgradeHighlight\">gain +4 [Charge] Count</style> at the next Turn Start. (Once per turn)",
+      "desc": "When activating Wrath Resonance or using a Skill that gains or applies [Charge] Count or 'Unique Charge', all allies <style=\"upgradeHighlight\">gain +4 [Charge] Count</style> at the next Turn Start. (Once per turn)",
       "simpleDesc": [
         {
           "abilityID": 29043,
@@ -1113,45 +1113,45 @@
     {
       "id": 9045,
       "name": "Glimpse of Flames",
-      "desc": "Turn End: consume half of [Combustion] Count on enemies with [Combustion] to deal (de Potencia de [Combustion] x consumed [Combustion] Count) bonus Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels for the next turn. (Max 3)",
+      "desc": "Turn End: consume half of [Combustion] Count on enemies with [Combustion] to deal ([Combustion] Potency x consumed [Combustion] Count) bonus Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels for the next turn. (Max 3)",
       "simpleDesc": [
         {
           "abilityID": 9045,
-          "simpleDesc": "Deal (de Potencia de [Combustion] x [Combustion] Count) Wrath damage"
+          "simpleDesc": "Deal ([Combustion] Potency x [Combustion] Count) Wrath damage"
         },
         {
           "abilityID": 90451,
-          "simpleDesc": "Deal (de Potencia de [Combustion] x [Combustion] Count x 2) Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels next turn"
+          "simpleDesc": "Deal ([Combustion] Potency x [Combustion] Count x 2) Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels next turn"
         }
       ]
     },
     {
       "id": 19045,
       "name": "Glimpse of Flames+",
-      "desc": "Turn End: consume half of [Combustion] Count on enemies with [Combustion] to deal <style=\"upgradeHighlight\">(de Potencia de [Combustion] x consumed [Combustion] Count x 1.5)</style> bonus Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels for the next turn. <style=\"upgradeHighlight\">(Max 5)</style>",
+      "desc": "Turn End: consume half of [Combustion] Count on enemies with [Combustion] to deal <style=\"upgradeHighlight\">([Combustion] Potency x consumed [Combustion] Count x 1.5)</style> bonus Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels for the next turn. <style=\"upgradeHighlight\">(Max 5)</style>",
       "simpleDesc": [
         {
           "abilityID": 19045,
-          "simpleDesc": "Deal (de Potencia de [Combustion] x [Combustion] Count x 1.5) Wrath damage"
+          "simpleDesc": "Deal ([Combustion] Potency x [Combustion] Count x 1.5) Wrath damage"
         },
         {
           "abilityID": 190451,
-          "simpleDesc": "Deal (de Potencia de [Combustion] x [Combustion] Count x 1.5) Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels next turn"
+          "simpleDesc": "Deal ([Combustion] Potency x [Combustion] Count x 1.5) Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels next turn"
         }
       ]
     },
     {
       "id": 29045,
       "name": "Glimpse of Flames++",
-      "desc": "Turn End: consume half of [Combustion] Count on enemies with [Combustion] to deal <style=\"upgradeHighlight\">(de Potencia de [Combustion] x consumed [Combustion] Count x 2)</style> bonus Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels for the next turn. <style=\"upgradeHighlight\">(Max 8)</style>",
+      "desc": "Turn End: consume half of [Combustion] Count on enemies with [Combustion] to deal <style=\"upgradeHighlight\">([Combustion] Potency x consumed [Combustion] Count x 2)</style> bonus Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels for the next turn. <style=\"upgradeHighlight\">(Max 8)</style>",
       "simpleDesc": [
         {
           "abilityID": 29045,
-          "simpleDesc": "Deal (de Potencia de [Combustion] x [Combustion] Count x 2) Wrath damage"
+          "simpleDesc": "Deal ([Combustion] Potency x [Combustion] Count x 2) Wrath damage"
         },
         {
           "abilityID": 290451,
-          "simpleDesc": "Deal (de Potencia de [Combustion] x [Combustion] Count x 2) Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels next turn"
+          "simpleDesc": "Deal ([Combustion] Potency x [Combustion] Count x 2) Wrath damage. Targets lose ([Combustion] Count consumed by Glimpse of Flames)/2 Defense Levels next turn"
         }
       ]
     },
@@ -1263,7 +1263,7 @@
     {
       "id": 9049,
       "name": "Thorny Path",
-      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency, inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Absolute Resonance, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
+      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Unique Sinking', inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Absolute Resonance, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 9049,
@@ -1278,7 +1278,7 @@
     {
       "id": 19049,
       "name": "Thorny Path+",
-      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency, inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen <style=\"upgradeHighlight\">activating Lust Resonance</style>, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
+      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Unique Sinking', inflict 3 [Sinking] Potency and +2 [Sinking] Count at Turn End. (Once per enemy per turn)\n\nWhen <style=\"upgradeHighlight\">activating Lust Resonance</style>, inflict 2 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 19049,
@@ -1293,7 +1293,7 @@
     {
       "id": 29049,
       "name": "Thorny Path++",
-      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency, inflict <style=\"upgradeHighlight\">4 [Sinking] Potency and +3 [Sinking] Count</style> at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Resonance, inflict 3 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
+      "desc": "When hitting and dealing HP damage to an enemy with a Skill that inflicts [Sinking] Potency or 'Unique Sinking', inflict <style=\"upgradeHighlight\">4 [Sinking] Potency and +3 [Sinking] Count</style> at Turn End. (Once per enemy per turn)\n\nWhen activating Lust Resonance, inflict 3 [Sinking] Potency and +3 [Sinking] Count to all enemies(for Abnormalities, a random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 29049,
@@ -1398,7 +1398,7 @@
     {
       "id": 9052,
       "name": "Portable Battery Socket",
-      "desc": "Turn Start: Two random allies gain +2 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Counts)\n\nWhen activating Sloth Absolute Resonance, one random ally gains +3 [Charge] Count at Combat Start.",
+      "desc": "Turn Start: Two random allies gain +2 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Count or 'Unique Charge')\n\nWhen activating Sloth Absolute Resonance, one random ally gains +3 [Charge] Count at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 9052,
@@ -1413,7 +1413,7 @@
     {
       "id": 19052,
       "name": "Portable Battery Socket+",
-      "desc": "Turn Start: two random allies gain <style=\"upgradeHighlight\">+3 [Charge] Count</style>. (Prioritizes Identities with Skills that gain [Charge] Counts)\n\nWhen <style=\"upgradeHighlight\">activating Sloth Resonance</style>, one random ally gains +3 [Charge] Count at Combat Start.",
+      "desc": "Turn Start: two random allies gain <style=\"upgradeHighlight\">+3 [Charge] Count</style>. (Prioritizes Identities with Skills that gain [Charge] Count or 'Unique Charge')\n\nWhen <style=\"upgradeHighlight\">activating Sloth Resonance</style>, one random ally gains +3 [Charge] Count at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 19052,
@@ -1428,7 +1428,7 @@
     {
       "id": 29052,
       "name": "Portable Battery Socket++",
-      "desc": "Turn Start: <style=\"upgradeHighlight\">three random allies</style> gain +3 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Counts)\n\nWhen activating Sloth Resonance, one random ally <style=\"upgradeHighlight\">gains +5 [Charge] Count</style> at Combat Start.",
+      "desc": "Turn Start: <style=\"upgradeHighlight\">three random allies</style> gain +3 [Charge] Count. (Prioritizes Identities with Skills that gain [Charge] Count or 'Unique Charge')\n\nWhen activating Sloth Resonance, one random ally <style=\"upgradeHighlight\">gains +5 [Charge] Count</style> at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 29052,
@@ -1443,45 +1443,45 @@
     {
       "id": 9053,
       "name": "Dust to Dust",
-      "desc": "First Turn Start of a wave: inflict 5 de Potencia de [Combustion] and +3 [Combustion] Count to all enemies. (for Abnormalities, one random Part)\n\nWhen activating Sloth Absolute Resonance, inflict 3 de Potencia de [Combustion] and +2 [Combustion] Count to all enemies (for Abnormalities, one random Part) at Combat Start.",
+      "desc": "First Turn Start of a wave: inflict 5 [Combustion] Potency and +3 [Combustion] Count to all enemies. (for Abnormalities, one random Part)\n\nWhen activating Sloth Absolute Resonance, inflict 3 [Combustion] Potency and +2 [Combustion] Count to all enemies (for Abnormalities, one random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 9053,
-          "simpleDesc": "Inflict 5 de Potencia de [Combustion] and +3 [Combustion] Count"
+          "simpleDesc": "Inflict 5 [Combustion] Potency and +3 [Combustion] Count"
         },
         {
           "abilityID": 90531,
-          "simpleDesc": "Inflict 3 de Potencia de [Combustion] and +2 [Combustion] Count"
+          "simpleDesc": "Inflict 3 [Combustion] Potency and +2 [Combustion] Count"
         }
       ]
     },
     {
       "id": 19053,
       "name": "Dust to Dust+",
-      "desc": "First Turn Start of a wave: inflict <style=\"upgradeHighlight\">6 de Potencia de [Combustion] and +3 [Combustion] Count</style> to all enemies. (for Abnormalities, one Part)\n\nWhen activating Sloth Absolute Resonance, inflict <style=\"upgradeHighlight\">4 de Potencia de [Combustion]</style> and +2 [Combustion] Count to all enemies (for Abnormalities, one Part) at Combat Start.",
+      "desc": "First Turn Start of a wave: inflict <style=\"upgradeHighlight\">6 [Combustion] Potency and +3 [Combustion] Count</style> to all enemies. (for Abnormalities, one Part)\n\nWhen activating Sloth Absolute Resonance, inflict <style=\"upgradeHighlight\">4 [Combustion] Potency</style> and +2 [Combustion] Count to all enemies (for Abnormalities, one Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 19053,
-          "simpleDesc": "Inflict 6 de Potencia de [Combustion] and +3 [Combustion] Count"
+          "simpleDesc": "Inflict 6 [Combustion] Potency and +3 [Combustion] Count"
         },
         {
           "abilityID": 190531,
-          "simpleDesc": "Inflict 4 de Potencia de [Combustion] and +2 [Combustion] Count"
+          "simpleDesc": "Inflict 4 [Combustion] Potency and +2 [Combustion] Count"
         }
       ]
     },
     {
       "id": 29053,
       "name": "Dust to Dust++",
-      "desc": "First Turn Start of a wave: inflict <style=\"upgradeHighlight\">8 de Potencia de [Combustion] and +3 [Combustion] Count</style> to all enemies (for Abnormalities, one random Part)\n\nWhen activating <style=\"upgradeHighlight\">Sloth Resonance</style>, inflict 4 de Potencia de [Combustion] and <style=\"upgradeHighlight\">+3 [Combustion] Count</style> to all enemies (for Abnormalities, one random Part) at Combat Start.",
+      "desc": "First Turn Start of a wave: inflict <style=\"upgradeHighlight\">8 [Combustion] Potency and +3 [Combustion] Count</style> to all enemies (for Abnormalities, one random Part)\n\nWhen activating <style=\"upgradeHighlight\">Sloth Resonance</style>, inflict 4 [Combustion] Potency and <style=\"upgradeHighlight\">+3 [Combustion] Count</style> to all enemies (for Abnormalities, one random Part) at Combat Start.",
       "simpleDesc": [
         {
           "abilityID": 29053,
-          "simpleDesc": "Inflict 8 de Potencia de [Combustion] and +3 [Combustion] Count"
+          "simpleDesc": "Inflict 8 [Combustion] Potency and +3 [Combustion] Count"
         },
         {
           "abilityID": 290531,
-          "simpleDesc": "Inflict 4 de Potencia de [Combustion] and +3 [Combustion] Count"
+          "simpleDesc": "Inflict 4 [Combustion] Potency and +3 [Combustion] Count"
         }
       ]
     },
@@ -1668,7 +1668,7 @@
     {
       "id": 9062,
       "name": "Curriculum Vitae",
-      "desc": "Turn End: allies with 7+ [Charge] Count gain 1 [Agility] next turn.\n\nIf the ally has Gloom Affinity Skills, gain 2 [Agility] and 1 [ResultEnhancement] next turn instead.",
+      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Unique Charge') gain 1 [Agility] next turn.\n\nIf the ally has Gloom Affinity Skills, gain 2 [Agility] and 1 [ResultEnhancement] next turn instead.",
       "simpleDesc": [
         {
           "abilityID": 9062,
@@ -1683,7 +1683,7 @@
     {
       "id": 19062,
       "name": "Curriculum Vitae+",
-      "desc": "Turn End: allies with 7+ [Charge] Count gain <style=\"upgradeHighlight\">2 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">3 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
+      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Unique Charge') gain <style=\"upgradeHighlight\">2 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">3 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
       "simpleDesc": [
         {
           "abilityID": 19062,
@@ -1698,7 +1698,7 @@
     {
       "id": 29062,
       "name": "Curriculum Vitae++",
-      "desc": "Turn End: allies with 7+ [Charge] Count gain <style=\"upgradeHighlight\">3 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">4 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
+      "desc": "Turn End: allies with 7+ ([Charge] Count + 'Unique Charge') gain <style=\"upgradeHighlight\">3 [Agility] next turn.</style>\n\nIf the ally has Gloom Affinity Skills, gain <style=\"upgradeHighlight\">4 [Agility]</style> and 1 [ResultEnhancement] next turn instead.",
       "simpleDesc": [
         {
           "abilityID": 29062,
@@ -1885,7 +1885,7 @@
     {
       "id": 9069,
       "name": "Wrist Guards",
-      "desc": "Turn Start: allies with 5+ [Charge] Count gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
+      "desc": "Turn Start: allies with 5+ ([Charge] Count + 'Unique Charge') gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
       "simpleDesc": [
         {
           "abilityID": 9069,
@@ -1900,7 +1900,7 @@
     {
       "id": 19069,
       "name": "Wrist Guards+",
-      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">3+ [Charge] Count</style> gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
+      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">3+ ([Charge] Count + 'Unique Charge')</style> gain 1 [AttackDmgUp].\n\nIf the ally has Pride Affinity Attack Skills, gain 2 [AttackDmgUp] instead.",
       "simpleDesc": [
         {
           "abilityID": 19069,
@@ -1915,7 +1915,7 @@
     {
       "id": 29069,
       "name": "Wrist Guards++",
-      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">[Charge] Count gain 2 [AttackDmgUp]</style>.\n\nIf the ally has Pride Affinity Attack Skills, gain <style=\"upgradeHighlight\">3 [AttackDmgUp] instead.</style>",
+      "desc": "Turn Start: allies with <style=\"upgradeHighlight\">([Charge] Count + 'Unique Charge') gain 2 [AttackDmgUp]</style>.\n\nIf the ally has Pride Affinity Attack Skills, gain <style=\"upgradeHighlight\">3 [AttackDmgUp] instead.</style>",
       "simpleDesc": [
         {
           "abilityID": 29069,
@@ -1963,11 +1963,11 @@
     {
       "id": 9071,
       "name": "Charred Disk",
-      "desc": "When an enemy with [Combustion] is defeated (for Abnormalities, when the Core is defeated), inflict half of the de Potencia de [Combustion] on the defeated enemy to an enemy with the least de Potencia de [Combustion] at the next Turn Start.\n\nTurn Start: inflict 4 Nivel Ofensivo Reducidoto enemies with [Combustion] for the turn.",
+      "desc": "When an enemy with [Combustion] is defeated (for Abnormalities, when the Core is defeated), inflict half of the [Combustion] Potency on the defeated enemy to an enemy with the least [Combustion] Potency at the next Turn Start.\n\nTurn Start: inflict 4 Offense Level Down to enemies with [Combustion] for the turn.",
       "simpleDesc": [
         {
           "abilityID": 9071,
-          "simpleDesc": "Inflict (de Potencia de [Combustion] on defeated enemy)/2 de Potencia de [Combustion]"
+          "simpleDesc": "Inflict ([Combustion] Potency on defeated enemy)/2 [Combustion] Potency"
         },
         {
           "abilityID": 90711,
@@ -2317,7 +2317,7 @@
     {
       "id": 9087,
       "name": "Burning Intellect",
-      "desc": "After defeating an enemy with a [Combustion] effect, 2 allies with Skills that inflict de Potencia de [Combustion] gains 1 [AttackDmgUp] at the next Turn Start.",
+      "desc": "After defeating an enemy with a [Combustion] effect, 2 allies with Skills that inflict [Combustion] Potency gains 1 [AttackDmgUp] at the next Turn Start.",
       "simpleDesc": [
         {
           "abilityID": 9087,
@@ -2328,7 +2328,7 @@
     {
       "id": 19087,
       "name": "Burning Intellect+",
-      "desc": "After defeating an enemy with a [Combustion] effect, 2 allies with Skills that inflict de Potencia de [Combustion] gains <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> at the next Turn Start.",
+      "desc": "After defeating an enemy with a [Combustion] effect, 2 allies with Skills that inflict [Combustion] Potency gains <style=\"upgradeHighlight\">2 [AttackDmgUp]</style> at the next Turn Start.",
       "simpleDesc": [
         {
           "abilityID": 19087,
@@ -2339,7 +2339,7 @@
     {
       "id": 29087,
       "name": "Burning Intellect++",
-      "desc": "After defeating an enemy with a [Combustion] effect, <style=\"upgradeHighlight\">3 allies</style> with Skills that inflict de Potencia de [Combustion] gains 2 [AttackDmgUp] at the next Turn Start.",
+      "desc": "After defeating an enemy with a [Combustion] effect, <style=\"upgradeHighlight\">3 allies</style> with Skills that inflict [Combustion] Potency gains 2 [AttackDmgUp] at the next Turn Start.",
       "simpleDesc": [
         {
           "abilityID": 29087,
@@ -2350,15 +2350,15 @@
     {
       "id": 9088,
       "name": "Soothe the Dead",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply de Potencia de [Combustion], Count, or 'Unique Burn' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\n\nFirst Turn Start of a wave: inflict 3 [Combustion] Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 de Potencia de [Combustion] between all enemies (or all Abnormality parts).\n\nTo Skills that inflict de Potencia de [Combustion], Count, or 'Unique Burn': Final Power +1, Coin Power +1, inflicted de Potencia de [Combustion] +1, inflicted [Combustion] Count +1.",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Combustion] Potency, Count, or 'Unique Burn' effects. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\n\nFirst Turn Start of a wave: inflict 3 [Combustion] Count to all enemies (or all Abnormality parts); randomly inflict a total of 15 [Combustion] Potency between all enemies (or all Abnormality parts).\n\nTo Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': Final Power +1, Coin Power +1, inflicted [Combustion] Potency +1, inflicted [Combustion] Count +1.",
       "simpleDesc": [
         {
           "abilityID": 9088,
-          "simpleDesc": "Inflict +3 [Combustion] Count; Inflige aleatoriamente 15 de Potencia de [Combustion] between all enemies"
+          "simpleDesc": "Inflict +3 [Combustion] Count; Randomly inflict 15 [Combustion] Potency between all enemies"
         },
         {
           "abilityID": 90881,
-          "simpleDesc": "Final Power +1, Coin Power +1, inflicted de Potencia de [Combustion] +1, inflicted [Combustion] Count +1."
+          "simpleDesc": "Final Power +1, Coin Power +1, inflicted [Combustion] Potency +1, inflicted [Combustion] Count +1."
         }
       ]
     },
@@ -2458,7 +2458,7 @@
     {
       "id": 9092,
       "name": "Coupled Oscillation",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency or Count. (not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: Inflict 5 [Vibration] and +5 [Vibration] Count to all enemies. (or all Abnormality parts)\n\nApply 5 [Vibration] Potency and 2 [Vulnerable] this turn and next turn to enemies affected by [VibrationExplosion]. (activates once per Attack Skill that triggers [VibrationExplosion])\n\nAfter triggering 3 [VibrationExplosion] to a target, Stagger the target at the next Turn Start and add a new Stagger Threshold at 66% and 33% marks of the target's current HP. (once per Encounter)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Vibration] Potency or Count. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: Inflict 5 [Vibration] and +5 [Vibration] Count to all enemies. (or all Abnormality parts)\n\nApply 5 [Vibration] Potency and 2 [Vulnerable] this turn and next turn to enemies affected by [VibrationExplosion]. (activates once per Attack Skill that triggers [VibrationExplosion])\n\nAfter triggering 3 [VibrationExplosion] to a target, Stagger the target at the next Turn Start and add a new Stagger Threshold at 66% and 33% marks of the target's current HP. (once per Encounter)",
       "simpleDesc": [
         {
           "abilityID": 9092,
@@ -2525,7 +2525,7 @@
       "simpleDesc": [
         {
           "abilityID": 9095,
-          "simpleDesc": "Inflige aleatoriamente (5 + (# of enemies x 3)) [Sinking] Count"
+          "simpleDesc": "Randomly inflict (5 + (# of enemies x 3)) [Sinking] Count"
         }
       ]
     },
@@ -2536,7 +2536,7 @@
       "simpleDesc": [
         {
           "abilityID": 19095,
-          "simpleDesc": "Inflige aleatoriamente (10 + (# of enemies x 3)) [Sinking] Count"
+          "simpleDesc": "Randomly inflict (10 + (# of enemies x 3)) [Sinking] Count"
         }
       ]
     },
@@ -2547,14 +2547,14 @@
       "simpleDesc": [
         {
           "abilityID": 29095,
-          "simpleDesc": "Inflige aleatoriamente (10 + (# of enemies x 4)) [Sinking] Count"
+          "simpleDesc": "Randomly inflict (10 + (# of enemies x 4)) [Sinking] Count"
         }
       ]
     },
     {
       "id": 9096,
       "name": "Black Sheet Music",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Sinking] Potency or Count. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nWhen hitting an enemy with a Skill, inflict 5 [Sinking] Potency.\n\nTurn Start: All enemies (or all Abnormality parts) regain [Sinking] Count equal to ([Sinking] Count consumed from getting hit last turn)/2",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that apply [Sinking] Potency, Count, or 'Unique Sinking'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nWhen hitting an enemy with a Skill, inflict 5 [Sinking] Potency.\n\nTurn Start: All enemies (or all Abnormality parts) regain [Sinking] Count equal to ([Sinking] Count consumed from getting hit last turn)/2",
       "simpleDesc": [
         {
           "abilityID": 9096,
@@ -2662,7 +2662,7 @@
     {
       "id": 9100,
       "name": "T-1 Perpetual Motion Machine",
-      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count. (Not counting E.G.O Skills)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain ([Charge] Count/5 +1) [AttackDmgUp].\n\nNext Turn Start: Each Identity gains (Total [Charge] Count consumed by Skill use in this Encounter/4) Nivel Ofensivo Aumentado (Maxes out when 40 [Charge] Counts are consumed)",
+      "desc": "Encounter Start: This Gift activates when 5 or more Identities have Attack Skills that gain [Charge] Count or 'Unique Charge'. (Not counting E.G.O Skills, only counts Identities on the field at Encounter Start)\n\nFirst Turn Start of a wave: all allies gain 7 [ChargeForceField].\n\nTurn Start: all allies gain (([Charge] Count + 'Unique Charge')/5 +1) [AttackDmgUp]. (max 9, rounded up)\n\nNext Turn Start: Each Identity gains ((sum of total [Charge] Count + 'Unique Charge' consumed by Skill use in this Encounter)/4) Offense Level Up (Maxes out when a sum of 40 [Charge] Count + 'Unique Charge' are consumed)",
       "simpleDesc": [
         {
           "abilityID": 9100,
@@ -2674,47 +2674,47 @@
         },
         {
           "abilityID": 91002,
-          "simpleDesc": "Gain (Total [Charge] Count consumed/4) Offense Level"
+          "simpleDesc": "Gain ((Total [Charge] Count consumed + 'Unique Charge')/4) Offense Level"
         }
       ]
     },
     {
       "id": 9101,
       "name": "Melted Paraffin",
-      "desc": "When winning a Clash with a Skill that inflicts de Potencia de [Combustion], Count, or 'Unique Burn', inflict (# of remaining Coins/2) de Potencia de [Combustion] on the target.",
+      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict (# of remaining Coins/2) [Combustion] Potency on the target.",
       "simpleDesc": [
         {
           "abilityID": 9101,
-          "simpleDesc": "Clash Win: Inflict (# of remaining Coins/2) de Potencia de [Combustion] on the target"
+          "simpleDesc": "Clash Win: Inflict (# of remaining Coins/2) [Combustion] Potency on the target"
         }
       ]
     },
     {
       "id": 19101,
       "name": "Melted Paraffin+",
-      "desc": "When winning a Clash with a Skill that inflicts de Potencia de [Combustion], Count, or 'Unique Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins/2 + 1)</style> de Potencia de [Combustion] on the target.",
+      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins/2 + 1)</style> [Combustion] Potency on the target.",
       "simpleDesc": [
         {
           "abilityID": 19101,
-          "simpleDesc": "Clash Win: Inflict (# of remaining Coins/2 + 1) de Potencia de [Combustion] on the target"
+          "simpleDesc": "Clash Win: Inflict (# of remaining Coins/2 + 1) [Combustion] Potency on the target"
         }
       ]
     },
     {
       "id": 29101,
       "name": "Melted Paraffin++",
-      "desc": "When winning a Clash with a Skill that inflicts de Potencia de [Combustion], Count, or 'Unique Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins + 1)</style> de Potencia de [Combustion] on the target.",
+      "desc": "When winning a Clash with a Skill that inflicts [Combustion] Potency, Count, or 'Unique Burn', inflict <style=\"upgradeHighlight\">(# of remaining Coins + 1)</style> [Combustion] Potency on the target.",
       "simpleDesc": [
         {
           "abilityID": 29101,
-          "simpleDesc": "Clash Win: Inflict (# of remaining Coins + 1) de Potencia de [Combustion] on the target"
+          "simpleDesc": "Clash Win: Inflict (# of remaining Coins + 1) [Combustion] Potency on the target"
         }
       ]
     },
     {
       "id": 9102,
       "name": "Polarization",
-      "desc": "If the ally has 30 or more SP than the target, deal +7.5% more damage with Skills that inflict de Potencia de [Combustion], Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
+      "desc": "If the ally has 30 or more SP than the target, deal +7.5% more damage with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
       "simpleDesc": [
         {
           "abilityID": 9102,
@@ -2725,7 +2725,7 @@
     {
       "id": 19102,
       "name": "Polarization+",
-      "desc": "If the ally has <style=\"upgradeHighlight\">25</style> or more SP than the target, deal <style=\"upgradeHighlight\">+12.5%</style> more damage with Skills that inflict de Potencia de [Combustion], Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
+      "desc": "If the ally has <style=\"upgradeHighlight\">25</style> or more SP than the target, deal <style=\"upgradeHighlight\">+12.5%</style> more damage with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
       "simpleDesc": [
         {
           "abilityID": 19102,
@@ -2736,7 +2736,7 @@
     {
       "id": 29102,
       "name": "Polarization++",
-      "desc": "If the ally has <style=\"upgradeHighlight\">15</style> or more SP than the target, deal <style=\"upgradeHighlight\">+20%</style> more damage with Skills that inflict de Potencia de [Combustion], Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
+      "desc": "If the ally has <style=\"upgradeHighlight\">15</style> or more SP than the target, deal <style=\"upgradeHighlight\">+20%</style> more damage with Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'. (For enemies without SP, their 'SP' counts as 0)",
       "simpleDesc": [
         {
           "abilityID": 29102,
@@ -2780,18 +2780,18 @@
     {
       "id": 9104,
       "name": "Ardent Flower",
-      "desc": "[Effect applies only to #1, #2 Deployed Identities]\n\nWhen an ally attacks an enemy, if the target has (de Potencia de [Combustion] on self)% or less HP(for Abnormalities, Core HP), deal +50% more damage with Attack Skills that inflict de Potencia de [Combustion], Count, or 'Unique Burn'.",
+      "desc": "[Effect applies only to #1, #2 Deployed Identities]\n\nWhen an ally attacks an enemy, if the target has ([Combustion] Potency on self)% or less HP(for Abnormalities, Core HP), deal +50% more damage with Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'.",
       "simpleDesc": [
         {
           "abilityID": 9104,
-          "simpleDesc": "If conditions are met: deal +50% more damage with Attack Skills that inflict de Potencia de [Combustion], Count, or 'Unique Burn'"
+          "simpleDesc": "If conditions are met: deal +50% more damage with Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn'"
         }
       ]
     },
     {
       "id": 9105,
       "name": "Fragment of Hellfire",
-      "desc": "Gain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nWrath E.G.O Awakening Skills: Inflict additional [Combustion] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal +(Atk Weight/# of attack targets x 20)% more damage.",
+      "desc": "Activates when using E.G.O Awakening Skills that apply [Combustion] Potency, Count, or 'Unique Burn'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Wrath E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nWrath E.G.O Awakening Skills: Inflict additional [Combustion] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on) and deal +(Atk Weight/# of attack targets x 20)% more damage.",
       "simpleDesc": [
         {
           "abilityID": 9105,
@@ -3208,7 +3208,7 @@
     {
       "id": 9122,
       "name": "Eldtree Snare",
-      "desc": "Attack Skills(Except E.G.O Skills) that inflict [Sinking] Potency or Count deal +5% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +10% more damage instead.",
+      "desc": "Attack Skills(Except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Unique Sinking' deal +5% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +10% more damage instead.",
       "simpleDesc": [
         {
           "abilityID": 9122,
@@ -3223,7 +3223,7 @@
     {
       "id": 19122,
       "name": "Eldtree Snare+",
-      "desc": "Attack Skills(Except E.G.O Skills) that inflict [Sinking] Potency or Count deal +<style=\"upgradeHighlight\">7.5</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">12.5</style>% more damage instead.",
+      "desc": "Attack Skills(Except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Unique Sinking' deal +<style=\"upgradeHighlight\">7.5</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">12.5</style>% more damage instead.",
       "simpleDesc": [
         {
           "abilityID": 19122,
@@ -3238,7 +3238,7 @@
     {
       "id": 29122,
       "name": "Eldtree Snare++",
-      "desc": "Attack Skills(Except E.G.O Skills) that inflict [Sinking] Potency or Count deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">15</style>% more damage instead.",
+      "desc": "Attack Skills(Except E.G.O Skills) that inflict [Sinking] Potency, Count, or 'Unique Sinking' deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nFor Skills with 2- Coins, gain Clash Power +1 and deal +<style=\"upgradeHighlight\">15</style>% more damage instead.",
       "simpleDesc": [
         {
           "abilityID": 29122,
@@ -3253,7 +3253,7 @@
     {
       "id": 9123,
       "name": "Rags",
-      "desc": "Allies with Attack Skills that inflict [Sinking] Potency or Count heal 5 additional SP(once per turn) upon Clash Win; if at max SP, deal +7.5% more damage.\n\nWhen the said allies use a minus Coin Skill(not E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP)% more damage; if already at less than -15 SP, deal +15% more damage.",
+      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal 5 additional SP(once per turn) upon Clash Win; if at max SP, deal +7.5% more damage.\n\nWhen the said allies use a minus Coin Skill(not E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP)% more damage; if already at less than -15 SP, deal +15% more damage.",
       "simpleDesc": [
         {
           "abilityID": 9123,
@@ -3268,7 +3268,7 @@
     {
       "id": 19123,
       "name": "Rags+",
-      "desc": "Allies with Attack Skills that inflict [Sinking] Potency or Count heal <style=\"upgradeHighlight\">6</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(not E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP <style=\"upgradeHighlight\">+ 5</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">20</style>% more damage.",
+      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal <style=\"upgradeHighlight\">6</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">10</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(not E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(amount of lost SP <style=\"upgradeHighlight\">+ 5</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">20</style>% more damage.",
       "simpleDesc": [
         {
           "abilityID": 19123,
@@ -3283,7 +3283,7 @@
     {
       "id": 29123,
       "name": "Rags++",
-      "desc": "Allies with Attack Skills that inflict [Sinking] Potency or Count heal <style=\"upgradeHighlight\">7</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">12.5</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(not E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(SP lost <style=\"upgradeHighlight\">+ 10</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">25</style>% more damage.",
+      "desc": "Allies with Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' heal <style=\"upgradeHighlight\">7</style> additional SP(once per turn) upon Clash Win; if at max SP, deal +<style=\"upgradeHighlight\">12.5</style>% more damage.\n\nWhen the said allies use a minus Coin Skill(not E.G.O Skills): at -15 or higher SP, reduce SP to -15 and deal +(SP lost <style=\"upgradeHighlight\">+ 10</style>)% more damage; if already at less than -15 SP, deal +<style=\"upgradeHighlight\">25</style>% more damage.",
       "simpleDesc": [
         {
           "abilityID": 29123,
@@ -3298,7 +3298,7 @@
     {
       "id": 9124,
       "name": "Grandeur",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency or Count against targets with 10+ ([Sinking] Potency + Count), inflict 2 [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 4 [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking' against targets with 10+ ([Sinking] Potency + Count), inflict 2 [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 4 [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 9124,
@@ -3309,7 +3309,7 @@
     {
       "id": 19124,
       "name": "Grandeur+",
-      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency or Count against targets with <style=\"upgradeHighlight\">8</style>+ ([Sinking] Potency + Count), inflict <style=\"upgradeHighlight\">3</style> [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict <style=\"upgradeHighlight\">5</style> [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
+      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking' against targets with <style=\"upgradeHighlight\">8</style>+ ([Sinking] Potency + Count), inflict <style=\"upgradeHighlight\">3</style> [Sinking] Potency and +2 [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict <style=\"upgradeHighlight\">5</style> [Sinking] Potency and +2 [Sinking] Count instead (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 19124,
@@ -3320,7 +3320,7 @@
     {
       "id": 29124,
       "name": "Grandeur++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency or Count against targets with <style=\"upgradeHighlight\">5</style>+ ([Sinking] Potency + Count), inflict 3 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 5 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count instead (once per turn per Identity)",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nWhen dealing damage with an Attack Skill that inflicts [Sinking] Potency, Count, or 'Unique Sinking' against targets with <style=\"upgradeHighlight\">5</style>+ ([Sinking] Potency + Count), inflict 3 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count After Attack (2 times per turn per Identity)\nIn Focused Encounters: inflict 5 [Sinking] Potency and <style=\"upgradeHighlight\">+3</style> [Sinking] Count instead (once per turn per Identity)",
       "simpleDesc": [
         {
           "abilityID": 29124,
@@ -3331,7 +3331,7 @@
     {
       "id": 9125,
       "name": "Distant Star",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nFor this Encounter, Ally that used Attack Skills that inflict [Sinking] Potency or Count 3 times or more during this Encounter inflicts 1 additional [Sinking] Potency. (this effect applies from the 4th used [Sinking]-applying Skill onward)\n\nIn Focused Encounters: inflicts 2 additional [Sinking] Potency instead.",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nFor this Encounter, Ally that used Attack Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking' 3 times or more during this Encounter inflicts 1 additional [Sinking] Potency. (this effect applies from the 4th used [Sinking]-applying Skill onward)\n\nIn Focused Encounters: inflicts 2 additional [Sinking] Potency instead.",
       "simpleDesc": [
         {
           "abilityID": 9124,
@@ -3342,11 +3342,11 @@
     {
       "id": 9126,
       "name": "Fragment of Decay",
-      "desc": "Activates when using E.G.O Awakening Skills that inflict [Sinking] Potency or Count. (NOT Corrosion Skills)\n\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nGloom E.G.O Awakening Skills: Inflict additional [Sinking] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed x 2.5)% more damage.",
+      "desc": "Activates when using E.G.O Awakening Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Gloom E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nGloom E.G.O Awakening Skills: Inflict additional [Sinking] Count Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed to activate E.G.O Skill x 2.5)% more damage.",
       "simpleDesc": [
         {
           "abilityID": 9126,
-          "simpleDesc": "Activates when using E.G.O Awakening Skills that inflict [Sinking] Potency or Count."
+          "simpleDesc": "Activates when using E.G.O Awakening Skills that inflict [Sinking] Potency, Count, or 'Unique Sinking'."
         },
         {
           "abilityID": 91261,
@@ -3354,7 +3354,7 @@
         },
         {
           "abilityID": 91262,
-          "simpleDesc": "If conditions are met: Inflict additional [Sinking] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed x 2.5)% more damage"
+          "simpleDesc": "If conditions are met: Inflict additional [Sinking] Count based on E.G.O grades Before Attack(ZAYIN inflicts +2 Count, TETH inflicts +3 Count, HE inflicts +4 Count, and so on), and deal +(SP consumed to activate E.G.O Skill x 2.5)% more damage"
         }
       ]
     },
@@ -3539,7 +3539,7 @@
     {
       "id": 9133,
       "name": "Uncapped Defibrilator",
-      "desc": "Turn End: heal HP and SP equal to the amount of [Charge] Count consumed by Attack Skills this turn.\n\nIf this unit has 50%- remaining HP, boost the heal amount by x1.5.",
+      "desc": "Turn End: heal HP and SP equal to the sum of [Charge] Count and 'Unique Charge' consumed by Attack Skills this turn.\n\nIf this unit has 50%- remaining HP, boost the heal amount by x1.5.",
       "simpleDesc": [
         {
           "abilityID": 9133,
@@ -3550,7 +3550,7 @@
     {
       "id": 19133,
       "name": "Uncapped Defibrilator+",
-      "desc": "Turn End: heal HP and SP equal to <style=\"upgradeHighlight\">(the amount of [Charge] Count consumed by Attack Skills this turn + 1)</style>.\n\nIf this unit has 50%- remaining HP, boost the heal amount by <style=\"upgradeHighlight\">x2</style>.",
+      "desc": "Turn End: heal HP and SP equal to <style=\"upgradeHighlight\">(the sum of [Charge] Count and 'Unique Charge' consumed by Attack Skills this turn + 1)</style>.\n\nIf this unit has 50%- remaining HP, boost the heal amount by <style=\"upgradeHighlight\">x2</style>.",
       "simpleDesc": [
         {
           "abilityID": 19133,
@@ -3561,7 +3561,7 @@
     {
       "id": 29133,
       "name": "Uncapped Defibrilator++",
-      "desc": "Turn End: heal HP and SP equal to <style=\"upgradeHighlight\">(the amount of [Charge] Count consumed by Attack Skills this turn + 2)</style>.\n\nIf this unit has <style=\"upgradeHighlight\">75</style>%- remaining HP, boost the heal amount by x2.",
+      "desc": "Turn End: heal HP and SP equal to (the sum of [Charge] Count and 'Unique Charge' consumed by Attack Skills this turn <style=\"upgradeHighlight\">+ 2</style>).\n\nIf this unit has <style=\"upgradeHighlight\">75</style>%- remaining HP, boost the heal amount by x2.",
       "simpleDesc": [
         {
           "abilityID": 29133,
@@ -3572,7 +3572,7 @@
     {
       "id": 9134,
       "name": "Patrolling Flashlight",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count, the Identity's Skill 1 gains Clash Power +1 and deals +10% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply 2 [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals +10% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply 2 [ChargeForceField] next turn.",
       "simpleDesc": [
         {
           "abilityID": 9134,
@@ -3587,7 +3587,7 @@
     {
       "id": 19134,
       "name": "Patrolling Flashlight+",
-      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count, the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+15</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">3</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, and <style=\"upgradeHighlight\">#3</style> Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+15</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">3</style> [ChargeForceField] next turn.",
       "simpleDesc": [
         {
           "abilityID": 19134,
@@ -3602,7 +3602,7 @@
     {
       "id": 29134,
       "name": "Patrolling Flashlight++",
-      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count, the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+25</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">4</style> [ChargeForceField] next turn.",
+      "desc": "[Effects apply only to #1, #2, and #3 Deployed Identities]\n\nTurn Start: if the affected Identity has a Skill that gains or consumes [Charge] Count or 'Unique Charge', the Identity's Skill 1 gains Clash Power +1 and deals <style=\"upgradeHighlight\">+25</style>% more damage while that unit has [ChargeForceField].\n\nTurn End: if the affected Identity does not have [ChargeForceField], apply <style=\"upgradeHighlight\">4</style> [ChargeForceField] next turn.",
       "simpleDesc": [
         {
           "abilityID": 29134,
@@ -3617,11 +3617,11 @@
     {
       "id": 9135,
       "name": "Imitative Generator",
-      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ [Charge] Count at Turn Start.\n\nCoin Power +1 to Skill 3 that gains or consumes [Charge Count].\n\nIf the said Skill has less than 5 Base Power, deal +25% more damage; if it has 5+ Base Power, gain an additional Coin Power +1.",
+      "desc": "[Effects apply only to #1, #2 Deployed Identities]\n\nActivates when the unit has 10+ ([Charge] Count + 'Unique Charge') at Turn Start.\n\nCoin Power +1 to Skill 3 that gains or consumes [Charge] Count or 'Unique Charge'.\n\nIf the said Skill has less than 5 Base Power, deal +25% more damage; if it has 5+ Base Power, gain an additional Coin Power +1.",
       "simpleDesc": [
         {
           "abilityID": 9135,
-          "simpleDesc": "Coin Power +1 to Skill 3 that consumes [Charge] Count"
+          "simpleDesc": "Coin Power +1 to Skill 3 that consumes [Charge] Count or 'Unique Charge'"
         },
         {
           "abilityID": 91351,
@@ -3632,7 +3632,7 @@
     {
       "id": 9136,
       "name": "Fragment of Friction",
-      "desc": "Activates when using E.G.O Awakening Skills that gain or consume [Charge] Count. (NOT Corrosion Skills)\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nEnvy E.G.O Awakening Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +([Charge] Count on self x 5)% more damage.",
+      "desc": "Activates when using E.G.O Awakening Skills that gain or consume [Charge] Count or 'Unique Charge'. (NOT Corrosion Skills)\n\nGain Final Power equal to (Envy E.G.O resource + sum of other E.G.O resources/3) consumed.\n\nEnvy E.G.O Awakening Skills: gain additional [Charge] Count Before Attack(ZAYIN gains +2 Count, TETH gains +3 Count, HE gains +4 Count, and so on), and deal +(([Charge] Count on self + 'Unique Charge') x 5)% more damage. (200% max)",
       "simpleDesc": [
         {
           "abilityID": 9136,
@@ -4286,16 +4286,16 @@
     },
     {
       "id": 9403,
-      "name": "Broche de Ébano",
-      "desc": "Primer Turno de un Encuentro: Inflige 2 de Potencia y Contador de [Burst] a todos los enemigos.\n\nInflige 2 de [Binding] el siguiente turno a todos los enemigos por 3 turnos.",
+      "name": "Ebony Brooch",
+      "desc": "First Turn Start of an Encounter: Inflict 2 [Burst] Potency and Count to all enemies.\n\nInflict 2 [Binding] next turn at Turn End to all enemies for 3 turns.",
       "simpleDesc": [
         {
           "abilityID": 9403,
-          "simpleDesc": "Inflige 2 de Potencia de [Burst] y +2 de Contador de [Burst] en todos los enemigos"
+          "simpleDesc": "Inflict 2 [Burst] Potency and +2 [Burst] Count on all enemies"
         },
         {
           "abilityID": 94031,
-          "simpleDesc": "Inflige 2 de [Binding] en todos los enemigos"
+          "simpleDesc": "Inflict 2 [Binding] on all enemies"
         }
       ]
     },
@@ -4373,7 +4373,7 @@
     {
       "id": 9413,
       "name": "Nagel und Hammer Scriptures",
-      "desc": "When an ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 1~2 [NailPersonality].\n\nIf the said ally is from N Corp., gain 1 Fanático at Turn Start.",
+      "desc": "When an ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 1~2 [NailPersonality].\n\nIf the said ally is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start.",
       "simpleDesc": [
         {
           "abilityID": 9413,
@@ -4381,7 +4381,7 @@
         },
         {
           "abilityID": 94131,
-          "simpleDesc": "If the unit is from N Corp., gain 1 Fanático at Turn Start."
+          "simpleDesc": "If the unit is an 'N Corp. Fanatic', gain 1 Fanatic at Turn Start."
         }
       ]
     },
@@ -4418,7 +4418,7 @@
     {
       "id": 9416,
       "name": "Wholeness",
-      "desc": "If the ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 2~3 [NailPersonality].\n\nIf the ally is from N Corp., gain 1 Fanático at Turn Start, and deal +25% more damage against targets with [Laceration].\n\nActivate a special effect when there are 5+ Identities from N Corp.:\n- N Corp. Identities(only counts Identities on the field at Encounter Start) gain Final Power +1, Plus Coin Power +1, Minus Coin Power -1, and Attack Skills inflict +1 more [NailPersonality]. If an N Corp. Identity is at max SP at Turn Start, gain 3 [AttackDmgUp].",
+      "desc": "If the ally wins a Clash using a Skill that inflicts [Laceration] Potency, Count, or 'Unique Bleed', inflict 2~3 [NailPersonality].\n\nIf the ally is an 'N Corp. Fanatic'., gain 1 Fanatic at Turn Start, and deal +25% more damage against targets with [Laceration].\n\nActivate a special effect when there are 5+ 'N Corp. Fanatic' Identities(only counts Identities on the field at Encounter Start):\n- 'N Corp. Fanatic' Identities gain Final Power +1, Plus Coin Power +1, Minus Coin Power -1, and Attack Skills inflict +1 more [NailPersonality]. If an 'N Corp. Fanatic' Identity is at max SP at Turn Start, gain 3 [AttackDmgUp].",
       "simpleDesc": [
         {
           "abilityID": 9416,
@@ -4426,11 +4426,11 @@
         },
         {
           "abilityID": 94161,
-          "simpleDesc": "N Corp. Identities deal +25% more damage when attacking an enemy"
+          "simpleDesc": "'N Corp. Fanatic' Identities deal +25% more damage when attacking an enemy"
         },
         {
           "abilityID": 94162,
-          "simpleDesc": "Activate a special effect when there are 5+ N Corp. Identities"
+          "simpleDesc": "Activate a special effect when there are 5+ 'N Corp. Fanatic' Identities"
         }
       ]
     },
@@ -4721,15 +4721,15 @@
     {
       "id": 9713,
       "name": "Rusted Hilt",
-      "desc": "Turn Start: all allies gain 1 Poder Cortante Aumentado.\n\nBlade Lineage or Kurokumo Clan Identities gain 2 Poder Cortante Aumentado instead.",
+      "desc": "Turn Start: all allies gain 1 Slash Power Up.\n\nBlade Lineage or Kurokumo Clan Identities gain 2 Slash Power Up instead.",
       "simpleDesc": [
         {
           "abilityID": 9713,
-          "simpleDesc": "Gain 1 Poder Cortante Aumentado"
+          "simpleDesc": "Gain 1 Slash Power Up"
         },
         {
           "abilityID": 97131,
-          "simpleDesc": "Gain 2 Poder Cortante Aumentado"
+          "simpleDesc": "Gain 2 Slash Power Up"
         }
       ]
     },
@@ -4777,11 +4777,11 @@
     {
       "id": 9717,
       "name": "Sublimity",
-      "desc": "Encounter Start: activates when there are 3 or more Kurokumo Clan Identities(only counts Identities on the field at Encounter Start).\n\nTurn Start: all allies gain 2 Poder Cortante Aumentado, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)",
+      "desc": "Encounter Start: activates when there are 3 or more Kurokumo Clan Identities(only counts Identities on the field at Encounter Start).\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Kurokumo Clan Identity deals damage for the first time, inflict an additional 4 [Laceration] Potency and +4 [Laceration] Count. (Once per turn)",
       "simpleDesc": [
         {
           "abilityID": 9717,
-          "simpleDesc": "Gain 2 Poder Cortante Aumentado and deal +35% more Slash Damage"
+          "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
         },
         {
           "abilityID": 97171,
@@ -4792,11 +4792,11 @@
     {
       "id": 9718,
       "name": "Unbending",
-      "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field at Encounter Start).\n\nTurn Start: all allies gain 2 Poder Cortante Aumentado, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self.",
+      "desc": "Encounter Start: activates when there are 3 or more Blade Lineage Identities(only counts Identities on the field at Encounter Start).\n\nTurn Start: all allies gain 2 Slash Power Up, and deal +35% more Slash damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to [Breath] Potency on self.",
       "simpleDesc": [
         {
           "abilityID": 9718,
-          "simpleDesc": "Gain 2 Poder Cortante Aumentado and deal +35% more Slash Damage"
+          "simpleDesc": "Gain 2 Slash Power Up and deal +35% more Slash Damage"
         },
         {
           "abilityID": 97181,

@@ -1382,7 +1382,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 20 HP; Inflict +5 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Heal 20 HP; Inflict +5 de Contador de Sangrado"
                 }
               ]
             }
@@ -3025,7 +3025,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 De Sangrado y +2 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 De Sangrado y +2 de Contador de Sangrado"
                 }
               ]
             }
@@ -3044,7 +3044,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 De Sangrado y +2 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 De Sangrado y +2 de Contador de Sangrado"
                 }
               ]
             },
@@ -4305,7 +4305,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply +5 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Apply +5 de Contador de Sangrado"
                 }
               ]
             }
@@ -4697,14 +4697,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Skim Wounds",
-          "desc": "[WhenUse] If target has Bleed, Inflige 1 Paralyze",
+          "name": "Skim Wounds",         
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Paralyze"
                 },
+
                 {
                   "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
                 }
@@ -4720,12 +4721,15 @@
         {
           "level": 1,
           "name": "Entangled Injury",
-          "desc": "[WhenUse] If target has Bleed, Inflige 1 de Atadura el siguiente turno",
+          "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Bind next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
                 }
               ]
             }
@@ -4773,7 +4777,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Remove all de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Remove all de Contador de Sangrado"
                 }
               ]
             }
@@ -4792,7 +4796,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by 1% of Max HP per target's [Laceration]\nRemove all de Contardor de Sangrado"
+                  "desc": "[OnSucceedAttack] Heal by 1% of Max HP per target's [Laceration]\nRemove all de Contador de Sangrado"
                 }
               ]
             }

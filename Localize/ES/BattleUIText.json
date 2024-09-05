@@ -578,7 +578,7 @@
     },
     {
       "id": "ab_part_destroyable_and_can_vanish",
-      "content": "Destr. & <color=#ffffff>Desmembrar</color>"
+      "content": "Destr. & Separable"
     },
     {
       "id": "ab_guidebook_view",
@@ -645,6 +645,10 @@
       "content": "Todas las partes"
     },
     {
+      "id": "correction_based_on_association",
+      "content": "{0} Modificador de Facción: {1} (, )"
+    },
+    {
       "id": "applying_buff_format",
       "content": "{0} Activado"
     },
@@ -658,19 +662,19 @@
     },
     {
       "id": "received_the_golden_bough_undecided",
-      "content": "?"
+      "content": "¿?"
     },
     {
       "id": "vibration_fusion",
-      "content": "Amplitude Entanglement!"
+      "content": "¡Entrelazamiento de Amplitud!"
     },
     {
       "id": "BatonPassUIText",
-      "content": "Substitute"
+      "content": "Sustituto"
     },
     {
       "id": "perfect",
-      "content": "A-Res"
+      "content": "Res-A"
     },
     {
       "id": "ab_part_destroyed",
@@ -678,11 +682,11 @@
     },
     {
       "id": "ab_part_vanished",
-      "content": "Destr. & Cortado"
+      "content": "Destr. & Separable"
     },
     {
       "id": "ab_part_cannot_destroy_and_vanish",
-      "content": "Indestr. & Incortable."
+      "content": "Indestr.  & Insepara."
     },
     {
       "id": "current_hp",
@@ -698,11 +702,47 @@
     },
     {
       "id": "correction_based_on_unit_keyword",
-      "content": "{0} Modificador de Identidad: {1}(, )"
+      "content": "{0} Modificador de Identidad: {1} (, )"
     },
     {
       "id": "battle_operation_counter",
       "content": "Unique Counter"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
+      "content": "Amanecer"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_1",
+      "content": "Mediodía"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_2",
+      "content": "Anochecer"
+    },
+    {
+      "id": "LOBOTOMY_ORDEAL_TIME_TYPE_3",
+      "content": "Medianoche"
+    },
+    {
+      "id": "LobotomyOrdealTypo_QliphothLevel",
+      "content": "Qliphoth Meltdown - Level {0}"
+    },
+    {
+      "id": "SinkingWhite_stack",
+      "content": "The Living"
+    },
+    {
+      "id": "SinkingWhite_turn",
+      "content": "The Departed"
+    },
+    {
+      "id": "BulletLament_stack",
+      "content": "The Living(Ammo)"
+    },
+    {
+      "id": "BulletLament_turn",
+      "content": "The Departed(Ammo)"
     }
   ]
 }

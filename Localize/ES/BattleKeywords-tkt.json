@@ -3,7 +3,7 @@
     {
       "id": "FusionVibration",
       "name": "Enredo de Amplitud",
-      "desc": "- - Fusiona los efectos del tipo de Tremor añadido por el Enredo de Amplitud y el tipo de Tremor actual en el objetivo bajo Tremor - Superposición.\n- Los valores de Potencia y Contador no cambian en el Enredo.\n- Al activar una Conversión de Amplitud en Tremor - Superposición, se activa como Enredo de Amplitud en su lugar.\n- Fin del Turno: Se convierte en Tremor base.",
+      "desc": "- Fusiona los efectos del tipo de Tremor añadido por el Enredo de Amplitud y el tipo de Tremor actual en el objetivo bajo Tremor - Superposición.\n- Los valores de Potencia y Contador no cambian en el Enredo.\n- Al activar una Conversión de Amplitud en Tremor - Superposición, se activa como Enredo de Amplitud en su lugar.\n- Fin del Turno: Se convierte en Tremor base.",
       "summary": ""
     },
     {
@@ -16,7 +16,7 @@
     {
       "id": "VibrationDistribution",
       "name": "Tremor - Distribución",
-      "desc": "- Turn End: Gain ((sum of all allies' Tremor Count) / (# of surviving allies)) Offense Level Up next turn (max 5)\n- When hit by Skills that trigger Tremor Burst, raise the Stagger Threshold by the effect's Potency\n- Turn End: reduce the Count by 1\n- (Interacts the same way as normal Tremor does to effects that raise or reduce Tremor Potency/Count)",
+      "desc": "- Fin del Turno: Gana ((Suma del Contador de Tremor de todos los aliados / (# de aliados vivos)) Nivel Ofensivo Aumentado el siguiente turno (máx 5)\n- Cuando es golpeado por Habilidades que activan Estallido de Tremor, aumenta el Umbral de Aturdimiento por la Potencia del efecto\n- Fin del Turno: Reduce el Contador en 1\n- (Funciona de la misma manera que lo hace el Tremor normal para efectos que aumentan o reducen el Contador/la Potencia) ",
       "summary": "",
       "undefined": "-"
     },
@@ -30,21 +30,21 @@
     {
       "id": "VibrationChain",
       "name": "Tremor - Cadena",
-      "desc": "- - Pierde 1Poder de Choque por cada 10 de Potencia de Tremor en sí mismo (máx 3).\n- Tras ser golpeado por Habilidades que activen Estallido de Tremor, aumenta el Umbral de Aturdimiento por la Potencia del efecto.\n- Final del Turno: Reduce el Contador por 1.\n- (Interactúa de la misma forma que el Tremor base lo hace con los efectos que aumentan o reducen la Potencia/Contador de Tremor)",
+      "desc": "- Pierde 1Poder de Choque por cada 10 de Potencia de Tremor en sí mismo (máx 3).\n- Tras ser golpeado por Habilidades que activen Estallido de Tremor, aumenta el Umbral de Aturdimiento por la Potencia del efecto.\n- Final del Turno: Reduce el Contador por 1.\n- (Interactúa de la misma forma que el Tremor base lo hace con los efectos que aumentan o reducen la Potencia/Contador de Tremor)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeRentalTwo",
-      "name": "T Corp. Tiempo Prestado",
-      "desc": "Fin del Turno:n-Gana (Contador de Tiempo Prestado - 1) de Rapidez, Poder de Choque Aumentado y Frágil el próximo turno.n- Con 1 de Contador, gana (2 x (Potencia de Tiempo Prestado - 1)) de Atadura el próximo turno en su lugar.n- Gana 1 de Potencia y pierde 1 de Contador\n- Si esta unidad tiene más Atadura que Rapidez, el efecto de Tiempo Prestado expira y esta unidad queda Aturdida.",
+      "name": "Tiempo Prestado de T Corp.",
+      "desc": "Fin del Turno:\n-Gana (Contador de Tiempo Prestado - 1) de Rapidez, Poder de Choque Aumentado y Frágil el próximo turno.\n- Con 1 de Contador, gana (2 x (Acumulación  de Tiempo Prestado - 1)) de Atadura el próximo turno en su lugar.\n- Gana 1 de Acumulación  y pierde 1 de Contador\n- Si esta unidad tiene más Atadura que Rapidez, el efecto de Tiempo Prestado expira y esta unidad queda Aturdida.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TimeAccumulation",
       "name": "Retraso Temporal",
-      "desc": "Mientras este efecto esté activo, el daño infligido a esta unidad se almacena y no se recibe.\nFin del Turno: reduce el valor en 1\nFin del Turno: Si solo queda 1 de Valor de este efecto, el efecto expira después de infligir (2 x daño almacenado) de daño de Pereza a esta unidad.\nCuando este efecto está activo, su valor no puede ser incrementado ni refrescado..",
+      "desc": "Mientras este efecto esté activo, el daño infligido a esta unidad se almacena y no se recibe.\nFin del Turno: reduce el valor en 1\nFin del Turno: Si solo queda 1 de Valor de este efecto, el efecto expira después de infligir (2 x daño almacenado) de daño de Pereza a esta unidad.\nCuando este efecto está activo, su valor no puede ser incrementado ni refrescado.",
       "summary": "",
       "undefined": "-"
     },
@@ -65,14 +65,14 @@
     {
       "id": "LimitedTime",
       "name": "Tiempo Robado",
-      "desc": "- Inicio del Turno: A 200 o más de valor, gana (valor - 200)/50 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado.\n- Inicio del Turno: A menos de 200 de valor, gana (200 - valor)/50 Nivel Ofensivo Reducido & Nivel Defensivo Reducido.",
+      "desc": "- Inicio de Turno: A 200 o más de valor, gana (valor - 200)/50 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado.\n- Inicio del Turno: A menos de 200 de valor, gana (200 - valor)/50 Nivel Ofensivo Reducido & Nivel Defensivo Reducido.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "OwnTime",
       "name": "Tiempo Compartido",
-      "desc": "- Inicio del Turno: A 40 o más de valor, gana (valor - 40)/10 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado.\n- Inicio del Turno: A 40 o más de valor, gana (40 - valor)/10 Nivel Ofensivo Reducido & Nivel Defensivo Reducido.",
+      "desc": "- Inicio del Turno: A 40 o más de valor, gana (valor - 40)/10 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado. \n- Inicio del Turno: A menos de 40 de valor, gana (40 - valor)/10 Nivel Ofensivo Reducido & Nivel Defensivo Reducido. ",
       "summary": "",
       "undefined": "-"
     },
@@ -93,21 +93,21 @@
     {
       "id": "TimeAcceleration",
       "name": "Aceleración de Tiempo",
-      "desc": "- - Obtiene 5 de Velocidad\n- Mejora las Habilidades de esta unida.\n- Obtiene 1 de Frágil; Al recibir el efecto de Estallido de Tremor, habilidad o moneda que incremente el Umbral de Aturdimiento de esta unidad, se incrementa un 50% más.",
+      "desc": "-- Gana 5 de Velocidad\n- Mejora las Habilidades de esta unidad.\n- Gana 1 de Frágil; Al recibir un efecto de Estallido de Tremor, habilidad o moneda que incremente el Umbral de Aturdimiento de esta unidad, se incrementa un 50% más.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Yurodivy_LowMorale",
       "name": "Unidad Quebrada",
-      "desc": "- Moral Baja\nGana 1 de Frágil. Gana 1 de Contador de Tremor al ser golpeado. (3 veces máx)",
+      "desc": "- Moral Baja\nGana1 de Frágil. Gana 1 de Contador de Tremor al ser golpeado. (3 veces máx)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Yurodivy_Panic",
       "name": "Unidad Quebrada",
-      "desc": "- - Pánico\\n Gana 2 de Frágil. Gana 2 de Contador de Tremor al ser golpeado. (3 veces máx)",
+      "desc": "- Pánico\\n Gana 2 de Frágil. Gana 2 de Contador de Tremor al ser golpeado. (3 veces máx)",
       "summary": "",
       "undefined": "-"
     },

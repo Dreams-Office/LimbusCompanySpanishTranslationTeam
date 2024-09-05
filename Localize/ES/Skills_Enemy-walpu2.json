@@ -5,13 +5,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Stab",
+                    "name": "Apuñalar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 2 Bleed. If target has Bleed, Inflige +1 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige 2 Sangrado. Si el objetivo tiene Sangrado, inflige +1 Contador de Sangrado"
                                 }
                             ]
                         }
@@ -24,13 +24,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pin Down",
+                    "name": "Clavar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de Sangrado"
                                 }
                             ]
                         },
@@ -50,27 +50,27 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pain",
-                    "desc": "Prioritizes enemies withDe Sangrado",
+                    "name": "Dolor",
+                    "desc": "Prioriza a los enemigos con Sangrado",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 10% de daño realizado como daño extra"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 10% de daño realizado como daño extra"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                    "desc": "[OnSucceedAttack] Inflige Sangrado según el Sangrado del objetivo"
                                 }
                             ]
                         }
@@ -83,8 +83,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Defend",
-                    "desc": "If this unit has Shield HP, Inflige 2 Bleed next turn On Hit",
+                    "name": "Defender",
+                    "desc": "Si esta unidad tiene un Escudo de HP, inflige 2 Sangrado el próximo turno Tras Golpear",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -102,13 +102,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Stab",
+                    "name": "Apuñalar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 3 Bleed. If target has Bleed, inflict +2 de Contardor de Sangrado"
+                                    "desc": "Inflige 3 Sangrado. Si el objetivo tiene Sangrado, inflige +2 Contador de Sangrado"
                                 }
                             ]
                         }
@@ -121,13 +121,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pin Down",
+                    "name": "Clavar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +2 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de Sangrado"
                                 }
                             ]
                         },
@@ -147,33 +147,33 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pain",
-                    "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.",
+                    "name": "Dolor",
+                    "desc": "Prioriza a los enemigos con Sangrado\nCuando esta unidad derrota al objetivo con un ataque, el enemigo con el PC más bajo pierde 10 PC.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 10% de daño realizado como daño extra"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Target loses (Bleed on target) SP"
+                                    "desc": "[OnSucceedAttackHead] El objetivo pierde (Sangrado en el objetivo) de PC"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 10% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 10% de daño realizado como daño extra"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Target loses (Bleed on target) SP"
+                                    "desc": "[OnSucceedAttackHead]  objetivo pierde (Sangrado en el objetivo) de PC"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                    "desc": "[OnSucceedAttack] Inflige Sangrado según el Sangrado del objetivo"
                                 }
                             ]
                         }
@@ -186,7 +186,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Evade",
+                    "name": "Evadir",
                     "desc": "",
                     "coinlist": [
                         {
@@ -205,13 +205,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Stab",
+                    "name": "Apuñalar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 3 Bleed. If target has Bleed, inflict +2 de Contardor de Sangrado"
+                                    "desc": "Inflige 3 Sangrado. Si el objetivo tiene Sangrado, inflige +2 Contador de Sangrado"
                                 }
                             ]
                         }
@@ -224,13 +224,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pin Down",
+                    "name": "Clavar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado"
                                 }
                             ]
                         },
@@ -250,36 +250,36 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pain",
-                    "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 10 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
+                    "name": "Dolor",
+                    "desc": "Prioriza a los enemigos con Sangrado\nCuando esta unidad derrota al objetivo con un ataque, el enemigo con el PC más bajo pierde 10 PC.\nCuando esta unidad derrota al objetivo con un ataque, reutiliza la Habilidad en un objetivo diferente.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 20% de daño realizado como daño extra"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target) SP"
+                                    "desc": "[OnSucceedAttack]  objetivo pierde (Sangrado en el objetivo) de PC"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 20% de daño realizado como daño extra"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target) SP"
+                                    "desc": "[OnSucceedAttack]  objetivo pierde (Sangrado en el objetivo) de PC"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                    "desc": "[OnSucceedAttack] Inflige Sangrado según el Sangrado del objetivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 10+ Bleed, Reuse this Coin once"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ Sangrado, Reutiliza esta Moneda una vez"
                                 }
                             ]
                         }
@@ -292,7 +292,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Counter",
+                    "name": "Contraataque",
                     "desc": "",
                     "coinlist": [
                         {
@@ -311,16 +311,16 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Stab",
+                    "name": "Apuñalar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 4 Bleed. If target has Bleed, inflict +2 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige 4 Sangrado. Si el objetivo tiene Sangrado, inflige +2 Contador de Sangrado"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de Sangrado"
                                 }
                             ]
                         },
@@ -330,7 +330,7 @@
                                     "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de Sangrado"
                                 }
                             ]
                         }
@@ -343,13 +343,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pin Down",
+                    "name": "Clavar",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +3 de Contardor de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado"
                                 }
                             ]
                         },
@@ -376,46 +376,46 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Pain",
-                    "desc": "Prioritizes targets with Bleed\nWhen this unit defeats the target with an attack, enemy with the lowest SP loses 15 SP.\nWhen this unit defeats the target with an attack, reuse Skill on a different target.",
+                    "name": "Dolor",
+                    "desc": "Prioriza a los enemigos con Sangrado\nCuando esta unidad derrota al objetivo con un ataque, el enemigo con el PC más bajo pierde 15 PC.\nCuando esta unidad derrota al objetivo con un ataque, reutiliza la Habilidad en un objetivo diferente.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 20% de daño realizado como daño extra"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                                    "desc": "[OnSucceedAttack] El objetivo pierde (Sangrado en el objetivo/2) de PC"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 20% de daño realizado como daño extra"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                                    "desc": "[OnSucceedAttack] El objetivo pierde (Sangrado en el objetivo/2) de PC"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] If target has Bleed, deal 20% of damage dealt as bonus damage"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene Sangrado, inflige 20% de daño realizado como daño extra"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Target loses (Bleed on target/2) SP"
+                                    "desc": "[OnSucceedAttack] El objetivo pierde (Sangrado en el objetivo/2) de PC"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige Bleed by Bleed on target"
+                                    "desc": "[OnSucceedAttack] Inflige Sangrado según el Sangrado del objetivo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] If the target has 7+ Bleed, Reuse this Coin once"
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 7+ Sangrado, Reutiliza esta Moneda una vez"
                                 }
                             ]
                         }
@@ -428,7 +428,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Counter",
+                    "name": "Contraataque",
                     "desc": "",
                     "coinlist": [
                         {}
