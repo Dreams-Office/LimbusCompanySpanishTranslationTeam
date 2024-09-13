@@ -11,15 +11,15 @@
     {
       "id": 2,
       "place": "A bordo de Mefistófeles",
-      "teller": "???",
-      "title": "???",
-      "content": "Están siendo picaditos, ¿Se levantaron?"
+      "teller": "¿¿??",
+      "title": "¿¿??",
+      "content": "Está temblando. ¿Ya despertó?"
     },
     {
       "id": 3,
-      "teller": "???",
-      "title": "???",
-      "content": "Despierto por fin. Me habría decepcionado un poco si nos hubieras engañado."
+      "teller": "¿¿??",
+      "title": "¿¿??",
+      "content": "Despierto por fin. Me habría decepcionado un poco si te hubieras muerto."
     },
     {
       "id": 4,
@@ -30,22 +30,22 @@
       "id": 5,
       "model": "눈이붉은자",
       "teller": "Hombre de Ojos Rojos",
-      "title": "???",
-      "content": "No es de mañana, pero podría suponer que es refrescante. ¿Cómo te sientes, Dante?"
+      "title": "¿¿??",
+      "content": "No es de mañana, pero podría decirse que es refrescante. ¿Cómo te sientes, Dante?"
     },
     {
       "id": 6,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
+      "title": "Yo"   ,
       "content": "<Bueno, yo...>"
     },
     {
       "id": 7,
       "model": "눈이붉은자",
       "teller": "Hombre de Ojos Rojos",
-      "title": "???",
-      "content": "Tic-taqueando como un reloj... Uhmm, Qué barrera lingüística."
+      "title": "¿¿??",
+      "content": "Tic-taqueando como un reloj... Hahh. Qué barrera lingüística."
     },
     {
       "id": 8,
@@ -59,16 +59,16 @@
     {
       "id": 10,
       "model": "베르길리우스",
-      "content": "Bien. Al menos su audición es funcional. En marcha, Charon."
+      "content": "Bien. Al menos tu oído está en condiciones. En marcha, Charon."
     },
     {
       "id": 11,
       "model": "카론",
-      "content": "Ahora partiendo. Vroom-vroom."
+      "content": "Partiendo. Bruum-Bruum."
     },
     {
       "id": 12,
-      "content": "Hubo un fuerte rugido y vibraciones, como si resonaran desde el fondo de un lodazal profundo."
+      "content": "Hubo un fuerte rugido, acompañado de vibraciones, como si salieran desde el fondo de un lodazal profundo."
     },
     {
       "id": 13,
@@ -76,7 +76,7 @@
     },
     {
       "id": 14,
-      "content": "Un bus... No puedo estar seguro de si alguna vez he montado en un vehículo así en el pasado."
+      "content": "Un bus... No puedo estar seguro de haberme subido a un vehículo así en el pasado."
     },
     {
       "id": 15,
@@ -94,7 +94,7 @@
     },
     {
       "id": 18,
-      "content": "Asentí. Seguro que me siento como un idiota."
+      "content": "Asentí. Sí que me siento como un idiota."
     },
     {
       "id": 19,
@@ -104,12 +104,12 @@
     {
       "id": 20,
       "model": "베르길리우스",
-      "content": "¿Alguna palabra suya, Srta. Faust?"
+      "content": "¿Algo que decir, Srta. Faust?"
     },
     {
       "id": 21,
       "model": "파우스트",
-      "content": "Faust amablemente rechazará la oferta."
+      "content": "Faust rechazará amablemente la oferta."
     },
     {
       "id": 22,
@@ -133,7 +133,7 @@
       "id": 26,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
+      "title": "Yo"   ,
       "content": "<¿Dante?>"
     },
     {
@@ -149,38 +149,38 @@
       "id": 29,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
-      "content": "<Al parecer... Eso no suena como una palabra familiar.>"
+      "title": "Yo"   ,
+      "content": "<Eso parece... Ese nombre no se me hace nada familiar.>"
     },
     {
       "id": 30,
       "model": "파우스트",
-      "content": "Te acostumbrarás con el tiempo."
+      "content": "Se acostumbrará con el tiempo."
     },
     {
       "id": 31,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
+      "title": "Yo"   ,
       "content": "<Espera... ¿Puedes entenderme?>"
     },
     {
       "id": 32,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
-      "content": "<El grupo que me atacó antes, y ese Vergie o como se llame, pareció no escuchar nada más que tictaqueos de mí.>"
+      "title": "Yo"   ,
+      "content": "<El grupo que me atacó antes, y ese Vergie o como se llame, parecieron no haber escuchado nada más que tictaqueos de mí.>"
     },
     {
       "id": 33,
       "model": "파우스트",
-      "content": "Faust puede oír lo que pretendes hablar"
+      "content": "Faust puede oír lo que pretendes decir"
     },
     {
       "id": 34,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
+      "title": "Yo"   ,
       "content": "<¿De verdad puedes...? ¿Pero cómo? Ni siquiera tengo una boca de verdad.>"
     },
     {
@@ -197,7 +197,7 @@
       "id": 37,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
+      "title": "Yo"   ,
       "content": "<Anacrónico... Cierto. Nunca lo consideré.>"
     },
     {
@@ -208,42 +208,42 @@
     {
       "id": 39,
       "model": "파우스트",
-      "content": "Ah, una corta aclaración: cuando digo 'todos', solo me refiero a los Pecadores."
+      "content": "Ah, una pequeña aclaración: cuando digo 'todos', solo me refiero a los Pecadores."
     },
     {
       "id": 40,
       "model": "프롤로그단테2",
       "teller": "Dante",
-      "title": "yo"   ,
+      "title": "Yo"   ,
       "content": "<¿Pecadores?>"
     },
     {
       "id": 41,
       "model": "파우스트",
-      "content": "Las personas que se han sentado detrás de ti..."
+      "content": "Me refiero a las personas que han tomado asiento detrás de usted..."
     },
     {
       "id": 42,
       "model": "파우스트",
-      "content": "Y los que lucharon en tu lugar hasta hace unos momentos."
+      "content": "Aquellos que estaban luchando por usted hasta hace unos momentos."
     },
     {
       "id": 43,
-      "teller": "???",
-      "title": "???",
-      "content": "¡¡Que guau!!! ¡Así que eres la pieza final que completa el elenco de nuestro viaje! !como he anhelado este momento!"
+      "teller": "¿¿??",
+      "title": "¿¿??",
+      "content": "¡¡Oh, qué maravilla!!! ¡Así vos sois la última pieza que remata el elenco de nuestra andanza! ¡Cuánto he anhelado este momento!"
     },
     {
       "id": 44,
-      "teller": "???",
-      "title": "???",
+      "teller": "¿¿??",
+      "title": "¿¿??",
       "content": "Oye, amigo, ¿dónde vendiste tu viejo cráneo?"
     },
     {
       "id": 45,
-      "teller": "???",
-      "title": "???",
-      "content": "Así que fuiste tú. Gracias por poner mi columna vertebral de nuevo en una sola pieza. ¿Eras cirujano o algo en el Nido?"
+      "teller": "¿¿??",
+      "title": "¿¿??",
+      "content": "Así que fue usted. Gracias por dejar a mi columna vertebral de nuevo en una sola pieza. ¿Era cirujano o algo en el Nido?"
     },
     {
       "id": 46,
@@ -263,7 +263,7 @@
     {
       "id": 49,
       "model": "그레고르",
-      "content": "¿Por qué siempre los que están al frente van primero?... Estoy harto de tomar cualquier tipo de liderazgo ahora."
+      "content": "¿Por qué siempre los que están al frente van primero?... Estoy harto de ir siempre al frente."
     },
     {
       "id": 50,
@@ -283,7 +283,7 @@
     {
       "id": 53,
       "model": "그레고르",
-      "content": "Uhrrn... Hmm, tsk. Formar las oraciones correctas es un trabajo duro."
+      "content": "Ehrrn... Hmm, tsk. Es difícil encontrar las palabras correctas."
     },
     {
       "id": 54,
@@ -293,7 +293,7 @@
     {
       "id": 55,
       "model": "그레고르",
-      "content": "Soy Gregor Estamos juntos en esto, amigo Gerente."
+      "content": "Soy Gregor. Estamos juntos en esto, Jefazo."
     },
     {
       "id": 56
@@ -301,7 +301,7 @@
     {
       "id": 57,
       "model": "로쟈",
-      "content": "¡Greg! No son solo tu 'amigo' o 'compañero'~ ¡Estás hablando con la persona que nos hará inmensamente ricos!"
+      "content": "¡Greg! Él no es solo tu 'amigo' o 'jefazo'~ ¡Estás hablando con la persona que nos hará inmensamente ricos!"
     },
     {
       "id": 58,
@@ -311,12 +311,12 @@
     {
       "id": 59,
       "model": "단테",
-      "content": "<¿Ricos? ¿De qué se trata?>"
+      "content": "<¿Ricos? ¿De qué hablas?>"
     },
     {
       "id": 60,
       "model": "로쟈",
-      "content": "A ver, qué mejor... ¡Dante! No me molestes si te llamo por tu nombre. Puedes llamarme Rodya~"
+      "content": "A ver, yo te voy a llamar... ¡Dante! No te molestes si te llamo por tu nombre. Puedes llamarme Rodya~"
     },
     {
       "id": 61
@@ -338,7 +338,7 @@
     {
       "id": 65,
       "model": "로쟈",
-      "content": "Dios mío, que hablo hasta por los codos. ¡Hey chico! ¡El próximo turno te toca a ti!"
+      "content": "Dios mío, no paro de hablar nunca. ¡Ey, niño! ¡Te toca!"
     },
     {
       "id": 66,
@@ -348,7 +348,7 @@
     {
       "id": 67,
       "model": "로쟈",
-      "content": "Oh, qué aburrido ~ ¿Eso es todo?"
+      "content": "Oh, aburriiiidooo ~ ¿Eso es todo?"
     },
     {
       "id": 68,
@@ -375,7 +375,7 @@
     {
       "id": 73,
       "model": "로쟈",
-      "content": "Bien, entonces, ¿Qué hay de ti, colega nerd?"
+      "content": "Bien, entonces, ¿qué hay de ti, colega nerd?"
     },
     {
       "id": 74,
@@ -393,7 +393,7 @@
     {
       "id": 77,
       "model": "이상",
-      "content": "Mhm. Sin humo ni espejos."
+      "content": "Ajá. Sin humo ni espejos."
     },
     {
       "id": 78,
@@ -406,12 +406,12 @@
     {
       "id": 80,
       "model": "이스마엘",
-      "content": "Haaa... No puedo creer que esta gente... ¿No son las presentaciones apropiadas el primer paso para ser un miembro de la sociedad?"
+      "content": "Haaa... No me puedo creer lo de esta gente... ¿Qué no es una buena presentación el primer paso para dar una buena impresión?"
     },
     {
       "id": 81,
       "model": "이스마엘",
-      "content": "Llámame Ishmael, por favor."
+      "content": "Llámeme Ishmael, por favor."
     },
     {
       "id": 82
@@ -427,17 +427,17 @@
     },
     {
       "id": 85,
-      "content": "Aunque enfatizaba la sociabilidad, no se sentía del tipo más amigable)"
+      "content": "Aunque enfatizaba la sociabilidad, no se sentía del tipo más amigable"
     },
     {
       "id": 86,
       "model": "히스클리프",
-      "content": "Siento decepcionarte, porque no me importa demasiado encajar."
+      "content": "Perdón por decepcionarte, pero a mi me chupa un huevo dar una buena impresión."
     },
     {
       "id": 87,
       "model": "히스클리프",
-      "content": "Mi nombre es Heathcliff. Solía ser un demoledor profesional, tanto de propiedades como de personas"
+      "content": "Mi nombre es Heathcliff. Antes era un demoledor profesional, tanto de cosas como de personas."
     },
     {
       "id": 88
@@ -450,12 +450,12 @@
     {
       "id": 90,
       "model": "히스클리프",
-      "content": "Así que ten cuidado."
+      "content": "Así que ojito."
     },
     {
       "id": 91,
       "model": "히스클리프",
-      "content": "Soy mortalmente alérgico a los jefes engreídos que creen que pueden darme órdenes."
+      "content": "No me banco a la gente creída que se piensa que me puede andar mandoneando."
     },
     {
       "id": 92,
@@ -464,7 +464,7 @@
     {
       "id": 93,
       "model": "돈키호테",
-      "content": "¡'S mi turno de hablar! ¡Soy Don Quixote!"
+      "content": "¡Llegó mi turno de hablar! ¡Yo soy yo, Don Quixote!"
     },
     {
       "id": 94
@@ -472,27 +472,27 @@
     {
       "id": 95,
       "model": "돈키호테",
-      "content": "Soy un Fixer que perseguirá sus sueños junto con el suyo. Un placer tenerte."
+      "content": "Soy la Fixer que perseguirá su sueño codo a codo con vuestra merced. Un placer teneros aquí."
     },
     {
       "id": 96,
       "model": "단테",
-      "content": "<¿Un Fixer...? Eso definitivamente se siente como un término que solía conocer...>"
+      "content": "<¿Fixer...? Ese término sí que se me hace familiar...>"
     },
     {
       "id": 97,
       "model": "돈키호테",
-      "content": "¿Quiereis saber qué es? ¡Puedo responder a vuestra pregunta! ¡Los Fixers son protectores de la Ciudad!"
+      "content": "¿Quisierais saber qué son? ¡Puedo despejaros de vuestra duda! ¡Los Fixers son protectores de la Ciudad!"
     },
     {
       "id": 98,
       "model": "돈키호테",
-      "content": "¡Quizás te cueste recordar la Ciudad! Es-"
+      "content": "¡Ah! ¡Quizá os cueste recordar la Ciudad! Es..."
     },
     {
       "id": 99,
       "model": "베르길리우스",
-      "content": "Creo que dije que esto era para presentaciones breves."
+      "content": "Creo haber dicho que esto era para presentaciones breves."
     },
     {
       "id": 100,
@@ -515,7 +515,7 @@
     {
       "id": 104,
       "model": "홍루",
-      "content": "¡Vaya, mírate! ¿No es esa una cabeza fascinante? Un modelo popular en estos días, ¿supongo?"
+      "content": "¡Vaya, mírese! ¿No es fascinante esa cabeza? ¿Es un modelo popular hoy en día, imagino?"
     },
     {
       "id": 105,
@@ -525,16 +525,16 @@
     {
       "id": 106,
       "model": "홍루",
-      "content": "Aunque no es de mi interés."
+      "content": "No es de mi gusto, he de decir."
     },
     {
       "id": 107,
       "model": "히스클리프",
-      "content": "...¿Qué diablos pasa con tu actitud?"
+      "content": "... ¿Qué mierda con tu actitud?"
     },
     {
       "id": 108,
-      "content": "Heathcliff parecía estar a solo un momento de balancear su bate..."
+      "content": "Heathcliff parecía estar a segundos de balancear su bate..."
     },
     {
       "id": 109,
@@ -551,12 +551,12 @@
     {
       "id": 112,
       "model": "료슈",
-      "content": "Shūre de conocerte"
+      "content": "En shẽ-ryō me alegra conocerte."
     },
     {
       "id": 113,
       "model": "료슈",
-      "content": "…Pfht."
+      "content": "... Pffft."
     },
     {
       "id": 114,
@@ -565,7 +565,7 @@
     {
       "id": 115,
       "model": "뫼르소",
-      "content": "Meursault. Por favor refiérase a mí como tal"
+      "content": "Meursault. Por favor, refiérase a mí como tal"
     },
     {
       "id": 116
@@ -578,12 +578,12 @@
     {
       "id": 118,
       "model": "뫼르소",
-      "content": "Esto no es nada especial. Simplemente me estoy comportando normalmente."
+      "content": "No es por nada en especial. Me estoy comportando como lo hago siempre."
     },
     {
       "id": 119,
       "model": "단테",
-      "content": "<Estoy casi alagado. gracias.>"
+      "content": "<Me llegó al corazón. Gracias.>"
     },
     {
       "id": 120,
@@ -592,7 +592,7 @@
     },
     {
       "id": 121,
-      "content": "Se sentía como si algo estuviera gravemente mal con él, pero parece que no puedo precisarlo exactamente."
+      "content": "Me dio la sensación de que algo no andaba bien con él, pero no puedo determinar exactamente qué."
     },
     {
       "id": 122,
@@ -601,16 +601,16 @@
     },
     {
       "id": 123,
-      "content": "La forma en que me escaneó de arriba abajo fue un poco desalentadora."
+      "content": "La forma en que me escaneó de arriba abajo fue un poco intimidante."
     },
     {
       "id": 124,
       "model": "오티스",
-      "content": "yo..."
+      "content": "Yo..."
     },
     {
       "id": 125,
-      "content": "Casi me sentí obligado a inclinarme ante ella, pero me detuvo con un movimiento de su mano."
+      "content": "Me sentí casi obligado a inclinarme ante ella, pero me detuvo con un movimiento de su mano."
     },
     {
       "id": 126,
@@ -620,7 +620,7 @@
     {
       "id": 127,
       "model": "오티스",
-      "content": "Mi nombre es Outis. Me gustaría disculparme por mi rudeza en nuestro primer encuentro."
+      "content": "Mi nombre es Outis. Me gustaría disculparme por mi actitud descortés en nuestro primer encuentro."
     },
     {
       "id": 128
@@ -628,17 +628,17 @@
     {
       "id": 129,
       "model": "단테",
-      "content": "<¿Rudeza...?>"
+      "content": "<¿Actitud... descortés?>"
     },
     {
       "id": 130,
       "model": "오티스",
-      "content": "Jaja, oh, por favor. Tu generosidad es un espectáculo humillante."
+      "content": "Jaja, oh, por favor. Su generosidad es un acto de gran humildad."
     },
     {
       "id": 131,
       "model": "오티스",
-      "content": "Supe a primera vista que tienes lo necesario para liderarnos"
+      "content": "Supe a primera vista que tiene lo necesario para liderarnos."
     },
     {
       "id": 132,
@@ -648,12 +648,12 @@
     {
       "id": 133,
       "model": "오티스",
-      "content": "La mayoría de nosotros estamos condenados a enfrentarnos los unos contra los otros, llevando a conflictos y roces..."
+      "content": "Mientras que la mayoría de humanos generan ruido y fricción como resultado del confrontamiento..."
     },
     {
       "id": 134,
       "model": "오티스",
-      "content": " Algunos de ellos mencionan que ir el uno contra el otro puede ser beneficioso para ambas partes."
+      "content": " ... algunos consiguen sacar un provecho mutuo de él."
     },
     {
       "id": 135,
@@ -663,25 +663,25 @@
     {
       "id": 136,
       "model": "오티스",
-      "content": "Prometo servirle con una devoción sin igual, Gerente Ejecutivo. Mi espada es tuya."
+      "content": "Prometo servirle con una devoción sin igual, Gerente Ejecutivo. Mi espada está en sus manos."
     },
     {
       "id": 137,
       "model": "단테",
-      "content": "<E-Eso es tranquilizador... Gracias.>"
+      "content": "<E-es un alivio... Gracias.>"
     },
     {
       "id": 138,
-      "content": "Asentí en aprobación, aunque todavía no entiendo a qué se refería con 'Rudeza'"
+      "content": "Asentí en aprobación, aunque sigo sin entender a qué se refería con 'actitud descortés'."
     },
     {
       "id": 139,
       "model": "이스마엘",
-      "content": "Estoy asombrada de cómo puedes recitar un elogio tan descarado no mucho después de llamarlo 'desgraciado que se retuerce miserablemente'"
+      "content": "Estoy asombrada de cómo puedes elogiarlo tan descaradamente no mucho después de haberlo llamado 'cosa miserable que se retuerce en el suelo'."
     },
     {
       "id": 140,
-      "content": "...Creo que ahora lo veo."
+      "content": "... Creo ya entendí."
     },
     {
       "id": 141,
@@ -694,12 +694,12 @@
     {
       "id": 143,
       "model": "파우스트",
-      "content": "Un genio con el que tienes la suerte de cruzarte aunque sea una vez en la vida."
+      "content": "Una genio con la cual tiene la suerte de cruzarse solo una vez en la vida."
     },
     {
       "id": 144,
       "model": "단테",
-      "content": "<Mmh…>"
+      "content": "<Emmm…>"
     },
     {
       "id": 145,
@@ -709,7 +709,7 @@
     {
       "id": 146,
       "model": "파우스트",
-      "content": "Bueno, está bien. Llegarás a aprender, todo a su debido tiempo"
+      "content": "Bueno, está bien. Ya lo aprenderás a su debido tiempo."
     },
     {
       "id": 147,
@@ -719,22 +719,22 @@
     {
       "id": 148,
       "model": "파우스트",
-      "content": "Qué Faust es de hecho una mente brillante"
+      "content": "Que Faust es, efectivamente, una mente brillante."
     },
     {
       "id": 149,
       "model": "파우스트",
-      "content": "Cuando el conocido árbol de aquella pregunta cae, el hecho de su sonido no puede convertirse en verdad cuando el observador externo no logra reconocerlo."
+      "content": "Aunque el espectador no pueda observar los resultados dentro de un espacio confinado, no sugiere que lo acontecido dentro en realidad nunca ocurra."
     },
     {
       "id": 150,
       "model": "단테",
-      "content": "<Okay…>"
+      "content": "<De acuerdo…>"
     },
     {
       "id": 151,
       "model": "베르길리우스",
-      "content": "Basta de saludos."
+      "content": "Suficientes presentaciones."
     },
     {
       "id": 152,
@@ -749,7 +749,7 @@
     {
       "id": 154,
       "model": "파우스트",
-      "content": "Él pregunta si el trabajo que está a punto de explicar es el de un gerente."
+      "content": "Pregunta si el trabajo que está a punto de explicar es el del gerente."
     },
     {
       "id": 155,
@@ -768,12 +768,12 @@
     {
       "id": 158,
       "model": "파우스트",
-      "content": "Están preguntando por qué necesitan viajar al Infierno."
+      "content": "Pregunta por qué es necesario viajar al Infierno."
     },
     {
       "id": 159,
       "model": "베르길리우스",
-      "content": "Hmm... Qué tal esto: El tesoro espera al final del camino... ¿Eso sería suficiente?"
+      "content": "Hmm... Qué tal esto: Un tesoro espera al final del camino... ¿Con eso estás satisfecho?"
     },
     {
       "id": 160,
@@ -783,12 +783,12 @@
     {
       "id": 161,
       "model": "파우스트",
-      "content": "Parece que no pueden entenderte en absoluto."
+      "content": "No parece entenderlo en lo absoluto."
     },
     {
       "id": 162,
       "model": "베르길리우스",
-      "content": "No pedí tu comprensión, Dante. Tampoco era una cuestión de tu voluntad."
+      "content": "No pedí tu comprensión, Dante. Tampoco es una cuestión de si estás dispuesto."
     },
     {
       "id": 163,
@@ -803,7 +803,7 @@
     {
       "id": 165,
       "model": "파우스트",
-      "content": "Él se muestra hesitante. "
+      "content": "Titubea."
     },
     {
       "id": 166,
@@ -818,17 +818,17 @@
     {
       "id": 168,
       "model": "파우스트",
-      "content": "Dante, una vez que hayas completado todas tus misiones..."
+      "content": "Dante, una vez que haya completado todas tus misiones..."
     },
     {
       "id": 169,
       "model": "파우스트",
-      "content": "Serás capaz de grabar tu Aspecto."
+      "content": "Tendrás la posibilidad de tallar el Aspecto."
     },
     {
       "id": 170,
       "model": "파우스트",
-      "content": "Puedo prometerte eso."
+      "content": "Puedo prometerle eso."
     },
     {
       "id": 171,
@@ -836,12 +836,12 @@
     },
     {
       "id": 172,
-      "content": "Guiado por la intuición, tome mi decisión..."
+      "content": "Guiado por la intuición, tomé mi decisión..."
     },
     {
       "id": 173,
       "model": "파우스트",
-      "content": "¿Mira ahí? Están asintiendo."
+      "content": "¿Ve eso? Está asintiendo."
     },
     {
       "id": 174,
@@ -866,7 +866,7 @@
     {
       "id": 178,
       "model": "베르길리우스",
-      "content": "Te lo dije, Charon. Si pasa algo con el bus, tienes que avisarme de inmediato."
+      "content": "Ya te lo dije, Charon. Si pasa algo con el bus, tienes que avisarme de inmediato."
     },
     {
       "id": 179,
@@ -881,7 +881,7 @@
     {
       "id": 181,
       "model": "파우스트",
-      "content": "...Y una gran obra del corazon de Faust"
+      "content": "... Y la obra cumbre del corazón de Faust."
     },
     {
       "id": 182,
@@ -915,12 +915,12 @@
     {
       "id": 188,
       "model": "파우스트",
-      "content": "Teníamos poco tiempo, después de todo"
+      "content": "Después de todo, teníamos poco tiempo."
     },
     {
       "id": 189,
       "model": "파우스트",
-      "content": "Sin embargo, seremos masacrados con frecuencia si no se realizan mejoras en tu estrategia."
+      "content": "Sin embargo, seremos masacrados con frecuencia si no se realizan mejoras en su estrategia."
     },
     {
       "id": 190,
@@ -935,12 +935,12 @@
     {
       "id": 192,
       "model": "파우스트",
-      "content": "Sí, nos devolvieron la vida porque 'retrocediste el reloj'."
+      "content": "Sí, volvimos a la vida porque 'retrocedió el reloj'."
     },
     {
       "id": 193,
       "model": "베르길리우스",
-      "content": "No creo que sea necesario mucho, Srta. Faust."
+      "content": "No creo que tanto sea necesario, Srta. Faust."
     },
     {
       "id": 194,

@@ -116,105 +116,105 @@
     },
     {
       "id": 801201,
-      "prevDesc": "You defeated the enemy, but now it’s back up. What’s going on?"
+      "prevDesc": "Derrotaste al enemigo, pero ha vuelto a levantarse. ¿Qué está pasando?"
     },
     {
       "id": 801202,
-      "prevDesc": "Go for the Big One!"
+      "prevDesc": "¡Ve por el grande!"
     },
     {
       "id": 801501,
-      "prevDesc": "Strips of pink ribbons float this way."
+      "prevDesc": "Tiras de cintas rosadas flotan en esta dirección."
     },
     {
       "id": 801502,
       "title": "분홍신선택지2",
-      "eventDesc": "The knot of desires must be undone.",
-      "prevDesc": "“Snap out of it! Whatever it’s telling you, it’s all lies!”\n\nSomeone shouted.\n\nThanks to that warning, you realized that baubles of greed adorned the ribbons.\nYou have to untie the desire-laden knot.",
-      "behaveDesc": "Who can undo the knot?",
+      "eventDesc": "El nudo de deseos debe ser desatado.",
+      "prevDesc": "¡Despierta! Lo que sea que te esté contando, son todo mentiras!\n\nAlguien gritó.\n\nGracias a esa advertencia, te diste cuenta de que la codicia colgaba entre las cintas.\nTienes que desatar el nudo de deseos.",
+      "behaveDesc": "¿Quién puede desatar el nudo?",
       "successDesc": [
-        "“Aargh…”\n\n“My head is pounding.”\n\n“Nnh… Was just getting good.”\n\nThe ribbons binding the team scattered and melted away.\n\n“Freedom! Freeness!”\n\nAn unfamiliar voice reaches your ears, but for now, you should help the Sinners recover first."
+        "\"Mi cabeza duele como si estuviese a punto de estallar\"\n\n\"Eww... Estuvo bien\"\n\nLas cintas que envolvían al equipo se dispersaron y desaparecieron como si se hubiesen derretido.\n\n\"¡Libertad! ¡Libertad!\"\n\nUna voz desconocida llega a tus oídos, pero por ahora, deberías ayudar a los Pecadores a recuperarse primero."
       ],
       "failureDesc": [
-        "The pink ribbons ended up enshrouding everyone.\nYou can’t find the strength to resist, or even think.\n\nIt seems…\n\nYou’ll be forever unable to escape."
+        "Las cintas rosadas terminaron atando a todos.\nNo puedes encontrar la fuerza para resistirte, o incluso para pensar.\n\nParece...\n\nQue nunca podrás escapar."
       ]
     },
     {
       "id": 10100201,
-      "title": "Eternal Rest",
+      "title": "Descanso Eterno",
       "eventDesc": "Un soldado se hallaba aplastado bajo los escombros, jadeando en agonía.\n\n“Por favor, sólo mátame… Duele demasiado.”\n\nNo puedes simplemente ignorarlo.",
       "prevDesc": "",
-      "behaveDesc": "¿Quién se encargará de llevar a este soldado a la paz?",
+      "behaveDesc": "¿Quién podrá brindarle el descanso eterno a este soldado?",
       "successDesc": [
         "“Muchas… gracias…”\n\nLa vida del soldado recibió el golpde de gracia por su cuchillo.\nEl pulso humano que se elevaba a través de la hoja pronto cesó, y el soldado fue llevado al descanso eterno."
       ],
       "failureDesc": [
-        "“Gyaagh…!”\n\nEl cuchillo cortó el lugar equivocado.\nEl soldado tosiendo sangre con un rostro colmado de terror se sentía soportando una eternidad de dolor.\n\nLe llevó un tiempo a ese sufrido soldado finalmente irse.\nArrepentimiento y odio fueron las últimas cosas en reflejar sus ojos."
+        "\"¡Aaaah...!\"\n\nLa daga tomó la dirección equivocada al apuñalar al soldado.\nLa voz hirviendo de sangre del soldado y su expresión de horror se hicieron más largas.\n\nTras un tiempo, el soldado que sufría finalmente falleció.\nSólo quedó arrepentimiento y odio en sus ojos."
       ]
     },
     {
       "id": 10200201,
-      "title": "Exhilarating Edutainment Featuring Excess Violence!",
-      "eventDesc": "“Liking red color! Liking red color! Like it! Like it!”\n\nA group of cyborgs yelled along to a strange rhythm.\n\n“Red 4!!!”\n\nExulting the number high, they spun the roulette.\nThen they handed a roulette ball to one of the Sinners.",
+      "title": "¡Un Entrenido Juego Educativo con Violencia Desmesurada!!",
+      "eventDesc": "“¡Me gusta el rojo! ¡Me gusta el rojo! ¡Gusta! ¡Gusta!“\n\nUn grupo de Cyborgs rugió a un ritmo extraño.\n\n\"¡¡¡4 Rojo!!!\"\n\nTan pronto como se llamó el número, hicieron girar la ruleta de nuevo.\nLuego colocaron una bola de ruleta en la mano de uno de los Pecadores.",
       "prevDesc": "",
-      "behaveDesc": "It seems the ball has to enter a red pocket with a number higher than 4.\nWho should spin the ball?",
+      "behaveDesc": "Parece que la bola debe caer en una tronera roja con un número mayor a 4.\n¿Quién debería rodar la bola?",
       "successDesc": [
-        "“Losing! Defeat!! Urgh-ack!”\n\nThe “upgraded” croupier fell to the ground, buzzing and sparking.\nEven its final throes felt rhythmic."
+        "\"¡Perdí! ¡Perdí! ¡Ay!\"\n\nEl cyborg crupier cayó al suelo, zumbando y chispando.\nSe podía sentir el ritmo hasta en sus últimas palabras."
       ],
       "failureDesc": [
-        "“Get beaten! Get all thrashed, real pulped!”\n\nAs soon as the cyborg saw the ball roll into the wrong pocket, it swung its massive arm to smack the Sinner.\n\nWith the Sinner crumpled on the floor, the game had to come to a stop…"
+        "\"¡Así es! ¡Así es! ¡Así te quería ver!\"\n\nTan pronto como se confirmó que la canica había caído en otra parte, el cyborg que había estado haciendo girar la ruleta golpeó al Pecador con su enorme brazo.\n\nCon el Pecador desplomado en el suelo, el juego tuvo que parar..."
       ]
     },
     {
       "id": 10200202,
-      "title": "Exhilarating Edutainment Featuring Excess Violence!",
-      "eventDesc": "“No time now~ To stay all~ H. U. R. T!”\n\nThe chuckling cyborgs went back to the roulette.\n\n“Like yellow color! Like yellow color! Yellow! Yellow! Yellow!”\n\n“Yellow 6!!!”",
+      "title": "¡Un Entrenido Juego Educativo con Violencia Desmesurada!",
+      "eventDesc": "\"No hay tiempo~ Para~ ¡H.E.R.I.R!\"\n\nEl grupo de cyborgs se rió y volvieron a jugar a la ruleta.\n\n\"¡Me gusta el amarillo! ¡Me gusta el amarillo! ¡Amarillo! ¡Amarillo! ¡Amarillo!\"\n\n\"¡¡¡6 Amarillo!!!\"",
       "prevDesc": "",
-      "behaveDesc": "This time, the ball has to enter a yellow pocket with a number higher than 6.\nWho should spin the ball?",
+      "behaveDesc": "Esta vez, la bola debe entrar en una tronera amarilla con un número mayor que 6.\n¿Quién debería rodar la bola?",
       "successDesc": [
-        "“All lost! Foil again!! Ya-aaa-argh!”\n\nThe “upgraded” croupier fell to the ground, buzzing and sparking."
+        "\"¡Perdí! ¡¡Perdí otra vez!! ¡Ay!\"\n\nEl cyborg crupier cayó al suelo, zumbando y chispando."
       ],
       "failureDesc": [
-        "“Here comes the fist to you~! Ready? Bready-tready-steady!”\n\nThe cyborg swung its massive arm to smack the Sinner.\n\nWith the Sinner crumpled on the floor, the game had to come to a stop…"
+        "\"¡Aquí viene el avión~! ¡Dí Aaaa!\"\n\nEl cyborg golpeó al Pecador con su enorme brazo.\n\nCon el Pecador desplomado en el suelo, el juego tuvo que parar..."
       ]
     },
     {
       "id": 10200203,
-      "title": "Exhilarating Edutainment Featuring Excess Violence!",
-      "eventDesc": "“Can’t say no to fun! Not. One. Little tiny bit!”\n\nThe singing group of cyborgs spins the wheel.\n\n“Liking blue color! Liking blue color! Bluey! Bluey! Bluey!”\n\n“Blue 8!!!”",
+      "title": "¡Un Entrenido Juego Educativo con Violencia Desmesurada!",
+      "eventDesc": "\"¡No puedes resistirte a la diversión! ¡Ni. Un. Poquito!\"\n\nUn grupo de cyborgs cantantes hace girar la ruleta.\n\n\"¡Me gusta el azul! ¡Me gusta el azul! ¡Azul! ¡Azul! ¡Azul!\"\n\n\"¡¡¡8 Azul!!!\"",
       "prevDesc": "",
-      "behaveDesc": "This time, the ball has to enter a blue pocket with a number higher than 8.\nWho should spin the ball?",
+      "behaveDesc": "Esta vez, la bola debe entrar en una tronera azul con un número mayor que 8.\n¿Quién debería rodar la bola?",
       "successDesc": [
-        "“Everything! Gone up bust!! Dammit!”\n\nThe “upgraded” croupier fell to the ground, buzzing and sparking.\n\nAll the other cyborgs broke down with it at the same time.\nHave we won…?\n\nYou noticed something glowing in their pile of tin rubble.\nYou carefully picked it up."
+        "\"¡Perdimos todo! ¡¡Los cyborgs lo pierden todo!! ¡Mierda!\"\n\nEl cyborg crupier cayó al suelo, zumbando y chispando.\n\nTodos los cyborgs del grupo empezaron a fallar al mismo tiempo.\n¿Hemos ganado...?\n\nTe das cuenta que algo brillaba entre los escombros.\nLo recoges con cuidado."
       ],
       "failureDesc": [
-        "BAP!\n\nThe cyborg swung its massive arm to smack the Sinner.\n\n“GAME OVER! Consolation prize time!”\nThe group of cyborgs tossed something at us, then walked away."
+        "¡PUM!\n\nEl cyborg que hacía girar la ruleta golpeó al Pecador con su enorme brazo.\n\n\"¡Terminó el juego! ¡Hora del premio de consuelo!\"\nEl grupo de cyborgs arrojó algo y luego se fueron."
       ]
     },
     {
       "id": 1030201,
-      "title": "Before a Sealed Door",
-      "eventDesc": "The steel is thick, but it might not be impossible for a Sinner to move it ajar.\nWho would be the right person to do that?",
+      "title": "Ante una Puerta Cerrada",
+      "eventDesc": "El acero es grueso, pero puede que no sea imposible que un Pecador lo mueva con su fuerza.\n¿Quién será el más adecuado para este trabajo?",
       "prevDesc": "",
-      "behaveDesc": "Who could open this door?",
+      "behaveDesc": "¿Quién podrá abrir la puerta?",
       "successDesc": [
-        "{0} pushed at the door with all their might.\n\n“Hnngh…”\n\nThe door shook little by little but refused to give way.\n\n“All right, you’ve done enough…”\n\nI tried to get the Sinner to stop, but {0} kept on pushing, fully focused on the door.\n\nAfter some time…\n\n“There!”\n\nThe door was opened.\nA path was hidden behind it."
+        "{0} empujó la puerta con toda su fuerza.\n\n\"Uuugh...\"\n\nLa puerta se estremece levemente, pero se niega a abrirse.\n\n\"Suficiente, ya has hecho bastante...\"\n\nIntenté decirle al Pecador que parara, pero {0} siguió empujando, como si no tuviera interés en nada más.\n\nTras un tiempo...\n\n\"¡Listo!\"\n\nLa puerta se abrió.\nHabía un camino oculto detrás de esta."
       ],
       "failureDesc": [
-        "{0} pushed at the door with all their might.\n\n“…It won’t work.”\n\nThe door didn’t so much as budge.\n\nAs much as you wanted to know what was behind that door…\nThere was no choice but to leave the room for now."
+        "{0} empujó la puerta con toda su fuerza.\n\n\"...No va a funcionar.\"\n\nLa puerta ni se inmutó.\n\nPor más curiosidad que hayas tenido por saber qué había detras...\nNo tuviste más remedio que salir de la habitación arrepentido."
       ]
     },
     {
       "id": 1030202,
-      "title": "Before a Sealed Door",
-      "eventDesc": "There’s got to be some way through other than brute force.\nPerhaps a thorough look around could reveal something.",
+      "title": "Ante una Puerta Cerrada",
+      "eventDesc": "Debe haber otra manera que no sea simplemente usar fuerza bruta.\nQuizá si investigas de cerca tu entorno puedas encontrar algo.",
       "prevDesc": "",
-      "behaveDesc": "An attentive Sinner would be good at this…",
+      "behaveDesc": "Creo que sería una buena idea preguntarle a un Pecador escrupuloso...",
       "successDesc": [
-        "{0} looked around the door.\n\n“……”\n\nAfter tinkering with something on the wall,\n{0} let out a triumphant grunt.\n\n“Huh?!”\n\nThe door was open.\n\nApparently, there was a protruding brick next to the door.\n{0} explained that sliding it back into place got the door to open, then proceeded through.\n\nThere was a hidden path behind the door."
+        "{0} examinó el área alrededor de la puerta.\n\n\"......\"\n\nParecía como si estuviera tocando algo en la pared.\n{0} hizo un sonido de aliento por un momento.\n\n\"¡¿Qué?!\"\n\nLa puerta se abrió.\n\nAl parecer había un ladrillo sobresaliente en la pared.\n{0} explicó que moverlo a su lugar original hizo que la puerta se abriera, tras esto la atravesó.\n\nHabía un camino oculto detrás de esta."
       ],
       "failureDesc": [
-        "{0} looked around the door.\n\nBut, they were unable to find anything even after having a good crack at it.\n\n“Oh well…”\n\nWe had no choice but to leave the room behind."
+        "{0} examinó el área alrededor de la puerta.\n\nPero fue incapaz de encontrar algo de importancia incluso tras examinar un buen rato.\n\n\"Oh bueno...\"\n\nNo tuvimos más opción que salir de la habitación."
       ]
     },
     {
@@ -281,7 +281,8 @@
         "{0} ran across the heated road on bare feet.\nThe others frowned at the rancid stench of burning flesh.\n\nGroaning with agony, {0} made it to the other side…\n\nAn altar with a red seal and a lever rose before them.\nWhen {0} pulled the lever, the road quickly cooled.\nThe rest of us were able to tread the path safely."
       ],
       "failureDesc": [
-        "{0} ran across the heated road on bare feet.\nThe others frowned at the rancid stench of burning flesh.\n\n{0} almost made that painful advance midway…\n\nBut they couldn’t bear it any longer and hurried back.\nIt looks like we’re not taking this route.\nWe’ll have to follow the other path and deal with the many Inquisitors there."
+        "{0} ran across the heated road on bare feet.\nThe others frowned at the rancid stench of burning flesh.\n\n{0} almost made that painful advance midway…\n\nBut they couldn’t bear it any longer and hurried back.\nIt looks like we’re not taking this route.\nWe’ll have to follow the other path and deal with the many Inquisitors there.",
+        "Don Quixote declares:\n\n'I shan't walk bare of feet!'"
       ]
     },
     {

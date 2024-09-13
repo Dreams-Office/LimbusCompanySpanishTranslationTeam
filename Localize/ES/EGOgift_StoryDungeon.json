@@ -13,7 +13,7 @@
     },
     {
       "id": 1002,
-      "name": "Apósito de Mala Calidad",
+      "name": "Apósito Desgastado",
       "desc": "Todos los aliados ganan +10% de HP máx.",
       "simpleDesc": [
         {
@@ -24,8 +24,8 @@
     },
     {
       "id": 1003,
-      "name": "Fragmento Enconado",
-      "desc": "Al inicio del turno, aliados con 5'% o menos salud se curan 5 de HP.",
+      "name": "Fragmento Infectado",
+      "desc": "Al inicio del turno, aliados con 50% o menos salud se curan 5 de HP.",
       "simpleDesc": [
         {
           "abilityID": 1003,
@@ -36,7 +36,7 @@
     {
       "id": 1004,
       "name": "Máscara del Devoto Sangriento",
-      "desc": "Todos los aliados ganan +5 Nivel Ofensivo y +5 Nivel Defensivo.",
+      "desc": "Todos los aliados ganan Nivel Ofensivo +5 y Nivel Defensivo +5.",
       "simpleDesc": [
         {
           "abilityID": 1004,
@@ -58,7 +58,7 @@
     {
       "id": 1006,
       "name": "Grabado del Juicio Final",
-      "desc": "En el primer turno de un combate, Inflige 1 de Quemadura en todos los enemigos 5 veces.",
+      "desc": "En el primer turno de la batalla, inflige 1 Quemadura en todos los enemigos 5 veces.",
       "simpleDesc": [
         {
           "abilityID": 1006,
@@ -68,68 +68,68 @@
     },
     {
       "id": 1011,
-      "name": "Toy Fist",
-      "desc": "All allies deal +10% damage.",
+      "name": "Puño de Juguete",
+      "desc": "Todos los aliados infligen +10% de daño.",
       "simpleDesc": [
         {
           "abilityID": 1011,
-          "simpleDesc": "Damage +10%"
+          "simpleDesc": "Daño +10%"
         }
       ]
     },
     {
       "id": 1012,
-      "name": "Toy Foot",
-      "desc": "All allies gain +1 Speed.",
+      "name": "Pie de Juguete",
+      "desc": "Todos los aliados ganan Velocidad +1.",
       "simpleDesc": [
         {
           "abilityID": 1012,
-          "simpleDesc": "SPD +1"
+          "simpleDesc": "VEL +1"
         }
       ]
     },
     {
       "id": 1013,
-      "name": "Toy Screw",
-      "desc": "All allies gain +10% Max HP.",
+      "name": "Tornillo de Juguete",
+      "desc": "Todos los aliados ganan +10% HP Máx.",
       "abnormalityName": "Cyborg",
       "simpleDesc": [
         {
           "abilityID": 1013,
-          "simpleDesc": "Max HP +10%"
+          "simpleDesc": "HP Máx +10%"
         }
       ]
     },
     {
       "id": 1014,
-      "name": "Rainbow Mainspring",
-      "desc": "At the start of the turn, apply 2 Protection to the ally with the least HP.",
+      "name": "Cuerda Arcoíris",
+      "desc": "Al inicio del turno, aplica 2 Protección al aliado con menos HP.",
       "simpleDesc": [
         {
           "abilityID": 1014,
-          "simpleDesc": "Gana 2 Protection"
+          "simpleDesc": "Gana 2 Protección"
         }
       ]
     },
     {
       "id": 1015,
-      "name": "Rusty Mainspring",
-      "desc": "At the start of the turn, apply 1 Protection to the ally with the least HP.",
+      "name": "Cuerda Oxidada",
+      "desc": "Al inicio del turno, aplica 1 Protección al aliado con menos HP.",
       "simpleDesc": [
         {
           "abilityID": 1015,
-          "simpleDesc": "Gana 1 Protection"
+          "simpleDesc": "Gana 1 Protección"
         }
       ]
     },
     {
       "id": 1016,
-      "name": "Emergency Surgical Kit",
-      "desc": "During battle, if an ally takes lethal damage, their HP won’t go below 1.\nOn the next turn, fully heal their HP and gana 3 Cirugía.\nThey will die at the end of the battle.\n(Activates once per dungeon, then the Gift expires.)",
+      "name": "Kit Quirurgico de Emergencia",
+      "desc": "Durante la batalla, si un aliado recibe daño letal, su HP no caerá por debajo de 1.\nAl siguiente turno, cura su HP por completo y gana 3 Cirugía.\nMorirán al final de la batalla.\n(Se activa una sola vez por mazmorra, tras esto el Regalo expira.))",
       "simpleDesc": [
         {
           "abilityID": 1016,
-          "simpleDesc": "Fully heal HP"
+          "simpleDesc": "Cura su HP por completo"
         },
         {
           "abilityID": 10161,
@@ -139,60 +139,60 @@
     },
     {
       "id": 1018,
-      "name": "Writhing Ribbon",
-      "desc": "After winning a Clash using a Lust skill, Inflige 1 Bind and 1 Fragile next turn.",
+      "name": "Cinta Serpenteante",
+      "desc": "Tras ganar un choque usando una habilidad de Lujuria, inflige 1 Atadura y 1 Frágil el próximo turno.",
       "simpleDesc": [
         {
           "abilityID": 1018,
-          "simpleDesc": "Inflige 1 Bind"
+          "simpleDesc": "Inflge 1 Atadura"
         },
         {
           "abilityID": 10181,
-          "simpleDesc": "Inflige 1 Fragile"
+          "simpleDesc": "Inflige 1 Frágil"
         }
       ]
     },
     {
       "id": 1021,
-      "name": "A Sign",
-      "desc": "Sinclair’s determination to stand up to Kromer. After three strokes have been drawn…",
+      "name": "A Una Marca",
+      "desc": "La determinación de Sinclair de enfrentarse a Kromer. Si se dibujan tres trazos...",
       "simpleDesc": [
         {
           "abilityID": 1021,
-          "simpleDesc": "Sinclair’s Will"
+          "simpleDesc": "La Voluntad de Sinclair"
         }
       ]
     },
     {
       "id": 1022,
-      "name": "A Sign",
-      "desc": "Sinclair’s determination to stand up to Kromer. After three strokes have been drawn…",
+      "name": "A Una Marca",
+      "desc": "La determinación de Sinclair de enfrentarse a Kromer. Si se dibujan tres trazos...",
       "simpleDesc": [
         {
           "abilityID": 1022,
-          "simpleDesc": "Sinclair’s Will"
+          "simpleDesc": "La Voluntad de Sinclair"
         }
       ]
     },
     {
       "id": 1023,
-      "name": "A Sign",
-      "desc": "Sinclair’s determination to stand up to Kromer. After three strokes have been drawn…",
+      "name": "A Una Marca",
+      "desc": "La determinación de Sinclair de enfrentarse a Kromer. Si se dibujan tres trazos...",
       "simpleDesc": [
         {
           "abilityID": 1023,
-          "simpleDesc": "Sinclair’s Will"
+          "simpleDesc": "La Voluntad de Sinclair"
         }
       ]
     },
     {
       "id": 1024,
-      "name": "A Sign",
-      "desc": "Sinclair’s determination to stand up to Kromer. After three strokes have been drawn…",
+      "name": "A Una Marca",
+      "desc": "La determinación de Sinclair de enfrentarse a Kromer. Si se dibujan tres trazos...",
       "simpleDesc": [
         {
           "abilityID": 1024,
-          "simpleDesc": "Sinclair’s Will"
+          "simpleDesc": "La Voluntad de Sinclair"
         }
       ]
     },
