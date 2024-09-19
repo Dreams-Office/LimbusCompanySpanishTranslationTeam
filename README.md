@@ -26,6 +26,6 @@ Traducción al Español de Limbus Company
 ### 6.- Abrir el juego.
 
 ## No entiendo que hacer
-   - Puedes pedir [ayuda](https://www.youtube.com/watch?v=X8gBTQd6lko) a alguien dentro del Servidor en el canal correspondiente
+   - Puedes pedir [ayuda](https://www.youtube.com/watch?v=X8gBTQd6lko) a alguien dentro del Servidor en el canal correspondiente o ver este [Tutorial](https://youtu.be/QwopDSYeuMY)
 # Creditos
 ¡Agradecimientos especiales a <b>Knightey<b> por toda su ayuda con el Codigo y los sprites dentro del juego!
