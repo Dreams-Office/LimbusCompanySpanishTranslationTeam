@@ -5,13 +5,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Understanding",
-          "desc": "If the target has 10- SP, Clash Power +1\n[WhenUse] Gain 1 [VioletUnderstand]",
+          "name": "Entendimiento",
+          "desc": "Si el objetivo tiene 10- PC, Poder de Choque +1\n[WhenUse] Gana 1 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             }
@@ -24,20 +24,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Perception",
-          "desc": "If the target has 10- SP, Clash Power +1\n[WhenUse] Gain 2 [VioletUnderstand]",
+          "name": "Percepcion",
+          "desc": "Si el objetivo tiene 10- PC, Poder de Choque +1\n[WhenUse] Gana 2 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             }
@@ -50,20 +50,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Salvation",
-          "desc": "If the target has 10- SP, Clash Power +1\n[WhenUse] Gain 1 [VioletUnderstand]",
+          "name": "Salvación",
+          "desc": "Si el objetivo tiene 10- PC, Poder de Choque +1\n[WhenUse] Gana 1 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             }
@@ -76,8 +76,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What is Incomprehensible",
-          "desc": "[WhenUse] Gain 2 [VioletUnderstand]",
+          "name": "Que Es Incompbrensible",
+          "desc": "[WhenUse] Gana 2 [VioletUnderstand]",
           "coinlist": [
             {
               "coindescs": [
@@ -95,16 +95,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Decay",
-          "desc": "[CantDuel]\n[EndSkill] Dies",
+          "name": "Decaer",
+          "desc": "[CantDuel]\n[EndSkill] Se muere",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [VioletTakeDamageUp] el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 10~14 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige de 10 a 14 daño de PC"
                 }
               ]
             }
@@ -117,20 +117,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mercy",
-          "desc": "If the target has 20- SP, Clash Power +1",
+          "name": "Piedad",
+          "desc": "Si el objetivo tiene 20- PC, Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             }
@@ -143,20 +143,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Love",
-          "desc": "If the target has 20- SP, Clash Power +1",
+          "name": "Amor",
+          "desc": "Si el objetivo tiene 20- PC, Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             }
@@ -169,20 +169,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flickering Glyphs of Understanding",
+          "name": "Glifos Parpadeantes de Comprensión",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             }
@@ -195,20 +195,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flickering Glyphs of Understanding",
-          "desc": "If the target has 20- SP, Clash Power +1",
+          "name": "Glifos Parpadeantes de Comprensión",
+          "desc": "Si el objetivo tiene 20- PC, Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [VioletTakeDamageUp]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [VioletTakeDamageUp]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [MentalCrack]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [MentalCrack]"
                 }
               ]
             }
@@ -221,8 +221,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "What is Incomprehensible",
-          "desc": "[WhenUse] Gain 2 [Protection]",
+          "name": "Que es Incomprensible",
+          "desc": "[WhenUse] Gana 2 [Protection]",
           "coinlist": [
             {
               "coindescs": [
@@ -240,13 +240,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rushing Arms of Rest",
+          "name": "Brazos Precipitantes de Descanso",
           "desc": "[CantDuel]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 100 HP damage"
+                  "desc": "[OnSucceedAttack] Inflige 100 HP de daño"
                 }
               ]
             }

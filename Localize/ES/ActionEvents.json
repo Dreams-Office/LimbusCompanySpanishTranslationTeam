@@ -96,82 +96,82 @@
     },
     {
       "id": 102001,
-      "name": "Suspiciously Sparkly Vending Machine",
+      "name": "Máquina Expendedora Sospechosamente Brillante.",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "In the middle of the factory, you find a vending machine with large buttons.\n\nThey’re colorful and fancy…\nYou feel a strong compulsion to press them.\n\nWhich one will you press?",
+      "desc": "En medio de la fábrica, te encuentras una máquina expendedora con grandes botones.\n\nSon coloridos y elegantes...\nSientes un fuerte impulso que te lleva a presionarlos.\n\n¿Cuál es el que vas a presionar?",
       "options": [
         {
-          "message": "Press the red button with a fist icon.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Presionar el botón rojo con un icono de puño.",
+          "messageDesc": "Gana un Regalo E.G.O.",
           "result": [
-            "“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy fist."
+            "“¡Felicidades! ¡Felicidades!”\n\nAlgo cayó por la rendija de la máquina.\n\nParece ser el puño de un muñeco."
           ]
         },
         {
-          "message": "Press the yellow button with a foot icon.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Presiona el botón amarillo con un icono de pie.",
+          "messageDesc": "Gana un Regalo E.G.O.",
           "result": [
-            "“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy foot."
+            "“¡Felicidades! ¡Felicidades!”\n\nAlgo cayó por la rendija de la máquina.\n\nParece ser el pie de un muñeco."
           ]
         },
         {
-          "message": "Press the green button with a heart icon.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Presiona el botón verde con un icono de corazón.",
+          "messageDesc": "Gana un Regalo E.G.O.",
           "result": [
-            "“Congrats! Congrats!”\n\nSomething rumbled down the chute.\n\nIt appears to be a toy screw."
+            "“¡Felicidades! ¡Felicidades!”\n\nAlgo cayó por la rendija de la máquina.\n\nParece ser el el tornillo de un juguete."
           ]
         },
         {
-          "message": "Press all the buttons at once.",
-          "messageDesc": "Gana 3 E.G.O Gifts. But…",
+          "message": "Presiona todos los botones al mismo tiempo.",
+          "messageDesc": "Gana 3 E.G.O Gifts. Pero...",
           "result": [
-            "“Error! Error!”\n\nThe vending machine began to rattle.\n\n“H-Hey, what’s wrong with this thing?”\n\n“Sigh, you should’ve known better than to get gre-”\n\nBefore the Sinner could finish, the machine exploded, spewing a slew of toy parts into the air."
+            "“¡Error! ¡Error!”\n\nLa máquina expendedora comenzó a traquetear.\n\n“¡A-Ah!, ¿Qué le pasa a esta cosa?”\n\n\"Hahh... Deberías saber muy bien que la avaric—\"\n\nAntes de que el Pecador pudiera terminar, la máquina explotó, desparramando partes de juguetes por todos lados."
           ]
         },
         {
-          "message": "Don’t press anything.",
+          "message": "No presionar nada.",
           "result": [
-            "You should resist odd impulses like this.\nMeddling with the unknown is surely a bad idea.\n\nYou left the vending machine without touching a thing."
+            "Así es como deberías resistir esos extraños impulsos\nJugar con lo desconocido no puede traer nada bueno.\n\nDejaste la máquina expendedora sin tocar nada."
           ]
         }
       ]
     },
     {
       "id": 102002,
-      "name": "Exhilarating Edutainment Featuring Excess Violence!",
+      "name": "¡Un Entrenido Juego Educativo con Violencia Desmesurada!",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Exiting the passage, you see a group of cyborgs gathered around a huge roulette.\n\n“Oh. Highly. Excited. Thoroughly. Amusing.”\n“Da GAME of DE-ATH!”\n\nThey approach you, chanting in strange beats.\nIt looks like they want you to play a game of roulette. What should you do?",
+      "desc": "Saliendo del pasillo, observas a un grupo de cyborgs reunidos alrededor de una ruleta gigante\n\n“Oh. Altamente. Emocionado. Completamente. Divertido.“\n“¡Le JUEGO de MUER-TE!\n\nSe aproximan a ti, coreando a ritmos extraños\nParece como si quisieran que jugaras a la ruleta. ¿Qué deberías hacer?",
       "options": [
         {
-          "message": "Take on the challenge.",
-          "messageDesc": "Rodion gains SP. Run Wrath, Sloth, and Gloom checks. Pass to heal all allies’ SP and gain an E.G.O Gift.",
+          "message": "Tomar el desafío.",
+          "messageDesc": "Rodion gana PC. Comienza un juicio de Ira, Pereza y Gloom. Pásalo para curar el PC de todos los aliados y ganar un Regalo .E.G.O",
           "result": [
-            "“You know this is where I shine!”\n\nRodya proudly proclaimed as she stepped forward.\nYou can see a mixture of anticipation and excitement on her face."
+            "“¡Sabes que aquí es donde me luzco~!“\n\nRodya lo proclamó orgullosamente mientras avanzaba adelante.\nPuedes ver una combinación de antelación y entusiasmo en su rostro"
           ]
         },
         {
-          "message": "Forget games! Crush them in battle.",
-          "messageDesc": "Rodion loses SP. Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "message": "¡Olvida los juegos! Aplástalos en combate.",
+          "messageDesc": "Rodion pierde PC. Empieza un encuentro. Vence para Ganar un Regalo E.G.O",
           "result": [
-            "This is not the time for gaming of all things.\nLet’s just deal with those crazed cyborgs and move on.\n\n“…Psh.”\n\nRodya smacked her lips in dissatisfaction, but you know you can’t always afford to give every Sinner what they want."
+            "De todos, este no es el momento para jugar\nLidiemos con esta chatarra y sigamos\n\n“...Tch“\n\nRodya chasquea la lengua en descontento, por dentro sabes que no siempre puedes darle a cada Pecador lo que quieren."
           ]
         }
       ]
     },
     {
       "id": 102003,
-      "name": "Are You Happy?",
+      "name": "¿Estás Feliz?",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "A thick glass door stood strongly in the pink frame.\nThe electronic display above suddenly flashed to life, offering a question.\n\n“Are you happy?”\n\nWhat will be your answer?",
+      "desc": "Delante de un marco rosa yace una puerta de cristal macizo.\nLa pantalla sobre él parpadea vívidamente. haciendo una pegunta.\n\n¿Estás Feliz?\n\n¿Cuál será tu respuesta?",
       "options": [
         {
-          "message": "I sure am.",
+          "message": "Seguro que lo estoy",
           "result": [
-            "“How wonderful!”\n\nThe display emitted a green flash, and the door opened for us.\nLooks like we can proceed."
+            "“¡Que maravilloso!“\nLa pantalla emite una luz verde, y la puerta se abre ante nosotros.\nParece que podemos continuar"
           ]
         },
         {
-          "message": "I’m not.",
+          "message": "No lo estoy.",
           "result": [
             ""
           ]
@@ -180,63 +180,62 @@
     },
     {
       "id": 10200301,
-      "name": "Are You Happy? 2",
+      "name": "¿Estás Feliz? 2",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "“There’s a pair of pink shoes that can bring you to happiness.”\n\nThe display glowed red.\n\n“Would you like to try them on?”",
+      "desc": "”Hay un par de zapatos rosas que pueden llevarte a la felicidad.”\n\nLa pantalla se iluminó en rojo\n\n”¿Te gustaría probártelos?”",
       "options": [
         {
-          "message": "Try the shoes on.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "message": "Probarse los zapatos.",
+          "messageDesc": "Gana un Regalo E.G.O.",
           "result": [
-            "The glass door opened, revealing said pair of pink shoes.\n\nWhen you put them on, you could feel strands of ribbons wrap around your legs.\nThey’re tightening around your body, but it’s not an unpleasant feeling.\n\nYou feel as though you can now go… anywhere."
+            "La vitrina se abrió, revelando dichos zapatos rojos.\n\nCuando te los colocaste, pudiste sentir tiras de cinta envolviéndose alrededor de tus piernas.\nSe aprietan fuertemente alrededor de tu cuerpo, pero no es un sentimiento desagradable.\n\nSientes que ahora puedes ir... a donde quieras."
           ]
         },
         {
-          "message": "Don’t wear the shoes.",
-          "messageDesc": "Begin a combat encounter.",
+          "message": "No ponerse los zapatos.",
+          "messageDesc": "Empieza un encuentro.",
           "result": [
-            "“Don’t shy away from the majesty of the pink shoes!”\n\nThe light over the shoes shut off as you backed away.\n\n“They will take you wherever you want to go!”\n\nThe display began to flicker frantically,\nand a group of people wrapped in pink ribbons shambled through the door."
+            "“¡No huyas de la majestuosidad de los zapatos rosas!“\n\nLa luz sobre los zapatos rojos se apagó mientras retrocedías.\n\n“¡Te llevarán a donde desees ir!“\n\nLa pantalla empezó a parpadear frenéticamente.\ny un grupo de personas envueltas en cintas rosas aparecieron tambaleando tras la puerta."
           ]
         }
       ]
     },
     {
       "id": 10301,
-      "name": "An Old Room with a Clockwork Mechanism",
+      "name": "Una vieja habitación con un mecanismo de relojería.",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "There’s a machine in this dilapidated room.\nA long, bulky lever is at the center of the machine adorned with springs.\n\nThe urge… to pull it… is growing… stronger… and stronger.\n\nWhat will you do?",
+      "desc": "Hay una máquina en esta habitación deteriorada.\nUna gran y pesada palanca habita al centro de la máquina, adornada con cuerdas.\n\nEl deseo... de tirar la palanca... se hace... más... y más fuerte.\n\n ¿Qué vas a hacer?",
       "options": [
         {
-          "message": "Use the machine.",
-          "messageDesc": "50% chance for a positive effect; 50% chance for a negative effect"
+          "message": "Usar la máquina.",
+          "messageDesc": "50% de probabilidad para un efecto positivo; 50% de probabilidad para un efecto negativo"
         },
         {
-          "message": "Leave the room.",
+          "message": "Salir de la habitación.",
           "result": [
-            "You’re not a child anymore. You can resist simple impulses like this.\nIt’s never a good idea to fall for temptation without a second thought.\n\n“Yeah, good thinking.”\n\nYou and the Sinners left the room."
+            "Ya no eres un niño. Puedes resistir simples impulsos como estos.\nNunca fue buena idea caer en la tentación sin pensarlo dos veces.\n\n”Seh, Bien pensado.”\n\nTu y los Pecadores dejaron la habitación."
           ]
         }
       ]
     },
     {
       "id": 1030101,
-      "name": "An Old Room with a Clockwork Mechanism",
+      "name": "Una vieja habitación con un mecanismo de relojería",
       "subDesc": "subDesc가 뭘까?",
-      "desc": "Putting a spontaneous thought into action is as impulsive and uninhibited as a child reaching for off-limits marshmallows.\n\nWhen you pull down the lever, a clack follows soon after.\nThe springs begin to turn, some slow, some quick.\nSome clockwise, others counter-clockwise.\n\nWatching the machine’s rumble grow wilder, you feel anxious.",
+      "desc": "Pasar de los pensamientos a la acción es tan impulsivo y dulce como un niño ante un malvavisco.\n\nAl bajar la palanca, se puede escuchar un <crack> poco después.\n Las cuerdas empiezan a girar, algunas lento, otras rápido.\nUnas en sentido horario, otras en sentido antihorario.\n\nVer el retumbar de la máquina hacerse cada vez más salvaje te hace sentir ansioso.",
       "options": [
         {
-          "message": "Pull the lever.",
-          "messageDesc": "50% chance to gain an E.G.O Gift. Failure results in HP and SP damage.",
+          "message": "Tirar de la palanca.",
+          "messageDesc": "50% de probabilidad para ganar un Regalo E.G.O. Fallar resultara en pérdida de HP y PC.",
           "result": [
-            "The machine stopped at last.\n\n“Huh… Would you look at that!”\n\nA small wooden chest rose from the floor.\nYou carefully open it to find a bundle of torches.\n\nIt’s not much, but they should give you momentary relief in the dark.\nYou take the torches out of the room.",
-            "The machine stopped at last.\n\n“W-What’s happening?!”\n\nIn the machine’s stead, the room now began to tremble and crack.\nA moment later, the ceiling split open, giving way for thousands of nails diving downward.\n\n“Outside, now!”\n\n“Dammit, I told you it was a bad idea to mess with it!”\n\nYou and the Sinners quickly evacuated the room, but not without harm."
+            "La máquina se detuvo finalmente.\n\n“Eh... ¿Pero mira nada más!“\n\nUn pequeño cofre de madera salió del suelo.\nLo abres cuidadosamente, encontrando un mónton de antorchas.\n\nNo es mucho, pero deberían darte un alivio momentáneo en la oscuridad.\n\nTe llevas las antorchas.\nLa máquina se detuvo finalmente.\n\n¡¿Q-Qué está pasando?!\n\nLa habitación empezó a temblar y agrietarse por donde estaba la máquina.\nA continuación, el techo se partió en dos, dando entrada a miles de clavos descendentes.\n\n“¡Afuera, ahora!“\n\n“¡Maldita sea, les dije que era mala idea jugar con esa cosa!“\n\nTu y los Pecadores evacúan la habitación rápidamente sanos y salvos."
           ]
         }
       ]
     },
     {
       "id": 10302,
-      "name": "Before a Sealed Door",
+      "name": "Ante una Puerta Cerrada",
       "subDesc": "subDesc가 뭘까?",
       "desc": "A steel door rests on one side of the room.\nIt looks too thick to be easily broken or breached with force.\n\n“There’s gotta be something totally valuable through here if it’s guarded this tight~!”\n\nThe Sinner might be right, treasure might be waiting behind the door.\nWhat should you do?",
       "options": [
@@ -287,14 +286,14 @@
       "options": [
         {
           "message": "Open the first crate.",
-          "messageDesc": "Gain an E.G.O Gift that boosts defense.",
+          "messageDesc": "Gana un Regalo E.G.O. that boosts defense.",
           "result": [
             "“This is…”\n\nThe crate contained a worn helm.\n\n“Oho?! ‘Tis the proper equipment of a knight, is it not?!”\n\nOne Sinner excitedly rubs the helm clean.\nNot a bad haul, all things considered.\nWe carried the helm (and our Sinner infatuated by it) and left the room."
           ]
         },
         {
           "message": "Open the second crate.",
-          "messageDesc": "50% chance to gain an E.G.O Gift that boosts Tremor attacks.",
+          "messageDesc": "50% chance to Gana un Regalo E.G.O. that boosts Tremor attacks.",
           "result": [
             "“This is…”\n\nThe crate contained an old mallet.\nThe cracks on its handle raised further questions about its usability.\n\n“This thing looks positively useless!”\n\nThe Sinners expressed disappointment over this seemingly regrettable choice.\nBut, you feel as if the mallet is talking to you,\ncompelling you to take it.\n\n“What, you’re gonna take that with you?”\n\nThough the Sinners saw it as junk,\nit seemed good to bring the mallet along.",
             "“…Empty?”\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n“I told you we shoulda gone with that one~”\n\n“No, in all likelihood it would have been empty too.”\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
@@ -302,7 +301,7 @@
         },
         {
           "message": "Open the third crate.",
-          "messageDesc": "50% chance to gain an E.G.O Gift that boosts Bleed attacks.",
+          "messageDesc": "50% chance to Gana un Regalo E.G.O. that boosts Bleed attacks.",
           "result": [
             "“This is…”\n\nThe crate contained a browned nail.\nNot a bundle of nails; just a slightly large one, covered in rust and dust.\n\n“The heck…”\n\nThe Sinners looked devastated by the fact that the key was wasted on this.\n\n“Can’t just throw away loot. If you aren’t gonna use it, then hand it over.”\n\nOne Sinner was showing interest in the item, so you gave it to them and went on your way.",
             "“…Empty?”\n\nThere was nothing inside the crate.\nAll that greeted us were tiny specks of dust and dirt stirred up by exposure to the outside air.\n\n“I told you we shoulda gone with that one~”\n\n“No, in all likelihood it would have been empty too.”\n\nYou walked out of the room, trying to ignore the Sinners’ complaints."
@@ -340,7 +339,7 @@
       "options": [
         {
           "message": "Examine the dead Inquisitor.",
-          "messageDesc": "Run a Gluttony check. Pass to gain an E.G.O Gift. Fail to lose HP and SP."
+          "messageDesc": "Run a Gluttony check. Pass to Gana un Regalo E.G.O.. Fail to lose HP and SP."
         },
         {
           "message": "Leave without touching it.",
@@ -358,7 +357,7 @@
       "options": [
         {
           "message": "Free the prosthetic.",
-          "messageDesc": "Sinclair heals SP. Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "messageDesc": "Sinclair heals SP. Begin a combat encounter. Win to Gana un Regalo E.G.O..",
           "result": [
             "“…I knew I could count on you.”\n\nSinclair jumped in as soon as you told him what to do.\nAs you expected, a number of prosthetic people were bound by ropes.\n\n“Get out of here, quickly!”\n\nAs soon as he untied them, they hurriedly ran out of the room.\n\n“Tch… The heretics!”\n\nWe were a little late to leave; the Inquisitors shouted as they entered the room.\nIt seems conflict is unavoidable.",
             "“…I knew I could count on you.”\n\nSinclair jumped in as soon as you told him what to do.\nAs you expected, a number of prosthetic people were bound by ropes.\n\n“Get out of here, quickly!”\n\nAs soon as he untied them, they hurriedly ran out of the room.\n\n“Bastards, not even a simple thank you.”\n\nSome of the Sinners complained,\nbut Sinclair looked satisfied with the deed.\n\nCalming them down, we left the room."
@@ -388,7 +387,7 @@
         },
         {
           "message": "Tread the heated path.",
-          "messageDesc": "Run a Wrath check. Pass to gain an E.G.O Gift. Failing begins a 3-wave combat encounter."
+          "messageDesc": "Run a Wrath check. Pass to Gana un Regalo E.G.O.. Failing begins a 3-wave combat encounter."
         },
         {
           "message": "Look for another way.",
@@ -408,7 +407,7 @@
       "options": [
         {
           "message": "Examine the book on the pedestal.",
-          "messageDesc": "Gain an E.G.O Gift",
+          "messageDesc": "Gana un Regalo E.G.O.",
           "result": [
             "Upon the pedestal was a tome N Corp. Inquisitors were often seen carrying.\nYou take this chance to peek at a few pages of it…\n\n“Ugh…”\n\nThe indecipherable content only gave you a headache.\nYou decide to hold onto it for now and read it later."
           ]
@@ -429,7 +428,7 @@
       "options": [
         {
           "message": "Perform the rite.",
-          "messageDesc": "Run a Gloom check. Selected Identity loses SP. Pass to gain an E.G.O Gift."
+          "messageDesc": "Run a Gloom check. Selected Identity loses SP. Pass to Gana un Regalo E.G.O.."
         },
         {
           "message": "Leave the room.",
@@ -447,21 +446,21 @@
       "options": [
         {
           "message": "Take the glowing skull.",
-          "messageDesc": "Gain an E.G.O Gift that provides healing at low health.",
+          "messageDesc": "Gana un Regalo E.G.O. that provides healing at low health.",
           "result": [
             "You took the glowing skull.\nIt radiates gently, and you feel a strange warmth from it.\n\nThe other containers won’t open. It seems that you can take only one.\nYou took your leave with the item you chose."
           ]
         },
         {
           "message": "Take the bleeding hand.",
-          "messageDesc": "Gain an E.G.O Gift that provides power-ups at low health.",
+          "messageDesc": "Gana un Regalo E.G.O. that provides power-ups at low health.",
           "result": [
             "The bloody fingers caught your attention.\nWhen you open the container to hold it, you notice that blood continues to drip from the section.\nYou pick it up by a perpetually flinching digit.\n\nThe other containers won’t open. It seems that you can take only one.\nYou took your leave with the item you chose."
           ]
         },
         {
           "message": "Take the wriggling tongue.",
-          "messageDesc": "Gain an E.G.O Gift that provides benefits after winning a Clash.",
+          "messageDesc": "Gana un Regalo E.G.O. that provides benefits after winning a Clash.",
           "result": [
             "The slithering tongue attracts your eyes.\nWhen you open the container and grab it, it flaps in your palm.\n\nYou feel as though the tongue is mocking you, so you try to pick another one, but…\n\nThe other containers won’t open. It seems that you can take only one.\nYou have to take your leave with the item you chose."
           ]
@@ -482,7 +481,7 @@
       "options": [
         {
           "message": "Perform the rite.",
-          "messageDesc": "Run a Wrath check. Selected Identity loses HP. Pass to gain an E.G.O Gift."
+          "messageDesc": "Run a Wrath check. Selected Identity loses HP. Pass to Gana un Regalo E.G.O.."
         },
         {
           "message": "Leave the room.",
@@ -793,21 +792,21 @@
       "options": [
         {
           "message": "Chicken’s chicken, duh.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "“That’s… true.”\n“An irrefutable point.”\nThey lowered their hands and settled down.\n“What a strange thing we were fighting over.”\n“They’re right… The one truth is that the chicken is always right.”\nAfter a passionate handshake, the two gave you their bucket of chicken.\n“A wise gourmet such as yourself deserves both pieces. Please, take this, we insist.”"
           ]
         },
         {
           "message": "Gotta be the drumsticks, all rich and juicy.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "“You see! The drumsticks are better!”\n“You don’t know what good taste is.”\nThe person holding a chicken breast let out a baffled sigh.\n“Ey! Here’s your reward. You deserve a drumstick of your own.”\nSatisfied, the one with a drumstick handed you another from the bucket.\n“I’m counting on you to keep that leg up!”\nUnsure of what you’re being trusted with, you left the table with the drumstick."
           ]
         },
         {
           "message": "The breast, of course, unsullied and spotless.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "“There ain’t no way! You’d give up this banquet of juiciness…?”\n“It’s fat, not just juice. The breast is healthy, light, comes in hefty servings, and is easy to eat-it’s obviously the reasonable choice.”\nThe person holding a piece of chicken breast pleasantly remarked.\n“Here, a reward for you. Take this breast.”\nA sizable piece was brought out of the bucket.\n“Best of luck with your gains. I hope you stay healthy.”\nUnsure of what you’re supposed to gain, you left the table with the chicken breast."
           ]
@@ -821,21 +820,21 @@
       "options": [
         {
           "message": "Alert it truthfully.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "“Heed me!!!!! Sauce is leaking from thy body!!!!!!”\n“Don’t shout it that loud, you dummy…”\nNotified of its leakage, the chicken quickly ran its wings over its back-or what appeared to be its back, rather.\nSadly, the knot had loosened on its stitching.\n“Kieegh, kiiierg…”\nDoes it mean it can’t do it on its own? Approaching with a trail of sauce dripping behind, it held some thread and a needle in its hands, er, wings.\nDoes it want you to stitch its back?"
           ]
         },
         {
           "message": "You saw nothing.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "“Should we not inform them?”\n“Yeah, but~ They look pretty happy right now, don’t they? Couldn’t hurt to sit and watch just a bit longer, right?”\n“What will become of it when it loses all its sauce?”\n“Maybe it’ll just become an underseasoned chicken.”\nIn time, the leakage ceased.\n“Kiehg!”\nPerhaps it noticed that it’s become lighter? It suddenly performed a highly technical move.\n“Astonishing.”\nThe chickens around it stopped their dances and watched its performance, mesmerized. Soon enough, they approached the performer, letting out screams that sounded like cheers.\nThey walked out of the light, tossing the special one up and down as a celebration.\nAll that remained… was the spilled sauce."
           ]
         },
         {
           "message": "Give a few subtle hints.",
-          "messageDesc": "50% chance to gain an E.G.O Gift.",
+          "messageDesc": "50% chance to Gana un Regalo E.G.O..",
           "result": [
             "“Mm-mmm~ Boy, I smell something tasty! I sure wonder where this smell’s coooming frooom~?!”\n“…I suppose it would be foolish of me to expect more believable acting.”\nThe Sinner’s voice caused the chickens to stop their passionate dance at once.\nExamining each other’s backs, they soon found the source of the leakage.\n“Kieh, kierg.”\n“Giiegh.”\nWithout panicking, they brought some thread and a needle to sew up its back-or what appears to be its back.\nThey were unsullied in their expertise.\nOnce the stitching was done, they scuttled into the dark.\nAll that remained was the thread and needle they used."
           ]
@@ -960,7 +959,7 @@
       "options": [
         {
           "message": "Make a wish.",
-          "messageDesc": "50% chance to gain an E.G.O Gift",
+          "messageDesc": "50% chance to Gana un Regalo E.G.O.",
           "result": [
             "\"Romantic.\"\nEveryone quietly made a wish with their eyes closed.\nCould it have evoked a response?\nWhen the eyes were open, a sparkling shard was on the ground. \n\"Hmm, I wonder who wished for this?\"\nThe Sinners commented, but it might not have been related to the wishes after all.\nWe took the shard and left the place.",
             "\"Romantic.\"\nEveryone quietly made a wish with their eyes closed.\n...However, nothing happened.\n\"Who was it! One of you must have opened your eyes in the middle of it!\"\nCoaxing one infuriated Sinner, we left the room."
@@ -1007,7 +1006,7 @@
         },
         {
           "message": "Don't run.",
-          "messageDesc": "Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "messageDesc": "Begin a combat encounter. Win to Gana un Regalo E.G.O..",
           "result": [
             "Running into a dead end could obviously end in one way.\n\"Kgh!\"\nThe Abnormality rammed the Sinners.\n\"You stubborn bull...\"\nWe have no choice. It has to be suppressed once more."
           ]
@@ -1027,7 +1026,7 @@
         },
         {
           "message": "Don't run.",
-          "messageDesc": "Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "messageDesc": "Begin a combat encounter. Win to Gana un Regalo E.G.O..",
           "result": [
             "There's no other way.\nWe might as well stop running and save ourselves a little energy for the inevitable fight...\n\"Kgh!\"\nThe Abnormality rammed the Sinners.\n\"You stubborn bull...\"\nWe have no choice. It has to be suppressed once more."
           ]
@@ -1041,14 +1040,14 @@
       "options": [
         {
           "message": "Run.",
-          "messageDesc": "Begin a combat encounter. Win to gain an E.G.O Gift.",
+          "messageDesc": "Begin a combat encounter. Win to Gana un Regalo E.G.O..",
           "result": [
             "We kept running through the passage.\nEven though we had no idea where it could lead to...\n\"What?\"\nHow long did we run?\nWe ended up in an arena fit for a battle with the Abnormality.\n\"You stubborn bull...\"\nWe have no choice. It has to be suppressed once more."
           ]
         },
         {
           "message": "Don't run.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "This is where the run ends.\nThat scary thing will charge at us, and knowing that makes it doubly scary.\nBut still, I somehow had the feeling that we'll be alright.\n\"Ah...\"\nThe Abnormality passed through us and disappeared into the unknown.\nWe found a blue fluid in its trail."
           ]
@@ -1120,21 +1119,21 @@
       "options": [
         {
           "message": "Pick the drawer on the second row, fifth column.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "You took the item out of the drawer on the second row, fifth column.\nIt's a mysterious green mass.\nWhen you look at it, it kind of resembles a mask.\nSoon, the area began to blur, and the cabinet disappeared."
           ]
         },
         {
           "message": "Pick the drawer on the fifth row, eighth column.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "You took the item out of the drawer on the fifth row, eighth column.\nIt's a mysterious blue mass.\nWhen you look at it, it kind of resembles a knife.\nSoon, the area began to blur, and the cabinet disappeared."
           ]
         },
         {
           "message": "Pick the drawer on the sixth row, first column.",
-          "messageDesc": "Gain an E.G.O Gift.",
+          "messageDesc": "Gana un Regalo E.G.O..",
           "result": [
             "You took the item out of the drawer on the sixth row, first column.\nIt's a mysterious yellow mass.\nWhen you look at it, it kind of resembles a flower.\nSoon, the area began to blur, and the cabinet disappeared."
           ]

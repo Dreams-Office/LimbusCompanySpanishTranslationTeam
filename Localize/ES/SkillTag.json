@@ -6,7 +6,7 @@
     },
     {
       "id": "WhenUse",
-      "name": "[En Uso]"
+      "name": "[Tras Usar]"
     },
     {
       "id": "WinDuel",
@@ -94,7 +94,7 @@
     },
     {
       "id": "OnSucceedEvade",
-      "name": "[Al evadir]"
+      "name": "[Tras Evadir]"
     },
     {
       "id": "AlwaysUse",
@@ -114,7 +114,7 @@
     },
     {
       "id": "ReUse",
-      "name": "[Al Reusar]"
+      "name": "[Tras Reusar]"
     },
     {
       "id": "ReUseOnSucceedAttackHead",
@@ -122,7 +122,7 @@
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[En Critico]"
+      "name": "[Tras Critico]"
     },
     {
       "id": "StartDuel",
@@ -146,15 +146,15 @@
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Cae en Cara Despues de Ganar Choque]"
+      "name": "[Cae en Cara Después de Choque Ganado]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Al Golpear Después de Ganar Choque]"
+      "name": "[Tras Golpear Después de Choque Ganado]"
     },
     {
       "id": "CriticalActivated",
-      "name": "[En Critico]"
+      "name": "[Tras Critico]"
     },
     {
       "id": "CriticalEndSkill",
@@ -174,19 +174,19 @@
     },
     {
       "id": "WhenUse_Force",
-      "name": "<color=#26cfff>[En Uso]</color>"
+      "name": "<color=#26cfff>[Tras Usar]</color>"
     },
     {
       "id": "StartBattle_Force",
-      "name": "<color=#93f13e>[Al Empezar Combate]</color>"
+      "name": "<color=#93f13e>[Inicio de Combate]</color>"
     },
     {
       "id": "TargetKill",
-      "name": "[Al Matar Objetivo]"
+      "name": "[Tras Matar Objetivo]"
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[Al Matar con Crítico]"
+      "name": "[Tras Matar con Crítico]"
     }
   ]
 }

@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -22,15 +22,15 @@
           "level": 3,
           "name": "9:2",
           "abName": "Profeta de la piel",
-          "desc": "[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1",
+          "desc": "[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq+1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Quemadura"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -40,15 +40,15 @@
           "level": 4,
           "name": "9:2",
           "abName": "Profeta de la piel",
-          "desc": "[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq+1\nCon 6+ (Reson.-A de Lujuria más alta), Alcance de Ranura +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 3 Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -68,7 +68,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttackTail] Inflige 4 Quemadura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
@@ -81,18 +81,18 @@
           "level": 3,
           "name": "9:2",
           "abName": "Profeta de la piel",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] Inflige 2 Atadura el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -102,7 +102,7 @@
           "level": 4,
           "name": "9:2",
           "abName": "Profeta de la piel",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Highest Lust A-Reson), Atk Weight +1\nAt 6+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq +1\nCon 6+ (Reson.-A de Lujuria más alta), Alcande de Atq+1 adicional",
           "coinlist": [
             {
               "coindescs": [
@@ -113,7 +113,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -128,39 +128,39 @@
           "level": 1,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-          "desc": "If the target's Speed is slower than this unit's, deal +(2.5 x (Speed difference))% more damage (max 25%)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "Si la Velocidad del objetivo es menor que la de esta unidad, inflige +(2.5 x (Dif. de Velocidad))% de daño (máx 25%)\n[BeforeAttack] Con 3+ de Reson. más alta, inflige Potencia de [Vibration] igual a la Reson. más alta (máx 5)\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] InflInflige 5 [Vibration] y +5 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno"
                 }
               ]
             }
@@ -170,39 +170,39 @@
           "level": 3,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-          "desc": "If the target's Speed is slower than this unit's, deal +(<style=\"highlight\">3.5</style> x (Speed difference))% more damage (max <style=\"highlight\">35%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 5)\n<style=\"highlight\">- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "Si la Velocidad del objetivo es menor que la de esta unidad, inflige +(<style=\"highlight\">3.5</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">35%</style>)\n[BeforeAttack] Con 3+ Reson. o más, inflige Potencia de [Vibration]  igual a la Reson. más alta (máx 5)\n<style=\"highlight\">- Si la Reson. más alta era una Reson.-A de Pereza, inflige Contador de [Vibration] igual a la Potencia de [Vibration] infligida (máx 5)</style>\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration] and +5 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 5 [Vibration] y +5 Contador de [Vibration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Más del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -212,42 +212,42 @@
           "level": 4,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-          "desc": "If the target's Speed is slower than this unit's, deal +(<style=\"highlight\">3.5</style> x (Speed difference))% more damage (max <style=\"highlight\">50%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by (<style=\"highlight\">2</style> x (highest Reson.)) (max <style=\"highlight\">10</style>)\n- If the highest Reson. was a Sloth A-Reson., inflict [Vibration] Count by [Vibration] Potency inflicted (max <style=\"highlight\">10</style>)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+        "desc": "Si la Velocidad del objetivo es menor que la de esta unidad, inflige +(<style=\"highlight\">3.5</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">50%</style>)\n[BeforeAttack] Con 3+ Reson. o más, inflige Potencia de [Vibration] igual a (<style=\"highlight\">2</style> x (Reson. más alta)) (máx <style=\"highlight\">10</style>)\n- Si la Reson. más alta era una Reson.-A de Pereza, inflige Contador de [Vibration] igual a Potencia de [Vibration] infligida (máx <style=\"highlight\">10</style>)\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">10</style> [Vibration] and <style=\"highlight\">+10</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">10</style> [Vibration] y <style=\"highlight\">+10</style> Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -262,24 +262,24 @@
           "level": 1,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(1.5 x (Speed difference))% more damage (max 12%)\n[BeforeAttack] At 3+ highest Reson., inflict 3 [Vibration] Potency",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi la Velocidad del objetivo principal es menor que la de esta unidad, inflige +(1.5 x (Dif. de Velocidad))% de daño (máx 12%)\n[BeforeAttack] Con 3+ Reson. más alta, inflige 3 Potencia de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Vibration] y +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Activa [FusionVibration] into [VibrationContinue]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno"
                 }
               ]
             }
@@ -289,24 +289,24 @@
           "level": 3,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(<style=\"highlight\">2</style> x (Speed difference))% more damage (max <style=\"highlight\">16%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max 4)\n<style=\"highlight\">- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., inflict +2 [Vibration] Count</style>",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi la Velocidad del objetivo principal es menor a la de esta unidad, inflige +(<style=\"highlight\">2</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">16%</style>)\n[BeforeAttack] Con 3+ Reson. más alta, inflige Potencia de [Vibration] igual a la Reson. más alta (máx 4)\n<style=\"highlight\">- [BeforeAttack] Si la Reson. más alta era una Reson.-A de Pereza, inflige +2 Contador de [Vibration]</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Vibration] and +3 [Vibration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Vibration] y +3 Contador de [Vibration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -316,27 +316,27 @@
           "level": 4,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the main target's Speed is slower than this unit's, deal +(<style=\"highlight\">2.5</style> x (Speed difference))% more damage (max <style=\"highlight\">20%</style>)\n[BeforeAttack] At 3+ highest Reson., inflict [Vibration] Potency by highest Reson. (max <style=\"highlight\">4</style>)\n- [BeforeAttack] If the highest Reson. was a Sloth A-Reson., <style=\"highlight\">inflict [Vibration] Count by [Vibration] Potency inflicted (max 5)</style>",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi la Velocidad del objetivo principal es menor que la de esta unidad, inflige+(<style=\"highlight\">2.5</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">20%</style>)\n[BeforeAttack] Con 3+ Reson. más alta, inflige Potencia de [Vibration] igual a la Reson. más alta (máx <style=\"highlight\">4</style>)\n- [BeforeAttack] Si la Reson. más alta fue una Reson.-A de Pereza, <style=\"highlight\">inflige Contador de [Vibration] igual a la Potencia de [Vibration] infligida (máx 5)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Vibration] and <style=\"highlight\">+5</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">5</style> [Vibration] y <style=\"highlight\">+5</style> Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [FusionVibration] into [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce target's Max Speed by half next turn<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
                 }
               ]
             }

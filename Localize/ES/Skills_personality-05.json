@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -27,19 +27,19 @@
         {
           "level": 2,
           "name": "Nosotros Recordamos",
-          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el siguiente turno",
+          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el próximo turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -48,19 +48,19 @@
         {
           "level": 4,
           "name": "Nosotros Recordamos",
-          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el siguiente turno",
-          "coinlist": [
+          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el próximo turno",
+	  "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -74,19 +74,19 @@
         {
           "level": 1,
           "name": "Cadenas de Lealtad",
-          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adjacentes a esta unidad en el Tablero.",
+          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adyacentes a esta unidad en el Tablero.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -95,19 +95,19 @@
         {
           "level": 2,
           "name": "Cadenas de Lealtad",
-          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adjacentes a esta unidad en el Tablero.",
+          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adyacentes a esta unidad en el Tablero.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -116,19 +116,19 @@
         {
           "level": 4,
           "name": "Cadenas de Lealtad",
-          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adjacentes a esta unidad en el Tablero\nAplica 1 de Daño de Envidia Aumentado también al seleccionar Habilidades con afinidad de Envidia de las Ranuras de Habilidad afectadas",
+          "desc": "[StartBattle] Aplica 1 de Poder de Envidia Aumentado a 2 aliados adyacentes a esta unidad en el Tablero\nTambién aplica 1 de Daño de Envidia Aumentado al seleccionar Habilidades con Afinidad de Envidia en las Ranuras de Habilidad afectadas",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -142,12 +142,12 @@
         {
           "level": 3,
           "name": "Registrando",
-          "desc": "Con 4+ de Resonancia de Envidia., Poder de Moneda +1",
+          "desc": "Con 4+ Reson. de Envidia., Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
                 }
               ]
             },
@@ -159,7 +159,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Fragilidad a la Envidia el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Fragilidad a la Envidia el próximo turno"
                 }
               ]
             }
@@ -168,12 +168,12 @@
         {
           "level": 4,
           "name": "Registrando",
-          "desc": "Con 4+ de Resonancia de Envidia., Poder de Moneda +1\nAt 6+ Envy A-Reson., Poder de Moneda +1",
+          "desc": "Con 4+ de Resonancia de Envidia., Poder de Moneda +1\nCon 6+ Reson.-A de Endivia, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
                 }
               ]
             },
@@ -185,7 +185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 2 de Fragilidad a la Envidia el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 2 de Fragilidad a la Envidia el próximo turno"
                 }
               ]
             }
@@ -204,14 +204,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -220,19 +220,19 @@
         {
           "level": 4,
           "name": "Retribución Múltiple",
-          "desc": "Con 4+ de Resonancia de Envidia., Poder de Moneda +1",
+          "desc": "Con 4+ Reson. de Envidia, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -246,7 +246,7 @@
         {
           "level": 1,
           "name": "Desenvainar la Espada",
-          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -267,7 +267,7 @@
         {
           "level": 2,
           "name": "Desenvainar la Espada",
-          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n</style>[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n</style>[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -288,7 +288,7 @@
         {
           "level": 3,
           "name": "Desenvainar la Espada",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -309,7 +309,7 @@
         {
           "level": 4,
           "name": "Desenvainar la Espada",
-          "desc": "<style=\"highlight\">Con 5+ de [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "<style=\"highlight\">Con 5+ de [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier1] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -335,7 +335,7 @@
         {
           "level": 1,
           "name": "Acupuntura",
-          "desc": "[WhenUse] Gana +2 de Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
           "coinlist": [
             {
               "coindescs": [
@@ -348,7 +348,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% de daño en un Golpe Crítico"
+                  "desc": "+30% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -357,7 +357,7 @@
         {
           "level": 2,
           "name": "Acupuntura",
-          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier2] to (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</style>\n[WhenUse] Gana +2 de Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
+          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</style>\n[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
           "coinlist": [
             {
               "coindescs": [
@@ -370,7 +370,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% de daño en un Golpe Crítico"
+                  "desc": "+40% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -379,7 +379,7 @@
         {
           "level": 3,
           "name": "Acupuntura",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 de Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
           "coinlist": [
             {
               "coindescs": [
@@ -392,7 +392,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+40% de daño en un Golpe Crítico"
+                  "desc": "+40% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -401,7 +401,7 @@
         {
           "level": 4,
           "name": "Acupuntura",
-          "desc": "<style=\"highlight\">At 7+ [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier2] to (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +3 de [Breath] Count\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
+          "desc": "<style=\"highlight\">Con 7+ de [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +3 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
           "coinlist": [
             {
               "coindescs": [
@@ -414,7 +414,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+60% de daño en un Golpe Crítico"
+                  "desc": "+60% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -428,7 +428,7 @@
         {
           "level": 3,
           "name": "Ceder Mi Carne",
-          "desc": "[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+15% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
+          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Inflige +2% de daño en Golpe Crítico por cada Potencia de [Breath] en sí mismo (Máx 50%)\n+15% de daño en Golpe Crítico\nInflige +0.5% de daño por cada 1% de HP perdido (Máx 25%)",
           "coinlist": [
             {}
           ]
@@ -436,7 +436,7 @@
         {
           "level": 4,
           "name": "Ceder Mi Carne",
-          "desc": "[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Realiza +3% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 75%)\n+30% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)",
+          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WinDuel] Gana 5 de [Breath]\n[DefeatDuel] Después de ser golpeado, Usa la Habilidad 'Para Reclamar Sus Huesos'\n[CriticalActivated] Inflige +3% de daño en Golpe Crítico por cada Potencia de [Breath] en sí mismo (Máx 75%)\n+30% de daño en Golpe Crítico\nInflige +0.5% de daño por cada 1% de HP perdido (Máx 25%)",
           "coinlist": [
             {}
           ]
@@ -448,8 +448,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Derribar",
-          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (Máx 1 vez)",
+          "name": "Derrocar",
+          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el próximo turno (1 vez máx)",
           "coinlist": [
             {
               "coindescs": [
@@ -462,8 +462,8 @@
         },
         {
           "level": 4,
-          "name": "Derribar",
-          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (Máx 1 vez)\n<style=\"highlight\">Realiza +0.5% más de daño por cada 1% de HP perdidos (Máx 25%)</style>",
+          "name": "Derrocar",
+          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el próximo turno (1 vez más)\n<style=\"highlight\">Inflige +0.5% de daño por cada 1% de HP perdido (Máx 25%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -482,7 +482,7 @@
         {
           "level": 1,
           "name": "Para Reclamar Sus Huesos",
-          "desc": "[BeforeAttack] Con 10+ de [Breath], Alcance de Atq +1\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WhenUse] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+20% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de vida perdido (Máx 25%)",
+          "desc": "[BeforeAttack] Con 10+ de [Breath], Alcance de Atq +1\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WhenUse] Inflige +2% más de daño en un Golpe Crítico por cada Potencia de [Breath] en sí mismo (Máx 50%)\n+20% de daño en Golpe Crítico\nRealiza +0.5% de daño por cada 1% de HP perdido (Máx 25%)",
           "coinlist": [
             {},
             {},
@@ -490,10 +490,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 5 [Paralysis] el próximo turno"
                 }
               ]
             }
@@ -502,7 +502,7 @@
         {
           "level": 4,
           "name": "Para Reclamar Sus Huesos",
-          "desc": "<style=\"highlight\">[BeforeAttack] Por cada 7 de [Breath], Alcance de Atq +1 (Máx +2)</style>\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WhenUse] Realiza +2% más de daño en un Golpe Crítico por cada Potencia de Temple en sí mismo (Máx 50%)\n+<style=\"highlight\">30</style>% de daño en un Golpe Crítico\nRealiza +0.5% más de daño por cada 1% de vida perdido (Máx 25%)\n<style=\"highlight\">Si esta Habilidad se dirige a un solo enemigo, realiza +100% más de daño (En Encuentros Centrados, una sola Parte)</style>",
+          "desc": "<style=\"highlight\">[BeforeAttack] Por cada 7 de [Breath] en sí mismo, Alcance de Atq +1 (Máx +2)</style>\n[WhenUse] Hasta que la Habilidad termine, esta unidad no puede ser Aturdida por recibir daño\n[WhenUse] Inflige +2% de daño en Golpe Crítico por cada Potencia de [Breath] en sí mismo (Máx 50%)\n+<style=\"highlight\">30</style>% de daño en Golpe Crítico\nRealiza +0.5% de daño por cada 1% de HP perdido (Máx 25%)\n<style=\"highlight\">Si esta Habilidad se dirige a un solo enemigo, inflige +100% de daño (En Encuentros Centrados, una sola Parte)</style>",
           "coinlist": [
             {},
             {},
@@ -510,10 +510,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 5 [Paralysis] el próximo turno"
                 }
               ]
             }
@@ -583,7 +583,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown]"
                 }
               ]
             }
@@ -592,7 +592,7 @@
         {
           "level": 2,
           "name": "Paliza",
-          "desc": "[WinDuel] Inflige +2 de [Burst] Count",
+          "desc": "[WinDuel] Inflige +2 Contador de [Burst]",
           "coinlist": [
             {},
             {
@@ -601,7 +601,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown]"
                 }
               ]
             }
@@ -610,7 +610,7 @@
         {
           "level": 4,
           "name": "Paliza",
-          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1</style>\n[WinDuel] Inflige +2 de [Burst] Count",
+          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1</style>\n[WinDuel] Inflige +2 Contador de [Burst]",
           "coinlist": [
             {},
             {
@@ -619,7 +619,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 4+ [Burst], Inflige 2 de [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 4+ [Burst], inflige 2 de [AttackDown]"
                 }
               ]
             }
@@ -644,7 +644,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown] el próximo turno"
                 }
               ]
             }
@@ -653,7 +653,7 @@
         {
           "level": 4,
           "name": "Implacable",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 3+ [Burst], Clash Power +1</style>\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 de [AttackDown]",
+          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 3+ de [Burst], Poder de Choque +1</style>\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 de [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -664,7 +664,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], Inflige 2 de [AttackDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown] el próximo turno"
                 }
               ]
             }
@@ -710,14 +710,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Studious Dedication",
-          "desc": "Gain ([KnowledgeExplored] x 3% of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "name": "Dedicación al Estudio",
+          "desc": "Gana Escudo igual a ([KnowledgeExplored] x 3% de HP Máx) si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]"
                 }
               ]
             }
@@ -725,14 +725,14 @@
         },
         {
           "level": 2,
-          "name": "Studious Dedication",
-          "desc": "Gain ([KnowledgeExplored] x <style=\"highlight\">4%</style> of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] At 2+ [KnowledgeExplored], Clash Power +1\n[WinDuel] Gain 2 [KnowledgeTraining] (once per turn)</style>",
+          "name": "Dedicación al Estudio",
+          "desc": "Gana Escudo igual a ([KnowledgeExplored] x <style=\"highlight\">4%</style> de HP Máx) si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más bajo entre todas las Ranuras de Habilidad de esta unidad\n<style=\"highlight\">[WhenUse] Con 2+ [KnowledgeExplored], Poder de Choque +1\n[WinDuel] Gana 2 [KnowledgeTraining] (una vez por turno)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -740,14 +740,14 @@
         },
         {
           "level": 4,
-          "name": "Studious Dedication",
-          "desc": "Gain ([KnowledgeExplored] x <style=\"highlight\">5%</style> of Max HP) Shield if this Skill is Discarded\n[WhenUse] [Discard] 1 Skill of the lowest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] Gain ([KnowledgeExplored] - 1) Clash Power (max 2)</style>\n[WinDuel] Gain 2 [KnowledgeTraining] (once per turn)",
+          "name": "Dedicación al Estudio",
+          "desc": "Gana Escudo igual a ([KnowledgeExplored] x <style=\"highlight\">5%</style> de HP Máx) si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más bajo entre todas las Ranuras de Habilidad de esta unidad\n<style=\"highlight\">[WhenUse] Gana ([KnowledgeExplored] - 1) Poder de Choque (máx 2)</style>\n[WinDuel] Gana 2 [KnowledgeTraining] (una vez por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Sinking] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -760,14 +760,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Moment of Erudition",
-          "desc": "[StartBattle] Gain [KnowledgeTraining] equal to [KnowledgeExplored] on self\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots",
+          "name": "Hora de Aprender",
+          "desc": "[StartBattle] Gana [KnowledgeTraining] igual a [KnowledgeExplored] en sí mismo\n[WhenUse] [Discard] 2 Habilidades de esta unidad en orden de rangos ascendente entre todas sus Ranuras de Habilidad",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]"
+                  "desc": "[OnSucceedAttack] Inflige [Sinking] igual a [KnowledgeExplored]"
                 }
               ]
             }
@@ -775,14 +775,14 @@
         },
         {
           "level": 2,
-          "name": "Moment of Erudition",
-          "desc": "<style=\"highlight\">Deal +3% more damage for every [KnowledgeExplored] on self (max 9%)</style>\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\"> to a random ally</style> and on self <style=\"highlight\">(prioritizes allies with [Discard] that has the least [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] If the target has 6+ [Sinking], Coin Power +1</style>",
+          "name": "Hora de Aprender",
+          "desc": "<style=\"highlight\">Inflige +3% de daño por cada [KnowledgeExplored] en sí mismo (máx 9%)</style>\n[StartBattle] Aplica [KnowledgeTraining] igual a [KnowledgeExplored] en sí mismo <style=\"highlight\"> a 1 aliado aleatorio</style> y a sí mismo <style=\"highlight\">(prioriza aliados con [Discard] que tienen el menor [KnowledgeTraining])</style>\n[WhenUse] [Discard] 2 Habilidades de esta unidad en orden de rangos ascendente de todas sus Ranuras de Habilidad\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to [KnowledgeExplored]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [Sinking] igual a [KnowledgeExplored]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -790,14 +790,14 @@
         },
         {
           "level": 4,
-          "name": "Moment of Erudition",
-          "desc": "Deal <style=\"highlight\">+5%</style> more damage for every [KnowledgeExplored] on self (max <style=\"highlight\">15%</style>)\n[StartBattle] Apply [KnowledgeTraining] equal to [KnowledgeExplored] on self <style=\"highlight\">to 2 random allies</style> and on self (prioritizes allies with [Discard] that has the least [KnowledgeTraining])\n[WhenUse] [Discard] 2 of this unit's Skills in ascending order of ranks from all of its Skill Slots\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Sinking] on target (max 2)</style>",
+          "name": "Hora de Aprender",
+          "desc": "Deal <style=\"highlight\">Inflige <style=\"highlight\">+5%</style> de daño por cada [KnowledgeExplored] en sí mismo (máx <style=\"highlight\">15%</style>)\n[StartBattle] Aplica [KnowledgeTraining] igual a [KnowledgeExplored] en sí mismo <style=\"highlight\">a 2 aliados aleatorios</style> y a sí mismo (prioriza aliados con [Discard] que tienen el menor [KnowledgeTraining])\n[WhenUse] [Discard] 2 Habilidades de esta unidad en orden de rangos ascendente entre todas sus Ranuras de Habilidad\n<style=\"highlight\">[WhenUse] Poder de Moneda +1 por cada 6 de [Sinking] en el objetivo (máx 2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] equal to <style=\"highlight\">([KnowledgeExplored] x 2)</style>"
+                  "desc": "[OnSucceedAttack] Inflige [Sinking] igual a <style=\"highlight\">([KnowledgeExplored] x 2)</style>"
                 }
               ]
             }
@@ -810,15 +810,15 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Scorch Knowledge",
-          "desc": "Deal +3% more damage for every [KnowledgeExplored] on self (max 18%)\n[WhenUse] If the target has 6+ [Sinking], Coin Power +1\n[BeforeAttack] Consume all [KnowledgeTraining] on self and gain half of that value as additional [KnowledgeExplored] (rounded down)\n[EndSkill] At 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
+          "name": "Quemar Conocimiento",
+          "desc": "Inflige +3% de daño por cada [KnowledgeExplored] en sí mismo (máx 18%)\n[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +1\n[BeforeAttack] Gasta todo el [KnowledgeTraining] en sí mismo y gana la mitad del valor como [KnowledgeExplored] adicional (redondeado hacia abajo)\n[EndSkill] Con 4+ [KnowledgeExplored], reinicia el valor a 1 (si esta Unidad derrota un enemigo, se reinicia a 3 en su lugar)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)"
+                  "desc": "[OnSucceedAttack] Inflige Potencia/Contador de [Sinking] igual a valor de [KnowledgeExplored] al objetivo (cuanto de ese [Sinking] es Potencia o Contador es determinado aleatoriamente)"
                 }
               ]
             }
@@ -826,15 +826,15 @@
         },
         {
           "level": 4,
-          "name": "Scorch Knowledge",
-          "desc": "Deal <style=\"highlight\">+5%</style> more damage for every [KnowledgeExplored] (max <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Sinking] on target (max 2)</style>\n[BeforeAttack] Consume all [KnowledgeTraining] on self and gain <style=\"highlight\">the same value</style> as additional [KnowledgeExplored]\n[EndSkill] At 4+ [KnowledgeExplored], reset value to 1 (if this Skill defeats an enemy, reset value to 3 instead)",
+          "name": "Quemar Conocimiento",
+          "desc": "Deal <style=\"highlight\">Inflige <style=\"highlight\">+5%</style> de daño por cada [KnowledgeExplored] (máx <style=\"highlight\">45%</style>)\n<style=\"highlight\">[WhenUse] Poder de Moneda +1 por cada 6 de [Sinking] en el objetivo (máx 2)</style>\n[BeforeAttack] Gasta todo el [KnowledgeTraining] en sí mismo y gana <style=\"highlight\">el mismo valor</style> como [KnowledgeExplored] adicional\n[EndSkill] Con 4+ [KnowledgeExplored], reinicia el valor a 1 (si esta Unidad derrota un enemigo, se reinicia a 3 en su lugar)",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Sinking] Potency/Count equal to [KnowledgeExplored] value against the target (how much of that [Sinking] is Potency or Count is randomly determined)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige Potencia/Contador de [Sinking] igual a valor de [KnowledgeExplored] al objetivo (cuanto de ese [Sinking] es Potencia o Contador es determinado aleatoriamente)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -847,8 +847,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fixated Study",
-          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots",
+          "name": "Estudio Inmersivo",
+          "desc": "[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad",
           "coinlist": [
             {
               "coindescs": [
@@ -861,8 +861,8 @@
         },
         {
           "level": 4,
-          "name": "Fixated Study",
-          "desc": "[WhenUse] [Discard] 1 Skill of the highest rank in all of this unit's Skill Slots\n<style=\"highlight\">[WhenUse] Gain +6 Aggro to this Skill Slot next turn</style>",
+          "name": "Estudio Inmersivo",
+          "desc": "[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n<style=\"highlight\">[WhenUse] Gana +6 de [Aggro] para esta Ranura de Habilidad el próximo turno</style>",
           "coinlist": [
             {
               "coindescs": [

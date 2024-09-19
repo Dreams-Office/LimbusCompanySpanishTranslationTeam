@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 2 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 2 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             }
@@ -27,7 +27,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 2 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             }
@@ -36,13 +36,13 @@
         {
           "level": 4,
           "name": "Patrullaje",
-          "desc": "[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Gana 3 de Nivel Defensivo Aumentado",
+          "desc": "[WhenUse] Gana +2 de [Aggro] para esta Ranura de Habilidad el próximo turno\n[DefeatDuel] Gana 3 de Nivel Defensivo Aumentado",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 2 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             }
@@ -61,21 +61,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             }
@@ -89,21 +89,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             }
@@ -117,21 +117,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
               },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
                 }
               ]
             }
@@ -151,7 +151,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "Aplica 1 de Rapidez y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el siguiente turno"
+                  "desc": "Aplica 1 [Agility] y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el próximo turno"
                 }
               ]
             }
@@ -160,16 +160,16 @@
         {
           "level": 4,
           "name": "Ley y Orden",
-          "desc": "Con 5+ de Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Heal 4 HP",
+          "desc": "Con 5+ de Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Cura 4 HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Aplica 1 de Rapidez y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el siguiente turno"
+                  "desc": "Aplica 1 [Agility] y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el próximo turno"
                 },
                 {
-                  "desc": "Si el aliado es un Fixer de la Asosiación Zwei, aplica 1 de Rapidez y 1 de Nivel Defensivo Aumentado adicional"
+                  "desc": "Si el aliado es un Fixer de la Asosiación Zwei, aplica 1 [Agility] y 1 de Nivel Defensivo Aumentado adicional"
                 }
               ]
             }
@@ -182,7 +182,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Protegerse",
+          "name": "Guardia",
           "desc": "",
           "coinlist": [
             {}
@@ -190,8 +190,8 @@
         },
         {
           "level": 4,
-          "name": "Protegerse",
-          "desc": "[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad siguiente turno",
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el próximo turno",
           "coinlist": [
             {}
           ]
@@ -204,15 +204,15 @@
         {
           "level": 1,
           "name": "Camisa de Fuerza Contraída",
-          "desc": "[WhenUse] Gana +3 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 }
               ]
             }
@@ -221,15 +221,15 @@
         {
           "level": 2,
           "name": "Camisa de Fuerza Contraída",
-          "desc": "[WhenUse] Gana +3 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
                 }
               ]
             }
@@ -238,15 +238,15 @@
         {
           "level": 4,
           "name": "Camisa de Fuerza Contraída",
-          "desc": "[WhenUse] Gana +3 de Contador de Tremor\n[DefeatDuel] Gana +3 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]\n[DefeatDuel] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
                 }
               ]
             }
@@ -260,12 +260,12 @@
         {
           "level": 1,
           "name": "Timbre Metálico",
-          "desc": "[WhenUse] Gana +4 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +4 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el próximo turno"
                 }
               ]
             },
@@ -273,7 +273,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 }
               ]
             }
@@ -282,15 +282,15 @@
         {
           "level": 2,
           "name": "Timbre Metálico",
-          "desc": "[StartBattle] Gasta 5 de Contador de Tremor y Gana +1 de Alcance de Atq para esta Habilidad\n[WhenUse] Gana +4 de Contador de Tremor",
+          "desc": "[StartBattle] Gasta 5 de Contador de [Vibration] y Gana +1 Alcance de Atq para esta Habilidad\n[WhenUse] Gana +4 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +1 de Contador de Tremor"
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el próximo turno"
                 }
               ]
             },
@@ -298,10 +298,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
                 }
               ]
             }
@@ -310,12 +310,12 @@
         {
           "level": 4,
           "name": "Timbre Metálico",
-          "desc": "[StartBattle] Gasta 5 de Contador de Tremor y Gana +1 de Alcance de Atq para esta Habilidad\n[WhenUse] Gana +4 de Contador de Tremor",
+          "desc": "[StartBattle] Gasta 5 de Contador de [Vibration] y Gana +1 Alcance de Atq para esta Habilidad\n[WhenUse] Gana +4 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana +1 de Contador de Tremor"
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Vibration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido el siguiente turno"
@@ -326,10 +326,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
                 }
               ]
             }
@@ -343,26 +343,26 @@
         {
           "level": 3,
           "name": "Violencia Desatada",
-          "desc": "[StartBattle] Gasta 5 de Contador de Tremor y Gana +1 de Alcance de Atq para esta Habilidad (Máx +2)\n[DefeatDuel] Pierde 20 PC\nRealiza  3% más de Daño por cada tipo de efecto negativo en el objetivo (Máx 15%)\n[EnemyKill] Gana +2 de Contador de Tremor",
+          "desc": "[StartBattle] Gasta 5 de Contador de [Vibration] y Gana +1 Alcance de Atq para esta Habilidad (Máx +2)\n[DefeatDuel] Pierde 20 PC\nInflige +3% de Daño por cada tipo de efecto negativo en el objetivo (Máx 15%)\n[EnemyKill] Gana +2 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor,\nEntonces inflige Daño de Ira según el 20% del total de Umbral de Aturdimiento Aumentado por Estallido de Tremor. (Máx 13)"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor,\nEntonces inflige Daño de Ira según el 20% del total de Umbral de Aturdimiento Aumentado por Estallido de Tremor. (Máx 13)"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nEntonces inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor,\nEntonces inflige Daño de Ira según el 20% del total de Umbral de Aturdimiento Aumentado por Estallido de Tremor. (Máx 13)\nReduce de Contador de Tremor en 3"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nEntonces inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)\nReduce en 3 el Contador de [Vibration]"
                 }
               ]
             }
@@ -371,26 +371,26 @@
         {
           "level": 4,
           "name": "Violencia Desatada",
-          "desc": "[StartBattle] Gasta 5 de Contador de Tremor y Gana +1 de Alcance de Atq para esta Habilidad (Máx +2)\n[DefeatDuel] Pierde 20 PC\nRealiza 6% más de Daño por cada tipo de efecto negativo en el objetivo (Máx 30%)\n[EnemyKill] Gana +2 de Contador de Tremor",
+          "desc": "[StartBattle] Gasta 5 de Contador de [Vibration] y Gana +1 Alcance de Atq para esta Habilidad (Máx +2)\n[DefeatDuel] Pierde 20 PC\nInflige +6% de Daño por cada tipo de efecto negativo en el objetivo (Máx 30%)\n[EnemyKill] Gana +2 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor,\nEntonces inflige Daño de Ira según el 30% del total de Umbral de Aturdimiento Aumentado por Estallido de Tremor. (Máx 20)"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor,\nEntonces inflige Daño de Ira según el 30% del total de Umbral de Aturdimiento Aumentado por Estallido de Tremor. (Máx 20)"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor,\nEntonces inflige Daño de Ira según el 30% del total de Umbral de Aturdimiento Aumentado por Estallido de Tremor. (Máx 20)\nReduce de Contador de Tremor en 3"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)\nReduce en 3 el Contador de [Vibration]"
                 }
               ]
             }
@@ -404,7 +404,7 @@
         {
           "level": 1,
           "name": "Reunir Rencor",
-          "desc": "[WhenUse] Gana +3 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {}
           ]
@@ -412,7 +412,7 @@
         {
           "level": 4,
           "name": "Reunir Rencor",
-          "desc": "[WhenUse] Gana +6 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +6 Contador de [Vibration]",
           "coinlist": [
             {}
           ]
@@ -425,7 +425,7 @@
         {
           "level": 1,
           "name": "Danza de la Cuchilla a la Luz de Luna",
-          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {},
             {},
@@ -441,7 +441,7 @@
         {
           "level": 2,
           "name": "Danza de la Cuchilla a la Luz de Luna",
-          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {},
             {
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "Danza de la Cuchilla a la Luz de Luna",
-          "desc": "<style=\"highlight\">Con 5+ de [Breath], Poder de Moneda +1</style>\n[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "<style=\"highlight\">Con 5+ de [Breath], Poder de Moneda +1</style>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {},
             {
@@ -490,12 +490,12 @@
         {
           "level": 1,
           "name": "Acupuntura",
-          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
                 }
               ]
             },
@@ -511,22 +511,22 @@
         {
           "level": 2,
           "name": "Acupuntura",
-          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                 },
                 {
-                  "desc": "+30% de Daño en un Golpe Crítico"
+                  "desc": "+30% de Daño en Golpe Crítico"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 2 de [RedApricotBlossom]<style=\"highlight\"></style>"
@@ -538,22 +538,22 @@
         {
           "level": 4,
           "name": "Acupuntura",
-          "desc": "<style=\"highlight\">Con 7+ de [Breath], Poder de Moneda +1\n</style>[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "<style=\"highlight\">Con 7+ de [Breath], Poder de Moneda +1\n</style>[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                 },
                 {
-                  "desc": "+30% de Daño en un Golpe Crítico"
+                  "desc": "+30% de Daño en Golpe Crítico"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 2 de [RedApricotBlossom]<style=\"highlight\"></style>"
@@ -570,7 +570,7 @@
         {
           "level": 3,
           "name": "Dispersión de Flores Rojas de Cerezo",
-          "desc": "Inflige +3% de daño por cada [RedApricotBlossom] en el objetivo\n[WinDuel] Consume la mitad del Contador de [Breath] en sí mismo, entonces gana [Breath] equivalente al Contador de [Breath] consumido. (Máx 10)",
+          "desc": "Inflige +3% de daño por cada [RedApricotBlossom] en el objetivo\n[WinDuel] Gasta la mitad del Contador de [Breath] en sí misma, tras esto gana [Breath] equivalente al Contador de [Breath] gastado. (Máx 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -591,7 +591,7 @@
         {
           "level": 4,
           "name": "Dispersión de Flores de Cerezo Rojas",
-          "desc": "Inflige +3% de daño por cada [RedApricotBlossom] en el objetivo\n<style=\"highlight\">Poder de Moneda +1 por cada 7 de [Breath] en sí mismo (Máx 3)</style>\n[WinDuel] Consume la mitad del Contador de [Breath] en sí mismo, entonces gana [Breath] equivalente al Contador de [Breath] consumido. (Máx 10)\n<style=\"highlight\">Esta Habilidad no consume [RedApricotBlossom] al dar Crítico</style>",
+          "desc": "Inflige +3% de daño por cada [RedApricotBlossom] en el objetivo\n<style=\"highlight\">Poder de Moneda +1 por cada 7 de [Breath] en sí misma (Máx 3)</style>\n[WinDuel] Gasta la mitad del Contador de [Breath] en sí misma, tras esto gana [Breath] equivalente al Contador de [Breath] gastado. (Máx 10)\n<style=\"highlight\">Esta Habilidad no consume [RedApricotBlossom] en Golpe Crítico</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -623,7 +623,7 @@
         {
           "level": 1,
           "name": "Redirigir",
-          "desc": "[WhenUse] Por cada 4 de [Breath] en sí mismo, Gana Poder Final +1 (Máx 3)",
+          "desc": "[WhenUse] Por cada 4 de [Breath] en sí misma, Gana Poder Final +1 (Máx 3)",
           "coinlist": [
             {}
           ]
@@ -631,7 +631,7 @@
         {
           "level": 4,
           "name": "Redirigir",
-          "desc": "[WhenUse] Por cada 4 de [Breath] en sí mismo, Gana Poder Final +1 (Máx 5)",
+          "desc": "[WhenUse] Por cada 4 de [Breath] en sí misma, Gana Poder Final +1 (Máx 5)",
           "coinlist": [
             {}
           ]
@@ -674,7 +674,7 @@
         {
           "level": 4,
           "name": "Incautación",
-          "desc": "[WhenUse] Si el objtetivo tiene 6+ de [Sinking], Poder de Moneda +1",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +1",
           "coinlist": [
             {},
             {
@@ -700,7 +700,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de [Sinking]"
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de [Sinking]"
                 }
               ]
             }
@@ -709,13 +709,13 @@
         {
           "level": 2,
           "name": "Recepción de Intrusos",
-          "desc": "[WhenUse] Si el objtetivo tiene 5+ de [Sinking], Poder de Choque +1",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Choque +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]"
                 }
               ]
             }
@@ -724,13 +724,13 @@
         {
           "level": 4,
           "name": "Recepción de Intrusos",
-          "desc": "[WhenUse] Si el objtetivo tiene 5+ de [Sinking], Poder de Choque +1\n[WhenUse] Si el objtetivo tiene 3+ de Contador de [Sinking], Poder de Moneda +1",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Choque +1\n[WhenUse] Si el objtetivo tiene 3+ Contador de [Sinking], Poder de Moneda +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             }
@@ -749,7 +749,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             },
@@ -758,10 +758,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objtetivo tiene [EchoOfMansion], Inflige +3 de Contador de [Sinking]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige +3 Contador de [Sinking]"
                 }
               ]
             }
@@ -775,7 +775,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             },
@@ -784,10 +784,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objtetivo tiene [EchoOfMansion], Inflige +3 de Contador de [Sinking]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige +3 Contador de [Sinking]"
                 }
               ]
             }
@@ -800,7 +800,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Planteación Cinegética",
+          "name": "Planificación Cinegética",
           "desc": "[WhenUse] Si el objetivo tiene 10+ de [Sinking], Poder de Moneda +3",
           "coinlist": [
             {}
@@ -808,7 +808,7 @@
         },
         {
           "level": 4,
-          "name": "Planteación Cinegética",
+          "name": "Planificación Cinegética",
           "desc": "[WhenUse] Si el objetivo tiene 10+ de [Sinking], Poder de Moneda +7",
           "coinlist": [
             {}
@@ -821,14 +821,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "40Y-3 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1",
+          "name": "Activación 40Y-3",
+          "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -836,14 +836,14 @@
         },
         {
           "level": 2,
-          "name": "40Y-3 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "Activación 40Y-3",
+          "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">3</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gana +<style=\"highlight\">3</style> Contador de [Charge]"
                 }
               ]
             }
@@ -851,14 +851,14 @@
         },
         {
           "level": 4,
-          "name": "40Y-3 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
+          "name": "Activación 40Y-3",
+          "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +3 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -871,15 +871,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge Countercurrent",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
+          "name": "Contracorriente de Carga",
+          "desc": "[WhenUse] Con 5 a 9 Contador de [Charge], gasta 2(10 - Contador de [Charge] actual)% de HP para aumentar Contador de [Charge] a 10\n[WhenUse] Gasta 10 Contador de [Charge] para ganar Poder de Moneda +1",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +([Charge])% more damage for every [Charge] Count consumed by this Skill (max 60%)"
+                  "desc": "Con 3+ Reson. incluyendo esta habilidad, gasta todo el Contador de [Charge] en sí misma para infligir +([Charge])% de daño por cada Contador de [Charge] gastado por esta Habilidad (máx 60%)"
                 }
               ]
             }
@@ -887,15 +887,15 @@
         },
         {
           "level": 2,
-          "name": "Charge Countercurrent",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "Contracorriente de Carga",
+          "desc": "[WhenUse] Con 5 a 9 Contador de [Charge], gasta 2(10 - Contador de [Charge] actual)% de HP para aumentar Contador de [Charge] a 10\n[WhenUse] Gasta 10 Contador de [Charge] para ganar Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +<style=\"highlight\">([Charge] + 3)</style>% more damage for every [Charge] Count consumed by this Skill (max <style=\"highlight\">120%</style>)"
+                  "desc": "Con 3+ Reson. incluyendo esta habilidad, gasta todo el Contador de [Charge] en sí misma para infligir +<style=\"highlight\">([Charge] + 3)</style>% de daño por cada Contador de [Charge] gastado por esta Habilidad (máx <style=\"highlight\">120%</style>)"
                 }
               ]
             }
@@ -903,15 +903,15 @@
         },
         {
           "level": 4,
-          "name": "Charge Countercurrent",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
+          "name": "Contracorriente de Carga",
+          "desc": "[WhenUse] Con 5 a 9 Contador de [Charge], gasta 2(10 - Contador de [Charge] actual)% de HP para aumentar Contador de [Charge] a 10\n[WhenUse] Gasta 10 Contador de [Charge] para ganar Poder de Moneda <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ Reson. including this Skill, consume all [Charge] Count on self and deal +<style=\"highlight\">([Charge] + 4)</style>% more damage for every [Charge] Count consumed by this Skill (max <style=\"highlight\">180%</style>)"
+                  "desc": "Con 3+ Reson. incluyendo esta habilidad, gasta todo el Contador de [Charge] en sí misma para infligir +<style=\"highlight\">([Charge] + 4)</style>% de daño por cada Contador de [Charge] gastado por esta Habilidad (máx <style=\"highlight\">180%</style>)"
                 }
               ]
             }
@@ -924,20 +924,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "40Y-3 Charge",
-          "desc": "At 2+ [Charge], Coin Power +2",
+          "name": "Carga 40Y-3",
+          "desc": "Con 2+ [Charge], Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + 4) [Charge] Count (max 7)"
+                  "desc": "[OnSucceedAttack] Gana +([Charge] + 4) Contador de [Charge] (máx 7)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + 4) [Charge] Count (max 7)"
+                  "desc": "[OnSucceedAttack] Gana +([Charge] + 4) Contador de [Charge] (máx 7)"
                 }
               ]
             },
@@ -945,7 +945,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ [Charge], deal +4% more damage for every [Charge] (max 20%)"
+                  "desc": "Con 3+ [Charge], inflige +4% de daño por cada [Charge] (máx 20%)"
                 }
               ]
             }
@@ -953,20 +953,20 @@
         },
         {
           "level": 4,
-          "name": "40Y-3 Charge",
-          "desc": "<style=\"highlight\">Coin Power +1 for every [Charge] (max 4)</style>",
+          "name": "Carga 40Y-3",
+          "desc": "<style=\"highlight\">Poder de Moneda +1 por cada [Charge] (máx 4)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + <style=\"highlight\">5</style>) [Charge] Count (max <style=\"highlight\">8</style>)"
+                  "desc": "[OnSucceedAttack] Gana +([Charge] + <style=\"highlight\">5</style>) Contador de [Charge] (máx <style=\"highlight\">8</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] + <style=\"highlight\">5</style>) [Charge] Count (max <style=\"highlight\">8</style>)"
+                  "desc": "[OnSucceedAttack] Gana +([Charge] + <style=\"highlight\">5</style>) Contador de [Charge] (máx <style=\"highlight\">8</style>)"
                 }
               ]
             },
@@ -974,10 +974,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 3+ [Charge], deal <style=\"highlight\">+8%</style> more damage for every [Charge] (max <style=\"highlight\">40%</style>)"
+                  "desc": "Con 3+ [Charge], inflige <style=\"highlight\">+8%</style> de daño por cada [Charge] (máx <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 Envy Fragility next turn\n- At 2+ [Charge], inflict 1 additional Envy Fragility</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 Fragilidad a la Envidia el próximo turno\n- Con 2+ [Charge], Inflige 1 Fragilidad a la Envidia adicional</style>"
                 }
               ]
             }
@@ -990,16 +990,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge",
-          "desc": "[WhenUse] Gain +2 [Charge] Count (2 times per turn)",
+          "name": "Cargar",
+          "desc": "[WhenUse] Gana +2 Contador de [Charge] (2 veces por turno)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Charge",
-          "desc": "[WhenUse] Gain +<style=\"highlight\">4</style> [Charge] Count (2 times per turn)",
+          "name": "Cargar",
+          "desc": "[WhenUse] Gana +<style=\"highlight\">4</style> Contador de [Charge] (2 veces por turno)",
           "coinlist": [
             {}
           ]

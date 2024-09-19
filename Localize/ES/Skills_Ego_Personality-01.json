@@ -7,12 +7,12 @@
           "level": 1,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets",
+          "desc": "[EndSkill] Inflige aleatoriamente (6 + Reson. de Melancolía) de [Sinking] entre los objetivos",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Sinking], inflige 1 [Binding] el próximo turno"
                 }
               ]
             }
@@ -22,12 +22,12 @@
           "level": 3,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[EndSkill] Randomly inflict (6 + Gloom Reson.) [Sinking] between targets",
+          "desc": "[EndSkill] Inflige aleatoriamente (6 + Reson. de Melancolía) [Sinking] entre los objetivos",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Sinking], inflige 2 [Binding] el próximo turno"
                 }
               ]
             }
@@ -37,12 +37,12 @@
           "level": 4,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[EndSkill] Randomly inflict (6 + (<style=\"highlight\">Gloom Reson. x1.5</style>)) [Sinking] between targets",
+          "desc": "[[EndSkill] Inflige aleatoriamente (6 + (<style=\"highlight\">Reson. de Melancolía x1.5</style>)) [Sinking] entre los objetivos",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Sinking], inflige 2 [Binding] el próximo turno"
                 }
               ]
             }
@@ -57,15 +57,15 @@
           "level": 1,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]. Inflige 2 [Binding] el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Sinking], inflige 1 [Binding] el próximo turno"
                 }
               ]
             }
@@ -75,15 +75,15 @@
           "level": 3,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 3+ de (Reson. de Melancolía), Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]. Inflige 2 [Binding] el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Sinking], inflige 1 [Binding] el próximo turno"
                 }
               ]
             }
@@ -93,15 +93,15 @@
           "level": 4,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] At 5+ (Gloom Reson.), additional Atk Weight +1",
+          "desc": "[CantIdentify]\n\n[BeforeAttack] Con 3+ (Reson. de Melancolía), Alcance de Atq +1\n[BeforeAttack] Con 5+ (Reson. de Melancolía), Alcance de Atq +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]. Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Sinking]. Inflige 2 [Binding] el prróximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 6+ [Sinking], inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Sinking], inflige 2 [Binding] el próximo turno"
                 }
               ]
             }

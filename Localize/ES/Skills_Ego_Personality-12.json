@@ -226,8 +226,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Solemn Lament",
-          "abName": "Funeral of the Dead Butterflies",
+          "name": "Lamento Solemne",
+          "abName": "Funeral de las Mariposas Muertas",
           "desc": "When this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)",
           "coinlist": [
             {
@@ -261,8 +261,8 @@
         },
         {
           "level": 3,
-          "name": "Solemn Lament",
-          "abName": "Funeral of the Dead Butterflies",
+          "name": "Lamento Solemne",
+          "abName": "Funeral de las Mariposas Muertas",
           "desc": "When this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n<style=\"highlight\">[EndSkill] Heal (# of Coin 3 hits x 2) SP</style>",
           "coinlist": [
             {
@@ -296,8 +296,8 @@
         },
         {
           "level": 4,
-          "name": "Solemn Lament",
-          "abName": "Funeral of the Dead Butterflies",
+          "name": "Lamento Solemne",
+          "abName": "Funeral de las Mariposas Muertas",
           "desc": "When this Skill flips Coins, each Coin flips against a random enemy among its targets.\n- The first Coin always targets the main target.\n- All 'On Hit' effects and all damage dealt by each Coin are inflicted only against the random target the Coin selected.\nWhen inflicting [SinkingWhite] with this Skill effects: (Chance to flip Heads)% chance to inflict The Departed. If this unit did not inflict The Departed, inflict The Living instead. (calculates every [SinkingWhite] stack independently)\n[EndSkill] Heal <style=\"highlight\">(# of Coin 3 hits x 3)</style> SP",
           "coinlist": [
             {
@@ -336,8 +336,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Solemn Lament",
-          "abName": "Funeral of the Dead Butterflies",
+          "name": "Lamento Solemne",
+          "abName": "Funeral de las Mariposas Muertas",
           "desc": "[CantIdentify]\nTargets randomly\nIf the target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking] on the target (max 45%)",
           "coinlist": [
             {
@@ -354,8 +354,8 @@
         },
         {
           "level": 3,
-          "name": "Solemn Lament",
-          "abName": "Funeral of the Dead Butterflies",
+          "name": "Lamento Solemne",
+          "abName": "Funeral de las Mariposas Muertas",
           "desc": "[CantIdentify]\nTargets randomly\nIf the target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking] on the target (max 45%)\n<style=\"highlight\">[EnemyKill] Heal 5 SP</style>",
           "coinlist": [
             {
@@ -375,8 +375,8 @@
         },
         {
           "level": 4,
-          "name": "Solemn Lament",
-          "abName": "Funeral of the Dead Butterflies",
+          "name": "Lamento Solemne",
+          "abName": "Funeral de las Mariposas Muertas",
           "desc": "[CantIdentify]\nTargets randomly\nIf the target has less than 0 SP, deal more damage the further their SP value is from 0 (+1% more damage for every missing SP, max 45%)\nAgainst targets without SP: deal +1% more damage for every 2 [Sinking] on the target (max 45%)\n[EnemyKill] Heal 5 SP<style=\"highlight\"></style>",
           "coinlist": [
             {

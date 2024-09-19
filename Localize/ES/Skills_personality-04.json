@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -26,20 +26,20 @@
         },
         {
           "level": 2,
-          "name": "E.C.",
-          "desc": "Con 10+ de Contador de Carga, realiza +10% de daño",
+          "name": "C.E.",
+          "desc": "Con 10+ Contador de [Charge], inflige +10% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -47,20 +47,20 @@
         },
         {
           "level": 4,
-          "name": "E.C.",
-          "desc": "Con 10+ de Contador de Carga, realiza +10% de daño\nCon 15+ de Contador de Carga, realiza +10% de daño adicional",
+          "name": "C.E.",
+          "desc": "Con 10+ Contador de [Charge], inflige +10% de daño\nCon 15+ de Contador de Carga, inflige +10% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -74,12 +74,12 @@
         {
           "level": 1,
           "name": "Brinco",
-          "desc": "[WhenUse] Gana +5 de Contador de Carga",
+          "desc": "[WhenUse] Gana +5 Contador de [Charge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Con 10+ de Contador de Carga, Inflige 1 de Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttackHead] Con 10+ Contador de [Charge], inflige 1 de Fragilidad a lo Cortante"
                 }
               ]
             },
@@ -87,7 +87,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo esta por debajo del 30% de la vida, realiza +15% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +15% de daño"
                 }
               ]
             }
@@ -96,12 +96,12 @@
         {
           "level": 2,
           "name": "Brinco",
-          "desc": "[WhenUse] Gana +6 Charge Count\nCon 10+ de Contador de Carga, gana Poder de Moneda +1",
+          "desc": "[WhenUse] Gana +6 Contador de [Charge]\nCon 10+ Contador de [Charge], gana Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ de Contador de Carga, Inflige 1 de Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 1 de Fragilidad a lo Cortante"
                 }
               ]
             },
@@ -109,10 +109,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo esta por debajo del 30% de la vida, realiza +20% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +20% de daño"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 1 Haste el siguiente turno"
+                  "desc": "[EnemyKill] Gana 1 [Agility] el próximo turno"
                 }
               ]
             }
@@ -121,12 +121,12 @@
         {
           "level": 4,
           "name": "Brinco",
-          "desc": "[WhenUse] Gana +7 Charge Count\nCon 10+ de Contador de Carga, gana Poder de Moneda +1\nCon 15+ de Contador de Carga, gana Poder de Moneda +1",
+          "desc": "[WhenUse] Gana +7 Contador de [Charge]\nCon 10+ Contador de [Charge], gana Poder de Moneda +1\nCon 15+ Contador de [Charge], gana Poder de Moneda +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ de Contador de Carga, Inflige 2 de Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 2 de Fragilidad a lo Cortante"
                 }
               ]
             },
@@ -134,10 +134,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo esta por debajo del 30% de la vida, realiza +30% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +30% de daño"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 de Rapidez el siguiente turno"
+                  "desc": "[EnemyKill] Gana 3 [Agility] el próximo turno turno"
                 }
               ]
             }
@@ -150,34 +150,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "R.D.D.F.D",
-          "desc": "[WhenUse] Con 7 a 14 de Contador de Carga\nConsume todo el Contador de Carga,\nY consume 3 x (15 - Contador de Carga consumido)% de HP para ganar Poder de Moneda +3 \n[WhenUse] Consume 15 de Contador de Carga para ganar Poder de Moneda +3 ",
+          "name": "R.D.D.F.D.",
+          "desc": "[WhenUse] Con 7 a 14 de Contador de [Charge]\nGasta todo el Contador de [Charge],\nY consume 3 x (15 - Contador de [Charge] gastado)% de HP para ganar Poder de Moneda +3 \n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La ultima Moneda realiza +5% de daño"
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +5% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La ultima Moneda realiza +5% de daño"
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +5% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La ultima Moneda realiza +5% de daño"
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +5% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Si la habilidad consume 15 de Contador de Carga al usarse, aplica 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera de Carga</color></link></u> en sí misma y en otro aliado"
+                  "desc": "[EnemyKill] Si la habilidad gastó 15 de Contador de [Charge] al usarse, aplica 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera de [Charge]</color></link></u> en sí misma y en otro aliado"
                 }
               ]
             }
@@ -185,34 +185,34 @@
         },
         {
           "level": 4,
-          "name": "R.D.D.F.D",
-          "desc": "[WhenUse] Con 7 a 14 de Contador de Carga\nConsume todo el Contador de Carga,\nY consume 3 x (15 - Contador de Carga consumido)% de HP para ganar Poder de Moneda +5\n[WhenUse] Consume 15 de Contador de Carga para ganar Poder de Moneda +5",
+          "name": "R.D.D.F.D.",
+          "desc": "[WhenUse] Con 7 a 14 de Contador de [Charge]\nGasta todo el Contador de [Charge],\nY consume 3 x (15 - Contador de [Charge] gastado)% de HP para ganar Poder de Moneda +5\n[WhenUse] Gasta 15 de Contador de [Charge] para ganar Poder de Moneda +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La ultima Moneda realiza +10% de daño"
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La ultima Moneda realiza +10% de daño"
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La ultima Moneda realiza +10% de daño"
+                  "desc": "[OnSucceedAttackHead] La ultima Moneda inflige +10% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Si la habilidad consume 15 de Contador de Carga al usarse, aplica 7 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\"> Barrera de Carga</color></link></u> en sí misma y en otro aliado"
+                  "desc": "[EnemyKill] Si la habilidad gastó 15 de Contador de [Charge] al usarse, aplica 7 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\"> Barrera de [Charge]</color></link></u> en sí misma y en otro aliado"
                 }
               ]
             }
@@ -226,7 +226,7 @@
         {
           "level": 1,
           "name": "Evasión Cargada",
-          "desc": "Porde Base +1 cada 5 de Contador de Carga (Máx 2)",
+          "desc": "Poder Base +1 cada 5 Contador de [Charge] (Máx 2)",
           "coinlist": [
             {}
           ]
@@ -234,7 +234,7 @@
         {
           "level": 4,
           "name": "Evasión Cargada",
-          "desc": "Porde Base +1 cada 5 de Contador de Carga (Máx 3)",
+          "desc": "Poder Base +1 cada 5 Contador de [Charge] (Máx 3)",
           "coinlist": [
             {}
           ]
@@ -247,7 +247,7 @@
         {
           "level": 1,
           "name": "Empuje",
-          "desc": "[WhenUse] Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -261,7 +261,7 @@
         {
           "level": 2,
           "name": "Empuje",
-          "desc": "[WhenUse] Gana +2 de Contador de Temple",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -275,7 +275,7 @@
         {
           "level": 4,
           "name": "Empuje",
-          "desc": "[WhenUse] Gana 2 de Contador de Temple\n<style=\"highlight\">Con 7+ de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Temple</color></color></link></u>, Poder de Moneda +1</style>",
+          "desc": "[WhenUse] Gana +2 Contador de Temple\n<style=\"highlight\">Con 7+ de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Temple</color></color></link></u>, Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -299,7 +299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Temple"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
@@ -309,7 +309,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Temple"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
@@ -326,7 +326,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 de Temple"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
@@ -336,7 +336,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Temple"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
@@ -348,12 +348,12 @@
         {
           "level": 4,
           "name": "O.N.",
-          "desc": "Con 7+ de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Temple</color></link></u>, Poder de Moneda +1",
+          "desc": "Con 7+ de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 de Temple"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 2 de Nivel Ofensivo Reducido"
@@ -363,7 +363,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Temple"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
@@ -379,8 +379,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "O.O.F.",
-          "desc": "[WhenUse] Gana 4 de Temple\nAt 10+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Temple</color></link></u>, Poder de Moneda +1",
+          "name": "E.F.E",
+          "desc": "[WhenUse] Gana 4 de [Breath]\nCon 10+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -395,19 +395,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "Gasta 1 de Munición"
+                  "desc": "Gasta 1 [Bullet]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Duplica la aplicación de Contador y Potencia de Tremor & Ruptura"
+                  "desc": "[CriticalOnSucceedAttack] Duplica la aplicación de Contador y Potencia de [Vibration] & [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Tremor y +1 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +1 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura y +1 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst] y +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttackHead] Activa [VibrationExplosion]"
                 }
               ]
             }
@@ -415,39 +415,39 @@
         },
         {
           "level": 4,
-          "name": "O.O.F.",
-          "desc": "[WhenUse] Gana 4 de Temple\nGana Poder de Moneda +1 por cada 7 de Temple en sí misma (Máx 2)",
+          "name": "E.F.E",
+          "desc": "[WhenUse] Gana 4 de [Breath]\nGana Poder de Moneda +1 por cada 7 de [Breath] en sí misma (Máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gana +1 de Contador de Temple"
+                  "desc": "[CriticalOnSucceedAttack] Gana +1 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gana +1 de Contador de Temple"
+                  "desc": "[CriticalOnSucceedAttack] Gana +1 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Gasta 1 de Munición"
+                  "desc": "Gasta 1 [Bullet]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Duplica la aplicación de Contador y Potencia de Tremor & Ruptura"
+                  "desc": "[CriticalOnSucceedAttack] Duplica la aplicación de Contador y Potencia de [Vibration] & [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Tremor y +2 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration] y +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Ruptura y +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst] y +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]"
                 }
               ]
             }
@@ -565,7 +565,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], realiza +20% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], inflige +20% de daño"
                 }
               ]
             }
@@ -586,7 +586,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], realiza +30% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], inflige +30% de daño"
                 }
               ]
             }
@@ -607,7 +607,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], realiza +50% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], inflige +50% de daño"
                 }
               ]
             }
@@ -647,7 +647,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Combustion], realiza +20% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Combustion], inflige +20% de daño"
                 }
               ]
             }
@@ -682,7 +682,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Combustion], realiza +40% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Combustion], inflige +40% de daño"
                 }
               ]
             }
@@ -729,19 +729,19 @@
         {
           "level": 1,
           "name": "Artes Hospitalarias 1: La Cacería",
-          "desc": "[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 }
               ]
             }
@@ -750,19 +750,19 @@
         {
           "level": 2,
           "name": "Artes Hospitalarias 1: La Cacería",
-          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es más rapida que la del objetivo por 3 o más, Poder de Choque +1</style>\n[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Choque +1</style>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 }
               ]
             }
@@ -771,19 +771,19 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 1: La Cacería",
-          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es más rapida que la del objetivo, gana Poder de Choque +1 por cada 2 de Diferencia de Velocidad (máx 3)</style>\n[WhenUse] Gana +2 de Contador de [Breath]",
+          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es mayor que la del objetivo, gana Poder de Choque +1 por cada 2 Dif. de Velocidad (máx 3)</style>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +2 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 }
               ]
             }
@@ -797,7 +797,7 @@
         {
           "level": 1,
           "name": "Artes Hospitalarias 7: Captura",
-          "desc": "[StartBattle] Esta habilidad consume 6 de Contador de [Breath] para ganar +2 de Alcance de Atq este turno",
+          "desc": "[StartBattle] Esta habilidad gasta 6 de Contador de [Breath] para ganar +2 Alcance de Atq este turno",
           "coinlist": [
             {
               "coindescs": [
@@ -809,7 +809,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 }
               ]
             }
@@ -818,7 +818,7 @@
         {
           "level": 2,
           "name": "Artes Hospitalarias 7: Captura",
-          "desc": "[StartBattle] Esta habilidad consume 6 de Contador de [Breath] para ganar +2 de Alcance de Atq este turno",
+          "desc": "[StartBattle] Esta habilidad gasta 6 de Contador de [Breath] para ganar +2 Alcance de Atq este turno",
           "coinlist": [
             {
               "coindescs": [
@@ -830,7 +830,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 }
               ]
             }
@@ -839,7 +839,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 7: Captura",
-          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es más alta que la del objetivo principal, gana Poder de Choque +1 por cada 2 de Diferencia de Velocidad (máx 3)</style>\n[StartBattle] Esta habilidad consume 6 de Contador de [Breath] para ganar +2 de Alcance de Atq este turno",
+          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es más alta que la del objetivo principal, gana Poder de Choque +1 por cada 2 Dif. de Velocidad (máx 3)</style>\n[StartBattle] Esta habilidad gasta 6 de Contador de [Breath] para ganar +2 Alcance de Atq este turno",
           "coinlist": [
             {
               "coindescs": [
@@ -847,14 +847,14 @@
                   "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [MarkOfButler]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [MarkOfButler]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 }
               ]
             }
@@ -868,7 +868,7 @@
         {
           "level": 3,
           "name": "Artes Hospitalarias 2: P.E.C.A.R.",
-          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n[WhenUse] Gana +7 de Contador de [Breath]",
+          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n[WhenUse] Gana +7 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -876,20 +876,20 @@
                   "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por el 20% del daño realizado"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 20% del daño infligido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo está aturdido, realiza +20% de daño en un Golpe Crítico"
+                  "desc": "[OnSucceedAttack] Si el objetivo está aturdido, inflige +20% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 }
               ]
             }
@@ -898,7 +898,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 2: P.E.C.A.R.",
-          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n<style=\"highlight\">Si la velocidad de esta unidad es más rapida que la del objetivo, gana Poder de Moneda +1 por cada 2 de Diferencia de Velocidad (máx 2)</style>\n[WhenUse] Gana +7 de Contador de [Breath]",
+          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Moneda +1 por cada 2 Dif. de Velocidad (máx 2)</style>\n[WhenUse] Gana +7 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -906,23 +906,23 @@
                   "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por el 30% del daño realizado"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 30% del daño infligido"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [MarkOfButler]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [MarkOfButler]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo está aturdido, realiza un +40% de daño en un Golpe Crítico"
+                  "desc": "[OnSucceedAttack] Si el objetivo está aturdido, inflige +40% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
                 },
                 {
                   "desc": "[EnemyKill] Reutiliza la Habilidad una vez más en un objetivo aleatorio con [MarkOfButler]\n(No se activa nuevamente al Reutilizar. No se activa cuando no hay objetivos con [MarkOfButler] restantes)"
@@ -939,7 +939,7 @@
         {
           "level": 1,
           "name": "Mediocre",
-          "desc": "[OnSucceedEvade] Cura 3 Pc (3 veces por turno)",
+          "desc": "[OnSucceedEvade] Cura 3 PC (3 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -953,7 +953,7 @@
         {
           "level": 4,
           "name": "Mediocre",
-          "desc": "[OnSucceedEvade] Cura 3 PC (<style=\"highlight\">5</style> veces por turno)\n<style=\"highlight\">[OnSucceedEvade] Gana +1 de Contador de [Breath](5 veces por turno)</style>",
+          "desc": "[OnSucceedEvade] Cura 3 PC (<style=\"highlight\">5</style> veces por turno)\n<style=\"highlight\">[OnSucceedEvade] Gana +1 Contador de [Breath](5 veces por turno)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -971,20 +971,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Got a Screw Loose?",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "¿Te Falta un Tornillo?",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Vibration] Count equal to (([Vibration] Count on target)/2) (max 2)"
+                  "desc": "[OnSucceedAttack] Gana Contador de [Vibration] igual a ((Contador de [Vibration] en el objetivo)/2) (máx 2)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
                 }
               ]
             }
@@ -992,20 +992,20 @@
         },
         {
           "level": 2,
-          "name": "Got a Screw Loose?",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] At 5+ [Vibration] Count, Clash Power +2</style>",
+          "name": "¿Te Falta un Tornillo?",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\n<style=\"highlight\">[WhenUse] Con 5+ Contador de [Vibration], Poder de Choque +2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Vibration] Count equal to (([Vibration] Count on target)/2) (max <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Gana Contador de [Vibration] igual a ((Contador de [Vibration] en el objetivo)/2) (max <style=\"highlight\">3</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
                 }
               ]
             }
@@ -1013,20 +1013,20 @@
         },
         {
           "level": 4,
-          "name": "Got a Screw Loose?",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n[WhenUse] At <style=\"highlight\">4</style>+ [Vibration] Count, Clash Power +2",
+          "name": "¿Te Falta un Tornillo?",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\n[WhenUse] Con <style=\"highlight\">4</style>+ Contador de [Vibration], Poder de Choque +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [Vibration] Count equal to ([Vibration] Count on target) (max <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Gana Contador de [Vibration] igual a (Contador de [Vibration] en el objetivo) (máx <style=\"highlight\">4</style>)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">2</style> [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> Contador de [Vibration]"
                 }
               ]
             }
@@ -1039,21 +1039,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Compression Wind-up Spanner",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count",
+          "name": "Llave de Compresión a Cuerda",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target (max 5)"
+                  "desc": "[OnSucceedAttack] Gasta Contador de [Vibration] en sí misma, e inflige la misma cantidad de Contador de [Vibration] al objetivo (máx 5)"
                 }
               ]
             }
@@ -1061,21 +1061,21 @@
         },
         {
           "level": 2,
-          "name": "Compression Wind-up Spanner",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">At 5+ [Vibration] Count, Coin Power +1</style>",
+          "name": "Llave de Compresión a Cuerda",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\n<style=\"highlight\">Con 5+ Contador de [Vibration], Poder de Moneda +1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target (max 5)"
+                  "desc": "[OnSucceedAttack] Gasta Contador de [Vibration] en sí misma, e inflige la misma cantidad de Contador de [Vibration] al objetivo (máx 5)"
                 }
               ]
             }
@@ -1083,21 +1083,21 @@
         },
         {
           "level": 4,
-          "name": "Compression Wind-up Spanner",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\n<style=\"highlight\">[WhenUse] At 4+ [Vibration] Count, Clash Power +1</style>\nAt <style=\"highlight\">4</style>+ [Vibration] Count, Coin Power +1",
+          "name": "Llave de Compresión a Cuerda",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\n<style=\"highlight\">[WhenUse] Con 4+ Contador de [Vibration], Poder de Choque +1</style>\nCon <style=\"highlight\">4</style>+ Contador de [Vibration], Poder de Moneda +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Consume [Vibration] Count on self, and inflict the same amount of [Vibration] Count on target (max 5)"
+                  "desc": "[OnSucceedAttack] Gasta Contador de [Vibration] en sí misma, e inflige la misma cantidad de Contador de [Vibration] al objetivo (máx 5)"
                 }
               ]
             }
@@ -1110,27 +1110,27 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Percussive Maintenance",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\nConsume 10 [Vibration] Count on self to gain Coin Power +1",
+          "name": "Mantención a Golpes",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\nGasta 10 Contador de [Vibration] en sí misma para ganar Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -1138,27 +1138,27 @@
         },
         {
           "level": 4,
-          "name": "Percussive Maintenance",
-          "desc": "[WhenUse] Gain +2 [Vibration] Count\nConsume <style=\"highlight\">8</style> [Vibration] Count on self to gain Coin Power +1\n<style=\"highlight\">If the target has 6+ [Vibration], Coin Power +1</style>",
+          "name": "Mantención a Golpes",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\nGasta <style=\"highlight\">8</style> Contador de [Vibration] en sí misma para ganar Poder de Moneda +1\n<style=\"highlight\">Si el objetivo tiene 6+ Contador de [Vibration], Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by <style=\"highlight\">1</style>"
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; depués, reduce en <style=\"highlight\">1</style> el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -1171,16 +1171,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain 2 x ([Vibration] Count on self) as Shield HP (max 5)",
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 2 x (Contador de [Vibration] en sí misma) como HP de Escudo (máx 5)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Guard",
-          "desc": "[WhenUse] Gain 2 x ([Vibration] Count on self) as Shield HP (max <style=\"highlight\">10</style>)",
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 2 x (Contador de [Vibration] en sí misma) como HP de Escudo (máx <style=\"highlight\">10</style>)",
           "coinlist": [
             {}
           ]
@@ -1192,20 +1192,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Both of You, Shut Up",
+          "name": "Los Dos, Cállense",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gana 3 [PenanceFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst]"
                 }
               ]
             }
@@ -1213,23 +1213,23 @@
         },
         {
           "level": 2,
-          "name": "Both of You, Shut Up",
-          "desc": "<style=\"highlight\">At 7+ [RedEyeFirst], Coin Power +1\nAt 7+ [PenanceFirst], Clash Power +1</style>",
+          "name": "Los Dos, Cállense",
+          "desc": "<style=\"highlight\">Con 7+ [RedEyeFirst], Poder de Moneda +1\nCon 7+ [PenanceFirst], Poder de Choque +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 3 [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [Laceration]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 de [Laceration]</style>"
                 }
               ]
             }
@@ -1237,23 +1237,23 @@
         },
         {
           "level": 4,
-          "name": "Both of You, Shut Up",
-          "desc": "At 7+ [RedEyeFirst], Coin Power +1\nAt 7+ [PenanceFirst], Clash Power <style=\"highlight\">+2</style>",
+          "name": "Los Dos, Cállense",
+          "desc": "Con 7+ [RedEyeFirst], Poder de Moneda +1\nCon 7+ [PenanceFirst], Poder de Choque <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [PenanceFirst]\n<style=\"highlight\">[OnSucceedAttackHead] Gain 1 [PenanceFirst]</style>"
+                  "desc": "[OnSucceedAttack] Gana 3 [PenanceFirst]\n<style=\"highlight\">[OnSucceedAttackHead] Gana 1 [PenanceFirst]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1266,23 +1266,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "S.H. / S.F.",
-          "desc": "If the sum of [RedEyeFirst] and [PenanceFirst] is 20 or higher, Coin Power +1",
+          "name": "C.A. / C.E.",
+          "desc": "Si la suma de [RedEyeFirst] y [PenanceFirst] es igual a 20 o mayor, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gana 4 [PenanceFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gana 3 [RedEyeFirst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
@@ -1291,30 +1291,30 @@
         },
         {
           "level": 2,
-          "name": "S.H. / S.F.",
-          "desc": "If the sum of [RedEyeFirst] and [PenanceFirst] is 20 or higher, Coin Power +1\n<style=\"highlight\">If the target has 6+ [Laceration], Coin Power +1</style>",
+          "name": "C.A. / C.E.",
+          "desc": "Si la suma de [RedEyeFirst] y [PenanceFirst] es igual a 20 o mayor, Poder de Moneda +1\n<style=\"highlight\">Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 4 [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 3 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain [RedEyeFirst] equal to ([Laceration] on target/3) (max 2)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gana [RedEyeFirst] igual a ([Laceration] en el objetivo/3) (máx 2)</style>"
                 }
               ]
             }
@@ -1322,33 +1322,33 @@
         },
         {
           "level": 4,
-          "name": "S.H. / S.F.",
-          "desc": "If the sum of [RedEyeFirst] and [PenanceFirst] is <style=\"highlight\">15</style> or higher, Coin Power +1\nIf the target has 6+ [Laceration], Coin Power +1",
+          "name": "C.A. / C.E.",
+          "desc": "Si la suma de [RedEyeFirst] y [PenanceFirst] es igual a <style=\"highlight\">15</style> o mayor, Poder de Moneda +1\nSi el objetivo tiene 6+ de [Laceration], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 4 [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 3 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain [RedEyeFirst] equal to ([Laceration] on target/<style=\"highlight\">2</style>) (max <style=\"highlight\">3</style>)"
+                  "desc": "[OnSucceedAttack] Gana [RedEyeFirst] igual a ([Laceration] en el objetivo/<style=\"highlight\">2</style>) (máx <style=\"highlight\">3</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] At 7+ [RedEyeFirst], gain 1 [Agility] next turn (2 times per turn)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Con 7+ [RedEyeFirst], gana 1 [Agility] el próximo turno (2 veces por turno)</style>"
                 }
               ]
             }
@@ -1361,19 +1361,19 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Skullbuster",
-          "desc": "[BeforeUse] If [RedEyeFirst] and [PenanceFirst] are both at 15+, activate 'Serious Skullbuster' instead\nIf this unit's Speed is faster than the target's by 3 or more, Coin Power +1\n[WhenUse] At max SP, Coin Power +1\n- [EndSkill] If this effect activated, lose 15 SP",
+          "name": "Rompecráneos",
+          "desc": "[BeforeUse] Si tanto [RedEyeFirst] como [PenanceFirst] están en 15+, activa 'Rompecráneos Serio' en su lugar\nSi la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Moneda +1\n[WhenUse] Con PC Máx, Poder de Moneda +1\n- [EndSkill] Si este efecto es activado, pierde 15 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 7 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gana 7 [RedEyeFirst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 7 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gana 7 [PenanceFirst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
@@ -1381,10 +1381,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the lowest HP percentage by ([PenanceFirst]/3)% of each unit's max HP"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con el menor porcentaje de HP por ([PenanceFirst]/3)% del HP Máx de cada unidad"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the least SP by ([PenanceFirst] - 10) SP (min 0)"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con los menores PC por ([PenanceFirst] - 10) PC (mín 0)"
                 }
               ]
             }
@@ -1392,36 +1392,36 @@
         },
         {
           "level": 4,
-          "name": "Skullbuster",
-          "desc": "[BeforeUse] If [RedEyeFirst] and [PenanceFirst] are both at 15+, activate 'Serious Skullbuster' instead\nIf this unit's Speed <style=\"highlight\">is faster than the target's</style>, Coin Power +1\n[WhenUse] At max SP, <style=\"highlight\">Clash Power +2</style> and Coin Power +1\n- [EndSkill] If this effect activated, lose 15 SP",
+          "name": "Rompecráneos",
+          "desc": "[BeforeUse] Si tanto [RedEyeFirst] como [PenanceFirst] están en 15+, activa 'Rompecráneos Serio' en su lugar\nSi la Velocidad de esta unidad <style=\"highlight\">es mayor que la del objetivo</style>, Poder de Moneda +1\n[WhenUse] Con PC Máx, <style=\"highlight\">Poder de Choque +2</style> y Poder de Moneda +1\n- [EndSkill] Si este efecto es activado, pierde 15 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 7 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 7 [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 7 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 7 [PenanceFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gain 2 [PenanceFirst]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gana 2 [PenanceFirst]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the lowest HP percentage by ([PenanceFirst]/<style=\"highlight\">2</style>)% of each unit's max HP"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con el menor porcentaje de HP por ([PenanceFirst]/<style=\"highlight\">2</style>)% del HP Máx de cada unidad"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the least SP by ([PenanceFirst] - 10) SP (min 0)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con los menores PC por ([PenanceFirst] - 10) PC (mín 0)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1434,20 +1434,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Mealtime, Bedtime",
+          "name": "Hora de Comer, Hora de Dormir",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst] (once per turn)"
+                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst] (una vez por turno)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [PenanceFirst] (once per turn)"
+                  "desc": "[OnSucceedAttack] Gana 2 [PenanceFirst] (una vez por turno)"
                 }
               ]
             }
@@ -1455,20 +1455,20 @@
         },
         {
           "level": 4,
-          "name": "Mealtime, Bedtime",
+          "name": "Hora de Comer, Hora de Dormir",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [RedEyeFirst] (once per turn)\n<style=\"highlight\">- At less than 7 [RedEyeFirst], gain +1 additional [RedEyeFirst]</style>"
+                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst] (una vez por turno)\n<style=\"highlight\">- Con menos de 7 [RedEyeFirst], gana +1 [RedEyeFirst] adicional</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [PenanceFirst] (once per turn)\n<style=\"highlight\">- At less than 7 [PenanceFirst], gain +1 additional [PenanceFirst]</style>"
+                  "desc": "[OnSucceedAttack] Gana 2 [PenanceFirst] (una vez por turno)\n<style=\"highlight\">- Con menos de 7 [PenanceFirst], gain +1 [PenanceFirst] adicional</style>"
                 }
               ]
             }
@@ -1482,12 +1482,12 @@
         {
           "level": 3,
           "name": "Serious Skullbuster",
-          "desc": "[WhenUse] Consume all [RedEyeFirst] and [PenanceFirst] on self\n- Coin Power +1 for every 5 [RedEyeFirst] consumed (max 4)\n- Base Power +1 for every 5 [PenanceFirst] consumed (max 4)\n[EndSkill] Lose 15 SP and gain [Emptiness] next turn",
+          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el próximo turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to ([RedEyeFirst] consumed - 15) on target (max 5)"
+                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastados - 15) en el objetivo (máx 5)"
                 }
               ]
             },
@@ -1495,16 +1495,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every [RedEyeFirst] and [PenanceFirst] consumed (max 100%)"
+                  "desc": "Inflige +2.5% de daño por cada [RedEyeFirst] y [PenanceFirst] gastados (máx 100%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the lowest HP percentage by ([PenanceFirst] consumed / 2)% of each unit's max HP\n- Heal 1 additional ally for every 2 highest Reson. (max 2 more allies)"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con el menor porcentaje de HP por ([PenanceFirst] gastado / 2)% del HP Máx de cada unidad\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the least SP by ([PenanceFirst] consumed - 10) SP\n- Heal 1 additional ally for every 2 highest Reson. (max 2 more allies)"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con los menores PC por ([PenanceFirst] consumed - 10) PC\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] and 2 [Reduction] next turn (once per turn)"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el próximo turno (una vez por turno)"
                 }
               ]
             }
@@ -1513,12 +1513,12 @@
         {
           "level": 4,
           "name": "Serious Skullbuster",
-          "desc": "[WhenUse] Consume all [RedEyeFirst] and [PenanceFirst] on self\n- Coin Power +1 for every 5 [RedEyeFirst] consumed (max 4)\n- Base Power +1 for every 5 [PenanceFirst] consumed (max 4)\n[EndSkill] Lose 15 SP and gain [Emptiness] next turn",
+          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el próximo turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [Laceration] equal to ([RedEyeFirst] consumed - 15) on target (max 5)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastados - 15) en el objetivo (máx 5)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -1526,16 +1526,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "Deal <style=\"highlight\">+4%</style> more damage for every [RedEyeFirst] and [PenanceFirst] consumed (max <style=\"highlight\">160%</style>)"
+                  "desc": "Inflige <style=\"highlight\">+4%</style> de daño por cada [RedEyeFirst] y [PenanceFirst] gastados (máx <style=\"highlight\">160%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the lowest HP percentage by <style=\"highlight\">([PenanceFirst] consumed)%</style> of each unit's max HP\n- Heal 1 additional ally for every 2 highest Reson. (max 2 more allies)"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con el menor porcentaje de HP por <style=\"highlight\">([PenanceFirst] gastada)%</style> del HP Máx de cada unidad\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self and 1 ally with the least SP by ([PenanceFirst] consumed - <style=\"highlight\">5</style>) SP\n- Heal 1 additional ally for every 2 highest Reson. (max 2 more allies)"
+                  "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con los menores PC por ([PenanceFirst] gastada - <style=\"highlight\">5</style>) PC\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] and 2 [Reduction] next turn (once per turn)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el próximo turno (una vez por turno)<style=\"highlight\"></style>"
                 }
               ]
             }
