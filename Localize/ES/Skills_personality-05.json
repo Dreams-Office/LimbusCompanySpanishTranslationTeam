@@ -27,7 +27,7 @@
         {
           "level": 2,
           "name": "Nosotros Recordamos",
-          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el próximo turno",
+          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -48,7 +48,7 @@
         {
           "level": 4,
           "name": "Nosotros Recordamos",
-          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el próximo turno",
+          "desc": "[DefeatDuel] Gana 1 de Daño de Envidia Aumentado el siguiente turno",
 	  "coinlist": [
             {
               "coindescs": [
@@ -147,7 +147,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             },
@@ -159,7 +159,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Fragilidad a la Envidia el próximo turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 Fragilidad a la Envidia el siguiente turno"
                 }
               ]
             }
@@ -173,7 +173,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             },
@@ -185,7 +185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 2 de Fragilidad a la Envidia el próximo turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Marca de Venganza, Inflige 2 Fragilidad a la Envidia el siguiente turno"
                 }
               ]
             }
@@ -335,7 +335,7 @@
         {
           "level": 1,
           "name": "Acupuntura",
-          "desc": "[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -357,7 +357,7 @@
         {
           "level": 2,
           "name": "Acupuntura",
-          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</style>\n[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
+          "desc": "<style=\"highlight\">[StartBattle] Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</style>\n[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -379,7 +379,7 @@
         {
           "level": 3,
           "name": "Acupuntura",
-          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
+          "desc": "[StartBattle_Force] <color=#EBCAA2>Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)</color>\n[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -401,7 +401,7 @@
         {
           "level": 4,
           "name": "Acupuntura",
-          "desc": "<style=\"highlight\">Con 7+ de [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +3 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el próximo turno",
+          "desc": "<style=\"highlight\">Con 7+ de [Breath], Poder de Moneda +1</style>\n[StartBattle] Aplica 1 de [BladeResultUpTier2] a (Reson-A más alta) otros aliados del Linaje de la Espada en orden ascendente de sus Velocidades (del lento al más rapido, máx 2 veces)\n<style=\"highlight\">- Si se encuentran 6 o más aliados del Linaje de la Espada en este Encuentro, Entonces aplica 2</style>\n[WhenUse] Gana +3 Contador de [Breath]\n[WinDuel] Gana 1 de Poder Cortante Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -449,7 +449,7 @@
         {
           "level": 1,
           "name": "Derrocar",
-          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el próximo turno (1 vez máx)",
+          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (1 vez máx)",
           "coinlist": [
             {
               "coindescs": [
@@ -463,7 +463,7 @@
         {
           "level": 4,
           "name": "Derrocar",
-          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el próximo turno (1 vez más)\n<style=\"highlight\">Inflige +0.5% de daño por cada 1% de HP perdido (Máx 25%)</style>",
+          "desc": "[WhenUse] Gana 1 de Poder Cortante Aumentado el siguiente turno (1 vez más)\n<style=\"highlight\">Inflige +0.5% de daño por cada 1% de HP perdido (Máx 25%)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -493,7 +493,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 [Paralysis] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 5 [Paralysis] el siguiente turno"
                 }
               ]
             }
@@ -513,7 +513,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 [Paralysis] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 5 [Paralysis] el siguiente turno"
                 }
               ]
             }
@@ -583,7 +583,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 [AttackDown]"
                 }
               ]
             }
@@ -601,7 +601,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 [AttackDown]"
                 }
               ]
             }
@@ -619,7 +619,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 4+ [Burst], inflige 2 de [AttackDown]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 4+ de [Burst], inflige 2 [AttackDown]"
                 }
               ]
             }
@@ -633,7 +633,7 @@
         {
           "level": 3,
           "name": "Implacable",
-          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 de [AttackDown]",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -644,7 +644,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown] el próximo turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 [AttackDown] el siguiente turno"
                 }
               ]
             }
@@ -653,7 +653,7 @@
         {
           "level": 4,
           "name": "Implacable",
-          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 3+ de [Burst], Poder de Choque +1</style>\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 de [AttackDown]",
+          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 3+ de [Burst], Poder de Choque +1</style>\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige 2 [AttackDown]",
           "coinlist": [
             {},
             {},
@@ -664,7 +664,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 de [AttackDown] el próximo turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Burst], inflige 2 [AttackDown] el siguiente turno"
                 }
               ]
             }
@@ -862,7 +862,7 @@
         {
           "level": 4,
           "name": "Estudio Inmersivo",
-          "desc": "[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n<style=\"highlight\">[WhenUse] Gana +6 de [Aggro] para esta Ranura de Habilidad el próximo turno</style>",
+          "desc": "[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n<style=\"highlight\">[WhenUse] Gana +6 de [Aggro] para esta Ranura de Habilidad el siguiente turno</style>",
           "coinlist": [
             {
               "coindescs": [

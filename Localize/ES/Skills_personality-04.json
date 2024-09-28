@@ -26,7 +26,7 @@
         },
         {
           "level": 2,
-          "name": "C.E.",
+          "name": "E.C.",
           "desc": "Con 10+ Contador de [Charge], inflige +10% de daño",
           "coinlist": [
             {
@@ -47,7 +47,7 @@
         },
         {
           "level": 4,
-          "name": "C.E.",
+          "name": "E.C.",
           "desc": "Con 10+ Contador de [Charge], inflige +10% de daño\nCon 15+ de Contador de Carga, inflige +10% de daño",
           "coinlist": [
             {
@@ -79,7 +79,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Con 10+ Contador de [Charge], inflige 1 de Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttackHead] Con 10+ Contador de [Charge], inflige 1 Fragilidad a lo Cortante"
                 }
               ]
             },
@@ -101,7 +101,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 1 de Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 1 Fragilidad a lo Cortante"
                 }
               ]
             },
@@ -112,7 +112,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +20% de daño"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 1 [Agility] el próximo turno"
+                  "desc": "[EnemyKill] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -126,7 +126,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 2 de Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 2 Fragilidad a lo Cortante"
                 }
               ]
             },
@@ -137,7 +137,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +30% de daño"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 [Agility] el próximo turno turno"
+                  "desc": "[EnemyKill] Gana 3 [Agility] el siguiente turno turno"
                 }
               ]
             }
@@ -302,7 +302,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 }
               ]
             },
@@ -312,7 +312,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 }
               ]
             }
@@ -329,7 +329,7 @@
                   "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 }
               ]
             },
@@ -339,7 +339,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 }
               ]
             }
@@ -356,7 +356,7 @@
                   "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Nivel Ofensivo Reducido"
                 }
               ]
             },
@@ -366,7 +366,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 }
               ]
             }
@@ -379,7 +379,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "E.F.E",
+          "name": "D.D.F.",
           "desc": "[WhenUse] Gana 4 de [Breath]\nCon 10+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
@@ -407,7 +407,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de [Burst] y +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Activa [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackHead] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -415,7 +415,7 @@
         },
         {
           "level": 4,
-          "name": "E.F.E",
+          "name": "D.D.F.",
           "desc": "[WhenUse] Gana 4 de [Breath]\nGana Poder de Moneda +1 por cada 7 de [Breath] en sí misma (Máx 2)",
           "coinlist": [
             {
@@ -447,7 +447,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Burst] y +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -503,7 +503,7 @@
         {
           "level": 2,
           "name": "Guerra Total",
-          "desc": "Si el objetivo tiene +6 de [Combustion], Poder de Choque +1",
+          "desc": "Si el objetivo tiene 6+ de [Combustion], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
@@ -524,7 +524,7 @@
         {
           "level": 4,
           "name": "Guerra Total",
-          "desc": "Si el objetivo tiene +6 de [Combustion], Poder de Choque +1\n<style=\"highlight\">Si el objetivo tiene 10+ de [Combustion], Poder de Moneda +1 </style>",
+          "desc": "Si el objetivo tiene 6+ de [Combustion], Poder de Choque +1\n<style=\"highlight\">Si el objetivo tiene 10+ de [Combustion], Poder de Moneda +1 </style>",
           "coinlist": [
             {
               "coindescs": [
@@ -565,7 +565,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], inflige +20% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Combustion], inflige +20% de daño"
                 }
               ]
             }
@@ -574,7 +574,7 @@
         {
           "level": 2,
           "name": "Cuchillazo de Mano Ardiente",
-          "desc": "Si el objetivo tiene +6 de [Combustion], Poder de Choque +1",
+          "desc": "Si el objetivo tiene 6+ de [Combustion], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
@@ -586,7 +586,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], inflige +30% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Combustion], inflige +30% de daño"
                 }
               ]
             }
@@ -595,7 +595,7 @@
         {
           "level": 4,
           "name": "Cuchillazo de Mano Ardiente",
-          "desc": "Si el objetivo tiene +6 de [Combustion], Poder de Choque +1\n<style=\"highlight\">Si el objetivo tiene +6 de [Combustion], Poder de Moneda +1</style>",
+          "desc": "Si el objetivo tiene 6+ de [Combustion], Poder de Choque +1\n<style=\"highlight\">Si el objetivo tiene 6+ de [Combustion], Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -607,7 +607,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene +6 de [Combustion], inflige +50% de daño"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de [Combustion], inflige +50% de daño"
                 }
               ]
             }
@@ -621,7 +621,7 @@
         {
           "level": 3,
           "name": "Hendidura en Llamas",
-          "desc": "Si el objetivo tiene +6 de [Combustion], Poder de Choque +1",
+          "desc": "Si el objetivo tiene 6+ de [Combustion], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
@@ -656,7 +656,7 @@
         {
           "level": 4,
           "name": "Hendidura en Llamas",
-          "desc": "Si el objetivo tiene +6 de [Combustion], Poder de Choque +1\n<style=\"highlight\">Si el objetivo tiene +6 de [Combustion], Poder de Moneda +1 </style>",
+          "desc": "Si el objetivo tiene 6+ de [Combustion], Poder de Choque +1\n<style=\"highlight\">Si el objetivo tiene 6+ de [Combustion], Poder de Moneda +1 </style>",
           "coinlist": [
             {
               "coindescs": [
@@ -876,7 +876,7 @@
                   "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 20% del daño infligido"
@@ -906,7 +906,7 @@
                   "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 30% del daño infligido"
@@ -1130,7 +1130,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -1158,7 +1158,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; depués, reduce en <style=\"highlight\">1</style> el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; depués, reduce en <style=\"highlight\">1</style> el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -1348,7 +1348,7 @@
                   "desc": "[OnSucceedAttack] Gana [RedEyeFirst] igual a ([Laceration] en el objetivo/<style=\"highlight\">2</style>) (máx <style=\"highlight\">3</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Con 7+ [RedEyeFirst], gana 1 [Agility] el próximo turno (2 veces por turno)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Con 7+ [RedEyeFirst], gana 1 [Agility] el siguiente turno (2 veces por turno)</style>"
                 }
               ]
             }
@@ -1482,7 +1482,7 @@
         {
           "level": 3,
           "name": "Serious Skullbuster",
-          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el próximo turno",
+          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 de [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 de [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1504,7 +1504,7 @@
                   "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con los menores PC por ([PenanceFirst] consumed - 10) PC\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el próximo turno (una vez por turno)"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el siguiente turno (una vez por turno)"
                 }
               ]
             }
@@ -1513,7 +1513,7 @@
         {
           "level": 4,
           "name": "Serious Skullbuster",
-          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el próximo turno",
+          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 de [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 de [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1535,7 +1535,7 @@
                   "desc": "[OnSucceedAttack] Cura a sí misma y a un aliado con los menores PC por ([PenanceFirst] gastada - <style=\"highlight\">5</style>) PC\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el próximo turno (una vez por turno)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el siguiente turno (una vez por turno)<style=\"highlight\"></style>"
                 }
               ]
             }

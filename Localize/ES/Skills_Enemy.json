@@ -460,7 +460,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Atadura el siguiente turno"
                 }
               ]
             }
@@ -1111,7 +1111,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 Atadura el siguiente turno"
                 }
               ]
             }
@@ -1273,7 +1273,7 @@
         {
           "level": 1,
           "name": "Danza de Emoción",
-          "desc": "[WhenUse] Gana 1 de Poder de Ataque Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -1538,21 +1538,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige1 Tremor el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Tremor el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige1 Tremor el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Tremor el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige1 Tremor el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Tremor el siguiente turno"
                 }
               ]
             }
@@ -1565,7 +1565,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blockade",
+          "name": "Bloqueado",
           "desc": "",
           "coinlist": [
             {}
@@ -1578,13 +1578,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Neutralize Target",
+          "name": "Neutralizar Objetivo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Tremor el siguiente turno"
                 }
               ]
             },
@@ -1592,7 +1592,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -1605,8 +1605,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Activate HP Bullet",
-          "desc": "[WhenUse] Heal 10 HP",
+          "name": "Activando Bala HP",
+          "desc": "[WhenUse] Cura 10 HP",
           "coinlist": [
             {}
           ]
@@ -1618,13 +1618,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Takedown",
+          "name": "Derribo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 Tremor Count next turn"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de Tremor el siguiente turno"
                 }
               ]
             }
@@ -1637,8 +1637,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shelter",
-          "desc": "[WinDuel] Apply 1 Poder Defensivo Aumentado to 2 random allies next turn",
+          "name": "Refugio",
+          "desc": "[WinDuel] Aplica 1 Poder Defensivo Aumentado a 2 aliados al azar el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -1650,13 +1650,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blockade",
+          "name": "Bloqueado",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttackHead] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -1698,8 +1698,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cover",
-          "desc": "[WinDuel] Apply 2 Protection to a random other ally next turn",
+          "name": "A Cubierto",
+          "desc": "[WinDuel] Aplica 2 Protección a un aliado al azar el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -1711,7 +1711,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Plunge In",
+          "name": "Insertar",
           "desc": "",
           "coinlist": [
             {},
@@ -1719,7 +1719,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1732,20 +1732,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nail Pin",
+          "name": "Clavar Clavos",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             }
@@ -1771,14 +1771,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Knock",
+          "name": "Martillear",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze and Poder Defensivo Reducido next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis y Poder Defensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -1791,13 +1791,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hammer",
+          "name": "Martillo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 Atadura el siguiente turno"
                 }
               ]
             }
@@ -1810,7 +1810,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Inquisition",
+          "name": "Inquisición",
           "desc": "",
           "coinlist": [
             {
@@ -1851,27 +1851,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rough Nailing",
+          "name": "Clavado Brusco",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. y Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. y Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp and Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. y Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1884,14 +1884,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aggressive Preaching",
-          "desc": "[DefeatDuel] Gana 2 Fragile next turn",
+          "name": "Sermón Agresivo",
+          "desc": "[DefeatDuel] Gana 2 Frágil el siguiente turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil el siguiente turno"
                 }
               ]
             }
@@ -1904,13 +1904,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Dare!",
+          "name": "¡Te Atreves!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             }
@@ -1937,14 +1937,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vigorous Hammering",
+          "name": "Martilleo Vigoroso",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bind and 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Atadura y 2 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1957,13 +1957,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Oppressive Preaching",
-          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Negativo el siguiente turno",
+          "name": "Sermón Opresivo",
+          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Reducido",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -1976,7 +1976,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Assertive Inquisition",
+          "name": "Inquisición Asertiva",
           "desc": "",
           "coinlist": [
             {},
@@ -1990,7 +1990,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Inflige 10 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Clavos N Corp., inflige 10 Atadura el siguiente turno"
                 }
               ]
             }
@@ -2003,13 +2003,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thrusting Nail",
+          "name": "Clavo Penetrante",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp. el siguiente turno"
                 }
               ]
             }
@@ -2035,13 +2035,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Congregate",
-          "desc": "[WinDuel] Apply 1 Fanático to 2 random allies next turn",
+          "name": "Congregar",
+          "desc": "[WinDuel]  Fanático a 2 aliados al azar el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Infllige 2 Sangrado el siguiente turno"
                 }
               ]
             },
@@ -2055,8 +2055,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hardy Faith",
-          "desc": "[WhenUse] Gana 1 Protection",
+          "name": "Fe Robusta",
+          "desc": "[WhenUse] Gana 1 Protección",
           "coinlist": [
             {}
           ]
@@ -2068,13 +2068,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ruling Hammer",
+          "name": "Martillo Gobernante",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Bind and 2 Poder de Ataque Negativo el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Atadura y 2 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -2106,13 +2106,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unite",
-          "desc": "[WinDuel] Heal 15 SP for 2 allies with the least SP",
+          "name": "Unir",
+          "desc": "[WinDuel] Cura 15 PC a 2 aliados con los menores PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             },
@@ -2126,7 +2126,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ponderous Inquisition",
+          "name": "Inquisición Ponderosa",
           "desc": "",
           "coinlist": [
             {
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Inflige 10 Attack Power Down and Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+.Clavos N Corp, inflige 10 Poder de Ataque Reducido y Parálisis el siguiente turno"
                 }
               ]
             }
@@ -2153,27 +2153,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spike Drive",
+          "name": "Clavado Punzante",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp. el siguiente turno"
                 }
               ]
             }
@@ -2186,13 +2186,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drive",
+          "name": "Clavado",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado y 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 Sangrado y 2 Frágil el siguiente turno"
                 }
               ]
             },
@@ -2206,13 +2206,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hammers, Heed Me…!",
-          "desc": "[WinDuel] Apply 1 Fanático to all allies next turn",
+          "name": "¡Martillos, Escuchadme...!",
+          "desc": "[WinDuel] Aplica 1 Fanático a todos los aliados el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 SP for 2 allies with the least SP"
+                  "desc": "[OnSucceedAttack] Cura 10 PC a 2 aliados con los menores PC"
                 }
               ]
             }
@@ -2225,7 +2225,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Are Cleansed of Sin",
+          "name": "Estás Absuelto de Pecado",
           "desc": "",
           "coinlist": [
             {
@@ -2238,7 +2238,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Stagger them"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Clavos N Corp., es Aturdido"
                 }
               ]
             }
@@ -2251,8 +2251,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stalwart Faith",
-          "desc": "[WhenUse] Gana 2 Protection",
+          "name": "Fe Inquebrantable",
+          "desc": "[WhenUse] Gana 2 Protección",
           "coinlist": [
             {}
           ]
@@ -2264,27 +2264,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spike Drive",
-          "desc": "At less than 50% HP, Inflige +1 Clavos N Corp",
+          "name": "Clavado Punzante",
+          "desc": "A menos de 50% HP, inflige +1 Clavos N Corp",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Clavos N Corp. el siguiente turno"
                 }
               ]
             }
@@ -2297,13 +2297,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Drive",
+          "name": "Clavado",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Bleed next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -2316,8 +2316,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Great Task Will Be Done…!",
-          "desc": "[WhenUse] Apply 1 Fanático to all allies next turn",
+          "name": "¡El Gran Deber Ha De Ser Cumplido…!",
+          "desc": "[WhenUse] Aplica 1 Fanático a todos los aliados el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -2329,7 +2329,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Be Cleansed… of Sin!",
+          "name": "¡Absuélvete… del Pecado!",
           "desc": "",
           "coinlist": [
             {
@@ -2342,7 +2342,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Stagger them"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Clavos N Corp., provoca Aturdimiento"
                 }
               ]
             }
@@ -2355,20 +2355,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Annihilate Heretics",
-          "desc": "If the target has Clavos N Corp, +100% Damage",
+          "name": "Aniquilar Herejes",
+          "desc": "Si el objetivo tiene Clavos N Corp., +100% de Daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 de Ruptura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 10 Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 Frágil el siguiente turno"
                 }
               ]
             }
@@ -2381,13 +2381,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Foolishness…!",
+          "name": "¡Tonterías…!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp. el siguiente turno"
                 }
               ]
             }
@@ -2400,7 +2400,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strike Down",
+          "name": "Trazo Mortal",
           "desc": "",
           "coinlist": [
             {}
@@ -2639,12 +2639,12 @@
         {
           "level": 1,
           "name": "Kieegikhik",
-          "desc": "[WhenUse] Gana 2 Protection",
+          "desc": "[WhenUse] Gana 2 Protección",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -2842,7 +2842,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttackHead] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -2891,7 +2891,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 Defense Level Down next turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil el siguiente turno"
                 }
               ]
             }
@@ -2938,7 +2938,7 @@
         {
           "level": 1,
           "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gana 2 Protection",
+          "desc": "[WhenUse] Gana 2 Protección",
           "coinlist": [
             {}
           ]
@@ -3004,7 +3004,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -3018,7 +3018,7 @@
         {
           "level": 1,
           "name": "Enter Defensive Mode",
-          "desc": "[WhenUse] Gana 2 Protection",
+          "desc": "[WhenUse] Gana 2 Protección",
           "coinlist": [
             {}
           ]
@@ -3099,7 +3099,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 5 Paralyze next turn"
@@ -3175,7 +3175,7 @@
                   "desc": "[OnSucceedAttack] Inflige Tremor by the number of Coins that hit last turn"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -3232,14 +3232,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -3323,7 +3323,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -3575,7 +3575,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -3674,7 +3674,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Frágil el siguiente turno"
                 }
               ]
             }
@@ -3748,7 +3748,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -3886,7 +3886,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Frágil el siguiente turno"
                 }
               ]
             },
@@ -3934,7 +3934,7 @@
                   "desc": "[OnSucceedAttack] Give 2 de Poder de Ataque Aumentado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil el siguiente turno"
                 }
               ]
             }
@@ -4069,7 +4069,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -4272,7 +4272,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 }
               ]
             }
@@ -4312,7 +4312,7 @@
         {
           "level": 1,
           "name": "Fluid Guard",
-          "desc": "[WhenUse] Heal 5% of Max HP\nGana 2 Fragile next turn\n[EndBattle] Remove all [Tipsiness]",
+          "desc": "[WhenUse] Heal 5% of Max HP\nGana 2 Frágil el siguiente turno\n[EndBattle] Remove all [Tipsiness]",
           "coinlist": [
             {
               "coindescs": [

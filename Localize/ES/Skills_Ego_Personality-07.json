@@ -6,13 +6,13 @@
         {
           "level": 1,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
+          "abName": "Sandolfo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, Inflige 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
+                  "desc": "[OnSucceedAttackHead] [OnSucceedAttackHead] Selecciona aleatoriamente uno de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Después, inflige 1 de Potencia del efecto seleccionado el siguiente turno.\nRepite el proceso anterior (2 + (Reson.-A de Gula más alta)) veces. (5 veces máx)"
                 }
               ]
             }
@@ -21,16 +21,16 @@
         {
           "level": 3,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
+          "abName": "Sandolfo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, Inflige 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times max)"
+                  "desc": "[OnSucceedAttackHead] Selecciona aleatoriamente uno de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Después, inflige 1 de Potencia del efecto seleccionado el siguiente turno.\nRepite el proceso anterior (2 + (Reson.-A de Gula más alta)) veces. (5 veces máx)"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly select one of the following effects: 1 de Contador de Temple, 1 Charge Count, 1 Haste, 1 Nivel Ofensivo Aumentado, or 1 Defense Level Up. Then, apply the selected effect to 2 random allies next turn"
+                  "desc": "[EnemyKill] Selecciona aleatoriamente uno de los siguientes efectos: 1 Contador de [Breath], 1 Contador de [Charge], 1 [Agility], 1 Nivel Ofensivo Aumentado, o 1 Nivel Defensivo Aumentado. Después, aplica el efecto seleccionado a 2 aliados al azar el siguiente turno"
                 }
               ]
             }
@@ -39,16 +39,16 @@
         {
           "level": 4,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
+          "abName": "Sandolfo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, Inflige 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Selecciona aleatoriamente uno de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Después, inflige 1 de Potencia del efecto seleccionado el siguiente turno.\nRepite el proceso anterior (2 + (Reson.-A de Gula más alta)) veces. (7 veces máx)"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly select one of the following effects: 2 de Contador de Temple, 2 Charge Count, 2 Haste, 2 Nivel Ofensivo Aumentado, or 2 Defense Level Up. Then, apply the selected effect to 2 random allies next turn"
+                  "desc": "[EnemyKill] Selecciona aleatoriamente uno de los siguientes efectos: 2 Contador de [Breath], 2 Contador de [Charge], 2 [Agility], 2 Nivel Ofensivo Aumentado, o 2 Nivel Defensivo Aumentado. Después, aplica el efecto seleccionado a 2 aliados al azar el siguiente turno"
                 }
               ]
             }
@@ -62,13 +62,13 @@
         {
           "level": 1,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP",
+          "abName": "Sandolfo",
+          "desc": "[CantIdentify]\nSelecciona la unidad con los mayores PC\n[BeforeAttack] El objetivo pierde 10 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, Inflige 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Selecciona aleatoriamente uno de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Después, inflige 1 de Potencia del efecto seleccionado el siguiente turno.\nRepite el proceso anterior (2 + (Reson.-A de Gula más alta)) veces. (7 veces máx)"
                 }
               ]
             }
@@ -77,13 +77,13 @@
         {
           "level": 3,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP",
+          "abName": "Sandolfo",
+          "desc": "[CantIdentify]\nSelecciona la unidad con los mayores PC\n[BeforeAttack] El objetivo pierde 10 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, Inflige 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Selecciona aleatoriamente uno de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Después, inflige 1 de Potencia del efecto seleccionado el siguiente turno.\nRepite el proceso anterior (2 + (Reson.-A de Gula más alta)) veces. (7 veces máx)"
                 }
               ]
             }
@@ -92,13 +92,13 @@
         {
           "level": 4,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets the unit with the Most SP\nIf the main target's SP is higher than 15, Atk Weight +1\n[BeforeAttack] Target loses 10 SP",
+          "abName": "Sandolfo",
+          "desc": "[CantIdentify]\nSelecciona la unidad con los mayores PC\nSi los PC del objetivo principal son mayores a 15, Alcance de Atq +1\n[BeforeAttack] El objetivo pierde 10 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Randomly select one of the following effects: Burn, Bleed, Tremor, Rupture, or Sinking. Then, Inflige 1 Potency of the selected effect next turn.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times max)"
+                  "desc": "[OnSucceedAttack] Selecciona aleatoriamente uno de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Después, inflige 1 de Potencia del efecto seleccionado el siguiente turno.\nRepite el proceso anterior (2 + (Reson.-A de Gula más alta)) veces. (7 veces máx)"
                 }
               ]
             }
@@ -113,18 +113,18 @@
           "level": 1,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]",
+          "desc": "[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno\n[EndSkill] El siguiente Turno, gana 20 [Binding], 1 [ForwardToTheKing], y 1 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -134,21 +134,21 @@
           "level": 3,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 1 [Enhancement]",
+          "desc": "[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno\n[EndSkill] El siguiente Turno, gana 20 [Binding], 1 [ForwardToTheKing], y 1 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -158,21 +158,21 @@
           "level": 4,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[EndSkill] For 3 turns, lose 10 SP at Turn End\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheBoundKing], and 2 [Enhancement]",
+          "desc": "[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno\n[EndSkill] el siguiente turno, gana 20 [Binding], 1 [ForwardToTheBoundKing], y 2 [Enhancement]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -187,21 +187,21 @@
           "level": 1,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding] and 3 [Enhancement] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max 2)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[EndSkill] el siguiente turno, gana 20 [Binding], 1 [ForwardToTheKing], y 2 [Enhancement]\n[EndSkill] el siguiente turno, aplica 20 [Binding] y 3 [Enhancement] a 2 otros aliados en el orden de Despliegue\n- El número de aliados afectados aumenta por (Reson. de Melancolía u Orgullo más alta - 2) (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -211,21 +211,21 @@
           "level": 3,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 2 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding], 3 [Enhancement], and 1 <style=\"highlight\">[AzureDamageUp]</style> to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max <style=\"highlight\">3</style>)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[EndSkill] el siguiente turno, gana 20 [Binding], 1 [ForwardToTheKing], y 2 [Enhancement]\n[EndSkill] el siguiente turno, aplica 20 [Binding], 3 [Enhancement], y 1 <style=\"highlight\">[AzureDamageUp]</style> a 2 otros aliados en el orden de Despliegue\n- El número de aliados afectados aumenta por (Reson. de Melancolía u Orgullo más alta - 2) (máx <style=\"highlight\">3</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -235,21 +235,21 @@
           "level": 4,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[CantIdentify]\nTargets randomly\n[EndSkill] Next turn, gain 20 [Binding], 1 [ForwardToTheKing], and 3 [Enhancement]\n[EndSkill] Next turn, apply 20 [Binding], 3 [Enhancement], and <style=\"highlight\">2</style> [AzureDamageUp] to 2 other allies in the order of Deployment\n- The number of affected allies grows by (highest Gloom or Pride Reson. - 2) (max <style=\"highlight\">4</style>)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[EndSkill] el siguiente turno, gana 20 [Binding], 1 [ForwardToTheKing], y 3 [Enhancement]\n[EndSkill] el siguiente turno, aplica 20 [Binding], 3 [Enhancement], y <style=\"highlight\">2</style> [AzureDamageUp] a 2 otros aliados en el orden de Despliegue\n- El número de aliados afectados aumenta por (Reson. de Melancolía u Orgullo más alta - 2) (máx <style=\"highlight\">4</style>)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -263,24 +263,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fell Bullet",
+          "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. +2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n- Si era una Reson.-A, gana (Reson. más alta +2) [BoseProjektil] en su lugar\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 3)\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "+5% Damage on Critical Hit for every [BoseProjektil] (max 35%)"
+                  "desc": "+5% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 35%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 3 [Sinking]"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Si esta unidad tiene el efecto [Bullet], gana 1 [Bullet] (2 veces por Encuentro)"
                 }
               ]
             }
@@ -288,24 +288,24 @@
         },
         {
           "level": 3,
-          "name": "Fell Bullet",
+          "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. +2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max <style=\"highlight\">4</style>)\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n- Si era una Reson.-A, gana (Reson. más alta +2) [BoseProjektil] en su lugar\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx <style=\"highlight\">4</style>)\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "+<style=\"highlight\">10</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">70</style>%)"
+                  "desc": "+<style=\"highlight\">10</style>% de Daño en Golpe Crítico por cada [BoseProjektil] (máx <style=\"highlight\">70</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Sinking]"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (2 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Si esta unidad tiene el efecto [Bullet], gana 1 [Bullet] (2 veces por Encuentro)"
                 }
               ]
             }
@@ -313,24 +313,24 @@
         },
         {
           "level": 4,
-          "name": "Fell Bullet",
+          "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. +2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max <style=\"highlight\">7</style>)\n[BeforeAttack] Gain +1 [Breath] Count\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n- Si era una Reson.-A, gana (Reson. más alta +2) [BoseProjektil] en su lugar\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx <style=\"highlight\">7</style>)\n[BeforeAttack] Gana +1 Contador de [Breath]\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "+<style=\"highlight\">15</style>% Damage on Critical Hit for every [BoseProjektil] (max <style=\"highlight\">105</style>%)"
+                  "desc": "+<style=\"highlight\">15</style>% de Daño en Golpe Crítico por cada [BoseProjektil] (máx <style=\"highlight\">105</style>%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Sinking]"
                 },
                 {
-                  "desc": "[CriticalTargetKill] If this unit has the [Bullet] effect, gain 1 [Bullet] (3 times per Encounter)"
+                  "desc": "[CriticalTargetKill] Si esta unidad tiene el efecto [Bullet], gana 1 [Bullet] (3 veces por Encuentro)"
                 }
               ]
             }
@@ -343,14 +343,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fell Bullet",
+          "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Deal +2% more damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max 3)\n[BeforeAttack] Deal +3% more damage for every 5 [Breath] on self (max 15%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n- Si era una Reson.-A, gana (Reson. más alta + 2) [BoseProjektil] en su lugar\n[BeforeAttack] Inflige +2% de daño por cada [BoseProjektil] (máx 14%)\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 3)\n[BeforeAttack] Inflige +3% de daño por cada 5 de [Breath] en sí mismo (máx 15%)\n[BeforeAttack] Gasta 5 [Breath] en sí mismo\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] y 2 de [Sinking]"
                 }
               ]
             }
@@ -358,14 +358,14 @@
         },
         {
           "level": 3,
-          "name": "Fell Bullet",
+          "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n<style=\"highlight\">[BeforeAttack] At 3+ [BoseProjektil], gain 1 Atk Weight</style>\n[BeforeAttack] Deal +2% more damage for every [BoseProjektil] (max 14%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max <style=\"highlight\">4</style>)\n[BeforeAttack] Deal +<style=\"highlight\">4</style>% more damage for every 5 [Breath] on self (max <style=\"highlight\">20</style>%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n- Si era una Reson.-A, gana (Reson. más alta + 2) [BoseProjektil] en su lugar\n<style=\"highlight\">[BeforeAttack]Con 3+ [BoseProjektil], gana 1 Alcance de Atq</style>\n[BeforeAttack] Inflige +2% de daño por cada [BoseProjektil] (máx 14%)\n[BeforeAttack] Gana 1 de [Breath] por cada [BoseProjektil] (máx <style=\"highlight\">4</style>)\n[BeforeAttack] Inflige +<style=\"highlight\">4</style>% de daño por cada 5 de [Breath] en sí mismo (máx <style=\"highlight\">20</style>%)\n[BeforeAttack] Gasta 5 [Breath] en sí mismo\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y 3 de [Sinking]"
                 }
               ]
             }
@@ -373,14 +373,14 @@
         },
         {
           "level": 4,
-          "name": "Fell Bullet",
+          "name": "Bala Fatal",
           "abName": "Der Fluchschütze",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain (highest Reson. + 1) [BoseProjektil] (max 7)\n- If it was an A-Reson., gain (highest Reson. + 2) [BoseProjektil] instead\n[BeforeAttack] Gain 1 Atk Weight for <style=\"highlight\">every 3</style> [BoseProjektil] <style=\"highlight\">(max 2)</style>\n[BeforeAttack] Deal +<style=\"highlight\">3</style>% more damage for every [BoseProjektil] (max <style=\"highlight\">21</style>%)\n[BeforeAttack] Gain 1 [Breath] for every [BoseProjektil] (max <style=\"highlight\">7</style>)\n[BeforeAttack] Deal +<style=\"highlight\">5</style>% more damage for every 5 [Breath] on self (max <style=\"highlight\">25</style>%)\n[BeforeAttack] Consume 5 [Breath] on self\n[EndSkill] Lose every [BoseProjektil]",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n- Si era una Reson.-A, gana (Reson. más alta + 2) [BoseProjektil] en su lugar\n[BeforeAttack] Gana 1 Alcance de Atq por <style=\"highlight\">cada 3</style> [BoseProjektil] <style=\"highlight\">(máx 2)</style>\n[BeforeAttack] Inflige +<style=\"highlight\">3</style>% de daño por cada [BoseProjektil] (máx <style=\"highlight\">21</style>%)\n[BeforeAttack] Gana 1 de [Breath] por cada [BoseProjektil] (máx <style=\"highlight\">7</style>)\n[BeforeAttack] Inflige +<style=\"highlight\">5</style>% de daño por cada 5 de [Breath] en sí mismo (máx <style=\"highlight\">25</style>%)\n[BeforeAttack] Gasta 5 [Breath] en sí mismo\n[EndSkill] Pierde cada [BoseProjektil]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration] and 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y 3 de [Sinking]"
                 }
               ]
             }

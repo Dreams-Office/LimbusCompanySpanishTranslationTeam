@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 E.G.O resources of a random Affinity currently owned"
+                  "desc": "[EnemyKill] Gana 3 recursos E.G.O de una Afinidad aleatoria actualmente en posesión"
                 }
               ]
             }
@@ -30,10 +30,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP"
+                  "desc": "[EnemyKill] Gana 3 recursos E.G.O de una Afinidad aleatoria actualmente en posesión; Todos los aliados curan 3 PC"
                 }
               ]
             }
@@ -48,10 +48,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 E.G.O resources of a random Affinity currently owned; All allies heal 3 SP"
+                  "desc": "[EnemyKill] Gana 3 recursos E.G.O de una Afinidad aleatoria actualmente en posesión; Todos los aliados curan 3 PC"
                 }
               ]
             }
@@ -66,15 +66,15 @@
           "level": 1,
           "name": "Soda",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Amplificador de Recursos E.G.O</color></link></u>."
+                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GanaSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>."
                 }
               ]
             }
@@ -84,15 +84,15 @@
           "level": 3,
           "name": "Soda",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Amplificador de Recursos E.G.O</color></link></u>."
+                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GanaSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>."
                 }
               ]
             }
@@ -102,15 +102,15 @@
           "level": 4,
           "name": "Soda",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] All allies gain +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">Amplificador de Recursos E.G.O</color></link></u>., apply 1 Haste next turn"
+                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GanaSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>., apply 1 Haste next turn"
                 }
               ]
             }
@@ -125,15 +125,15 @@
           "level": 1,
           "name": "Obsesión Ciega",
           "abName": "Silencioso Torrente Devora Sueños",
-          "desc": "[BeforeAttack] Gana 4 de Temple",
+          "desc": "[BeforeAttack] Gana 4 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 Contador de Carga"
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -143,15 +143,15 @@
           "level": 3,
           "name": "Obsesión Ciega",
           "abName": "Silencioso Torrente Devora Sueños",
-          "desc": "[BeforeAttack] Gana 4 Poise\n[EndBattle] Gana 2 Poise for every unit defeated by this Skill",
+          "desc": "[BeforeAttack] Gana 4 de [Breath]\n[EndBattle] Gana 2 de [Breath] por cada unidad Derrotada por esta Habilidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 Contador de Carga"
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -161,15 +161,15 @@
           "level": 4,
           "name": "Obsesión Ciega",
           "abName": "Silencioso Torrente Devora Sueños",
-          "desc": "[BeforeAttack] Gana 4 Poise\n[EndBattle] Gana 2 Poise for every unit defeated by this Skill",
+          "desc": "[BeforeAttack] Gana 4 de [Breath]\n[EndBattle] Gana 2 de [Breath] por cada unidad Derrotada por esta Habilidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Contador de Carga"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain +2 Contador de Carga"
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -184,12 +184,12 @@
           "level": 1,
           "name": "Obsesión Ciega",
           "abName": "Silencioso Torrente Devora Sueños",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gana 4 Poise. Consume 2 Charge Count to gana 1 Poise (Max 10)\n[EndBattle] Gain +4 Charge Count for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 4 de [Breath]. Gasta 2 Contador de [Charge] para ganar 1 de [Breath] (Máx 10)\n[EndBattle] Gana +4 Contador de [Charge] por cada unidad Derrotada por esta Habilidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
                 }
               ]
             }
@@ -199,12 +199,12 @@
           "level": 3,
           "name": "Obsesión Ciega",
           "abName": "Silencioso Torrente Devora Sueños",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gana 4 Poise. Consume 2 Charge Count to gana 1 Poise (Max 10)\n[EndBattle] Gain +4 Charge Count for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 4 [Breath]. Gasta 2 Contador de [Charge] para ganar 1 de [Breath] (Máx 10)\n[EndBattle] Gana +4 Contador de [Charge] por cada unidad Derrotada por esta Habilidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
                 }
               ]
             }
@@ -214,15 +214,15 @@
           "level": 4,
           "name": "Obsesión Ciega",
           "abName": "Silencioso Torrente Devora Sueños",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gana 4 Poise. Consume 2 Charge Count to gana 1 Poise (Max 10)\n[EndBattle] Gain +4 Charge Count for every unit defeated by this Skill",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 4 [Breath]. Gasta 2 Contador de [Charge] para ganar 1 de [Breath] (Máx 10)\n[EndBattle] Gana +4 Contador de [Charge] por cada unidad Derrotada por esta Habilidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 de Contador de Temple"
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] At 10+ [Breath], gain +30% Critical Damage"
+                  "desc": "[CriticalOnSucceedAttack] Con 10+ de [Breath], Gana +30% de Daño Crítico"
                 }
               ]
             }
@@ -236,14 +236,14 @@
         {
           "level": 1,
           "name": "Desprecio, Asombro",
-          "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max 2)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "abName": "Espiral del Desprecio",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) Alcance de Atq (Máx 2)\n[BeforeAttack] Gana (Reson. más alta + 1) [GazePersonality] (Máx 7)\n[EndSkill] Por 2 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict 10 [Laceration] between all targets"
+                  "desc": "[EndSkill] Inflige 10 de [Laceration] uniformemente entre todos los objetivos"
                 }
               ]
             }
@@ -252,14 +252,14 @@
         {
           "level": 3,
           "name": "Desprecio, Asombro",
-          "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">4</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] (max 7)\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "abName": "Espiral del Desprecio",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) Alcance de Atq (Máx <style=\"highlight\">4</style>)\n[BeforeAttack] Gana (Reson. más alta + 1) [GazePersonality] (Máx 7)\n[EndSkill] Por 2 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict <style=\"highlight\">15</style> [Laceration] between all targets"
+                  "desc": "[EndSkill] Inflige <style=\"highlight\">15</style> de [Laceration] uniformemente entre todos los objetivos"
                 }
               ]
             }
@@ -268,14 +268,14 @@
         {
           "level": 4,
           "name": "Desprecio, Asombro",
-          "abName": "Spiral of Contempt",
-          "desc": "[BeforeAttack] Gain (highest Reson.) Atk Weight (max <style=\"highlight\">6</style>)\n[BeforeAttack] Gain (highest Reson. + 1) [GazePersonality] <style=\"highlight\">this turn and next turn</style> (max 7)\n<style=\"highlight\">[EndSkill] If this Skill was part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>\n[EndSkill] For 2 turns, lose 10 SP at Turn End",
+          "abName": "Espiral del Desprecio",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) Alcance de Atq (Máx <style=\"highlight\">6</style>)\n[BeforeAttack] Gana (Reson. más alta + 1) [GazePersonality] <style=\"highlight\">este turno y el siguiente</style> (Máx 7)\n<style=\"highlight\">[EndSkill] Si esta habilidad fue parte de una Reson. de Lujuria, gana 1 recurso E.G.O en Afinidades correspondientes a cada una de las Habilidades de Ataque de esta unidad</style>\n[EndSkill] Por 2 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Evenly inflict 15 [Laceration] between all targets<style=\"highlight\"></style>"
+                  "desc": "[EndSkill] Inflige 15 de [Laceration] uniformemente entre todos los objetivos<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -289,19 +289,19 @@
         {
           "level": 1,
           "name": "Desprecio, Asombro",
-          "abName": "Spiral of Contempt",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
+          "abName": "Espiral del Desprecio",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 7 [GazePersonality]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max 20%)"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration], inflige +(suma de Potencia y Contador de [Laceration] en el objetivo)% de daño (Máx 20%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict (1 + (highest Reson. x 1.5)) [Laceration] (max 10, rounded down)"
+                  "desc": "[OnSucceedAttack] Inflige (1 + (Reson. más alta x 1.5)) de [Laceration] (Máx 10, redondeado hacia abajo)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
                 }
               ]
             }
@@ -310,19 +310,19 @@
         {
           "level": 3,
           "name": "Desprecio, Asombro",
-          "abName": "Spiral of Contempt",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]",
+          "abName": "Espiral del Desprecio",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 7 [GazePersonality]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max <style=\"highlight\">40%</style>)"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration], inflige +(suma de Potencia y Contador de [Laceration] en el objetivo)% de daño (Máx <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(3 + (highest Reson. x 2))</style> [Laceration] (max <style=\"highlight\">15</style>, rounded down)"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">(3 + (Reson. más alta x 2))</style> de [Laceration] (Máx <style=\"highlight\">15</style>, redondeado hacia abajo)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">3</style> Contador de [Laceration]"
                 }
               ]
             }
@@ -331,19 +331,19 @@
         {
           "level": 4,
           "name": "Desprecio, Asombro",
-          "abName": "Spiral of Contempt",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] If this Skill was a part of a Lust Reson., gain 1 E.G.O resource in Affinities corresponding to each of this unit's Attack Skills</style>",
+          "abName": "Espiral del Desprecio",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Si esta habilidad fue parte de una Reson. de Lujuria, gana 1 recurso E.G.O en Afinidades correspondientes a cada una de las Habilidades de Ataque de esta unidad</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has [Laceration], deal +(the sum of [Laceration] Potency and Count on target)% more damage (max <style=\"highlight\">60%</style>)"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration], inflige +(suma de Potencia y Contador de [Laceration] en el objetivo)% de daño (Máx <style=\"highlight\">60%</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">(10 + (highest Reson. x 2.5))</style> [Laceration] (max <style=\"highlight\">25</style>, rounded down)"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">(10 + (Reson. más alta x 2.5))</style> de [Laceration] (Máx <style=\"highlight\">25</style>, redondeado hacia abajo)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">5</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">5</style> Contador de [Laceration]"
                 }
               ]
             }

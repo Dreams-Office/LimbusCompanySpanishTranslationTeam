@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 de [Combustion] del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -22,15 +22,15 @@
           "level": 3,
           "name": "9:2",
           "abName": "Profeta de la piel",
-          "desc": "[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq+1",
+          "desc": "[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Quemadura"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Combustion]"
                 },
                 {
-                  "desc": "[Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
+                  "desc": "[Convierte 2 [Combustion] del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -40,15 +40,15 @@
           "level": 4,
           "name": "9:2",
           "abName": "Profeta de la piel",
-          "desc": "[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq+1\nCon 6+ (Reson.-A de Lujuria más alta), Alcance de Ranura +1 adicional",
+          "desc": "[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq +1\nCon 6+ (Reson.-A de Lujuria más alta), Alcance de Ranura +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 de [Combustion] del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -63,15 +63,15 @@
           "level": 1,
           "name": "9:2",
           "abName": "Profeta de la piel",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 4 Quemadura"
+                  "desc": "[OnSucceedAttackTail] Inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convert 2 Burn on target to 1 Defense Level Down (Max 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 de [Combustion] del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -86,13 +86,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 2 Atadura el próximo turno"
+                  "desc": "[OnSucceedAttackTail] Inflige 2 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 [Combustion] del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -107,13 +107,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackTail] Inflige 2 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Convierte 2 Quemadura del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
+                  "desc": "[OnSucceedAttack] Convierte 2 [Combustion] del objetivo en 1 Nivel Defensivo Reducido (Máx 10)"
                 }
               ]
             }
@@ -133,34 +133,34 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] InflInflige 5 [Vibration] y +5 Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration] y +5 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Provoca [FusionVibration] en [VibrationContinue]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el siguiente turno"
                 }
               ]
             }
@@ -175,34 +175,34 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 [Vibration] y +5 Contador de [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration] y +5 Contador de [Vibration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce la Velocidad Más del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el siguiente turno<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -217,37 +217,37 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">10</style> [Vibration] y <style=\"highlight\">+10</style> Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">10</style> de [Vibration] y <style=\"highlight\">+10</style> Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el siguiente turno<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -267,19 +267,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Vibration] y +3 Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [FusionVibration] into [VibrationContinue]"
+                  "desc": "[OnSucceedAttack] Provoca [FusionVibration] en [VibrationContinue]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el siguiente turno"
                 }
               ]
             }
@@ -294,19 +294,19 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Vibration] y +3 Contador de [Vibration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +3 Contador de [Vibration]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el siguiente turno<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -321,22 +321,22 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">5</style> [Vibration] y <style=\"highlight\">+5</style> Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">5</style> de [Vibration] y <style=\"highlight\">+5</style> Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [FusionVibration] en [VibrationContinue]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Activa [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el próximo turno<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Reduce la Velocidad Máx del objetivo a la mitad el siguiente turno<style=\"highlight\"></style>"
                 }
               ]
             }

@@ -11,14 +11,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de Ahogo"
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de [Sinking]"
                 }
               ]
             }
@@ -27,19 +27,19 @@
         {
           "level": 2,
           "name": "Lista para Triturar",
-          "desc": "[WhenUse] Gana +3 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de Ahogo"
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de [Sinking]"
                 }
               ]
             }
@@ -48,19 +48,19 @@
         {
           "level": 4,
           "name": "Lista para Triturar",
-          "desc": "[WhenUse] Gana +3 de Contador de Tremor",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana +3 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +3 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]"
                 }
               ]
             }
@@ -79,14 +79,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 Nivel Defensivo Reducido el siguiente turno"
@@ -98,22 +98,22 @@
         {
           "level": 2,
           "name": "Perforación Explosiva",
-          "desc": "Con 5+ de Contador de Tremor, Poder de Moneda +1",
+          "desc": "Con 5+ Contador de [Vibration], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 Nivel Defensivo Reducido el siguiente turno"
@@ -125,22 +125,22 @@
         {
           "level": 4,
           "name": "Perforación Explosiva",
-          "desc": "Con 5+ de Contador de Tremor, Poder de Moneda +1",
+          "desc": "Con 5+ Contador de [Vibration], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 de Contador de Tremor"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 4 Nivel Defensivo Reducido el siguiente turno"
@@ -157,32 +157,32 @@
         {
           "level": 3,
           "name": "Decisión Radical",
-          "desc": "Con 5+ de Contador de Tremor, Poder de Moneda +1\nSi el objetivo tiene 6+ de Sinking, realiza +20% de daño",
+          "desc": "Con 5+ Contador de [Vibration], Poder de Moneda +1\nSi el objetivo tiene 6+ de [Sinking], inflige +20% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +5 de Contador de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige +5 Contador de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gasta 5 Contador de [Vibration] para infligir 2 Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gasta 5 Contador de [Vibration] para infligir 2 Frágil el siguiente turno"
                 }
               ]
             }
@@ -191,32 +191,32 @@
         {
           "level": 4,
           "name": "Decisión Radical",
-          "desc": "Poder de Moneda +1 por cada 5 de Contador de Tremor en sí mismo (Máx 2)\nSi el objetivo tiene 6+ de Sinking, realiza +40% de daño",
+          "desc": "Poder de Moneda +1 por cada 5 Contador de [Vibration] en sí mismo (Máx 2)\nSi el objetivo tiene 6+ de [Sinking], inflige +40% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +5 de Contador de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige +5 Contador de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gasta 5 Contador de [Vibration] para infligir 2 Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 5 de Contador de Tremor para infligir 2 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gasta 5 Contador de [Vibration] para infligir 2 Frágil el siguiente turno"
                 }
               ]
             }
@@ -229,8 +229,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pasos Ágiles",
-          "desc": "[WhenUse] Gana 2 de Protección de Ruptura (6 veces por turno)",
+          "name": "Pasos Ágil",
+          "desc": "[WhenUse] Gana 2 Protección de [Burst] (6 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -248,14 +248,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "¡A mi alrededor!",
-          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agravio (Una vez por turno)",
+          "name": "¡A Mí!",
+          "desc": "[WhenUse] El siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP Máx más alto gana +(Reson. más alta) de [Aggro] (Una vez por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -263,14 +263,14 @@
         },
         {
           "level": 2,
-          "name": "¡A mi alrededor!",
-          "desc": "[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agravio (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agravio (una vez por turno)",
+          "name": "¡A Mí!",
+          "desc": "[WhenUse] El siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP Máx más alto gana +(Reson. más alta) de [Aggro] (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 Protección a dicho aliado el siguiente turno cuando gane [Aggro] (Una vez por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -278,14 +278,14 @@
         },
         {
           "level": 4,
-          "name": "¡A mi alrededor!",
-          "desc": "<style=\"highlight\">[StartBattle] Apply 2 Defense Level Up to 2 allies adjacent to this unit on the Dashboard</style>\n[WhenUse] Al siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP más alto gana +(Reson. más alta) de Agravio (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 de Protección al aliado el siguiente turno cuando ellos ganen Agravio (una vez por turno)",
+          "name": "¡A Mí!",
+          "desc": "<style=\"highlight\">[StartBattle] Aplica 2 Nivel Defensivo Aumentado a 2 aliados adyacentes a esta unidad en el Tablero</style>\n[WhenUse] El siguiente turno, la Ranura de Habilidad más a la izquierda de 1 aliado con el HP Máx más alto gana +(Reson. más alta) de [Aggro] (Una vez por turno)\n- Con 4+ de la Reson-A más alta, Aplica 1 Protección a dicho aliado el siguiente turno cuando gane [Aggro] (Una vez por turno)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -298,21 +298,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pursue Them to the End!",
-          "desc": "[WhenUse] Every Reson. of the Highest Reson. adds 10% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.",
+          "name": "¡Persíganlos Hasta el Final!",
+          "desc": "[WhenUse] Cada Reson. de la Reson. más alta añade 10% de probabilidad de que esta unidad le ordene al aliado a su derecha (en el Tablero) que use [CoverAttack] este turno.",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Combustion]"
                 }
               ]
             }
@@ -320,21 +320,21 @@
         },
         {
           "level": 2,
-          "name": "Pursue Them to the End!",
-          "desc": "[WhenUse] Every Reson. of the highest Reson. adds 15% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 1 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 1 additional Poder de Orgullo Aumentado",
+          "name": "¡Persíganlos Hasta el Final!",
+          "desc": "[WhenUse] Cada Reson. de la Reson. más alta añade 15% de probabilidad de que esta unidad le ordene al aliado a su derecha (en el Tablero) que use [CoverAttack] este turno.\n- Con 4+ Reson.-A más alta, aplica 1 'Daño Aumentado' a dicho aliado\n- Con 4+ Reson.-A de Orgullo, aplica 1 Poder de Orgullo Aumentado adicional",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Bleed"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             }
@@ -342,21 +342,21 @@
         },
         {
           "level": 4,
-          "name": "Pursue Them to the End!",
-          "desc": "[StartBattle] Apply 3 Nivel Ofensivo Aumentado to 2 allies adjacent to this unit on the Dashboard\n[WhenUse] Every Reson. of the highest Reson. adds 20% chance that this unit orders the ally on its immediate right(on the Dashboard) to use [CoverAttack] this turn.\n- Con 4+ de la Reson-A más alta, apply 2 'Damage Up' to the ally\n- At 4+ Pride A-Reson., apply 2 additional Poder de Orgullo Aumentado",
+          "name": "¡Persíganlos Hasta el Final!",
+          "desc": "[StartBattle] Aplica 3 Nivel Ofensivo Aumentado a 2 aliados adyacentes a esta unidad en el Tablero\n[WhenUse] Cada Reson. de la Reson. más alta añade 20% de probabilidad de que esta unidad le ordene al aliado a su derecha (en el Tablero) que use [CoverAttack] este turno.\n- Con 4+ Reson.-A más alta, aplica 2 'Daño Aumentado' a dicho aliado\n- Con 4+ Reson.-A de Orgullo, aplica 2 Poder de Orgullo Aumentado adicional",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Burn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 }
               ]
             }
@@ -369,28 +369,28 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.2% damage per 1% missing HP, máx +20%)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and +4 Poise Count. (2 times máx. Máx # of allies that can be healed: 4)",
+          "name": "Arpón de Obsesión",
+          "desc": "Inflige más daño based en base a los HP faltantes del enemigo (+0.2% de daño por cada 1% de HP faltante, máx +20%)\n[EndSkill] Si el objetivo es Aturdido o Derrotado, (1+(Reson.-A más alta/2)) aliados con los menores PC curan 10 PC, gana 2 de [Breath], y +4 Contador de [Breath]. (2 veces máx. # Máx de aliados que pueden ser curados: 4)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             }
@@ -398,28 +398,28 @@
         },
         {
           "level": 4,
-          "name": "Harpoon of Obsession",
-          "desc": "Deal more damage based on target's missing HP (+0.3% damage per 1% missing HP, máx +30%)\nCoin Power +1 for every 5 [Laceration] on target (Máx 2)\n[EndSkill] If the target is Staggered or defeated, (1+(Highest A-Reson./2)) allies with the least SP heal 10 SP, gain 2 Poise, and gain +4 Poise Count. (4 times máx. Máx # of allies that can be healed: 4)",
+          "name": "Arpón de Obsesión",
+          "desc": "Inflige más daño based en base a los HP faltantes del enemigo (+0.3% de daño por cada 1% de HP faltante, máx +30%)\nPoder de Moneda +1 por cada 5 de [Laceration] en el objetivo (Máx 2)\n[EndSkill] Si el objetivo es Aturdido o Derrotado, (1+(Reson.-A más alta/2)) aliados con los menores PC curan 10 PC, gana 2 de [Breath], y +4 Contador de [Breath]. (2 veces máx. # Máx de aliados que pueden ser curados: 4)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Bleed Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 Burn Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             }
@@ -432,8 +432,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do Not Fear",
-          "desc": "[WhenUse] Heal 3 SP for 2 allies adjacent to this unit on the Dashboard (2 times máx)",
+          "name": "No Teman",
+          "desc": "[WhenUse] Cura 3 PC a 2 aliados adyacentes a esta unidad en el Tablero (2 veces máx)",
           "coinlist": [
             {
               "coindescs": [
@@ -446,8 +446,8 @@
         },
         {
           "level": 4,
-          "name": "Do Not Fear",
-          "desc": "[WhenUse] Heal 5 SP for 2 allies adjacent to this unit on the Dashboard (2 times máx)",
+          "name": "No Teman",
+          "desc": "[WhenUse] Cura 5 PC a 2 aliados adyacentes a esta unidad en el Tablero (2 veces máx)",
           "coinlist": [
             {}
           ]
@@ -460,20 +460,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sweeping Redirection",
+          "name": "Desvío de Barrido",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             }
@@ -481,20 +481,20 @@
         },
         {
           "level": 2,
-          "name": "Sweeping Redirection",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desvío de Barrido",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             }
@@ -502,23 +502,23 @@
         },
         {
           "level": 4,
-          "name": "Sweeping Redirection",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "name": "Desvío de Barrido",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[CriticalOnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -531,23 +531,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Housekeeping",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "name": "Limpieza y Orden",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 }
               ]
             }
@@ -555,23 +555,23 @@
         },
         {
           "level": 2,
-          "name": "Housekeeping",
-          "desc": "[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 2 [Breath]",
+          "name": "Limpieza y Orden",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 2 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 }
               ]
             }
@@ -579,26 +579,26 @@
         },
         {
           "level": 4,
-          "name": "Housekeeping",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count\n[WinDuel] Gain 2 [Breath]",
+          "name": "Limpieza y Orden",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1\n[WhenUse] Gana +2 Contador de [Breath]\n[WinDuel] Gana 2 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 },
                 {
-                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflict 1 [Binding] next turn</style>"
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Inflige 1 [Binding] el siguiente turno</style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
                 }
               ]
             }
@@ -611,33 +611,33 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Restraining Technique",
-          "desc": "[WhenUse] Gain 6 [Breath]",
+          "name": "Técnica de Restricción",
+          "desc": "[WhenUse] Gana 6 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [SlashTakeDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -645,33 +645,33 @@
         },
         {
           "level": 4,
-          "name": "Restraining Technique",
-          "desc": "If this unit's Speed is faster than the target's, Coin Power +1\n[WhenUse] Gain 6 [Breath]",
+          "name": "Técnica de Restricción",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1\n[WhenUse] Gana 6 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Binding] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [SlashTakeDamageUp] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [SlashTakeDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -699,261 +699,7 @@
         {
           "level": 4,
           "name": "Evadir",
-          "desc": "[OnSucceedEvade] Heal 5 SP (once per turn)",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1091001,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Courier Trunk - Decay Knife",
-          "desc": "[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Courier Trunk - Decay Knife",
-          "desc": "<style=\"highlight\">At 10+ [DevyatDimensionalSack], or if the target has 6+ [Burst], Coin Power +1</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this unit has less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]</style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Courier Trunk - Decay Knife",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit, but does not inflict [Burst] with this Skill's On Hit effects",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n- If this unit has less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]<style=\"highlight\"></style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Burst]"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1091002,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Courier Trunk - Gadget Reveal",
-          "desc": "At 10+ [DevyatDimensionalSack], or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Agility] next turn (once per turn)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 10 [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max 2, once per turn)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 2,
-          "name": "Courier Trunk - Gadget Reveal",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n<style=\"highlight\">- If this unit has less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]</style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Agility] next turn (once per turn)<style=\"highlight\"></style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every <style=\"highlight\">5</style> [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max <style=\"highlight\">4</style>, once per turn)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Courier Trunk - Gadget Reveal",
-          "desc": "<style=\"highlight\">Deal +2% more damage for every [DevyatDimensionalSack] on self (max 40%)</style>\nCoin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on the target (max 2)\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not consume target's [Burst] Count On Hit",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Gain 1 [DevyatDimensionalSack]\n- If this unit has less than 15 [DevyatDimensionalSack], gain <style=\"highlight\">2</style> additional [DevyatDimensionalSack]"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttackHead] Gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- At 15+ [DevyatDimensionalSack], gain 1 additional [Agility]</style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 1 [DefenseDown] for every 5 [DevyatDimensionalSack] on self or for every 5 [Burst] on the target (max <style=\"highlight\">6</style>, once per turn)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1091003,
-      "levelList": [
-        {
-          "level": 3,
-          "name": "I Trust Ya, Polu!",
-          "desc": "Deal +2% more damage for every [DevyatDimensionalSack] on self (max 40%)\nAt 10+ [DevyatDimensionalSack] on self, or if the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count, this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count (once per turn)"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] At 15+ [DevyatDimensionalSack], deal +15% more damage"
-                },
-                {
-                  "desc": "[EndSkill] If target is Staggered or defeated, gain 1 [Agility] next turn (once per turn)"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "I Trust Ya, Polu!",
-          "desc": "Deal <style=\"highlight\">+4%</style> more damage for every [DevyatDimensionalSack] on self (max <style=\"highlight\">80%</style>)\n<style=\"highlight\">Coin Power +1 for every 10 [DevyatDimensionalSack] on self or for every 6 [Burst] on the target (max 2)</style>\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] Count with its On Hit effects; instead, Reuse its last Coin",
-          "coinlist": [
-            {},
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Burst] Count (once per turn)\n<style=\"highlight\">- Inflict +1 more [Burst] Count for every 10 [DevyatDimensionalSack] (max 2)</style>"
-                }
-              ]
-            },
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] At 15+ [DevyatDimensionalSack], deal <style=\"highlight\">+25%</style> more damage"
-                },
-                {
-                  "desc": "[EndSkill] If target is Staggered or defeated, gain <style=\"highlight\">2</style> [Agility] next turn (once per turn)"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1091004,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Courier Support & Control Sequence",
-          "desc": "[StartBattle] At 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (max 15%, once per turn)\n[WhenUse] Gain 2 [DevyatDimensionalSack] (once per turn)\n- At less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Courier Support & Control Sequence",
-          "desc": "[StartBattle] At 15+ [DevyatDimensionalSack], activate 'Just... a Strategic Time Off!' instead (once per turn)\n[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (max <style=\"highlight\">25%</style>, once per turn)\n[WhenUse] Gain 2 [DevyatDimensionalSack] (once per turn)\n- At less than 15 [DevyatDimensionalSack], gain 1 additional [DevyatDimensionalSack]",
-          "coinlist": [
-            {}
-          ]
-        }
-      ]
-    },
-    {
-      "id": 1091005,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Just... a Strategic Time Off!",
-          "desc": "[StartBattle] If this Skill is to be activated, gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (max 15%, once per turn)\n[EndBattle] Activate [Retreat]",
-          "coinlist": [
-            {}
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Just... a Strategic Time Off!",
-          "desc": "[StartBattle] If this Skill is to be activated, gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (max <style=\"highlight\">25%</style>, once per turn)\n[EndBattle] Activate [Retreat]",
+          "desc": "[OnSucceedEvade] Cura 5 PC (una vez por turno)",
           "coinlist": [
             {}
           ]

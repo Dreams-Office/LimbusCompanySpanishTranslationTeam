@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Heal 2 allies with the lowest HP percentages for 10 HP"
+                  "desc": "[EndSkillHead] Cura 2 aliados con el menor porcentaje de HP por 10 HP"
                 },
                 {
-                  "desc": "[EndSkillTail] Heal 10 SP for 2 allies with the least SP"
+                  "desc": "[EndSkillTail] Cura 10 PC para 2 aliados con los menores PC"
                 }
               ]
             }
@@ -30,13 +30,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Heal 2 allies with the lowest HP percentages for 12 HP"
+                  "desc": "[EndSkillHead] Cura 2 aliados con el menor porcentaje de HP por 12 HP"
                 },
                 {
-                  "desc": "[EndSkillTail] Heal 12 SP for 2 allies with the least SP"
+                  "desc": "[EndSkillTail] Cura 12 PC para 2 aliados con los menores PC"
                 },
                 {
-                  "desc": "[CriticalEndSkill] Heal the ally with the lowest HP percentage for 6 HP; Heal the ally with the least SP for 6 SP"
+                  "desc": "[CriticalEndSkill] Cura al aliado con el menor porcentaje de HP por 6 HP; Cura al aliado con los menores PC por 6 PC "
                 }
               ]
             }
@@ -51,13 +51,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkillHead] Heal 2 allies with the lowest HP percentages for 15 HP"
+                  "desc": "[EndSkillHead] Cura 2 aliados con el menor porcentaje de HP por 15 HP"
                 },
                 {
-                  "desc": "[EndSkillTail] Heal 15 SP for 2 allies with the least SP"
+                  "desc": "[EndSkillTail] Cura 15 PC para 2 aliados con los menores PC"
                 },
                 {
-                  "desc": "[CriticalEndSkill] Heal the ally with the lowest HP percentage for 8 HP; Heal the ally with the least SP for 8 SP"
+                  "desc": "[CriticalEndSkill] Cura al aliado con el menor porcentaje de HP por 8 HP; Cura al aliado con los menores PC por 8 PC "
                 }
               ]
             }
@@ -72,15 +72,15 @@
           "level": 1,
           "name": "Soda",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify] Targets the unit with the least HP",
+          "desc": "[CantIdentify] Selecciona a la unidad con el menor HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
                 }
               ]
             }
@@ -90,15 +90,15 @@
           "level": 3,
           "name": "Soda",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify] Targets the unit with the least HP",
+          "desc": "[CantIdentify] Selecciona a la unidad con el menor HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 }
               ]
             }
@@ -108,15 +108,15 @@
           "level": 4,
           "name": "Soda",
           "abName": "Wellcheers",
-          "desc": "[CantIdentify] Targets the unit with the least HP",
+          "desc": "[CantIdentify] Selecciona a la unidad con el menor HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 }
               ]
             }
@@ -136,10 +136,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture by (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] Inflige [Burst] igual a (Reson. de Gula /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
                 }
               ]
             }
@@ -149,18 +149,18 @@
           "level": 3,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[BeforeAttack] Con 50%- de HP, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture by (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] Inflige [Burst] igual a (Reson. de Gula /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Gluttony Fragility next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Fragilidad a la Gula el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
                 }
               ]
             }
@@ -170,18 +170,18 @@
           "level": 4,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1;\nAt 25%- HP, gain an additional Atk Weight +1",
+          "desc": "[BeforeAttack] Con 50%- de HP, Alcance de Atq +1;\nCon 25%- de HP, gana Alcance de Atq +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture by (Gluttony Reson. /2)"
+                  "desc": "[OnSucceedAttack] Inflige [Burst] igual a (Reson. de Gula /2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Gluttony Fragility next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Fragilidad a la Gula el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
                 }
               ]
             }
@@ -196,18 +196,18 @@
           "level": 1,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[CantIdentify]\nTargets the unit with the least HP",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el menor HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture Count by (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] Inflige Contador de [Burst] igual a (Reson. de Gula /3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura por 20% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
                 }
               ]
             }
@@ -217,18 +217,18 @@
           "level": 3,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el menor HP\n[BeforeAttack] Con 50%- de HP, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture Count by (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] Inflige Contador de [Burst] igual a (Reson. de Gula /3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
                 }
               ]
             }
@@ -238,18 +238,154 @@
           "level": 4,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] At 50%- HP, Atk Weight +1\nAt 25%- HP, additional Atk Weight +1",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el menor HP\n[BeforeAttack] Con 50%- de HP, Alcance de Atq +1\nCon 25%- HP, Alcance de Atq +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture Count by (Gluttony Reson. /3)"
+                  "desc": "[OnSucceedAttack] Inflige Contador de [Burst] igual a (Reson. de Gula /3)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura por 50% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "Si el objetivo tiene [Vibration], inflige +((suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño (máx 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "Si el objetivo tiene [Vibration], inflige +((suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño (máx <style=\"highlight\">25%</style>)\n<style=\"highlight\">- Con 4+ Reson. más alta, inflige +(5 + (suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño en su lugar (máx 35%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y <style=\"highlight\">+2 Contador de [Vibration]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "Si el objetiene tiene [Vibration], inflige +(<style=\"highlight\">5 +</style> (suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño (máx <style=\"highlight\">30%</style>)\n- Con 4+ Reson. más alta, inflige +(<style=\"highlight\">7.5 +</style> (suma de Potencia y Contador de [Vibration] en el objetivo)/<style=\"highlight\">1.5</style>)% de daño en su lugar (máx <style=\"highlight\">40%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y <style=\"highlight\">+3</style> Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi el objetivo tiene [Vibration], inflige +((suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño (máx 25%)\n- Con 4+ Reson. más alta, aumenta el límite anterior a (máx 35%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +3 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi el objetivo tiene [Vibration], inflige+((suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño (max <style=\"highlight\">30%</style>)\n- Con 4+ Reson. más alta, <style=\"highlight\">inflige +(5 + (suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño en su lugar (máx 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige 3 de [Vibration] y +3 Contador de [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi el objetivo tiene [Vibration], inflige +(<style=\"highlight\">5</style> + (suma de Potencia y Contador de [Vibration] en el objetivo)/2)% de daño (máx <style=\"highlight\">40%</style>)\n- Con 4+ Reson. más alta, inflige +(<style=\"highlight\">7.5</style> + (suma de Potencia y Contador de [Vibration] en el objetivo)/<style=\"highlight\">1.5</style>)% de daño en su lugar (máx <style=\"highlight\">50%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">6</style> de [Vibration] y <style=\"highlight\">+6</style> Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
                 }
               ]
             }

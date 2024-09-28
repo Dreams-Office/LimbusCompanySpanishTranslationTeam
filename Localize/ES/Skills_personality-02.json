@@ -6,13 +6,13 @@
         {
           "level": 1,
           "name": "Patrullaje",
-          "desc": "[DefeatDuel] Gana 2 de Nivel Defensivo Aumentado",
+          "desc": "[DefeatDuel] Gana 2 Nivel Defensivo Aumentado",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 2 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Gana 2 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -21,13 +21,13 @@
         {
           "level": 2,
           "name": "Patrullaje",
-          "desc": "[DefeatDuel] Gana 3 de Nivel Defensivo Aumentado",
+          "desc": "[DefeatDuel] Gana 3 Nivel Defensivo Aumentado",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 2 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -36,13 +36,13 @@
         {
           "level": 4,
           "name": "Patrullaje",
-          "desc": "[WhenUse] Gana +2 de [Aggro] para esta Ranura de Habilidad el próximo turno\n[DefeatDuel] Gana 3 de Nivel Defensivo Aumentado",
+          "desc": "[WhenUse] Gana +2 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Gana 3 Nivel Defensivo Aumentado",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 2 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -56,26 +56,26 @@
         {
           "level": 1,
           "name": "Protección de Clientes",
-          "desc": "[WhenUse] Aplica 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP (3 veces por turno)",
+          "desc": "[WhenUse] Aplica 2 Nivel Defensivo Aumentado al aliado con el menor porcentaje de HP (3 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -84,26 +84,26 @@
         {
           "level": 2,
           "name": "Protección de Clientes",
-          "desc": "[WhenUse] Apply 3 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP (3 veces por turno)\nCon 5+ de Nivel Defensivo Aumentado, Poder de Choque +1",
+          "desc": "[WhenUse] Aplica 3 Nivel Defensivo Aumentado al aliado con el menor porcentaje de HP (3 veces por turno)\nCon 5+ Nivel Defensivo Aumentado, Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -112,26 +112,26 @@
         {
           "level": 4,
           "name": "Protección de Clientes",
-          "desc": "[WhenUse] Aplica 4 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP (3 veces por turno)\nCon 5+ de Nivel Defensivo Aumentado, Poder de Choque +2",
+          "desc": "[WhenUse] Aplica 4 Nivel Defensivo Aumentado al aliado con el menor porcentaje de HP (3 veces por turno)\nCon 5+ Nivel Defensivo Aumentado, Poder de Choque +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
               },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de Nivel Defensivo Aumentado el próximo turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -145,13 +145,13 @@
         {
           "level": 3,
           "name": "Ley y Orden",
-          "desc": "Con 5+ de Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Cura 2 HP",
+          "desc": "Con 5+ Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Cura 2 HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Aplica 1 [Agility] y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el próximo turno"
+                  "desc": "Aplica 1 [Agility] y 2 Nivel Defensivo Aumentado al aliado con el menor porcentaje de HP el siguiente turno"
                 }
               ]
             }
@@ -160,16 +160,16 @@
         {
           "level": 4,
           "name": "Ley y Orden",
-          "desc": "Con 5+ de Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Cura 4 HP",
+          "desc": "Con 5+ Nivel Defensivo Aumentado, Poder de Moneda +1\n[WinDuel] Cura 4 HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "Aplica 1 [Agility] y 2 de Nivel Defensivo Aumentado al aliado con el menor procentaje de HP el próximo turno"
+                  "desc": "Aplica 1 [Agility] y 2 Nivel Defensivo Aumentado al aliado con el menor porcentaje de HP el siguiente turno"
                 },
                 {
-                  "desc": "Si el aliado es un Fixer de la Asosiación Zwei, aplica 1 [Agility] y 1 de Nivel Defensivo Aumentado adicional"
+                  "desc": "Si el aliado es un Fixer de la Asosiación Zwei, aplica 1 [Agility] y 1 Nivel Defensivo Aumentado adicional"
                 }
               ]
             }
@@ -191,7 +191,7 @@
         {
           "level": 4,
           "name": "Guardia",
-          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el próximo turno",
+          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -265,7 +265,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el siguiente turno"
                 }
               ]
             },
@@ -290,7 +290,7 @@
                   "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Nivel Ofensivo Reducido el siguiente turno"
                 }
               ]
             },
@@ -301,7 +301,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -329,7 +329,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Debilitamiento de Moneda Positiva el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -348,21 +348,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nEntonces inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion],\nEntonces inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nEntonces inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)\nReduce en 3 el Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion],\nEntonces inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 13)\nReduce en 3 el Contador de [Vibration]"
                 }
               ]
             }
@@ -376,21 +376,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)\nReduce en 3 el Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion],\nDespués, inflige Daño de Ira igual al 20% del total de Umbral de Aturdimiento Aumentado por [VibrationExplosion]. (Máx 20)\nReduce en 3 el Contador de [Vibration]"
                 }
               ]
             }
@@ -526,7 +526,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 2 de [RedApricotBlossom]<style=\"highlight\"></style>"
@@ -553,7 +553,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[CriticalOnSucceedAttack] Inflige 2 de [RedApricotBlossom]<style=\"highlight\"></style>"
@@ -599,7 +599,7 @@
                   "desc": "[CriticalOnSucceedAttack] Inflige 5 de [RedApricotBlossom]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Si el objetivo tiene 10 de [RedApricotBlossom], Inflige 1 de [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] Si el objetivo tiene 10 [RedApricotBlossom], Inflige 1 de [SlashTakeDamageUp]"
                 }
               ]
             },
@@ -609,7 +609,7 @@
                   "desc": "[CriticalOnSucceedAttack] Inflige 5 de [RedApricotBlossom]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Si el objetivo tiene 10 de [RedApricotBlossom], Inflige 1 de [SlashTakeDamageUp]"
+                  "desc": "[CriticalOnSucceedAttack] Si el objetivo tiene 10 [RedApricotBlossom], Inflige 1 de [SlashTakeDamageUp]"
                 }
               ]
             }
@@ -758,7 +758,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige +3 Contador de [Sinking]"
@@ -784,7 +784,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [EchoOfMansion] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige +3 Contador de [Sinking]"
@@ -821,7 +821,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Activación 40Y-3",
+          "name": "Provocación 40Y-3",
           "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda +1",
           "coinlist": [
             {},
@@ -836,7 +836,7 @@
         },
         {
           "level": 2,
-          "name": "Activación 40Y-3",
+          "name": "Provocación 40Y-3",
           "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
@@ -851,7 +851,7 @@
         },
         {
           "level": 4,
-          "name": "Activación 40Y-3",
+          "name": "Provocación 40Y-3",
           "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda <style=\"highlight\">+2</style>",
           "coinlist": [
             {},
@@ -977,7 +977,7 @@
                   "desc": "Con 3+ [Charge], inflige <style=\"highlight\">+8%</style> de daño por cada [Charge] (máx <style=\"highlight\">40%</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 Fragilidad a la Envidia el próximo turno\n- Con 2+ [Charge], Inflige 1 Fragilidad a la Envidia adicional</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 Fragilidad a la Envidia el siguiente turno\n- Con 2+ [Charge], Inflige 1 Fragilidad a la Envidia adicional</style>"
                 }
               ]
             }

@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno"
                 }
               ]
             }
@@ -25,18 +25,18 @@
           "level": 3,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[BeforeAttack] If main target has 50%+ HP, Atk Weight +1",
+          "desc": "[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Tremor and +5 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +5 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttackHead] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -46,18 +46,18 @@
           "level": 4,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1",
+          "desc": "[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1;\nSi el objetivo principal tiene 75%+ de HP, Alcance de Atq +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Tremor and +7 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +7 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Bind next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -72,15 +72,15 @@
           "level": 1,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura 30% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -90,18 +90,18 @@
           "level": 3,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura 30% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 3 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -111,18 +111,18 @@
           "level": 4,
           "name": "Corrosión Efervescente",
           "abName": "Perla Deambulante",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If main target has 50%+ HP, Atk Weight +1;\nIf main target has 75%+ HP, additional Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1;\nSi el objetivo principal tiene 75%+ de HP, Alcance de Atq +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura 30% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -142,10 +142,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Sloth Fragility next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragilidad a la Pereza el siguiente turno"
                 },
                 {
-                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 15% of this unit's Max HP"
+                  "desc": "[EndSkill] Cura a 2 otros aliados con el porcentaje de HP más bajo por 15% del HP Máx de esta unidad"
                 }
               ]
             }
@@ -160,13 +160,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Sloth Fragility next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragilidad a la Pereza el siguiente turno"
                 },
                 {
-                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 25% of this unit's Max HP"
+                  "desc": "[EndSkill] Cura a 2 otros aliados con el porcentaje de HP más bajo por 25% del HP Máx de esta unidad"
                 },
                 {
-                  "desc": "[EndSkillHead] If the target is Staggered or defeated, apply 10% of this unit's Max HP as Shield to allies that this unit healed"
+                  "desc": "[EndSkillHead] Si el objetivo es Aturdido o Derrotado, aplica 10% del HP Máx de esta unidad como Escudo a los aliados que curo esta unidad"
                 }
               ]
             }
@@ -181,13 +181,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Sloth Fragility next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Pereza el siguiente turno"
                 },
                 {
-                  "desc": "[EndSkill] Heal 2 other allies with the least HP percentage for 30% of this unit's Max HP"
+                  "desc": "[EndSkill] Cura a 2 otros aliados con el porcentaje de HP más bajo por 30% del HP Máx de esta unidad"
                 },
                 {
-                  "desc": "[EndSkillHead] If the target is Staggered or defeated, apply 15% of this unit's Max HP as Shield to allies that this unit healed"
+                  "desc": "[EndSkillHead] Si el objetivo es Aturdido o Derrotado, aplica 15% del HP Máx de esta unidad como Escudo a los aliados que curo esta unidad"
                 }
               ]
             }
@@ -202,15 +202,15 @@
           "level": 1,
           "name": "Prosecución",
           "abName": "Escriba del Ejecutor Celestial",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 15 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 15 daño de PC"
                 }
               ]
             }
@@ -220,18 +220,18 @@
           "level": 3,
           "name": "Prosecución",
           "abName": "Escriba del Ejecutor Celestial",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] At 50%- HP, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 20 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 20 daño de PC"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If the target is Staggered or defeated, heal 5 SP on self"
+                  "desc": "[OnSucceedAttackTail] Si el objetivo es Aturdido o Derrotado, cura 5 PC a sí misma"
                 }
               ]
             }
@@ -241,18 +241,18 @@
           "level": 4,
           "name": "Prosecución",
           "abName": "Escriba del Ejecutor Celestial",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] At 50%- HP, Alcance de Atq +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal 20 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 20 daño de PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target is Staggered or defeated, heal 7 SP on self"
+                  "desc": "[OnSucceedAttack] Si el objetivo es Aturdido o Derrotado, cura 7 PC a sí misma"
                 }
               ]
             }
@@ -267,17 +267,17 @@
           "level": 1,
           "name": "Deseo Sangriento",
           "abName": "Los Zapatos Rojos",
-          "desc": "Coin Power +1 for every 2 [Laceration] on target (max 6)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.",
+          "desc": "Poder de Moneda +1 por cada 2 de [Laceration] en el objetivo (máx 6)\n[StartBattle] El objetivo principal de esta Habilidad no pierde Contador de [Laceration] por este turno.\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Lust Affinity damage equal to [Laceration] Potency on target.\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x 1.2).\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)",
-                  "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
+                  "desc": "Inflige daño de Afinidad de Lujuria igual a Potencia de [Laceration] en el objetivo.\n- Con 4+ Reson. de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x 1.2).\n(Solo hasta 99 Potencia de [Laceration] será usado para calcular por esta Habilidad.)",
+                  "summary": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria basado en [Laceration] en el objetivo"
                 },
                 {
-                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.",
-                  "summary": "[EnemyKill] Inflict the excess damage between all enemies."
+                  "desc": "[EnemyKill] Si esta Habilidad o sus efectos de Moneda infligen daño que excede los HP restantes del objetivo(En Encuentros Centrados, del Núcleo), inflige el exceso de daño como daño fijo entre todos los enemigos.",
+                  "summary": "[EnemyKill] Inflige el exceso de daño entre todos los enemigos."
                 }
               ]
             }
@@ -287,17 +287,17 @@
           "level": 3,
           "name": "Deseo Sangriento",
           "abName": "Los Zapatos Rojos",
-          "desc": "Coin Power +1 for every 2 [Laceration] on target (max <style=\"highlight\">9</style>)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.",
+          "desc": "Poder de Moneda +1 por cada 2 de [Laceration] en el objetivo (máx <style=\"highlight\">9</style>)\n[StartBattle] El objetivo principal de esta Habilidad no pierde Contador de [Laceration] por este turno.\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Lust Affinity damage equal to <style=\"highlight\">([Laceration] Potency on target x 1.2)</style>.\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- At 4+ Lust A-Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x 1.8).</style>\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)",
-                  "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria igual a <style=\"highlight\">(Potencia de [Laceration] en el objetivo x 1.2)</style>.\n- Con 4+ Reson. de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- Con 4+ Reson.-A de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x 1.8).</style>\n(Solo hasta 99 Potencia de [Laceration] será usado para calcular por esta Habilidad.)",
+                  "summary": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria basado en [Laceration] en el objetivo"
                 },
                 {
-                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.",
-                  "summary": "[EnemyKill] Inflict the excess damage between all enemies."
+                  "desc": "[EnemyKill] Si esta Habilidad o sus efectos de Moneda infligen daño que excede los HP restantes del objetivo(En Encuentros Cetrnados, del Núcleo), inflige el exceso de daño como daño fijo entre todos los enemigos.",
+                  "summary": "[EnemyKill] Inflige el exceso de daño entre todos los enemigos."
                 }
               ]
             }
@@ -307,17 +307,17 @@
           "level": 4,
           "name": "Deseo Sangriento",
           "abName": "Los Zapatos Rojos",
-          "desc": "Coin Power +1 for every 2 [Laceration] on target (max <style=\"highlight\">13</style>)\n[StartBattle] The main target for this Skill does not lose [Laceration] Count for this turn.\n[EndSkill] For 3 turns, Lose 10 SP at Turn End.",
+          "desc": "Poder de Moneda +1 por cada 2 de [Laceration] en el objetivo (máx <style=\"highlight\">13</style>)\n[StartBattle] El objetivo principal de esta Habilidad no pierde Contador de [Laceration] por este turno.\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">1.5</style>)\n- At 4+ Lust Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">1.8</style>).\n- At 4+ Lust A-Reson., inflict Lust Affinity damage equal to ([Laceration] Potency on target x <style=\"highlight\">2</style>).\n([Laceration] Potency up to only 99 will be used to calculate for this Skill.)",
-                  "summary": "[OnSucceedAttack] Deal Lust Affinity damage based on [Laceration] on target"
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria igual a (Potencia de [Laceration] en el objetivo x <style=\"highlight\">1.5</style>).\n- Con 4+ Reson. de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x <style=\"highlight\">1.8</style>).\n- Con 4+ Reson.-A de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x <style=\"highlight\">2</style>).\n(Solo hasta 99 Potencia de [Laceration] será usado para calcular por esta Habilidad.)",
+                  "summary": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria basado en [Laceration] en el objetivo"
                 },
                 {
-                  "desc": "[EnemyKill] If this Skill or its Coin effects dealt damage that exceeds the target's(In Focused Encounters, the Core's) remaining HP, deal the excess damage as fixed damage between all enemies.",
-                  "summary": "[EnemyKill] Inflict the excess damage between all enemies."
+                  "desc": "[EnemyKill] Si esta Habilidad o sus efectos de Moneda infligen daño que excede los HP restantes del objetivo(En Encuentros Cetrnados, del Núcleo), inflige el exceso de daño como daño fijo entre todos los enemigos.",
+                  "summary": "[EnemyKill] Inflige el exceso de daño entre todos los enemigos."
                 }
               ]
             }
@@ -332,13 +332,13 @@
           "level": 1,
           "name": "Deseo Sangriento",
           "abName": "Los Zapatos Rojos",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (# de la Reson.más alta - 2) Alcance de Atq (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : 4)",
-                  "summary": "[OnSucceedAttack] Inflict (2 + (Lust Reson.)) [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige (2 + (Reson. de Lujuria)) de [Laceration]\n(Máxima Reson. de Lujuria tomada en cuenta : 4)",
+                  "summary": "[OnSucceedAttack] Inflige (2 + (Reson. de Lujuria)) de [Laceration]"
                 }
               ]
             }
@@ -348,16 +348,16 @@
           "level": 3,
           "name": "Deseo Sangriento",
           "abName": "Los Zapatos Rojos",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (# de la Reson.más alta - 2) Alcance de Atq (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict (<style=\"highlight\">3</style> + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : <style=\"highlight\">5</style>)",
-                  "summary": "[OnSucceedAttack] Inflict (3 + (Lust Reson.)) [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige (<style=\"highlight\">3</style> + (Reson. de Lujuria)) de [Laceration]\n(Máxima Reson. de Lujuria tomada en cuenta : <style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] Inflige (3 + (Reson. de Lujuria)) de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
                 }
               ]
             }
@@ -367,16 +367,16 @@
           "level": 4,
           "name": "Deseo Sangriento",
           "abName": "Los Zapatos Rojos",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (# of highest Reson. - 2) Atk Weight (max 2)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (# de la Reson.más alta - 2) Alcance de Atq (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict (<style=\"highlight\">4</style> + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken into account : <style=\"highlight\">6</style>)",
-                  "summary": "[OnSucceedAttack] Inflict (4 + (Lust Reson.)) [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige (<style=\"highlight\">4</style> + (Reson. de Lujuria)) de [Laceration]\n(Máxima Reson. de Lujuria tomada en cuenta : <style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] Inflige (4 + (Reson. de Lujuria)) [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +<style=\"highlight\">3</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">3</style> Contador de [Laceration]"
                 }
               ]
             }

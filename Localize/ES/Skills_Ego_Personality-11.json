@@ -6,19 +6,19 @@
         {
           "level": 1,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
+          "abName": "Sandolfo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 2 allies with the least SP"
+                  "desc": "[EndSkill] Aplica 1 'Daño Aumentado' para la Afinidad con la mayor cuenta de Resonancia a 2 aliados con los menores PC"
                 },
                 {
-                  "desc": "[EndSkill] Heal 20 SP for 2 allies with the least SP"
+                  "desc": "[EndSkill] Cura 20 PC para 2 aliados con los menores PC"
                 }
               ]
             }
@@ -27,19 +27,19 @@
         {
           "level": 3,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
+          "abName": "Sandolfo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 3 allies with the least SP"
+                  "desc": "[EndSkill] Aplica 1 'Daño Aumentado' para la Afinidad con la mayor cuenta de Resonancia a 3 aliados con los menores PC"
                 },
                 {
-                  "desc": "[EndSkill] Heal 20 SP for 3 allies with the least SP"
+                  "desc": "[EndSkill] Cura 20 PC para 3 aliados con los menores PC"
                 }
               ]
             }
@@ -48,19 +48,19 @@
         {
           "level": 4,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
+          "abName": "Sandolfo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[EndSkill] Apply 1 'Damage Up' for the Affinity with the highest Resonance count to 4 allies with the least SP"
+                  "desc": "[EndSkill] Aplica 1 'Daño Aumentado' para la Afinidad con la mayor cuenta de Resonancia a 4 aliados con los menores PC"
                 },
                 {
-                  "desc": "[EndSkill] Heal 20 SP for 4 allies with the least SP"
+                  "desc": "[EndSkill] Cura 20 PC para 4 aliados con los menores PC"
                 }
               ]
             }
@@ -74,19 +74,19 @@
         {
           "level": 1,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP",
+          "abName": "Sandolfo",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Esta unidad pierde 10% de HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                  "desc": "[OnSucceedAttack] Objetivo pierde 10 PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 1 Fragility to the Affinity with the highest Resonance count"
+                  "desc": "[OnSucceedAttackTail] Inflige 1 Fragilidad para la Afinidad con la mayor cuenta de Resonancia"
                 }
               ]
             }
@@ -95,22 +95,22 @@
         {
           "level": 3,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP",
+          "abName": "Sandolfo",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Esta unidad pierde 10% de HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                  "desc": "[OnSucceedAttack] Objetivo pierde 10 PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 2 Fragility for the Affinity with the highest Resonance count"
+                  "desc": "[OnSucceedAttackTail] Inflige 2 Fragilidad para la Afinidad con la mayor cuenta de Resonancia"
                 },
                 {
-                  "desc": "[EndSkillTail] Gana 1 'Damage Up' to the Affinity with the highest Resonance count"
+                  "desc": "[EndSkillTail] Gana 1 'Daño Aumentado' para la Afinidad con la mayor cuenta de Resonancia"
                 }
               ]
             }
@@ -119,22 +119,22 @@
         {
           "level": 4,
           "name": "Felices Fiestas",
-          "abName": "Sandolph",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] This unit loses 10% HP",
+          "abName": "Sandolfo",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Esta unidad pierde 10% de HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                  "desc": "[OnSucceedAttack] Objetivo pierde 10 PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragility for the Affinity with the highest Resonance count"
+                  "desc": "[OnSucceedAttack] Inflige 2 Fragilidad para la Afinidad con la mayor cuenta de Resonancia"
                 },
                 {
-                  "desc": "[EndSkillTail] Gana 1 'Damage Up' to the Affinity with the highest Resonance count"
+                  "desc": "[EndSkillTail] Gana 1 'Daño Aumentado' para la Afinidad con la mayor cuenta de Resonancia"
                 }
               ]
             }
@@ -149,18 +149,18 @@
           "level": 1,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\n[EndSkill] For 3 turns, lose 10 SP at Turn End",
+          "desc": "[BeforeAttack] Gana (Reson. más alta de Orgullo o Pereza - 2) Alcance de Atq (máx 2)\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -170,18 +170,18 @@
           "level": 3,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%\n[EndSkill] For 3 turns, lose 9 SP at Turn End",
+          "desc": "[BeforeAttack] Gana (Reson. más alta de Orgullo o Pereza - 2) Alcance de Atq (máx 2)\nUmbral de Aturdimiento incrementado por [VibrationExplosion] aumenta en un 50%\n[EndSkill] Por 3 turnos, pierde 9 PC al Final del Turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -191,18 +191,18 @@
           "level": 4,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 100%\n[EndSkill] For 3 turns, lose 8 SP at Turn End",
+          "desc": "[BeforeAttack] Gana (Reson. más alta de Orgullo o Pereza - 2) Alcance de Atq (máx 2)\nUmbral de Aturdimiento incrementado por [VibrationExplosion] aumenta en un 100%\n[EndSkill] Por 3 turnos, pierde 8 PC al Final del Turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -217,21 +217,21 @@
           "level": 1,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta de Orgullo o Pereza - 2) Alcance de Atq (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -241,24 +241,24 @@
           "level": 3,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta de Orgullo o Pereza - 2) Alcance de Atq (máx 2)\nUmbral de Aturdimiento incrementado por [VibrationExplosion] aumenta en un 50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -268,27 +268,27 @@
           "level": 4,
           "name": "Ataduras",
           "abName": "El Rey en Ataduras",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Pride or Sloth Reson. - 2) Atk Weight (max 2)\nAmount of Stagger Threshold raised by [VibrationExplosion] increases by 50%",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta de Orgullo o Pereza - 2) Alcance de Atq (máx 2)\nUmbral de Aturdimiento incrementado por [VibrationExplosion] aumenta en un 50%",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 6 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Vibration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCrack]"
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] en [VibrationCrack]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -301,20 +301,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than 10 [Charge] Count, consume 15% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max 10%)",
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Incontrolable",
+          "desc": "[BeforeAttack] Con 4+ Reson. más alta, gana +1 Alcance de Atq\n[BeforeAttack] Con menos de 10 Contador de [Charge], gasta 15% de HP para ganar +10 Contador de [Charge] (este daño no baja los HP de esta unidad a 0; redondeado hacia abajo)\n[BeforeAttack] Gasta hasta 40 Contador de [Charge] e inflige +1% de daño por cada Contador de [Charge] gastado (máx 10%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 1)"
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (máx 1)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 1 of each per Skill)"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] y 1 [ChargeLoad] el siguiente turno por cada [Charge] (máx uno de cada uno por Habilidad)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -322,20 +322,20 @@
         },
         {
           "level": 3,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] At <style=\"highlight\">3</style>+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than 10 [Charge] Count, consume 15% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max <style=\"highlight\">20</style>%)",
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Incontrolable",
+          "desc": "[BeforeAttack] Con <style=\"highlight\">3</style>+ Reson. más alta, gana +1 Alcance de Atq\n[BeforeAttack] Con menos de 10 Contador de [Charge], gasta 15% de HP para ganar +10 Contador de [Charge] (este daño no baja los HP de esta unidad a 0; redondeado hacia abajo)\n[BeforeAttack] Gasta hasta 40 Contador de [Charge] e inflige +1% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">20</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max <style=\"highlight\">2</style>)"
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (máx <style=\"highlight\">2</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">2</style> of each per Skill)"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] y 1 [ChargeLoad] el siguiente turno por cada [Charge] (máx <style=\"highlight\">2</style> de cada uno por cada Habilidad)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -343,20 +343,20 @@
         },
         {
           "level": 4,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
-          "desc": "[BeforeAttack] Gain <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(max 2)</style>\n[BeforeAttack] At less than 10 [Charge] Count, consume <style=\"highlight\">10</style>% HP to gain +10 [Charge] Count (this damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +1% more damage for every [Charge] Count consumed (max <style=\"highlight\">30</style>%)",
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Incontrolable",
+          "desc": "[BeforeAttack] Gana +<style=\"highlight\">(Reson. más alta - 2)</style> Alcance de Atq <style=\"highlight\">(máx 2)</style>\n[BeforeAttack] Con menos de 10 Contador de [Charge], gasta <style=\"highlight\">10</style>% de HP para ganar +10 Contador de [Charge] (este daño no baja los HP de esta unidad a 0; redondeado hacia abajo)\n[BeforeAttack] Gasta hasta 40 Contador de [Charge] e inflige +1% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">30</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (máx 2)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] y 1 [ChargeLoad] el siguiente turno por cada [Charge] (máx <style=\"highlight\">3</style> de cada uno por cada Habilidad)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -369,20 +369,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than maximum [Charge] Count, consume (missing [Charge] Count x 1.5)% HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% more damage for every [Charge] Count consumed (max 20%)",
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Incontrolable",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ Reson. más alta, gana +1 Alcance de Atq\n[BeforeAttack] Con Contador de [Charge] menor al Máx, gasta (Contador de [Charge] faltante x 1.5)% de HP para ganar Contador de [Charge] Máx (Contador de [Charge] Máx obtenible con este efecto: 30. Este daño no reduce la HP de esta unidad a 0; redondeado hacia abajo)\n[BeforeAttack] Gasta hasta 40 Contador de [Charge] e inflige +2% de daño por cada Contador de [Charge] gastado (máx 20%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)"
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (máx 2)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] y 1 [ChargeLoad] el siguiente turno por cada [Charge] (máx 2 de cada uno por Habilidad)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -390,20 +390,20 @@
         },
         {
           "level": 3,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] At 4+ highest Reson., gain +1 Atk Weight\n[BeforeAttack] At less than maximum [Charge] Count, consume (missing [Charge] Count x <style=\"highlight\">1.2</style>)% HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% more damage for every [Charge] Count consumed (max <style=\"highlight\">40</style>%)",
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Incontrolable",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ Reson. más alta, gana +1 Alcance de Atq\n[BeforeAttack] Con Contador de [Charge] menor al Máx, gasta (Contador de [Charge] faltante x <style=\"highlight\">1.2</style>)% de HP para ganar Contador de [Charge] Máx (Contador de [Charge] Máx obtenible con este efecto: 30. Este daño no reduce la HP de esta unidad a 0; redondeado hacia abajo)\n[BeforeAttack] Gasta hasta 40 Contador de [Charge] e inflige +2% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">40</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max 2)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (máx 2)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max 2 of each per Skill)"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] y 1 [ChargeLoad] el siguiente turno por cada [Charge] (máx 2 de cada uno por Habilidad)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -411,20 +411,20 @@
         },
         {
           "level": 4,
-          "name": "Dimension Shredder",
-          "abName": "Wayward Passenger",
-          "desc": "[CantIdentify]\nTargets randomly\n[BeforeAttack] Gain <style=\"highlight\">(highest Reson. - 2)</style> Atk Weight <style=\"highlight\">(max 2)</style>\n[BeforeAttack] At less than maximum [Charge] Count, consume <style=\"highlight\">(missing [Charge] Count)%</style> HP to gain up to max [Charge] Count (max [Charge] Count obtainable from this effect: 30. This damage does not reduce this unit's HP to 0; rounded down)\n[BeforeAttack] Consume up to 40 [Charge] Count and deal +2% more damage for every [Charge] Count consumed (max <style=\"highlight\">60</style>%)",
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Incontrolable",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana <style=\"highlight\">(Reson. más alta - 2)</style> Alcance de Atq <style=\"highlight\">(máx 2)</style>\n[BeforeAttack] Con Contador de [Charge] menor al Máx, gasta <style=\"highlight\">(missing Contador de [Charge])%</style> de HP para ganar Contador de [Charge] Máx (Contador de [Charge] Máx obtenible con este efecto: 30. Este daño no reduce la HP de esta unidad a 0; redondeado hacia abajo)\n[BeforeAttack] Gasta hasta 40 Contador de [Charge] e inflige +2% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict ([Charge] - 1) [DimensionRift] (max <style=\"highlight\">4</style>)"
+                  "desc": "[OnSucceedAttack] Inflige ([Charge] - 1) [DimensionRift] (máx <style=\"highlight\">4</style>)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [Agility] and 1 [ChargeLoad] next turn for every [Charge] (max <style=\"highlight\">3</style> of each per Skill)"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] y 1 [ChargeLoad] el siguiente turno por cada [Charge] (máx <style=\"highlight\">3</style> de cada uno por Habilidad)"
                 },
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             }

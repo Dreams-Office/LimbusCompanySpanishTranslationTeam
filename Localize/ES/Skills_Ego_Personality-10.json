@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Ruptura"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP Percentages by 10% of Max HP."
+                  "desc": "[OnSucceedAttack] Cura a 2 aliados con el menor porcentaje de HP por 10% de HP Máx."
                 }
               ]
             }
@@ -25,15 +25,15 @@
           "level": 3,
           "name": "Linterna",
           "abName": "Linterna de las Hadas",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[BeforeAttack] Con 50%- HP, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 de Ruptura"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 12% of Max HP."
+                  "desc": "[OnSucceedAttack] Cura a 2 aliados con el menor porcentaje de HP por 12% de HP Máx."
                 }
               ]
             }
@@ -43,15 +43,15 @@
           "level": 4,
           "name": "Linterna",
           "abName": "Linterna de las Hadas",
-          "desc": "[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[BeforeAttack] Con 50%- HP, Alcance de Atq +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal 2 allies with the lowest HP by 15% of Max HP."
+                  "desc": "[OnSucceedAttack] Cura a 2 aliados con el menor porcentaje de HP por 15% de HP Máx."
                 }
               ]
             }
@@ -66,15 +66,15 @@
           "level": 1,
           "name": "Linterna",
           "abName": "Linterna de las Hadas",
-          "desc": "[CantIdentify] \nTarget the unit with the most HP",
+          "desc": "[CantIdentify] \nSelecciona al objetivo con el HP más alto",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 30% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura a sí mismo por 30% del daño infligido"
                 }
               ]
             }
@@ -84,18 +84,18 @@
           "level": 3,
           "name": "Linterna",
           "abName": "Linterna de las Hadas",
-          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +1",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con el HP más alto\n[BeforeAttack] Con 50%- de HP, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttackTail] Inflige +3 de Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 3 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura a sí mismo por 50% del daño infligido"
                 }
               ]
             }
@@ -105,18 +105,18 @@
           "level": 4,
           "name": "Linterna",
           "abName": "Linterna de las Hadas",
-          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] At 50%- HP, Atk Weight +2",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con el HP más alto\n[BeforeAttack] Con 50%- de HP, Alcance de Atq +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Defense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Heal self by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Cura a sí mismo por 50% del daño infligido"
                 }
               ]
             }
@@ -136,10 +136,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 }
               ]
             }
@@ -149,15 +149,15 @@
           "level": 3,
           "name": "9:2",
           "abName": "Profeta de la Piel",
-          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "desc": "[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 }
               ]
             }
@@ -167,18 +167,18 @@
           "level": 4,
           "name": "9:2",
           "abName": "Profeta de la Piel",
-          "desc": "[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson.), additional Atk Weight +1",
+          "desc": "[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1\n[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta.), Alcance de Atq +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 1 Attack Power Down and 1 Poder Defensivo Reducido next turn"
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 1 Poder de Ataque Reducido y 1 Poder Defensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -193,15 +193,15 @@
           "level": 1,
           "name": "9:2",
           "abName": "Profeta de la Piel",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6 de Quemadura"
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], Inflige 6 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 }
               ]
             }
@@ -211,18 +211,18 @@
           "level": 3,
           "name": "9:2",
           "abName": "Profeta de la Piel",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6 de Quemadura"
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], Inflige 6 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 1 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 1 Fragilidad a Lujuria"
                 }
               ]
             }
@@ -232,18 +232,169 @@
           "level": 4,
           "name": "9:2",
           "abName": "Profeta de la Piel",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] At 4+ (Highest Lust A-Reson), additional Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1\n[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq +1 adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has no Burn, Inflige 6 de Quemadura"
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], Inflige 6 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 10+ Burn, Inflige 2 Lust Fragility next turn"
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 2 Fragilidad a Lujuria"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[BeforeAttack] Con 4+ Reson. más alta., Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Aplica 10% del HP Máx de esta unidad como Escudo a sí mismo y a 1 otro aliado con el menor HP actual, y aplica 2 [ShieldManagerCryingToad] también"
+                },
+                {
+                  "desc": "- Con 4+ Reson. más alta, aplicalo a un aliado más"
+                },
+                {
+                  "desc": "- Si la unidad afectada ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "<style=\"highlight\">[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Aplica <style=\"highlight\">14%</style> el HP Máx de esta unidad como Escudo a sí mismo y a <style=\"highlight\">(1 + (Reson. más alta. - 2))</style> aliados con el menor HP actual, y aplica 2 [ShieldManagerCryingToad] también\n<style=\"highlight\">(# máx de otros aliados que ganan [ShieldManagerCryingToad]: 3)</style>"
+                },
+                {
+                  "desc": "- Si la unidad afectada ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Aplica <style=\"highlight\">20%</style> el HP Máx de esta unidad como Escudo a sí mismo y a (1 + (Reson. más alta. - 2)) aliados con el menor HP actual, y aplica 2 [ShieldManagerCryingToad] también\n(# máx de otros aliados que ganan [ShieldManagerCryingToad]: 3)"
+                },
+                {
+                  "desc": "- Si la unidad afectada ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 3+ Reson. más alta., Alcance de Atq +1\n[BeforeAttack] Gana +5 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Gana (15 + 2.5(Reson. más alta.))% del HP Máx de esta unidad como Escudo a sí mismo y a Gana 2 [ShieldManagerCryingToad]. (máx 25%)"
+                },
+                {
+                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                },
+                {
+                  "desc": "- Con 4+ Reson. de Melancolía más alta, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n<style=\"highlight\">[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)</style>\n[BeforeAttack] Gana <style=\"highlight\">+10 de [Aggro]</style> para esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Gana (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Reson. más alta.))% del HP Máx de esta unidad como Escudo a sí mismo y a Gana 2 [ShieldManagerCryingToad]. (máx <style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "- Si esta unidad ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)\n[BeforeAttack] Gana +10 de [Aggro] para esta Ranura de Habilidad el siguiente turno<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] y <style=\"highlight\">+3 Contador de [Sinking]</style>"
+                },
+                {
+                  "desc": "[EndSkill] Gana (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Reson. más alta.))% el HP Máx de esta unidad como Escudo a sí mismo y a Gana 2 [ShieldManagerCryingToad]. (máx <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "- Si esta unidad ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Con 4+ Reson. de Melancolía, gana 10% del HP Máx de esta unidad como Escudo adicional</style>"
                 }
               ]
             }

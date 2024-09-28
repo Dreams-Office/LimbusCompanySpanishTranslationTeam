@@ -12,10 +12,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 }
               ]
             }
@@ -30,13 +30,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +4 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Paralysis]"
                 }
               ]
             }
@@ -51,13 +51,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +4 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +4 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 5 [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Paralysis]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Paralysis]"
                 }
               ]
             }
@@ -72,21 +72,21 @@
           "level": 1,
           "name": "Túmulo de Deseos",
           "abName": "Veneración a la Pagoda",
-          "desc": "[CantIdentify]\nTargets randomly\n",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 4 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 4 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -96,21 +96,21 @@
           "level": 3,
           "name": "Túmulo de Deseos",
           "abName": "Veneración a la Pagoda",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 6 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 6 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -120,21 +120,21 @@
           "level": 4,
           "name": "Túmulo de Deseos",
           "abName": "Veneración a la Pagoda",
-          "desc": "[CantIdentify]\nTargets randomly",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Trigger [VibrationExplosion]"
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflict 8 [Laceration]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 8 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Trigger [VibrationExplosion]"
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 2"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -149,12 +149,12 @@
           "level": 1,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[BeforeAttack] Gain (Envy Reson. - 2) Atk Weight (max 1)\n[BeforeAttack] If this unit has 20+ [Charge] Count, Spend 20 [Charge] Count to deal +30% more damage",
+          "desc": "[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Atq (máx 1)\n[BeforeAttack] Si esta unidad tiene 20+ Contador de [Charge], Gasta 20 Contador de [Charge] para infligir +30% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -164,12 +164,12 @@
           "level": 3,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[BeforeAttack] Gain (Envy Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Deal ((Envy Reson. - 3) x 5)% more damage (max 15%)\n[BeforeAttack] If this unit has 20+ [Charge] Count, Spend 20 [Charge] Count to deal +35% more damage",
+          "desc": "[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Atq (máx 2)\n[BeforeAttack] Inflige ((Reson. de Envidia - 3) x 5)% de daño (máx 15%)\n[BeforeAttack] Si esta unidad tiene 20+ Contador de [Charge], Gasta 20 Contador de [Charge] para infligir +35% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -179,12 +179,12 @@
           "level": 4,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[BeforeAttack] Gain (Envy Reson. - 2) Atk Weight (max 3)\n[BeforeAttack] Deal +((Envy Reson. - 3) x 10)% more damage (max 30%)\n[BeforeAttack] If this unit has 20+ [Charge] Count, Spend 20 [Charge] Count to deal +40% more damage",
+          "desc": "[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Atq (máx 3)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x 10)% de daño (máx 30%)\n[BeforeAttack] Si esta unidad tiene 20+ Contador de [Charge], Gasta 20 Contador de [Charge] para infligir +40% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain +2 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -199,12 +199,12 @@
           "level": 1,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (Envy Reson. - 2) Atk Weight (max 1)\n[BeforeAttack] Deal +((Envy Reson. - 3) x 5)% more damage (max 15%)\n[BeforeAttack] At less than 20 [Charge] Count, spend 1.5% of this unit's max HP per missing [Charge] Count to raise [Charge] Count to 20\n[BeforeAttack] Spend up to 20 [Charge] Count to deal +2.5% more damage for every spent [Charge] Count (max 50%)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Atq (máx 1)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x 5)% de daño (máx 15%)\n[BeforeAttack] Con menos de 20 Contador de [Charge], Gasta 1.5% del HP Máx de esta unidad por cada Contador de [Charge] faltante para aumentar el Contador de [Charge] a 20\n[BeforeAttack] Gasta hasta 20 Contador de [Charge] para infligir +2.5% de daño por cada Contador de [Charge] gastado (máx 50%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain +3 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +3 Contador de [Charge]"
                 }
               ]
             }
@@ -214,12 +214,12 @@
           "level": 3,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (Envy Reson. - 2) Atk Weight (max <style=\"highlight\">2</style>)\n[BeforeAttack] Deal +((Envy Reson. - 3) x <style=\"highlight\">8</style>)% more damage (max <style=\"highlight\">24</style>%)\n[BeforeAttack] At less than 20 [Charge] Count, spend 1.5% of this unit's max HP per missing [Charge] Count to raise [Charge] Count to 20\n[BeforeAttack] Spend up to 20 [Charge] Count to deal +<style=\"highlight\">3.5</style>% more damage for every spent [Charge] Count (max <style=\"highlight\">70</style>%)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Atq (máx <style=\"highlight\">2</style>)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x <style=\"highlight\">8</style>)% de daño (máx <style=\"highlight\">24</style>%)\n[BeforeAttack] Con menos de 20 Contador de [Charge], Gasta 1.5% del HP Máx de esta unidad por cada Contador de [Charge] faltante para aumentar el Contador de [Charge] a 20\n[BeforeAttack] Gasta hasta 20 Contador de [Charge] para infligir +<style=\"highlight\">3.5</style>% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">70</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain +3 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +3 Contador de [Charge]"
                 }
               ]
             }
@@ -229,12 +229,12 @@
           "level": 4,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (Envy Reson. - 2) Atk Weight (max <style=\"highlight\">3</style>)\n[BeforeAttack] Deal +((Envy Reson. - 3) x <style=\"highlight\">12</style>)% more damage (max <style=\"highlight\">36</style>%)\n[BeforeAttack] At less than 20 [Charge] Count, spend <style=\"highlight\">1</style>% of this unit's max HP per missing [Charge] Count to raise [Charge] Count to 20\n[BeforeAttack] Spend up to 20 [Charge] Count to deal +<style=\"highlight\">5</style>% more damage for every spent [Charge] Count (max <style=\"highlight\">100</style>%)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Atq (máx <style=\"highlight\">3</style>)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x <style=\"highlight\">12</style>)% de daño (máx <style=\"highlight\">36</style>%)\n[BeforeAttack] Con menos de 20 Contador de [Charge], Gasta <style=\"highlight\">1</style>% del HP Máx de esta unidad por cada Contador de [Charge] faltante para aumentar el Contador de [Charge] a 20\n[BeforeAttack] Gasta hasta 20 Contador de [Charge] para infligir +<style=\"highlight\">5</style>% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">100</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gain +3 [Charge] Count"
+                  "desc": "[EnemyKill] Gana +3 Contador de [Charge]"
                 }
               ]
             }

@@ -2,87 +2,103 @@
   "dataList": [
     {
       "id": "receive_integrate_account_code",
-      "content": "Send Merge Code"
+      "content": "Enviar Código de Fusión"
     },
     {
       "id": "receive_integrate_account_code_description",
-      "content": "After receiving your code, please make sure to complete the process before it expires."
+      "content": "Después de recibir su código, asegúrese de completar el proceso antes de que caduque."
     },
     {
       "id": "request_integrate_account_code",
-      "content": "Request Code"
+      "content": "Solicitar Código"
     },
     {
       "id": "input_integrate_account_code",
-      "content": "Merge Code Input"
+      "content": "Ingresar Código de Unión"
     },
     {
       "id": "input_code",
-      "content": "Enter Code"
+      "content": "Ingresar Código"
     },
     {
       "id": "integrate_account_code",
-      "content": "Account Merger Code"
+      "content": "Código de Unión de Cuenta"
     },
     {
       "id": "input_integrate_account_code_description",
-      "content": "Please enter your UID and the provided code."
+      "content": "Por favor ingresa tu UID y el código proporcionado."
     },
     {
       "id": "unable_to_integrate_account",
-      "content": "Could not merge account."
+      "content": "No se pudo fusionar la Cuenta."
     },
     {
       "id": "not_exist_integrate_code",
-      "content": "The merge code does not exist."
+      "content": "El código de unión no existe."
     },
     {
       "id": "select_account_for_integrate",
-      "content": "Please select an account to merge."
+      "content": "Por favor seleccione una cuenta para unir."
     },
     {
       "id": "current_account",
-      "content": "Current Account"
+      "content": "Cuenta Actual"
     },
     {
       "id": "new_account",
-      "content": "New Account"
+      "content": "Nueva Cuenta"
     },
     {
       "id": "warning_none_integrate_account_removed",
-      "content": "※ The unselected account will be deleted."
+      "content": "※ La cuenta no seleccionada será borrada."
     },
     {
       "id": "ask_to_integrate_account",
-      "content": "Merge data to the selected account?"
+      "content": "¿Unir datos a la cuenta seleccionada?"
     },
     {
       "id": "ask_to_integrate_account_warning",
-      "content": "Merge data to the selected account?"
+      "content": "¿Unir datos a la cuenta seleccionada?"
     },
     {
       "id": "receiving_integrate_account_code",
-      "content": "Sending code…"
+      "content": "Enviando código..."
     },
     {
       "id": "success_integrate_account_message",
-      "content": "Account data merged successfully."
+      "content": "Datos de cuenta unidos exitosamente."
     },
     {
       "id": "warning_before_integrate",
-      "content": "<color=red>The unselected account will be deleted.</color>"
+      "content": "<color=red>La cuenta no seleccionada será borrada.</color>"
     },
     {
       "id": "link_error_link_failed",
-      "content": "Cannot Merge"
+      "content": "No se puede Unir"
     },
     {
       "id": "link_error_expired",
-      "content": "The merge code has expired."
+      "content": "El código de unión ha caducado."
     },
     {
       "id": "link_error",
-      "content": "Failed to integrate account data.\nYou cannot merge data with an account of the same platform or a guest account."
+      "content": "No se pudieron integrar los datos de la cuenta.\nNo puedes unir datos con una cuenta de la misma plataforma o una cuenta de invitado."
+    },
+    {
+      "id": "input_unlink_account",
+      "content": "Desvincular Cuenta"
+    },
+    {
+      "id": "alarm_unlink_account",
+      "content": "Cuenta Desvinculada"
+    },
+    {
+      "id": "unlink_account_ask_title",
+      "content": "Desvincular Cuenta"
+    },
+    {
+      "id": "unlink_account_ask_content",
+      "content": "Desvincular las siguientes Cuentas.\nUna vez desvincules, no podrás desvincular de nuevo por {0} días."
     }
   ]
 }

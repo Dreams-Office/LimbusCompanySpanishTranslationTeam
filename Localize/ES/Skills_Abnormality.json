@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard"
+          "name": "Guardia"
         }
       ]
     },
@@ -14,7 +14,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade"
+          "name": "Evadir"
         }
       ]
     },
@@ -23,7 +23,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Counter"
+          "name": "Contraataque"
         }
       ]
     },
@@ -32,7 +32,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Evade"
+          "name": "Evadir"
         }
       ]
     },
@@ -78,7 +78,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 Contador de Sangrado el siguiente turno"
                 }
               ]
             }
@@ -99,7 +99,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             }
@@ -167,7 +167,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Girar",
+          "name": "Rodar",
           "coinlist": [
             {}
           ]
@@ -197,7 +197,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sear",
+          "name": "Abrasar",
           "coinlist": [
             {},
             {}
@@ -257,7 +257,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 }
               ]
             }
@@ -491,10 +491,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil el siguiente turno"
                 }
               ]
             }
@@ -516,7 +516,7 @@
                   "desc": "[OnSucceedAttack] El Cuerpo Principal se cura 10 HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 5 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -529,7 +529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let’s Get to Work…",
+          "name": "Manos a la Obra...",
           "coinlist": [
             {},
             {}
@@ -542,8 +542,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Work Hard!",
-          "desc": "[WhenUse] Lose 10 HP; Skill Power +1",
+          "name": "¡Trabaja Duro!",
+          "desc": "[WhenUse] Pierde 10 de HP; Poder de Habilidad +1",
           "coinlist": [
             {}
           ]
@@ -555,7 +555,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So Busy…",
+          "name": "Tan Ocupado...",
           "coinlist": [
             {}
           ]
@@ -567,7 +567,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Best Get It Over With…",
+          "name": "Mejor Acabar de Una Vez...",
           "coinlist": [
             {},
             {}
@@ -580,8 +580,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stay Diligent!",
-          "desc": "[WhenUse] Lose 10 HP; Skill Power +1",
+          "name": "¡Sea Diligente!",
+          "desc": "[WhenUse] Pierde 10 de HP; Poder de Habilidad +1",
           "coinlist": [
             {},
             {},
@@ -595,7 +595,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So Busy…",
+          "name": "Tan Ocupado...",
           "coinlist": [
             {}
           ]
@@ -607,7 +607,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Worktime!",
+          "name": "¡A Trabajar!",
           "coinlist": [
             {}
           ]
@@ -619,12 +619,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Get to Work!",
+          "name": "¡Manos a la Obra!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 Rapidez el siguiente turno"
                 }
               ]
             }
@@ -637,19 +637,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So Excited!!",
+          "name": "¡¡Muy Emocionante!!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] Recibe 3 de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] Recibe 3 de daño"
                 }
               ]
             }
@@ -662,8 +662,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "PUNISH☆MENT",
-          "desc": "[WhenUse] Lose 10 HP; Skill Power +2",
+          "name": "CAS☆TIGO",
+          "desc": "[WhenUse] Pierde 10 HP; Poder de Habilidad +2",
           "coinlist": [
             {},
             {}
@@ -676,26 +676,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "E-MER-GEN-CY!!!",
+          "name": "¡¡¡E-MER-GEN-CIA!!!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] Recibe 3 de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] Recibe 3 de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Take 3 damage"
+                  "desc": "[OnSucceedAttack] Recibe 3 de daño"
                 }
               ]
             }
@@ -708,7 +708,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don’t Stop Me?!",
+          "name": "¡¿No Me Detengas?!",
           "coinlist": [
             {},
             {}
@@ -721,7 +721,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repressed Gesture",
+          "name": "Gesto Reprimido",
           "coinlist": [
             {},
             {}
@@ -746,19 +746,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rosy Dance",
+          "name": "Danza Rosada",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Deseo next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Deseo el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Deseo next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Deseo el siguiente turno"
                 }
               ]
             }
@@ -771,7 +771,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repressed Gesture",
+          "name": "Gesto Reprimido",
           "coinlist": [
             {},
             {}
@@ -796,12 +796,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rosy Dance",
+          "name": "Danza Rosada",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Deseo next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Deseo el próximo turno"
                 }
               ]
             }
@@ -814,7 +814,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Breadwinning!",
+          "name": "¡Hora de Chambear!",
           "coinlist": [
             {}
           ]
@@ -826,12 +826,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Make Some Riches!",
+          "name": "'¡Hacer Mucha Plata!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 Rapidez el siguiente turno"
                 }
               ]
             }
@@ -844,19 +844,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thoroughly Amusing!!",
+          "name": "¡¡Altamente Divertido!!",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Take 3 damage"
+                  "desc": "[OnSucceedAttackHead] Recibe 3 de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Take 3 damage"
+                  "desc": "[OnSucceedAttackHead] Recibe 3 de daño"
                 }
               ]
             }
@@ -869,13 +869,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Twinkle☆Sprinkle Spinny!?",
-          "desc": "[WhenUse] Lose 10 HP; Skill Power +2",
+          "name": "Brilla☆Brilla ¿¡Gira!?",
+          "desc": "[WhenUse] Pierde 10 de HP; Poder de Habilidad +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Deseo next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Deseo el próximo turno"
                 }
               ]
             }
@@ -888,7 +888,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fire Off",
+          "name": "Disparo Incesante",
           "coinlist": [
             {}
           ]
@@ -900,12 +900,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bursting Gloom",
+          "name": "Estallido de Melancolía",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Ahogo el siguiente turno"
                 }
               ]
             }
@@ -918,7 +918,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strike Down",
+          "name": "Golpear",
           "coinlist": [
             {}
           ]
@@ -930,12 +930,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Piercing Lust",
+          "name": "Lujuria Perforante",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -948,7 +948,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Grind",
+          "name": "Moler",
           "coinlist": [
             {}
           ]
@@ -960,19 +960,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prideful Runover",
+          "name": "Arrollamiento Orgulloso",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             }
@@ -985,7 +985,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Beak Pick",
+          "name": "Picotón",
           "coinlist": [
             {}
           ]
@@ -997,7 +997,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slicing Smack",
+          "name": "Rebanar la Carne",
           "coinlist": [
             {},
             {}
@@ -1010,12 +1010,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Foot Stomp",
+          "name": "Pisoteada",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             }
@@ -1028,7 +1028,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Beak Peck",
+          "name": "Picoteo",
           "coinlist": [
             {}
           ]
@@ -1040,7 +1040,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ice Chuck",
+          "name": "Escupir Hielo",
           "coinlist": [
             {}
           ]
@@ -1052,13 +1052,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Beak Smash",
+          "name": "Picotazo",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 }
               ]
             }
@@ -1071,20 +1071,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Eerie Eyes",
+          "name": "Ojos Extraños",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 5 daño de PC"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 5 daño de PC"
                 }
               ]
             }
@@ -1097,8 +1097,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Imperfect Imitation",
-          "desc": "Copies a skill that hit this unit\n[WhenUse] Deal 10 SP damage",
+          "name": "Imitación Imperfecta",
+          "desc": "Copia una habilidad que golpee a esta unidad\n[WhenUse] Inflige 10 de daño PC",
           "coinlist": [
             {
               "coindescs": [
@@ -1116,12 +1116,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Adjust Shell",
+          "name": "Ajustar Caparazón",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10% of Max HP; Gana 1 Instintos"
+                  "desc": "[OnSucceedAttack] Cura 10% de la HP máx; Gana 1 Instintos"
                 }
               ]
             }
@@ -1134,19 +1134,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bone Blast",
+          "name": "Explotar Huesos",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10% of Max HP"
+                  "desc": "[OnSucceedAttack] Cura 10% de HP máx"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 10 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1159,26 +1159,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Violent Scratch",
+          "name": "Rascado Violento",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1191,19 +1191,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rabid Ram",
+          "name": "Embestida Rabiosa",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 4 Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 4 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1216,45 +1216,45 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tear Apart",
+          "name": "Despedazar",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 4 Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 4 Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 4 Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 4 Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             }
@@ -1267,15 +1267,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Furious Chase",
+          "name": "Persecución Furiosa",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +6 de Contador de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 6 Contador de Sangrado el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +6 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] Inflige 6 Contador d e Ruptura el siguiente turno"
                 }
               ]
             }
@@ -1288,7 +1288,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sharp Alertness",
+          "name": "Vigilancia Sagaz",
           "desc": "",
           "coinlist": [
             {}
@@ -1306,7 +1306,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1331,19 +1331,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blind Charge",
+          "name": "Embiste Ciego",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1356,13 +1356,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coiling Arms",
+          "name": "Brazos Enrolladores",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1375,14 +1375,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coil Up",
-          "desc": "[DefeatDuel] Lose 1 Instintos",
+          "name": "Enrollarse",
+          "desc": "[DefeatDuel] Pierde 1 Instintos",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 20 HP; Inflict +5 de Contador de Sangrado"
+                  "desc": "[OnSucceedAttack] Cura 20 HP;Inflige 5 Contador de Sangrado"
                 }
               ]
             }
@@ -1395,27 +1395,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swinging Arms",
-          "desc": "Skill Power -1 for each broken arm",
+          "name": "Brazos Oscilantes",
+          "desc": "Poder de Habilidad -1 por cada brazo roto",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado y 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado y 1 Parálisis"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado y 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado y 1 Parálisis"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de Sangrado y 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 4 Sangrado y 2 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1428,13 +1428,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thrashing Arms",
-          "desc": "[DefeatDuel] Lose 1 Instintos",
+          "name": "Agitación de Brazos",
+          "desc": "[DefeatDuel] Pierde 1 Instintos",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10; Inflige 5 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en 10;Inflige 5 Atadura el siguiente turno"
                 }
               ]
             }
@@ -1447,7 +1447,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Held Breath",
+          "name": "Aguantar la Respiración",
           "desc": "[StartBattle] Gana 1 Instintos",
           "coinlist": [
             {}
@@ -1461,26 +1461,26 @@
         {
           "level": 1,
           "name": "Pained Writhing",
-          "desc": "[WhenUse] Lose 12 HP; Gana 5 de Sangrado el siguiente turno",
+          "desc": "[WhenUse] Pierde 12 HP;Gana 5 Sangrado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Veneno next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Veneno el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Veneno next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Veneno el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Veneno next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Veneno el siguiente turno"
                 }
               ]
             }
@@ -1493,20 +1493,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pained Struggle",
-          "desc": "[WhenUse] Lose 12 HP; Gain +3 de Contador de Sangrado el siguiente turno",
+          "name": "Esfuerzo Doloroso",
+          "desc": "[WhenUse] Pierde 12HP;Gana 3 Contador de Sangrado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 6 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 6 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1531,13 +1531,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deep Thrust",
+          "name": "Apuñalamiento Profundo",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 6 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1550,8 +1550,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Gripping",
-          "desc": "[StartBattle] Mirada into the target for the next turn",
+          "name": "El Agarre",
+          "desc": "[StartBattle] Mantiene su Mirada en el objetivo durante el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1569,14 +1569,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cackle",
-          "desc": "[WhenUse] Deal 10 SP damage",
+          "name": "Carcajada",
+          "desc": "[WhenUse] Inflige 10 de daño PC",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             }
@@ -1589,26 +1589,26 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sin-skewering Nail",
+          "name": "Clavo Atraviesa Pecados",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos N Corp el siguiente turno"
                 }
               ]
             }
@@ -1621,8 +1621,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Purify",
-          "desc": "[WhenUse] If target’s HP is below 30%, Skill Power +2",
+          "name": "Purificar",
+          "desc": "[WhenUse] Si el HP del objetivo esta por debajo del 30%, Poder de Habilidad +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1648,7 +1648,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Clavos N Corp, Stagger them and remove the Clavos"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5 Clavos N Corp, Aturde al enemigo y remueve los Clavos"
                 }
               ]
             }
@@ -1661,20 +1661,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Claim Your Life!",
-          "desc": "[WhenUse] If target’s HP is below 30%, Skill Power +2",
+          "name": "¡Reclamaré Sus Vidas!",
+          "desc": "[WhenUse] Si el HP del objetivo está por debajo del 30%, Poder de Habilidad +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 5+ Clavos, Stagger them"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5 Clavos, lo aturde"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal damage by 3x Clavos on target, then remove the Clavos"
+                  "desc": "[OnSucceedAttack] Realiza un x3 de daño por cada Clavos en el objetivo, luego, remueve los Clavos"
                 }
               ]
             }
@@ -1687,13 +1687,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I Shall Claim Your Life!",
-          "desc": "[DefeatDuel] User becomes Staggered",
+          "name": "¡Reclamaré Sus Vidas!",
+          "desc": "[DefeatDuel] El usuario queda Aturdido",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Stagger target and Inflige 10 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Aturde al objetivo e inflige 10 Frágil el siguiente turno"
                 }
               ]
             }
@@ -1719,8 +1719,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Are Nothing",
-          "desc": "[OnSucceedEvade] Deal 5 SP damage",
+          "name": "No eres nada",
+          "desc": "[OnSucceedEvadir] Inflige 5 daño de PC",
           "coinlist": [
             {}
           ]
@@ -1732,7 +1732,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Protoplast’s Wings",
+          "name": "Alas del Primer Humano",
           "coinlist": [
             {}
           ]
@@ -1744,7 +1744,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Protoplast’s Wings",
+          "name": "Alas del Primer Humano",
           "coinlist": [
             {},
             {}
@@ -1757,45 +1757,45 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Innocent Flutters",
+          "name": "Aleteos inocentes",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1808,25 +1808,25 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Broken Wings",
+          "name": "Alas Rotas",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1839,25 +1839,25 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Broken Wings",
+          "name": "Alas Rotas",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1870,7 +1870,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enraged Flutters",
+          "name": "Revoloteos Iracundos",
           "coinlist": [
             {}
           ]
@@ -1882,35 +1882,35 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Noble Purification",
+          "name": "Purificación Noble",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1923,13 +1923,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Honorable Grip",
-          "desc": "[WhenUse] If target’s HP is below 30%, +100% Damage",
+          "name": "Agarre Honorable",
+          "desc": "[WhenUse] Si el HP del objetivo está por debajo del 30%, +100% Daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target’s HP is below 30%, kill them and heal 30 HP\nGana 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttackHead] Si el HP del objetivo está por debajo del 30%, al matar y cura 30 HP\nGana 2 Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             }
@@ -1942,16 +1942,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repent!!",
-          "desc": "[WhenUse] If target’s HP is below 30%, +100% Damage",
+          "name": "¡¡Arrepiéntanse!!",
+          "desc": "[WhenUse] Si el HP del objetivo está por debajo del 30%, +100% Daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 5 Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 5 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -1964,7 +1964,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Peerless Flesh",
+          "name": "Carne Inigualable",
           "coinlist": [
             {
               "coindescs": [
@@ -1980,7 +1980,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clap",
+          "name": "Aplauso",
           "keywords": [
             "Reduction"
           ],
@@ -2030,7 +2030,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
@@ -2122,7 +2122,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -2291,12 +2291,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coiling Arms",
+          "name": "Brazos Enrolladores",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -2353,7 +2353,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Guardia",
           "coinlist": [
             {
               "coindescs": [
@@ -2377,14 +2377,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Veneno next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Veneno el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Veneno next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Veneno el siguiente turno"
                 }
               ]
             }
@@ -2403,7 +2403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal 5 SP damage"
+                  "desc": "[OnSucceedAttack] Inflige 5 daño de PC"
                 }
               ]
             }
@@ -2495,7 +2495,7 @@
         {
           "level": 1,
           "name": "Khgh",
-          "desc": "[OnSucceedEvade] Target loses 15 SP",
+          "desc": "[OnSucceedEvadir] Target loses 15 SP",
           "coinlist": [
             {}
           ]
@@ -3771,7 +3771,7 @@
         {
           "level": 1,
           "name": "Get It Away",
-          "desc": "[OnDefeatEvade] Lose 8 SP",
+          "desc": "[OnDefeatEvadir] Lose 8 SP",
           "coinlist": [
             {}
           ]
@@ -4001,7 +4001,7 @@
         {
           "level": 1,
           "name": "Piquant Scent",
-          "desc": "[OnSucceedEvade] Inflige 1 de Floración",
+          "desc": "[OnSucceedEvadir] Inflige 1 de Floración",
           "coinlist": [
             {}
           ]
@@ -4414,14 +4414,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Atadura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
@@ -4697,7 +4697,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Skim Wounds",         
+          "name": "Skim Wounds",
           "desc": "",
           "coinlist": [
             {
@@ -4705,7 +4705,6 @@
                 {
                   "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Paralyze"
                 },
-
                 {
                   "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
                 }
@@ -4932,7 +4931,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Sinking next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Ahogo el siguiente turno"
                 }
               ]
             }
@@ -4962,7 +4961,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Sangrado el siguiente turno"
                 }
               ]
             }
@@ -4992,14 +4991,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 de Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             }
@@ -5101,7 +5100,7 @@
             {
               "level": 1,
               "name": "Ravening Hunger",
-              "desc": "[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf the target has 5 +[Laceration], Coin Power +1\nIf the target has [PreparedMeat], Coin Power +10\nCoin Power -5 for every broken Arm Part\n[TargetKill] All Parts gain 2 [Enhancement] for the Encounter (stackable)",
+              "desc": "[CantIdentify]\nPrioritizes targets with [PreparedMeat]\nIf the target has 5 +[Laceration], Coin Power +1\nIf the target has [PreparedMeat], Coin Power +10\nCoin Power -5 for every broken Arm Part\n[TargetKill] All Parts gain 2 [Enhancement] for the EnContraataque (stackable)",
               "coinlist": [
                 {
                   "coindescs": [

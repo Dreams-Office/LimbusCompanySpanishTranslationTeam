@@ -7,15 +7,15 @@
           "level": 1,
           "name": "Remordimiento",
           "abName": "Asesino Abandonado",
-          "desc": "[BeforeAttack] Remove 1 random removable negative effect applied to self",
+          "desc": "[BeforeAttack] Elimina 1 efecto negativo removible aleatorio aplicado a sí mismo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]; Inflige +(Reson.-A de Ira /3) Contador de [Vibration] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -25,15 +25,15 @@
           "level": 3,
           "name": "Remordimiento",
           "abName": "Asesino Abandonado",
-          "desc": "[BeforeAttack] Remove 1 random removable negative effect applied to self",
+          "desc": "[BeforeAttack] Elimina 1 efecto negativo removible aleatorio aplicado a sí mismo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]; Inflige +(Reson.-A de Ira /3) Contador de [Vibration] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor\nIf the target does not have a Stagger Threshold upon Estallido de Tremor,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]\nSi el objetivo no tiene ningún Umbral de Aturdimiento al provocar [VibrationExplosion],\nInflige Daño de Afinidad de Ira igual a (6 + 2x(Reson.-A de Ira))% del último Umbral de Aturdimiento aumentado"
                 }
               ]
             }
@@ -43,15 +43,15 @@
           "level": 4,
           "name": "Remordimiento",
           "abName": "Asesino Abandonado",
-          "desc": "[BeforeAttack] Remove 2 random removable negative effects applied to self",
+          "desc": "[BeforeAttack] Elimina 2 efectos negativos removibles aleatorios aplicados a sí mismo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Tremor Count; Inflict (Wrath A-Reson. /3) additional Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]; Inflige (Reson.-A de Ira /3) Contador de [Vibration] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor\nIf the target does not have a Stagger Threshold upon Estallido de Tremor,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised."
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]\nSi el objetivo no tiene ningún Umbral de Aturdimiento al provocar [VibrationExplosion],\nInflige Daño de Afinidad de Ira igual a (12 + 3x(Reson.-A de Ira))% del último Umbral de Aturdimiento aumentado."
                 }
               ]
             }
@@ -66,15 +66,15 @@
           "level": 1,
           "name": "Remordimiento",
           "abName": "Asesino Abandonado",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Si esta unidad tiene un efecto de estado negativo, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor.\nAmount of Stagger Threshold raised by Estallido de Tremor increases by 30% of Tremor on target.\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion].\nAumento del Umbral de Aturdimiento causado por [VibrantExplosion] aumenta por 30% de la Potencia de [Vibration] en el objetivo.\nReduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[EndSkill] Gana 3 Bind and 1 Blunt Power Up next turn."
+                  "desc": "[EndSkill] Gana 3 [Binding] y 1 Poder Contundente Aumentado el siguiente turno."
                 }
               ]
             }
@@ -84,15 +84,15 @@
           "level": 3,
           "name": "Remordimiento",
           "abName": "Asesino Abandonado",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +1",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Si esta unidad tiene un efecto de estado negativo, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor\nAmount of Stagger Threshold raised by Estallido de Tremor increases by 40% of Tremor on target.\nIf the target does not have a Stagger Threshold upon Estallido de Tremor,\nDeal Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]\nAumento del Umbral de Aturdimiento causado por [VibrantExplosion] aumenta por 40% de la Potencia de [Vibration] en el objetivo.\nSi el objetivo no tiene ningún Umbral de Aturdimiento al provocar [VibrationExplosion],\nInflige Daño de Afinidad de Ira igual a (6 + 2x(Reson.-A de Ira))% del último Umbral de Aturdimiento aumentado\nReduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[EndSkill] Gana 3 Bind and 1 Blunt Power Up next turn."
+                  "desc": "[EndSkill] Gana 3 [Binding] y 1 Poder Contundente Aumentado el siguiente turno."
                 }
               ]
             }
@@ -102,15 +102,15 @@
           "level": 4,
           "name": "Remordimiento",
           "abName": "Asesino Abandonado",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] If this unit has a negative status effect, Atk Weight +2",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Si esta unidad tiene un efecto de estado negativo, Alcance de Atq +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Trigger Estallido de Tremor\nAmount of Stagger Threshold raised by Estallido de Tremor increases by 50% of Tremor on target.\nIf the target does not have a Stagger Threshold upon Estallido de Tremor,\nDeal Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Stagger Threshold raised\nReduce Tremor Count by 1"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]\nAumento del Umbral de Aturdimiento causado por [VibrantExplosion] aumenta por 50% de la Potencia de [Vibration] en el objetivo.\nSi el objetivo no tiene ningún Umbral de Aturdimiento al provocar [VibrationExplosion],\nInflige Daño de Afinidad de Ira igual a (12 + 3x(Reson.-A de Ira))% del último Umbral de Aturdimiento aumentado\nReduce en 1 el Contador de [Vibration] del objetivo"
                 },
                 {
-                  "desc": "[EndSkill] Gana 3 Bind and 1 Blunt Power Up next turn."
+                  "desc": "[EndSkill] Gana 3 [Binding] y 1 Poder Contundente Aumentado el siguiente turno."
                 }
               ]
             }
@@ -125,12 +125,12 @@
           "level": 1,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 3)",
+          "desc": "[BeforeAttack] Gana +8 Contador de [Charge]\n[EndSkill] Aplica +8 Contador de [Charge] a 1 otro aliado con el Contador de [Charge] más bajo\n- Número de aliados afectados aumenta por (Reson. de Envidia más alta - 2) (máx 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 }
               ]
             }
@@ -140,12 +140,12 @@
           "level": 3,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[BeforeAttack] Gain +8 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max 4)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies",
+          "desc": "[BeforeAttack] Gana +8 Contador de [Charge]\n[EndSkill] Aplica +8 Contador de [Charge] a 1 otro aliado con el Contador de [Charge] más bajo\n- Número de aliados afectados aumenta por (Reson. de Envidia más alta - 2) (máx 4)\n- Con 4+ (Reson. de Envidia más alta), Aplica 1 [VioletDamageUp] a sí mismo y a todos los aliados afectados",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 }
               ]
             }
@@ -155,12 +155,12 @@
           "level": 4,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[BeforeAttack] Gain +12 [Charge] Count\n[EndSkill] Apply +8 [Charge] Count to 1 other ally with the least [Charge] Count\n- Number of affected allies grows by (highest Envy Reson. - 2) (max <style=\"highlight\">5</style>)\n- At 4+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies\n<style=\"highlight\">- At 6+ (highest Envy Reson.), apply 1 [VioletDamageUp] to self and all affected allies</style>",
+          "desc": "[BeforeAttack] Gana +12 Contador de [Charge]\n[EndSkill] Aplica +8 Contador de [Charge] a 1 otro aliado con el Contador de [Charge] más bajo\n- Número de aliados afectados aumenta por (Reson. de Envidia más alta - 2) (máx <style=\"highlight\">5</style>)\n- Con 4+ (Reson. de Envidia más alta), Aplica 1 [VioletDamageUp] a sí mismo y a todos los aliados afectados\n<style=\"highlight\">- Con 6+ (Reson. de Envidia más alta), Aplica 1 [VioletDamageUp] a sí mismo y a todos los aliados afectados</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 }
               ]
             }
@@ -175,15 +175,15 @@
           "level": 1,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 2)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +2% more damage for every [Charge] Count consumed (max 40%)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana Alcance de Atq igual a (Reson. de Envidia más alta - 2) (máx 2)\n[BeforeAttack] Si esta unidad tiene 10+ Contador de [Charge], gasta hasta 20 Contador de [Charge]; inflige +2% de daño por cada Contador de [Charge] gastado (máx 40%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 }
               ]
             }
@@ -193,15 +193,15 @@
           "level": 3,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max <style=\"highlight\">3</style>)\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style=\"highlight\">2.5</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">50</style>%)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana Alcance de Atq igual a (Reson. de Envidia más alta - 2) (máx <style=\"highlight\">3</style>)\n[BeforeAttack] Si esta unidad tiene 10+ Contador de [Charge], gasta hasta 20 Contador de [Charge]; inflige +<style=\"highlight\">2.5</style>% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">50</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 }
               ]
             }
@@ -211,15 +211,15 @@
           "level": 4,
           "name": "Chirrido Eléctrico",
           "abName": "Oveja Eléctrica Soñadora",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain Atk Weight equal to (highest Envy Reson. - 2) (max 3)\n<style=\"highlight\">[BeforeAttack] At 10+ [Charge] Count, apply the effects applied from 'On Hit' twice</style>\n[BeforeAttack] If this unit has 10+ [Charge] Count, spend up to 20 [Charge] Count; deal +<style=\"highlight\">3</style>% more damage for every [Charge] Count consumed (max <style=\"highlight\">60</style>%)",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana Alcance de Atq igual a (Reson. de Envidia más alta - 2) (máx 3)\n<style=\"highlight\">[BeforeAttack] Con 10+ Contador de [Charge], aplica los efectos aplicados 'Tras Golpear' dos veces</style>\n[BeforeAttack] Si esta unidad tiene 10+ Contador de [Charge], gasta hasta 20 Contador de [Charge]; inflige +<style=\"highlight\">3</style>% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">60</style>%)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Paralysis]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Paralysis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 }
               ]
             }

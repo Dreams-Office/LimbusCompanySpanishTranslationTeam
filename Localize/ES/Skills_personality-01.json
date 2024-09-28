@@ -36,7 +36,7 @@
         {
           "level": 4,
           "name": "Mantén la Calma",
-          "desc": "Si esta Habilidad es Descartada, gana +4 Contador de [Vibration]\n[WhenUse] Gana +2 Contador de [Vibration]\nCon 5+ de Contador de [Vibration], gana Poder de Moneda +1",
+          "desc": "Si esta Habilidad es Descartada, gana +4 Contador de [Vibration]\n[WhenUse] Gana +2 Contador de [Vibration]\nCon 5+ Contador de [Vibration], gana Poder de Moneda +1",
           "coinlist": [
             {},
             {
@@ -61,7 +61,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de [Vibration], activa [VibrationExplosion]. Reduce en 2 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Con 5+ Contador de [Vibration], provoca [VibrationExplosion]. Reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -78,7 +78,7 @@
                   "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de [Vibration], activa [VibrationExplosion]. Reduce en 2 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Con 5+ Contador de [Vibration], provoca [VibrationExplosion]. Reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -95,7 +95,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 5+ de Contador de [Vibration], activa [VibrationExplosion]. Reduce en 2 el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Con 5+ Contador de [Vibration], provoca [VibrationExplosion]. Reduce en 2 el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -117,7 +117,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], activa [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], provoca [VibrationExplosion]"
                 }
               ]
             },
@@ -128,7 +128,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 2 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], activa [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], provoca [VibrationExplosion]"
 		}
               ]
             }
@@ -145,7 +145,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], activa [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], provoca [VibrationExplosion]"
                 }
               ]
             },
@@ -156,7 +156,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 Nivel Defensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], activa [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Si la Habilidad gastó Contador de [Vibration], provoca [VibrationExplosion]"
                 }
               ]
             }
@@ -222,7 +222,7 @@
         {
           "level": 4,
           "name": "Hendidura Dimensional",
-          "desc": "[WhenUse] Gana +2 Contador de [Charge]\nCon 10+ de Contador de [Charge], Poder de Moneda +2",
+          "desc": "[WhenUse] Gana +2 Contador de [Charge]\nCon 10+ Contador de [Charge], Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -249,7 +249,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el siguiente turno"
                 }
               ]
             },
@@ -265,12 +265,12 @@
         {
           "level": 2,
           "name": "Ciclo de Energía",
-          "desc": "[WhenUse] Gana +6 Contador de [Charge]\nCon 10+ de Contador de [Charge], Poder de Moneda +1",
+          "desc": "[WhenUse] Gana +6 Contador de [Charge]\nCon 10+ Contador de [Charge], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 }
               ]
             },
@@ -280,7 +280,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ de Contador de [Charge], Inflige 3 de [Burst]"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], Inflige 3 de [Burst]"
                 }
               ]
             }
@@ -289,12 +289,12 @@
         {
           "level": 4,
           "name": "Ciclo de Energía",
-          "desc": "[WhenUse] Gana +7 Contador de [Charge]\nCon 10+ de Contador de [Charge], Poder de Moneda +1",
+          "desc": "[WhenUse] Gana +7 Contador de [Charge]\nCon 10+ Contador de [Charge], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 }
               ]
             },
@@ -304,7 +304,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ de Contador de [Charge], Inflige 3 de [Burst] y +2 Contador de [Burst]"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], Inflige 3 de [Burst] y +2 Contador de [Burst]"
                 }
               ]
             }
@@ -318,7 +318,7 @@
         {
           "level": 3,
           "name": "Grieta Dimensional",
-          "desc": "[WhenUse] Con menos de 15 de Contador de [Charge], gasta 10 Contador de [Charge] para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +2",
+          "desc": "[WhenUse] Con menos de 15 Contador de [Charge], gasta 10 Contador de [Charge] para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "Grieta Dimensional",
-          "desc": "[WhenUse] Con menos de 15 de Contador de Carga, consume 10 de Contador de Carga para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 de Contador de [Charge] para ganar Poder de Moneda +2 \n[BeforeAttack] Si se gastó 15 de Contador de [Charge], Inflige +3 Contador de [Burst]",
+          "desc": "[WhenUse] Con menos de 15 Contador de Carga, gasta 10 Contador de Carga para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +2 \n[BeforeAttack] Si se gastó 15 Contador de [Charge], Inflige +3 Contador de [Burst]",
           "coinlist": [
             {
               "coindescs": [
@@ -374,7 +374,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de [Burst] por cada 5 Contador de [Charge] gastado por esta Habilidad (Máx 9)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si la Habilidad gastó 15 de Contador de [Charge] al usarse, Inflige 2 Grieta Dimensional"
+                  "desc": "[OnSucceedAttack] Si la Habilidad gastó 15 Contador de [Charge] al usarse, Inflige 2 Grieta Dimensional"
                 },
                 {
                   "desc": "[EnemyKill] Gana 5 Barrera de Carga"
@@ -399,7 +399,7 @@
         {
           "level": 4,
           "name": "Dimensión Hueca",
-          "desc": "Poder Base +1 por cada 5 Contador de [Charge] (Máx 2)\n[OnSucceedEvade] +1 de Potencia cuando se aplica Ruptura por primera vez con un efecto de Habilidad el próximo turno (Máx +3 por turno)",
+          "desc": "Poder Base +1 por cada 5 Contador de [Charge] (Máx 2)\n[OnSucceedEvade] +1 de Potencia cuando se aplica Ruptura por primera vez con un efecto de Habilidad el siguiente turno (Máx +3 por turno)",
           "coinlist": [
             {}
           ]
@@ -433,7 +433,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
@@ -451,7 +451,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el próximo turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
@@ -670,7 +670,7 @@
         {
           "level": 4,
           "name": "Emplear Conocimientos",
-          "desc": "Gana ([KnowledgeExplored] x 3)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Si el objetivo tiene 5+ [Sinking], Poder de Moneda +1",
+          "desc": "Gana ([KnowledgeExplored] x 3)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -718,7 +718,7 @@
         {
           "level": 2,
           "name": "Cerrado y Sellado",
-          "desc": "Gana ([KnowledgeExplored] x 5)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el próximo turno",
+          "desc": "Gana ([KnowledgeExplored] x 5)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -740,7 +740,7 @@
         {
           "level": 4,
           "name": "Cerrado y Sellado",
-          "desc": "Gana ([KnowledgeExplored] x 6)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Si el objetivo tiene 5+ [Sinking], Poder de Moneda +1\n[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el próximo turno",
+          "desc": "Gana ([KnowledgeExplored] x 6)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] [Discard] 1 Habilidad del rango más alto entre todas las Ranuras de Habilidad de esta unidad\n[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1\n[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
@@ -767,7 +767,7 @@
         {
           "level": 3,
           "name": "Don del Conocimiento",
-          "desc": "Gana ([KnowledgeExplored] x 9)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +8 de [Aggro] para esta Ranura de Habilidad el próximo turno",
+          "desc": "Gana ([KnowledgeExplored] x 9)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +8 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {},
@@ -784,7 +784,7 @@
         {
           "level": 4,
           "name": "Don del Conocimiento",
-          "desc": "Gana ([KnowledgeExplored] x 12)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +10 de [Aggro] para esta Ranura de Habilidad el próximo turno\n[WhenUse] Con 50%- de HP, Poder de Moneda +1",
+          "desc": "Gana ([KnowledgeExplored] x 12)% del HP Máx de Escudo si esta Habilidad es Descartada\n[WhenUse] Gana +10 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Con 50%- de HP, Poder de Moneda +1",
           "coinlist": [
             {},
             {},
@@ -806,7 +806,7 @@
         {
           "level": 1,
           "name": "Estudio Específico",
-          "desc": "[WhenUse] [Discard] aleatoriamente 2 Habilidades de esta unidad en orden ascendente de rangos entre todas sus Ranuras de Habilidad\n[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el próximo turno",
+          "desc": "[WhenUse] [Discard] aleatoriamente 2 Habilidades de esta unidad en orden ascendente de rangos entre todas sus Ranuras de Habilidad\n[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -820,7 +820,7 @@
         {
           "level": 4,
           "name": "Estudio Específico",
-          "desc": "[WhenUse] [Discard] aleatoriamente 2 Habilidades de esta unidad en orden ascendente de rangos entre todas sus Ranuras de Habilidad\n[WhenUse] Gana +5 de [Aggro] para esta Ranura de Habilidad el próximo turno",
+          "desc": "[WhenUse] [Discard] aleatoriamente 2 Habilidades de esta unidad en orden ascendente de rangos entre todas sus Ranuras de Habilidad\n[WhenUse] Gana +5 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -845,14 +845,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -867,14 +867,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] [OnSucceedAttackHead] Inflige +2 de Contador para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttackHead] [OnSucceedAttackHead] Inflige +2 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -883,20 +883,20 @@
         {
           "level": 4,
           "name": "Recubrir Pintura",
-          "desc": "Si el objetivo tiene 6+ [Laceration], Poder de Choque +1",
+          "desc": "Si el objetivo tiene 6+ de [Laceration], Poder de Choque +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 de Contador para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -921,7 +921,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             }
@@ -930,7 +930,7 @@
         {
           "level": 2,
           "name": "Puntillismo Sanguíneo",
-          "desc": "Si el objetivo tiene 6+ [Laceration], Poder de Choque +1",
+          "desc": "Si el objetivo tiene 6+ de [Laceration], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
@@ -941,7 +941,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             }
@@ -950,7 +950,7 @@
         {
           "level": 4,
           "name": "Puntillismo Sanguíneo",
-          "desc": "Poder de Choque +1 por cada 3 [Laceration] en el objetivo (máx 2)\nPoder de Moneda +1 por cada 3 Contador de [Laceration] en el objetivo (máx 2)",
+          "desc": "Poder de Choque +1 por cada 3 de [Laceration] en el objetivo (máx 2)\nPoder de Moneda +1 por cada 3 Contador de [Laceration] en el objetivo (máx 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -961,7 +961,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al Azar."
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al Azar."
                 }
               ]
             }
@@ -975,7 +975,7 @@
         {
           "level": 3,
           "name": "Coloración Hemática",
-          "desc": "Si el objetivo tiene 6+ [Laceration], Poder de Choque +1",
+          "desc": "Si el objetivo tiene 6+ de [Laceration], Poder de Choque +1",
           "coinlist": [
             {},
             {
@@ -984,17 +984,17 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]. Si el objetivo tiene 4+ tipos de efectos negativos, inflige +2 Contador de [Laceration] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Laceration]. Si el objetivo tiene 4+ tipos de efectos negativos, inflige 2 [Laceration] adicional"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]. Si el objetivo tiene 4+ tipos de efectos negativos, inflige 2 [Laceration] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Potencia para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttack] Inflige 2 de Potencia de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             },
@@ -1004,7 +1004,7 @@
                   "desc": "Inflige +15% de daño por cada tipo de efecto negativo en el objetivo (máx 75%)"
                 },
                 {
-                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, inflige 2 Potencia para 1 de los siguientes efectos en 1 enemigo con la menor cantidad de tipos de efectos negativos: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, inflige 2 de Potencia de 1 de los siguientes efectos en 1 enemigo con la menor cantidad de tipos de efectos negativos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             }
@@ -1013,7 +1013,7 @@
         {
           "level": 4,
           "name": "Coloración Hemática",
-          "desc": "Poder de Choque +1 por cada 3 [Laceration] en el objetivo (máx 2)\nPoder de Moneda +1 por cada 3 Contador de [Laceration] en el objetivo (máx 2)",
+          "desc": "Poder de Choque +1 por cada 3 de [Laceration] en el objetivo (máx 2)\nPoder de Moneda +1 por cada 3 Contador de [Laceration] en el objetivo (máx 2)",
           "coinlist": [
             {},
             {
@@ -1022,17 +1022,17 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]. Si el objetivo tiene 3+ tipos de efectos negativos, inflige +2 Contador de [Laceration] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador para 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]. If the target has 3+ types of negative effects, inflict 2 additional [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]. Si el objetivo tiene 3+ tipos de efectos negativos, inflige 2 de [Laceration] adicional"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 Potency for 1 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random."
+                  "desc": "[OnSucceedAttack] Inflige 2 de Potencia de 1 de los siguientes efectos en 1 enemigo con la menor cantidad de tipos de efectos negativos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             },
@@ -1042,7 +1042,7 @@
                   "desc": "Inflige +25% de daño por cada tipo de efecto negativo en el objetivo (máx 125%)"
                 },
                 {
-                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, inflige 2 de Potencia para 1 de los siguientes efectos en 2 enemigos con la menor cantidad de tipos de efectos negativos: [Combustion], [Laceration], [Vibration], [Burst], [Sinking]. Efecto seleccionado al azar."
+                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, inflige 2 de Potencia de 1 de los siguientes efectos en 2 enemigos con la menor cantidad de tipos de efectos negativos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 }
               ]
             }
@@ -1056,7 +1056,7 @@
         {
           "level": 1,
           "name": "Sacudir el Pincel",
-          "desc": "Si el objetivo tiene 6+ [Laceration], Poder Base +5",
+          "desc": "Si el objetivo tiene 6+ de [Laceration], Poder Base +5",
           "coinlist": [
             {
               "coindescs": [
@@ -1070,7 +1070,7 @@
         {
           "level": 4,
           "name": "Sacudir el Pincel",
-          "desc": "Poder Base +1 por cada 1 [Laceration] en el objetivo (Máx 10)",
+          "desc": "Poder Base +1 por cada [Laceration] en el objetivo (Máx 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -1174,7 +1174,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lamento Solemne por los Vivos",
+          "name": "Lamento Solemne para los Vivos",
           "desc": "",
           "coinlist": [
             {
@@ -1201,7 +1201,7 @@
         },
         {
           "level": 2,
-          "name": "Lamento Solemne por los Vivos",
+          "name": "Lamento Solemne para los Vivos",
           "desc": "Si la suma de [Sinking] y [SinkingWhite] en el objetivo es mayor o igual a 6, Poder de Moneda +1\n[WinDuel] Inflige +1 Contador de [Sinking]\n[EndSkill] Gana (Reson. más alta) de [BulletLament] (máx 6)\n- Si la Reson. fue una Reson.-A, gana (Reson. más alta x 2) de [BulletLament] (máx 12)",
           "coinlist": [
             {
@@ -1228,7 +1228,7 @@
         },
         {
           "level": 4,
-          "name": "Lamento Solemne por los Vivos",
+          "name": "Lamento Solemne para los Vivos",
           "desc": "Con 10+ de [BulletLament], Poder de Choque +1\n<style=\"highlight\">Poder de Moneda +1 por cada 6 valor</style> de la suma de [Sinking] y [SinkingWhite] en el objetivo<style=\"highlight\">(máx 2)</style>\n[WinDuel] Inflige Contador de +1 [Sinking]\n[EndSkill] Gana (Reson. más alta) de [BulletLament] (máx 6)\n- Si la Reson. fue una Reson.-A, gana (Reson. más alta x 2) de [BulletLament] (máx 12)\n- Si la Reson. es una 4+ Reson.-A, [ReloadLament] en su lugar",
           "coinlist": [
             {
@@ -1308,7 +1308,7 @@
         {
           "level": 4,
           "name": "Inhumación Solemne Ante Nosotros, Gocen",
-          "desc": "Poder Base +1 por cada <style=\"highlight\">5</style> de [BulletLament] <style=\"highlight\">(max 4)</style>\nCoin Power +1 for every 6 value of the sum of the target's [Sinking] and both [SinkingWhite] (max 2)\n[WinDuel] Inflige +3 Contador de [Sinking]\n[EndSkill] [ReloadLament]",
+          "desc": "Poder Base +1 por cada <style=\"highlight\">5</style> de [BulletLament] <style=\"highlight\">(max 4)</style>\nPoder de Moneda +1 por cada 6 valor de la suma de [Sinking] y [SinkingWhite] en el objetivo (máx 2)\n[WinDuel] Inflige +3 Contador de [Sinking]\n[EndSkill] [ReloadLament]",
           "coinlist": [
             {
               "coindescs": [

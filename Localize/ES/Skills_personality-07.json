@@ -6,13 +6,13 @@
         {
           "level": 1,
           "name": "Acechar Presa",
-          "desc": "[WhenUse] Gana +2 de Contador de Temple\n[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]\n[WhenUse] Gana +2 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -21,13 +21,13 @@
         {
           "level": 2,
           "name": "Acechar Presa",
-          "desc": "[WhenUse] Gana +3 de Contador de Temple\n[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +3 Contador de [Breath]\n[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -36,13 +36,13 @@
         {
           "level": 4,
           "name": "Acechar Presa",
-          "desc": "[WhenUse] Gana +4 de Contador de Temple\n[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +4 Contador de [Breath]\n[WhenUse] Gana +5 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -56,13 +56,13 @@
         {
           "level": 1,
           "name": "Enganche de Arpón",
-          "desc": "[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno",
+          "desc": "[WhenUse] Gana +2 de [Aggro] para esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige Contador de Sangrado al igual que el 1/4 de Potencia de Sangrado en el objetivo (Máx 10)"
+                  "desc": "[CriticalOnSucceedAttack] Inflige Contador de [Laceration] igual a 1/4 de la Potencia de [Laceration] en el objetivo (Máx 10)"
                 }
               ]
             },
@@ -72,13 +72,13 @@
         {
           "level": 2,
           "name": "Enganche de Arpón",
-          "desc": "[WhenUse] Gana +3 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de Temple por cada 3 de Sangrado en el objetivo (Máx 10)",
+          "desc": "[WhenUse] Gana +3 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de [Breath] por cada 3 de [Laceration] en el objetivo (Máx 10)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige Contador de Sangrado al igual que el 1/4 de Potencia de Sangrado en el objetivo (Máx 10)"
+                  "desc": "[CriticalOnSucceedAttack] Inflige Contador de [Laceration] igual a 1/4 de la Potencia de [Laceration] en el objetivo (Máx 10)"
                 }
               ]
             },
@@ -88,13 +88,13 @@
         {
           "level": 4,
           "name": "Enganche de Arpón",
-          "desc": "[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de Temple por cada 3 de Sangrado en el objetivo (Máx 10)",
+          "desc": "[WhenUse] Gana +5 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 de [Breath] por cada 3 de [Laceration] en el objetivo (Máx 10)",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige Contador de Sangrado al igual que el 1/3 de Potencia de Sangrado del objetivo (Máx 10)"
+                  "desc": "[CriticalOnSucceedAttack] Inflige Contador de [Laceration] igual a 1/3 de la Potencia de [Laceration] del objetivo (Máx 10)"
                 }
               ]
             },
@@ -108,26 +108,26 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Nudo Cortante",
-          "desc": "Con 3+ Reson. de Envida, Poder de Choque +1\nCon 4+ Reson. de Envidia, Poder de Moneda +1",
+          "name": "Cortar Nudo",
+          "desc": "Con 3+ Reson. de Envidia, Poder de Choque +1\nCon 4+ Reson. de Envidia, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con -50% HP, Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Con 50%- de HP, Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con -50% HP, Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Con 50%- de HP, Inflige 1 de [Laceration]"
                 }
               ]
             },
@@ -135,7 +135,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +30% de Daño en un Golpe Crítico"
+                  "desc": "[CriticalOnSucceedAttack] +30% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -143,32 +143,32 @@
         },
         {
           "level": 4,
-          "name": "Nudo Cortante",
-          "desc": "Con 3+ Reson. de Envida, Poder de Choque +1\nCon 4+ Reson. de Envidia, Poder de Moneda +1\nCon 6+ Reson. de Envidia, Poder de Moneda +1",
+          "name": "Cortar Nudo",
+          "desc": "Con 3+ Reson. de Envidia, Poder de Choque +1\nCon 4+ Reson. de Envidia, Poder de Moneda +1\nCon 6+ Reson. de Envidia, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con -75% HP, Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Con 75%- de HP, Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con -50% HP, Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Con 50%- de HP, Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con -75% HP, Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Con 75%- de HP, Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Con -50% HP, Inflige 1 de Sangrado"
+                  "desc": "[OnSucceedAttack] Con 50%- de HP, Inflige 1 de [Laceration]"
                 }
               ]
             },
@@ -176,7 +176,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] +50% de Daño en un Golpe Crítico"
+                  "desc": "[CriticalOnSucceedAttack] +50% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -190,7 +190,7 @@
         {
           "level": 1,
           "name": "Retribución",
-          "desc": "[WhenUse] Gana +2 de Agravio para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
+          "desc": "[WhenUse] Gana +2 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -204,7 +204,7 @@
         {
           "level": 4,
           "name": "Retribución",
-          "desc": "[WhenUse] Gana +5 de Agravio para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
+          "desc": "[WhenUse] Gana +5 de [Aggro] para esta Ranura de Habilidad el siguiente turno\n[StartBattle] Gana [DefenseUp] por cada [Breath] en sí mismo (Máx 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -229,7 +229,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 }
               ]
             }
@@ -244,7 +244,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 }
               ]
             }
@@ -259,7 +259,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Vibration]"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
                 }
               ]
             }
@@ -360,7 +360,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si la suma de la Potencia y Contador de [Vibration] del objetivo es 20 o más alto, provoca [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [VibrationCollapse]\n([Switch_Vibration] : Convierte [Vibration] o [Vibration] ya convertido en un objetivo a un diferente tipo de [Vibration]. Los valores de Potencia y Contador se transfieren con la conversión.)"
+                  "desc": "[OnSucceedAttack] Si la suma de Potencia y Contador de [Vibration] del objetivo es 20 o mayor, provoca [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [VibrationCollapse]"
                 }
               ]
             }
@@ -388,7 +388,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si la suma de la Potencia y Contador de [Vibration] del objetivo es 20 o más alto, provoca [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [VibrationCollapse]\n([Switch_Vibration] : Convierte [Vibration] o [Vibration] ya convertido en un objetivo a un diferente tipo de [Vibration]. Los valores de Potencia y Contador se transfieren con la conversión.)"
+                  "desc": "[OnSucceedAttack] Si la suma de Potencia y Contador de [Vibration] del objetivo es 20 o mayor, provoca [Switch_Vibration] en el objetivo, convirtiendo el [Vibration] en [VibrationCollapse]"
                 }
               ]
             }
@@ -402,7 +402,7 @@
         {
           "level": 1,
           "name": "No Obstaculizar",
-          "desc": "Cuando es atacado mientras esta unidad está Escudada, Inflige +1 de Contador de [Vibration] en el atacante (el efecto de esta Habilidad no se acumula con usos múltiples)",
+          "desc": "Al ser atacado mientras esta unidad está Escudada, Inflige +1 Contador de [Vibration] en el atacante (el efecto de esta Habilidad no se acumula con usos múltiples)",
           "coinlist": [
             {
               "coindescs": [
@@ -416,7 +416,7 @@
         {
           "level": 4,
           "name": "No Obstaculizar",
-          "desc": "Cuando es atacado mientras esta unidad está Escudada, Inflige +1 de Contador de [Vibration] en el atacante (el efecto de esta Habilidad no se acumula con usos múltiples)",
+          "desc": "Al ser atacado mientras esta unidad está Escudada, Inflige +1 Contador de [Vibration] en el atacante (el efecto de esta Habilidad no se acumula con usos múltiples)",
           "coinlist": [
             {
               "coindescs": [
@@ -434,14 +434,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "40S-2 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1",
+          "name": "Activación 40S-2",
+          "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 }
               ]
             }
@@ -449,20 +449,20 @@
         },
         {
           "level": 2,
-          "name": "40S-2 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "Activación 40S-2",
+          "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gain +2 [Charge] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gana +2 Contador de [Charge]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -470,20 +470,20 @@
         },
         {
           "level": 4,
-          "name": "40S-2 Activation",
-          "desc": "[WhenUse] Consume 5 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "Activación 40S-2",
+          "desc": "[WhenUse] Gasta 5 Contador de [Charge] para ganar Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 [Charge] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -496,15 +496,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Photoelectric Mark",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1",
+          "name": "Marca Fotoeléctrica",
+          "desc": "[WhenUse] Con 5 a 9 de Contador de [Charge], consume 2(10 - Contador de [Charge] actual)% de HP para aumentar Contador de [Charge] a 10\n[WhenUse] Gasta 10 Contador de [Charge] para ganar Poder de Moneda +1",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 2)"
+                  "desc": "[OnSucceedAttack] Inflige [PhotoElectricity] igual a [Charge] (máx 2)"
                 }
               ]
             }
@@ -512,24 +512,24 @@
         },
         {
           "level": 2,
-          "name": "Photoelectric Mark",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power +1<style=\"highlight\"></style>",
+          "name": "Marca Fotoeléctrica",
+          "desc": "[WhenUse] Con 5 a 9 de Contador de [Charge], consume 2(10 - Contador de [Charge] actual)% de HP para aumentar Contador de [Charge] a 10\n[WhenUse] Gasta 10 Contador de [Charge] para ganar Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si esta unidad gastó Contador de [Charge], inflige 2 [DefenseDown]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {                
-                "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [TakeHpHealReduce]</style>"
+                "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 [TakeHpHealReduce]</style>"
               },
               {
-                "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max <style=\"highlight\">3</style>)"
+                "desc": "[OnSucceedAttack] Inflige [PhotoElectricity] igual a [Charge] (máx <style=\"highlight\">3</style>)"
               }
             ]
           }
@@ -537,30 +537,30 @@
         },
         {
           "level": 4,
-          "name": "Photoelectric Mark",
-          "desc": "[WhenUse] At 5~9 [Charge] Count, consume 2(10 - current [Charge] Count)% HP to raise [Charge] Count to 10\n[WhenUse] Consume 10 [Charge] Count to gain Coin Power <style=\"highlight\">+2</style>",
+          "name": "Marca Fotoeléctrica",
+          "desc": "[WhenUse] Con 5 a 9 de Contador de [Charge], consume 2(10 - Contador de [Charge] actual)% de HP para aumentar Contador de [Charge] a 10\n[WhenUse] Gasta 10 Contador de [Charge] para ganar Poder de Moneda <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si esta unidad gastó Contador de [Charge], inflige 2 [DefenseDown]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this unit consumed [Charge] Count, inflict 2 [DefenseDown]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Si esta unidad gastó Contador de [Charge], inflige 2 [DefenseDown]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [TakeHpHealReduce]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> [TakeHpHealReduce]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [PhotoElectricity] igual a [Charge] (máx 3)<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -573,28 +573,28 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Photoelectric Harpoon",
-          "desc": "At 2+ [Charge], Coin Power +1",
+          "name": "Arpón Fotoeléctrico",
+          "desc": "Con 2+ de [Charge], Poder de Moneda +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +5 [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gana +5 Contador de [Charge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] x 3) [Charge] Count (max 9)"
+                  "desc": "[OnSucceedAttack] Gana +([Charge] x 3) Contador de [Charge] (máx 9)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)"
+                  "desc": "[OnSucceedAttack] Inflige [PhotoElectricity] igual a [Charge] (máx 3)"
                 }
               ]
             }
@@ -602,31 +602,31 @@
         },
         {
           "level": 4,
-          "name": "Photoelectric Harpoon",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 2 [Charge] on self (max 2)</style>",
+          "name": "Arpón Fotoeléctrico",
+          "desc": "<style=\"highlight\">Poder de Moneda +1 por cada 2 de [Charge] en sí mismo (máx 2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +<style=\"highlight\">7</style> [Charge] Count"
+                  "desc": "[OnSucceedAttack] Gana +<style=\"highlight\">7</style> Contador de [Charge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +([Charge] x 3) [Charge] Count (max 9)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana +([Charge] x 3) Contador de [Charge] (máx 9)<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict [PhotoElectricity] equal to [Charge] (max 3)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [PhotoElectricity] igual a [Charge] (máx 3)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflict 1 [HitTakeDamageUp] for every 2 [Charge] (max 2)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 [HitTakeDamageUp] por cada 2 de [Charge] (máx 2)</style>"
                 }
               ]
             }
@@ -639,16 +639,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge",
-          "desc": "[WhenUse] Gain +3 [Charge] Count (once per turn)",
+          "name": "Cargar",
+          "desc": "[WhenUse] Gana +3 Contador de [Charge] (una vez por turno)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Charge",
-          "desc": "[WhenUse] Gain +3 [Charge] Count (<style=\"highlight\">2 times</style> per turn)",
+          "name": "Cargar",
+          "desc": "[WhenUse] Gana +3 Contador de [Charge] (<style=\"highlight\">2 veces</style> por turno)",
           "coinlist": [
             {}
           ]
@@ -660,14 +660,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Beheading",
-          "desc": "[WhenUse] If the target has 8+ [Sinking], Clash Power +1",
+          "name": "Decapitación",
+          "desc": "[WhenUse] Si el objetivo tiene 8+ de [Sinking], Poder de Choque +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             }
@@ -675,14 +675,14 @@
         },
         {
           "level": 2,
-          "name": "Beheading",
-          "desc": "[WhenUse] If the target has 6+ [Sinking], Clash Power +1\n<style=\"highlight\">[WhenUse] If the target has 3+ [Sinking] Count, Coin Power +1</style>",
+          "name": "Decapitación",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Choque +1\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 3+ Contador de [Sinking], Poder de Moneda +1</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             }
@@ -690,14 +690,14 @@
         },
         {
           "level": 4,
-          "name": "Beheading",
-          "desc": "[WhenUse] If the target has 6+ [Sinking], Clash Power +1\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 3 [Sinking] Count on the target (max 2)</style>",
+          "name": "Decapitación",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Choque +1\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 3 Contador de [Sinking] en el objetivo (máx 2)</style>",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> de [Sinking]"
                 }
               ]
             }
@@ -710,24 +710,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Memorial Procession",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Coin Power +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
+          "name": "Procesión Conmemorativa",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1\n[EndSkill] Si esta unidad tiene [NightPathfinding], pierde 10 PC",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [WanderingFootsteps] el siguiente turno"
                 }
               ]
             }
@@ -735,24 +735,24 @@
         },
         {
           "level": 2,
-          "name": "Memorial Procession",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Coin Power +1\n<style=\"highlight\">[WhenUse] At 4+ [Coffin], Atk Weight +1\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1</style>\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
+          "name": "Procesión Conmemorativa",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1\n<style=\"highlight\">[WhenUse] Con 4+ [Coffin], Alcance de Atq +1\n[WhenUse] Si esta unidad tiene [NightPathfinding], Alcance de Atq +1</style>\n[EndSkill] Si esta unidad tiene [NightPathfinding], pierde 10 PC",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [WanderingFootsteps] el siguiente turno"
                 }
               ]
             }
@@ -760,24 +760,24 @@
         },
         {
           "level": 4,
-          "name": "Memorial Procession",
-          "desc": "[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 Sinking on the target (max 2)</style>\n[WhenUse] <style=\"highlight\">Atk Weight +1 for every 4 [Coffin] on self (max 2)</style>\n[WhenUse] If this unit has [NightPathfinding], Atk Weight +1\n[EndSkill] If this unit has [NightPathfinding], lose 10 SP",
+          "name": "Procesión Conmemorativa",
+          "desc": "[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 5 de [Sinking] en el objetivo (máx 2)</style>\n[WhenUse] <style=\"highlight\">Alcance de Atq +1 por cada 4 [Coffin] en sí mismo (máx 2)</style>\n[WhenUse] Si esta unidad tiene [NightPathfinding], Alcance de Atq +1\n[EndSkill] Si esta unidad tiene [NightPathfinding], pierde 10 PC",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [WanderingFootsteps] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [WanderingFootsteps] el siguiente turno"
                 }
               ]
             }
@@ -791,25 +791,25 @@
         {
           "level": 3,
           "name": "Requiem",
-          "desc": "[WinDuel] Heal 10 SP\n[BeforeUse] If this unit has [NightPathfinding], activate 'Lament, Mourn, and Despair' instead\n[WhenUse] Coin Power +1 for every 6 [Sinking] on the target (max 2)\n[WhenUse] Deal +7% more damage for every [Coffin] on self (max 70%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]",
+          "desc": "[WinDuel] Cura 10 PC\n[BeforeUse] Si esta unidad tiene [NightPathfinding], activa 'Lamento, Duelo y Desesperación' en su lugar\n[WhenUse] Poder de Moneda +1 por cada 6 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Inflige +7% de daño por cada [Coffin] en sí mismo (máx 70%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [WanderingFootsteps], inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [WanderingFootsteps], inflige +2 Contador de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 3)"
+                  "desc": "[EnemyKill] Inflige ([Sinking] en objetivo Derrotado/3) Sinking en 2 enemigos aleatorios (máx 3)"
                 }
               ]
             }
@@ -818,25 +818,25 @@
         {
           "level": 4,
           "name": "Requiem",
-          "desc": "[WinDuel] Heal 10 SP\n[BeforeUse] If this unit has [NightPathfinding], activate 'Lament, Mourn, and Despair' instead\n[WhenUse] Coin Power +1 for <style=\"highlight\">every 3</style> [Sinking] on the target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal +12% more damage for every [Coffin] on self (max 120%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]",
+          "desc": "[WinDuel] Cura 10 PC\n[BeforeUse] Si esta unidad tiene [NightPathfinding], activa 'Lamento, Duelo y Desesperación' en su lugar\n[WhenUse] Poder de Moneda +1 por <style=\"highlight\">cada 3</style> de [Sinking] en el objetivo (máx <style=\"highlight\">4</style>)\n[WhenUse] Inflige +12% de daño por cada [Coffin] en sí mismo (máx 120%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+4</style> [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+4</style> Contador de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [WanderingFootsteps], inflict +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [WanderingFootsteps], inflige +2 Contador de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">3</style> [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> de [Sinking]"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">5</style>)"
+                  "desc": "[EnemyKill] Inflige ([Sinking] en objetivo Derrotado/<style=\"highlight\">2</style>) [Sinking] en 2 enemigos aleatorios (máx <style=\"highlight\">5</style>)"
                 }
               ]
             }
@@ -850,13 +850,13 @@
         {
           "level": 1,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]",
+          "desc": "[DuelCounter]\n[StartBattle] Si esta unidad no tiene [NightPathfinding], gana 1 [NightPathfinding] el siguiente turno (una vez por turno)\n[EndBattle] Si esta unidad tiene [NightPathfinding], pierde [NightPathfinding]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             }
@@ -865,13 +865,13 @@
         {
           "level": 3,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] If this unit has [NightPathfinding] and has 15+ SP, use Lament, Mourn, and Despair as Counter (once per turn)</style>\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n<style=\"highlight\">[WhenUse] If the target has 6+ [Sinking], Coin Power +1</style>\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]",
+          "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Si esta unidad tiene [NightPathfinding] y tiene 15+ PC, usa 'Lamento, Duelo y Desesperación' como Contraataque (una vez por turno)</style>\n[StartBattle] Si esta unidad no tiene [NightPathfinding], gana 1 [NightPathfinding] el siguiente turno (una vez por turno)\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +1</style>\n[EndBattle] Si esta unidad tiene [NightPathfinding], pierde [NightPathfinding]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
                 }
               ]
             }
@@ -880,13 +880,13 @@
         {
           "level": 4,
           "name": "O Dullahan...!",
-          "desc": "[DuelCounter]\n[BeforeUse] If this unit has [NightPathfinding] and has 15+ SP, use Lament, Mourn, and Despair as Counter (once per turn)\n[StartBattle] If this unit does not have [NightPathfinding], gain 1 [NightPathfinding] next turn (once per turn)\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 3 [Sinking] on the target (max 2)</style>\n<style=\"highlight\">[WinDuel] Gain [AttackUp] next turn equal to (# of Clashes/3) (max 3, once per turn)</style>\n[EndBattle] If this unit has [NightPathfinding], lose [NightPathfinding]",
+          "desc": "[DuelCounter]\n[BeforeUse] Si esta unidad tiene [NightPathfinding] y tiene 15+ PC, usa 'Lamento, Duelo y Desesperación' como Contraataque (una vez por turno)\n[StartBattle] Si esta unidad no tiene [NightPathfinding], gana 1 [NightPathfinding] el siguiente turno (una vez por turno)\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 3 [Sinking] en el objetivo (máx 2)</style>\n<style=\"highlight\">[WinDuel] Gana [AttackUp] el siguiente turno igual a (# de Choques/3) (máx 3, una vez por turno)</style>\n[EndBattle] Si esta unidad tiene [NightPathfinding], pierde [NightPathfinding]",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking] <style=\"highlight\">and +1 [Sinking] Count</style>"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] <style=\"highlight\">y +1 Contador de [Sinking]</style>"
                 }
               ]
             }
@@ -899,29 +899,29 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +7% more damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% more damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Lamento, Duelo y Desesperación",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +7% de daño por cada [Coffin] en sí mismo (máx 70%)\n[WhenUse] Inflige +10% de daño por cada [NightPathfinding] en sí mismo (máx 30%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura 1 PC adicional por cada PC faltante; máx 25)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking] and +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking] y +1 Contador de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento del objetivo por 20% del daño infligido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max 15)"
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Melancolía igual a [Sinking] en el objetivo (máx 15)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 4)"
+                  "desc": "[EnemyKill] Inflige ([Sinking] en objetivo Derrotado/3) [Sinking] en 2 enemigos aleatorios (máx 4)"
                 },
                 {
-                  "desc": "[EnemyKill] Heal 15 SP"
+                  "desc": "[EnemyKill] Cura 15 PC"
                 }
               ]
             }
@@ -929,29 +929,29 @@
         },
         {
           "level": 4,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% more damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Lamento, Duelo y Desesperación",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx <style=\"highlight\">4</style>)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de daño por cada [Coffin] en sí mismo (máx <style=\"highlight\">100</style>%)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de daño por cada [NightPathfinding] en sí mismo (máx <style=\"highlight\">60</style>%)\n[WhenUse] Gana <style=\"highlight\">2</style> [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana <style=\"highlight\">3</style> [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura <style=\"highlight\">2</style> PC adicionales por cada PC faltante; máx <style=\"highlight\">50</style>)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">5</style> [Sinking] y +2 Contador de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">30</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento del objetivo por <style=\"highlight\">30</style>% del daño infligido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)"
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Melancolía igual a [Sinking] en el objetivo (máx <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] Inflige ([Sinking] en objetivo Derrotado/<style=\"highlight\">2</style>) [Sinking] en 2 enemigos aleatorios (máx <style=\"highlight\">8</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Heal 15 SP"
+                  "desc": "[EnemyKill] Cura 15 PC"
                 }
               ]
             }
@@ -964,29 +964,29 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max 2)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +7% more damage for every Coffin on self (max 70%)\n[WhenUse] Deal +10% more damage for every [NightPathfinding] on self (max 30%)\n[WhenUse] Gain 1 [Coffin]\n[EndSkill] If this Skill attack kills the target, gain 2 [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal 1 additional SP for every missing SP; max 25)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Lamento, Duelo y Desesperación",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +7% de daño por cada [Coffin] en sí mismo (máx 70%)\n[WhenUse] Inflige +10% de daño por cada [NightPathfinding] en sí mismo (máx 30%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura 1 PC adicional por cada PC faltante; máx 25)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking] and +1 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige 3 [Sinking] y +1 Contador de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento del objetivo por 20% del daño infligido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max 15)"
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Melancolía igual a [Sinking] en el objetivo (máx 15)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/3) Sinking on 2 random enemies (max 4)"
+                  "desc": "[EnemyKill] Inflige ([Sinking] en objetivo Derrotado/3) [Sinking] en 2 enemigos aleatorios (máx 4)"
                 },
                 {
-                  "desc": "[EnemyKill] Heal 15 SP"
+                  "desc": "[EnemyKill] Cura 15 PC"
                 }
               ]
             }
@@ -994,29 +994,29 @@
         },
         {
           "level": 4,
-          "name": "Lament, Mourn, and Despair",
-          "desc": "[WhenUse] Lose 15 SP\n[WhenUse] Base Power +1 for every 5 [Sinking] on the target (max <style=\"highlight\">4</style>)\n[WhenUse] Deal more damage the further this unit's SP value is from 45 (+0.3% more damage for every missing SP, max 21%)\n[WhenUse] Deal +<style=\"highlight\">10</style>% more damage for every Coffin on self (max <style=\"highlight\">100</style>%)\n[WhenUse] Deal +<style=\"highlight\">20</style>% more damage for every [NightPathfinding] on self (max <style=\"highlight\">60</style>%)\n[WhenUse] Gain <style=\"highlight\">2</style> [Coffin]\n[EndSkill] If this Skill attack kills the target, gain <style=\"highlight\">3</style> [Coffin]\n[EndSkill] At less than 0 SP, heal 10 SP. When at less than 0 SP, heal more SP the further this unit's SP value is from 0 (heal <style=\"highlight\">2</style> additional SP for every missing SP; max <style=\"highlight\">50</style>)\n[EndBattle] Lose [NightPathfinding]",
+          "name": "Lamento, Duelo y Desesperación",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx <style=\"highlight\">4</style>)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada missing SP, máx 21%)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de daño por cada [Coffin] en sí mismo (máx <style=\"highlight\">100</style>%)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de daño por cada [NightPathfinding] en sí mismo (máx <style=\"highlight\">60</style>%)\n[WhenUse] Gana <style=\"highlight\">2</style> [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana <style=\"highlight\">3</style> [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura <style=\"highlight\">2</style> PC adicionales por cada PC faltante; máx <style=\"highlight\">50</style>)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">5</style> [Sinking] and +2 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">5</style> [Sinking] and +2 Contador de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise the target's Stagger Threshold by <style=\"highlight\">30</style>% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento del objetivo por <style=\"highlight\">30</style>% del daño infligido"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict Gloom Affinity damage equal to [Sinking] on target (max <style=\"highlight\">30</style>)"
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Melancolía igual a [Sinking] en target (máx <style=\"highlight\">30</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Inflict ([Sinking] on killed target/<style=\"highlight\">2</style>) Sinking on 2 random enemies (max <style=\"highlight\">8</style>)"
+                  "desc": "[EnemyKill] Inflige ([Sinking] en objetivo Derrotado/<style=\"highlight\">2</style>) [Sinking] en 2 enemigos aleatorios (máx <style=\"highlight\">8</style>)"
                 },
                 {
-                  "desc": "[EnemyKill] Heal 15 SP"
+                  "desc": "[EnemyKill] Cura 15 PC"
                 }
               ]
             }

@@ -5,14 +5,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Standoff",
-          "desc": "[WhenUse] Gain 2 Defense Level Up",
+          "name": "Confrontación",
+          "desc": "[WhenUse] Gana 2 Nivel Defensivo Aumentado",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Haste next turn"
+                  "desc": "[OnSucceedAttackHead] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -20,14 +20,14 @@
         },
         {
           "level": 2,
-          "name": "Standoff",
-          "desc": "[WhenUse] Gain 2 Defense Level Up\n[DefeatDuel] Gain Shield by (3 * Defense Level Up on self); Gain 1 Defense Level Up next turn",
+          "name": "Confrontación",
+          "desc": "[WhenUse] Gana 2 Nivel Defensivo Aumentado\n[DefeatDuel]  Gana Escudo igual a (3 * Nivel Defensivo Aumentado en sí mismo); Gana 1 Nivel Defensivo Aumentado el siguiente turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Haste next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -35,14 +35,14 @@
         },
         {
           "level": 4,
-          "name": "Standoff",
-          "desc": "[WhenUse] Gain 2 Defense Level Up\n[DefeatDuel] Gain Shield by (5 * Defense Level Up on self); Gain 2 Defense Level Up next turn",
+          "name": "Confrontación",
+          "desc": "[WhenUse] Gana 2 Nivel Defensivo Aumentado\n[DefeatDuel] Gana Escudo igual a (5 * Nivel Defensivo Aumentado en sí mismo); Gana 2 Nivel Defensivo Aumentado el siguiente turno",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 Haste next turn"
+                  "desc": "[OnSucceedAttack] Gana 2 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -55,20 +55,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flexible Suppression",
-          "desc": "[WhenUse] Gain 2 Defense Level Up",
+          "name": "Supresión Flexible",
+          "desc": "[WhenUse] Gana 2 Nivel Defensivo Aumentado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttackHead] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttackHead] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
@@ -76,7 +76,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +20% damage"
+                  "desc": "Con 6+ Nivel Defensivo Aumentado, inflige +20% de daño"
                 }
               ]
             }
@@ -84,20 +84,20 @@
         },
         {
           "level": 2,
-          "name": "Flexible Suppression",
-          "desc": "[WhenUse] Gain 3 Defense Level Up\n[WhenUse] Gain +2 Agravio to this Skill Slot next turn",
+          "name": "Supresión Flexible",
+          "desc": "[WhenUse] Gana 3 Nivel Defensivo Aumentado\n[WhenUse] Gana +2 de [Aggro] en esta Ranura de Habilidad el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
@@ -105,7 +105,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +30% damage"
+                  "desc": "Con 6+ Nivel Defensivo Aumentado, inflige +30% de daño"
                 }
               ]
             }
@@ -113,20 +113,20 @@
         },
         {
           "level": 4,
-          "name": "Flexible Suppression",
-          "desc": "[WhenUse] Gain 3 Defense Level Up\n[WhenUse] Gain +3 Agravio to this Skill Slot next turn\nAt 6+ Defense Level Up, Clash Power +1",
+          "name": "Supresión Flexible",
+          "desc": "[WhenUse] Gana 3 Nivel Defensivo Aumentado\n[WhenUse] Gana +3 de [Aggro] en esta Ranura de Habilidad el siguiente turno\nCon 6+ Nivel Defensivo Aumentado, Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 Defense Level Up next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 Nivel Defensivo Aumentado el siguiente turno"
                 }
               ]
             },
@@ -134,7 +134,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "At 6+ Defense Level Up, deal +40% damage"
+                  "desc": "Con 6+ Nivel Defensivo Aumentado, inflige +40% de daño"
                 }
               ]
             }
@@ -147,15 +147,15 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Guardian",
-          "desc": "[WhenUse] Apply 2 Poder Defensivo Aumentado and 3 Defense Level Up to all allies\nAt 6+ Defense Level Up, Coin Power +1\nAt 10+ Defense Level Up, deal +30% damage",
+          "name": "Guardián",
+          "desc": "[WhenUse] Aplica 2 Poder Defensivo Aumentado y 3 Nivel Defensivo Aumentado a todos los aliados\nCon 6+ Nivel Defensivo Aumentado, Poder de Moneda +1\nCon 10+ Nivel Defensivo Aumentado, inflige +30% de daño",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn"
+                  "desc": "[OnSucceedAttack] Aplica 3 Nivel Defensivo Aumentado a todos los aliados"
                 }
               ]
             }
@@ -163,15 +163,15 @@
         },
         {
           "level": 4,
-          "name": "Guardian",
-          "desc": "[WhenUse] Apply 2 Poder Defensivo Aumentado and 3 Defense Level Up to all allies\nCoin Power +1 per 6 Defense Level Up (Max 3)\nAt 10+ Defense Level Up, deal +50% damage",
+          "name": "Guardián",
+          "desc": "[WhenUse] Aplica 2 Poder Defensivo Aumentado y 3 Nivel Defensivo Aumentado a todos los aliados\nPoder de Moneda +1 por cada 6 Nivel Defensivo Aumentado (Máx 3)\nCon 10+ Nivel Defensivo Aumentado, inflige +50% de daño",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply 3 Defense Level Up to all allies next turn"
+                  "desc": "[OnSucceedAttack] Aplica 3 Nivel Defensivo Aumentado a todos los aliados"
                 }
               ]
             }
@@ -184,16 +184,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The Best Defense",
-          "desc": "[StartBattle] Gain Shield by (2 * Defense Level Up on self)",
+          "name": "La Mejor Defensa",
+          "desc": "[StartBattle] Gana Escudo igual a (2 * Nivel Defensivo Aumentado en sí mismo)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "The Best Defense",
-          "desc": "[StartBattle] Gain Shield by (2 * Defense Level Up on self)\n[WhenUse] Gain +5 Agravio to this Skill Slot next turn",
+          "name": "La Mejor Defensa",
+          "desc": "[StartBattle] Gana Escudo igual a (2 * Nivel Defensivo Aumentado en sí mismo)\n[WhenUse] Gana +5 de [Aggro] en esta Ranura de habilidad el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -205,8 +205,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Negotiation Start",
-          "desc": "[WhenUse] Gain 2 Poise",
+          "name": "Inicio de Negociaciones",
+          "desc": "[WhenUse] Gana 2 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -216,7 +216,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
                 }
               ]
             }
@@ -224,23 +224,23 @@
         },
         {
           "level": 2,
-          "name": "Negotiation Start",
-          "desc": "[WhenUse] Gain 3 Poise",
+          "name": "Inicio de Negociaciones",
+          "desc": "[WhenUse] Gana 3 de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -248,23 +248,23 @@
         },
         {
           "level": 4,
-          "name": "Negotiation Start",
-          "desc": "[WhenUse] Gain 3 Poise\nIf target has 7+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, Coin Power +1",
+          "name": "Inicio de Negociaciones",
+          "desc": "[WhenUse] Gana 3 de [Breath]\nSi el objetivo tiene 7+ de <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">[Laceration]</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Poise Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -277,23 +277,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Unilateral Business",
-          "desc": "[WhenUse] Gain +2 Poise Count",
+          "name": "Negocio Unilateral",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 3 Poise"
+                  "desc": "[OnSucceedAttackHead] Gana 3 de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             }
@@ -301,29 +301,29 @@
         },
         {
           "level": 2,
-          "name": "Unilateral Business",
-          "desc": "[WhenUse] Gain +3 Poise Count",
+          "name": "Negocio Unilateral",
+          "desc": "[WhenUse] Gana +3 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain 4 Poise"
+                  "desc": "[OnSucceedAttackHead] Gana 4 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 },
                 {
-                  "desc": "Deal +30% damage on Critical Hit"
+                  "desc": "+30% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -331,29 +331,29 @@
         },
         {
           "level": 4,
-          "name": "Unilateral Business",
-          "desc": "Coin Power +1 for every 7 Bleed on target (Max 2)\n[WhenUse] Gain +3 Poise Count",
+          "name": "Negocio Unilateral",
+          "desc": "Poder de Moneda +1 por cada 7 de [Laceration] en el objetivo (Máx 2)\n[WhenUse] Gana +3 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 4 Poise"
+                  "desc": "[OnSucceedAttack] Gana 4 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
                 },
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -366,23 +366,23 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Foregone Conclusion",
-          "desc": "[WhenUse] Gain 1 Poise per 3 Bleed on target (Max 5)\nAt 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>, Coin Power +1",
+          "name": "Conclusión Previsible",
+          "desc": "[WhenUse] Gana 1 de [Breath] por cada 3 de [Laceration] en el objetivo (Máx 5)\nCon 7+ de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Contador de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Munición"
+                  "desc": "Gasta 1 [Bullet]"
                 },
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -390,26 +390,26 @@
         },
         {
           "level": 4,
-          "name": "Foregone Conclusion",
-          "desc": "[WhenUse] Gain 1 Poise for every 3 Bleed on target (Max 10)\nGain Coin Power +1 for every 7 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u> on self (Max +3)",
+          "name": "Conclusión Previsible",
+          "desc": "[WhenUse] Gana 1 de [Breath] por cada 3 de [Laceration] en el objetivo (Máx 10)\nGana Poder de Moneda +1 por cada 7 de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></color></link></u> en sí mismo (Máx +3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Contador de Sangrado"
+                  "desc": "[CriticalOnSucceedAttack] Inflige +2 de Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Spend 1 Munición"
+                  "desc": "Gasta 1 [Bullet]"
                 },
                 {
-                  "desc": "+100% Damage on Critical Hit"
+                  "desc": "+100% de Daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[EnemyKill] Gain 1 Plus Coin Boost next turn"
+                  "desc": "[EnemyKill] Gana 1 Mejora de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -422,16 +422,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Take a Breather",
-          "desc": "[OnSucceedEvade] Gain 1 Poise (Max 3 per turn)",
+          "name": "Toma un Descanso",
+          "desc": "[OnSucceedEvade] Gana 1 de [Breath] (Máx 3 por turno)",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Take a Breather",
-          "desc": "[OnSucceedEvade] Gain 1 Poise (Max 5 per turn)",
+          "name": "Toma un Descanso",
+          "desc": "[OnSucceedEvade] Gana 1 de [Breath] (Máx 5 por turno)",
           "coinlist": [
             {}
           ]
@@ -443,13 +443,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lenticular Rend",
-          "desc": "[WinDuel] Inflict 1 [Laceration]",
+          "name": "Desgarro Lenticular",
+          "desc": "[WinDuel] Inflige 1 de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Laceration]"
                 }
               ]
             }
@@ -457,13 +457,13 @@
         },
         {
           "level": 2,
-          "name": "Lenticular Rend",
-          "desc": "<style=\"highlight\">[WhenUse] If the target has 7+ [Laceration], Clash Power +1</style>\n[WinDuel] Inflict 1 [Laceration]",
+          "name": "Desgarro Lenticular",
+          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 7+ de [Laceration], Poder de Choque +1</style>\n[WinDuel] Inflige 1 de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             }
@@ -471,13 +471,13 @@
         },
         {
           "level": 3,
-          "name": "Lenticular Rend",
-          "desc": "[WhenUse_Force] <color=#EBCAA2>If the target has 7+ [Laceration], Clash Power +1</color>\n[WinDuel] Inflict 1 [Laceration]",
+          "name": "Desgarro Lenticular",
+          "desc": "[WhenUse_Force] <color=#EBCAA2>Si el objetivo tiene 7+ de [Laceration], Poder de Choque +1</color>\n[WinDuel] Inflige 1 de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             }
@@ -485,13 +485,13 @@
         },
         {
           "level": 4,
-          "name": "Lenticular Rend",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +<style=\"highlight\">2</style>\n[WinDuel] Inflict 1 [Laceration]",
+          "name": "Desgarro Lenticular",
+          "desc": "[WhenUse] Si el objetivo tiene 7+ de [Laceration], Poder de Choque +<style=\"highlight\">2</style>\n[WinDuel] Inflige 1 de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             }
@@ -504,23 +504,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Shadow Cloud",
+          "name": "Nube Sombría",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], Inflige 1 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -528,23 +528,23 @@
         },
         {
           "level": 2,
-          "name": "Shadow Cloud",
+          "name": "Nube Sombría",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], Inflige 1 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -552,23 +552,23 @@
         },
         {
           "level": 4,
-          "name": "Shadow Cloud",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +2",
+          "name": "Nube Sombría",
+          "desc": "[WhenUse] Si el objetivo tiene 7 de+ [Laceration], Poder de Choque +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 7+ de [Laceration], Inflige 1 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -581,33 +581,33 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Shadowcloud Shattercleave",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +1",
+          "name": "Cuchilla de Fragmentación de Nube Sombría",
+          "desc": "[WhenUse] Si el objetivo tiene 7+ de [Laceration], Poder de Choque +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn "
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 7+ de [Laceration], Inflige 1 Nivel Ofensivo Reducido el siguiente turno "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn "
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 7+ de [Laceration], Inflige 1 Nivel Ofensivo Reducido el siguiente turno "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Laceration], inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -615,36 +615,36 @@
         },
         {
           "level": 4,
-          "name": "Shadowcloud Shattercleave",
-          "desc": "[WhenUse] If the target has 7+ [Laceration], Clash Power +1\n[WhenUse] If the target has 10+ [Laceration], Coin Power +1",
+          "name": "Cuchilla de Fragmentación de Nube Sombría",
+          "desc": "[WhenUse] Si el objetivo tiene 7+ de [Laceration], Poder de Choque +1\n[WhenUse] Si el objetivo tiene 10+ de [Laceration], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn "
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 7+ de [Laceration], Inflige 1 Nivel Ofensivo Reducido el siguiente turno "
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 Offense Level Down"
+                  "desc": "[OnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 7+ de [Laceration], Inflige 1 Nivel Ofensivo Reducido el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has <style=\"highlight\">7</style>+ [Laceration], inflict 1 Plus Coin Drop next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene <style=\"highlight\">7</style>+ de [Laceration], Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
                 }
               ]
             }
@@ -657,7 +657,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Guardia",
           "desc": "",
           "coinlist": [
             {}
@@ -665,7 +665,7 @@
         },
         {
           "level": 4,
-          "name": "Guard",
+          "name": "Guardia",
           "desc": "",
           "coinlist": [
             {}
@@ -678,13 +678,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sabre Slash",
+          "name": "Tajo de Sable",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 }
               ]
             }
@@ -692,13 +692,13 @@
         },
         {
           "level": 2,
-          "name": "Sabre Slash",
-          "desc": "[WhenUse] If the target has 6+ [Sinking], Coin Power +2",
+          "name": "Tajo de Sable",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 }
               ]
             }
@@ -706,13 +706,13 @@
         },
         {
           "level": 4,
-          "name": "Sabre Slash",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 2)\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)",
+          "name": "Tajo de Sable",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Poder de Choque +1 por cada 3 Contador de [Sinking] en el objetivo (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
                 }
               ]
             }
@@ -726,19 +726,19 @@
         {
           "level": 1,
           "name": "Remise",
-          "desc": "[WinDuel] Inflict +1 [Sinking] Count",
+          "desc": "[WinDuel] Inflige +1 Contador de [Sinking]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Sinking], Gana 1 [Agility] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             }
@@ -747,19 +747,19 @@
         {
           "level": 2,
           "name": "Remise",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +1 [Sinking] Count",
+          "desc": "[WhenUse] Poder de Choque +1 por cada 3 Contador de [Sinking] en el objetivo (máx 2)\n[WinDuel] Inflige +1 Contador de [Sinking]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Sinking], Gana 1 [Agility] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             }
@@ -768,19 +768,19 @@
         {
           "level": 4,
           "name": "Remise",
-          "desc": "[WhenUse] If the target has 6+ [Sinking], Coin Power +1\n[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[WinDuel] Inflict +2 [Sinking] Count",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada 3 Contador de [Sinking] en el objetivo (máx 2)\n[WinDuel] Inflige +2 Contador de [Sinking]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 5+ [Sinking], gain 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Sinking], Gana 1 [Agility] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +3 [Sinking] Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
                 }
               ]
             }
@@ -794,33 +794,33 @@
         {
           "level": 3,
           "name": "Nightmare Hunt",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 2)\n[EndSkill] If the target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If the target is defeated, inflict +3 [Sinking] Count on 1 random enemy",
+          "desc": "[WhenUse] Poder de Choque +1 por cada 3 Contador de [Sinking] en el objetivo (máx 2)\n[EndSkill] Si el objetivo es Aturdido, Inflige +3 Contador de [Sinking]\n[EndSkill] Si el objetivo es Derrotado, Inflige +3 Contador de [Sinking] en un enemigo aleatorio",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 10 [Sinking] from the target and gain 1 [PlusCoinValueUp] and 1 [AttackDmgUp] next turn. 50% chance to gain the above effects without absorbing [Sinking]"
+                  "desc": "[OnSucceedAttack] Absorbe 10 [Sinking] del objetivo y gana 1 [PlusCoinValueUp] y 1 [AttackDmgUp] el siguiente turno. 50% de probabilidad de ganar los efectos anteriores sin absorber [Sinking]"
                 }
               ]
             }
@@ -829,33 +829,33 @@
         {
           "level": 4,
           "name": "Nightmare Hunt",
-          "desc": "[WhenUse] Clash Power +1 for every 3 [Sinking] Count on target (max 3)\n[EndSkill] If the target is Staggered, inflict +3 [Sinking] Count\n[EndSkill] If the target is defeated, inflict +3 [Sinking] Count on 2 random enemies",
+          "desc": "[WhenUse] Poder de Choque +1 por cada 3 Contador de [Sinking] en el objetivo (máx 3)\n[EndSkill] Si el objetivo es Aturdido, Inflige +3 Contador de [Sinking]\n[EndSkill] Si el objetivo es Derrotado, Inflige +3 Contador de [Sinking] en 2 enemigos aleatorios",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Sinking]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 10 [Sinking] from the target and gain 1 [PlusCoinValueUp] and 3 [AttackDmgUp] next turn. 50% chance to gain the above effects without absorbing [Sinking]"
+                  "desc": "[OnSucceedAttack] Absorbe 10 [Sinking] del objetivo y gana 1 [PlusCoinValueUp] y 3 [AttackDmgUp] el siguiente turno. 50% de probabilidad de ganar los efectos anteriores sin absorber [Sinking]"
                 }
               ]
             }
@@ -868,16 +868,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do You Wish to Weep?",
-          "desc": "[WhenUse] If the target has 5+ [Sinking], Coin Power +1",
+          "name": "¿Vas a Llorar?",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1",
           "coinlist": [
             {}
           ]
         },
         {
           "level": 4,
-          "name": "Do You Wish to Weep?",
-          "desc": "[WhenUse] Coin Power +1 for every 3 [Sinking] on target (max 3)",
+          "name": "¿Vas a Llorar?",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Sinking] en el objetivo (máx 3)",
           "coinlist": [
             {}
           ]

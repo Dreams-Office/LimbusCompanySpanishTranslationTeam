@@ -2,75 +2,75 @@
   "dataList": [
     {
       "id": 800101,
-      "name": "Una Manzana Crepúscular",
-      "desc": "Cuando la Fruta es destruida, todas las partes serán infligidas con 2 de Frágil.\nLa Fruta se regenera después de un turno.",
-      "summary": "Cuando la Fruta es destruida, aplica 2 de Frágil a todas las partes"
+      "name": "Una Manzana Crepuscular",
+      "desc": "Cuando el Fruto es destruido, a todas las partes se les inflige 2 Frágil.\nEl Fruto se regenera luego de 1 turno",
+      "summary": "Cuando el Fruto es destruido, aplica 2 Frágil a todas las partes "
     },
     {
       "id": 800102,
-      "name": "NOT FOR DISPLAY1",
-      "desc": "After the head regenerates once, bringing the head’s HP to 50% initiates a choice prompt."
+      "name": "NO MOSTRAR1",
+      "desc": "Luego de que la cabeza se regenere una vez, llevando el HP de la cabeza al 50%, inicia una cuadro de elección."
     },
     {
       "id": 800103,
-      "name": "NOT FOR DISPLAY2",
-      "desc": "At the start of Turn 3, a choice prompt where you can remove the Green Stem effect is initiated."
+      "name": "NO MOSTRAR2",
+      "desc": "Al inicio del Turno 3, un cuadro de elección donde puedes eliminar el efecto de Tallo Verde es iniciado."
     },
     {
       "id": 800104,
       "name": "Raíces Enredadas",
-      "desc": "Al inicio del turno, Inflige 1 de Atadura en todos los enemigos.\nEsto durará hasta que las Raíces sean destruidas.",
-      "summary": "Inflige 1 de Atadura en todos los enemigos hasta que las Raíces sean destruidas"
+      "desc": "Al inicio del turno, inflige 1 Atadura a todos los enemigos.\nDura hasta que las Raíces sean destruidas.",
+      "summary": "Inflige 1 Atadura a todos los enemigos hasta que las Raíces son destruidas"
     },
     {
       "id": 800105,
       "name": "Raíz Solitaria",
-      "desc": "Las Raíces ganan 2 de Poder de Ataque Aumentado por cada brazo intacto."
+      "desc": "Las Raíces ganan 2 Poder de Ataque Aumentado por cada Brazo intacto."
     },
     {
       "id": 800201,
       "name": "Que Fluya el Festival de Sangre",
-      "desc": "El combate continua a la siguiente fase una vez que todos los Muñecos de Arcilla son derrotados."
+      "desc": "El combate procede a la siguiente fase luego de que todos los Muñecos de Arcilla sean derrotados."
     },
     {
       "id": 800202,
-      "name": "DON'T LET THE KIDS READ THIS",
-      "desc": "At the start of turn 2 in phase 2, choice prompt 1 is initiated."
+      "name": "NO APTO PARA SENSIBLES",
+      "desc": "Al inicio del turno 2 en la fase 2, el cuadro de elección 1 es iniciado."
     },
     {
       "id": 800203,
       "name": "Que arda el Festival de Fuego",
-      "desc": "Si ambos brazos son destruidos o el cuerpo pricipal es llevado a 70%, el combate continua a la siguiente fase."
+      "desc": "Si ambos Brazos son destruidos o el HP del cuerpo principal es llevado al 70%, la batalla procede a la siguiente fase."
     },
     {
       "id": 800204,
       "name": "Frenesí",
-      "desc": "Durante la fase 3\nAl inicio del turno, Inflige 3 de Quemadura en todos los enemigos."
+      "desc": "Durante la Fase 3\nAl inicio del turno, inflige 3 Quemadura en todos los enemigos."
     },
     {
       "id": 800205,
-      "name": "NOT FOR DISPLAY",
-      "desc": "When HP is brought to 60%, choice prompt 2 is initiated."
+      "name": "NO MOSTRAR",
+      "desc": "Cuando el HP es llevado al 60%, cuadro de elección 2 es iniciado."
     },
     {
       "id": 800206,
       "name": "Que Caiga el Festival Estrella",
-      "desc": "Cuando la HP es llevada a 20%, el combate continua a la siguiente fase."
+      "desc": "Cuando el HP es llevado al 25%, la batalla procede a la siguiente fase."
     },
     {
       "id": 800207,
-      "name": "NOT FOR DISPLAY",
-      "desc": "At the start of turn 2 in phase 4, choice prompt 3 is initiated."
+      "name": "NO MOSTRAR",
+      "desc": "Al inicio del turno 2 en la fase 4, el cuadro de elección 3 es iniciado."
     },
     {
       "id": 800301,
       "name": "Idolatría",
-      "desc": "No muere al tener 0 HP, en cambio, permanece en el escenario como un objetivo inmovil e inseleccionable.\nSuprimido cuando el Calendario del Juicio Final es Suprimido."
+      "desc": "No muerte en 0 HP; en cambio, permanece en la escena como una unidad no seleccionable e inmóvil.\nSuprimido cuando el Calendario del Juicio Final sea suprimido."
     },
     {
       "id": 800801,
       "name": "Oro Quebrado",
-      "desc": "Cura HP cada turno basado en la cantidad de Brillo Dorado."
+      "desc": "Cura HP cada turno según la cantidad de Brillo Dorado."
     },
     {
       "id": 800901,
@@ -80,192 +80,192 @@
     {
       "id": 800902,
       "name": "Núcleo Frágil",
-      "desc": "Cuando la Cabeza es destruida, Todas las partes sonWhen the Head is destroyed, all parts are inflicted with Immobilize next turn.\nThe Head regenerates after 1 turn."
+      "desc": "Cuando la Cabeza es destruida, a todas las partes se les inflige Inmovilizar el siguiente turno.\nLa Cabeza se regenera luego de 1 turno."
     },
     {
       "id": 800903,
       "name": "Manzana Podrida",
-      "desc": "Después de que el cuerpo es destruido, todas las partes son infligidas con 2 de Poder de Ataque Reducido cada turno."
+      "desc": "Luego de que el cuerpo sea destruido, a todas las partes se les inflige 2 Poder de Ataque Reducido cada turno."
     },
     {
       "id": 800904,
-      "name": "NOT FOR DISPLAY",
-      "desc": "NOT FOR DISPLAY"
+      "name": "NO MOSTRAR",
+      "desc": "NO MOSTRAR"
     },
     {
       "id": 801001,
-      "name": "Upgrade Factory at Work",
-      "desc": "When this unit is defeated, it revives the next turn and gains 1 Cirugía."
+      "name": "Fábrica de Mejoras en Marcha",
+      "desc": "Cuando esta unidad es derrotada, revive el siguiente turno y gana 1 Cirugía."
     },
     {
       "id": 801002,
-      "name": "You Must Become Strong",
-      "desc": "At the start of the turn, gana 1 Protection."
+      "name": "Debes Volverte Fuerte",
+      "desc": "Al inicio del turno, gana 1 Protección."
     },
     {
       "id": 801201,
-      "name": "You Must Become Strong",
-      "desc": "At the start of the turn, gana 2 Protection."
+      "name": "Debes Volverte Fuerte",
+      "desc": "Al inicio del turno, gana 2 Protección."
     },
     {
       "id": 801301,
-      "name": "Wavering Desires",
-      "desc": "While Codicioso, the unit gains 2 Fragile and 10 Bind, gains 1 skill slot, and changes behavior."
+      "name": "Deseos Vacilantes",
+      "desc": "Estando Deseoso, la unidad gana 2 Frágil y 10 Atadura, gana 1 Ranura de Habilidad y cambia el comportamiento."
     },
     {
       "id": 801302,
-      "name": "Ensnaring Desires",
-      "desc": "The unit becomes Codicioso every time it loses 30% of its HP."
+      "name": "Deseos Atrapantes",
+      "desc": "Esta unidad se vuelve Deseoso cada vez que pierde 30% de su HP."
     },
     {
       "id": 801904,
-      "name": "Shuddering Terror",
-      "desc": "Gana 1 Protection for every ally that died this wave. (Max 5.)"
+      "name": "Miedo Escalofriante",
+      "desc": "Gana 1 Protección por cada aliado que haya muerto en esta oleada. (Máx 5)"
     },
     {
       "id": 802401,
-      "name": "Pulsating Arms",
-      "desc": "At the start of the turn, gain Attack Power Up and Protection by the Count of Instintos."
+      "name": "Brazos Pulsantes",
+      "desc": "Al inicio del turno, gana Poder de Ataque Aumentado y Protección según el Contador de Instintos."
     },
     {
       "id": 802402,
-      "name": "Damaged Arms",
-      "desc": "Lose 1 Instintos whenever the unit takes damage from attacks."
+      "name": "Brazos Dañados",
+      "desc": "Pierde 1 Instintos cada que esta unidad reciba daño de ataques."
     },
     {
       "id": 802403,
-      "name": "Regenerating Shell",
-      "desc": "At the end of the turn, if the unit didn’t take any damage from attacks during the turn, heal 5% HP and gana 1 Instintos."
+      "name": "Caparazón Regenerativo",
+      "desc": "Al final del turno, si esta unidad no recibió daño de ataques durante el turno, cura 5% de HP y gana 1 Instintos."
     },
     {
       "id": 802404,
-      "name": "Frantic Eyes",
-      "desc": "Behavior depends on the Count of Instintos.\nUses aggressive skills at +4 Instintos, and becomes defensive at 3 or less."
+      "name": "Ojos Frenéticos",
+      "desc": "Comportamiento depende del Contador de Instintos.\nUsa habilidades agresivas con +4 Instintos, y se vuelve defensivo con 3 o menos."
     },
     {
       "id": 802501,
-      "name": "Amplified Aggression",
-      "desc": "When hit by an attack, gana 1 Instintos.\nIf the unit has +4 Instintos at the end of the turn, enter a state of Frenesí."
+      "name": "Agresión Amplificada",
+      "desc": "Al ser golpeado por un ataque, gana 1 Instintos.\nSi esta unidad tiene +4 Instintos al final del turno, entra en un estado de Frenesí."
     },
     {
       "id": 802502,
       "name": "Frenesí",
-      "desc": "In the Frenesí state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instintos from being attacked."
+      "desc": "En estado de Frenesí, esta unidad gana 3 Poder de Ataque Aumentado y 3 Frágil, cambia de comportamiento, y no gana Instintos al ser atacado."
     },
     {
       "id": 802503,
-      "name": "Shimmering Rage",
-      "desc": "At less than 50% HP, enters Frenesí every turn."
+      "name": "Ira Estremecedora",
+      "desc": "A menos de 50% de HP, entra en Frenesí cada turno."
     },
     {
       "id": 802701,
-      "name": "Amplified Aggression",
-      "desc": "When hit by an attack, gana 1 Instintos.\nIf the unit has +4 Instintos at the end of the turn, enter a state of Frenesí."
+      "name": "Agresión Amplificada",
+      "desc": "Al ser golpeado por un ataque, gana 1 Instintos.\nSi esta unidad tiene +4 Instintos al final del turno, entra en un estado de Frenesí."
     },
     {
       "id": 802702,
       "name": "Frenesí",
-      "desc": "In the Frenesí state, the unit gains 3 Attack Power Up and 3 Fragile, changes behavior, and does not gain Instintos from being attacked."
+      "desc": "En estado de Frenesí, esta unidad gana 3 Poder de Ataque Aumentado y 3 Frágil, cambia de comportamiento, y no gana Instintos al ser atacado."
     },
     {
       "id": 802801,
-      "name": "Rotting Skin",
-      "desc": "At the start of the turn, if at less than 50% HP, Inflige 3 Veneno when attacked."
+      "name": "Piel Podrida",
+      "desc": "Al inicio del turno, si a menos de 50% de HP, inflige 3 Veneno al ser atacado."
     },
     {
       "id": 802802,
-      "name": "Molt",
-      "desc": "After this part is broken, if the other arm is not broken at the end of the following turn, this part regenerates with the same HP as it."
+      "name": "Mudar",
+      "desc": "Luego de que esta parte sea rota, si otro brazo no está roto al final del siguiente turno, esta parte se regenera con el mismo HP que la otra."
     },
     {
       "id": 802803,
-      "name": "Pained Writhing",
-      "desc": "When both arms are broken, the unit gains 5 Fragile and inflicts 10 Veneno on all enemies every turn."
+      "name": "Retorcimiento Doloroso",
+      "desc": "Cuando ambos brazos estén rotos, esta unidad gana 5 Frágil e inflige 10 Veneno a todos los enemigos cada turno."
     },
     {
       "id": 802804,
-      "name": "Wriggling Instintos",
-      "desc": "Behavior depends on the Count of Instintos.\nUses aggressive skills at +4 Instintos, and becomes defensive at 0."
+      "name": "Instintos Meneantes",
+      "desc": "Comportamiento depende del Contador de Instintos.\nUsa habilidades agresivas con +4 Instintos, y se vuelve defensivo con 0."
     },
     {
       "id": 803302,
-      "name": "Severed Arm",
-      "desc": "When the arm is broken, the unit gains 5 Fragile every turn."
+      "name": "Brazo Mutilado",
+      "desc": "Cuando el brazo es roto, esta unidad gana 5 Frágil cada turno."
     },
     {
       "id": 802901,
-      "name": "Fearsome Whistles",
-      "desc": "If you have collected less than 3 of A Sign, Sinclair is inflicted with 1 Bind and Paralyze every turn."
+      "name": "Silbidos Aterradores",
+      "desc": "Si se han recolectado menos de 3 de Una Marca, 1 Atadura y Parálisis son infligidos a Sinclair cada turno."
     },
     {
       "id": 802902,
-      "name": "Courage to Triumph Fear",
-      "desc": "If you have collected 3 or more of A Sign, Sinclair gains 1 Attack Power Up and 2 Protection every turn."
+      "name": "Valor para Triunfar ante el Miedo",
+      "desc": "Si se han recolectado 3 o más de Una Marca, Sinclair gana 1 Poder de Ataque Aumentado y 2 Protección cada turno."
     },
     {
       "id": 802903,
-      "name": "You Must Accept the Pain!",
-      "desc": "At the start of the turn, if the unbroken part has Bleed or Burn, heal 15% of Max HP and gana 3 Attack Power Up.\nThe healing and status effects gained are decreased based on the number of A Sign, down to 0."
+      "name": "¡Debes Aceptar el Dolor!",
+      "desc": "Al inicio del turno, si una parte no rota tiene Sangrado o Quemadura, cura 15% del HP Máx y gana 3 Poder de Ataque Aumentado.\nLa curación y efectos de estado ganados se reducen según el número de Una Marca, hasta 0."
     },
     {
       "id": 802904,
-      "name": "Bliss of Execution",
-      "desc": "After defeating an enemy, gana 2 Haste and 5 Damage Up next turn."
+      "name": "La Dicha de la Ejecución",
+      "desc": "Tras derrotar a un enemigo, gana 2 Rapidez y 5 Daño Aumentado el siguiente turno."
     },
     {
       "id": 803001,
-      "name": "Overflowing Ecstasy",
-      "desc": "Starting with Turn 3, becomes Ecstatic every 2 turns."
+      "name": "Éxtasis Desbordante",
+      "desc": "Iniciando desde el Turno 3, se vuelve Extasiada cada 2 turnos."
     },
     {
       "id": 803002,
-      "name": "Blooming Purity",
-      "desc": "If Kromer’s main body is brought to 50% HP, she gains Purity for the remaining turns."
+      "name": "Pureza Floreciente",
+      "desc": "Si el cuerpo principal de Kromer es llevado al 50% de HP, ella gana Pureza por el resto de turnos."
     },
     {
       "id": 803003,
-      "name": "Flawless Flesh",
-      "desc": "When the arm is broken, the part is inflicted with 2 Attack Power Down."
+      "name": "Carne Impecable",
+      "desc": "Cuando el brazo es roto, 2 Poder de Ataque Reducido se inflige a la parte."
     },
     {
       "id": 803101,
-      "name": "Blood Sac",
-      "desc": "Wrath Resistance increases.\nGloom Resistance decreases."
+      "name": "Bolsa de Sangre",
+      "desc": "Resistencia a Ira incrementada.\nResistencia a Melancolía reducida."
     },
     {
       "id": 803102,
-      "name": "Fluid Sac",
-      "desc": "While the Fluid Sac status is active, the Core heals (20 * Fluid Sac Count) HP."
+      "name": "Bolsa de Fluidos",
+      "desc": "Cuando el estado Bolsa de Fluidos está activo, el Núcleo se cura (20* Contador de Bolsa de Fluidos) HP."
     },
     {
       "id": 803103,
-      "name": "Boiling Blood",
-      "desc": "If the body is broken while Blood Sac is active, all enemies take 20 fixed damage."
+      "name": "Sangre Hirviendo",
+      "desc": "Si el cuerpo es roto mientras Bolsa de Sangre está activo, todos los enemigos reciben 20 de daño fijo."
     },
     {
       "id": 803201,
-      "name": "Lightning Rod",
-      "desc": "When the Telephone Pole is hit, Inflige 2 Shock on the attacker this turn.\nAt 5+ Lightning, all Parts will Inflige 3 Shock on the attacker, starting next turn.\n(Lasts until Lightning reaches 0.)\nWhen hit by a Sloth attack, the amount of Shock inflicted is halved. (Rounded up.)"
+      "name": "Pararrayos",
+      "desc": "Cuando el Poste Telefónico es golpead, inflige 2 Descarga al atacante este turno.\nA 5+ Rayo, todas las Partes infligen 3 Descarga al atacante, a partir del siguiente turno.\n(Dura hasta que Rayo llegue a 0)\nAl ser golpeado por un ataque de Pereza, la cantidad de Descarga infligida es dividida entre dos. (Aproximando hacia arriba)"
     },
     {
       "id": 803202,
-      "name": "Lightning",
-      "desc": "While the telephone pole isn’t broken, gana 1 Lightning after an attack.\nWhenever the telephone pole is hit by an attack, lose 1 Lightning."
+      "name": "Rayo",
+      "desc": "Cuando el poste telefónico no esté roto, gana 1 Rayo luego de un ataque.\nCada que el poste telefónico sea golpeado por un ataque, pierde 1 Rayo."
     },
     {
       "id": 803203,
-      "name": "Breaking Pieces",
-      "desc": "When the telephone pole is Staggered or Broken, lose all Lightning.\nAll attacks of Alleyway Watchdog will then be canceled for the turn."
+      "name": "Piezas Rotas",
+      "desc": "Cuando el poste telefónico sea Aturdido o Roto, pierde todo Rayo.\nTodos los ataques del Guardián del Callejón serán cancelados por el turno."
     },
     {
       "id": 803401,
-      "name": "Bongy Chicken Struts",
-      "desc": "At the end of the turn, deal 3 SP damage to a random enemy."
+      "name": "Caminata del Pollo Bongy",
+      "desc": "Al final del turno, inflige 3 daño de PC a un enemigo al azar."
     },
     {
       "id": 803701,
-      "name": "Bongy Chicken Beefs Up",
-      "desc": "At the end of the turn, apply 2 Damage Up and 2 Protection to all allies next turn."
+      "name": "Musculatura del Pollo Bongy",
+      "desc": "Al final del turno, aplica 2 Daño Aumentado y 2 Protección a todos lo aliados el siguiente turno."
     },
     {
       "id": 803901,

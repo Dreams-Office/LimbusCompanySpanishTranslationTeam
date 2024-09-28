@@ -5,14 +5,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fierce Assault",
+          "name": "Ataque Feroz",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Vibration]"
                 }
               ]
             },
@@ -20,7 +20,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Vibration]"
                 }
               ]
             }
@@ -28,17 +28,17 @@
         },
         {
           "level": 2,
-          "name": "Fierce Assault",
-          "desc": "At 10+ Tremor Count, Coin Power +1",
+          "name": "Ataque Feroz",
+          "desc": "Con 10+ Contador de [Vibration], Poder de Moneda +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Vibration]"
                 }
               ]
             },
@@ -46,10 +46,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +1 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Vibration]"
                 }
               ]
             }
@@ -57,17 +57,17 @@
         },
         {
           "level": 4,
-          "name": "Fierce Assault",
-          "desc": "At 10+ Tremor Count, Coin Power +1",
+          "name": "Ataque Feroz",
+          "desc": "Con 10+ Contador de [Vibration], Poder de Moneda +1",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
                 }
               ]
             },
@@ -75,10 +75,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
                 }
               ]
             }
@@ -91,13 +91,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Steady...",
-          "desc": "[WhenUse] Gain +2 Tremor Count",
+          "name": "Con Calma...",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
                 }
               ]
             }
@@ -105,13 +105,13 @@
         },
         {
           "level": 2,
-          "name": "Steady...",
-          "desc": "[WhenUse] Gain +4 Tremor Count",
+          "name": "Con Calma...",
+          "desc": "[WhenUse] Gana +4 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
                 }
               ]
             }
@@ -119,13 +119,13 @@
         },
         {
           "level": 4,
-          "name": "Steady...",
-          "desc": "[WhenUse] Gain +6 Tremor Count",
+          "name": "Con Calma...",
+          "desc": "[WhenUse] Gana +6 Contador de [Vibration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 6 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
                 }
               ]
             }
@@ -138,13 +138,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Gamble",
+          "name": "Apuesta",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gana 6 Tremor and trigger Estallido de Tremor on self\nDeal Blunt damage equal to Estallido de Tremor damage"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Vibration], gasta todo el Contador de [Vibration] para infligir la misma cantidad de Contador de [Vibration] en el objetivo\n[OnSucceedAttack] Con menos de 10 Contador de [Vibration], gana 6 de [Vibration] y provoca [VibrationExplosion] en sí mismo\nInflige daño Contundente igual al daño de [VibrationExplosion]"
                 }
               ]
             }
@@ -152,13 +152,13 @@
         },
         {
           "level": 4,
-          "name": "Gamble",
-          "desc": "Coin Power +1 for every 10 Tremor Count on self (Max 2)",
+          "name": "Apuesta",
+          "desc": "Poder de Moneda +1 por cada 10 Contador de [Vibration] en sí mismo (Max 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ Tremor Count, spend all Tremor Count to inflict target with the same amount of Tremor Count\n[OnSucceedAttack] At less than 10 Tremor Count, gana 10 Tremor and trigger Estallido de Tremor on self\nDeal Blunt damage equal to Estallido de Tremor damage"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Vibration], gasta todo el Contador de [Vibration] para infligir la misma cantidad de Contador de [Vibration] en el objetivo\n[OnSucceedAttack] Con menos de 10 Contador de [Vibration], gana 10 de [Vibration] y provoca [VibrationExplosion] en sí mismo\nInflige daño Contundente igual al daño de [VibrationExplosion]"
                 }
               ]
             }
@@ -171,8 +171,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crab Bastards...!",
-          "desc": "[WhenUse] Gana 1 Protección a la Ruptura (3 times per turn)",
+          "name": "¡Bastardejos...!",
+          "desc": "[WhenUse] Gana 1 Protección a [Burst] (3 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -191,19 +191,19 @@
         {
           "level": 1,
           "name": "Remise",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttackHead] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttackHead] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -212,19 +212,19 @@
         {
           "level": 2,
           "name": "Remise",
-          "desc": "[WhenUse] Gain +2 [Breath] Count",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -233,19 +233,19 @@
         {
           "level": 4,
           "name": "Remise",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WhenUse] Gain +2 [Breath] Count",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder de Moneda +1\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 [Agility] next turn"
+                  "desc": "[OnSucceedAttack] Gana 1 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -259,19 +259,19 @@
         {
           "level": 1,
           "name": "Engagement",
-          "desc": "[WinDuel] Gain +2 [Breath] Count",
+          "desc": "[WinDuel] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
                 }
               ]
             },
@@ -281,19 +281,19 @@
         {
           "level": 2,
           "name": "Engagement",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder de Moneda +1\n[WinDuel] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
                 }
               ]
             },
@@ -303,19 +303,19 @@
         {
           "level": 4,
           "name": "Engagement",
-          "desc": "If this unit's Speed is higher than the target's, Coin Power +1 for every 2 Speed difference (Max 2)\n[WinDuel] Gain +2 [Breath] Count",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1 por cada 2 dif. de Velocidad (Máx 2)\n[WinDuel] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain +1 [Breath] Count"
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
                 }
               ]
             },
@@ -330,7 +330,7 @@
         {
           "level": 3,
           "name": "Contre Attaque",
-          "desc": "If this unit's Speed is faster than the target's by 2 or more, Coin Power +1\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed.\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, Inflige 1 [Vulnerable] On Hit (Twice per turn)",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder de Moneda +1\n[WinDuel] Gasta 10 Contador de [Breath]. Gana [Breath] igual a Contador de [Breath] gastado.\n[WinDuel] Si esta unidad condujo un [OneOnOneDuel] con la Habilidad de Ataque de la Renura del objetivo, Inflige 1 [Vulnerable] Tras Golpear (Dos veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -343,7 +343,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+30% Damage on Critical Hit"
+                  "desc": "+30% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -352,7 +352,7 @@
         {
           "level": 4,
           "name": "Contre Attaque",
-          "desc": "If this unit's Speed is higher than the target's, Coin Power +1 for every 2 Speed difference (Max 3)\n[WinDuel] Consume 10 [Breath] Count. Gain [Breath] equal to [Breath] Count consumed. Against targets with [DuelDeclaration_Sinclair], gain [Breath] equal to ([Breath] Count consumed x 2) instead\n[WinDuel] If this unit conducted a [OneOnOneDuel] with the target Slot's Attack Skill, Inflige 1 [Vulnerable] On Hit (Twice per turn)",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1 por cada 2 dif. de Velocidad (Máx 3)\n[WinDuel] Gasta 10 Contador de [Breath]. Gana [Breath] igual a Contador de [Breath] gastado. Contra objetivos con [DuelDeclaration_Sinclair], gana [Breath] igual a (Contador de [Breath] gastado x 2) en su lugar\n[WinDuel] Si esta unidad condujo un [OneOnOneDuel] con la Habilidad de Ataque de la Renura del objetivo, Inflige 1 [Vulnerable] Tras Golpear (Dos veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -365,7 +365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "+50% Damage on Critical Hit"
+                  "desc": "+50% de Daño en Golpe Crítico"
                 }
               ]
             }
@@ -411,17 +411,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fierce Charge",
+          "name": "Carga Feroz",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
+                  "desc": "[OnSucceedAttackHead] Cuando está en un estado de E.G.O volátil, Reutiliza Moneda (una vez por Habilidad)",
+                  "summary": "[OnSucceedAttackHead] Cuando está en un estado de E.G.O volátil, Reutiliza esta Moneda"
                 }
               ]
             }
@@ -429,17 +429,17 @@
         },
         {
           "level": 2,
-          "name": "Fierce Charge",
+          "name": "Carga Feroz",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin"
+                  "desc": "[OnSucceedAttackHead] Cuando está en un estado de E.G.O volátil, Reutiliza Moneda (una vez por Habilidad)",
+                  "summary": "[OnSucceedAttackHead] Cuando está en un estado de E.G.O volátil, Reutiliza esta Moneda"
                 }
               ]
             }
@@ -447,17 +447,17 @@
         },
         {
           "level": 4,
-          "name": "Fierce Charge",
+          "name": "Carga Feroz",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse Coin (once per Skill)",
-                  "summary": "[OnSucceedAttackHead] When in a Volatile E.G.O state, Reuse this Coin"
+                  "desc": "[OnSucceedAttackHead] Cuando está en un estado de E.G.O volátil, Reutiliza Moneda (una vez por Habilidad)",
+                  "summary": "[OnSucceedAttackHead] Cuando está en un estado de E.G.O volátil, Reutiliza esta Moneda"
                 }
               ]
             }
@@ -470,27 +470,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sunset Blade",
-          "desc": "[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
+          "name": "Espada del Atardecer",
+          "desc": "[WhenUse] Cuando está en un estado de E.G.O volátil, gasta 5 PC\n[BeforeAttack] Cuando está en un estado de E.G.O volátil, Alcance de Atq +1\n[EndSkill] Cuando está en un estado de E.G.O volátil, gasta 5 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             }
@@ -498,27 +498,27 @@
         },
         {
           "level": 2,
-          "name": "Sunset Blade",
-          "desc": "<style=\"highlight\">If the target has 4+ [Combustion], Clash Power +1</style>\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
+          "name": "Espada del Atardecer",
+          "desc": "<style=\"highlight\">Si el objetivo tiene 4+ de [Combustion], Poder de Choque +1</style>\n[WhenUse] Cuando está en un estado de E.G.O volátil, gasta 5 PC\n[BeforeAttack] Cuando está en un estado de E.G.O volátil, Alcance de Atq +1\n[EndSkill] Cuando está en un estado de E.G.O volátil, gasta 5 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             }
@@ -526,27 +526,27 @@
         },
         {
           "level": 4,
-          "name": "Sunset Blade",
-          "desc": "If the target has 4+ [Combustion], Clash Power +1\n[WhenUse] When in a Volatile E.G.O state, consume 5 SP\n[BeforeAttack] When in a Volatile E.G.O state, Atk Weight +1\n<style=\"highlight\">- At 45 SP, Atk Weight +2 instead</style>\n[EndSkill] When in a Volatile E.G.O state, consume 5 SP",
+          "name": "Espada del Atardecer",
+          "desc": "Si el objetivo tiene 4+ de [Combustion], Poder de Choque +1\n[WhenUse] Cuando está en un estado de E.G.O volátil, gasta 5 PC\n[BeforeAttack] Cuando está en un estado de E.G.O volátil, Alcance de Atq +1\n<style=\"highlight\">- Con 45 PC, Alcance de Atq +2 en su lugar</style>\n[EndSkill] Cuando está en un estado de E.G.O volátil, gasta 5 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Combustion] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
                 }
               ]
             }
@@ -559,20 +559,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Stigmatize",
-          "desc": "If the target has 10+ [Combustion], Coin Power +1\nWhen in a Volatile E.G.O State, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
+          "name": "Estigmatizar",
+          "desc": "Si el objetivo tiene 10+ de [Combustion], Poder de Moneda +1\nCuando está en un estado de E.G.O volátil, activa 'Golpe Ardiente' en su lugar\n[WinDuel] Cura 10 PC\n[DefeatDuel] Pierde 10 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             }
@@ -580,20 +580,20 @@
         },
         {
           "level": 4,
-          "name": "Stigmatize",
-          "desc": "<style=\"highlight\">Coin Power +1 for every 7 [Combustion] on target (max 2)</style>\nWhen in a Volatile E.G.O state, activate Blazing Strike instead\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 10 SP",
+          "name": "Estigmatizar",
+          "desc": "<style=\"highlight\">Poder de Moneda +1 por cada 7 de [Combustion] en el objetivo (máx 2)</style>\nCuando está en un estado de E.G.O volátil, activa 'Golpe Ardiente' en su lugar\n[WinDuel] Cura 10 PC\n[DefeatDuel] Pierde 10 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
                 }
               ]
             }
@@ -606,8 +606,8 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Rue",
-          "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max 10)",
+          "name": "Arrepentimiento",
+          "desc": "Cuando está en un estado de E.G.O volátil, Poder Base +1 por cada 2 de [Combustion] en el objetivo (máx 10)",
           "coinlist": [
             {
               "coindescs": [
@@ -620,8 +620,8 @@
         },
         {
           "level": 4,
-          "name": "Rue",
-          "desc": "When in a Volatile E.G.O state, Base Power +1 for every 2 [Combustion] on target (max <style=\"highlight\">20</style>)",
+          "name": "Arrepentimiento",
+          "desc": "Cuando está en un estado de E.G.O volátil, Poder Base +1 por cada 2 [Combustion] en el objetivo (máx <style=\"highlight\">20</style>)",
           "coinlist": [
             {
               "coindescs": [
@@ -639,25 +639,25 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Blazing Strike",
-          "desc": "Coin Power +1 for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +5% more damage for every Wrath Reson. (max 30%)\n[EndSkill] Lose 15 SP",
+          "name": "Golpe Ardiente",
+          "desc": "Poder de Moneda +1 por cada 4 (suma de Potencia de [Combustion] en todos los enemigos) (máx 8)\n[WinDuel] Cura 10 PC\n[DefeatDuel] Pierde 30 PC\nInflige +5% de daño por cada Reson. de Ira (máx 30%)\n[EndSkill] Pierde 15 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +2.5% more damage for every 1 [Combustion] on target (max 100%)",
-                  "summary": "Deal more damage based on [Combustion] on target"
+                  "desc": "Inflige +2.5% de daño por cada [Combustion] en el objetivo (máx 100%)",
+                  "summary": "Inflige más daño basado en [Combustion] en el objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies",
-                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Reson."
+                  "desc": "[OnSucceedAttack] Si el objetivo 10+ de [Combustion], inflige 2 de [Combustion] contra (# Reson. más alta) enemigos aleatorios",
+                  "summary": "[OnSucceedAttack] Inflige [Combustion] basado en Reson."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Combustion]"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)",
-                  "summary": "[EnemyKill] Inflict [Combustion] to random enemies"
+                  "desc": "[EnemyKill] Inflige aleatoriamente Potencia de [Combustion] del objetivo derrotado entre todos los enemigos (máx 10. En Encuentros Centrados, entre todas las Partes)",
+                  "summary": "[EnemyKill] Inflige [Combustion] a enemigos aleatorios"
                 }
               ]
             }
@@ -665,176 +665,25 @@
         },
         {
           "level": 4,
-          "name": "Blazing Strike",
-          "desc": "Coin Power +<style=\"highlight\">2</style> for every 4 (sum of [Combustion] Potency on all enemies) (max 8)\n[WinDuel] Heal 10 SP\n[DefeatDuel] Lose 30 SP\nDeal +<style=\"highlight\">10</style>% more damage for every Wrath Reson. (max <style=\"highlight\">60</style>%)\n<style=\"highlight\">If at 4+ highest Wrath A-Reson., deal +20% more damage for every Wrath Reson. instead (max 120%)</style>\n[EndSkill] Lose 15 SP",
+          "name": "Golpe Ardiente",
+          "desc": "Poder de Moneda +<style=\"highlight\">2</style> por cada 4 (suma de Potencia de [Combustion] en todos los enemigos) (máx 8)\n[WinDuel] Cura 10 PC\n[DefeatDuel] Pierde 30 PC\nInflige +<style=\"highlight\">10</style>% de daño por cada Reson. de Ira (máx <style=\"highlight\">60</style>%)\n<style=\"highlight\">Si tiene 4+ Reson.-A de Ira más alta, inflige +20% de daño por cada Reson. de Ira en su lugar (máx 120%)</style>\n[EndSkill] Pierde 15 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "Deal +<style=\"highlight\">4</style>% more damage for every 1 [Combustion] on target (max <style=\"highlight\">120</style>%)",
-                  "summary": "Deal more damage based on [Combustion] on target"
+                  "desc": "Inflige +<style=\"highlight\">4</style>% de daño por cada [Combustion] en el objetivo (máx <style=\"highlight\">120</style>%)",
+                  "summary": "Inflige más daño basado en [Combustion] en el objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has 10+ [Combustion], inflict 2 [Combustion] against (# of highest Reson.) random enemies\n<style=\"highlight\">- If the above Reson. was a Wrath Reson., inflict +1 [Combustion] Count as well</style>",
-                  "summary": "[OnSucceedAttack] Inflict [Combustion] based on Reson."
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Combustion], inflige 2 de [Combustion] contra (# Reson. más alta) enemigos aleatorios\n<style=\"highlight\">- Si la Reson. anterior era una Reson. de Ira, inflige +1 Contador de [Combustion] también</style>",
+                  "summary": "[OnSucceedAttack] Inflige [Combustion] basado en Reson."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 10 [Combustion]"
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Combustion]"
                 },
                 {
-                  "desc": "[EnemyKill] Randomly inflict [Combustion] Potency of the defeated target between all enemies (max 10. In Focused Encounters, between all Parts)",
-                  "summary": "[EnemyKill] Inflict [Combustion] to random enemies"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2100611,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Llanto Cavernoso",
-          "abName": "Sapo Llorón",
-          "desc": "[BeforeAttack] At 4+ highest Reson., Atk Weight +1",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[EndSkill] Apply 10% of this unit's max HP as Shield to self and 1 other ally with the least current HP, and apply 2 [ShieldManagerCryingToad] as well"
-                },
-                {
-                  "desc": "- At 4+ highest Reson., apply it to 1 more ally"
-                },
-                {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
-                },
-                {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Llanto Cavernoso",
-          "abName": "Sapo Llorón",
-          "desc": "<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[EndSkill] Apply <style=\"highlight\">14%</style> of this unit's max HP as Shield to self and <style=\"highlight\">(1 + (highest Reson. - 2))</style> allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n<style=\"highlight\">(max # of other allies that gain [ShieldManagerCryingToad]: 3)</style>"
-                },
-                {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Llanto Cavernoso",
-          "abName": "Sapo Llorón",
-          "desc": "[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)<style=\"highlight\"></style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[EndSkill] Apply <style=\"highlight\">20%</style> of this unit's max HP as Shield to self and (1 + (highest Reson. - 2)) allies with the least current HP, and apply 2 [ShieldManagerCryingToad] as well\n(max # of other allies that gain [ShieldManagerCryingToad]: 3)"
-                },
-                {
-                  "desc": "- If the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 2100621,
-      "levelList": [
-        {
-          "level": 1,
-          "name": "Llanto Cavernoso",
-          "abName": "Sapo Llorón",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] At 3+ highest Reson., Atk Weight +1\n[BeforeAttack] Gain +5 [Aggro] to this Skill Slot next turn",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]"
-                },
-                {
-                  "desc": "[EndSkill] Gain (15 + 2.5(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max 25%)"
-                },
-                {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
-                },
-                {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'gain 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 3,
-          "name": "Llanto Cavernoso",
-          "abName": "Sapo Llorón",
-          "desc": "[CantIdentify]\nTargets Randomly\n<style=\"highlight\">[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)</style>\n[BeforeAttack] Gain <style=\"highlight\">+10 [Aggro]</style> to this Skill Slot next turn",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking]<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "[EndSkill] Gain (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">30%</style>)"
-                },
-                {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "level": 4,
-          "name": "Llanto Cavernoso",
-          "abName": "Sapo Llorón",
-          "desc": "[CantIdentify]\nTargets Randomly\n[BeforeAttack] Gain (highest Reson. - 2) Atk Weight (max 2)\n[BeforeAttack] Gain +10 [Aggro] to this Skill Slot next turn<style=\"highlight\"></style>",
-          "coinlist": [
-            {
-              "coindescs": [
-                {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Sinking] and <style=\"highlight\">+3 [Sinking] Count</style>"
-                },
-                {
-                  "desc": "[EndSkill] Gain (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(highest Reson.))% of this unit's max HP as Shield to self and gain 2 [ShieldManagerCryingToad]. (max <style=\"highlight\">40%</style>)"
-                },
-                {
-                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "- At 4+ highest Gloom A-Reson., this Skill's above effects change to 'apply 3 [ShieldManagerCryingToad]' and 'change the [ShieldManagerCryingToad] value to 3' instead.<style=\"highlight\"></style>"
-                },
-                {
-                  "desc": "<style=\"highlight\">- At 4+ Gloom Reson., gain additional Shield equal to 10% of this unit's max HP</style>"
+                  "desc": "[EnemyKill] Inflige aleatoriamente Potencia de [Combustion] del enemigo derrotado entre todos los enemigos (máx 10. En Encuentros Centrados, entre todas las Partes)",
+                  "summary": "[EnemyKill] Inflige [Combustion] a enemigos aleatorios"
                 }
               ]
             }
