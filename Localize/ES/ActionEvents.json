@@ -445,22 +445,22 @@
       "desc": "En una esquina del área principal, encuentras una fila de frascos de vidrio. \nDentro de ellos hay órganos secos y fragmentos de vida que muestran un movimiento activo.\n\n“Qué exhibición tan trágica…”\n\nLos frascos se pueden abrir con facilidad. Podrías tomar uno de los fragmentos si así lo deseas.  \n¿Qué harás?",
       "options": [
         {
-          "message": "Toma la calavera resplandeciente.",
+          "message": "Toma la calavera brillante.",
           "messageDesc": "Gana un Regalo E.G.O. que provee curación con salud baja.",
           "result": [
-            "Tomaste la calavera resplandeciente.\nIrradia luz gentilmente, y puedes sentir una extraña calidez proviniendo de ella.\n\n Los otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Dejaste la habitación con el objeto que escogiste."
+            "Tomaste la calavera brillante.\nIrradia luz gentilmente, y puedes sentir una extraña calidez proviniendo de ella.\n\n Los otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Dejaste la habitación con el objeto que escogiste."
           ]
         },
         {
           "message": "Tomar la mano sangrienta.",
-          "messageDesc": "Gana un Regalo E.G.O. that provides power-ups at low health.",
+          "messageDesc": "Gana un Regalo E.G.O. que potencia el daño con salud baja.",
           "result": [
             "Gana un Regalo E.G.O. que potencia el daño con salud baja.\n Los dedos sangrientos llamaron tu atención.\n Cuando abriste el contenedor para agarrarlos, notaste que la sangre continuaba brotando de una parte.\n Lo recogiste del dedo que se mueve perpetuamente.\n\nLos otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Dejaste la habitación con el objeto que escogiste."
           ]
         },
         {
           "message": "Tomar la lengua retorcida.",
-          "messageDesc": "Gana un Regalo E.G.O. that provides benefits after winning a Clash.",
+          "messageDesc": "Gana un Regalo E.G.O. que provee beneficios tras ganar un choque.",
           "result": [
             "Gana un Regalo E.G.O. que provee beneficios al ganar un choque.\n La lengua escurridiza atrajo tu atención.\n Cuando abriste el contenedor y la agarraste, se empezó a agitar en tu palma.\n\n Sientes como si la lengua se burlara de ti, así que intentas agarrar otro, pero\n\nLos otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Tienes que llevarte lo que has escogido."
           ]
@@ -692,7 +692,7 @@
       "desc": "Continuando con la mejora.\n\nDebes \nvolverte \nmás \nfuerte.\n\nPor favor, continúa con la entrada.\n\n<¿AMAS LA CIUDAD EN LA QUE VIVES?>\n\n¿Qué deberías presionar?",
       "options": [
         {
-          "message": "Yes.",
+          "message": "Si.",
           "messageDesc": "Presiona el botón para continuar.",
           "result": [
             "",
@@ -701,7 +701,7 @@
         },
         {
           "message": "No.",
-          "messageDesc": "Press el botón para detener.",
+          "messageDesc": "Presiona el botón para detener.",
           "result": [
             "",
             "Presiona el botón de detener. \nEntrada anormal.\n\n ”¿Eh? Ya no puedo apretar ningún otro botón... ”Comenzando sepultura in situ en 3,2...\n\n ”¡¡Fuera de aquí!!” \n\nDespués de un corto aviso, la fábrica explotó con un ruido estruendoso, te las arreglaste epara detenerla de funcionar, pero los Pecadores fueron atrapados por la explosión.\n Parece que deberías salir de aquí primero.",
@@ -726,7 +726,7 @@
         },
         {
           "message": "No.",
-          "messageDesc": "Press the button to stop.",
+          "messageDesc": "Presiona el botón para detener.",
           "result": [
             "",
             "Entrada anormal. \n\n ”¿Eh? Ya no puedo apretar ningún otro botón...” \n\n Comenzando sepultura in situ en 3,2... \n\n ”¡¡Fuera de aquí!!”\n\n Después de un corto aviso, la fábrica explotó con un ruido estruendoso.\n Te las arreglaste para detenerla de funcionar, pero los Pecadores fueron atrapados por la explosión.\n\n Parece que deberías salir de aquí primero",

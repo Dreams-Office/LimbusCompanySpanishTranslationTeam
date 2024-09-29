@@ -22,71 +22,71 @@
     },
     {
       "id": "LevelupPersonalityOnWinBattle",
-      "content": "<color=#ebcaa2>Win the next battle to recruit a Sinner!</color>"
+      "content": "<color=#ebcaa2>¡Gana la siguiente pelea para reclutar a un Pecador!</color>"
     },
     {
       "id": "GetConfirmedEgogiftOnWinBattle",
-      "content": "<color=#ebcaa2>Win the next battle to gain {reward}!</color>"
+      "content": "<color=#ebcaa2>Gana la siguiente pelea para obtener {reward}!</color>"
     },
     {
       "id": "StartBattle",
-      "content": "<color=#ff0000>Combat Encounter!</color>"
+      "content": "<color=#ff0000>¡Encuentro de Combate!</color>"
     },
     {
       "id": "StartBattle_Normal",
-      "content": "<color=#ff0000>Regular Encounter!</color>"
+      "content": "<color=#ff0000>¡Encuentro Normal!</color>"
     },
     {
       "id": "StartBattle_Danger",
-      "content": "<color=#ff0000>Risky Encounter!</color>"
+      "content": "<color=#ff0000>¡Encuentro Peligroso!</color>"
     },
     {
       "id": "StartBattle_Abnormality",
-      "content": "<color=#ff0000>Focused Encounter!</color>"
+      "content": "<color=#ff0000>¡Encuentro Centrado!</color>"
     },
     {
       "id": "StartBattle_FloorBoss",
-      "content": "<color=#ff0000>Floor Boss Encounter!</color>"
+      "content": "<color=#ff0000>¡Pelea contra el Jefe de Piso!</color>"
     },
     {
       "id": "RecoverHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>se cura</color> <color=#00ff9c>{amount} HP.</color>"
     },
     {
       "id": "RecoverMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>se cura</color> <color=#80c9ff>{amount} PC.</color>"
     },
     {
       "id": "RecoverHpOnlyUntilMax",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed back to</color> <color=#00ff9c>Full HP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Recuperó</color> <color=#00ff9c>Toda la HP.</color>"
     },
     {
       "id": "RecoverMpOnlyUntilMax",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed back to</color> <color=#80c9ff>Full SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Recuperó</color> <color=#80c9ff>Todo el PC.</color>"
     },
     {
       "id": "LoseHpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP Damage!</color>"
+      "content": "¡<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Recibió</color> <color=#e30000>{amount} HP de Daño!</color>"
     },
     {
       "id": "LoseMpOnly",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>pierden</color> <color=#fe4b48>{amount} PC!</color>"
+      "content": "¡<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>pierden</color> <color=#fe4b48>{amount} PC!</color>"
     },
     {
       "id": "RecoverHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP</color> and <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>se curó</color> <color=#00ff9c>{amount} HP</color> y <color=#80c9ff>PC.</color>"
     },
     {
       "id": "RecoverHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>healed for</color> <color=#00ff9c>{amount} HP</color> and <color=#80c9ff>{amount} SP.</color>"
+      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>se curó</color> <color=#00ff9c>{amount} HP</color> y <color=#80c9ff>{amount} PC.</color>"
     },
     {
       "id": "LoseHpMpSameAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP</color> and <color=#fe4b48>SP damage!</color>"
+      "content": "¡<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Recibió</color> <color=#e30000>{amount} de Daño en HP</color> y <color=#fe4b48>PC!</color>"
     },
     {
       "id": "LoseHpMpDifferentAmount",
-      "content": "<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>took</color> <color=#e30000>{amount} HP</color> and <color=#fe4b48>{amount} SP damage!</color>"
+      "content": "¡<color=#ebcaa2>{targets} {conditions}</color> <color=#ebcaa2>Recibió</color> <color=#e30000>{amount} de Daño en HP</color> y <color=#fe4b48>{amount} PC!</color>"
     },
     {
       "id": "GetConfirmedEgogift",
@@ -94,219 +94,219 @@
     },
     {
       "id": "GetBuff_OnStageStart",
-      "content": "<color=#ebcaa2>{target} {conditional} will enter the next combat encounter with {stack} {buffName}.</color>"
+      "content": "<color=#ebcaa2>{target} {conditional} entrará el siguiente combate con {stack} {buffName}.</color>"
     },
     {
       "id": "UnlockHiddenRoute",
-      "content": "<color=#ebcaa2>There’s a new path on the map!</color>"
+      "content": "<color=#ebcaa2>¡Un nuevo camino se ha abierto en el mapa!</color>"
     },
     {
       "id": "ReduceEnemyWave",
-      "content": "<color=#ebcaa2>Enemy waves reduced by {waveNum} for the next battle.</color>"
+      "content": "<color=#ebcaa2>Las oleadas enemigas se han reducido en {waveNum} para el siguiente combate.</color>"
     },
     {
       "id": "DestroyEgogift",
-      "content": "<color=#ebcaa2>{reward}</color> <color=#e30000>Expired!</color>"
+      "content": "¡<color=#ebcaa2>{reward}</color> <color=#e30000>Expirado!</color>"
     },
     {
       "id": "Choice_90103301",
-      "content": "<color=#f8c200>Speed +1</color> <color=#ebcaa2>for this battle.</color>"
+      "content": "<color=#f8c200>Velocidad +1</color> <color=#ebcaa2>por este combate.</color>"
     },
     {
       "id": "Choice_901001",
-      "content": "<color=#ebcaa2>At the start of the combat phase,</color> allies without <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#e30000>5 Wrath damage.</color>"
+      "content": "<color=#ebcaa2>Al incio de la fase de batalla,</color> aliados sin <color=#a0392b>Habilidades con Afinidad en Ira</color> <color=#ebcaa2>reciben</color> <color=#e30000>5 de daño de Ira.</color>"
     },
     {
       "id": "Choice_901007",
-      "content": "<color=#ebcaa2>At the start of the turn,</color> </color=#ebcaa2>heal</color> <color=#00ff9c>10 HP</color> and <color=#80c9ff>10 SP.</color> (Up to 3 turns)"
+      "content": "<color=#ebcaa2>Al inicio del turno,</color> </color=#ebcaa2>se cura</color> <color=#00ff9c>10 HP</color> y <color=#80c9ff>10 PC.</color> (Hasta 3 turnos)"
     },
     {
       "id": "Choice_901009",
-      "content": "<color=#e30000>Skill Final Power -1</color> <color=#ebcaa2>at the start of the combat phase.</color>"
+      "content": "<color=#e30000>Poder Final de la Habilidad -1</color> <color=#ebcaa2>al inicio de la fase de batalla.</color>"
     },
     {
       "id": "Choice_901010",
-      "content": "<color=#ebcaa2>At the start of the next battle,</color> <color=#ebcaa2>Ally Units without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>are Staggered.</color> "
+      "content": "<color=#ebcaa2>Al inicio del siguiente combate,</color> <color=#ebcaa2>Las unidades aliadas sin </color> <color=#bb521f>Habilidades con Afinidad en Lujuria</color> <color=#ebcaa2>son Aturdidas.</color> "
     },
     {
       "id": "Choice_901019",
-      "content": "<color=#e30000>Speed -2</color> <color=#ebcaa2>at the start of the combat phase.</color>"
+      "content": "<color=#e30000>Velocidad -2</color> <color=#ebcaa2>al inicio de la fase de batalla.</color>"
     },
     {
       "id": "Choice_90103402",
-      "content": "<color=#f8c200>Speed +2</color> <color=#ebcaa2>for this battle.</color>"
+      "content": "<color=#f8c200>Velocidad +2</color> <color=#ebcaa2>por este combate.</color>"
     },
     {
       "id": "Choice_1030301",
-      "content": "<color=#ebcaa2>At the start of the next battle, All Ally Units</color> <color=#ebcaa2>gain</color> <color=#f8c200>3 Attack Power Up.</color>"
+      "content": "<color=#ebcaa2>Al inicio del siguiente combate, Todas las unidades aliadas</color> <color=#ebcaa2>ganan</color> <color=#f8c200>3 Poder de Ataque Aumentado.</color>"
     },
     {
       "id": "Choice_1030501",
-      "content": "<color=#ff0000>Combat Encounter!</color>\n<color=#ebcaa2>All enemies</color> <color=#ebcaa2>are inflicted with</color> <color=#e30000>5 Attack Power Down!</color>"
+      "content": "<color=#ff0000>¡Encuentro de Combate!</color>\n<color=#ebcaa2>Todos los enemigos</color> <color=#ebcaa2>son infligidos con</color> <color=#e30000>5 Poder de Ataque Reducido!</color>"
     },
     {
       "id": "Choice_1031001",
-      "content": "<color=#ebcaa2>The chosen Sinner</color> <color=#ebcaa2>gains</color> <color=#e30000>3 Damage Down</color> <color=#ebcaa2>for the next 2 battles.</color>"
+      "content": "<color=#ebcaa2>El Pecador escogido</color> <color=#ebcaa2>gana</color> <color=#e30000>3 de Poder Reducido</color> <color=#ebcaa2>por los siguientes 2 combates.</color>"
     },
     {
       "id": "Choice_90100201",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>25 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "¡<color=#ebcaa2>El Pecador que falló el juicio recibe</color> <color=#e30000>25 de daño en HP</color> <color=#ebcaa2>y</color> <color=#fe4b48>15 en PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90100502",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>¡El Pecador que falló el juicio recibe</color> <color=#e30000>15 de daño en HP</color> <color=#ebcaa2>y</color> <color=#fe4b48>12 en PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101001",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#bb521f>Habilidades con Afinidad en Lujuria</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>10 de daño PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101101",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>El Pecador que falló el juicio recibe</color> <color=#fe4b48>15 de daño PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101701",
-      "content": "<color=#ebcaa2>The Sinner who passed the check takes</color> <color=#fe4b48>5 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>El Pecador que logró el juicio recibe</color> <color=#fe4b48>5 de daño PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101702",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>25 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>El Pecador que falló el juicio recibe</color> <color=#fe4b48>25 de daño PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101801",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>El Pecador que falló el juicio recibe</color> <color=#fe4b48>12 de daño PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101901",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>El Pecador que falló el juicio recibe</color> <color=#fe4b48>10 de daño PC</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102001",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#61822b>Gluttony Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#61822b>Habilidades con Afinidad en Gula</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>5 de daño de HP</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90102002",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#61822b>Gluttony Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#61822b>Habilidades con Afinidad en Gula</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90102201",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>13 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#306471>Habilidades con Afinidad en Melancolía</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>13 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90103302",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#7d4e94>Habilidades con Afinidad en Envidia</color> <color=#fe4b48>reciben</color> <color=#e30000>15 HP</color> <color=#ebcaa2>y</color> <color=#fe4b48>15 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90100101",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>16 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#a0392b>Habilidades con Afinidad en Ira</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>16 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901004",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>15 HP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#a0392b>Habilidades con Afinidad en Ira</color> <color=#ebcaa2>se curan</color> <color=#f8c200>15 HP.</color>"
     },
     {
       "id": "Choice_90100701",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#bb521f>Habilidades con Afinidad en Lujuria</color> </color=#ebcaa2>se curan</color> <color=#80c9ff>PC.</color>"
     },
     {
       "id": "Choice_901008",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#bb521f>Habilidades con Afinidad en Lujuria</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
     },
     {
       "id": "Choice_90100901",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#bb521f>Lust Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#bb521f>Habilidades con Afinidad en Lujuria</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>20 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901014",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#e48801>Sloth Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#e48801>Habilidades con Afinidad en Pereza</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>20 HP de daño</color> <color=#ebcaa2>!</color>"
     },
     {
       "id": "Choice_90101401",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#e48801>Sloth Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#e48801>Habilidades con Afinidad en Pereza</color> <color=#fe4b48>reciben</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>y</color> <color=#fe4b48>12 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90101601",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#61822b>Gluttony Affinity Attack Skill</color> </color=#ebcaa2>heal</color> <color=#80c9ff>SP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#61822b>Habilidades con Afinidad en Gula</color> </color=#ebcaa2>se curan</color> <color=#80c9ff>PC.</color>"
     },
     {
       "id": "Choice_901018",
-      "content": "<color=#ebcaa2>One random Identity without</color> <color=#a0392b>Wrath Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Una Identidad aleatoria sin</color> <color=#a0392b>Habilidades con Afinidad en Ira</color> <color=#ebcaa2>recibe</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901021",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#306471>Habilidades con Afinidad en Melancolía</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901023",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>9 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#306471>Habilidades con Afinidad en Melancolía</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>9 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90102301",
-      "content": "<color=#ebcaa2>One random Identity without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>takes</color> <color=#fe4b48>10 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Una Identidad aleatoria sin</color> <color=#306471>Habilidades con Afinidad en Melancolía</color> <color=#ebcaa2>recibe</color> <color=#fe4b48>10 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901024",
-      "content": "<color=#ebcaa2>The Identity with the lowest Sanity who possesses</color> <color=#306471>Gloom Affinity Attack Skill</color> </color=#ebcaa2>fully heals their</color> <color=#f8c200>HP.</color>"
+      "content": "<color=#ebcaa2>La Identidad con menos Cordura que posea</color> <color=#306471>Habilidades con Afinidad en Melancolía</color> </color=#ebcaa2>La Expresión cura su</color> <color=#f8c200>HP.</color>"
     },
     {
       "id": "Choice_901025",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#306471>Habilidades con Afinidad en Melancolía</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>20 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90102501",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#306471>Gloom Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>20 HP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#306471>Habilidades con Afinidad en Melancolía</color> <color=#ebcaa2>se curan</color> <color=#f8c200>20 HP.</color>"
     },
     {
       "id": "Choice_901026",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#185188>Habilidades con Afinidad en Orgullo</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>10 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90102601",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#185188>Habilidades con Afinidad en Orgullo</color> <color=#ebcaa2>se curan</color> <color=#f8c200>10 HP.</color>"
     },
     {
       "id": "Choice_901027",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#185188>Habilidades con Afinidad en Orgullo</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90102701",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#185188>Habilidades con Afinidad en Orgullo</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>25 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901028",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#185188>Habilidades con Afinidad en Orgullo</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>5 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90102801",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#185188>Pride Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#185188>Habilidades con Afinidad en Orgullo</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
     },
     {
       "id": "Choice_901032",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>20 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#7d4e94>Habilidades con Afinidad en Envidia</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>20 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901034",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#fe4b48>take</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>15 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#7d4e94>Habilidades con Afinidad en Envidia</color> <color=#fe4b48>reciben</color> <color=#e30000>15 HP</color> <color=#ebcaa2>y</color> <color=#fe4b48>15 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_901035",
-      "content": "<color=#ebcaa2>Identities without</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>take</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#7d4e94>Habilidades con Afinidad en Envidia</color> <color=#ebcaa2>reciben</color> <color=#fe4b48>12 HP</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_90103501",
-      "content": "<color=#ebcaa2>Identities with</color> <color=#7d4e94>Envy Affinity Attack Skill</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
+      "content": "<color=#ebcaa2>Identidades sin</color> <color=#7d4e94>Habilidades con Afinidad en Envidia</color> <color=#ebcaa2>heal</color> <color=#f8c200>10 HP.</color>"
     },
     {
       "id": "Choice_1040301",
-      "content": "<color=#ebcaa2>The chosen Sinner</color> <color=#ebcaa2>has</color> <color=#e30000>10 Rupture</color> <color=#ebcaa2>for 1 turn in the next battle.</color>"
+      "content": "<color=#ebcaa2>El Pecador escogido</color> <color=#ebcaa2>tiene</color> <color=#e30000>10 de Ruptura</color> <color=#ebcaa2>por 1 turno en el siguiente combate.</color>"
     },
     {
       "id": "MirrorDungeonAcquireCost",
-      "content": "<color=#ebcaa2>Cost {amount} gained</color>"
+      "content": "<color=#ebcaa2>{amount} de Coste obtenido</color>"
     },
     {
       "id": "MirrorDungeonLossCost",
-      "content": "<color=#ebcaa2>Cost {amount} pierden </color>"
+      "content": "<color=#ebcaa2>{amount} de Coste perdido </color>"
     },
     {
       "id": "Choice_90104001",
@@ -342,7 +342,7 @@
     },
     {
       "id": "Choice_90200502",
-      "content": "<color=#ebcaa2>The Sinner who failed the check takes</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 SP</color> <color=#ebcaa2>damage!</color>"
+      "content": "<color=#ebcaa2>El Pecador que falló el juicio recibe</color> <color=#e30000>15 HP</color> <color=#ebcaa2>damage and</color> <color=#fe4b48>12 PC</color> <color=#ebcaa2>de daño!</color>"
     },
     {
       "id": "Choice_LoseBattle",
