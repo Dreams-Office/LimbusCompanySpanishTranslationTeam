@@ -974,7 +974,7 @@
     },
     {
       "id": "progress_ego_gacksung",
-      "content": "Aumentar Metacognición"
+      "content": "Aumentar\nMetacognición"
     },
     {
       "id": "skill_with_index",
@@ -1751,6 +1751,18 @@
     {
       "id": "formation_ask_clear_selection",
       "content": "¿Reiniciar el Orden de Despliegue?"
+    },
+    {
+      "id": "item_owned_count",
+      "content": "(Poseído : {0})"
+    },
+    {
+      "id": "lunacy_owned_count_paid",
+      "content": "(Paga : {0}, Gratis : {1})"
+    },
+    {
+      "id": "lunacy_owned_count_free",
+      "content": "(Paga : {0}, Gratis : {1})"
     }
   ]
 }

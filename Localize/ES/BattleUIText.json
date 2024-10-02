@@ -706,7 +706,7 @@
     },
     {
       "id": "battle_operation_counter",
-      "content": "Unique Counter"
+      "content": "Contraataque Potenciado"
     },
     {
       "id": "LOBOTOMY_ORDEAL_TIME_TYPE_0",
@@ -726,23 +726,23 @@
     },
     {
       "id": "LobotomyOrdealTypo_QliphothLevel",
-      "content": "Qliphoth Meltdown - Level {0}"
+      "content": "Qliphoth Meltdown - Nivel {0}"
     },
     {
       "id": "SinkingWhite_stack",
-      "content": "The Living"
+      "content": "Los que Perduran"
     },
     {
       "id": "SinkingWhite_turn",
-      "content": "The Departed"
+      "content": "Los que Partieron"
     },
     {
       "id": "BulletLament_stack",
-      "content": "The Living(Ammo)"
+      "content": "Los que Perduran(Munición)"
     },
     {
       "id": "BulletLament_turn",
-      "content": "The Departed(Ammo)"
+      "content": "Los que Partieron(Munición)"
     },
     {
       "id": "Retreat_Textalram",
@@ -751,6 +751,14 @@
     {
       "id": "Retreat_TextPassive",
       "content": "Retirándose"
+    },
+    {
+      "id": "battle_operation_defense",
+      "content": "Guardia Potenciada"
+    },
+    {
+      "id": "battle_operation_defense_TextTypo",
+      "content": "¡Despotenciado!"
     }
   ]
 }

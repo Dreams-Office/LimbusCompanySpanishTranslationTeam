@@ -187,6 +187,30 @@
     {
       "id": "CriticalTargetKill",
       "name": "[Tras Matar con Crítico]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[Antes de Usar]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[Contaataque Chocante]"
+    },
+    {
+      "id": "CantBreak",
+      "name": "[Moneda Irrompible]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[Guardia Chocante]"
+    },
+    {
+      "id": "WhenUseEvade",
+      "name": "[Tras Usar Evadir]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[Tras usar la Moneda de Ataque Actual]"
     }
   ]
 }

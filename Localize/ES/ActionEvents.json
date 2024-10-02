@@ -241,11 +241,11 @@
       "options": [
         {
           "message": "Ábrelo con fuerza",
-          "messageDesc": "Realiza un juicio de Ira. Si la superas, abrirás un nuevo camino en el mapa"
+          "messageDesc": "Realiza un juicio de Ira. Si o superas, abrirás un nuevo camino en el mapa"
         },
         {
           "message": "Busca una solución.",
-          "messageDesc": "Realiza un juicio de Pereza. Si la superas, abrirás un nuevo camino en el mapa."
+          "messageDesc": "Realiza un juicio de Pereza. Si lo superas, abrirás un nuevo camino en el mapa."
         },
         {
           "message": "Sal de la habitación.",
@@ -266,8 +266,8 @@
           "messageDesc": "Comienza un juicio de Orgullo, luego inicia un combate. Gana para potenciar a todos los aliados y reducir el número de oleadas en 1."
         },
         {
-          "message": "Distract them.",
-          "messageDesc": "Distraerlos\nComienza un juicio de Lujuria, luego inicia un combate. Gana para reducir el número de oleadas en 2."
+          "message": "Distraerlos.",
+          "messageDesc": "Comienza un juicio de Lujuria, luego inicia un combate. Gana para reducir el número de oleadas en 2."
         },
         {
           "message": "Confrontarlos directamente.",
@@ -292,7 +292,7 @@
           ]
         },
         {
-          "message": "nAbre la segunda caja.",
+          "message": "Abre la segunda caja.",
           "messageDesc": "50% de probabilidades de ganar un regalo E.G.O que potencia los ataques de Tremor",
           "result": [
             "“Esto es...\"\n\nLa caja contenía un mazo viejo.\nLas grietas en su empuñadura suscitaron dudas sobre su utilidad.\n\n\"¡Esta cosa se ve más bien inútil!\"\n\nLos Pecadores expresaron su decepción sobre esta aparentemente lamentable elección.\nPero, sientes como si el mazo te hablara,\nanimándote a llevártelo.\n\n\"¿Qué, te lo vas a llevar?\"\n\nPese a que los pecadores lo vieran como chatarra,\nparecía una buena idea llevar el mazo.",
@@ -445,7 +445,7 @@
       "desc": "En una esquina del área principal, encuentras una fila de frascos de vidrio. \nDentro de ellos hay órganos secos y fragmentos de vida que muestran un movimiento activo.\n\n“Qué exhibición tan trágica…”\n\nLos frascos se pueden abrir con facilidad. Podrías tomar uno de los fragmentos si así lo deseas.  \n¿Qué harás?",
       "options": [
         {
-          "message": "Toma la calavera brillante.",
+          "message": "Tomar la calavera brillante.",
           "messageDesc": "Gana un Regalo E.G.O. que provee curación con salud baja.",
           "result": [
             "Tomaste la calavera brillante.\nIrradia luz gentilmente, y puedes sentir una extraña calidez proviniendo de ella.\n\n Los otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Dejaste la habitación con el objeto que escogiste."
@@ -455,14 +455,14 @@
           "message": "Tomar la mano sangrienta.",
           "messageDesc": "Gana un Regalo E.G.O. que potencia el daño con salud baja.",
           "result": [
-            "Gana un Regalo E.G.O. que potencia el daño con salud baja.\n Los dedos sangrientos llamaron tu atención.\n Cuando abriste el contenedor para agarrarlos, notaste que la sangre continuaba brotando de una parte.\n Lo recogiste del dedo que se mueve perpetuamente.\n\nLos otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Dejaste la habitación con el objeto que escogiste."
+            "Los dedos sangrientos llamaron tu atención.\n Cuando abriste el contenedor para agarrarlos, notaste que la sangre continuaba brotando de una parte.\n Lo recogiste del dedo que se mueve perpetuamente.\n\nLos otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Dejaste la habitación con el objeto que escogiste."
           ]
         },
         {
           "message": "Tomar la lengua retorcida.",
           "messageDesc": "Gana un Regalo E.G.O. que provee beneficios tras ganar un choque.",
           "result": [
-            "Gana un Regalo E.G.O. que provee beneficios al ganar un choque.\n La lengua escurridiza atrajo tu atención.\n Cuando abriste el contenedor y la agarraste, se empezó a agitar en tu palma.\n\n Sientes como si la lengua se burlara de ti, así que intentas agarrar otro, pero\n\nLos otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Tienes que llevarte lo que has escogido."
+            "La lengua escurridiza atrajo tu atención.\n Cuando abriste el contenedor y la agarraste, se empezó a agitar en tu palma.\n\n Sientes como si la lengua se burlara de ti, así que intentas agarrar otro, pero\n\nLos otros contenedores no se abrían. Parece ser que solo podías tomar uno.\n Tienes que llevarte lo que has escogido."
           ]
         },
         {
