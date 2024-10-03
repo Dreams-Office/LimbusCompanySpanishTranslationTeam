@@ -25,7 +25,7 @@ Traducción al Español de Limbus Company
    - Descargar el [Archivo Comprimido LCSTT.zip](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam/releases). Luego Arrastre la carpeta Localize y el archivo LCB_ESP_BIE.dll a la carpeta creada en el paso 3
 ### 6.- Abrir el juego.
 
-## No entiendo que hacer
-   - Puedes pedir [ayuda](https://www.youtube.com/watch?v=X8gBTQd6lko) a alguien dentro del Servidor en el canal correspondiente o ver este [Tutorial](https://youtu.be/QwopDSYeuMY)
+## Si no sabes que hacer, puedes ver este [Video tutorial](https://youtu.be/QwopDSYeuMY) o consultar ayuda en el servidor de discord, en el apartado de traducción limbus
+
 # Creditos
 ¡Agradecimientos especiales a <b>Knightey<b> por toda su ayuda con el Codigo y los sprites dentro del juego!
