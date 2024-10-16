@@ -1,0 +1,74 @@
+{
+    "dataList": [
+        {
+            "id": 837101,
+            "name": "Oportunidad Casual",
+            "desc": "Inicio de Turno: Si la Velocidad de esta unidad es más rápida que la de los objetivos, gana 1 [PenetrateDamageUp]"
+        },
+        {
+            "id": 837102,
+            "name": "Respiración Tranquila",
+            "desc": "Fin de Turno: Cura 7 PC\nFin de Turno: Gana 1 Daño Perforante Aumentado igual al ([Breath] en sí/4)  el siguiente turno (máx 3)"
+        },
+        {
+            "id": 837103,
+            "name": "Combate Individual",
+            "desc": "Usa Salut si el objetivo fue Aturdido"
+        },
+        {
+            "id": 837104,
+            "name": "Ataque Centrado",
+            "desc": "Al usar una Habilidad contra la misma Ranura que esta unidad golpeó exitosamente el último turno, gana los siguientes efectos basado en el número de turnos consecutivos en los que golpeó exitosamente la Ranura\nSe reinicia si esta unidad falló en atacar el último turno.\n- 1 Golpe Consecutivo: Poder de Choque +1\n- 2 Golpes Consecutivo: Poder Base +1\n- 3 Golpes Consecutivo: Poder Base +1, Poder de Moneda +1"
+        },
+        {
+            "id": 837201,
+            "name": "¡Te Cortaré Primero!",
+            "desc": "Prioriza [LineCutting]."
+        },
+        {
+            "id": 837202,
+            "name": "Tijera de Sangre Cristalizada",
+            "desc": "Tras Golpear, si el objetivo tiene [Laceration], cura la Parte y el Núcleo de esta unidad por 40% del daño de HP infligido.\nTras Atacar, si esta unidad curó al menos 100 HP, cura 10 PC\nEste efecto no se activa Tras Golpear con una Habilidad con Monedas Irrompibles si perdió el Choque."
+        },
+        {
+            "id": 837203,
+            "name": "¡¡No Necesito Cosas Feas!!",
+            "desc": "Si hay algún enemigo con 30% o menos de HP, usa la Habilidad '¡¡No Necesito Cosas Feas!!'."
+        },
+        {
+            "id": 837204,
+            "name": "Aún No Ha Terminado",
+            "desc": "Gana un nuevo patrón a 40% del HP Máx de esta unidad\nTras cambiar patrón, gana 10 [Laceration] y 2 [BloodScissor]."
+        },
+        {
+            "id": 837205,
+            "name": "Festín de Sangre",
+            "desc": "Si esta unidad está en el campo, o es una de las unidades que puede aparecer este Escenario, incrementa el valor de [BloodDinner] por la cantidad del daño de [Laceration] recibido colectivamente por cada unidad. Cuando esta unidad entra al campo, la sangre dormida que empapa el campo de batalla saldrá a superficie."
+        },
+        {
+            "id": 837206,
+            "name": "Tijeras Ensangrentadas",
+            "desc": "Inicio de Combate: gana 10 [BloodScissor]\n- [BloodScissor] no puede caer bajo 1\n- Con 10+ [BloodScissor], conviertelos en [BloodScissorTwo].\n- Con 20+ [BloodScissor], conviertelos en [BloodScissorThree].\nSi esta unidad gastó [BloodScissor] y cayó debajo de uno de los umbrales anteriores, conviertelos respectivamente."
+        },
+        {
+            "id": 837207,
+            "name": "Hambrienta y Marchita",
+            "desc": "Inicio de Combate: gana [StarvingBarberTwo]"
+        },
+        {
+            "id": 837208,
+            "name": "¡Sangre... Sangre... Sangre...!",
+            "desc": "Fin del Turno: Si está en Pánico, se recupera del Pánico al siguiente Inicio de Turno y reinicia sus PC a 0.\nAl recuperarse del Pánico:\n- Gasta 30 [BloodDinner] para ganar 2 [Enhancement] y 1 [BloodScissor] el siguiente turno, y cura 20 PC.\n- Si esta unidad falló en consumir [BloodScissor], gana 30 de [Laceration], inmediatamente toma daño de [Laceration], después pierde 3 Contador de [Laceration]. Después, gana 2 [Enhancement], 2 [AttackDmgUp], y cura 20 PC el siguiente turno."
+        },
+        {
+            "id": 9999997,
+            "name": "Recuperación del Pánico",
+            "desc": "Fin del Turno: si está en Pánico, reinicia sus PC a 0."
+        },
+        {
+            "id": 9999996,
+            "name": "Pánico Fijo",
+            "desc": "El Tipo de Pánico de esta unidad no cambia al ser infligido con un efecto que cambia Tipos de Pánico. En su lugar, esta unidad es infligida con un efecto que es infligido contra objetivos sin PC."
+        }
+    ]
+}

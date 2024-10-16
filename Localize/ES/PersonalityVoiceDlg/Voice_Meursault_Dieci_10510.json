@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10510_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Mm, bien. Nadie se ausentó a la sesión nocturna de estudio de hoy.\nRecuerden no solo reponer lo que han gastado, sino también añadir nuevos conocimientos a sus reservas."
+        },
+        {
+            "id": "lobby_morning_10510_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Es de día. No permanezca en la cama; abra sus ojos, mueva su cuerpo y despiértese bien.\nUna vez que esté despierto ambos en mente y cuerpo, salga a tomar el sol. Es mejor que empiece con sus estudios luego de realizar la antes mencionada rutina."
+        },
+        {
+            "id": "lobby_noon_10510_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Ya es hora de almorzar, ¿no es así? Recuerde: sobrealimentar a uno mismo puede provocar sueño a una hora muy temprana.\nUn cierto nivel de hambre aumenta la concentración. Tenga eso en mente si tiene algun asunto planeado para más tarde."
+        },
+        {
+            "id": "lobby_night_10510_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Los niños deben dormir pronto. Es recomendado que mantengamos un nivel de silencio, pues 'dormir' es una parte importante del régimen educativo por el cual el cerebro procesa y revisa el conocimiento que fue almacenado durante las horas de vigilia."
+        },
+        {
+            "id": "smalltalk_10510_1",
+            "desc": "Charla #1",
+            "dlg": "Mire atentamente. No somos como las Llaves; nosotros somos quienes consiguen su conocimiento mediante sus puños."
+        },
+        {
+            "id": "smalltalk_10510_2",
+            "desc": "Charla #2",
+            "dlg": "Los Exámenes de Conocimiento de la Asociación Dieci son adicionales y constantes incentivos aparte de los exámenes conducidos por la Asociación Hana.\nAumenten su conocimiento. Usen los exámenes para motivase y esforzarse más. Solo entonces podrán algun día permitirse una audiencia con los Santos."
+        },
+        {
+            "id": "smalltalk_10510_3",
+            "desc": "Charla #3",
+            "dlg": "Los registros dicen que la Santa Reliquia, la cual debemos proteger con nuestras vidas, fue descubierta en las abisales profundidades de las Ruinas.\nEs probable que las Santas Reliquias del Norte, el Este, o de nuestra sede central en el Oeste también fueran provenientes de las Ruinas."
+        },
+        {
+            "id": "smalltalk_10510_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Ya veo. Me está consultando sobre el fenómeno por el cual la quema de conocimientos directamente se traduce a poderosa fuerza física.\nMm, estoy muy al tanto de que no estoy al tanto de sus mecanismos exactos. Quizá mi antiguo yo tenía el conocimiento que podría responder su pregunta, pero tampoco estoy al tanto de la veracidad de dicha afirmación."
+        },
+        {
+            "id": "smalltalk_10510_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "El recolectar conocimientos es equivalente a buscar nutrientes para sobrevivir.  No le des favor a la holgazanería en lugar de la erudición, pues buscar es la naturaleza y la regla de los adoptados.\nLe he dicho lo mismo a los niños que se rehusaban a estudiar."
+        },
+        {
+            "id": "neglect_10510_1",
+            "desc": "Inactivo",
+            "dlg": "¿Se olvidó de por qué vino aquí? Entonces vuelva a aprenderlo."
+        },
+        {
+            "id": "gacksung_10510_1",
+            "desc": "Aunando",
+            "dlg": "Esta tela brillante que envuelve a mi puño, le aplastará con todo el peso de mi conocimiento."
+        },
+        {
+            "id": "formation_10510_1",
+            "desc": "Desplegar",
+            "dlg": "Permita que mi puño sea el medio por el cual obtenga conocimiento."
+        },
+        {
+            "id": "battleentry_10510_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Meramente sigo lo que la doctrina del Dieci dicta."
+        },
+        {
+            "id": "battle_select_10510_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Las preguntas deben esperar hasta que esté trabajo sea terminado."
+        },
+        {
+            "id": "battle_endcommand_10510_1",
+            "desc": "Al Atacar",
+            "dlg": "Permita que esto también se convierta en conocimiento."
+        },
+        {
+            "id": "battle_enemy_break_10510_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "El saber no es eterno."
+        },
+        {
+            "id": "battle_break_10510_1",
+            "desc": "Aturdido",
+            "dlg": "Mm..."
+        },
+        {
+            "id": "battle_kill_10510_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... Mantente en la ignorancia."
+        },
+        {
+            "id": "battle_dead_10510_1",
+            "desc": "Muerte",
+            "dlg": "El momento inevitable también... me reclama..."
+        },
+        {
+            "id": "choice_success_p_10510_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Esta fue la decisión correcta. Sin embargo, eso no refleja la precisión de mis futuras decisiones."
+        },
+        {
+            "id": "choice_fail_n_10510_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Quizá el conocimiento ya fue perdido. Este resultado era inevitable."
+        },
+        {
+            "id": "battle_clear_10510_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Debo de revisar qué conocimientos perdí en esta batalla. La celebración puede esperar."
+        },
+        {
+            "id": "battle_clear_ex_10510_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Meramente repaso todo lo que aprendí y olvidé de esta batalla. Una vez listo, seguiré completando trabajos de la Asociación Dieci."
+        },
+        {
+            "id": "battle_defeat_10510_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Obtendremos nuevos conocimientos como consecuencia de esta derrota. Usémoslos para conseguir nuestra próxima victoria."
+        }
+    ]
+}

@@ -2,28 +2,28 @@
   "dataList": [
     {
       "id": 9011001,
-      "name": "Keen Strike",
-      "desc": "On Hit, inflict 1 Bleed (3 times per turn)"
+      "name": "Golpe Fuerte",
+      "desc": "Tras Golpear, inflige 1 Sangrado (3 veces por turno)"
     },
     {
       "id": 9011002,
-      "name": "Deep Slash",
-      "desc": "Clash Win: inflict +1 Bleed Count"
+      "name": "Corte Profundo",
+      "desc": "Choque Ganado: inflige +1 Contador de Sangrado"
     },
     {
       "id": 9011301,
-      "name": "Brutal Stab",
-      "desc": "Inflict +1 more Bleed when an Attack Skill inflicts Bleed"
+      "name": "Excavar Surco",
+      "desc": "Inflige +1 Sangrado cuando una Habilidad de Ataque inflige Sangrado"
     },
     {
       "id": 9101301,
       "name": "Kokuundō",
-      "desc": "Slash Skill Final Power +1"
+      "desc": "Poder Final de la Habilidad Cortante +1"
     },
     {
       "id": 9101302,
-      "name": "Clean Up",
-      "desc": "When an ally is defeated, gain 1 Skill Slot next turn (Can have up to 5 Slots max)"
+      "name": "Limpieza",
+      "desc": "Cuando un aliado es derrotado, gana 1 Ranura de Habilidad el próximo turno (Puede tener hasta 5 Ranuras máx)"
     }
   ]
 }

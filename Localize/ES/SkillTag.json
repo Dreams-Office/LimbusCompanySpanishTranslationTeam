@@ -211,6 +211,14 @@
     {
       "id": "EndCoin",
       "name": "[Tras usar la Moneda de Ataque Actual]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[Tras Fallar el Crítico Contra un Enemigo]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[Tras Matar con Crítico Contra un Enemigo]"
     }
   ]
 }

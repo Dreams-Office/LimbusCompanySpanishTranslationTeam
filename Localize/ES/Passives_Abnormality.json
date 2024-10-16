@@ -269,158 +269,158 @@
     },
     {
       "id": 803901,
-      "name": "Vigorous Volaille",
-      "desc": "At the end of the turn, heal 5 HP for each Raw Chicken in battle."
+      "name": "Ganado Goloso",
+      "desc": "Al final del turno, cura 5 HP por cada Pollo Crudo en el campo de batalla."
     },
     {
       "id": 803902,
-      "name": "Gloomy Gallus",
-      "desc": "At the end of the turn, deal 5 SP damage to all enemies for each Raw Chicken in battle."
+      "name": "Ave Atristada",
+      "desc": "Al final de turno, inflige 5 de daño de PC a todos los enemigos por cada Pollo Crudo en el campo de batalla."
     },
     {
       "id": 803903,
-      "name": "Fragile Fowl",
-      "desc": "When a Part breaks, gana 1 Fragile every turn for each Raw Chicken that died before the Part was broken."
+      "name": "Gallina Vulnerable",
+      "desc": "Cuando una Parte se rompe, gana 1 Frágil cada turno por cada Pollo Crudo que haya muerto antes de que la Parte sea rota."
     },
     {
       "id": 803904,
-      "name": "Powerful Poussin",
-      "desc": "If the Part isn’t broken, gana 1 Damage Up for each living Raw Chicken."
+      "name": "Pollo Poderoso",
+      "desc": "Si una parte no está rota, gana 1 Daño Aumentado por cada Pollo Crudo vivo."
     },
     {
       "id": 804101,
-      "name": "Expanding Sorrow",
-      "desc": "At the end of the turn, if the unit has 3+ Pena sin Resolver, generates a head next turn and changes behavior."
+      "name": "Pena Creciente",
+      "desc": "Al final del turno, si la unidad tiene 3+ Pena sin Resolver, genera una cabeza el siguiente turno y cambia de comportamiento."
     },
     {
       "id": 804102,
-      "name": "Inconsolable Sorrow",
-      "desc": "At the end of the turn, if the unit has 3+ Pena sin Resolver and the head is broken, becomes staggered next turn."
+      "name": "Pena Inconsolable",
+      "desc": "Al final del turno, si la unidad tiene 3+ Pena sin Resolver y la cabeza está rota, queda aturdido el siguiente turno."
     },
     {
       "id": 804103,
-      "name": "Taken by the Horns",
-      "desc": "When the head is staggered, all parts become staggered next turn."
+      "name": "Tomado por los Cuernos",
+      "desc": "Cuando la cabeza sea aturdida, todas las partes quedan aturdidas el siguiente turno."
     },
     {
       "id": 804104,
-      "name": "Downed by the Horns",
-      "desc": "When the head is broken, all parts become staggered next turn. Afterwards, all parts have 3 Attack Power Down for the duration of the battle."
+      "name": "Domado por los Cuernos",
+      "desc": "Cuando la cabeza se rompa, todas las partes quedan aturdidas el siguiente turno. Luego, todas las partes tendrán 3 Poder de Ataque Reducido por el resto de la batalla."
     },
     {
       "id": 804501,
-      "name": "Living Nerves",
-      "desc": "Upon death, all Skills are cancelled for the turn.\nDoubles currently owned Autocarga."
+      "name": "Nervios Vivos",
+      "desc": "Al morir, todas las Habilidades son canceladas por el turno.\nMultiplica por 2 la Autocarga actualmente obtenida."
     },
     {
       "id": 804502,
-      "name": "Motioning Nerves",
-      "desc": "After dying, attack skills Gasta 1 Autocarga.\nAttacks enemies until Autocarga runs out."
+      "name": "Nervios en Movimiento",
+      "desc": "Tras morir, las habilidades de ataque gastan 1 Autocarga.\nAtaca enemigos hasta que Autocarga se acabe."
     },
     {
       "id": 804503,
-      "name": "Undying Persistence",
-      "desc": "Every 5 turns, gains a Shield equal to the head's HP."
+      "name": "Persistencia Tenaz",
+      "desc": "Cada 5 turnos, gana un Escudo igual al HP de la cabeza."
     },
     {
       "id": 804504,
-      "name": "Terminated Persistence",
-      "desc": "After using 'Coil Up', if the Shield is exhausted, spend Autocarga.\nAll parts become staggered next turn."
+      "name": "Persistencia Acabada",
+      "desc": "Luego de usar 'Enrollado', si el Escudo se agota, gasta Autocarga.\nTodas las partes quedan aturdidas el siguiente turno."
     },
     {
       "id": 804601,
-      "name": "Broken Umbrella",
-      "desc": "After the back is broken, gana 3 Fragile every turn. Inflict +2 Rupture."
+      "name": "Paraguas Roto",
+      "desc": "Después que se rompa la espalda, gana 3 Frágil cada turno. Inflige +2 Ruptura."
     },
     {
       "id": 804602,
-      "name": "Ragged Umbrella",
-      "desc": "After the head umbrella is broken, gana 5 Nivel Ofensivo Reducidoevery turn. Inflict +2 Sinking."
+      "name": "Paraguas Rasgado",
+      "desc": "Luego de que el paraguas de la cabeza se rompa, gana 5 Nivel Ofensivo Reducido cada turno. Inflige +2 Ahogo."
     },
     {
       "id": 804603,
-      "name": "Last Struggle",
-      "desc": "At 15% HP, the unit's Speed is fixed at 1, and gains 1 Attack Power Down.\nNewly spawned Old Umbrellas have 30% more HP. Uses 'Cries Seeking Something' every turn."
+      "name": "Último Esfuerzo",
+      "desc": "Con 15% de HP, la Velocidad de esta unidad es fijada a 1, y gana 1 Poder de Ataque Reducido.\nParaguas Viejos recién generados obtienen 30% de HP más. Usa 'Llantos en Busca de Algo' cada turno."
     },
     {
       "id": 804701,
-      "name": "Spreading Ember",
-      "desc": "At the end of the turn, if this unit has Burn, inflict the same amount to all units with Entangled Curse Talisman next turn"
+      "name": "Propagación de Ascuas",
+      "desc": "Al final de este turno, si esta unidad tiene Quemadura, inflige la misma cantidad a todas las unidades con Talismán Maldito Enredado el siguiente turno"
     },
     {
       "id": 804702,
-      "name": "Broken Means",
-      "desc": "When the arm is broken, it deals -20% damage"
+      "name": "Medios Rotos",
+      "desc": "Cuando el brazo es roto, inflige -20% de daño."
     },
     {
       "id": 804801,
-      "name": "Booze Makes You Hicc!",
-      "desc": "After using 'I'll Have This!' on enemies with 5+ [Tipsiness] and successfully landing the attack, become staggered."
+      "name": "¡El Alcohol Emborracha!",
+      "desc": "Luego de usar '¡Tomaré Esto!' en enemigos con 5+ Emborrachado y acertar el golpe, queda aturdido."
     },
     {
       "id": 804802,
-      "name": "Stimulating Smell, Isn't It?",
-      "desc": "A mysterious smell from within boosts the spirit.\nA random Sinner gains 5 [Exalted] at the start of the wave."
+      "name": "¿Un Olor Estimulante, No Es Así?",
+      "desc": "Un misterioso olor que potencia el espíritu.\nUn Pecador al Azar gana 5 Subida de Moral al inicio de la oleada."
     },
     {
       "id": 805201,
-      "name": "Old and Abandoned",
-      "desc": "When this unit is defeated, the Sinner that defeated it gains 2 Haste next turn.\nAll parts of Drifting Fox are inflicted with 2 Bind and 1 Esquirlas de Paraguas."
+      "name": "Viejo y Abandonado",
+      "desc": "Cuando esta unidad es derrotada, el Pecador que la derrotó gana 2 Rapidez el siguiente turno.\nTodas las partes de Zorro Errante reciben 2 Atadura y 1 Esquirlas de Paraguas."
     },
     {
       "id": 804301,
-      "name": "Perilous Mind",
-      "desc": "At the end of each turn, lose 10 SP."
+      "name": "Mente Arrinconada",
+      "desc": "Al final de cada turno, pierde 10 PC."
     },
     {
       "id": 804302,
-      "name": "Corazón Precario",
-      "desc": "While in low morale, gana 2 Attack Power Up and 3 Bind."
+      "name": "Corazón Arrinconado",
+      "desc": "Al estar en Moral Baja, gana 2 Poder de Ataque Aumentado y 3 Atadura."
     },
     {
       "id": 804303,
       "name": "Corazón Vacilante",
-      "desc": "In panic, become staggered."
+      "desc": "En pánico, queda aturdido."
     },
     {
       "id": 804304,
-      "name": "Determination",
-      "desc": "When recovering from panic, fully heal SP, and gana 2 Haste and 2 Attack Power Up."
+      "name": "Determinación",
+      "desc": "Al recuperarse del pánico, recupera PC por completo, y gana 2 Rapidez y 2 Poder de Ataque Aumentado."
     },
     {
       "id": 804305,
-      "name": "Lobotomy E.G.O",
-      "desc": "Starts the battle with 1200 Shield HP"
+      "name": "E.G.O Lobotomy",
+      "desc": "Empieza la batalla con 1200 de Escudo de HP"
     },
     {
       "id": 805301,
-      "name": "Walled Heart",
-      "desc": "Whenever this unit is broken, Dongbaek is inflicted with +5 Sinking Count, and all Sinners lose 2 Sinking Count; all Sinners gana 1 Protection and 2 Attack Power Up next turn."
+      "name": "Corazón Cerrado",
+      "desc": "Cada que esta unidad es rota, Dongbaek recibe +5 Contador de Ahogo; y todos los Pecadores pierden 2 Contador de Ahogo; todos los Pecadores ganan 1 Protección y 2 Poder de Ataque Aumentado el siguiente turno."
     },
     {
       "id": 804401,
-      "name": "Into Full Bloom",
-      "desc": "At the start of Turn 5, spawn 4 Soon-to-bloom Flowers with 3 Cultivo"
+      "name": "En Pleno Florecimiento",
+      "desc": "Al inicio del Turno 5, genera 4 Flores A-Punto-de-Florecer con 3 Creciente"
     },
     {
       "id": 804402,
-      "name": "Flowering Mind",
-      "desc": "When HP drops to 50%, proceeds to the next phase. HP does not go below 50% until the phase changes."
+      "name": "Mente Floreciente",
+      "desc": "Cuando el HP baja al 50%, procede a la siguiente fase. El HP no baja del 50% hasta que la fase cambie."
     },
     {
       "id": 804403,
-      "name": "Duelo",
-      "desc": "When HP falls below 50%, uses a special skill to target 1 unit, then becomes immune to Stagger and Panic for the next 2 turns.\nIf Yi Sang has 'Duelo', Dongbaek gains 1 Attack Power Up.\nIf Yi Sang wins the duel, all allies gana 3 Damage Up next turn.\nIf Dongbaek wins the duel, Dongbaek fully heals SP."
+      "name": "A Duelo",
+      "desc": "Cuando el HP cae por debajo del 50%, usa una habilidad especial para seleccionar a 1 unidad, luego se vuelve inmune a Aturdido y Pánico por los siguientes 2 turnos.\nSi Yi Sang tiene 'Duelo', Dongbaek gana 1 Poder de Ataque Aumentado.\nSi Yi Sang gana el duelo, todos los aliados ganan 3 Daño Aumentado el siguiente turno.\nSi Dongbaek gana el duelo, Dongbaek se cura los PC por completo."
     },
     {
       "id": 804404,
-      "name": "Cost of Blooming",
-      "desc": "If 'Magnificent Spring Breeze' loses in a clash, lose 10 SP"
+      "name": "El Costo de Florecer",
+      "desc": "Si 'Magnífica Brisa Primaveral' pierde un choque, pierde 10 PC"
     },
     {
       "id": 805401,
-      "name": "Growing Flower",
-      "desc": "Spawns with 1 Cultivo"
+      "name": "Flor Creciente",
+      "desc": "Se genera con 1 Creciente"
     },
     {
       "id": 804901,
@@ -434,193 +434,193 @@
     },
     {
       "id": 804903,
-      "name": "Self Destruction",
-      "desc": "All skills target indiscriminately. With each skill used, this unit loses 2% of Max HP."
+      "name": "Auto-destrucción",
+      "desc": "Todas las habilidades seleccionan objetivos indiscriminadamente. Con cada habilidad usada, esta unidad pierde 2% de HP Máx."
     },
     {
       "id": 804904,
-      "name": "Self Salvation",
-      "desc": "HP healing effects heal twice as much."
+      "name": "Auto-salvación",
+      "desc": "Los efectos de Curación de HP curan el doble."
     },
     {
       "id": 805601,
       "name": "Vanidad Radiante",
-      "desc": "While this unit is present, Dongrang gains 1 Protection and 1 Attack Power Up at the start of each turn."
+      "desc": "Cuando esta unidad está presente, Dongrang gana 1 Protección y 1 Poder de Ataque Aumentado al inicio de cada turno."
     },
     {
       "id": 805602,
       "name": "Dedicación Sincera",
-      "desc": "While this unit has Dedicación Sincera, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If a Sinner drops this unit's HP to 1, the Sinner heals HP, and this unit gains Honor Vacío.\n- If Dongrang defeats this unit, Dongrang heals HP and powers up next turn."
+      "desc": "Cuando esta unidad tiene Dedicación Sincera, los siguientes efectos se aplican:\n- Solo puede ser derrotado por ataques de Dongrang.\n- Si un Pecador baja el HP de esta unidad a 1, ese Pecador se cura HP, y esta unidad gana Honor Vacío.\n- Si Dongrang derrota a esta unidad, Dongrang se cura HP y se fortalece el siguiente turno."
     },
     {
       "id": 805603,
       "name": "Honor Vacío",
-      "desc": "While this unit has Honor Vacío, the following effects apply:\n- Can only be defeated with Dongrang's attacks.\n- If Dongrang defeats this unit, Dongrang loses HP, gains 1 Vacío, and is weakened next turn"
+      "desc": "Cuando esta unidad tiene Honor Vacío, los siguientes efectos se aplican:\n- Solo puede ser derrotado por ataques de Dongrang.\n- Si Dongrang derrota a esta unidad, Dongrang pierde HP, gana 1 Vacío, y es debilitado el siguiente turno."
     },
     {
       "id": 805701,
       "name": "Fructificación",
-      "desc": "The unit that defeated this unit heals by 5% of Max HP, and gains 1 Haste and 1 Attack Power Up next turn"
+      "desc": "La unidad que derrotó a esta unidad se cura el 5% de HP Máx, y gana 1 Rapidez y 1 Poder de Ataque Aumentado el siguiente turno."
     },
     {
       "id": 805001,
-      "name": "Toward the Ideal",
-      "desc": "When the HP is brought to 85% and 50% of Max HP, respectively, spawns 2 Trees of Desires and changes behavior."
+      "name": "Hacia el Ideal",
+      "desc": "Cuando el Hp es llevado al 85% y el 50% del HP Máx respectivamente, genera 2 Arboles de Deseos y cambia su comportamiento."
     },
     {
       "id": 806001,
       "name": "Deseo Radiante",
-      "desc": "While this unit is present, Dongrang gains 1 Damage Up and 1 Protection at the start of each turn."
+      "desc": "Cuando esta unidad está presente, Dongrang gana 1 Daño Aumentado y 1 Protección al inicio de cada turno."
     },
     {
       "id": 805004,
-      "name": "Price of Neglect",
-      "desc": "If 'Time of Harvest' loses in a clash, lose 5 SP"
+      "name": "El Precio de la Negligencia",
+      "desc": "Si 'Hora de la Cosecha' pierde un choque, pierde 5 SP"
     },
     {
       "id": 805005,
-      "name": "Bitter Smile",
-      "desc": "When in panic, gana 2 Protection and reset SP to 0 at the start of the next turn."
+      "name": "Sonrisa Amarga",
+      "desc": "Cuando en pánico, gana 2 Protección y recupera los PC a 0 al inicio del siguiente turno."
     },
     {
       "id": 805006,
-      "name": "Inefficient Judgement",
-      "desc": "When recovering from stagger, gana 1 Attack Power Up."
+      "name": "Juicio Ineficiente",
+      "desc": "Al recuperarse de aturdimiento, gana 1 Poder de Ataque Aumentado."
     },
     {
       "id": 805007,
-      "name": "Exhausting Endeavor",
-      "desc": "After using the skill Please Be My Nutrient 3 times, become staggered next turn."
+      "name": "Labor Exhaustiva",
+      "desc": "Luego de usar la habilidad 'Por Favor Sé Mi Nutriente' 3 veces, se vuelve aturdido el siguiente turno."
     },
     {
       "id": 805002,
-      "name": "Toward the Ideal",
-      "desc": "When the HP is brought to 85% of Max HP, spawns 2 Trees of Desires and changes behavior."
+      "name": "Hacia el Ideal",
+      "desc": "Cuando el HP es llevado al 85% del HP Máx, genera 2 Árboles de Deseos y cambia su comportamiento."
     },
     {
       "id": 805003,
-      "name": "Toward the Ideal",
-      "desc": "When the HP is brought to 50% of Max HP, spawns 2 Trees of Desires and changes behavior."
+      "name": "Hacia el Ideal",
+      "desc": "Cuando el HP es llevado al 50% del HP Máx, genera 2 Árboles de Deseos y cambia su comportamiento."
     },
     {
       "id": 805801,
-      "name": "Fairy Lure",
-      "desc": "When the fairy is attacked, only that part loses HP."
+      "name": "Señuelo de Hada",
+      "desc": "Cuando la hada es atacada, solo esa parte pierde HP."
     },
     {
       "id": 805802,
-      "name": "Exposed Base",
-      "desc": "When the fairy part is broken, the roots can be attacked next turn.\nAll parts gana 1 Attack Power Up, 2 Bind, and 3 Fragile next turn."
+      "name": "Base Expuesta",
+      "desc": "Cuando la parte de hada es rota, las raíces pueden ser atacadas el siguiente turno.\nTodas las partes ganan 1 Poder de Ataque Aumentado, 2 Atadura y 3 Frágil el siguiente turno."
     },
     {
       "id": 805803,
-      "name": "Spare Lure",
-      "desc": "The fairy regenerates the turn after the roots are exposed. (One time only)\nAfter the roots are exposed 3 times or destroyed, the unit is enraged."
+      "name": "Señuelo de Repuesto",
+      "desc": "La hada se regenera el turno después de que más raíces sean expuestas. (Solo una vez)\nLuego de que las raíces sean expuestas 3 veces o destruidas, la unidad es enfurecida."
     },
     {
       "id": 805804,
-      "name": "Discovered Weakness",
-      "desc": "If the fairy has Tremor, it takes damage by its Potency at the end of the turn. (Max 20)"
+      "name": "Debilidad Descubierta",
+      "desc": "Si la hada tiene Tremor, recibe daño según su Potencia al final del turno. (Máx 20)"
     },
     {
       "id": 805805,
-      "name": "Connected Weakness",
-      "desc": "If the part has Burn, it takes more damage based on its Potency. (Max +15%)"
+      "name": "Debilidad Conectada",
+      "desc": "Si una parte tiene Quemadura, recibe más daño según su Potencia. (Máx +15%)"
     },
     {
       "id": 805901,
-      "name": "Manufactured Respite",
-      "desc": "If the giant clover is present, this unit heals 30 HP at the end of the turn."
+      "name": "Refugio Manufacturado",
+      "desc": "Si el trébol gigante está presente, esta unidad se cura 30 HP al final del turno."
     },
     {
       "id": 805902,
-      "name": "Lost Means",
-      "desc": "When the arm is broken, the unit gains 2 Attack Power Down every turn."
+      "name": "Medios Perdidos",
+      "desc": "Cuando un brazo es roto, esta unidad gana 2 Poder de Ataque Reducido el siguiente turno."
     },
     {
       "id": 805903,
-      "name": "Damaged Shade",
-      "desc": "When the head is broken, the unit gains 4 Defense Level Down and 1 Fragile every turn."
+      "name": "Sombra Rota",
+      "desc": "Cuando la cabeza es rota, la unidad gana 4 Nivel Defensivo Reducido y 1 Frágil cada turno."
     },
     {
       "id": 806201,
-      "name": "Contaminating Leaf",
-      "desc": "At the start of the turn, give 1 Potenciador de Curación HP and 1 Attack Power Up to Fairy-Long-Legs."
+      "name": "Hoja Contaminante",
+      "desc": "Al inicio del turno, da 1 Potenciador de Curación HP y 1 Poder de Ataque Aumentado a Hada Piernas Largas."
     },
     {
       "id": 80620101,
-      "name": "Contaminating Leaf",
-      "desc": "At the start of the turn, give 1 Potenciador de Curación HP and 1 Attack Power Up to Fairy-Long-Legs."
+      "name": "Hoja Contaminante",
+      "desc": "Al inicio del turno, da 1 Potenciador de Curación HP y 1 Poder de Ataque Aumentado a Hada Piernas Largas."
     },
     {
       "id": 826301,
-      "name": "Momentary Satiation",
-      "desc": "Turn End: If the ally with [PreparedMeat] is at 1 HP, kill the ally; then, all Parts gain 5 [Vulnerable], [Reduction], and [Disarming]."
+      "name": "Saciado Momentáneo",
+      "desc": "Fin del Turno: Si el aliado con [PreparedMeat] está a 1 HP, mata al aliado; luego, todas las Partes ganan 5 [Vulnerable], [Reduction], y [Disarming]."
     },
     {
       "id": 826302,
-      "name": "Ravening Hunger",
-      "desc": "Turn Start: If there are surviving allies at 25%- HP, kill all allies.\nHeal (# of allies killed x 5)% of max Core HP.\nTurn End: If there are no surviving allies, gain 20 [Enhancement] next turn."
+      "name": "Hambre Voraz",
+      "desc": "Inicio del Turno: Si hay aliados sobrevivientes en 25%- HP, mata a los aliados.\nCura (# de aliados asesinados x 5)% de HP Máx del Núcleo.\nFin del Turno: Si no hay aliados sobrevivientes, gana 20 [Enhancement] el siguiente turno."
     },
     {
       "id": 826303,
-      "name": "Torn Arm",
-      "desc": "When an Arm is broken, the Body gains 5 Bleed at every Turn Start."
+      "name": "Brazo Destrozado",
+      "desc": "Cuando un Brazo es roto, el Cuerpo gana 5 Sangrado a cada Inicio de Turno."
     },
     {
       "id": 826304,
-      "name": "Invitation to a Meal",
-      "desc": "Turn End: All Sinners heal 10 SP, and gain +1 E.G.O resource for all Affinities"
+      "name": "Invitación a Comer",
+      "desc": "Fin del Turno: Todos los Pecadores se curan 10 PC y ganan +1 Recurso E.G.O de todas las afinidades."
     },
     {
       "id": 826501,
-      "name": "Empty Belly",
-      "desc": "Turn End: If the ally with [PreparedMeat] is Staggered, kill the ally."
+      "name": "Barriga Vacía",
+      "desc": "Fin del Turno: Si el aliado con [PreparedMeat] es Aturdido, mata al aliado."
     },
     {
       "id": 826502,
-      "name": "Bottomless Hunger",
-      "desc": "After defeating an ally, heal 20 Core HP; then, gain 1 [Vulnerable] next turn."
+      "name": "Hambre Incesante",
+      "desc": "Luego de derrotar a un aliado, cura 20 HP del Núcleo, gana 1 [Vulnerable] el siguiente turno."
     },
     {
       "id": 826503,
-      "name": "Hunger",
-      "desc": "Turn End: If this unit failed to defeat an ally with Prepared Meat, gain 1 [Hunger]. At 75%- HP, gain 2. At 50%- HP, gain 3.\nTurn Start: If this unit defeated an ally with Prepared Meat, lose 1 [Hunger]."
+      "name": "Hambre",
+      "desc": "Fin del Turno: Si esta unidad falló en derrotar a un aliado con [PreparedMeat], gana 1 [Hunger]. A 75%- HP gana 2. A 50%- HP, gana 3.\nInicio del Turno: Si esta unidad derrotó a un aliado con [PreparedMeat], pierde 1 [Hunger]."
     },
     {
       "id": 826504,
-      "name": "Momentary Satiation",
-      "desc": "Turn End: At 0 [Hunger], gain (allies defeated this turn x 3) [AttackDown] and [DefenseDown]."
+      "name": "Saciado Momentáneo",
+      "desc": "Fin del Turno: A 0 [Hunger], gana (aliados derrotados este turno x3) [AttackDown] y [DefenseDown]."
     },
     {
       "id": 826505,
-      "name": "Ravening Hunger",
-      "desc": "Turn End: At 4 [Hunger], gain a stronger pattern."
+      "name": "Hambre Voraz",
+      "desc": "Fin del Turno: A 4 [Hunger], gana un patrón de ataque más fuerte."
     },
     {
       "id": 811801,
-      "name": "Returning Past",
-      "desc": "If at 50+ [AccumulatedPastMirror], and if Core's HP is less than or equal to 80%, Core gains 200 HP by spending 50 [AccumulatedPastMirror] at Turn End"
+      "name": "Volver al Pasado",
+      "desc": "Si a 50+ [AccumulatedPastMirror], y el HP del Núcleo esté a igual o menos que el 80%, el Núcleo gana 200 Hp gastando 50 [AccumulatedPastMirror] al Final del Turno."
     },
     {
       "id": 811802,
-      "name": "Misplaced Past",
-      "desc": "When the body is broken, spend all Accumulated Past.\nWhen the body is broken, all Attack Types and Affinities become ineffective(0.5) against the body starting next turn until the end of this encounter."
+      "name": "Pasado Desvanecido",
+      "desc": "Cuando el cuerpo es roto, gasta todo [AccumulatedPastMirror].\nCuando el cuerpo es roto, todos los Tipos de Ataque y Afinidades se vuelven ineficientes(0.5) contra el cuerpo empezando desde el siguiente turno hasta el final del encuentro."
     },
     {
       "id": 811808,
-      "name": "Metronome",
-      "desc": "If the [AccumulatedPastMirror] is an odd number, gain 3 [Vulnerable] and [AttackDmgUp]\nIf it is an even number, gain 3 [Protection] and [AttackDmgDown]"
+      "name": "Metrónomo",
+      "desc": "Si la [AccumulatedPastMirror] está en un número impar, gana 3 [Vulnerable] y [AttackDmgUp]\nSi está en un número par, gana 3 [Protection] y [AttackDmgDown]"
     },
     {
       "id": 826401,
-      "name": "Care",
-      "desc": "Turn Start: Heal 15% of max HP"
+      "name": "Cuidado",
+      "desc": "Inicio de turno: Cura 15% del HP Máx"
     },
     {
       "id": 826402,
-      "name": "Keep It Fresh",
-      "desc": "HP does not drop below 1"
+      "name": "Manténganlo Fresco",
+      "desc": "El HP no baja de 1"
     }
   ]
 }

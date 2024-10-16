@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": "HealHpMaxForSelected",
-      "content": "Fully heal selected Identity"
+      "content": "Curar completamente a la Identidad seleccionada"
     },
     {
       "id": "HealHpPercentageForAll",
-      "content": "All Identities heal {0}% HP"
+      "content": "Todas las Identidades se curan {0}% de HP"
     },
     {
       "id": "ResurrectForSelected",
-      "content": "Revive an Identity with fully healed HP"
+      "content": "Revive a una Identidad con su HP completamente curada"
     }
   ]
 }

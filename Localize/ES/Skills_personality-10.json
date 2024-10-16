@@ -1,6 +1,1103 @@
 {
   "dataList": [
     {
+      "id": 1100101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oscilación Descendiente",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Oscilación Descendiente",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Combo de Alabarda",
+          "desc": "[WinDuel] +10% de daño",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Combo de Alabarda",
+          "desc": "[WinDuel] +30% de daño",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Corte Desolador",
+          "desc": "[WinDuel] Gana 1 Poder de Ataque Aumentado",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Corte Desolador",
+          "desc": "[WinDuel] Gana 1 Poder de Ataque Aumentado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Porrazo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Porrazo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Porrazo",
+          "desc": "[DefeatDuel] Gana 2 Protección",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suprimir",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Daño Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Suprimir",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Daño Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Suprimir",
+          "desc": "[WhenUse] Gana +4 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 6 de [Vibration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Daño Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Golpe Fuerte",
+          "desc": "[WhenUse] Da 1 Protección al aliado con menos HP el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil Contundente"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Golpe Fuerte",
+          "desc": "[WhenUse] Da 1 Protección al aliado con menos HP el siguiente turno\n[WhenUse] Gana +10 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Vibration] en la [VibrationExplosion], gana 2 Protección el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil Contundente"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana +4 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Baile y Rola",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Sinking]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Baile y Rola",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Sinking]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Baile y Rola",
+          "desc": "Si el objetivo tiene 4+ de [Sinking], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Danza de Pasión",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Danza de Pasión",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Danza de Pasión",
+          "desc": "Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Fiesta de Piñata",
+          "desc": "Si los PC del objetivo son menores a 0, potencia la probabilidad de crítico proporcional a los PC del objetivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Reduce el Umbral de Aturdimiento del usuario por 50% del Daño Infligido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fiesta de Piñata",
+          "desc": "Si los PC del objetivo son menor a 0, Potencia la probabilidad de crítico en proporcion al PC del objetivos\nSi el usuario tiene 5+ Contador de [Breath], +30% de Daño Crítico",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reduce el Umbral de Aturdimiento del usuario por 50% del Daño Infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Evadir",
+          "desc": "[OnSucceedEvade] Gana +1 Contador de [Breath]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rebanar, y Apuñalar",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Rebanar, Y Apuñalar",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rebanar, Y Apuñalar",
+          "desc": "Con 3+ Contador de [Breath], Poder de Moneda +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath] "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serie de Cortes",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Serie de Cortes",
+          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Serie de Cortes",
+          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Aumentado el siguiente turno\n[WinDuel] No gasta Contador de [Breath] al dar Golpes Críticos con esta habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "Con 10+ Contador de [Breath], +150% de Daño Crítico",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque Primerizo",
+          "desc": "[WhenUse] Gana 1 Daño Aumentado el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Contraataque Primerizo",
+          "desc": "[WhenUse] Gana 1 Daño Aumentado el siguiente turno\n[WhenUse] Gana +3 Contador de [Breath]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Juicio Coercitivo",
+          "desc": "[WhenUse] Pierde 7 PC",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Juicio Coercitivo",
+          "desc": "[WhenUse] Pierde 7 PC",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana 1 Fanático el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Juicio Coercitivo",
+          "desc": "[WhenUse] Pierde 7 PC",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana 1 Fanático el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Promulgación Inmoral",
+          "desc": "[WhenUse] Pierde 10 PC\nSi está unidad es Fanático, inflige +5% de daño",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1 de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1 de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Promulgación Inmoral",
+          "desc": "[WhenUse] Pierde 10 PC\nSi está unidad es Fanático, inflige +10% de daño",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +1 Contador de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Purga Autodestructiva",
+          "desc": "[WhenUse] Pierde 15 PC\nSi está unidad es Fanático, inflige +15% de Daño\nSi el objetivo es una <Amalgama Mecánica>, inflige +10% de daño",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 50% del Daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Laceration], Inflige 5 de [Combustion]"
+                },
+                {
+                  "desc": "[EnemyKill] Gana 1 Daño Contundente Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Purga Autodestructiva",
+          "desc": "- [WhenUse] Pierde 15 PC\n- Si está unidad es Fanático, inflige +15% de Daño\n- Si el objetivo es una <Amalgama Mecánica>, inflige +10% de daño",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 50% del Daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Laceration], Inflige 7 de [Combustion]"
+                },
+                {
+                  "desc": "[EnemyKill] Gana 1 Daño Contundente Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suficiente...",
+          "desc": "[StartBattle] Cura de 5 a 10 PC",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Remarcar Heridas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Remarcar Heridas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene 5+ de [Burst], gana 1 Talismán"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Remarcar Heridas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Burst], gana 1 Talismán"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Talismán Proliferante",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Talismán"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Talismán Proliferante",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Talismán"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ de [Burst], gana 1 Talismán"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Talismán Proliferante",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Talismán"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Burst], gana 1 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Talismán"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Burst], gana 1 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Talismán"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene de [Burst], gana 1 Talismán"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Talismán de Ruptura",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 5 Talismán en sí; Da 5 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Talismán, Inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Talismán de Ruptura",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 5 Talismán en sí; Da 5 Talismán"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Talismán, Inflige +3 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1100604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 1 Talismán",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
       "id": 1100701,
       "levelList": [
         {
@@ -144,7 +1241,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Vibration], gasta todo el Contador de [Vibration] para infligir la misma cantidad de Contador de [Vibration] en el objetivo\n[OnSucceedAttack] Con menos de 10 Contador de [Vibration], gana 6 de [Vibration] y provoca [VibrationExplosion] en sí mismo\nInflige daño Contundente igual al daño de [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Vibration], gasta todo el Contador de [Vibration] para infligir la misma cantidad de Contador de [Vibration] en el objetivo\n[OnSucceedAttack] Con menos de 10 Contador de [Vibration], gana 6 de [Vibration] y provoca [VibrationExplosion] en sí\nInflige daño Contundente igual al daño de [VibrationExplosion]"
                 }
               ]
             }
@@ -153,12 +1250,12 @@
         {
           "level": 4,
           "name": "Apuesta",
-          "desc": "Poder de Moneda +1 por cada 10 Contador de [Vibration] en sí mismo (Max 2)",
+          "desc": "Poder de Moneda +1 por cada 10 Contador de [Vibration] en sí (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Vibration], gasta todo el Contador de [Vibration] para infligir la misma cantidad de Contador de [Vibration] en el objetivo\n[OnSucceedAttack] Con menos de 10 Contador de [Vibration], gana 10 de [Vibration] y provoca [VibrationExplosion] en sí mismo\nInflige daño Contundente igual al daño de [VibrationExplosion]"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Vibration], gasta todo el Contador de [Vibration] para infligir la misma cantidad de Contador de [Vibration] en el objetivo\n[OnSucceedAttack] Con menos de 10 Contador de [Vibration], gana 10 de [Vibration] y provoca [VibrationExplosion] en sí\nInflige daño Contundente igual al daño de [VibrationExplosion]"
                 }
               ]
             }
@@ -172,7 +1269,7 @@
         {
           "level": 1,
           "name": "¡Bastardejos...!",
-          "desc": "[WhenUse] Gana 1 Protección a [Burst] (3 veces por turno)",
+          "desc": "[WhenUse] Gana 1 Protección a la Ruptura (3 veces por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -684,6 +1781,236 @@
                 {
                   "desc": "[EnemyKill] Inflige aleatoriamente Potencia de [Combustion] del enemigo derrotado entre todos los enemigos (máx 10. En Encuentros Centrados, entre todas las Partes)",
                   "summary": "[EnemyKill] Inflige [Combustion] a enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reprimiendo.",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana 1 [DefenseUp]\n[WinDuel] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 [DefenseUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Reprimiendo.",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana <style=\"highlight\">2</style> [DefenseUp]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 4+ Contador de [Vibration], Clash Power +1</style>\n[WinDuel] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Inflige +2 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 [DefenseUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Reprimiendo.",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana 2 [DefenseUp]\n[WhenUse] Si el objetivo tiene 4+ Contador de [Vibration], Clash Power +<style=\"highlight\">2</style>\n[WinDuel] Gana +<style=\"highlight\">3</style> Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Inflige +2 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 [DefenseUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Preparación de Combate",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura el siguiente turno\n[WinDuel] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] En 1 otro aliado con [DefenseUp], aplica (([DefenseUp] en el aliado)/3) [AttackUp] el siguiente turno (una vez por turno, máx 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Preparación de Combate",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura el siguiente turno\n<style=\"highlight\">[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx 3)\n[WhenUse] Con 4+ [DefenseUp], Poder de Moneda +1</style>\n[WinDuel] Gana +<style=\"highlight\">3</style> Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] En 1 otro aliado con el menor porcentaje de HP, aplica 2 [DefenseUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] En 1 otro aliado con [DefenseUp], aplica (([DefenseUp] en el aliado)/<style=\"highlight\">2</style>) [AttackUp] el siguiente turno (una vez por turno, máx 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Preparación de Combate",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx 3)\n[WhenUse] Con 4+ [DefenseUp], Poder de Moneda +1\n[WinDuel] Gana +3 Contador de [Vibration]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] En <style=\"highlight\">2 otros aliados</style> con el menor porcentaje de HP, aplica 2 [DefenseUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] En <style=\"highlight\">2 otros aliados</style> con [DefenseUp], aplica (([DefenseUp] en el aliado)/2) [AttackUp] el siguiente turno (una vez por turno, máx 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Verja",
+          "desc": "[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx 2)\n[WhenUse] Poder de Moneda +1 por cada 3 [DefenseUp] en sí (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] En 1 otro aliado con el menor porcentaje de HP, aplica 3 [DefenseUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta hasta 8 Contador de [Vibration] en sí, e inflige la misma cantidad de Contador de [Vibration] al objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Verja",
+          "desc": "[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx <style=\"highlight\">4</style>)\n[WhenUse] Poder de Moneda +1 por cada 3 [DefenseUp] en sí (máx <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] En 1 otro aliado con el menor porcentaje de HP, aplica <style=\"highlight\">4</style> [DefenseUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta hasta 8 Contador de [Vibration] en sí, e inflige la misma cantidad de Contador de [Vibration] al objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Forma de Gran Espada de los Caballeros Zwei - Guardia",
+          "desc": "[CanDuelGuard]\n[StartBattle] Gana +5 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana +2 Contador de [Vibration] (una vez por turno)\n[WinDuel] Provoca [VibrationExplosion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Forma de Gran Espada de los Caballeros Zwei - Guardia",
+          "desc": "[CanDuelGuard]\n[StartBattle] Gana +5 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana +<style=\"highlight\">3</style> Contador de [Vibration] (una vez por turno)\n[WinDuel] Provoca [VibrationExplosion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
                 }
               ]
             }

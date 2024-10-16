@@ -590,17 +590,17 @@
     },
     {
       "id": "SlashTakeDamageDown",
-      "name": "Protección a Cortante",
+      "name": "Protección a lo Cortante",
       "desc": "Recibe menos daño de habilidades Cortantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "PenetrateTakeDamageDown",
-      "name": "Protección a Perforante",
+      "name": "Protección a lo Perforante",
       "desc": "Recibe menos daño de habilidades Perforantes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
       "id": "HitTakeDamageDown",
-      "name": "Protección a Contundente",
+      "name": "Protección a lo Contundente",
       "desc": "Recibe menos daño de habilidades Contundentes basado en el Contador de este efecto por un turno. (Máx 10)"
     },
     {
@@ -979,7 +979,7 @@
     },
     {
       "id": "DongbaekGrow",
-      "name": "Cultivo",
+      "name": "Creciente",
       "desc": "Fin del Turno: Añade +1 al Contador, y gana HP Máx. proporcionalmente al Contador (Max 3)",
       "summary": "Fin del Turno: Añade +1 al Contador, y gana HP Máx. proporcionalmente al Contador (Max 3)"
     },
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "DongbaekShowdown",
-      "name": "Duelo",
+      "name": "A Duelo",
       "desc": "Inicio de Turno: Las unidades sin este estado pasan a un estado 'Totalmente Florecido'\nSi Yi Sang tiene este efecto, Dongbaek gana 1 Poder de Ataque",
       "summary": ""
     },
@@ -1021,7 +1021,7 @@
     },
     {
       "id": "Fragile_Mind_LowMorale",
-      "name": "Corazón Precario",
+      "name": "Corazón Arrinconado",
       "desc": "Inicio de Turno: Gana 2 Potencia de Ataque y 3 de Atadura",
       "summary": "Inicio de Turno: Gana 2 Potencia de Ataque y 3 de Atadura"
     },
@@ -1569,7 +1569,7 @@
     {
       "id": "DefensiveStance",
       "name": "Defensive Stance",
-      "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects:\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
+      "desc": "- Max Value: 2\n- This effect does not compound in potency; stacking it only extends its duration.\n- Reduced by 1 at Turn End\n- When a unit gains this effect, gain the following effects next turn\n  · Fix this unit's Speed to its minimum value\n  · Gain 5 Defense Level Up\n  · Each of this unit's Slots gain +(10 / this unit's # of Slots) Aggro\n  · When chaining Skills, this unit can draw enemies' attack toward this unit regardless of Speed (Focused Encounters only)\n  · Upon Clash Win, trigger Tremor Burst\n  · Cannot be Staggered by damage",
       "summary": ""
     },
     {

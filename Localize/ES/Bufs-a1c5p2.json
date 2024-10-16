@@ -16,15 +16,15 @@
     },
     {
       "id": "AaCePbBc",
-      "name": "Impureza (Moral Baja)",
-      "desc": "Gana 1 de Frágil. Si esta unidad pierde un choque, el objetivo pierde 2 PC.",
+      "name": "Impureza",
+      "desc": "- Moral Baja\n- Gana 1 de Frágil. Si esta unidad pierde un choque, el objetivo pierde 2 PC",
       "summary": "Objetivo pierde 2 PC si esta unidad pierde un choque",
       "undefined": "-"
     },
     {
       "id": "AaCePbBd",
-      "name": "Impureza (Pánico)",
-      "desc": "Gana 2 de Frágil. Si esta unidad pierde un choque, el objetivo pierde 5 PC.",
+      "name": "Impureza",
+      "desc": "- Pánico\n- Gana 2 de Frágil. Si esta unidad pierde un choque, el objetivo pierde 5 PC.",
       "summary": "Objetivo pierde 5 PC si esta unidad pierde un choque",
       "undefined": "-"
     },
@@ -37,15 +37,15 @@
     },
     {
       "id": "AaCePbBe",
-      "name": "Venganza (Moral Baja)",
-      "desc": "Inicio de Turno: Gana 1 de Poder de Ataque Aumentado y 3 de Nivel Defensivo Disminuido. Gana Daño Aumentado basado en la cantidad de daño recibido el ultimo turno.\n(1 Daño Aumentado por cada 3% de HP Máx perdidos)",
+      "name": "Venganza",
+      "desc": "- Moral Baja\n- Inicio de Turno: Gana 1 de Poder de Ataque Aumentado y 3 de Nivel Defensivo Disminuido. Gana Daño Aumentado basado en la cantidad de daño recibido el ultimo turno. (1 Daño Aumentado por cada 3% de HP Máx perdidos)",
       "summary": "Gana Daño Aumentado basado en la cantidad total de daño recibido el ultimo turno.",
       "undefined": "-"
     },
     {
       "id": "AaCePbBf",
-      "name": "Venganza (Panico)",
-      "desc": "Inicio de Turno: Gana 2 Poder de Ataque Aumentado y 6 Nivel Defensivo Disminuido. Gana Daño Aumentado basado en la cantidad de daño recibido el ultimo turno.\n(1 Daño Aumentado por cada 3% de HP Máx perdidos)",
+      "name": "Venganza",
+      "desc": "- Pánico\n- Inicio de Turno: Gana 2 de Poder de Ataque Aumentado y 6 de Nivel Defensivo Disminuido. Gana Daño Aumentado basado en la cantidad de daño recibido el ultimo turno. \n(1 Daño Aumentado por cada 3% de HP Máx perdidos)",
       "summary": "Gana Daño Aumentado basado en la cantidad total de daño recibido el ultimo turno.",
       "undefined": "-"
     }

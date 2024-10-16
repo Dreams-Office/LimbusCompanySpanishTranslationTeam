@@ -2,28 +2,28 @@
     "dataList": [
         {
             "id": 806301,
-            "name": "Ferocious Acidic Crust",
-            "desc": "When the head is broken, the part has -2 Skill Final Power"
+            "name": "Corteza Ácida Feroz",
+            "desc": "Cuando la cabeza se rompe, la parte tiene -2 Poder Final de la Habilidad"
         },
         {
             "id": 806302,
-            "name": "Stolen Rupturing Shell",
-            "desc": "When the shell is broken, the part has -2 Skill Final Power"
+            "name": "Caparazón Roto Robado",
+            "desc": "Cuando el caparazón se rompe, la parte tiene -2 Poder Final de la Habilidad"
         },
         {
             "id": 806303,
             "name": "Suministro de Nutrientes de Emergencia",
-            "desc": "After this unit defeats its ally, heal by 5% of Max HP.\nAt the end of the turn, if this unit has healed 15% of Max HP with the above effect, restore the shell."
+            "desc": "Después de que esta unidad derrota a su aliado, cura por 5% de HP Máx.\nAl final del turno, si esta unidad curó 15% de su HP Máx con el efecto anterior, restaura el caparazón."
         },
         {
             "id": 806304,
-            "name": "A Crab-eat-crab World",
-            "desc": "At less than 70% HP, Brutal Pummelling, Powerful! Pummel, and Foaming skills target another ally with the least current HP.\nWhen attacking an ally, heals HP by the damage dealt.\nWhen defeating an ally, heals HP by double the damage dealt."
+            "name": "Comer o Ser Comido",
+            "desc": "A menos de 70% de HP,  las habilidades Aporreo Brutal, Aporreo Poderoso y Espumando seleccionan a otro aliado con el menor HP como objetivo\nAl atacar un aliado, cura HP por el daño infligido.\nAl derrotar un aliado, cura HP por el doble del daño infligido."
         },
         {
             "id": 806305,
-            "name": "Looming Presence",
-            "desc": "Turn Start: All enemies lose 10 SP"
+            "name": "Presencia Inminente",
+            "desc": "Inicio del Turno: Todos los enemigos pierden 10 PC"
         }
     ]
 }

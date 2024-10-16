@@ -730,11 +730,11 @@
     },
     {
       "id": "SinkingWhite_stack",
-      "content": "Los que Perduran"
+      "content": "Las que Perduran"
     },
     {
       "id": "SinkingWhite_turn",
-      "content": "Los que Partieron"
+      "content": "Las que Partieron"
     },
     {
       "id": "BulletLament_stack",
@@ -759,6 +759,10 @@
     {
       "id": "battle_operation_defense_TextTypo",
       "content": "¡Despotenciado!"
+    },
+    {
+      "id": "battle_StageBuffUI_Stackdesc",
+      "content": "(Valor Actual: {0})"
     }
   ]
 }

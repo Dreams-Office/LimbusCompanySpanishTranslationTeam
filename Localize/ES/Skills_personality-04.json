@@ -1,6 +1,633 @@
 {
   "dataList": [
     {
+      "id": 1040101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pintar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Pintar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Salpicar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +10% de daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +10% de daño"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Salpicar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +30% de daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +30% de daño"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Pinceladas",
+          "desc": "[StartBattle] Gana 2 Daño Cortante Aumentado",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pinceladas",
+          "desc": "[StartBattle] Gana 2 Daño Cortante Aumentado",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath] el siguiente turno"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Golpe Enfocado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Golpe Enfocado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Golpe Enfocado",
+          "desc": "Si el objetivo tiene 2+ Contador de [Laceration], inflige +20% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Limpieza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Limpieza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Daño Reducido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Limpieza",
+          "desc": "Si el objetivo tiene 5+ Contador de [Laceration], inflige +20% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Daño Reducido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Remolino Lenticular",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 [OffenseDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Remolino Lenticular",
+          "desc": "Si el objetivo tiene 9+ Contador de [Laceration], inflige +40% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 [OffenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corte",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Corte",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corte Superior",
+          "desc": "[WinDuel] Gana 1 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Corte Superior",
+          "desc": "Poder de Habilidad +2 contra unidades con Fragilidad a lo Cortante\n[WinDuel] Gana 1 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Swash",
+          "desc": "[WinDuel] Esta habilidad Inflige 2 Fragilidad a lo Cortante adicionales",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a lo Cortante el siguiente turno"
+                }
+              ]
+            },
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque",
+          "desc": "",
+          "coinlist": []
+        },
+        {
+          "level": 4,
+          "name": "Contraataque",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a lo Cortante"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "P.C.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Apetito"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "P.C.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Apetito"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "P.C.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 Apetito"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "C.I.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o Parálisis Inflige 1 Curación de HP Reducida el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "C.I.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o Parálisis Inflige 3 Curación de HP Reducida el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "C.I.",
+          "desc": "[WhenUse] Gana 1 de Apetito",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o Parálisis Inflige 4 Curación de HP Reducida el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Puedo Cocinarlo Todo",
+          "desc": "Potencia el Daño por cada 5% de HP faltante del objetivo (Máx 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +10% de Daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +5% de Daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +5% de Daño"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I.F. A la vista",
+          "desc": "[OnSucceedEvade] Gana 1 [Agility] el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
       "id": 1040501,
       "levelList": [
         {
@@ -48,7 +675,7 @@
         {
           "level": 4,
           "name": "E.C.",
-          "desc": "Con 10+ Contador de [Charge], inflige +10% de daño\nCon 15+ de Contador de Carga, inflige +10% de daño",
+          "desc": "Con 10+ Contador de [Charge], inflige +10% de daño\nCon 15+ Contador de Carga, inflige +10% de daño adicional",
           "coinlist": [
             {
               "coindescs": [
@@ -87,7 +714,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +15% de daño"
+                  "desc": "[OnSucceedAttack] Si el HP del objetivo está por debajo de 30%, inflige +15% de daño"
                 }
               ]
             }
@@ -109,7 +736,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +20% de daño"
+                  "desc": "[OnSucceedAttack] Si el HP del objetivo está por debajo de 30%, inflige +20% de daño"
                 },
                 {
                   "desc": "[EnemyKill] Gana 1 [Agility] el siguiente turno"
@@ -134,10 +761,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo está por debajo del 30% de la vida, inflige +30% de daño"
+                  "desc": "[OnSucceedAttack] Si el HP del objetivo está por debajo de 30%, inflige +30% de daño"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 [Agility] el siguiente turno turno"
+                  "desc": "[EnemyKill] Gana 3 [Agility] el siguiente turno"
                 }
               ]
             }
@@ -156,28 +783,28 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +5% de daño"
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +5% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +5% de daño"
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +5% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +5% de daño"
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +5% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Si la habilidad gastó 15 de Contador de [Charge] al usarse, aplica 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera de [Charge]</color></link></u> en sí misma y en otro aliado"
+                  "desc": "[EnemyKill] Si la habilidad gastó 15 de Contador de [Charge] al usarse, aplica 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera de Carga</color></link></u> en sí misma y en otro aliado"
                 }
               ]
             }
@@ -186,33 +813,33 @@
         {
           "level": 4,
           "name": "R.D.D.F.D.",
-          "desc": "[WhenUse] Con 7 a 14 de Contador de [Charge]\nGasta todo el Contador de [Charge],\nY consume 3 x (15 - Contador de [Charge] gastado)% de HP para ganar Poder de Moneda +5\n[WhenUse] Gasta 15 de Contador de [Charge] para ganar Poder de Moneda +5",
+          "desc": "[WhenUse] Con 7 a 14 de Contador de [Charge]\nGasta todo el Contador de [Charge],\nY consume 3 x (15 - Contador de [Charge] gastado)% de HP para ganar Poder de Moneda +5\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de daño"
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +10% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de daño"
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +10% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] La ultima Moneda inflige +10% de daño"
+                  "desc": "[OnSucceedAttackHead] La Moneda Final inflige +10% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Si la habilidad gastó 15 de Contador de [Charge] al usarse, aplica 7 de <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\"> Barrera de [Charge]</color></link></u> en sí misma y en otro aliado"
+                  "desc": "[EnemyKill] Si la habilidad gastó 15 de Contador de [Charge] al usarse, aplica 7 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Barrera de Carga</color></link></u> en sí misma y en otro aliado"
                 }
               ]
             }
@@ -302,7 +929,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [OffenseDown]"
                 }
               ]
             },
@@ -312,7 +939,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [OffenseDown]"
                 }
               ]
             }
@@ -329,7 +956,7 @@
                   "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [OffenseDown]"
                 }
               ]
             },
@@ -339,7 +966,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [OffenseDown]"
                 }
               ]
             }
@@ -348,7 +975,7 @@
         {
           "level": 4,
           "name": "O.N.",
-          "desc": "Con 7+ de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">[Breath]</color></link></u>, Poder de Moneda +1",
+          "desc": "Con 7+ de <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Temple</color></link></u>, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -356,7 +983,7 @@
                   "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 [OffenseDown]"
                 }
               ]
             },
@@ -366,7 +993,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 Nivel Ofensivo Reducido"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [OffenseDown]"
                 }
               ]
             }
@@ -750,7 +1377,7 @@
         {
           "level": 2,
           "name": "Artes Hospitalarias 1: La Cacería",
-          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Choque +1</style>\n[WhenUse] Gana +2 Contador de [Breath]",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Choque +1</style>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -771,7 +1398,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 1: La Cacería",
-          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es mayor que la del objetivo, gana Poder de Choque +1 por cada 2 Dif. de Velocidad (máx 3)</style>\n[WhenUse] Gana +2 Contador de [Breath]",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Choque +1 por cada 2 dif. de Velocidad (máx 3)</style>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -797,7 +1424,7 @@
         {
           "level": 1,
           "name": "Artes Hospitalarias 7: Captura",
-          "desc": "[StartBattle] Esta habilidad gasta 6 de Contador de [Breath] para ganar +2 Alcance de Atq este turno",
+          "desc": "[StartBattle] Esta habilidad gasta 6 Contador de [Breath] para ganar +2 Alcance de Atq este turno",
           "coinlist": [
             {
               "coindescs": [
@@ -818,7 +1445,7 @@
         {
           "level": 2,
           "name": "Artes Hospitalarias 7: Captura",
-          "desc": "[StartBattle] Esta habilidad gasta 6 de Contador de [Breath] para ganar +2 Alcance de Atq este turno",
+          "desc": "[StartBattle] Esta habilidad gasta 6 Contador de [Breath] para ganar +2 Alcance de Atq este turno",
           "coinlist": [
             {
               "coindescs": [
@@ -839,7 +1466,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 7: Captura",
-          "desc": "<style=\"highlight\">Si la velocidad de esta unidad es más alta que la del objetivo principal, gana Poder de Choque +1 por cada 2 Dif. de Velocidad (máx 3)</style>\n[StartBattle] Esta habilidad gasta 6 de Contador de [Breath] para ganar +2 Alcance de Atq este turno",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es más alta que la del objetivo principal, gana Poder de Choque +1 por cada 2 dif. de Velocidad (máx 3)</style>\n[StartBattle] Esta habilidad gasta 6 Contador de [Breath] para ganar +2 Alcance de Atq este turno",
           "coinlist": [
             {
               "coindescs": [
@@ -898,7 +1525,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 2: P.E.C.A.R.",
-          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Moneda +1 por cada 2 Dif. de Velocidad (máx 2)</style>\n[WhenUse] Gana +7 Contador de [Breath]",
+          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Moneda +1 por cada 2 dif. de Velocidad (máx 2)</style>\n[WhenUse] Gana +7 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1110,7 +1737,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Mantención a Golpes",
+          "name": "Mantenimiento a Golpes",
           "desc": "[WhenUse] Gana +2 Contador de [Vibration]\nGasta 10 Contador de [Vibration] en sí misma para ganar Poder de Moneda +1",
           "coinlist": [
             {
@@ -1138,7 +1765,7 @@
         },
         {
           "level": 4,
-          "name": "Mantención a Golpes",
+          "name": "Mantenimiento a Golpes",
           "desc": "[WhenUse] Gana +2 Contador de [Vibration]\nGasta <style=\"highlight\">8</style> Contador de [Vibration] en sí misma para ganar Poder de Moneda +1\n<style=\"highlight\">Si el objetivo tiene 6+ Contador de [Vibration], Poder de Moneda +1</style>",
           "coinlist": [
             {
@@ -1158,7 +1785,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; depués, reduce en <style=\"highlight\">1</style> el Contador de [Vibration] del objetivo"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en <style=\"highlight\">1</style> el Contador de [Vibration] del objetivo"
                 }
               ]
             }
@@ -1481,13 +2108,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Serious Skullbuster",
-          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 de [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 de [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
+          "name": "Rompecráneos Serio",
+          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastados - 15) en el objetivo (máx 5)"
+                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastado - 15) en el objetivo (máx 5)"
                 }
               ]
             },
@@ -1512,13 +2139,13 @@
         },
         {
           "level": 4,
-          "name": "Serious Skullbuster",
-          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 de [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 de [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
+          "name": "Rompecráneos Serio",
+          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí misma\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastados - 15) en el objetivo (máx 5)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastado - 15) en el objetivo (máx 5)<style=\"highlight\"></style>"
                 }
               ]
             },

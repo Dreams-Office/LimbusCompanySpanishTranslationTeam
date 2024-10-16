@@ -3,17 +3,17 @@
     {
       "id": 1010101,
       "name": "Retransmisión de Información",
-      "desc": "Aplica 1 de Daño Aumentando a 2 aliados colocados después de esta unidad en el Tablero."
+      "desc": "Aplica 1 Daño Aumentado a 2 aliados colocados después de esta unidad en el Tablero."
     },
     {
       "id": 1010201,
       "name": "Estudios Perspicaces",
-      "desc": "En un choque, el oponente tiene -2 de Poder de Choque."
+      "desc": "En un choque, el oponente tiene -2 Poder de Choque."
     },
     {
       "id": 1010301,
       "name": "Sereno",
-      "desc": "Tras un choque ganado, gana +1 de Contador de Temple."
+      "desc": "Tras un choque ganado, gana +1 Contador de [Breath]."
     },
     {
       "id": 1020101,
@@ -22,13 +22,13 @@
     },
     {
       "id": 1020201,
-      "name": "Auto-cargable ",
-      "desc": "Gana +1 de Contador de Carga tras un ataque."
+      "name": "Auto-[Charge]ble ",
+      "desc": "Gana +1 Contador de [Charge] tras un ataque."
     },
     {
       "id": 1020301,
       "name": "Resolución ",
-      "desc": "Al inicio del turno, si tiene +4 de Contador de Temple, gana 2 de Rapidez."
+      "desc": "Al inicio del turno, si tiene +4 Contador de [Breath], gana 2 [Agility]."
     },
     {
       "id": 1030101,
@@ -37,13 +37,13 @@
     },
     {
       "id": 1030201,
-      "name": "Recarga Rápida",
-      "desc": "Al inicio de la fase de combate, gana Contador de Carga por (Reson. de Melancolía / 3)."
+      "name": "Re[Charge] Rápida",
+      "desc": "Al inicio de la fase de combate, gana Contador de [Charge] por (Reson. de Melancolía / 3)."
     },
     {
       "id": 1030301,
       "name": "Mente Preparada",
-      "desc": "Gana Rapidez por (Reson. de Ira / 3) el próximo turno."
+      "desc": "Gana [Agility] por (Reson. de Ira / 3) el siguiente turno."
     },
     {
       "id": 1040101,
@@ -53,42 +53,42 @@
     {
       "id": 1040201,
       "name": "C. A. L. M.",
-      "desc": "Inflige +10% de daño Cortante este turno."
+      "desc": "Inflige +10% Daño Cortante este turno."
     },
     {
       "id": 1040301,
       "name": "Kokuundō",
-      "desc": "Inflige +10% de daño contra objetivos con Sangrado."
+      "desc": "Inflige +10% de daño contra objetivos con [Laceration]."
     },
     {
       "id": 1050101,
       "name": "Firmeza",
-      "desc": "Al tener menos de 50% de HP, gana 1 de Protección al inicio de la fase de combate."
+      "desc": "Al tener menos de 50% de HP, gana 1 Protección al inicio de la fase de combate."
     },
     {
       "id": 1050201,
       "name": "Monte Tai",
-      "desc": "Al ser atacado, inflige 1 de Quemadura a un enemigo al azar.\n(Hasta 4 veces)"
+      "desc": "Al ser atacado, inflige 1 de [Combustion] a un enemigo aleatorio.\n(Hasta 4 veces)"
     },
     {
       "id": 1050301,
       "name": "Espíritu Resistente",
-      "desc": "Al ser atacado, gana +1 de Carga.\n(Hasta 6 veces)"
+      "desc": "Al ser atacado, gana +1 de [Charge].\n(Hasta 6 veces)"
     },
     {
       "id": 1060101,
       "name": "Entretenimiento",
-      "desc": "Cura 6 PC el próximo turno."
+      "desc": "Cura 6 PC el siguiente turno."
     },
     {
       "id": 1060201,
       "name": "Hēiyúndào",
-      "desc": "La última Moneda de la última habilidad en la cadena inflige 3 de Sangrado."
+      "desc": "La última Moneda de la última habilidad en la cadena inflige 3 de [Laceration]."
     },
     {
       "id": 1060301,
       "name": "Regocijo",
-      "desc": "Cura (Reson. de Gula x 2) PC el próximo turno."
+      "desc": "Cura (Reson. de Gula x 2) PC el siguiente turno."
     },
     {
       "id": 1070101,
@@ -103,7 +103,7 @@
     {
       "id": 1070301,
       "name": "Con Ganas de Pastar",
-      "desc": "Gana (Reson. de Ira) de Contador de Carga el próximo turno.\nAl tener +5 Contador de Carga, gana 1 de Rapidez y Poder de Ataque Aumentado."
+      "desc": "Gana (Reson. de Ira) Contador de [Charge] el siguiente turno.\nAl tener +5 Contador de [Charge], gana 1 [Agility] y Poder de Ataque Aumentado."
     },
     {
       "id": 1080101,
@@ -113,27 +113,27 @@
     {
       "id": 1080201,
       "name": "Enfoque de Ondas Cerebrales",
-      "desc": "Al inicio de la fase de combate, pierde 15 PC.\nGana (Reson. de Melancolía / 3) de Poder de Ataque Aumentado el próximo turno."
+      "desc": "Al inicio de la fase de combate, pierde 15 PC.\nGana (Reson. de Melancolía / 3) Poder de Ataque Aumentado el siguiente turno."
     },
     {
       "id": 1080301,
       "name": "Caminando al Borde de la Muerte",
-      "desc": "Al tener menos del 50% de HP, gana 1 de Temple adicional de las habilidades."
+      "desc": "Al tener menos del 50% de HP, gana 1 de [Breath] adicional de las habilidades."
     },
     {
       "id": 1080401,
       "name": "Ojo para Debilidades",
-      "desc": "Los ataques infligen 1 de Tremor en un choque ganado."
+      "desc": "Los ataques infligen 1 de [Vibration] en un choque ganado."
     },
     {
       "id": 1090101,
       "name": "Corta Maldad",
-      "desc": "Tras golpear, inflige 1 de Sangrado con un 50% de probabilidad."
+      "desc": "Tras golpear, inflige 1 de [Laceration] con un 50% de probabilidad."
     },
     {
       "id": 1090201,
       "name": "Espada de la Nube Oscura",
-      "desc": "Al tener 5+ de Temple, las habilidades de contraataque usan la Habilidad 3."
+      "desc": "Al tener 5+ de [Breath], las habilidades de contraataque usan la Habilidad 3."
     },
     {
       "id": 1090301,
@@ -143,7 +143,7 @@
     {
       "id": 1100101,
       "name": "Coraje",
-      "desc": "Cuando un aliado es derrotado, gana 1 de Poder de Ataque Aumentado el próximo turno."
+      "desc": "Cuando un aliado es derrotado, gana 1 Poder de Ataque Aumentado el siguiente turno."
     },
     {
       "id": 1100201,
@@ -153,7 +153,7 @@
     {
       "id": 1100301,
       "name": "Tu Escudo",
-      "desc": "Al inicio de la fase de combate, aplica 2 de Poder Defensivo Aumentado y 1 de Protección a los aliados adyacentes a esta unidad en el Tablero."
+      "desc": "Al inicio de la fase de combate, aplica 2 Poder Defensivo Aumentado y 1 Protección a los aliados adyacentes a esta unidad en el Tablero."
     },
     {
       "id": 1100401,
@@ -167,13 +167,13 @@
     },
     {
       "id": 1110201,
-      "name": "Sensato",
+      "name": "Sensata",
       "desc": "Inflige +20% de daño a enemigos con menos de 25% de HP."
     },
     {
       "id": 1110301,
       "name": "Subida de Moral",
-      "desc": "El próximo turno, aplica 2 de Rapidez a sí mismo a los aliados que estén adyacentes a esta unidad en el Tablero este turno."
+      "desc": "El siguiente turno, aplica 2 [Agility] a sí mismo a los aliados que estén adyacentes a esta unidad en el Tablero este turno."
     },
     {
       "id": 1120101,
@@ -183,7 +183,7 @@
     {
       "id": 1120201,
       "name": "Ignición",
-      "desc": "La 3ra y subsecuentes Monedas de una habilidad infligen 1 de Quemadura tras golpear."
+      "desc": "La 3ra y subsecuentes Monedas de una habilidad infligen 1 de [Combustion] tras golpear."
     },
     {
       "id": 1120301,
@@ -203,37 +203,37 @@
     {
       "id": 1010321,
       "name": "Otorgar",
-      "desc": "1 aliado con los mayores PC gana +1 Contador de Temple con las habilidades."
+      "desc": "1 aliado con los mayores PC gana +1 Contador de [Breath] con las habilidades."
     },
     {
       "id": 1020121,
       "name": "Observación Perspicaz",
-      "desc": "1 aliado con el mayor HP Máx. inflige 2 de Nivel Ofensivo Reducido con sus ataques con un 25% de probabilidad."
+      "desc": "1 aliado con el mayor HP Máx. inflige 2 Nivel Ofensivo Reducido con sus ataques con un 25% de probabilidad."
     },
     {
       "id": 1020221,
       "name": "Comunicación de Radio",
-      "desc": "1 aliado con el menor HP Máx. gana +1 de Contador de Carga."
+      "desc": "1 aliado con el menor HP Máx. gana +1 Contador de [Charge]."
     },
     {
       "id": 1020321,
       "name": "Respaldo",
-      "desc": "1 aliado con el menor HP Máx. gana +2 de Poder Final para habilidades de defensa."
+      "desc": "1 aliado con el menor HP Máx. gana +2 Poder Final para habilidades de defensa."
     },
     {
       "id": 1030121,
       "name": "Apoyo",
-      "desc": "1 aliado con los mayores PC inflige +10% de daño Perforante."
+      "desc": "1 aliado con los mayores PC inflige +10% Daño Perforante."
     },
     {
       "id": 1030221,
       "name": "Espíritu Roto",
-      "desc": "1 aliado con la mayor Velocidad gana +1 de Poder Final para su primera habilidad."
+      "desc": "1 aliado con la mayor Velocidad gana +1 Poder Final para su primera habilidad."
     },
     {
       "id": 1030321,
       "name": "Dividir en Dos",
-      "desc": "1 aliado con la mayor Velocidad inflige +10% de daño Cortante."
+      "desc": "1 aliado con la mayor Velocidad inflige +10% Daño Cortante."
     },
     {
       "id": 1040121,
@@ -243,12 +243,12 @@
     {
       "id": 1040221,
       "name": "Rompe-hielo",
-      "desc": "1 aliado con menor HP Máx. inflige +1 de Ruptura."
+      "desc": "1 aliado con menor HP Máx. inflige +1 de [Burst]."
     },
     {
       "id": 1040321,
       "name": "Músculo al Mando",
-      "desc": "1 aliado con la mayor Velocidad inflige +1 de Sangrado."
+      "desc": "1 aliado con la mayor Velocidad inflige +1 de [Laceration]."
     },
     {
       "id": 1050121,
@@ -258,12 +258,12 @@
     {
       "id": 1050221,
       "name": "Punto de Fricción",
-      "desc": "1 aliado con la menor Velocidad inflige +1 de Quemadura."
+      "desc": "1 aliado con la menor Velocidad inflige +1 de [Combustion]."
     },
     {
       "id": 1050321,
       "name": "Taciturno",
-      "desc": "1 aliado con la Velocidad más baja inflige +1 de Ruptura."
+      "desc": "1 aliado con la Velocidad más baja inflige +1 de [Burst]."
     },
     {
       "id": 1060121,
@@ -273,7 +273,7 @@
     {
       "id": 1060221,
       "name": "Venganza del Sindicato",
-      "desc": "Un aliado con la Velocidad más alta inflige +1 de Sangrado."
+      "desc": "Un aliado con la Velocidad más alta inflige +1 de [Laceration]."
     },
     {
       "id": 1060321,
@@ -283,7 +283,7 @@
     {
       "id": 1070121,
       "name": "Motivado por el Odio",
-      "desc": "1 aliado con el HP Máx. más bajo inflige+10% de daño Contundente."
+      "desc": "1 aliado con el HP Máx. más bajo inflige+10% Daño Contundente."
     },
     {
       "id": 1070221,
@@ -293,7 +293,7 @@
     {
       "id": 1070321,
       "name": "Obstinación",
-      "desc": "1 aliado con la mayor Belocidad inflige +10% de daño Perforante."
+      "desc": "1 aliado con la mayor Velocidad inflige +10% Daño Perforante."
     },
     {
       "id": 1080121,
@@ -303,17 +303,17 @@
     {
       "id": 1080221,
       "name": "Tenacidad",
-      "desc": "1 aliado con los menores PC inflige +10% de daño Contundente."
+      "desc": "1 aliado con los menores PC inflige +10% Daño Contundente."
     },
     {
       "id": 1080321,
       "name": "Contienda",
-      "desc": "1 aliado con el menor HP gana +2 de Poder Final para habilidades de contraataque."
+      "desc": "1 aliado con el menor HP gana +2 Poder Final para habilidades de contraataque."
     },
     {
       "id": 1080421,
       "name": "Según el Manual",
-      "desc": "1 aliado con la menor Velocidad gana +2 de Poder Final para habilidades de guardia."
+      "desc": "1 aliado con la menor Velocidad gana +2 Poder Final para habilidades de guardia."
     },
     {
       "id": 1090121,
@@ -323,7 +323,7 @@
     {
       "id": 1090221,
       "name": "Esgrima de la Nube Oscura",
-      "desc": "1 aliado con la menor Velocidad inflige +10% de daño Cortante."
+      "desc": "1 aliado con la menor Velocidad inflige +10% Daño Cortante."
     },
     {
       "id": 1090321,
@@ -333,12 +333,12 @@
     {
       "id": 1100121,
       "name": "Rencor",
-      "desc": "1 aliado con los menores PC gana 1 de Poder de Ataque Aumentado el turno después que un aliado sea derrotado."
+      "desc": "1 aliado con los menores PC gana 1 Poder de Ataque Aumentado el turno después que un aliado sea derrotado."
     },
     {
       "id": 1100221,
       "name": "Manos Ensangrentadas ",
-      "desc": "1 aliado con la menor Velocidad gana +1 de Poder Final para su última habilidad."
+      "desc": "1 aliado con la menor Velocidad gana +1 Poder Final para su última habilidad."
     },
     {
       "id": 1100321,
@@ -363,7 +363,7 @@
     {
       "id": 1110321,
       "name": "Valor",
-      "desc": "1 aliado con el mayor HP obtiene al azar 1 de Poder de Ataque Aumentado, 1 de Poder Defensivo Aumentado, o 1 de Protección al inicio de la fase de combate."
+      "desc": "1 aliado con el mayor HP obtiene al azar 1 Poder de Ataque Aumentado, 1 Poder Defensivo Aumentado, o 1 Protección al inicio de la fase de combate."
     },
     {
       "id": 1120121,
@@ -398,7 +398,7 @@
     {
       "id": 1000221,
       "name": "Lujuria",
-      "desc": "Un aliado al azar recibe este efecto: Tras ser golpeado por un ataque este turno, cura 3 de HP con un 50% de probabilidad."
+      "desc": "Un aliado aleatorio recibe este efecto: Tras ser golpeado por un ataque este turno, cura 3 de HP con un 50% de probabilidad."
     },
     {
       "id": 1000301,
@@ -408,7 +408,7 @@
     {
       "id": 1000321,
       "name": "Pereza",
-      "desc": "Un aliado al azar recibe este efecto: Recibe 1 menos de daño este turno."
+      "desc": "Un aliado aleatorio recibe este efecto: Recibe 1 menos de daño este turno."
     },
     {
       "id": 1000401,
@@ -418,7 +418,7 @@
     {
       "id": 1000421,
       "name": "Gula",
-      "desc": "Un aliado al azar recibe este efecto: Cura 5 HP al inicio de la fase de combate."
+      "desc": "Un aliado aleatorio recibe este efecto: Cura 5 HP al inicio de la fase de combate."
     },
     {
       "id": 1000501,
@@ -428,7 +428,7 @@
     {
       "id": 1000521,
       "name": "Melancolía",
-      "desc": "Un aliado al azar recibe este efecto: Cura 5 PC al inicio de la fase de combate."
+      "desc": "Un aliado aleatorio recibe este efecto: Cura 5 PC al inicio de la fase de combate."
     },
     {
       "id": 1000601,
@@ -438,7 +438,7 @@
     {
       "id": 1000621,
       "name": "Orgullo",
-      "desc": "Un aliado al azar recibe este efecto: Inflige +2 de daño tras ganar un choque."
+      "desc": "Un aliado aleatorio recibe este efecto: Inflige +2 de daño tras ganar un choque."
     },
     {
       "id": 1000701,
@@ -448,42 +448,42 @@
     {
       "id": 1000721,
       "name": "Envidia",
-      "desc": "Un aliado al azar recibe este efecto: Tras ser golpeado por un ataque este turno, inflige 1 de daño al atacante con un 25% de probabilidad."
+      "desc": "Un aliado aleatorio recibe este efecto: Tras ser golpeado por un ataque este turno, inflige 1 de daño al atacante con un 25% de probabilidad."
     },
     {
       "id": 1050401,
       "name": "Martillo Obsesivo",
-      "desc": "Al tener menos del 50% de HP, remueve 1 efecto de estado negativo y gana 1 de Fanático, 1 de Poder de Ataque Aumentado y 3 de Protección al inicio de la fase de combate."
+      "desc": "Al tener menos del 50% de HP, remueve 1 efecto de estado negativo y gana 1 Fanático, 1 Poder de Ataque Aumentado y 3 Protección al inicio de la fase de combate."
     },
     {
       "id": 1090401,
       "name": "Alegría de la Ejecución",
-      "desc": "Cuando un enemigo es derrotado, gana 1 de Rapidez 1 de Daño Aumentando el próximo turno.\nSi esta unidad derrotó a un enemigo, también gana 1 de Fanático. (Una vez por turno)"
+      "desc": "Cuando un enemigo es derrotado, gana 1 [Agility] 1 Daño Aumentado el siguiente turno.\nSi esta unidad derrotó a un enemigo, también gana 1 Fanático. (Una vez por turno)"
     },
     {
       "id": 1050421,
       "name": "El Más Grande Honor",
-      "desc": "Aplica 1 de Poder de Ataque Aumentado 1 de Protección al aliado con menor HP debajo del 50%.\nSi el aliado es de N Corp., también aplica 1 de Fanático."
+      "desc": "Aplica 1 Poder de Ataque Aumentado 1 Protección al aliado con menor HP debajo del 50%.\nSi el aliado es un 'Fanático de N Corp.', también aplica 1 Fanático."
     },
     {
       "id": 1090421,
       "name": "Fe Creciente",
-      "desc": "Cuando un enemigo es derrotado, aplica 1 de Rapidez y 1 de Daño Aumentado al aliado con los mayores PC. (Una vez por turno.)"
+      "desc": "Cuando un enemigo es derrotado, aplica 1 [Agility] y 1 Daño Aumentado al aliado con los mayores PC. (Una vez por turno.)"
     },
     {
       "id": 1020401,
       "name": "Silbidos",
-      "desc": "Al inicio de la fase de combate, cura a 2 aliados con los menores PC por 15 PC.\nSi el aliado es de N Corp., también aplica 1 de Fanático."
+      "desc": "Al inicio de la fase de combate, cura a 2 aliados con los menores PC por 15 PC.\nSi el aliado es un 'Fanático de N Corp.', también aplica 1 Fanático."
     },
     {
       "id": 1020421,
       "name": "Susurros",
-      "desc": "Al inicio de la fase de combate, cura a 1 aliado con los menores PC por 15 PC.\nSi el aliado es de N Corp., también aplica 1 de Fanático."
+      "desc": "Al inicio de la fase de combate, cura a 1 aliado con los menores PC por 15 PC.\nSi el aliado es un 'Fanático de N Corp.', también aplica 1 Fanático."
     },
     {
       "id": 1070401,
       "name": "Maldición...",
-      "desc": "Cuando un aliado es derrotado, pierde 10 PC y gana 1 de Poder Contundente Aumentado el próximo turno."
+      "desc": "Cuando un aliado es derrotado, pierde 10 PC y gana 1 Poder Contundente Aumentado el siguiente turno."
     },
     {
       "id": 1070421,
@@ -503,12 +503,12 @@
     {
       "id": 1060401,
       "name": "Encendiendo~",
-      "desc": "Al tener 30+ PC, inflige +1 de Contador de Quemadura con los efectos de habilidades/monedas de ataque."
+      "desc": "Al tener 30+ PC, inflige +1 Contador de [Combustion] con los efectos de habilidades/monedas de ataque."
     },
     {
       "id": 1060421,
       "name": "¿Acaso No Quema?",
-      "desc": "1 aliado con los mayores PC inflige +1 de Contador de Quemadura con los efectos de sus habilidades/monedas de ataque."
+      "desc": "1 aliado con los mayores PC inflige +1 Contador de [Combustion] con los efectos de sus habilidades/monedas de ataque."
     },
     {
       "id": 1040401,
@@ -538,12 +538,12 @@
     {
       "id": 1100521,
       "name": "Arrinconando",
-      "desc": "1 aliado con los menores PC inflige +10% de daño Contundente.\nSi aquel aliado está debajo de 0 PC, mejora su daño Contundente más mientras más bajos sean sus PC. (Máx. 10%)"
+      "desc": "1 aliado con los menores PC inflige +10% Daño Contundente.\nSi aquel aliado está debajo de 0 PC, mejora su daño Contundente más mientras más bajos sean sus PC. (Máx. 10%)"
     },
     {
       "id": 1030401,
       "name": "¡Vos Martillaréis!",
-      "desc": "Si el objetivo tiene Clavos, inflige +1 de Contador de Tremor.\nSi esta unidad es Fanática, inflige +1 de Clavos."
+      "desc": "Si el objetivo tiene Clavos, inflige +1 Contador de [Vibration].\nSi esta unidad es Fanática, inflige +1 de Clavos."
     },
     {
       "id": 1030421,
@@ -553,42 +553,42 @@
     {
       "id": 1090501,
       "name": "Esta Va Para Salir Temprano~",
-      "desc": "Tras Estallido de Tremor, usa 3 de Contador de Carga para incrementar el aumento del Umbral de Aturdimiento por un 40%.\nDespués de activar Estallido de Tremor, gana 1 de Rapidez y 1 de Daño Contundente Aumentado el próximo turno."
+      "desc": "Tras [VibrationExplosion], usa 3 Contador de [Charge] para incrementar el aumento del Umbral de Aturdimiento por un 40%.\nDespués de activar [VibrationExplosion], gana 1 [Agility] y 1 Daño Contundente Aumentado el siguiente turno."
     },
     {
       "id": 1090521,
       "name": "Llave Resonante",
-      "desc": "Cuando un aliado con la menor Velocidad activa Estallido de Tremor, incrementa el aumento del Umbral de Aturdimiento por un 20%."
+      "desc": "Cuando un aliado con la menor Velocidad activa [VibrationExplosion], incrementa el aumento del Umbral de Aturdimiento por un 20%."
     },
     {
       "id": 1050501,
       "name": "Fatiga Crónica",
-      "desc": "En un choque, el oponente tiene -1 de Poder de Choque si posee 5+ de Tremor.\nAl recuperarse del Aturdimiento, cura el 5% de los HP Máx."
+      "desc": "En un choque, el oponente tiene -1 Poder de Choque si posee 5+ de [Vibration].\nAl recuperarse del Aturdimiento, cura el 5% de los HP Máx."
     },
     {
       "id": 1050521,
       "name": "Salida por Sugerencia",
-      "desc": "1 aliado con la mayor Velocidad reduce el Poder de Choque de oponentes con Tremor por 1."
+      "desc": "1 aliado con la mayor Velocidad reduce el Poder de Choque de oponentes con [Vibration] por 1."
     },
     {
       "id": 1070501,
       "name": "Lluvia de Lágrimas",
-      "desc": "Al inicio de la fase de combate, usa 1 de Contador de Ahogo y pierde PC por la cantidad actual de Ahogo.\nAntes de ser golpeado por un ataque, gana Protección igual al Ahogo de esta unidad. (Hasta 5 de Protección pueden ser obtenidos por turno)\nAl ser golpeado, gana 1 de Daño Contundente Aumentado el próximo turno. (3 por turno)"
+      "desc": "Al inicio de la fase de combate, usa 1 Contador de [Sinking] y pierde PC por la cantidad actual de [Sinking].\nAntes de ser golpeado por un ataque, gana Protección igual al [Sinking] de esta unidad. (Hasta 5 Protección pueden ser obtenidos por turno)\nAl ser golpeado, gana 1 Daño Contundente Aumentado el siguiente turno. (3 por turno)"
     },
     {
       "id": 1070521,
-      "name": "Paraguas Roto",
-      "desc": "1 aliado con los menores PC pierde 10 de PC al ser golpeado por un ataque y gana 1 de Daño Contundente Aumentado el próximo turno. (Una ver por turno)"
+      "name": "Paraguas Rasgado",
+      "desc": "1 aliado con los menores PC pierde 10 de PC al ser golpeado por un ataque y gana 1 Daño Contundente Aumentado el siguiente turno. (Una ver por turno)"
     },
     {
       "id": 1120501,
       "name": "Sierra Encendida",
-      "desc": "Inflige +1 de Ruptura a objetivos con Tremor."
+      "desc": "Inflige +1 de [Burst] a objetivos con [Vibration]."
     },
     {
       "id": 1120521,
       "name": "Mantenimiento de Sierra",
-      "desc": "1 aliado con la menor Velocidad inflige +1 de Ruptura a objetivos con Tremor."
+      "desc": "1 aliado con la menor Velocidad inflige +1 de [Burst] a objetivos con [Vibration]."
     },
     {
       "id": 1010401,
@@ -603,12 +603,12 @@
     {
       "id": 1080501,
       "name": "Rellenando Fluido",
-      "desc": "Si esta unidad falla en infligir daño de HP usando habilidades de ataque en un turno, gana Escudo igual al 5% de HP Máx el próximo turno."
+      "desc": "Si esta unidad falla en infligir daño de HP usando habilidades de ataque en un turno, gana Escudo igual al 5% de HP Máx el siguiente turno."
     },
     {
       "id": 1080521,
       "name": "Mucosidad Corrosiva",
-      "desc": "Cuando 1 aliado con la mayor Velocidad activa Estallido de Tremor, inflige 2 de Ruptura."
+      "desc": "Cuando 1 aliado con la mayor Velocidad activa [VibrationExplosion], inflige 2 de [Burst]."
     },
     {
       "id": 1060501,
@@ -623,7 +623,7 @@
     {
       "id": 1100601,
       "name": "Marca de Talismanes",
-      "desc": "Tras golpear, si el objetivo tenía Ruptura, gana 1 de Talismán."
+      "desc": "Tras golpear, si el objetivo tenía [Burst], gana 1 de Talismán."
     },
     {
       "id": 1100621,
@@ -633,32 +633,32 @@
     {
       "id": 1080601,
       "name": "Llama Intensa",
-      "desc": "Inflige +10% de daño Contundente por cada 3 de Contador de Quemadura en el objetivo. (Máx. 30%)"
+      "desc": "Inflige +10% Daño Contundente por cada 3 Contador de [Combustion] en el objetivo. (Máx. 30%)"
     },
     {
       "id": 1080621,
       "name": "Flama Intensa",
-      "desc": "1 aliado con la menor Velocidad inflige +5% de daño Contundente por cada 3 de Contador de Quemadura en el objetivo. (Máx. 15%)"
+      "desc": "1 aliado con la menor Velocidad inflige +5% Daño Contundente por cada 3 Contador de [Combustion] en el objetivo. (Máx. 15%)"
     },
     {
       "id": 1050601,
       "name": "Activar Presurización de Traje rrR-#4",
-      "desc": "Al final de turno, Velocidad Máx +2 el próximo turno por cada 5 de Contador de Carga. (Limitado a 6)"
+      "desc": "Al final de turno, Velocidad Máx +2 el siguiente turno por cada 5 Contador de [Charge]. (Limitado a 6)"
     },
     {
       "id": 1050621,
       "name": "Entrenamiento de Maniobras",
-      "desc": "Al final del turno, 1 aliado con el mayor Contador de Carga gana Velocidad Máx +1 el próximo turno por cada 5 de Contador de Carga. (Limitado a 3)"
+      "desc": "Al final del turno, 1 aliado con el mayor Contador de [Charge] gana Velocidad Máx +1 el siguiente turno por cada 5 Contador de [Charge]. (Limitado a 3)"
     },
     {
       "id": 1090601,
       "name": "Respiración Defensiva",
-      "desc": "Al inicio de la fase de combate, gana 2 de Escudo por cada 1 de Contador de Temple. (Máx. 20)"
+      "desc": "Al inicio de la fase de combate, gana 2 de Escudo por cada 1 Contador de [Breath]. (Máx. 20)"
     },
     {
       "id": 1090621,
       "name": "Protección Designada",
-      "desc": "Al inicio de la fase de combate, 1 aliado con el menor porcentaje de HP gana 1 de Escudo por cada 1 de Contador de Temple el próximo turno. (Máx. 10)"
+      "desc": "Al inicio de la fase de combate, 1 aliado con el menor porcentaje de HP gana 1 de Escudo por cada 1 Contador de [Breath] el siguiente turno. (Máx. 10)"
     },
     {
       "id": 1030501,
@@ -673,209 +673,209 @@
     {
       "id": 1080701,
       "name": "Aplastando Cangrejos",
-      "desc": "Tras golpear a un objetivo con Tremor, inflige +1 de Contador de Ahogo."
+      "desc": "Tras golpear a un objetivo con [Vibration], inflige +1 Contador de [Sinking]."
     },
     {
       "id": 1080721,
       "name": "Cangreinador",
-      "desc": "Cuando un aliado con los HP Máx más bajos golpea con Monedas caídas en Cara, inflige +1 de Contador de Ahogo al infligir Contador de Tremor en su objetivo con efectos de Moneda."
+      "desc": "Cuando un aliado con los HP Máx más bajos golpea con Monedas caídas en Cara, inflige +1 Contador de [Sinking] al infligir Contador de [Vibration] en su objetivo con efectos de Moneda."
     },
     {
       "id": 1100701,
       "name": "Salida de Potencia Inestable",
-      "desc": "Tras golpear con Monedas en Cara al tener 10+ de Contador de Tremor en sí mismo, inflige +1 de Tremor y Contador de Tremor con efectos de Moneda."
+      "desc": "Tras golpear con Monedas en Cara al tener 10+ Contador de [Vibration] en sí mismo, inflige +1 de [Vibration] y Contador de [Vibration] con efectos de Moneda."
     },
     {
       "id": 1100721,
       "name": "Salida de Potencia Modificada",
-      "desc": "1 aliado con mayor HP Máx inflige +1 de Tremor con los efectos de sus habilidades de ataque/monedas."
+      "desc": "1 aliado con mayor HP Máx inflige +1 de [Vibration] con los efectos de sus habilidades de ataque/monedas."
     },
     {
       "id": 1120601,
       "name": "Escudo de Combate",
-      "desc": "Si 2 o más ataques apuntan a esta unidad al inicio de la fase de combate, gana 2 de Nivel Defensivo Aumentado.\nSi se está al 50% o menos de HP al inicio de la fase de combate, gana 3 de Nivel Defensivo Aumentado."
+      "desc": "Si 2 o más ataques apuntan a esta unidad al inicio de la fase de combate, gana 2 Nivel Defensivo Aumentado.\nSi se está al 50% o menos de HP al inicio de la fase de combate, gana 3 Nivel Defensivo Aumentado."
     },
     {
       "id": 1120621,
       "name": "Tu Escudo",
-      "desc": "Si un aliado con mayor HP Máx es apuntado por 2 o más ataques, gana 3 de Nivel Defensivo Aumentado."
+      "desc": "Si un aliado con mayor HP Máx es apuntado por 2 o más ataques, gana 3 Nivel Defensivo Aumentado."
     },
     {
       "id": 1020501,
       "name": "Protección de Territorio",
-      "desc": "Al inicio de la fase de combate, aplica 2 de Nivel Defensivo Aumentado a los 2 aliados adyacentes a esta unidad en el Tablero."
+      "desc": "Al inicio de la fase de combate, aplica 2 Nivel Defensivo Aumentado a los 2 aliados adyacentes a esta unidad en el Tablero."
     },
     {
       "id": 1020511,
       "name": "Protección de Territorio",
-      "desc": "Al inicio de la fase de combate, aplica 2 de Nivel Defensivo Aumentado a los 2 aliados adyacentes a esta unidad en el Tablero.\nSi los HP de los aliados están debajo del 50%, aplica 2 de Nivel Defensivo Aumentado adicional."
+      "desc": "Al inicio de la fase de combate, aplica 2 Nivel Defensivo Aumentado a los 2 aliados adyacentes a esta unidad en el Tablero.\nSi los HP de los aliados están debajo del 50%, aplica 2 Nivel Defensivo Aumentado adicional."
     },
     {
       "id": 1020521,
-      "name": "Solicitud de Protección Recibida",
-      "desc": "Al inicio de la fase de combate, aplica 2 de Nivel Defensivo Aumentado al aliado con el menor porcentaje de HP.\nSi los HP del aliado están debajo del 50%, aplica 2 de Nivel Defensivo Aumentado adicional."
+      "name": "Solicitud Protección Recibida",
+      "desc": "Al inicio de la fase de combate, aplica 2 Nivel Defensivo Aumentado al aliado con el menor porcentaje de HP.\nSi los HP del aliado están debajo del 50%, aplica 2 Nivel Defensivo Aumentado adicional."
     },
     {
       "id": 1040501,
       "name": "Filo Demoniaco Dimensional",
-      "desc": "Tras derrotar a un enemigo, gana +2 de Contador de Carga. (3 veces por turno)"
+      "desc": "Tras derrotar a un enemigo, gana +2 Contador de [Charge]. (3 veces por turno)"
     },
     {
       "id": 1040521,
       "name": "Filo Demoniaco Dimensional - Tipo: Espada Mk7",
-      "desc": "Cuando un aliado con menor HP Máx derrota a un enemigo, gana +2 de Contador de Carga. (1 vez por turno)"
+      "desc": "Cuando un aliado con menor HP Máx derrota a un enemigo, gana +2 Contador de [Charge]. (1 vez por turno)"
     },
     {
       "id": 1060601,
       "name": "Limpieza Maestra",
-      "desc": "Si tiene 5+ de Contador de Carga al inicio de la fase de combate, gana 2 de Rapidez el próximo turno."
+      "desc": "Si tiene 5+ Contador de [Charge] al inicio de la fase de combate, gana 2 [Agility] el siguiente turno."
     },
     {
       "id": 1060621,
       "name": "Manual de Limpieza de Tren",
-      "desc": "Un aliado con la menor Velocidad gana 2 de Rapidez el próximo turno si tiene 5+ de Contador de Carga al inicio de la fase de combate."
+      "desc": "Un aliado con la menor Velocidad gana 2 [Agility] el siguiente turno si tiene 5+ Contador de [Charge] al inicio de la fase de combate."
     },
     {
       "id": 1070601,
       "name": "Lectura Instintiva",
-      "desc": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5), inflige +1 de Ruptura con efectos de Habilidad.",
-      "summary": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\", inflige +1 de Ruptura con efectos de Habilidad."
+      "desc": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5), inflige +1 de [Burst] con efectos de Habilidad.",
+      "summary": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\", inflige +1 de [Burst] con efectos de Habilidad."
     },
     {
       "id": 1070611,
       "name": "Lectura Instintiva",
-      "desc": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5), inflige +1 de Ruptura con efectos de Habilidad.\n<style=\"highlight\">Si 4 o más unidades sobrevivientes, incluida esta unidad, son Fixers de la Asociación Seven, +1 de Ruptura adicional</style>. ",
-      "summary": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\", inflige +1 de Ruptura con efectos de Habilidad.\nCon 4 o más aliados Fixers de la Asociación Seven, +1 de Ruptura adicional."
+      "desc": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5), inflige +1 de [Burst] con efectos de Habilidad.\n<style=\"highlight\">Si 4 o más unidades sobrevivientes, incluida esta unidad, son Fixers de la Asociación Seven, +1 de [Burst] adicional</style>. ",
+      "summary": "Tras atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\", inflige +1 de [Burst] con efectos de Habilidad.\nCon 4 o más aliados Fixers de la Asociación Seven, +1 de [Burst] adicional."
     },
     {
       "id": 1070621,
       "name": "Conecta Los Puntos",
-      "desc": "1 aliado con el mayor HP Máx inflige +1 de Ruptura con efectos de habilidad al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).",
-      "summary": "1 aliado con mayor HP Máx inflige +1 de Ruptura con efectos de habilidad al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\"."
+      "desc": "1 aliado con el mayor HP Máx inflige +1 de [Burst] con efectos de habilidad al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).",
+      "summary": "1 aliado con mayor HP Máx inflige +1 de [Burst] con efectos de habilidad al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\"."
     },
     {
       "id": 1070631,
       "name": "Conecta Los Puntos",
-      "desc": "1 aliado con mayor HP Máx inflige +1 de Ruptura con efectos de habilidad al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).\n<style=\"highlight\">Si el aliado es un Fixer de la Asociación Seven, inflige +1 de Ruptura adicional</style>.",
-      "summary": "1 aliado con mayor HP Máx inflige +1 de Ruptura al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\".\nSi el aliado es un Fixer de la Seven Assocation, inflige +1 de Ruptura adicional."
+      "desc": "1 aliado con mayor HP Máx inflige +1 de [Burst] con efectos de habilidad al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).\n<style=\"highlight\">Si el aliado es un Fixer de la Asociación Seven, inflige +1 de [Burst] adicional</style>.",
+      "summary": "1 aliado con mayor HP Máx inflige +1 de [Burst] al atacar a un objetivo con un tipo de daño al que el objetivo es \"Fatal\".\nSi el aliado es un Fixer de la Seven Assocation, inflige +1 de [Burst] adicional."
     },
     {
       "id": 1020601,
       "name": "Antes Que El Té Se Enfríe...",
-      "desc": "Al atacar a un objetivo con un tipo de daño al que el objetivo es \"Débil\" o \"Fatal\" (Resistencia>x1), gana Temple igual al número de Potencia de Ruptura en el objetivo antes de atacar. (Máx. de 20 por turno)",
-      "summary": "Al atacar a un objetivo con un tipo de daño al que el objetivo es \"Débil\" o \"Fatal\", gana Temple igual al número de Potencia de Ruptura en el objetivo antes de atacar."
+      "desc": "Al atacar a un objetivo con un tipo de daño al que el objetivo es \"Débil\" o \"Fatal\" (Resistencia>x1), gana [Breath] igual al número de Potencia de [Burst] en el objetivo antes de atacar. (Máx. de 20 por turno)",
+      "summary": "Al atacar a un objetivo con un tipo de daño al que el objetivo es \"Débil\" o \"Fatal\", gana [Breath] igual al número de Potencia de [Burst] en el objetivo antes de atacar."
     },
     {
       "id": 1020621,
       "name": "Hora del Té de la Asociación Seven",
-      "desc": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de Ruptura en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).\n+1.5% por cada 1 de Ruptura (Máx. 15%).",
-      "summary": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de Ruptura en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\"."
+      "desc": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de [Burst] en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).\n+1.5% por cada 1 de [Burst] (Máx. 15%).",
+      "summary": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de [Burst] en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\"."
     },
     {
       "id": 1020631,
       "name": "Hora del Té de la Asociación Seven",
-      "desc": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de Ruptura en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).\n(+1.5% por cada 1 de Ruptura; Máx. 15%).\nSi el aliado es un Fixer de la Asociación Seven, inflige incluso más daño.\n(+0.5% por cada 1 de Ruptura; Máx. 5%).",
-      "summary": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de Ruptura en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\".\nSi el aliado es un Fixer de la Asociación Seven, inflige incluso más daño."
+      "desc": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de [Burst] en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\" (Resistencia>x1.5).\n(+1.5% por cada 1 de [Burst]; Máx. 15%).\nSi el aliado es un Fixer de la Asociación Seven, inflige incluso más daño.\n(+0.5% por cada 1 de [Burst]; Máx. 5%).",
+      "summary": "1 aliado con la mayor Velocidad inflige más daño basado en la cantidad de [Burst] en el objetivo cuando ataca con un tipo de daño al que el objetivo es \"Fatal\".\nSi el aliado es un Fixer de la Asociación Seven, inflige incluso más daño."
     },
     {
       "id": 1010501,
       "name": "En Tiempos Como Estos...",
-      "desc": "Al activar Estallido de Tremor en un objetivo, inflige 1 de Nivel Defensivo Reducido por cada 4 aumentos del Umbral de Aturdimiento. (Máx. 5 por 1 enemigo cada turno)."
+      "desc": "Al activar [VibrationExplosion] en un objetivo, inflige 1 Nivel Defensivo Reducido por cada 4 aumentos del Umbral de Aturdimiento. (Máx. 5 por 1 enemigo cada turno)."
     },
     {
       "id": 1010521,
       "name": "Limpiando El Desastre",
-      "desc": "Cuando 1 aliado con menor HP Máx activa Estallido de Tremor en un objetivo, inflige 1 de Nivel Defensivo Reducido por cada 4 aumentos del Umbral de Aturdimiento. (Máx. 3 por 1 enemigo cada turno)."
+      "desc": "Cuando 1 aliado con menor HP Máx activa [VibrationExplosion] en un objetivo, inflige 1 Nivel Defensivo Reducido por cada 4 aumentos del Umbral de Aturdimiento. (Máx. 3 por 1 enemigo cada turno)."
     },
     {
       "id": 1110501,
       "name": "Alardeos en Bebidas",
-      "desc": "Al activar Estallido de Tremor en un enemigo, inflige el 30% del Umbral de Aturdimiento aumentado como daño de Pereza. (Máx. 20; redondeado hacia abajo)"
+      "desc": "Al activar [VibrationExplosion] en un enemigo, inflige el 30% del Umbral de Aturdimiento aumentado como daño de Pereza. (Máx. 20; redondeado hacia abajo)"
     },
     {
       "id": 1110521,
       "name": "Zanahoria & Palo",
-      "desc": "1 aliado con el mayor Contador de Tremor gana +1 de Contador de Tremor con los efectos de Habilidades."
+      "desc": "1 aliado con el mayor Contador de [Vibration] gana +1 Contador de [Vibration] con los efectos de Habilidades."
     },
     {
       "id": 1090701,
       "name": "Iluminación Incandescente",
-      "desc": "Gana Daño Contundente Aumentado el próximo turno basado en el daño que esta unidad recibió este turno.\n(Daño de Escudo incluido en el cálculo. Llega al máximo al recibir daño igual al 25% de HP Máx al inicio del turno. Daño Contundente Aumentado Máx obtenido por este efecto: 5)\nSi esta unidad tiene 3 de [KnowledgeExplored] al inicio del turno, remueve 1 efecto negativo aplicado a sí misma."
+      "desc": "Gana Daño Contundente Aumentado el siguiente turno basado en el daño que esta unidad recibió este turno.\n(Daño de Escudo incluido en el cálculo. Llega al máximo al recibir daño igual al 25% de HP Máx al inicio del turno. Daño Contundente Aumentado Máx obtenido por este efecto: 5)\nSi esta unidad tiene 3 de [KnowledgeExplored] al inicio del turno, remueve 1 efecto negativo aplicado a sí misma."
     },
     {
       "id": 1090721,
       "name": "Misionario del Conocimiento",
-      "desc": "1 aliado con mayor HP Máx gana Daño Contundente Aumentado el próximo turno basado en el daño que recibieron este turno.\n(Daño de Escudo incluido en el cálculo. Llega al máximo al recibir daño igual al 15% de HP Máx al inicio del turno. Daño Contundente Aumentado Máx obtenido por este efecto: 3)"
+      "desc": "1 aliado con mayor HP Máx gana Daño Contundente Aumentado el siguiente turno basado en el daño que recibieron este turno.\n(Daño de Escudo incluido en el cálculo. Llega al máximo al recibir daño igual al 15% de HP Máx al inicio del turno. Daño Contundente Aumentado Máx obtenido por este efecto: 3)"
     },
     {
       "id": 1060701,
       "name": "Gancho",
-      "desc": "Tras derrotar a un enemigo, gana 1 de Poder de Ataque Aumentado el siguiente turno. (Una vez por turno)"
+      "desc": "Tras derrotar a un enemigo, gana 1 Poder de Ataque Aumentado el siguiente turno. (Una vez por turno)"
     },
     {
       "id": 1060721,
       "name": "Equipamiento Biónico Producido En Masa",
-      "desc": "Cuando un aliado con la mayor Velocidad derrota a un enemigo infligido con Sangrado, gana 1 de Poder de Ataque Aumentado el siguiente turno. (Una vez por turno)"
+      "desc": "Cuando un aliado con la mayor Velocidad derrota a un enemigo infligido con [Laceration], gana 1 Poder de Ataque Aumentado el siguiente turno. (Una vez por turno)"
     },
     {
       "id": 1020701,
       "name": "Remordimiento Forzado",
-      "desc": "- En un choque, el objetivo tiene -1 de Poder de Choque si tiene 3+ tipos de efectos negativos.\n- Cuando esta unidad está viva, los enemigos afectados por Estallido de Tremor gana 2 de Nivel Defensivo Reducido. (Una vez por enemigo por turno)\n- Corrupción Mental: Si está a menos de -25 PC al Finalizar Turno, gana 2 de Atadura y uno de Poder Contundente Aumentado el próximo turno."
+      "desc": "- En un choque, el objetivo tiene -1 Poder de Choque si tiene 3+ tipos de efectos negativos.\n- Cuando esta unidad está viva, los enemigos afectados por [VibrationExplosion] gana 2 Nivel Defensivo Reducido. (Una vez por enemigo por turno)\n- Corrupción Mental: Si está a menos de -25 PC al Fin de Turno, gana 2 de Atadura y uno Poder Contundente Aumentado el siguiente turno."
     },
     {
       "id": 1020711,
       "name": "Remordimiento Forzado",
-      "desc": "- En un choque, el objetivo tiene -1 de Poder de Choque por cada 3 tipos de efectos negativos que tiene. (Máx. -2 de Poder de Choque)\n- Cuando esta unidad está viva, los enemigos afectados por Estallido de Tremor gana 2 de Nivel Defensivo Reducido. (3 veces por enemigo por turno)\n- Corrupción Mental: Si está a menos de -25 PC al Finalizar Turno, gana 2 de Atadura y uno de Poder Contundente Aumentado el próximo turno."
+      "desc": "- En un choque, el objetivo tiene -1 Poder de Choque por cada 3 tipos de efectos negativos que tiene. (Máx. -2 Poder de Choque)\n- Cuando esta unidad está viva, los enemigos afectados por [VibrationExplosion] gana 2 Nivel Defensivo Reducido. (3 veces por enemigo por turno)\n- Corrupción Mental: Si está a menos de -25 PC al Fin de Turno, gana 2 de Atadura y uno Poder Contundente Aumentado el siguiente turno."
     },
     {
       "id": 1020721,
       "name": "Trabajo de Represión",
-      "desc": "En un choque, el objetivo del aliado más lento tiene -1 de Poder de Choque si tiene 3+ tipos de efectos negativos."
+      "desc": "En un choque, el objetivo del aliado más lento tiene -1 Poder de Choque si tiene 3+ tipos de efectos negativos."
     },
     {
       "id": 1010601,
       "name": "Pensamiento Vacío",
-      "desc": "- Al Finalizar Turno, gana 1 de Rapidez por cada 5 de Contador de Carga en sí mismo el próximo turno. (Máx. 2)\n- Si la Habilidad de esta unidad consumió Contador de Carga, aplica 3 de Barrera de Carga a un aliado con el menor porcentaje de HP."
+      "desc": "- Al Fin de Turno, gana 1 [Agility] por cada 5 Contador de [Charge] en sí mismo el siguiente turno. (Máx. 2)\n- Si la Habilidad de esta unidad consumió Contador de [Charge], aplica 3 de Barrera de [Charge] a un aliado con el menor porcentaje de HP."
     },
     {
       "id": 1010611,
       "name": "Pensamiento Vacío",
-      "desc": "- Al Finalizar Turno, gana 1 de Rapidez por cada 5 de Contador de Carga en sí mismo el próximo turno. (Máx. 3)\n- Si la Habilidad de esta unidad consumió Contador de Carga, aplica 3 de Barrera de Carga a un aliado con el menor porcentaje de HP."
+      "desc": "- Al Fin de Turno, gana 1 [Agility] por cada 5 Contador de [Charge] en sí mismo el siguiente turno. (Máx. 3)\n- Si la Habilidad de esta unidad consumió Contador de [Charge], aplica 3 de Barrera de [Charge] a un aliado con el menor porcentaje de HP."
     },
     {
       "id": 1010621,
       "name": "Demostración de Limpieza",
-      "desc": "1 Aliado con el mayor Contador de Carga inflige más daño contra objetivos con Ruptura basado en la cantidad de Ruptura en el objetivo. (+1.5% por cada 1 de Ruptura; Máx. +15% de daño)"
+      "desc": "1 Aliado con el mayor Contador de [Charge] inflige más daño contra objetivos con [Burst] basado en la cantidad de [Burst] en el objetivo. (+1.5% por cada 1 de [Burst]; Máx. +15% de daño)"
     },
     {
       "id": 1120701,
       "name": "Las Balas Cuestan",
-      "desc": "- Tras Golpear en Cara contra un objetivo con Sangrado, gana Enriquecimiento Injusto. (Máx 4)\n- Si esta unidad hace un Golpe Crítico sin tener Munición, consume todo el Enriquecimiento Injusto e inflige (5 x Enriquecimiento Injusto consumido)% del daño infligido como daño extra."
+      "desc": "- Tras Golpear en Cara contra un objetivo con [Laceration], gana Enriquecimiento Injusto. (Máx 4)\n- Si esta unidad hace un Golpe Crítico sin tener Munición, consume todo el Enriquecimiento Injusto e inflige (5 x Enriquecimiento Injusto consumido)% del daño infligido como daño extra."
     },
     {
       "id": 1120702,
       "name": "Las Balas Cuestan",
-      "desc": "- Siempre Activo: Comienza los encuentros con 7 de Munición.\n- Tras Golpear en Cara contra un objetivo con Sangrado, gana Enriquecimiento Injusto. (Máx 4)\n- Si una Moneda que utiliza Munición golpea, consume todo el Enriquecimiento Injusto e inflige (25 x Enriquecimiento Injusto consumido)% del daño infligido como daño extra.\n- Si esta unidad hace un Golpe Crítico sin tener Munición, consume todo el Enriquecimiento Injusto e inflige (5 x Enriquecimiento Injusto consumido)% del daño infligido como daño extra."
+      "desc": "- Siempre Activo: Comienza los encuentros con 7 de Munición.\n- Tras Golpear en Cara contra un objetivo con [Laceration], gana Enriquecimiento Injusto. (Máx 4)\n- Si una Moneda que utiliza Munición golpea, consume todo el Enriquecimiento Injusto e inflige (25 x Enriquecimiento Injusto consumido)% del daño infligido como daño extra.\n- Si esta unidad hace un Golpe Crítico sin tener Munición, consume todo el Enriquecimiento Injusto e inflige (5 x Enriquecimiento Injusto consumido)% del daño infligido como daño extra."
     },
     {
       "id": 1120721,
       "name": "Nuevo Hoyo Respiratorio",
-      "desc": "Si 1 aliado con el mayor Temple derrota a un enemigo, gana 1 de Daño Perforante Aumentado el próximo turno. (Una vez por turno)"
+      "desc": "Si 1 aliado con el mayor [Breath] derrota a un enemigo, gana 1 Daño Perforante Aumentado el siguiente turno. (Una vez por turno)"
     },
     {
       "id": 1040601,
       "name": "Un C.R.",
-      "desc": "Si esta unidad tiene 7+ de Temple al Finalizar Turno, cura 8 de PC."
+      "desc": "Si esta unidad tiene 7+ de [Breath] al Fin de Turno, cura 8 de PC."
     },
     {
       "id": 1040602,
       "name": "Un C.R.",
-      "desc": "- Siempre Activo: Empieza los encuentros con 7 de Munición.\n- Si esta unidad tiene 7+ de Temple al Finalizar Turno, cura 8 SP."
+      "desc": "- Siempre Activo: Empieza los encuentros con 7 de Munición.\n- Si esta unidad tiene 7+ de [Breath] al Fin de Turno, cura 8 SP."
     },
     {
       "id": 1040611,
       "name": "Un C.R.",
-      "desc": "- Siempre Activo: Empieza los encuentros con 7 de Munición.\n- Si esta unidad tiene 7+ de Temple al Finalizar Turno, cura 8 SP.\n- Si esta unidad ya tiene PC Máximos al activar la condición anterior, gana 1 de Temple el próximo turno."
+      "desc": "- Siempre Activo: Empieza los encuentros con 7 de Munición.\n- Si esta unidad tiene 7+ de [Breath] al Fin de Turno, cura 8 SP.\n- Si esta unidad ya tiene PC Máximos al activar la condición anterior, gana 1 de [Breath] el siguiente turno."
     },
     {
       "id": 1040621,
@@ -885,7 +885,7 @@
     {
       "id": 1040631,
       "name": "El Cigarrillo Suertudo",
-      "desc": "- Si un aliado con la menor Munición usa una Habilidad que gaste Munición, gana 3 de Temple. (una vez por turno; no aplica para aliados sin Munición)\n- Si un aliado con la menor Munición usa su última Munición con una Habilidad, inflige 50% del daño de la Habilidad como daño extra al objetivo de la Habilidad al finalizar el Ataque."
+      "desc": "- Si un aliado con la menor Munición usa una Habilidad que gaste Munición, gana 3 de [Breath]. (una vez por turno; no aplica para aliados sin Munición)\n- Si un aliado con la menor Munición usa su última Munición con una Habilidad, inflige 50% del daño de la Habilidad como daño extra al objetivo de la Habilidad al finalizar el Ataque."
     },
     {
       "id": 1030601,
@@ -900,7 +900,7 @@
     {
       "id": 1030621,
       "name": "Favoritismo",
-      "desc": "1 aliado con menor HP Máx gana 1 de Daño Contundente Aumentado el siguiente turno cada vez que los enemigos golpeen a un aliado 6 veces. (Sin incluir a esta unidad; Máx 2)"
+      "desc": "1 aliado con menor HP Máx gana 1 Daño Contundente Aumentado el siguiente turno cada vez que los enemigos golpeen a un aliado 6 veces. (Sin incluir a esta unidad; Máx 2)"
     },
     {
       "id": 1050701,
@@ -915,782 +915,810 @@
     {
       "id": 1050721,
       "name": "Una Familia",
-      "desc": "El aliado con los menores PC cura 10 PC al Finalizar Turno si hay algún otro aliado de la misma Facción."
+      "desc": "El aliado con los menores PC cura 10 PC al Fin de Turno si hay algún otro aliado de la misma Facción."
     },
     {
       "id": 1070701,
       "name": "Tatuajes Mutilados",
-      "desc": "Gana 1 [AttackUp] y 1 [DefenseUp] el siguiente turno cada vez que un aliado (incluyendo esta unidad) sea atacado. (Max 6)\nInflige más daño a menor HP\n- Inflige 0.4% más daño por cada 1% de HP faltante",
+      "desc": "Gana 1 [AttackUp] y 1 [DefenseUp] el siguiente turno cada vez que un aliado (incluyendo esta unidad) sea atacado. (máx 6)\nInflige más daño a menor HP\n- Inflige +0.4% más de por cada 1% de HP faltante",
       "summary": "Gana 1 [AttackUp] y 1 [DefenseUp] cada vez que esta unidad es atacada. Inflige más daño mientras menos HP tenga esta unidad."
     },
     {
       "id": 1070711,
       "name": "Tatuajes Mutilados",
-      "desc": "Gana 1 [AttackUp] y 1 [DefenseUp] el siguiente turno cada vez que un aliado (incluyendo esta unidad) sea atacado. Gana 2 de cada uno si el aliado es de El Pequod. (Max 9)\nInflige más daño a menor HP\n- Inflige 1% más daño por cada 1% de HP faltante",
-      "summary": "Gana 1 [AttackUp] y 1 [DefenseUp] cada vez que esta unidad es atacada. Inflige más daño mientras menos HP tenga esta unidad."
+      "desc": "Gana 1 [AttackUp] y 1 [DefenseUp] el siguiente turno cada vez que un aliado (incluyendo esta unidad) sea atacado. Gana 2 de cada uno si el aliado es de El Pequod (máx 9)\nInflige más daño a menor HP\n- Inflige +1% de daño por cada 1% de HP faltante",
+      "summary": "Gana 1 [AttackUp] y 1 [DefenseUp] cada vez que esta unidad es atacada. Inflige más daño mientras menos HP tenga esta unidad"
     },
     {
       "id": 1070721,
-      "name": "Desperation",
-      "desc": "1 ally with the highest max HP deals more Pierce Damage at less HP\n- Deal 0.15% more damage for every 1% missing HP (Max 15%)",
-      "summary": "1 ally with the highest max HP deals more Pierce Damage at less HP"
+      "name": "Desesperación",
+      "desc": "1 aliado con el mayor HP Máx inflige más Daño Perforante a menos HP\n- Inflige +0.15% de daño por cada 1% de HP faltante (Max 15%)",
+      "summary": "1 aliado con el mayor HP Máx inflige más Daño Perforante a menos HP"
     },
     {
       "id": 1070731,
-      "name": "Desperation",
-      "desc": "1 ally with the highest max HP deals more Pierce Damage at less HP\n- Deal 0.3% more damage for every 1% missing HP (Max 30%)",
-      "summary": "1 ally with the highest max HP deals more Pierce Damage at less HP"
+      "name": "Desesperación",
+      "desc": "1 aliado con los mayores HP Máx inflige más Daño Perforante a menos HP\n- Inflige +0.3% de daño por cada 1% de HP faltante (Max 15%)",
+      "summary": "1 aliado con el mayor HP Máx inflige más Daño Perforante a menos HP"
     },
     {
       "id": 1010701,
-      "name": "The First Mate's Harpoon",
-      "desc": "On Crit, Inflige 2 more Bleed Potency with a Skill (6 times per turn)"
+      "name": "Arpón del Primer Oficial",
+      "desc": "Tras Crítico, inflige 2 de Potencia de [Laceration] adicional con una Habilidad (6 veces por turno)"
     },
     {
       "id": 1010721,
-      "name": "The First Mate's Acumen",
-      "desc": "On Crit, 1 ally with the most [Breath] inflicts 2 additional Bleed Potency with a Skill (6 times per turn)"
+      "name": "Perspicacia del Primer Oficial",
+      "desc": "Tras Crítico, 1 aliado con el mayor [Breath] inflige 2 de Potencia de [Laceration] adicional con una Habilidad (6 veces por turno)"
     },
     {
       "id": 1110601,
-      "name": "Redirect",
-      "desc": "On Evade, gana 1 [Agility] next turn (Max 3)"
+      "name": "Redirigir",
+      "desc": "Al Evadir, gana 1 [Agility] el siguiente turno (Máx 3)"
     },
     {
       "id": 1110611,
-      "name": "Redirect",
-      "desc": "On Evade, gana 1 [Agility] next turn; lower this unit's Stagger Threshold by 5 (Max 3)"
+      "name": "Redirigir",
+      "desc": "Al Evadir, gana 1 [Agility] el siguiente turno; reduce el Umbral de Aturdimiento de esta unidad por 5 (Máx 3)"
     },
     {
       "id": 1110621,
-      "name": "Mentor's Counsel",
-      "desc": "If the fastest ally's Speed is higher than Speed of all enemies, the fastest ally gains Clash Power +1"
+      "name": "Orientación del Mentor",
+      "desc": "Si la Velocidad del aliado más rápido es mayor a la Velocidad de todos los enemigos, el aliado más rápido gana Poder de Choque +1"
     },
     {
       "id": 1110631,
-      "name": "Mentor's Counsel",
-      "desc": "If the fastest ally's Speed is higher than Speed of all enemies, the fastest ally gains Clash Power +1\nIf the said ally is a Cinq Association Fixer, the fastest ally deals +10% Pierce Damage"
+      "name": "Orientación del Mentor",
+      "desc": "Si la Velocidad del aliado más rápido es mayor a la Velocidad de todos los enemigos, el aliado más rápido gana Poder de Choque +1\nSi aquel aliado es un Fixer de la Asociación Cinq, el aliado más rápido inflige +10% Daño Perforante"
     },
     {
       "id": 1100801,
-      "name": "Slumbering Bloodthirst",
-      "desc": "Turn End: Gain +2 Max Speed next turn for every 5 [Breath] Count (Max 6)"
+      "name": "Sed de Sangre Adormecida",
+      "desc": "Fin de Turno: Gana +2 de Velocidad Máx el siguiente turno por cada 5 Contador de [Breath] (Máx 6)"
     },
     {
       "id": 1100811,
-      "name": "Slumbering Bloodthirst",
-      "desc": "Turn End: Gain +2 Max Speed next turn for every 5 [Breath] Count (Max 6)\nCombat Start: If Speed of all allies is higher than Speed of all enemies, gana 1 [PenetrateDamageUp]"
+      "name": "Sed de Sangre Adormecida",
+      "desc": "Fin de Turno: Gana +2 Velocidad Máx el siguiente turno por cada 5 Contador de [Breath] (Máx 6)\nInicio de Combate: Si la Velocidad de todos los aliados es mayor que la Velocidad de todos los enemigos, gana 1 Daño Perforante Aumentado"
     },
     {
       "id": 1100821,
-      "name": "Too Slow",
-      "desc": "The fastest ally, On Evade, gains 1 [Agility] next turn (Max 5)"
+      "name": "Muy Lento",
+      "desc": "El aliado más veloz, Al Evadir, gana 1 [Agility] el siguiente turno (Máx 5)"
     },
     {
       "id": 1110701,
-      "name": "The Marksman's Smoking Pipe",
-      "desc": "If the main target's Defense Level is currently lowered by 4 or more, gain ([Combustion] on main target/2) [Breath] Before Attack (Max 20 per turn)"
+      "name": "La Pipa del Tirador",
+      "desc": "Si el Nivel Defensivo del objetivo principal está actualmente reducido por 4 o más, gana ([Combustion] en el objetivo principal/2) de [Breath] Antes de Atacar (Máx 20 por turno)"
     },
     {
       "id": 1110711,
-      "name": "The Marksman's Smoking Pipe",
-      "desc": "If the main target's Defense Level is currently lowered by 4 or more, gain ([Combustion] on main target) [Breath] Before Attack (Max 20 per turn)"
+      "name": "La Pipa del Tirador",
+      "desc": "Si el Nivel Defensivo del objetivo principal está actualmente reducido por 4 o más, gana ([Combustion] en el objetivo principal) de [Breath] Antes de Atacar (Máx 20 por turno)"
     },
     {
       "id": 1110721,
-      "name": "Request Work",
-      "desc": "1 ally with the most SP deals +10% damage with E.G.O Skills"
+      "name": "Trabajo de Solicitud",
+      "desc": "1 aliado con los mayores PC inflige +10% de daño con Habilidades E.G.O"
     },
     {
       "id": 1110731,
-      "name": "Request Work",
-      "desc": "1 ally with the most SP deals +10% damage with E.G.O Skills\nIf the E.G.O Skill consumes 7+ E.G.O resources, deal additional +5% damage"
+      "name": "Trabajo de Solicitud",
+      "desc": "1 aliado con los mayores PC inflige +10% de daño con Habilidades E.G.O\nSi la Habilidad E.G.O consume 7+ recursos E.G.O, inflige +5% de daño adicional"
     },
     {
       "id": 1030701,
-      "name": "Om Nom Nom",
-      "desc": "If this unit's Skill Slot has [Aggro], Clash Power +1\nHeal 4 HP every time this unit hits enemies that targeted this unit with an Attack Skill in the Chaining Phase (For Abnormalities, the Parts that targeted this unit with an Attack Skill)"
+      "name": "Am Ñam Ñam",
+      "desc": "Si la Ranura de Habilidad de esta unidad tiene [Aggro], Poder de Choque +1\nCura 4 HP cada vez que esta unidad golpea a enemigos que seleccionaron a esta unidad con una Habilidad de Ataque en la Fase de Encadenamiento. (Para Anormalidades, las Partes que seleccionaron a esta unidad con una Habilidad de Ataque)"
     },
     {
       "id": 1030711,
-      "name": "Om Nom Nom",
-      "desc": "If this unit's Skill Slot has [Aggro], Clash Power +1\nHeal 6 HP every time this unit hits enemies that targeted this unit with an Attack Skill in the Chaining Phase (For Abnormalities, each Part is calculated separately)"
+      "name": "Am Ñam Ñam",
+      "desc": "Si la Ranura de Habilidad de esta unidad tiene [Aggro], Poder de Choque +1\nCura 6 HP cada vez que esta unidad golpea a enemigos que seleccionaron a esta unidad con una Habilidad de Ataque en la Fase de Encadenamiento. (Para Anormalidades, cada Parte es calculada separadamente)"
     },
     {
       "id": 1030721,
-      "name": "Illumilantern",
-      "desc": "The ally with the highest [Aggro] Skill Slot heals 2 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])"
+      "name": "Ilumilinterna",
+      "desc": "El aliado con la Ranura de Habilidad con el mayor [Aggro] cura 2 HP cada vez que golpea a un enemigo que selecciona a esta unidad (No aplica a unidades sin [Aggro])"
     },
     {
       "id": 1030731,
-      "name": "Illumilantern",
-      "desc": "The ally with the highest [Aggro] Skill Slot heals 4 HP every time they hit an enemy that targets this unit (Does not apply to units without [Aggro])"
+      "name": "Ilumilinterna",
+      "desc": "El aliado con la Ranura de Habilidad con el mayor [Aggro] cura 4 HP cada vez que golpea a un enemigo que selecciona a esta unidad (No aplica a unidades sin [Aggro])"
     },
     {
       "id": 1060801,
-      "name": "Peering Through a Key",
-      "desc": "When Discarding a Skill, gain 'Damage Up' equal to the Discarded Skill's Rank. (Max 3 per turn)"
+      "name": "Mirando a Través de la Llave",
+      "desc": "Al Descartar una Habilidad, gana 'Daño Aumentado' igual al Rango de la Habilidad Descartada (Máx 3 por turno)"
     },
     {
       "id": 1060811,
-      "name": "Peering Through a Key",
-      "desc": "When Discarding a Skill, gain 'Damage Up' equal to the Discarded Skill Rank. (Max 3 per turn)\nWhen other allies Discard a Skill, and if the ally's Discarded Skill Rank is higher than this unit's [KnowledgeExplored] value, this unit gains +1 [KnowledgeExplored]."
+      "name": "Mirando a Través de la Llave",
+      "desc": "Al Descartar una Habilidad, gana 'Daño Aumentado' igual al Rango de la Habilidad Descartada (Máx 3 por turno)\nCuando otros aliados Descartan una Habilidad, y si el Rango de la Habilidad Descartada de ese aliado es mayor al valor de Conocimiento de esta unidad, esta unidad gana +1 [KnowledgeExplored]."
     },
     {
       "id": 1060821,
-      "name": "Enlightenment",
-      "desc": "After Attack: If the target is in a staggered or defeated state by an attack from 1 ally with the least SP, the ally heals 7 SP."
+      "name": "Iluminación",
+      "desc": "Tras Atacar: Si el objetivo está en un estado de aturdimiento o derrotado por un ataque de 1 aliado con los menores PC, el aliado cura 7 PC."
     },
     {
       "id": 1010801,
-      "name": "Sinking Knowledge",
-      "desc": "When attacked, Inflige 1 Sinking to the attacker (4 times max)"
+      "name": "Conocimiento Ahogante",
+      "desc": "Al ser atacado, inflige 1 de [Sinking] al atacante (4 veces máx)"
     },
     {
       "id": 1010811,
-      "name": "Sinking Knowledge",
-      "desc": "When attacked, Inflige 1 Sinking on the attacker. When attacked while Shielded, Inflige 1 additional Sinking on the attacker. (4 times max)"
+      "name": "Conocimiento Ahogante",
+      "desc": "Al ser atacado, inflige 1 de [Sinking] al atacante. Al ser atacado mientras se está Escudado, inflige 1 de [Sinking] adicional al atacante. (4 veces máx)"
     },
     {
       "id": 1010821,
-      "name": "Reviewed Knowledge",
-      "desc": "When 1 ally with the highest Speed Discards a Skill, gain (3 x Discarded Skill rank)% of the Max HP as Shield (Once per turn)"
+      "name": "Conocimiento Repasado",
+      "desc": "Cuando 1 aliado con la mayor Velocidad Descarta una Habilidad, gana (3 x Rango de la Habilidad Descartado)% de su HP Máx como Escudo (Una vez por turno)"
     },
     {
       "id": 1010831,
-      "name": "Reviewed Knowledge",
-      "desc": "When 1 ally with the highest Speed Discards a Skill, gain (5 x Discarded Skill rank)% of the Max HP as Shield (2 times per turn)"
+      "name": "Conocimiento Repasado",
+      "desc": "Cuando 1 aliado con la mayor Velocidad Descarta una Habilidad, gana (5 x Rango de la Habilidad Descartado)% de su HP Máx como Escudo (2 veces por turno)"
     },
     {
       "id": 1080801,
-      "name": "Captain of the Pequod",
-      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n- gain [HeatedGasHarpoon] next turn.\n1 other ally with the least SP heals 7 SP.\nIf the ally is from The Pequod, heal an additional 5 SP."
+      "name": "Capitán del Pequod",
+      "desc": "- Tras Atacar: Si el enemigo es derrotado después del ataque de esta unidad:\n- Gana [HeatedGasHarpoon] el siguiente turno.\n- 1 otro aliado con los menores PC cura 7 PC.\n(Si el aliado es del Pequod, cura 5 PC adicionales)"
     },
     {
       "id": 1080802,
-      "name": "Hour of the Hunt",
-      "desc": "If the target is a <Lake Entity>, deal +10% damage"
+      "name": "Hora de la Caza",
+      "desc": "Si el objetivo es una <Entidad del Lago>, inflige +10% de daño"
     },
     {
       "id": 1080811,
-      "name": "Captain of the Pequod",
-      "desc": "- After Attack: if the enemy is defeated after this unit's attack,\n<style=\"highlight\">- gana 4 Poise, +2 de Contador de Temple. Then, gain [OverHeatedGasHarpoon] next turn.</style>\n<style=\"highlight\">2 other allies with the least SP heal 7 SP and gana 4 Poise.</style>\nIf the allies are from The Pequod, heal an additional 5 SP. <style=\"highlight\">Then, once per turn, apply 1 Poder Perforante Aumentado next turn.</style>"
+      "name": "Capitán del Pequod",
+      "desc": "- Tras Atacar: Si el enemigo es derrotado después del ataque de esta unidad:\n<style=\"highlight\">- gana [OverHeatedGasHarpoon] el siguiente turno.</style>\n<style=\"highlight\">- 2 otros aliados con los menores PC curan 7 PC y ganan 4 de [Breath].</style>\n- Si los aliados son del Pequod, curan 5 PC adicionales.<style=\"highlight\"> Luego, una vez por turno, aplica 1 de Poder Perforante Aumentado el siguiente turno.</style>"
     },
     {
       "id": 1080821,
-      "name": "Captain's Orders",
-      "desc": "1 ally with the highest SP gains 2 Poise when the target is defeated after that unit's attack (2 times per turn)"
+      "name": "Ordenes del Capitán",
+      "desc": "1 aliado con los mayores PC gana 2 de [Breath] cuando el objetivo es derrotado tras el ataque de esa unidad (2 veces por turno)"
     },
     {
       "id": 1080831,
-      "name": "Captain's Orders",
-      "desc": "After Attack: 1 ally with the highest SP gains 2 de Temple y <style=\"highlight\">+2 de Contador de Temple</style> when the target is defeated after that unit's attack (2 times per turn)"
+      "name": "Ordenes del Capitán",
+      "desc": "Tras Atacar: 1 aliado con los mayores PC gana 2 de [Breath] y <style=\"highlight\">+2 de Contador de [Breath]</style> cuando el objetivo es derrotado tras el ataque de esa unidad (2 veces por turno)"
     },
     {
       "id": 1050801,
-      "name": "Swordplay of the Homeland",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead"
+      "name": "Esgrima de la Tierra Natal",
+      "desc": "En este Encuentro, cuando esta unidad recibe daño que deja su HP en 0, nulifica ese daño; luego, los HP de esta unidad no pueden bajar de 1 por el resto del turno. (Una vez por Encuentro)\n\nCuando esta unidad gana Potencia/Contador de [Breath] con sus propios efectos de Habilidad o Moneda: da +1 de Potencia de [Breath] y +1 Contador de [Breath] a otros 2 aliados del Linaje de la Espada sin [Breath] o con el menor [Breath]\n- Si hay 6 o más aliados del Linaje de la Espada participando en este Encuentro, da +2 de Potencia de [Breath] y +2 Contador de [Breath] en su lugar"
     },
     {
       "id": 1050811,
-      "name": "Swordplay of the Homeland",
-      "desc": "In this Encounter, when this unit takes damage that brings their HP down to 0, nullify that damage; then, this unit's HP cannot drop below 1 for the turn. (Once per Encounter)\n\nWhen this unit gains [Breath] Potency/Count with its own Skill or Coin effects: give 1 [Breath] Potency and +1 [Breath] Count to 2 other Blade Lineage allies with no [Breath] or with the least [Breath]\n- If there are 6 or more Blade Lineage allies participating in this Encounter, give 2 [Breath] Potency and +2 [Breath] Count instead\n\nCombat Start: Apply [SwordPlayOfTheHomeland] buff to all other Blade Lineage allies"
+      "name": "Esgrima de la Tierra Natal",
+      "desc": "En este Encuentro, cuando esta unidad recibe daño que deja su HP en 0, nulifica ese daño; luego, los HP de esta unidad no pueden bajar de 1 por el resto del turno. (Una vez por Encuentro)\n\nCuando esta unidad gana Potencia/Contador de [Breath] con sus propios efectos de Habilidad o Moneda: da +1 de Potencia de [Breath] y +1 Contador de [Breath] a otros 2 aliados del Linaje de la Espada sin [Breath] o con el menor [Breath]\n- Si hay 6 o más aliados del Linaje de la Espada participando en este Encuentro, da +2 de Potencia de [Breath] y +2 Contador de [Breath] en su lugar\n\nInicio de Combate: Aplica el efecto [SwordPlayOfTheHomeland] a todos los otros aliados del Linaje de la Espada."
     },
     {
       "id": 1050821,
-      "name": "Swordplay of the Homeland",
-      "desc": "Combat Start: 1 ally with the most [Breath] deals +15% damage on Critical Hit"
+      "name": "Esgrima de la Tierra Natal",
+      "desc": "Inicio de Combate: 1 aliado con el mayor [Breath] inflige +15% de daño tras un Golpe Crítico"
     },
     {
       "id": 1020801,
-      "name": "Sanguine Plum Blossoms",
-      "desc": "On Crit: Inflict 1 [RedApricotBlossom]. (3 times max)"
+      "name": "Flores de Ciruelo Sanguinarias",
+      "desc": "Tras Crítico: Inflige 1 [RedApricotBlossom]. (3 veces máx)"
     },
     {
       "id": 1020811,
-      "name": "Sanguine Plum Blossoms",
-      "desc": "On Crit: Inflict 1 [RedApricotBlossom]. If the target has 10 [RedApricotBlossom], inflict 1 Defense Level Down instead (6 times max)"
+      "name": "Flores de Ciruelo Sanguinarias",
+      "desc": "Tras Crítico: Inflige 1 [RedApricotBlossom]. Si el objetivo tiene 10 [RedApricotBlossom], inflige 1 Nivel Defensivo Reducido en su lugar (6 veces máx)"
     },
     {
       "id": 1020821,
-      "name": "Lingering Bladepoint",
-      "desc": "When the ally first deployed in the pre-battle team setup Critically hits with a Slash type Skill, inflict 1 Defense Level Down (3 times max per 1 enemy per turn)"
+      "name": "Punta de Espada Persistente",
+      "desc": "Cuando el aliado #1 desplegado hace un Golpe Crítico con una Habilidad Cortante, inflige 1 Nivel Defensivo Reducido (3 veces máx por enemigo por turno)"
     },
     {
       "id": 1030801,
-      "name": "Collective Breathing",
-      "desc": "When this unit gains [Breath] Potency with its own Skill or Coin effects: give 1 [Breath] Potency to 1 ally with no [Breath] or with the least [Breath] Potency (3 times max)"
+      "name": "Respiración Colectiva",
+      "desc": "Cuando esta unidad gana Potencia de [Breath] con sus propios efectos de Habilidad o Moneda: da 1 Potencia de [Breath] a 1 aliado sin [Breath] o con la menor Potencia de [Breath] (3 veces máx)"
     },
     {
       "id": 1030811,
-      "name": "Collective Breathing",
-      "desc": "When this unit gains [Breath] Potency with its own Skill or Coin effects: give 1 [Breath] Potency to 1 ally with no [Breath] or with the least [Breath] Potency (5 times max)"
+      "name": "Respiración Colectiva",
+      "desc": "Cuando esta unidad gana Potencia de [Breath] con sus propios efectos de Habilidad o Moneda: da 1 Potencia de [Breath] a 1 aliado sin [Breath] o con la menor Potencia de [Breath] (5 veces máx)"
     },
     {
       "id": 1030821,
-      "name": "Nightly Stroll",
-      "desc": "1 ally with the least [Breath] gains 1 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])"
+      "name": "Paseo Nocturno",
+      "desc": "1 aliado con el menor [Breath] gana +1 de Potencia de [Breath] al ganar Potencia de [Breath] con sus propios efectos de Habilidad o Moneda. (2 veces máx. No aplica a aliados sin [Breath])"
     },
     {
       "id": 1030831,
-      "name": "Nightly Stroll",
-      "desc": "1 ally with the least [Breath] gains 2 more [Breath] Potency when gaining [Breath] Potency with its own Skill or Coin effects. (2 times max. Does not apply to allies without [Breath])"
+      "name": "Paseo Nocturno",
+      "desc": "1 aliado con el menor [Breath] gana +2 de Potencia de [Breath] al ganar Potencia de [Breath] con sus propios efectos de Habilidad o Moneda. (2 veces máx. No aplica a aliados sin [Breath])"
     },
     {
       "id": 1120801,
-      "name": "Dark Cloud Blade",
-      "desc": "Clash Win: inflict 1 [Laceration] (3 times per turn)"
+      "name": "Espada de la Nube Oscura",
+      "desc": "Choque Ganado: inflige 1 de [Laceration] (3 veces por turno)"
     },
     {
       "id": 1120821,
-      "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 10+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn (3 times per turn)"
+      "name": "Estilo de la Nube Oscura",
+      "desc": "Cuando 1 aliado con la Velocidad más lenta golpea un enemigo con 10+ de [Laceration], inflige 1 Nivel Ofensivo Reducido el siguiente turno (3 veces por turno)"
     },
     {
       "id": 1120831,
-      "name": "Dark Cloud Style",
-      "desc": "When 1 ally with the slowest Speed hits an enemy with 7+ [Laceration], inflict 1 Nivel Ofensivo Reducidonext turn (3 times per turn)"
+      "name": "Estilo de la Nube Oscura",
+      "desc": "Cuando 1 aliado con la Velocidad más lenta golpea un enemigo con 7+ de [Laceration], inflige 1 Nivel Ofensivo Reducido el siguiente turno (3 veces por turno)"
     },
     {
       "id": 1050802,
       "name": "In Memoriam",
-      "desc": "When 3 or more other Blade Lineage allies are defeated:\n- When gaining Poise Potency/Count with this unit's own Skills and Coin effects: gain 1 more of each\n- When 5 or more other Blade Lineage allies are defeated, gain 2 more of each instead\n- Combat Start: Apply [SwordPlayOfTheHomeland] on self"
+      "desc": "Cuando 3 o más aliados del Linaje de la Espada son derrotados:\n- Al ganar Potencia/Contador de [Breath] con los efectos de Habilidad o Moneda propios de esta unidad, gana 1 más de cada uno.\n- Cuando 5 o otros más aliados del Linaje de la Espada son derrotados, gana 2 más de cada uno en su lugar.\n- Inicio del Combate: Aplica [SwordPlayOfTheHomeland] a sí mismo."
     },
     {
       "id": 1090801,
-      "name": "Burning Passion",
-      "desc": "Deal +5% more damage for every 6 [Combustion] Potency on target (Max 15%)\nCombat Start: If all enemies have 6+ [Combustion] Potency, apply 1 [CrimsonDamageUp] to (highest Wrath A-Reson.) allies in Deployment order\n- In Focused Encounters, the above activates when all enemy Parts have 6+ [Combustion] Potency",
-      "summary": "Deal +5% more damage for every 6 [Combustion] Potency on target (Max 15%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
+      "name": "Pasión Ardiente",
+      "desc": "Inflige +5% de daño por cada 6 de Potencia de [Combustion] en el objetivo (Máx 15%)\nInicio del Combate: Si todos los enemigos tienen 6+ de Potencia de [Combustion], aplica 1 [CrimsonDamageUp] a (Reson.-A de Ira más alta) aliados en orden de Despliegue\n- En Encuentros Centrados, el efecto anterior se activa cuando todas las Partes de los enemigos tienen 6+ de Potencia de [Combustion]",
+      "summary": "Inflige +5% de daño por cada 6 de Potencia de [Combustion] en el objetivo (Máx 15%)\nBajo ciertas condiciones de [Combustion] y Reson.-A de Ira. aplica un efecto a aliados"
     },
     {
       "id": 1090811,
-      "name": "Burning Passion",
-      "desc": "Deal +10% more damage for every 6 [Combustion] Potency on target (Max 30%)\nCombat Start: If all enemies have 6+ [Combustion] Potency, apply 1 [CrimsonDamageUp] to (highest Wrath A-Reson.) allies in Deployment order\n- In Focused Encounters, the above activates when all enemy Parts have 6+ [Combustion] Potency\n- If the ally is a Liu Association Fixer, apply 1 Attack Power Up",
-      "summary": "Deal +10% more damage for every 6 [Combustion] Potency on target (Max 30%)\nUnder certain Burn and Wrath A-Reson. conditions, apply buff to allies"
+      "name": "Pasión Ardiente",
+      "desc": "Inflige +10% de daño por cada 6 de Potencia de [Combustion] en el objetivo (Máx 30%)\nInicio de Combate: Si todos los enemigos tiene 6+ de Potencia de [Combustion], aplica 1 [CrimsonDamageUp] a (Reson.-A de Ira más alta) aliados en orden de Despliegue\n- En Encuentros Centrados, el efecto anterior se activa cuando todas las Partes de los enemigos tienen 6+ de Potencia de [Combustion]\n- Si el aliado es un Fixer de la Asociación Liu, aplica 1 Poder de Ataque Aumentado",
+      "summary": "Inflige +10% de daño por cada 6 de Potencia de [Combustion] en el objetivo (Máx 30%)\nBajo ciertas condiciones de [Combustion] y Reson.-A de Ira, aplica buff a aliados"
     },
     {
       "id": 1090821,
-      "name": "Passionate Cheer",
-      "desc": "1 ally with the least SP deals +5% Pierce damage for every 6 [Combustion] Potency on target On Hit (Max 15%)"
+      "name": "Ánimos Apasionados",
+      "desc": "1 aliado con los menores PC inflige +5% de daño Perforante por cada 6 de Potencia de [Combustion] en el objetivo Tras Golpear (Máx 15%)"
     },
     {
       "id": 1040701,
-      "name": "Flame Spread",
-      "desc": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 1 random enemy with no [Combustion] or with the least [Combustion] Potency. (Once per turn)\n- In Focused Encounters, to 1 random Part",
-      "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 1 random enemy with no [Combustion] or with the least [Combustion] Potency"
+      "name": "Propagación de Llamas",
+      "desc": "Cuando esta unidad derrota un enemigo con [Combustion], aplica 4 de [Combustion] a 1 enemigo aleatorio sin [Combustion] o con la menor Potencia de [Combustion]. (una vez por turno)\n- En Encuentros Centrados, a 1 Parte aleatoria",
+      "summary": "Cuando esta unidad derrota un enemigo con [Combustion], aplica 4 de [Combustion] a 1 enemigo aleatorio sin [Combustion] o con la menor Potencia de [Combustion]"
     },
     {
       "id": 1040711,
-      "name": "Flame Spread",
-      "desc": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency. (Once per turn)\n- In Focused Encounters, to 2 random Parts",
-      "summary": "When this unit defeats an enemy with [Combustion], apply 4 [Combustion] to 2 random enemies with no [Combustion] or with the least [Combustion] Potency"
+      "name": "Propagación de Llamas",
+      "desc": "Cuando esta unidad derrota un enemigo con [Combustion], aplica 4 de [Combustion] a 2 enemigos aleatorios sin [Combustion] o con la menor Potencia de [Combustion]. (una vez por turno)\n- En Encuentros Centrados, a 2 Partes aleatorias",
+      "summary": "Cuando esta unidad derrota un enemigo con [Combustion], aplica 4 de [Combustion] a 2 enemigos aleatorios sin [Combustion] o con la menor Potencia de [Combustion]"
     },
     {
       "id": 1040721,
-      "name": "Spread Flame",
-      "desc": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 1 random enemy (Once per turn)\n- In Focused Encounters, on 1 random Part",
-      "summary": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 1 random enemy"
+      "name": "Propagar Llama",
+      "desc": "Cuando 1 aliado con la menor Velocidad derrota un enemigo con [Combustion], inflige 3 de [Combustion] en 1 enemigo aleatorio (Una vez por turno)\n- En Encuentros Centrados, en 1 Parte aleatoria",
+      "summary": "Cuando 1 aliado con la menor Velocidad derrota un enemigo con [Combustion], inflige 3 de [Combustion] en 1 enemigo aleatorio"
     },
     {
       "id": 1040731,
-      "name": "Spread Flame",
-      "desc": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 2 random enemies (Once per turn)\n- In Focused Encounters, on 2 random Parts",
-      "summary": "When 1 ally with the lowest Speed defeats an enemy with [Combustion], inflict 3 [Combustion] on 2 random enemies"
+      "name": "Propagar Llama",
+      "desc": "Cuando 1 aliado con la menor Velocidad derrota un enemigo con [Combustion], inflige 3 de [Combustion] en 2 enemigos aleatorios (Una vez por turno)\n- En Encuentros Centrados, en 2 Partes aleatorias",
+      "summary": "Cuando 1 aliado con la menor Velocidad derrota un enemigo con [Combustion], inflige 3 de [Combustion] en 2 enemigos aleatorios"
     },
     {
       "id": 1070801,
-      "name": "Grave Attendance",
-      "desc": "Deal +5% more damage for every 6 [Vibration] Potency on target (Max 15%)",
+      "name": "Asistencia Estricta",
+      "desc": "Inflige +5% de daño por cada 6 de Potencia de [Vibration] en el objetivo (Máx 15%)",
       "summary": ""
     },
     {
       "id": 1070811,
-      "name": "Grave Attendance",
-      "desc": "Deal +10% more damage for every 6 [Vibration] Potency on target (Max 30%)\nWhen converting [Vibration] into [VibrationCollapse] with this unit's Skill effects, trigger [VibrationExplosion] on target",
+      "name": "Asistencia Estricta",
+      "desc": "Inflige +10% de daño por cada 6 de Potencia de [Vibration] en el objetivo (Máx 30%)\nAl convertir [Vibration] en [VibrationCollapse] con los efectos de Habilidad de esta unidad provoca [VibrationExplosion] en el objetivo",
       "summary": ""
     },
     {
       "id": 1070821,
-      "name": "Verify Obligation Fulfillment",
-      "desc": "To 1 ally with the fastest Speed: Clash Power +1 to Skills that apply [Vibration] Potency or Count",
+      "name": "Verificar Cumplimiento de Obligaciones",
+      "desc": "A 1 aliado con la Velocidad más alta: Poder de Choque +1 para Habilidades que aplican Potencia o Contador de [Vibration]",
       "summary": ""
     },
     {
       "id": 1050901,
-      "name": "Buy Time",
-      "desc": "Clash Power +1 in a Clash against targets with [Burst]",
-      "summary": "Clash Power +1 in a Clash against targets with [Burst]"
+      "name": "Comprar Tiempo",
+      "desc": "Poder de Choque +1 en un Choque contra objetivos con [Burst]",
+      "summary": "Poder de Choque +1 en un Choque contra objetivos con [Burst]"
     },
     {
       "id": 1050921,
-      "name": "My Responsibility",
-      "desc": "When 1 ally with the fastest Speed hits an enemy with 6+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
-      "summary": "Inflict 1 [AttackDown] On Hit against targets with 6+ [Burst]"
+      "name": "Mi Responsabilidad",
+      "desc": "Cuando 1 aliado con la Velocidad más alta golpea un enemigo con 6+ de [Burst], inflige 1 [AttackDown] (3 veces por enemigo por turno)",
+      "summary": "Inflige 1 [AttackDown] Tras Golpear contra objetivos con 6+ de [Burst]"
     },
     {
       "id": 1050931,
-      "name": "My Responsibility",
-      "desc": "When 1 ally with the fastest Speed hits an enemy with 3+ [Burst], inflict 1 [AttackDown] (3 times per enemy per turn)",
-      "summary": "Inflict 1 [AttackDown] On Hit against targets with 3+ [Burst]"
+      "name": "Mi Responsabilidad",
+      "desc": "Cuando 1 aliado con la Velocidad más alta golpea un enemigo con 3+ de [Burst], inflige 1 [AttackDown] (3 veces por enemigo por turno)",
+      "summary": "Inflige 1 [AttackDown] Tras Golpear contra objetivos con 3+ de [Burst]"
     },
     {
       "id": 1110801,
-      "name": "The Mistress' Voice...!",
-      "desc": "- When clashing against targets with less than -25 SP, Clash Power +1 and deal +10% more damage\n- Deal +15% more damage against targets with [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 2 [AttackUp] next turn (2 times per turn)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +10% more damage\nDeal +15% more damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
+      "name": "¡La Voz de la Ama...!",
+      "desc": "- Al Chocar contra objetivos con menos de -25 PC, Poder de Choque +1 e inflige +10% de daño\n- Inflige +15% de daño contra objetivos con [EchoOfMansion]\n- Al ganar un Choque sin perder ninguna Moneda, cura 10 PC. Si esta unidad ya tiene PC máx, gana 2 [AttackUp] el siguiente turno (2 veces por turno)",
+      "summary": "Contra objetivos con PC bajos, Poder de Choque +1 e inflige +10% de daño\nInflige +15% de daño si el objetivo tiene [EchoOfMansion]\nTras un Choque Ganado Cura PC"
     },
     {
       "id": 1110811,
-      "name": "The Mistress' Voice...!",
-      "desc": "- When clashing against targets with less than 0 SP, Clash Power +1 and deal +20% more damage\n- Deal +30% more damage against targets with [EchoOfMansion]\n- When winning a Clash without losing a single Coin, heal 10 SP. If this unit is already at max SP, gain 3 [AttackUp] next turn (2 times per turn)",
-      "summary": "Against targets with low SP, Clash Power +1 and deal +20% more damage\nDeal +30% more damage if the target has [EchoOfMansion]\nHeal SP on Clash Win"
+      "name": "¡La Voz de la Ama...!",
+      "desc": "- Al Chocar contra objetivos con menos de 0 PC, Poder de Choque +1 e inflige +20% de daño\n- Inflige +30% de daño contra objetivos con [EchoOfMansion]\n- Al ganar un Choque sin perder ninguna Moneda, cura 10 PC. Si esta unidad ya tiene PC máx, gana 3 [AttackUp] el siguiente turno (2 veces por turno)",
+      "summary": "Contra objetivos con PC bajos, Poder de Choque +1 e inflige +20% de daño\nInflige +30% de daño si el objetivo tiene [EchoOfMansion]\nTras un Choque Ganado Cura PC"
     },
     {
       "id": 1110821,
-      "name": "Butler Training",
-      "desc": "Clash Power +1 to 1 ally with the most SP when clashing against targets with less than -25 SP",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
+      "name": "Entrenamiento de Criada",
+      "desc": "Poder de Choque +1 para 1 aliado con los mayores PC al chocar contra objetivos con menos de -25 PC",
+      "summary": "Poder de Choque +1 al chocar contra objetivos con menos de -25 PC"
     },
     {
       "id": 1110831,
-      "name": "Butler Training",
-      "desc": "Clash Power +1 to 1 ally with the most SP when clashing against targets with less than -25 SP",
-      "summary": "Clash Power +1 when Clashing against targets with less than -25 SP"
+      "name": "Entrenamiento de Criada",
+      "desc": "Poder de Choque +1 para 1 aliado con los mayores PC al chocar contra objetivos con menos de -25 PC",
+      "summary": "Poder de Choque +1 al chocar contra objetivos con menos de -25 PC"
     },
     {
       "id": 1050911,
-      "name": "Buy Time",
-      "desc": "Clash Power +1 against targets with [Burst]\nClash Power +2 if the target has 5+ [Burst] Count",
+      "name": "Comprar Tiempo",
+      "desc": "Poder de Choque +1 contra objetivos con [Burst]\nPoder de Choque +2 si el objetivo tiene 5+ Contador de [Burst]",
       "summary": ""
     },
     {
       "id": 1020901,
-      "name": "Butler Style Response",
-      "desc": "- Clash Win: inflict 1 [Sinking] on target (3 times per turn)",
-      "summary": "Clash Win: inflict 1 [Sinking]"
+      "name": "Respuesta al Estilo Criada",
+      "desc": "- Choque Ganado: inflige 1 de [Sinking] en el objetivo (3 veces por turno)",
+      "summary": "Choque Ganado: Inflige 1 de [Sinking]"
     },
     {
       "id": 1020911,
-      "name": "Butler Style Response",
-      "desc": "- Clash Win: inflict 1 [Sinking] on target (3 times per turn)\n- If the target has [EchoOfMansion], inflict 3 [Sinking] instead",
-      "summary": "Clash Win: inflict 1 [Sinking]"
+      "name": "Respuesta al Estilo Criada",
+      "desc": "- Choque Ganado: inflige 1 de [Sinking] en el objetivo (3 veces por turno)\n- Si el objetivo tiene [EchoOfMansion], inflige 3 de [Sinking] en su lugar",
+      "summary": "Choque Ganado: Inflige 1 de [Sinking]"
     },
     {
       "id": 1020921,
-      "name": "Anticipatory Training",
-      "desc": "When 1 ally with the least SP hits an enemy with 5+ [Sinking], the ally heals 2 SP On Hit (4 times per turn)",
-      "summary": "Conditional SP healing"
+      "name": "Entrenamiento Anticipatorio",
+      "desc": "Cuando 1 aliado con los menores PC golpea un enemigo con 5+ de [Sinking], el aliado cura 2 PC Tras Golpear (4 veces por turno)",
+      "summary": "Curación condicional de PC"
     },
     {
       "id": 1020931,
-      "name": "Anticipatory Training",
-      "desc": "When 1 ally with the least SP hits an enemy with 5+ [Sinking], the ally heals 3 SP On Hit (4 times per turn)",
-      "summary": "Conditional SP healing"
+      "name": "Entrenamiento Anticipatorio",
+      "desc": "Cuando 1 aliado con los menores PC golpea un enemigo con 5+ de [Sinking], el aliado cura 3 PC Tras Golpear (4 veces por turno)",
+      "summary": "Curación condicional de PC"
     },
     {
       "id": 1120901,
-      "name": "Endless Nightmares",
-      "desc": "- Combat Start: gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +1% more damage for every [Sinking] Potency on target (max 20%)",
+      "name": "Pesadillas Sin Fin",
+      "desc": "- Inicio de Combate: gana 1 [AttackDmgUp] y 1 [Vulnerable] por cada 5 PC de dfierencia entre el Inicio de Combate y el último Inicio de Turno (máx 5)\n- Inflige +1% de daño por cada Potencia de [Sinking] en el objetivo (máx 20%)",
       "summary": ""
     },
     {
       "id": 1120911,
-      "name": "Endless Nightmares",
-      "desc": "- Combat Start: gain 1 [AttackDmgUp] and 1 [Vulnerable] for every 5 SP difference between Combat Start and the last Turn Start (max 5)\n- Deal +1% more damage for every [Sinking] Potency on target (max 20%)",
+      "name": "Pesadillas Sin Fin",
+      "desc": "- Inicio de Combate: gana 1 [AttackDmgUp] y 1 [Vulnerable] por cada 5 PC de dfierencia entre el Inicio de Combate y el último Inicio de Turno (máx 5)\n- Inflige +2% de daño por cada Potencia de [Sinking] en el objetivo (máx 40%)",
       "summary": ""
     },
     {
       "id": 1120921,
-      "name": "Suffering",
-      "desc": "Combat Start: 1 ally with the least SP loses 7 SP, then gains 1 [AzureDamageUp]",
+      "name": "Sufrimiento",
+      "desc": "Inicio de Combate: 1 aliado con los menores PC pierde 7 PC, después gana 1 [AzureDamageUp]",
       "summary": ""
     },
     {
       "id": 1120931,
-      "name": "Suffering",
-      "desc": "Combat Start: 1 ally with the least SP loses 5 SP, then gains 1 [AzureDamageUp]",
+      "name": "Sufrimiento",
+      "desc": "Inicio de Combate: 1 aliado con los menores PC pierde 5 PC, después gana 1 [AzureDamageUp]",
       "summary": ""
     },
     {
       "id": 999901,
-      "name": "The Red Gaze",
-      "desc": "Inflict 3 [Binding] next turn against enemies with 50% or more HP at Turn End\nIf the enemy that's about to use a Skill against this unit is not at full HP, that unit gains 1 [Reduction] for every 20% remaining HP",
+      "name": "La Mirada Roja",
+      "desc": "Inflige 3 [Binding] el siguiente turno contra enemigos con 50% o más HP al Fin de Turno\nSi el enemigo que está a punto de usar una Habilidad contra esta unidad no está a HP Máx, esa unidad gana 1 [Reduction] por cada 20% de HP restante",
       "summary": ""
     },
     {
       "id": 999902,
-      "name": "White-hot Gladius",
-      "desc": "Inflict 1 [AaCfPcBi] On Hit with a Gladius Skill",
+      "name": "Gladius Candente",
+      "desc": "Inflige 1 [AaCfPcBi] Tras Golpear con una Habilidad de Gladius",
       "summary": ""
     },
     {
       "id": 999903,
-      "name": "Bloody Tears",
-      "desc": "On Skill Use: Take 3% of max HP as fixed damage (this damage cannot kill this unit).\nAfter Attack: heal 15% of max HP for every unit killed",
+      "name": "Lágrimas de Sangre",
+      "desc": "Tras Usar Habilidad: Toma 3% de HP máx como daño fijo (este daño no puede matar a esta unidad).\nDespués de Ataque: cura 15% de HP Máx por cada unidad matada",
       "summary": ""
     },
     {
       "id": 999904,
-      "name": "Blood Barrier",
-      "desc": "All allies, including this unit, gain Shield every turn.\nAll allies, including this unit, does not drop below 1 HP for this Encounter.",
+      "name": "Velo de Sangre",
+      "desc": "Todos los aliados, incluyendo esta unidad, ganan Escudo cada turno.\nTodos los aliados, incluyendo esta unidad, no bajan de 1 HP por este Encuentro.",
       "summary": ""
     },
     {
       "id": 999905,
-      "name": "Eyes of a Friend Who ████",
-      "desc": "'The Red Gaze' becomes available",
+      "name": "Ojos de un Amigo Que █████",
+      "desc": "'La Mirada Roja' se vuelve disponible",
       "summary": ""
     },
     {
       "id": 999906,
       "name": "Shin (心)",
-      "desc": "Generates Mang based on SP",
+      "desc": "Genera Mang basado en PC",
       "summary": ""
     },
     {
       "id": 999907,
       "name": "Mang (望)",
-      "desc": "Consume SP to generate Mang. Deal more damage based on the number of Mang",
+      "desc": "Consume PC para generar Mang. Inflige más daño basado en el número de Mang",
       "summary": ""
     },
     {
       "id": 1040801,
-      "name": "Clearing Household Chores",
-      "desc": "On Hit against targets with [MarkOfButler], gain 1 [Agility] next turn (3 times per turn)\nOn Crit against targets with [MarkOfButler], eliminate [MarkOfButler] on target; then, if this unit's Speed is faster than the target's, deal +5% Damage on Critical Hit for every 1 Speed difference (max 30%)",
+      "name": "Terminar las Tareas Domésticas",
+      "desc": "Tras Golpear contra objetivos con [MarkOfButler], gana 1 [Agility] el siguiente turno (3 veces por turno)\nTras Crítico contra objetivos con [MarkOfButler], elimina [MarkOfButler] en el objetivo; después, si la Velocidad de esta Unidad es mayor que la del objetivo, inflige +5% de Daño en Golpe Crítico por cada 1 dif. de Velocidad (máx 30%)",
       "summary": ""
     },
     {
       "id": 1040811,
-      "name": "Clearing Household Chores",
-      "desc": "On Hit against targets with [MarkOfButler], gain +1 [Breath] Count, and gain 1 [Agility] next turn (3 times per turn)\nOn Crit against targets with [MarkOfButler], eliminate [MarkOfButler] on target; then, if this unit's Speed is faster than the target's, deal +10% Damage on Critical Hit for every 1 Speed difference (max 60%)",
+      "name": "Terminar las Tareas Domésticas",
+      "desc": "Tras Golpear contra objetivos con [MarkOfButler], gana +1 Contador de [Breath], y gana 1 [Agility] el siguiente turno (3 veces por turno)\nTras Crítico contra objetivos con [MarkOfButler], elimina [MarkOfButler] en el objetivo; después, si la Velocidad de esta Unidad es mayor que la del objetivo, inflige +10% de Daño en Golpe Crítico por cada 1 dif. de Velocidad (máx 60%)",
       "summary": ""
     },
     {
       "id": 1040821,
-      "name": "Cleaning Command",
-      "desc": "When the ally that was deployed last wins a Clash, gain +1 [Breath] Count (3 times per turn)",
+      "name": "Orden de Limpieza",
+      "desc": "Cuando el aliado que fue desplegado último gana un Choque, gana +1 Contador de [Breath] (3 veces por turno)",
       "summary": ""
     },
     {
       "id": 1040831,
-      "name": "Cleaning Command",
-      "desc": "When the ally that was deployed last wins a Clash, gain +1 [Breath] Count (3 times per turn), and gain 1 [Agility] next turn (once per turn)",
+      "name": "Orden de Limpieza",
+      "desc": "Cuando el aliado que fue desplegado último gana un Choque, gana +1 Contador de [Breath] (3 veces por turno), y gana 1 [Agility] el siguiente turno (1 vez por turno)",
       "summary": ""
     },
     {
       "id": 1080901,
-      "name": "Deep Cleaning",
-      "desc": "If this unit Critically Hits against targets with Slower Speed than this unit's, inflict 1 additional Potency for negative effects with its Skills (3 times per turn)",
+      "name": "Limpieza Profunda",
+      "desc": "Si esta unidad Golpea Críticamente contra objetivos de Velocidad menor que la de esta unidad, inflige 1 Potencia adicional para efectos negativos con sus Habilidades (3 veces por turno)",
       "summary": ""
     },
     {
       "id": 1080921,
-      "name": "Loyal Supporter",
-      "desc": "When 1 ally with the fastest Speed attacks a target with [Sinking], deal +0.5% more damage for every 1 [Sinking] on target (max 10%)",
+      "name": "Fiel Seguidora",
+      "desc": "Cuando 1 aliado con la Velocidad más alta ataca a un objetivo con [Sinking], inflige +0.5% de daño por cada [Sinking] en el objetivo (máx 10%)",
       "summary": ""
     },
     {
       "id": 1080931,
-      "name": "Loyal Supporter",
-      "desc": "When 1 ally with the fastest Speed attacks a target with [Sinking], deal +1% more damage for every 1 [Sinking] on target (max 20%)",
+      "name": "Fiel Seguidora",
+      "desc": "Cuando 1 aliado con la Velocidad más alta ataca a un objetivo con [Sinking], inflige +1% de daño por cada [Sinking] en el objetivo (máx 20%)",
       "summary": ""
     },
     {
       "id": 1100901,
-      "name": "Stigma Workshop Weaponry / Passion",
-      "desc": "This unit inflicts +1 more [Combustion] Potency with its Skills (Activates 6 times per turn)\nWhen in a Volatile E.G.O state, and at 0+ SP, gain Coin Power +(SP/20). At 45 SP, gain Coin Power +3 instead.",
-      "summary": "Inflict +1 more [Combustion] Potency with Skills\nGain Coin Power based on SP"
+      "name": "Armas del Taller Stigma / Pasión",
+      "desc": "Esta unidad inflige +1 de Potencia de [Combustion] adicional con sus Habilidades (Se activa 6 veces por turno)\nCuando está en un estado de E.G.O volátil, y con 0+ PC, gana Poder de Moneda +(PC/20). Con 45 PC gana Poder de Moneda +3 en su lugar.",
+      "summary": "Inflige +1 de Potencia de [Combustion] con Habilidades.\nGana Poder de Moneda basado en PC"
     },
     {
       "id": 1100911,
-      "name": "Stigma Workshop Weaponry / Passion",
-      "desc": "This unit inflicts +1 more [Combustion] Potency <style=\"highlight\">and Count</style> with its Skills (Activates 6 times per turn)\nWhen in a Volatile E.G.O state, and at 0+ SP, gain Coin Power +(SP/20). At 45 SP, gain Coin Power +3 instead.",
-      "summary": "Inflict +1 more [Combustion] Potency and Count with Skills\nGain Coin Power based on SP"
+      "name": "Armas del Taller Stigma / Pasión",
+      "desc": "Esta unidad inflige +1 de Potencia <style=\"highlight\">y Contador</style> de [Combustion] adicional con sus Habilidades (Se activa 6 veces por turno)\nCuando está en un estado de E.G.O volátil, y con 0+ PC, gana Poder de Moneda +(PC/20). Con 45 PC gana Poder de Moneda +3 en su lugar.",
+      "summary": "Inflige +1 de Potencia y Contador de [Combustion] con Habilidades.\nGana Poder de Moneda basado en PC"
     },
     {
       "id": 1100902,
-      "name": "Unstable Shell of Ego",
-      "desc": "Turn Start: At 40+ SP, consume 20 SP to enter the Volatile E.G.O::Waxen Pinion state. (this 'Turn Start' effect does not activate repeatedly)\n\nIf 2+ allies are defeated in a single turn, and if this unit's SP isn't at -45 at Turn End, reset SP to 20; then, enter the Volatile E.G.O::Waxen Pinion state. (if both conditions are met at the same time, whichever condition that results in a higher SP goes into effect)\n\nIf this unit gets Staggered due to damage or raised Stagger Threshold when entering the Volatile E.G.O state, recover from Stagger. If the Stagger is something that cannot be naturally recovered from, this unit does not enter the Volatile E.G.O state.\n\nGain [UnstableFeeling] while in the Volatile E.G.O state.\n\nTurn Start: At 0 or less SP, exit the Volatile E.G.O::Waxen Pinion state.",
+      "name": "Caparazón Inestable de Ego",
+      "desc": "Inicio de Turno: Con 40+ PC, consume 20 PC para entrar en el estado de E.G.O Volátil::Piñón Encerado. (este efecto de 'Inicio de Turno' no se activa repetidamente)\n\nSi 2+ aliados son derrotados en un mismo turno, y si los PC de esta unidad no están en -45 al Fin de Turno, reinicia PC a 20, después entrar el estado de E.G.O Volátil::Ala de Acera. (si ambas condiciones se cumplen al mismo tiempo, la condición que resulte en mayores PC entra en vigor)\n\nSi esta unidad es Aturdida debido a daño o Umbral de Aturdimiento aumentado al entrar en el estado de E.G.O Volátil, se recupe del Aturdimiento. Si el Aturdimiento es algo de lo cual no se puede recuperar naturalmente, esta unidad no entrar el estado de E.G.O Volátil.\n\nGana [UnstableFeeling] mientras esté en el estado de E.G.O Volátil.\n\nInicio de Turno: Con 0 o menos PC, sale del estado de E.G.O Volátil::Piñón Encerado.",
       "summary": " "
     },
     {
       "id": 1100921,
-      "name": "Flaring Brand",
-      "desc": "When the #1 Sinner to be Deployed Heads Hits, inflict +1 [Combustion] Count (4 times per turn)",
-      "summary": "On Heads Hit, inflict +1 [Combustion] Count"
+      "name": "Espada Flameante",
+      "desc": "Cuando el Pecador #1 en ser Despleado Golpea con Cara, inflige +1 Contador de [Combustion] (4 veces por turno)",
+      "summary": "Tras Golpear con Cara, inflige +1 Contador de [Combustion]"
     },
     {
       "id": 1010901,
-      "name": "Assignment Evaluation",
-      "desc": "On Hit, if the target has 6+ [Laceration], heal 2 SP.\nHeal 1 additional SP for every type of negative effect on the target. (max 3)\nIf this unit's SP is at max, gain 1 [AttackUp] next turn when this unit heals SP with this effect.\n(This Passive activates 4 times max per turn)",
-      "summary": "Conditional SP Heal On Hit. At max SP, gain 1 [AttackUp] next turn"
+      "name": "Evaluación de Tarea",
+      "desc": "Tras Golpear, si el objetivo tiene 6+ de [Laceration], cura 2 PC.\nCura 1 PC adicional por cada tipo de efecto negativo en el objetivo. (máx 3)\nSi los PC de esta unidad están al máx, gana 1 [AttackUp] el siguiente turno cuando esta unidad cura PC con este efecto.\n(Esta Pasiva se activa 4 veces máx por turno)",
+      "summary": "Curación condicional de PC Tras Golpear. Si los PC están al máx, gana 1 [AttackUp] el siguiente turno"
     },
     {
       "id": 1010911,
-      "name": "Assignment Evaluation",
-      "desc": "On Hit, if the target has <style=\"highlight\">4</style>+ [Laceration], heal 2 SP.\nHeal 1 additional SP for every type of negative effect on the target. (max 3)\nIf this unit's SP is at max, gain <style=\"highlight\">2</style> [AttackUp] next turn when this unit heals SP with this effect.\n(This Passive activates 4 times max per turn)",
-      "summary": "Conditional SP Heal On Hit. At max SP, gain 2 [AttackUp] next turn"
+      "name": "Evaluación de Tarea",
+      "desc": "Tras Golpear, si el objetivo tiene <style=\"highlight\">4</style>+ de [Laceration], cura 2 PC.\nCura 1 PC adicional por cada tipo de efecto negativo en el objetivo. (máx 3)\nSi los PC de esta unidad están al máx, gana <style=\"highlight\">2</style> [AttackUp] el siguiente turno cuando esta unidad cura PC con este efecto.\n(Esta Pasiva se activa 4 veces máx por turno)",
+      "summary": "Curación condicional de PC Tras Golpear. Si los PC están al máx, gana 2 [AttackUp] el siguiente turno"
     },
     {
       "id": 1010921,
-      "name": "Practices on Aesthetics",
-      "desc": "1 ally with the least SP heals 2 SP On Hit for every type of negative effect on the target. (max 6)\n(This Passive activates 2 times max per turn)",
-      "summary": "On Hit, heal SP based on the number of negative effect types on the target"
+      "name": "Aprendizaje de Estética",
+      "desc": "1 aliado con los menores PC cura 2 PC Tras Golpear por cada tipo de efecto negativo en el objetivo. (máx 6)\n(Esta Pasiva se activa 2 veces más por turno)",
+      "summary": "Tras Golpear, cura PC basado en el número de efectos negativos en el objetivo"
     },
     {
       "id": 1010931,
-      "name": "Practices on Aesthetics",
-      "desc": "1 ally with the least SP heals 2 SP On Hit for every type of negative effect on the target. (max 6)\n<style=\"highlight\">If the target has [Laceration], heal 3 additional SP.</style>\n(This Passive activates 2 times max per turn)",
-      "summary": "On Hit, heal SP based on the number of negative effect types on the target"
+      "name": "Aprendizaje de Estética",
+      "desc": "1 aliado con los menores PC cura 2 PC Tras Golpear por cada tipo de efecto negativo en el objetivo. (máx 6)\n<style=\"highlight\">Si el objetivo tiene [Laceration], cura 3 PC adicional.</style>\n(Esta Pasiva se activa 2 veces más por turno)",
+      "summary": "Tras Golpear, cura PC basado en el número de efectos negativos en el objetivo"
     },
     {
       "id": 1110901,
-      "name": "Multitude of Dots",
-      "desc": "Combat Start: Inflict 2 Potency for 1 of the following effects on 1 enemy with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\n(In Focused Encounters, a Part)",
-      "summary": "Combat Start: Inflict 2 Potency for a random status effect to an enemy"
+      "name": "Multitud de Puntos",
+      "desc": "Inicio de Combate: Inflige 2 de Potencia para 1 de los siguientes efectos en 1 enemigo con el menor tipo de efectos negativos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar.\n(En Encuentros Centrados, una Parte)",
+      "summary": "Inicio de Combate: Inflige 2 de Potencia para 1 efecto de estado aleatorio a un enemigo"
     },
     {
       "id": 1110911,
-      "name": "Multitude of Dots",
-      "desc": "Combat Start: Inflict 2 Potency for 1 of the following effects on <style=\"highlight\">2</style> enemies with the least types of negative effects: [Combustion], [Laceration], [Vibration], [Burst], or [Sinking]. Effect selected at random.\n(In Focused Encounters, Parts)",
-      "summary": "Combat Start: Inflict 2 Potency for a random status effect to 2 enemies"
+      "name": "Multitud de Puntos",
+      "desc": "Inicio de Combate: Inflige 2 de Potencia para 1 de los siguientes efectos en <style=\"highlight\">2</style> enemigos con el menor tipo de efectos negativos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar.\n(En Encuentros Centrados, una Parte)",
+      "summary": "Inicio de Combate: Inflige 2 de Potencia para 1 efecto de estado aleatorio a 2 enemigos"
     },
     {
       "id": 1110921,
-      "name": "Rough Sketch",
-      "desc": "1 ally with the least SP heals 4 SP when defeating an enemy with [Laceration].\nHeal 1 additional SP for every type of negative effect on the target. (max 4. Once per turn)",
-      "summary": "Heal SP on self On Kill against targets with [Laceration]"
+      "name": "Bosquejo",
+      "desc": "1 aliado con los menores PC cura 4 PC cuando derrota un enemigo con [Laceration].\nCura 1 PC adicional por cada tipo de efecto negativo en el objetivo. (máx 4. Una vez por turno)",
+      "summary": "Cura PC en sí mismo Al Matar un objetivo con [Laceration]"
     },
     {
       "id": 1110931,
-      "name": "Rough Sketch",
-      "desc": "1 ally with the least SP heals 4 SP when defeating an enemy with [Laceration].\nHeal 1 additional SP for every type of negative effect on the target. (max 4. 3 times per turn)",
-      "summary": "Heal SP on self On Kill against targets with [Laceration]"
+      "name": "Bosquejo",
+      "desc": "1 aliado con los menores PC cura 4 PC cuando derrota un enemigo con [Laceration].\nCura 1 PC adicional por cada tipo de efecto negativo en el objetivo. (máx 4. 3 veces por turno)",
+      "summary": "Cura PC en sí mismo Al Matar un objetivo con [Laceration]"
     },
     {
       "id": 1010902,
-      "name": "Sanguine Pointillist",
-      "desc": "This Identity only counts as an 'Identity that inflicts [Laceration]'. This Identity's Skills that randomly inflict [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] do not count as Skills that inflict each respective Keyword."
+      "name": "Puntillismo Sanguíneo",
+      "desc": "Esta Identidad solo cuenta como una 'Indentidad que inflige [Laceration]'. Las Habilidades de esta Identidad que infligen [Combustion], [Laceration], [Vibration], [Burst], y [Sinking] al azar no cuentan como Habilidades que infligen cada una de las palabras Palabras Claves respectivas."
     },
     {
       "id": 1110902,
-      "name": "Sanguine Pointillist",
-      "desc": "This Identity only counts as an 'Identity that inflicts [Laceration]'. This Identity's Skills that randomly inflict [Combustion], [Laceration], [Vibration], [Burst], and [Sinking] do not count as Skills that inflict each respective Keyword."
+      "name": "Puntillismo Sanguíneo",
+      "desc": "Esta Identidad solo cuenta como una 'Indentidad que inflige [Laceration]'. Las Habilidades de esta Identidad que infligen [Combustion], [Laceration], [Vibration], [Burst], y [Sinking] al azar no cuentan como Habilidades que infligen cada una de las palabras Palabras Claves respectivas."
     },
     {
       "id": 1040901,
-      "name": "N.O.",
-      "desc": "- When an other ally Staggers an enemy with an attack: follow up with a Skill 1 against the Staggered enemy. (once per Turn)\n- If multiple enemies are Staggered at once, target the enemy with the least HP(for Abnormalities, target the Abnormality with the least HP; then, target the Part with the least HP).\n- When using Skill 1 with this effect, this unit gains +1 more [Vibration] Count from its Coin effects, and triggers a [VibrationExplosion] with the last Coin On Hit"
+      "name": "O.N.",
+      "desc": "- Cuando un otro aliado Aturde a un enemigo con un ataque: sigue con una Habilidad 1 contra el enemigo Aturdido. (una vez por Turno)\n- Si multiples enemigos han sido Aturdidos al mismo tiempo, selecciona al enemigo con el menor HP(para Anormalidades, selecciona a la Anormalidad con el menor HP; después, selecciona a la parte con el menor HP).\n- Al usar Habilidad 1 con este efecto, esta unidad gana +1 Contador de [Vibration] adicional con sus efectos de Moneda, y provoca un [VibrationExplosion] con la última Moneda Tras Golpear"
     },
     {
       "id": 1040921,
-      "name": "The A.I.",
-      "desc": "#1 Deployed ally gains +1 more Tremor Count from their Skill or Coin effects (2 times per turn)"
+      "name": "La R.E.",
+      "desc": "#1 aliado en ser Desplegado gana +1 Contador de [Vibration] adicional con sus efectos de Habilidad o Moneda (2 veces por turno)"
     },
     {
       "id": 1060901,
-      "name": "Vibroweld Morph-combat Cane (Unauthorized Invention)",
-      "desc": "Turn End: gain [AttackDmgUp] next turn equal to the number of times this unit triggered [VibrationExplosion] this turn (max 3)"
+      "name": "Bastón de Combate Transformado Vibrosoldado (Invención No Autorizada)",
+      "desc": "Fin de Turno: el siguiente turno gana [AttackDmgUp] igual al número de veces que esta unidad provoca [VibrationExplosion] este turno (máx 3)"
     },
     {
       "id": 1060921,
-      "name": "In the Culprit's Shoes",
-      "desc": "When #1 Deployed Identity triggers Estallido de Tremor with Skill or Coin effects, 25% chance to trigger an additional Estallido de Tremor (once per turn)"
+      "name": "¿Si Yo Fuese el Cupable...?",
+      "desc": "Cuando la Identidad #1 Desplegada provoca [VibrationExplosion] con efectos de Habilidad o Moneda, 25% de probabilidad de provocar un [VibrationExplosion] adicional (una vez por turno)"
     },
     {
       "id": 1030901,
-      "name": "Golden Time - Extracting",
-      "desc": "Turn End: If this unit's HP is between 10% ~ 20%, instantly heal 80% of this unit's max HP, and recover from Stagger. (once per Encounter)\n\nWhen this unit loses [TimeRentalTwoPersonality], gain +8 [Aggro] to one of this unit's Skill Slots next turn"
+      "name": "Tiempo de Oro - Extracción",
+      "desc": "Fin del Turno: Si esta unidad tiene de 10% a 20% de HP, se cura instantáneamente por 80% de HP Máx, y se recupera de Aturdimiento. (una vez por Encuentro)\n\nCuando esta unidad pierde [TimeRentalTwoPersonality], gana +8 [Aggro] en una de las Ranuras de Habilidad de esta unidad el siguiente turno"
     },
     {
       "id": 1030921,
-      "name": "T Corp. Physics Distortion Field",
-      "desc": "When 1 ally with the slowest Speed takes damage from enemies with [Vibration], take -10% less damage"
+      "name": "Campo de Distorsión de la Física de T Corp.",
+      "desc": "Cuando 1 aliado con la Velocidad más bajo recibe daño de enemigos con [Vibration], recibe -10% de daño"
     },
     {
       "id": 1090901,
-      "name": "Golden Time - Standoff",
-      "desc": "Turn End: if this unit's HP is between 16% ~ 20%, instantly heal up to 60% of Max HP, and recover from Stagger. (once per Encounter)\n\nWhen Clashing against targets with [TimeSuspend], Clash Power +2\nTake -10% less damage from targets with [TimeSuspend]"
+      "name": "Tiempo de Oro - Confrontación",
+      "desc": "Fin del Turno: Si esta unidad tiene de 16% a 20% de HP, se cura instantáneamente hasta 60% de HP Máx, y se recupera de Aturdimiento. (una vez por Encuentro)\n\nAl Chocar contra objetivos con [TimeSuspend], Poder de Choque +2\nRecibe -10% de daño de objetivos con [TimeSuspend]"
     },
     {
       "id": 1090921,
-      "name": "T Corp. Martial Arts",
-      "desc": "To 1 ally with the fastest Speed: Clash Power +1 when Clashing against targets with 5+ [Vibration]"
+      "name": "Artes Marciales de T Corp.",
+      "desc": "Para 1 aliado con la Velocidad más alta; Poder de Choque +1 al Chocar contra objetivos con 5+ de [Vibration]"
     },
     {
       "id": 1051001,
-      "name": "Study Hall",
-      "desc": "Every time other allies Discard a Skill, apply 1 [KnowledgeTraining] to the ally and self (once per Skill, 3 times per turn)\nTurn End: next turn, gain Pierce DMG Up and Blunt DMG Up equal to the number of other allies that Discarded Skills (max 3)"
+      "name": "Autoaprendizaje",
+      "desc": "Cada vez que otro aliado Descarta una Habilidad, aplica 1 [KnowledgeTraining] al aliado y a sí mismo (una vez por Habilidad, 3 veces por turno)\nFin del Turno: el siguiente turno, gana Daño Perforante Aumentado y Daño Contundente Aumentado igual al número de otros aliados que Descartaron Habilidades (máx 3)"
     },
     {
       "id": 1051021,
-      "name": "Diligent Learning",
-      "desc": "When 1 ally with the highest max HP Discards a Skill, gain (5 x Discarded Skill rank)% of the max HP as Shield (once per turn)\nIf the unit has [KnowledgeExplored], multiply the above Shield value by 1.5"
+      "name": "Aprendizaje Diligente",
+      "desc": "Cuando 1 aliado con el mayor HP Máx Descarta una Habilidad, gana (5 x Rango de la Habilidad Descartada)% del HP Máx como Escudo (una vez por turno)\nSi la unidad tiene [KnowledgeExplored], multiplica el valor de Escudo anterior por 1.5"
     },
     {
       "id": 1111001,
-      "name": "Overcharge / Cleanup Order",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nTurn End: Apply 1 [ParryingResultUp] next turn to ([Charge]) W Corp. employees, including this unit, in reverse Deployment order (max: 5 allies)"
+      "name": "Sobrecarga / Orden de Limpieza",
+      "desc": "Gana 1 de [Charge] cada vez que esta unidad gasta 10 Contador de [Charge] cumulativo en este Encuentro\nFin de Turno: Aplica 1 [ParryingResultUp] el siguiente turno a ([Charge]) empleados de W Corp., incluyendo a esta unidad, en orden inverso de Despliegue (máx: 5 aliados)"
     },
     {
       "id": 1111021,
-      "name": "Refraction",
-      "desc": "1 ally who has the most [Charge] Count at Turn Start: deal +10% more damage with Skills that consumed 7+ [Charge] Count (once per turn)"
+      "name": "Refracción",
+      "desc": "1 aliado con el mayor Contador de [Charge] al Inicio de Turno: inflige +10% de daño con Habilidades que gastaron 7+ Contador de [Charge] (una vez por turno)"
     },
     {
       "id": 1021001,
-      "name": "Electrocurrent Dismantling",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAt 2+ [Charge], deal +([Charge] x 3)% more damage (max 15%)\n\nOn Kill, this unit and 1 ally with the least [Charge] Count gains [Charge] Count equal to [Charge] (max 3, prioritizes allies that consume or gain [Charge])",
-      "summary": "Gain [Charge] with every 10 [Charge] Count consumption\nAt 2+ [Charge], deal more damage\nOn Kill, this unit and 1 ally gain [Charge] Count"
+      "name": "Corrosión Galvánica",
+      "desc": "Gana 1 de [Charge] cada vez que esta unidad consume 10 Contador de [Charge] acumulativo en este Encuentro\nCon 2+ de [Charge], inflige +([Charge] x 3)% de daño (máx 15%)\n\nAl Matar, esta unidad y 1 aliado con el menor Contador de [Charge] ganan Contador de [Charge] igual a [Charge] (máx 3, prioriza aliados que gastan o ganan [Charge])",
+      "summary": "Gana [Charge] con cada 10 Contador de [Charge] gastados\nCon 2+ de [Charge], inflige más daño\nAl Matar, esta unidad y 1 aliado ganan Contador de [Charge]"
     },
     {
       "id": 1021011,
-      "name": "Electrocurrent Dismantling",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nAt 2+ [Charge], deal +([Charge] x 3)% more damage (max 15%)\n<style=\"highlight\">- If the target is at less than 50% HP, deal +([Charge] x 5)% additionally increased damage (max 25%)</style>\n\nOn Kill, this unit and <style=\"highlight\">2 allies</style> with the least [Charge] Count gains [Charge] Count equal to <style=\"highlight\">([Charge] + 2)</style> (max <style=\"highlight\">5</style>, prioritizes allies that consume or gain [Charge])",
-      "summary": "Gain [Charge] with every 10 [Charge] Count consumption\nAt 2+ [Charge], deal more damage\nOn Kill, this unit and 2 allies gain [Charge] Count"
+      "name": "Corrosión Galvánica",
+      "desc": "Gana 1 de [Charge] cada vez que esta unidad gasta 10 Contador de [Charge] cumulativo en este Encuentro\nCon 2+ [Charge], inflige +([Charge] x 3)% de daño (máx 15%)\n<style=\"highlight\"> - Si el objetivo está a menos de 50% HP, inflige + ([Charge] x 5)% de daño adicional (máx 25%)</style>\n\nAl Matar, esta unidad y <style=\"highlight\"> 2 aliados</style> con el menor Contador de [Charge] ganan Contador de [Charge] igual a <style=\"highlight\">([Charge] + 2)</style> (máx <style=\"highlight\">5</style>, prioriza aliados que gastan o ganan [Charge])",
+      "summary": "Gana [Charge] con cada 10 Contador de [Charge] gastados\nCon 2+ de [Charge], inflige más daño\nAl Matar, esta unidad y 2 aliados ganan Contador de [Charge]"
     },
     {
       "id": 1021021,
-      "name": "Auxiliary Dismantling Current",
-      "desc": "When 1 ally with the least [Charge] Count kills an enemy, the ally gains +2 [Charge] Count (once per turn, prioritizes allies that consume or gain [Charge])"
+      "name": "Corriente Auxiliar de Corrosión",
+      "desc": "Cuando 1 aliado con el menor Contador de [Charge] mata un enemigo, el aliado gana +2 Contador de [Charge] (una vez por turno, prioriza aliados que gastan o ganan [Charge])"
     },
     {
       "id": 1021031,
-      "name": "Auxiliary Dismantling Current",
-      "desc": "When 1 ally with the least [Charge] Count kills an enemy, the ally gains +3 [Charge] Count (once per turn, prioritizes allies that consume or gain [Charge])"
+      "name": "Corriente Auxiliar de Corrosión",
+      "desc": "Cuando 1 aliado con el menor Contador de [Charge] mata un enemigo, el aliado gana +3 Contador de [Charge] (una vez por turno, prioriza aliados que gastan o ganan [Charge])"
     },
     {
       "id": 1070901,
-      "name": "Charge Model L37",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\n\nTurn End: At 2+ [Charge], gain 1 [Agility] next turn",
-      "summary": "Gain [Charge] with every 10 [Charge] Count consumption"
+      "name": "Modelo de Carga L37",
+      "desc": "Gana 1 de [Charge] cada vez que esta unidad gasta 10 Contador de [Charge] cumulativo en este Encuentro\n\nFin de Turno: Con 2+ de [Charge], gana 1 [Agility] el siguiente turno",
+      "summary": "Gana [Charge] con cada 10 Contador de [Charge] gastados"
     },
     {
       "id": 1070911,
-      "name": "Charge Model L37",
-      "desc": "Gain 1 [Charge] every time this unit consumes 10 cumulative [Charge] Count in this Encounter\nTurn End: At 2+ [Charge], gain 1 [Agility] next turn\n<style=\"highlight\">Turn End: At 3+ [Charge], gain 1 additional [Agility] and 1 [ParryingResultUp] next turn</style>",
-      "summary": "Gain [Charge] with every 10 [Charge] Count consumption"
+      "name": "Modelo de Carga L37",
+      "desc": "Gana 1 de [Charge] cada vez que esta unidad gasta 10 Contador de [Charge] cumulativo en este Encuentro\nFin de Turno: Con 2+ de [Charge], gana 1 [Agility] el siguiente turno\n<style=\"highlight\"> Fin de Turno: Con 3+ de [Charge], gana 1 [Agility] adicional y 1 [ParryingResultUp] el siguiente turno</style>",
+      "summary": "Gana [Charge] con cada 10 Contador de [Charge] gastados"
     },
     {
       "id": 1070921,
-      "name": "Charging Module Installation",
-      "desc": "#1 Deployed ally: Max [Charge] Count +5\n(When conditions are met, this effect will remain activated until the start of the next turn)"
+      "name": "Instalación de Módulo de Carga",
+      "desc": "Aliado #1 desplegado: Contador de [Charge] Máx +5\n(Cuando las condiciones de cumplen, este efecto se mantendrá activado hasta el inicio del siguiente turno)"
     },
     {
       "id": 1071002,
       "name": "Dullahan",
-      "desc": "- Turn Start: if this unit has [NightPathfinding], mount [NightPathfinding].\n- Lose 5 SP every time this unit mounts [NightPathfinding]\n- If 3+ allies have been defeated in this Encounter, gain [NightPathfinding] next turn. (once per Encounter)\n- If this unit gets Staggered due to damage or raised Stagger Threshold when mounting [NightPathfinding], recover from Stagger. If the Stagger is something that cannot be naturally recovered from, this unit does not mount [NightPathfinding].\n\n- Gain 1 Coffin when killing the target."
+      "desc": "- Inicio de Turno: Si esta unidad tiene [NightPathfinding], monta a [NightPathfinding].\n- Pierde 5 PC cada vez que esta unidad monta a [NightPathfinding]\n- Si 3+ aliados han sido derrotados en este Encuentro, gana [NightPathfinding] el siguiente turno. (once per Encounter)\n- Si esta unidad es Aturdida debido a daño o aumento de Umbral de Aturdimiento al montar a [NightPathfinding], se recupera de Aturdimiento. Si el Aturdimiento es algo de lo que no se puede recuperar naturalmente, esta unidad no monta a [NightPathfinding].\n\n- gana 1 [Coffin] al matar al objetivo."
     },
     {
       "id": 1071001,
-      "name": "Call of the Erlking",
-      "desc": "- Deal +1% more damage for every 1 [Sinking] on target (max 15%)",
-      "summary": "Deal more damage based on [Sinking] on target"
+      "name": "Llamado del Erlkönig",
+      "desc": "- Inflige +1% de daña por cada 1 de [Sinking] en el objetivo (máx 15%)",
+      "summary": "Inflige más daño basado en [Sinking] en el objetivo"
     },
     {
       "id": 1071011,
-      "name": "Call of the Erlking",
-      "desc": "- Deal +1% more damage for every 1 [Sinking] on target (max 15%)\n\n<style=\"highlight\">- When, during combat, 1 ally takes damage that would kill them, consume 2 Coffin to apply [WildHunt] to them (once per turn)\n\n- Apply 2 [AttackDmgUp] next turn to the ally with [WildHunt]\n- If the said ally is from Wuthering Heights or Edgar Family, apply 1 [Enhancement] next turn as well</style>",
-      "summary": "Deal more damage based on [Sinking] on target"
+      "name": "Llamado del Erlkönig",
+      "desc": "- Inflige +1% de daña por cada 1 de [Sinking] en el objetivo (máx 15%)\n\n<style=\"highlight\">- Cuando, durante el combate, 1 aliado recibe daño que lo mataría, gasta 2 [Coffin] para aplicar [WildHunt] a dicho aliado (una vez por turno)\n\n- aplica 2 [AttackDmgUp] el siguiente turno al aliado con [WildHunt]\n- Si dicho aliado es de Cumbres Borrascosas o de la Familia Edgar, aplica 1 [Enhancement] el siguiente turno también</style>",
+      "summary": "Inflige más daño basado en [Sinking] en el objetivo"
     },
     {
       "id": 1071021,
-      "name": "Endless Lamentation",
-      "desc": "1 ally with the highest SP deals +5% more damage to targets with less than 0 SP\nIf the target has less than 0 SP: deal even more damage the further the target's SP is from 0 (+0.5% more damage per SP, max 20%)\nIf the target does not have SP, the said ally inflicts +1 more [Sinking] Potency and Count with their Skill and Coin Effects of their Attack Skills (2 times per turn)",
-      "summary": "Deal more damage to targets with less than 0 SP"
+      "name": "Lamento Sin Fin",
+      "desc": "1 aliado con los mayores PC inflige +5% de daño a objetivos con menos de 0 PC\nSi el objetivo tiene menos de 0 PC: inflige más daño mientras más lejos de 0 estén sus PC (+0.5% de daño por PC, máx 20%)\nSi el objetivo no tiene PC, dicho aliado inflige +1 de Potencia y Contador de [Sinking] con los Efectos de Habilidad y Moneda de sus Habilidades de Ataque (2 veces por turno)",
+      "summary": "Inflige más daño a objetivo con menos de 0 PC"
     },
     {
       "id": 1071012,
-      "name": "Call of the Erlking",
-      "desc": "- Deal +1% more damage for every 1 [Sinking] on target (max 15%)\n\n- When, during combat, 1 ally takes damage that would kill them, consume 2 Coffin to apply [WildHunt] to them (<style=\"highlight\">2 times</style> per turn)\n\n- Apply 2 [AttackDmgUp] next turn to the ally with [WildHunt]\n- If the said ally is from Wuthering Heights or Edgar Family, apply 1 [Enhancement] next turn as well",
-      "summary": "Deal more damage based on [Sinking] on target"
+      "name": "Llamado del Erlkönig",
+      "desc": "- Inflige +1% de daño por cada [Sinking] en el objetivo (máx 15%)\n\n- Cuando, durante el combate, 1 aliado recibe daño que lo mataría, gasta 2 [Coffin] para aplicar [WildHunt] a dicho aliado (<style=\"highlight\">2 veces</style> por turno)\n\n- aplica 2 [AttackDmgUp] el siguiente turno al aliado con [WildHunt]\n- Si dicho aliado es de Cumbres Borrascosas o de la Familia Edgar, aplica 1 [Enhancement] el siguiente turno también",
+      "summary": "Inflige más daño basado en [Sinking] en el objetivo"
     },
     {
       "id": 1041001,
-      "name": "Spiderhead/Skullface",
-      "desc": "When hitting an enemy with a Coin that gains [RedEyeFirst]:\n- Deal +([RedEyeFirst]/2)% more damage\n- If the target has [Laceration], gain 1 [RedEyeFirst] (3 times per turn)\n\nWhen hitting an enemy with a Coin that gains [PenanceFirst]:\n- Deal +([PenanceFirst]/2)% more damage\n- At 20+ SP, gain 1 [PenanceFirst] (3 times per turn)",
-      "summary": "Coins that gain Red Eyes deal more damage; if the target has Bleed, gain 1 Red Eyes\nCoins that gain Penitence deal more damage; at 20+ SP, gain 1 Penitence"
+      "name": "Cabeza de Araña/Cara de Esqueleto",
+      "desc": "Al golpear a un enemigo con una Moneda que gana [RedEyeFirst]:\n-Inflige +([RedEyeFirst]/2)% de daño\n- Si el objetivo tiene [Laceration], gana 1 [RedEyeFirst] (3 veces por turno)\n\nAl golpear a un enemigo con una Moneda que gana [PenanceFirst]:\n- Inflige +([PenanceFirst]/2)% de daño\n- Con 20+ PC, gana 1 [PenanceFirst] (3 veces por turno)",
+      "summary": "Monedas que ganan [RedEyeFirst] infligen más daño; si el objetivo tiene [Laceration], gana 1 [RedEyeFirst]\nMonedas que ganan [PenanceFirst] infligen más daño; Con 20+ PC, gana 1 [PenanceFirst]"
     },
     {
       "id": 1041011,
-      "name": "Spiderhead/Skullface",
-      "desc": "When hitting an enemy with a Coin that gains [RedEyeFirst]:\n- Deal +([RedEyeFirst]/2)% more damage\n<style=\"highlight\">- If this unit's Speed is faster than the target's by 3 or more, deal an additional +([RedEyeFirst]/2)% more damage</style>\n- If the target has [Laceration], gain 1 [RedEyeFirst] (3 times per turn)\n\nWhen hitting an enemy with a Coin that gains [PenanceFirst]:\n- Deal +([PenanceFirst]/2)% more damage\n<style=\"highlight\">- If the target's SP is lower than this unit's, deal an additional +([PenanceFirst]/2)% more damage(targets without SP: their SP counts as 0)</style>\n- At 20+ SP, gain 1 [PenanceFirst] (3 times per turn)\n\n<style=\"highlight\">When hit by an enemy, gain 1 [PenanceFirst] (max 3)</style>",
-      "summary": "Coins that gain Red Eyes deal more damage; if the target has Bleed, gain 1 Red Eyes\nCoins that gain Penitence deal more damage; at 20+ SP, gain 1 Penitence\nWhen hit by an enemy, gain 1 Penitence (max 3)"
+      "name": "Cabeza de Araña/Cara de Esqueleto",
+      "desc": "Al golpear a un enemigo con una Moneda que gana [RedEyeFirst]:\n- Inflige +([RedEyeFirst]/2)% de daño\n<style=\"highlight\">- Si la velocidad de esta unidad es mayor que la del objetivo por 3 o más, influge +([RedEyeFirst]/2)% de daño adicional</style>\n- Si el objetivo tiene [Laceration], gana 1 [RedEyeFirst] (3 veces por turno)\n\nAl golpear a un enemigo con una Moneda que gana [PenanceFirst]:\n- Inflige +([PenanceFirst]/2)% de daño\n<style=\"highlight\">- Si los PC del objetivo son menores que los de esta unidad, inflige +([PenanceFirst]/2)% de daño adicional(objetivos sin PC: sus PC cuentan como 0)</style>\n- Con 20+ PC, gana 1 [PenanceFirst] (3 veces por turno)\n\n<style=\"highlight\">Al ser golpeada por un enemigo, gana 1 [PenanceFirst] (máx 3)</style>",
+      "summary": "Monedas que ganan [RedEyeFirst] infligen más daño; si el objetivo tiene [Laceration], gana 1 [RedEyeFirst]\nMonedas que ganan [PenanceFirst] infligen más daño; at 20+ SP, gana 1 [PenanceFirst]\nAl ser golpeada por un enemigo, gana 1 [PenanceFirst] (máx 3)"
     },
     {
       "id": 1041002,
-      "name": "E.G.O Assimilation",
-      "desc": "When gaining [Charge] Count, gain [RedEyeFirst] or [PenanceFirst] instead\n- [RedEyeFirst] and [PenanceFirst] are unaffected by [Charge] Potency",
-      "summary": "When gaining Charge Count, gain Red Eyes or Penitence instead"
+      "name": "Asimilación E.G.O",
+      "desc": "Al ganar Contador de [Charge], gana [RedEyeFirst] o [PenanceFirst] en su lugar\n- [RedEyeFirst] y [PenanceFirst] no son afectados por Potencia de [Charge]",
+      "summary": "Al ganar Contador de [Charge], gana [RedEyeFirst] o [PenanceFirst] en su lugar"
     },
     {
       "id": 1041021,
-      "name": "Eat and Sleep",
-      "desc": "Combat Start:\n- 1 ally with the lowest HP percentage heals 3 HP\n- 1 ally with the least SP heals 3 SP",
-      "summary": "Heal HP for 1 ally with the lowest HP percentage, heal SP for 1 ally with the least SP"
+      "name": "Come y Duerme",
+      "desc": "Combat Start:\n- 1 aliado con el menor porcentaje de HP cura 3 HP\n- 1 aliado con los menores PC cura 3 PC",
+      "summary": "Cura HP para 1 aliado con el menor porcentaje de HP, cura PC para 1 aliado con los menores PC"
     },
     {
       "id": 1011001,
-      "name": "Fire.IShallFire.",
-      "desc": "When this unit gains [BulletLament], gain 2 [Agility] next turn (once per turn)",
-      "summary": "When this unit gains Ammo, gain Agility next turn"
+      "name": "Dispara.VoyADisparar.",
+      "desc": "Cuando esta unidad gana [BulletLament], gana 2 [Agility] el siguiente turno (una vez por turno)",
+      "summary": "Cuando esta unidad gana Munición, gana [Agility] el siguiente turno"
     },
     {
       "id": 1011002,
-      "name": "ISeeTheDyingButterfly.",
-      "desc": "Begin encounters with 10 of each of [BulletLament]\n\nWhen consuming [BulletLament], select randomly between The Living(Potency) and The Departed(Count) for each [BulletLament] value.\n\nWhen inflicting [SinkingWhite], inflict the same amount of The Living and The Departed as they were consumed. Example below:\n- If this unit consumed X Living, inflict X Living\n- If this unit consumed Y Departed, inflict Y Departed\n\nIf this unit runs out of [BulletLament] midway through Skill use, cancel all subsequent Coins and [ReloadLament]\n\nWhen [ReloadLament]ing, or when gaining [BulletLament], gain either The Living or The Departed based on this unit's current SP\n- At 0 or higher SP: 30% chance to gain The Living; 70% chance to gain The Departed.\n- At less than 0 SP: 70% chance to gain The Living; 30% chance to gain The Departed.\n- The probabilities are calculated separately for each ammo consumed.",
-      "summary": "Reloads if this unit runs out of Ammo midway through Skill use"
+      "name": "ObservoUnaMariposaAgonizante.",
+      "desc": "Empieza los encuentros con 10 [BulletLament]\n\nAl gastar [BulletLament], selecciona aleatoriamente entre Las Vivas(Potencia) y Las Difuntas(Contador) por cada valor de [BulletLament].\n\nAl infligir [SinkingWhite], inflige la misma cantidad de Las Vivas y Las Muertas como fueron gastadas. Ejemplo:\n- Si esta unidad gastó X Vivas, inflige X Vivas\n- Si esta unidad gastó Y Difuntas, inflige Y Difuntas\n\nSi esta unidad se queda sin [BulletLament] en medio de usar una Habilidad, cancela todas las Monedas subsiguientes y [ReloadLament]\n\nAl [ReloadLament], o al ganar [BulletLament], gana Las Vivas o Las Difuntas basado en los PC actuales de esta unidad\n- Con 0 o más PC: 30% de probabilidad de ganar Las Vivas; 70% de probabilidad de ganar Las Difuntas.\n- Con menos de 0 PC: 70% de probabilidad de ganar Las Vivas; 30% de probabilidad de ganar Las Difuntas.\n- Las probabilidades son calculadas por separado por cada Munición gastada.",
+      "summary": "Recarga si esta unidad se queda sin Munición en medio de usar una Habilidad"
     },
     {
       "id": 1011011,
-      "name": "Fire.IShallFire.",
-      "desc": "After Attack: if this unit killed the target with its Skill, [ReloadLament]\nWhen this unit gains [BulletLament], gain 2 [Agility] next turn (once per turn)",
-      "summary": "When this unit gains Ammo, gain Agility next turn. Reload On Kill."
+      "name": "Dispara.VoyADisparar.",
+      "desc": "Desués de Atacar: si esta unidad mató al objetivo con su Habilidad, [ReloadLament]\nCuando esta unidad gana [BulletLament], gana 2 [Agility] el siguiente turno (una vez por turno)",
+      "summary": "Cuando esta unidad gana Munición, gana [Agility] el siguiente turno. Recarga Al Matar."
     },
     {
       "id": 1011021,
-      "name": "Hand of Salvation",
-      "desc": "When an ally hits with a Skill, consume 2 [Sinking] on the target to inflict them with 1 [SinkingWhite] (3 times per turn)",
-      "summary": "Convert target's Sinking into Butterfly"
+      "name": "Mano Salvadora",
+      "desc": "Cuando un aliado golpea con una Habilidad, absorbe 2 de [Sinking] en el objetivo para infligirles 1 [SinkingWhite] (3 veces por turno)",
+      "summary": "Convierte el [Sinking] del objetivo en [Butterfly]"
     },
     {
       "id": 1091001,
-      "name": "Speedy Delivery",
-      "desc": "Turn Start: At 6+ Speed, or if this unit has [Agility], gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield (max 15%)\n\nUpon Retreat, apply 1 [ParryingResultUp] to 2 allies next turn (prioritizes Substituted units first, then in Deployment order)",
-      "summary": "Gain ([DevyatDimensionalSack]/2)% of this unit's max HP as Shield\nUpon Retreat, apply 1 [ParryingResultUp] to 2 random allies"
+      "name": "Reparto Rápido",
+      "desc": "Inicio de Turno: Con 6+ Velocidad, o si esta unidad tiene [Agility], gana ([DevyatDimensionalSack]/2)% del HP Máx de esta unidad como Escudo (máx 15%)\n\nTras Retirada, aplica 1 [ParryingResultUp] a 2 aliados el siguiente turno (prioriza unidades Sustituidas primero, Después en orden de Despliegue)",
+      "summary": "gana ([DevyatDimensionalSack]/2)% del HP Máx de esta unidad como Escudo\nTras Retirada, aplica 1 [ParryingResultUp] a 2 aliados aleatorios"
     },
     {
       "id": 1091011,
-      "name": "Speedy Delivery",
-      "desc": "Turn Start: At 6+ Speed, or if this unit has [Agility], gain <style=\"highlight\">([DevyatDimensionalSack])%</style> of this unit's max HP as Shield (max <style=\"highlight\">20%</style>)\n\nUpon Retreat, apply 1 [ParryingResultUp] to 2 allies next turn (prioritizes Substituted units first, then in Deployment order)\n<style=\"highlight\">- Lasts for 1 additional turn for every 15 [DevyatDimensionalSack] on self (2 more turns max)</style>",
-      "summary": "Gain ([DevyatDimensionalSack])% of this unit's max HP as Shield\nUpon Retreat, apply 1 [ParryingResultUp] to 2 random allies"
+      "name": "Reparto Rápido",
+      "desc": "Inicio de Turno: Con 6+ Velocidad, o si esta unidad tiene [Agility], gana <style=\"highlight\">([DevyatDimensionalSack])%</style> del HP Máx de esta unidad como Escudo (máx <style=\"highlight\">20%</style>)\n\nTras Retirada, aplica 1 [ParryingResultUp] a 2 aliados el siguiente turno (prioriza unidades Sustituidas primero, Después en orden de Despliegue)\n<style=\"highlight\">- Dura por 1 turno adicional por cada 15 [DevyatDimensionalSack] en sí misma (2 turnos más máx)</style>",
+      "summary": "gana ([DevyatDimensionalSack])% del HP Máx de esta unidad como Escudo\nTras Retirada, aplica 1 [ParryingResultUp] a 2 aliados aleatorios"
     },
     {
       "id": 1091002,
-      "name": "Lemme go and I swear I'll make it in time!",
-      "desc": "<For Chain Battles> When, after Retreating with '[Retreat]', if this unit rejoins the battle, halve the [DevyatDimensionalSack] value (once per Encounter, rounded up)",
-      "summary": "Halve the [DevyatDimensionalSack] value"
+      "name": "¡Dejame ir y juro que llegaré a tiempo!",
+      "desc": "<Para Batallas en Cadena> Cuando, tras Retirarse con '[Retreat]', si esta unidad se reincorpora a la batalla, reduce el valor de [DevyatDimensionalSack] a la mitad (una vez por Encuentro, redondeado hacia arriba)",
+      "summary": "Reduce el valor de [DevyatDimensionalSack] a la mitad"
     },
     {
       "id": 1091021,
-      "name": "Outstanding Courier",
-      "desc": "To 1 ally with the fastest Speed: Clash Power +1 to Skills that apply [Burst] Potency or Count",
-      "summary": "Skills that apply [Burst] Potency or Count gain Clash Power +1"
+      "name": "Mensajero Sin Igual",
+      "desc": "A 1 aliado con la Velocidad más alta: Poder de Choque +1 a Habilidades que aplican Potencia o Contador de [Burst]",
+      "summary": "Habilidades que aplican Potencia o Contador de [Burst] ganan Poder de Choque +1"
     },
     {
       "id": 1081001,
-      "name": "Shock-nullifying Greatsword",
-      "desc": "At Combat Start, gain [DefenseUp] equal to [Vibration] Count on self (max 5)"
+      "name": "Gran Espada Nulificadora de Shock",
+      "desc": "Al Inicio de Combate, gana [DefenseUp] igual a Contador de [Vibration] en sí misma (máx 5)"
     },
     {
       "id": 1081011,
-      "name": "Shock-nullifying Greatsword",
-      "desc": "At Combat Start, gain [DefenseUp] equal to [Vibration] Count on self (max 5)\n- If this unit is in [DefensiveStance], double the amount of [DefenseUp] gained from the above effect."
+      "name": "Gran Espada Nulificadora de Shock",
+      "desc": "Al Inicio de Combate, gana [DefenseUp] igual a Contador de [Vibration] en sí misma (máx 5)\n- Si esta unidad está en [DefensiveStance], duplica la cantidad de [DefenseUp] gana con el efecto anterior."
     },
     {
       "id": 1081021,
-      "name": "Emergency Protection",
-      "desc": "At Combat Start, compare each Identity's current HP to their HP at the start of the previous turn. Then, apply 2 [DefenseUp] to the Identity with the greatest disparity of HP values between turns."
+      "name": "Protección de Emergencia",
+      "desc": "Al Inicio de Combate, compara el HP actual de cada identidad con su HP al inicio del turno anterior. Después, aplica 2 [DefenseUp] a la identidad con la mayor diferencia en sus valores de HP entre los turnos."
+    },
+    {
+      "id": 1101001,
+      "name": "Begin Protection Mission",
+      "desc": "At Combat Start, gain [DefenseUp] equal to [Vibration] Count on self (max 5)"
+    },
+    {
+      "id": 1101021,
+      "name": "Contract Target Protection",
+      "desc": "Turn End: apply 1 [Agility] and 3 [DefenseUp] to 1 ally with the lowest HP percentage next turn"
+    },
+    {
+      "id": 1051101,
+      "name": "Duel Livestream",
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)",
+      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn"
+    },
+    {
+      "id": 1051111,
+      "name": "Duel Livestream",
+      "desc": "Gain 1 [Agility] next turn for every 3 [Breath] Potency on self at Turn End (max 2)\nOn Hit with base Attack Skills: inflict [ConcentratedAttackMeursault] next turn. (once per Skill)\n<style=\"highlight\">If this unit attacked the Slot with [ConcentratedAttackMeursault] and defeated its owner or broke the Part, heal 7 SP</style>",
+      "summary": "Turn End: gain [Agility] based on [Breath] Count on self. On Hit with a base Skill, inflict [ConcentratedAttackMeursault] next turn. Heals SP On Kill"
+    },
+    {
+      "id": 1051121,
+      "name": "One Step Ahead",
+      "desc": "The fastest ally, on Clash Win, gains 1 [Agility] next turn (2 times per turn)",
+      "summary": "The fastest ally, on Clash Win, gains 1 [Agility] next turn"
     }
   ]
 }

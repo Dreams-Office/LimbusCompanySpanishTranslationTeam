@@ -1,0 +1,840 @@
+{
+    "dataList": [
+        {
+            "id": 9015201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Apuñalamiento de Sangre Cristalizada",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tajo de Sangre Cristalizada",
+                    "desc": "[WhenUse] Si el objetivo tiene 8+ de [Laceration], realiza +20% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Con 6+ de [Laceration], gana 1 [HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] GGana 8 de [Laceration] y 1 [BloodScissor]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tajo Poderoso de Sangre Cristalizada",
+                    "desc": "[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder Base +1\nInflige +5% de daño por cada [HardenedBlood] (máx 25%)\n[EndSkill] Consume toda la [HardenedBlood] y [BloodScissor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura ([Laceration] en el objetivo)% de HP (máx 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contraataque",
+                    "desc": "[WhenUse] Poder Base +1 por cada [HardenedBlood] en sí",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cuña de Sangre Cristalizada",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Corte de Sangre Cristalizada",
+                    "desc": "[WhenUse] Si el objetivo tiene 4+ de [Laceration], inflige +10% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Con 6+ de [Laceration], gana 1 [HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 8 de [Laceration] y 1 [BloodScissor]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Corte Potente de Sangre Cristalizada",
+                    "desc": "[WhenUse] Si el objetivo tiene 6+ Contador de [Laceration], Poder Base +1\nInflige +5% de daño por cada [HardenedBlood] (máx 25%)\n[EndSkill] Consume toda la [HardenedBlood] y [BloodScissor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura ([Laceration] en el objetivo)% de HP (máx 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contraataque",
+                    "desc": "[WhenUse] Poder Base +1 por cada [HardenedBlood] en sí",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Es un Festival, un Festival!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vamos A Vestirnos",
+                    "desc": "[WhenUse] Si el objetivo tiene 6+ de [Laceration], inflige +20% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Laceration], gana 1 [HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Tenemos Un Evento Para Ti!",
+                    "desc": "[WhenUse] Consume hasta 50 [BloodDinner]; gana 1 [BloodScissor] y cura 3 PC por cada 10 [BloodDinner] consumidos\n[WhenUse] Si esta unidad falló en consumir [BloodDinner] con esta Habilidad, gana 5 de [Laceration] y 1 [HardenedBlood].n[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Me Apresures",
+                    "desc": "[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada [BloodScissor] (max 3)\nInflige +7% de daño por cada [HardenedBlood] (máx 35%)\n[EndSkill] Consume toda la [HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 8 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Consume hasta 5 [BloodScissor] e inflige +(20 * [BloodScissor] consumidas)% de daño (máx 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura (Potencia de [Laceration] en el objetivo)% de HP (máx 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contraataque",
+                    "desc": "[WhenUse] Con 1+ [BloodScissor], Poder Base +1\n[WhenUse] Con 3+ [HardenedBlood], Poder de Moneda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Más, Más!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tomaré un Poco Más",
+                    "desc": "[WhenUse] Si el objetivo tiene 4+ de [Laceration], inflige +10% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Laceration], gana 1 [HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Qué Sabor Tan Celestial!",
+                    "desc": "[WhenUse] Consume hasta 50 [BloodDinner]; gana 1 [BloodScissor] y cura 3 PC por cada 10 [BloodDinner] consumidos\n[WhenUse] Si esta unidad falló en consumir [BloodDinner] con esta Habilidad, gana 5 de [Laceration] y 1 [HardenedBlood].\n[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Rata Bastarda!",
+                    "desc": "[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada [BloodScissor] (máx 3)\nInflige +7% de daño por cada [HardenedBlood] (máx 35%)\n[EndSkill] Consume toda la [HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Consume hasta 5 [BloodScissor] e inflige +(20 * [BloodScissor] consumidas)% de daño (máx 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura (Potencia de [Laceration] en el objetivo)% de HP (máx 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contraataque",
+                    "desc": "[WhenUse] Con 1+ [BloodScissor], Poder Base +1\n[WhenUse] Con 3+ [HardenedBlood], Poder de Moneda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aplastar",
+                    "desc": "Si el objetivo tiene 5+ de [Burst], inflige +10% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [DefenseDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aplastar Heridas",
+                    "desc": "Si el objetivo tiene 5+ de [Burst], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [TakeHpHealReduce]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Burst], inflige 1 [TakeHpHealReduce] también"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Golpes Salvajes",
+                    "desc": "[WhenUse] Si el objetivo tiene 10+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Burst], inflige +30% de daño"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hemostasia",
+                    "desc": "[WhenUse] Si el objetivo tiene [Laceration], pierde 2 de [Laceration] (no cae debajo de 1)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aplastar",
+                    "desc": "Si el objetivo tiene 3+ Contador de [Burst], inflige +10% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [DefenseDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aplastar Heridas",
+                    "desc": "Si el objetivo tiene 3+ Contador de [Burst], Poder Base +1 ",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [TakeHpHealReduce]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Burst], inflige 1 [TakeHpHealReduce] también"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Oscilación Salvaje",
+                    "desc": "[WhenUse] Si el objetivo tiene 10+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflict 3 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Burst], inflige +30% de daño"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hemostasia",
+                    "desc": "[WhenUse] Si esta unidad tiene [Laceration], pierde 2 de [Laceration] (no cae debajo de 1)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pura Villanía",
+                    "desc": "[WhenUse] Gana 2 de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [Paralysis]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Inflige +20% de daño"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Intimidación",
+                    "desc": "[WhenUse] Gana 2 de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Si el objetivo tiene [TrulyWeak], inflige +30% de daño"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "\"Grrr...\"",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "\"Krrr...\"",
+                    "desc": "Si el objetivo tiene 5+ [Laceration], inflige +10% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Escuchame, esto es una... Hahh... \"Grrrr.\"",
+                    "desc": "Si el objetivo tiene 5+ [Laceration], Poder de Moneda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...",
+                    "desc": "[WhenUse] Gana 1 [Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Che, ¿podemos parar ya?",
+                    "desc": "[WhenUse] Gana 1 [Enhancement] el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
