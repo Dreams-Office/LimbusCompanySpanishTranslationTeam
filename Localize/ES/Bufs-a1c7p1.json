@@ -24,14 +24,14 @@
     {
       "id": "BloodDinner",
       "name": "Festín de Sangre",
-      "desc": "- Valor Máx: 999\n- Guarda todo el daño de Sangrado infligido en esta zona\n- Se reinicia al moverse a una zona diferente\n- Este valor es compartido entre todos los personajes",
+      "desc": "- Valor Máx: 999\n- Guarda todo el daño de Sangrado infligido en esta zona\n- Se reinicia al moverse a una zona diferente\n- Este valor es compartido entre todos los personajes\n- Si hay algún Vástago de alto rango entre los aliados que también consume Festín de Sangre, esta unidad no puede consumir Festín de Sangre hasta que el aliado lo consuma primero",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodDinner_Accumulation",
-      "name": "Total de Festín de Sangre Consumido",
-      "desc": "- Valor Máx: 999\n- Total de Festín de Sangre consumido en este Encuentro: {0}",
+      "name": "Festín de Sangre Consumido",
+      "desc": "- Valor Máx: 999\n- Festín de Sangre consumido en este Encuentro: {0}",
       "summary": "",
       "undefined": "-"
     },
@@ -108,7 +108,7 @@
     {
       "id": "StarvingBarberTwo",
       "name": "Marchita",
-      "desc": "- Sedienta de sangre desde hace mucho, mucho tiempo.\n- Pierde 22 Nivel Ofensivo\n- Pierde 22 Nivel Defensivo",
+      "desc": "- Sedienta de sangre desde hace mucho, mucho tiempo.\n- Pierde 25 Nivel Ofensivo\n- Pierde 25 Nivel Defensivo",
       "summary": "",
       "undefined": "-"
     },

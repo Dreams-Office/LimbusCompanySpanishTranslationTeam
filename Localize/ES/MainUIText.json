@@ -1238,7 +1238,7 @@
     },
     {
       "id": "announcer_selection_description",
-      "content": "※ Si Seleccionas 2 o más Anunciadores a la vez, Los dialogos usados seran escogidos aleatoriamente. (Hasta 5)"
+      "content": "※ Si Seleccionas 2 o más Anunciadores a la vez, Los dialogos usados seran escogidos aleatoriamente. (Hasta 10)"
     },
     {
       "id": "panic_type",
@@ -1767,6 +1767,30 @@
     {
       "id": "mainui_ask_use_personality_level_ticket_disadvantage",
       "content": "Al usar este ticket en tu progreso actual de la historia elevará el nivel de tu Identidad al {1} en vez del {0}, y toda la experiencia no utilizada en el proceso se perderá.\n\n¿Usarás el ticket de todas formas?"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_title",
+      "content": "Luxcavción de EXP #7 (Cortante)"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_open_day",
+      "content": "Luxcavción de EXP #7 (Cortante) Abre los LUN, MAR, y DOM."
+    },
+    {
+      "id": "mainui_exp_dungeon_8_title",
+      "content": "Luxcavción de EXP #7 (Perforante)"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_open_day",
+      "content": "Luxcavción de EXP #7 (Perforante) Abre los MIER, JUE, y DOM."
+    },
+    {
+      "id": "mainui_exp_dungeon_9_title",
+      "content": "Luxcavción de EXP #7 (Contundente)"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_open_day",
+      "content": "Luxcavción de EXP #7 (Contundente) Abre los VIE, SÁB, y DOM."
     }
   ]
 }
