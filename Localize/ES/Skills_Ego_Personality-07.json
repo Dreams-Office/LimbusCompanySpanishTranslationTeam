@@ -1,6 +1,401 @@
 {
   "dataList": [
     {
+      "id": 2070111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Saco para Cadaveres",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Saco para Cadaveres",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Saco para Cadaveres",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 [Agility] el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKill] Gana 2 Poder de Ataque Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "Gasta 5 Contador de [Charge] para ganar +3 Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana +3 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[WhenUse] Gana Contador de [Charge] por Reson. de Envidia.\nGasta 5 Contador de [Charge] para ganar +3 Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana +5 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[WhenUse] Gana Contador de [Charge] por Reson. de Envidia.\nGasta 5 Contador de [Charge] para ganar +3 Poder de Habilidad (Máx 12)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Gana +5 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[CantIdentify] Selecciona objetivo aleatoriamente\nGasta todo el Contador de [Charge] para ganar +6 Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 3 Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[CantIdentify] Selecciona objetivo aleatoriamente\n[WhenUse] Gana Contador de [Charge] por Reson. de Envidia.\nGasta todo el Contador de [Charge] para ganar +10 Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 3 Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[CantIdentify] Selecciona objetivo aleatoriamente\n[WhenUse] Gana Contador de [Charge] por Reson. de Envidia.\nGasta todo el Contador de [Charge] para ganar +15 Poder de Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 3 Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[BeforeAttack] Gana +1 Contador de [Charge] por cada 10% de HP faltante (Máx 5)\nGana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[BeforeAttack] Gana +1 Contador de [Charge] por cada 10% de HP faltante (Máx 7)\nGana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis y 1 Fragilidad a la Melancolía"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Gana +1 Contador de [Charge] por cada 10% de HP faltante (Máx 5)\nGana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta todo el Contador de [Charge] para infligir daño de Melancolía adicional por (Contador de [Charge] * 1.5)% del daño infligido (Máx 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Pierde 10% de su HP Máx para ganar +7 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Gana +1 Contador de [Charge] por cada 10% de HP faltante (Máx 7)\nGana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta todo el Contador de [Charge] para infligir daño de Melancolía adicional por (Contador de [Charge] * 2.5)% del daño infligido (Máx 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Pierde 10% de su HP Máx para ganar +10 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Gana +1 Contador de [Charge] por cada 10% de HP faltante (Máx 7)\nGana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta todo el Contador de [Charge] para infligir daño de Melancolía adicional por (Contador de [Charge] * 2.5)% de daño (Máx 50%)"
+                },
+                {
+                  "desc": "[EndSkill] Gasta todo el Contador de [Charge]"
+                },
+                {
+                  "desc": "[EndSkillTail] Pierde 10% de su HP Máx para ganar +10 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido al siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Cura 12 PC a otros 4 aliados con los menores PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Cura 17 PC a otros 4 aliados con los menores PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Cura 25 PC a otros 4 aliados con los menores PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [DefenseDown] a 1 aliado aleatorio"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 [DefenseUp] el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Daño Aumentado el siguiente turno."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [DefenseDown] a 1 aliado aleatorio"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 [DefenseUp] el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Daño Aumentado el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Cura 4 PC asi mismo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [DefenseDown] a 1 aliado aleatorio"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 [DefenseUp] el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 Daño Aumentado el siguiente turno."
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Cura 4 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1 Frágil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2070511,
       "levelList": [
         {
@@ -274,10 +669,10 @@
                   "desc": "+5% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 35%)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 3 [Sinking]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Sinking]"
                 },
                 {
                   "desc": "[CriticalTargetKill] Si esta unidad tiene el efecto [Bullet], gana 1 [Bullet] (2 veces por Encuentro)"

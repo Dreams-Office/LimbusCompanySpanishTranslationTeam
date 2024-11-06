@@ -195,6 +195,10 @@
     {
       "id": "serverstate_error_thirdparty_api",
       "content": "Error de conexión externa al servidor. Por favor intente de nuevo más tarde."
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "Transacción fallida."
     }
   ]
 }

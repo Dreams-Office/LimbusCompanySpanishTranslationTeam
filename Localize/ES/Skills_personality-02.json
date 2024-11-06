@@ -840,6 +840,239 @@
       ]
     },
     {
+      "id": 1020601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Análisis Predictivo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Análisis Predictivo",
+          "desc": "Si el objetivo tiene 3+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Análisis Predictivo",
+          "desc": "Poder de Moneda +1 por cada 3 de [Burst] en el objetivo (Máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Disecar Objetivo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Disecar Objetivo",
+          "desc": "Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Poder de Moneda +1\n[WinDuel] Inflige +3 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Disecar Objetivo",
+          "desc": "Poder de Moneda +1 por cada 6 de [Burst] en el objetivo (Máx 2)\n[WinDuel] Inflige +3 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 6+ de <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Ruptura</color></link></u>, Inflige Debilidad Analizada el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Perfilando",
+          "desc": "[WhenUse] inflige +10% de daño extra por cada 3 de [Burst] en el objetivo (Máx 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Si el objetivo está Aturdido o derrotado, gana 1 [Agility], 1 Daño Cortante Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Perfilando",
+          "desc": "[WhenUse] inflige +10% de daño extra por cada 3 de [Burst] en el objetivo (Máx 50%)\n[WinDuel] Inflige +2 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] si el objetivo está Aturdido o derrotado, gana 1 [Agility], 1 Daño Cortante Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1020604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Recapitulemos",
+          "desc": "[WhenUse] Gana 1 [Agility] el siguiente turno (3 veces por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Recapitulemos",
+          "desc": "[WhenUse] Gana 1 [Agility] el siguiente turno (3 veces por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 1020701,
       "levelList": [
         {
@@ -906,7 +1139,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 [OffenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [AttackDown] el siguiente turno"
                 }
               ]
             },
@@ -931,7 +1164,7 @@
                   "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 [OffenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [AttackDown] el siguiente turno"
                 }
               ]
             },
@@ -959,7 +1192,7 @@
                   "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Vibration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [OffenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 [AttackDown] el siguiente turno"
                 }
               ]
             },
@@ -1210,7 +1443,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Dispersión de Flores de Rojas Ciruelo",
+          "name": "Dispersión de Flores Rojas de Ciruelo",
           "desc": "Inflige +3% de daño por cada [RedApricotBlossom] en el objetivo\n[WinDuel] Gasta la mitad del Contador de [Breath] en sí, tras esto gana [Breath] igual al Contador de [Breath] gastado. (Máx 10)",
           "coinlist": [
             {
@@ -1231,7 +1464,7 @@
         },
         {
           "level": 4,
-          "name": "Dispersión de Flores de Rojas Ciruelo",
+          "name": "Dispersión de Flores Rojas de Ciruelo",
           "desc": "Inflige +3% de daño por cada [RedApricotBlossom] en el objetivo\n<style=\"highlight\">Poder de Moneda +1 por cada 7 de [Breath] en sí (Máx 3)</style>\n[WinDuel] Gasta la mitad del Contador de [Breath] en sí, tras esto gana [Breath] igual al Contador de [Breath] gastado. (Máx 10)\n<style=\"highlight\">Esta Habilidad no consume [RedApricotBlossom] en Golpe Crítico</style>",
           "coinlist": [
             {

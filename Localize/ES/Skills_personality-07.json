@@ -250,7 +250,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clavado Descuidado",
+          "name": "Clavado Desganado",
           "desc": "",
           "coinlist": [
             {
@@ -271,7 +271,7 @@
         },
         {
           "level": 2,
-          "name": "Clavado Descuidado",
+          "name": "Clavado Desganado",
           "desc": "",
           "coinlist": [
             {
@@ -295,7 +295,7 @@
         },
         {
           "level": 4,
-          "name": "Clavado Descuidado",
+          "name": "Clavado Desganado",
           "desc": "",
           "coinlist": [
             {
@@ -360,7 +360,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Retribución Enfermiza",
+          "name": "Retribución Enclenque",
           "desc": "",
           "coinlist": [
             {
@@ -918,7 +918,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Recapitulación",
+          "name": "Conclusión",
           "desc": "",
           "coinlist": [
             {
@@ -932,7 +932,7 @@
         },
         {
           "level": 2,
-          "name": "Recapitulación",
+          "name": "Conclusión",
           "desc": "[WinDuel] Inflige +1 Contador de [Burst]",
           "coinlist": [
             {
@@ -949,7 +949,7 @@
         },
         {
           "level": 4,
-          "name": "Recapitulación",
+          "name": "Conclusión",
           "desc": "[WinDuel] Inflige +1 Contador de [Burst]",
           "coinlist": [
             {
@@ -1915,7 +1915,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "O Dullahan...!",
+          "name": "¡Oh Dullahan...!",
           "desc": "[DuelCounter]\n[StartBattle] Si esta unidad no tiene [NightPathfinding], gana 1 [NightPathfinding] el siguiente turno (una vez por turno)\n[EndBattle] Si esta unidad tiene [NightPathfinding], pierde [NightPathfinding]",
           "coinlist": [
             {},
@@ -1930,7 +1930,7 @@
         },
         {
           "level": 3,
-          "name": "O Dullahan...!",
+          "name": "¡Oh Dullahan...!",
           "desc": "[DuelCounter]\n<style=\"highlight\">[BeforeUse] Si esta unidad tiene [NightPathfinding] y tiene 15+ PC, usa 'Lamento, Duelo y Desesperación' como Contraataque (una vez por turno)</style>\n[StartBattle] Si esta unidad no tiene [NightPathfinding], gana 1 [NightPathfinding] el siguiente turno (una vez por turno)\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Sinking], Poder de Moneda +1</style>\n[EndBattle] Si esta unidad tiene [NightPathfinding], pierde [NightPathfinding]",
           "coinlist": [
             {},
@@ -1945,7 +1945,7 @@
         },
         {
           "level": 4,
-          "name": "O Dullahan...!",
+          "name": "¡Oh Dullahan...!",
           "desc": "[DuelCounter]\n[BeforeUse] Si esta unidad tiene [NightPathfinding] y tiene 15+ PC, usa 'Lamento, Duelo y Desesperación' como Contraataque (una vez por turno)\n[StartBattle] Si esta unidad no tiene [NightPathfinding], gana 1 [NightPathfinding] el siguiente turno (una vez por turno)\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 3 [Sinking] en el objetivo (máx 2)</style>\n<style=\"highlight\">[WinDuel] Gana [AttackUp] el siguiente turno igual a (# de Choques/3) (máx 3, una vez por turno)</style>\n[EndBattle] Si esta unidad tiene [NightPathfinding], pierde [NightPathfinding]",
           "coinlist": [
             {},

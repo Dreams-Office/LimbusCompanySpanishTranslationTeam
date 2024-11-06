@@ -1040,7 +1040,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Escupir Hielo",
+          "name": "Lanzar Picahielos",
           "coinlist": [
             {}
           ]
@@ -1988,7 +1988,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -2001,7 +2001,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Powerful Clap",
+          "name": "Aplauso Poderoso",
           "keywords": [
             "Reduction"
           ],
@@ -2009,7 +2009,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -2022,7 +2022,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tail Whip",
+          "name": "Látigo de Cola",
           "keywords": [
             "Vulnerable"
           ],
@@ -2030,7 +2030,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
                 }
               ]
             },
@@ -2050,7 +2050,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing Sac",
+          "name": "Presionando el Saco",
           "keywords": [
             "Binding"
           ],
@@ -2071,7 +2071,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blood Cannon",
+          "name": "Cañón de Sangre",
           "keywords": [
             "Bleeding"
           ],
@@ -2082,7 +2082,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 20de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 20 de Sangrado"
                 }
               ]
             }
@@ -2095,7 +2095,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Clotting",
+          "name": "Coagulación",
           "keywords": [
             "Bleeding"
           ],
@@ -2104,7 +2104,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 30de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 30 de Sangrado"
                 }
               ]
             }
@@ -2135,12 +2135,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Constant Voltage",
+          "name": "Voltaje Constante",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Ruptura el siguiente turno"
                 }
               ]
             }
@@ -2153,19 +2153,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electromotive Pursuit",
+          "name": "Persecución Electromotriz",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 4 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 4 Ruptura el siguiente turno"
                 }
               ]
             }
@@ -2178,7 +2178,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Howl",
+          "name": "Aullido",
           "coinlist": [
             {
               "coindescs": [
@@ -2199,12 +2199,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electrified Howl",
+          "name": "Aullido Electrificado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Ruptura el siguiente turno"
                 }
               ]
             }
@@ -2217,15 +2217,15 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Lightning Rod",
+          "name": "Pararrayos",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Ruptura el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 Ruptura el siguiente turno"
                 }
               ]
             },
@@ -2245,12 +2245,12 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Red Bolts",
+          "name": "Relámpagos Rojos",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 10 Ruptura el siguiente turno"
                 }
               ]
             },
@@ -2270,7 +2270,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Howl",
+          "name": "Aullido",
           "coinlist": [
             {
               "coindescs": [
@@ -2309,20 +2309,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Swipe",
-          "desc": "[WhenUse] Gana 1 Attack Power Up next turn",
+          "name": "Manotazo",
+          "desc": "[WhenUse] Gana 1 de Poder de Ataque Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado y 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado y 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado y 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado y 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -2335,7 +2335,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thwack",
+          "name": "Bofetada",
           "coinlist": [
             {
               "coindescs": [
@@ -2371,8 +2371,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Poison Spray",
-          "desc": "[WhenUse] Lose 6 HP; Gana 5 de Sangrado el siguiente turno",
+          "name": "Rocío Venenoso",
+          "desc": "[WhenUse] Pierde 6 HP; Gana 5 de Sangrado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -2397,8 +2397,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bawkbawbawbawk",
-          "desc": "Targets the unit with the least SP",
+          "name": "¡Cocococooo!",
+          "desc": "Selecciona a la unidad con los menores PC",
           "coinlist": [
             {
               "coindescs": [
@@ -2416,14 +2416,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Babawbawk",
-          "desc": "Targets the unit with the least SP",
+          "name": "¡Cocococooo!",
+          "desc": "Selecciona a la unidad con los menores PC",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] Cura 7 de HP"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Ahogo"
@@ -2439,8 +2439,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keghgh",
-          "desc": "If user doesn’t take damage this turn, apply 2 Attack Power Up to all allies next turn",
+          "name": "¡Cococooo!",
+          "desc": "Si el usuario no recibió daño este turno, aplica 2 Poder de Ataque Aumentado a todos los aliados el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -2452,13 +2452,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Baaawkbawk",
-          "desc": "Targets the unit with the least HP",
+          "name": "¡Cooocooo!",
+          "desc": "Selecciona a la unidad con menos HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil"
                 }
               ]
             }
@@ -2471,14 +2471,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bawkbabawk",
-          "desc": "Targets the unit with the least HP",
+          "name": "¡Cooocorocooo!",
+          "desc": "Selecciona a la unidad con menos HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] Cura 7 de HP"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 5 de Sangrado"
@@ -2494,8 +2494,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgh",
-          "desc": "[OnSucceedEvadir] Target loses 15 SP",
+          "name": "¡Kikiriii!",
+          "desc": "[OnSucceedEvadir] El objetivo pierde 15 PC",
           "coinlist": [
             {}
           ]
@@ -2507,13 +2507,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khghgh!",
-          "desc": "If user took no damage last turn, Coin Power +3",
+          "name": "¡¡Cocorocooo!!",
+          "desc": "Si el usuario no tomó daño el último turno, Poder de Moneda +3",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 Haste next turn"
+                  "desc": "[OnSucceedAttack] Gana 3 de [Agility] el siguiente turno"
                 }
               ]
             }
@@ -2526,17 +2526,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kawkbaawk!",
-          "desc": "If user took no damage last turn, Coin Power +3",
+          "name": "¡¡Kikiriii!!",
+          "desc": "Si el usuario no tomó daño el último turno, Poder de Moneda +3",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] Cura 7 de HP"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -2549,7 +2549,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Krgh!",
+          "name": "¡¡Cocorooo!!",
           "desc": "",
           "coinlist": [
             {}
@@ -2562,13 +2562,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgh",
-          "desc": "Targets the unit with the most HP",
+          "name": "¡Kikiii!",
+          "desc": "Selecciona al objetivo con más HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflige 2 Parálisis"
                 }
               ]
             }
@@ -2581,17 +2581,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khgaawahk",
-          "desc": "Targets the unit with the most HP",
+          "name": "¡Kikirikiii!",
+          "desc": "Selecciona al objetivo con más HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 7 HP"
+                  "desc": "[OnSucceedAttack] Cura 7 de HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
                 }
               ]
             }
@@ -2604,7 +2604,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khk!",
+          "name": "¡Kiriii!",
           "desc": "",
           "coinlist": [
             {}
@@ -2617,7 +2617,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kgh!",
+          "name": "¡¡Kiii!!",
           "desc": "",
           "coinlist": [
             {
@@ -2643,8 +2643,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Krgh!",
-          "desc": "Targets the unit with the least SP",
+          "name": "¡¡Cocooo!!",
+          "desc": "Selecciona a la unidad con los menores PC",
           "coinlist": [
             {
               "coindescs": [
@@ -2662,7 +2662,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Krgh…",
+          "name": "Cocooo...",
           "desc": "",
           "coinlist": [
             {}
@@ -2675,7 +2675,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kgh!",
+          "name": "¡Ki!",
           "desc": "",
           "coinlist": [
             {
@@ -2688,7 +2688,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Tremor"
                 }
               ]
             }
@@ -2701,7 +2701,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khk",
+          "name": "¡Cooo!",
           "desc": "",
           "coinlist": [
             {
@@ -2714,14 +2714,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Paralyze and 5 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Parálisis y 5 Tremor"
                 }
               ]
             },
@@ -2741,8 +2741,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keghgh!",
-          "desc": "Targets the unit with the least SP\n[OnSucceedAttack] Spawn a Raw Chicken",
+          "name": "¡¡Cococooo!!",
+          "desc": "Selecciona a la unidad con los menores PC\n[OnSucceedAttack] Genera un Pollo Crudo",
           "coinlist": [
             {
               "coindescs": [
@@ -2760,8 +2760,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Khghghghgk",
-          "desc": "[WinDuel] Final Power +1",
+          "name": "¡Cococococooo!",
+          "desc": "[WinDuel] Poder Final +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2786,7 +2786,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Keghgh…",
+          "name": "Cococooo...",
           "desc": "",
           "coinlist": [
             {}
@@ -2909,7 +2909,7 @@
         {
           "level": 1,
           "name": "Heated Cries",
-          "desc": "[WinDuel] Gana 1 Haste and 1 Attack Power Up next turn",
+          "desc": "[WinDuel] Gana 1 Haste and 1 Attack Power Up el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -2931,7 +2931,7 @@
         {
           "level": 1,
           "name": "Heated Screams",
-          "desc": "[WinDuel] Gana 1 Haste and 1 Attack Power Up next turn",
+          "desc": "[WinDuel] Gana 1 Haste and 1 Attack Power Up el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3070,7 +3070,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Atadura el siguiente turno"
@@ -3087,13 +3087,13 @@
         {
           "level": 1,
           "name": "Electric Load",
-          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Paralyze",
+          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Parálisis",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
                 }
               ]
             }
@@ -3107,14 +3107,14 @@
         {
           "level": 1,
           "name": "Electric Release",
-          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Paralyze",
+          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Parálisis",
           "coinlist": [
             {},
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
                 }
               ]
             }
@@ -3128,19 +3128,19 @@
         {
           "level": 1,
           "name": "Electric Discharge",
-          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +20% damage to targets with Paralyze",
+          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +20% damage to targets with Parálisis",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis"
                 }
               ]
             }
@@ -3159,7 +3159,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil"
                 }
               ]
             },
@@ -3169,7 +3169,7 @@
                   "desc": "[OnSucceedAttack] If target has Condensador, deal 40% of damage dealt as fixed damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze and 1 Condensador"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis and 1 Condensador"
                 }
               ]
             }
@@ -3202,7 +3202,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
                 }
               ]
             }
@@ -3223,7 +3223,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
                 }
               ]
             }
@@ -3337,7 +3337,7 @@
         {
           "level": 1,
           "name": "Cries Seeking Something",
-          "desc": "[WhenUse] Spawn an Old Umbrella next turn",
+          "desc": "[WhenUse] Spawn an Old Umbrella el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3377,7 +3377,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura y +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura y +2 Ruptura Count el siguiente turno"
                 }
               ]
             }
@@ -3403,14 +3403,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 Rupture next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura y +2 Rupture Count next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura y +2 Ruptura Count el siguiente turno"
                 }
               ]
             }
@@ -3433,7 +3433,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 5 de Atadura el siguiente turno"
@@ -3589,7 +3589,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this attacks Fairy Wine, heal 10% HP next turn, and gana 2 Attack Power Up, 2 Haste, and 2 Protection"
+                  "desc": "[OnSucceedAttack] If this attacks Fairy Wine, heal 10% HP el siguiente turno, and gana 2 Attack Power Up, 2 Haste, and 2 Protection"
                 }
               ]
             }
@@ -3629,7 +3629,7 @@
         {
           "level": 1,
           "name": "Scattering Sorrow",
-          "desc": "[EndSkill] Inflige +2 Rupture Count and +2 Sinking Count to all enemies",
+          "desc": "[EndSkill] Inflige +2 Ruptura Count and +2 Sinking Count to all enemies",
           "coinlist": [
             {}
           ]
@@ -3647,21 +3647,21 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Rupture next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Ruptura el siguiente turno"
                 }
               ]
             }
@@ -3706,7 +3706,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind and 2 Attack Power Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Bind and 2 Attack Power Down el siguiente turno"
                 }
               ]
             }
@@ -3732,7 +3732,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Rupture Count."
+                  "desc": "[OnSucceedAttack] Inflige +3 Ruptura Count."
                 },
                 {
                   "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
@@ -3749,7 +3749,7 @@
         {
           "level": 1,
           "name": "Sink It All",
-          "desc": "[WhenUse] Lose 30 SP and gana 5 Sinking; Gain Corazón Corroído next turn",
+          "desc": "[WhenUse] Lose 30 SP and gana 5 Sinking; Gain Corazón Corroído el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3757,7 +3757,7 @@
                   "desc": "[OnSucceedAttack] Target loses 15 SP."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 8 Sinking and 8 Veneno next turn"
+                  "desc": "[OnSucceedAttack] Inflige 8 Sinking and 8 Veneno el siguiente turno"
                 }
               ]
             }
@@ -3855,7 +3855,7 @@
         {
           "level": 1,
           "name": "Flowering Buds",
-          "desc": "Spawn 2 flowers next turn\nIf there are 4 flowers present, instead raise the level of a lowest-level flower by 1",
+          "desc": "Spawn 2 flowers el siguiente turno\nIf there are 4 flowers present, instead raise the level of a lowest-level flower by 1",
           "coinlist": [
             {
               "coindescs": [
@@ -3926,7 +3926,7 @@
         {
           "level": 1,
           "name": "Must Cover With Dirt",
-          "desc": "[WhenUse] Inflige Dueling next turn",
+          "desc": "[WhenUse] Inflige Dueling el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -3977,7 +3977,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil"
                 }
               ]
             },
@@ -4131,7 +4131,7 @@
         {
           "level": 1,
           "name": "Full Bloom",
-          "desc": "Cannot act\nAt the end of the turn, lose 20 SP\nIf SP reaches -45, fully heal SP, then gain Mente Deslumbrada next turn\nIf this effect isn't removed for 2 turns, remove it at the end of the turn",
+          "desc": "Cannot act\nAt the end of the turn, lose 20 SP\nIf SP reaches -45, fully heal SP, then gain Mente Deslumbrada el siguiente turno\nIf this effect isn't removed for 2 turns, remove it at the end of the turn",
           "coinlist": [
             {}
           ]
@@ -4144,7 +4144,7 @@
         {
           "level": 1,
           "name": "You're Empty As Well",
-          "desc": "[WhenUse] Inflige Marca Vacía next turn",
+          "desc": "[WhenUse] Inflige Marca Vacía el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -4220,14 +4220,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up el siguiente turno"
                 }
               ]
             }
@@ -4279,7 +4279,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it next turn"
+                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it el siguiente turno"
                 }
               ]
             }
@@ -4298,7 +4298,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it next turn"
+                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it el siguiente turno"
                 }
               ]
             },
@@ -4337,7 +4337,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Fragile"
+                  "desc": "[OnSucceedAttack] Inflige 5 Frágil"
                 }
               ]
             }
@@ -4356,7 +4356,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Fragile, 5 Rupture, and 5 Bleed; Heal by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil, 5 Ruptura, and 5 Bleed; Heal by 10% of damage dealt"
                 }
               ]
             }
@@ -4388,14 +4388,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind and 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind and 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind and 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind and 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -4428,7 +4428,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Semillas next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Semillas el siguiente turno"
                 }
               ]
             }
@@ -4499,7 +4499,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Fragile and 10 Bleed\nIf target has Drenaje de Nutrientes, heal 20 HP, and gana 2 Attack Power Up next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 Frágil and 10 Bleed\nIf target has Drenaje de Nutrientes, heal 20 HP, and gana 2 Attack Power Up el siguiente turno"
                 }
               ]
             }
@@ -4630,7 +4630,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Defense Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Defense Down el siguiente turno"
                 }
               ]
             }
@@ -4644,7 +4644,7 @@
         {
           "level": 1,
           "name": "Encroaching Stems",
-          "desc": "[WinDuel] If target has Rupture, inflict +2 de Contador de Ruptura",
+          "desc": "[WinDuel] If target has Ruptura, inflict +2 de Contador de Ruptura",
           "coinlist": [
             {
               "coindescs": [
@@ -4703,7 +4703,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Paralyze"
+                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Parálisis"
                 },
                 {
                   "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
@@ -4725,7 +4725,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Bind next turn"
+                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Bind el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 Bleed"
@@ -4771,7 +4771,7 @@
         {
           "level": 1,
           "name": "Casting Shade",
-          "desc": "[WhenUse] Spawn a Giant Clover next turn\n[WhenUse] Deal +5% damage per Bleed Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
+          "desc": "[WhenUse] Spawn a Giant Clover el siguiente turno\n[WhenUse] Deal +5% damage per Bleed Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
           "coinlist": [
             {
               "coindescs": [

@@ -1,6 +1,362 @@
 {
   "dataList": [
     {
+      "id": 2120111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "De repente, Un Día",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de un estado aleatorio entre [Combustion], [Laceration], [Vibration], [Burst] y [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "De repente, Un Día",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de un estado aleatorio entre [Combustion], [Laceration], [Vibration], [Burst] y [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "De repente, Un Día",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de un estado aleatorio entre [Combustion], [Laceration], [Vibration], [Burst] y [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Parálisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Gusanos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prestidigitación",
+          "abName": "Manzana Dorada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 Gusanos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por 40% del daño infligido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por 60% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "[CantIdentify] \nSelecciona a la unidad con el mayor HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por 20% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "[CantIdentify] \nSelecciona a la unidad con el mayor HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 5 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[BeforeAttack] Gana +5 Contador de [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Descarga Chispeante"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[BeforeAttack] Gana +7 Contador de [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 Descarga Chispeante"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[BeforeAttack] Gana +10 Contador de [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 Descarga Chispeante"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[CantIdentify]\nPrioriza a las unidades con [Charge]\n[BeforeAttack] Gana +5 Contador de [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Descarga Chispeante y +5 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[CantIdentify]\nPrioriza a las unidades con [Charge]\n[BeforeAttack] Gana +7 Contador de [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 Descarga Chispeante y +5 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "DDEA",
+          "abName": "Ciempiés Eléctrico",
+          "desc": "[CantIdentify]\nPrioriza a las unidades con [Charge]\n[BeforeAttack] Gana +10 Contador de [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 Descarga Chispeante y +7 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2120511,
       "levelList": [
         {
@@ -12,7 +368,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Cura a un aliado con el menor porcentaje de HP percentage por 15% de HP de su HP Máx\n- Cura a (# más alto de Reson. - 2) aliados más (máx 3)"
+                  "desc": "[EndSkill] Cura a un aliado con el menor porcentaje de HP percentage por 15% de HP Máx\n- Cura a (# más alto de Reson. - 2) aliados adicionales (máx 3)"
                 }
               ]
             }
@@ -27,7 +383,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Cura a 2 aliados con el menor porcentaje de HP percentage por 18% de HP de su HP Máx\n- Cura a (# más alto de Reson. - 2) aliados más (máx 3)"
+                  "desc": "[EndSkill] Cura a 2 aliados con el menor porcentaje de HP percentage por 18% de HP Máx\n- Cura a (# más alto de Reson. - 2) aliados adicionales (máx 3)"
                 }
               ]
             }
@@ -42,7 +398,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndSkill] Cura a 4 aliados con el menor porcentaje de HP percentage por 22% de HP de su HP Máx\n- Cura a (# más alto de Reson. - 2) aliados más (máx 3)"
+                  "desc": "[EndSkill] Cura a 4 aliados con el menor porcentaje de HP percentage por 22% de HP Máx\n- Cura a (# más alto de Reson. - 2) aliados adicionales (máx 3)"
                 }
               ]
             }
@@ -228,7 +584,7 @@
           "level": 1,
           "name": "Lamento Solemne",
           "abName": "Funeral de las Mariposas Muertas",
-          "desc": "Cuando esta Habilidad lanza Monedas, cada Moneda es lanzada contra un enemigo aleatorio entre sus objetivos.\n- La primera Moneda siempre selecciona al objetivo principal.\n- Todos los efectos 'Tras Golpear' y el daño infligido por cada Moneda son infligidos solo contra el objetivo aleatorio seleccionado por la Moneda\nAl infligir [SinkingWhite] con los efectos de esta Habilidad: (Probabilidad de caer en Cara)% de probabilidad de Infligir Las Difuntas. Si esta unidad no infligió Las Difuntas, Inflige Las Vivas en su lugar. (calcula cada acumulación de [SinkingWhite] independientemente)",
+          "desc": "Cuando esta Habilidad lanza Monedas, cada Moneda es lanzada contra un enemigo aleatorio entre sus objetivos.\n- La primera Moneda siempre selecciona al objetivo principal.\n- Todos los efectos 'Tras Golpear' y el daño infligido por cada Moneda son infligidos solo contra el objetivo aleatorio seleccionado por la Moneda\nAl infligir [SinkingWhite] con los efectos de esta Habilidad: (Probabilidad de caer en Cara)% de probabilidad de Infligir Las Que Partieron. Si esta unidad no infligió Las Que Partieron, Inflige Las Que Perduran en su lugar. (calcula cada acumulación de [SinkingWhite] independientemente)",
           "coinlist": [
             {
               "coindescs": [
@@ -263,7 +619,7 @@
           "level": 3,
           "name": "Lamento Solemne",
           "abName": "Funeral de las Mariposas Muertas",
-          "desc": "Cuando esta Habilidad lanza Monedas, cada Moneda es lanzada contra un enemigo aleatorio entre sus objetivos.\n- La primera Moneda siempre selecciona al objetivo principal.\n- Todos los efectos 'Tras Golpear' y el daño infligido por cada Moneda son infligidos solo contra el objetivo aleatorio seleccionado por la Moneda\nAl infligir [SinkingWhite] con los efectos de esta Habilidad: (Probabilidad de caer en Cara)% de probabilidad de Infligir Las Difuntas. Si esta unidad no infligió Las Difuntas, Inflige Las Vivas en su lugar. (calcula cada acumulación de [SinkingWhite] independientemente)\n<style=\"highlight\">[EndSkill] Cura (# de Golpes con 3ra Moneda x 2) PC</style>",
+          "desc": "Cuando esta Habilidad lanza Monedas, cada Moneda es lanzada contra un enemigo aleatorio entre sus objetivos.\n- La primera Moneda siempre selecciona al objetivo principal.\n- Todos los efectos 'Tras Golpear' y el daño infligido por cada Moneda son infligidos solo contra el objetivo aleatorio seleccionado por la Moneda\nAl infligir [SinkingWhite] con los efectos de esta Habilidad: (Probabilidad de caer en Cara)% de probabilidad de Infligir Las Que Partieron. Si esta unidad no infligió Las Que Partieron, Inflige Las Que Perduran en su lugar. (calcula cada acumulación de [SinkingWhite] independientemente)\n<style=\"highlight\">[EndSkill] Cura (# de Golpes con 3ra Moneda x 2) PC</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -298,7 +654,7 @@
           "level": 4,
           "name": "Lamento Solemne",
           "abName": "Funeral de las Mariposas Muertas",
-          "desc": "Cuando esta Habilidad lanza Monedas, cada Moneda es lanzada contra un enemigo aleatorio entre sus objetivos.\n- La primera Moneda siempre selecciona al objetivo principal.\n- Todos los efectos 'Tras Golpear' y el daño infligido por cada Moneda son infligidos solo contra el objetivo aleatorio seleccionado por la Moneda\nAl infligir [SinkingWhite] con los efectos de esta Habilidad: (Probabilidad de caer en Cara)% de probabilidad de Infligir Las Difuntas. Si esta unidad no infligió Las Difuntas, Inflige Las Vivas en su lugar. (calcula cada acumulación de [SinkingWhite] independientemente)\n[EndSkill] Cura <style=\"highlight\">(# de Golpes con 3ra Moneda x 3)</style> PC",
+          "desc": "Cuando esta Habilidad lanza Monedas, cada Moneda es lanzada contra un enemigo aleatorio entre sus objetivos.\n- La primera Moneda siempre selecciona al objetivo principal.\n- Todos los efectos 'Tras Golpear' y el daño infligido por cada Moneda son infligidos solo contra el objetivo aleatorio seleccionado por la Moneda\nAl infligir [SinkingWhite] con los efectos de esta Habilidad: (Probabilidad de caer en Cara)% de probabilidad de Infligir Las Que Partieron. Si esta unidad no infligió Las Que Partieron, Inflige Las Que Perduran en su lugar. (calcula cada acumulación de [SinkingWhite] independientemente)\n[EndSkill] Cura <style=\"highlight\">(# de Golpes con 3ra Moneda x 3)</style> PC",
           "coinlist": [
             {
               "coindescs": [
@@ -343,10 +699,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Vivas)"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Que Perduran)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Difuntas)"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Que Partieron)"
                 }
               ]
             }
@@ -361,10 +717,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Vivas)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Que Perduran)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Difuntas)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [SinkingWhite](Las Que Partieron)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige +3 Contador de [Sinking]</style>"
@@ -382,16 +738,16 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de [SinkingWhite](Las Vivas)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [SinkingWhite](Las Que Perduran)<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 de [SinkingWhite](Las Difuntas)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [SinkingWhite](Las Que Partieron)<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si el objetivo tiene 50%- de HP, Inflige Daño de Melancolía igual a \"Todos\" los valores de [SinkingWhite] en el objetivo\n- \"Todos\" = la suma de Las Vivas y Las Difuntas en el objetivo</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si el objetivo tiene 50%- de HP, Inflige Daño de Melancolía igual a \"Todos\" los valores de [SinkingWhite] en el objetivo\n- \"Todos\" = la suma de Las Que Perduran y Las Que Partieron en el objetivo</style>"
                 }
               ]
             }

@@ -62,8 +62,13 @@
     },
     {
       "id": "OnKillEnemyByOtherAlly",
-      "add": "Increase by {0} after an ally defeats an enemy regardless of their level",
-      "min": "Decrease by {0} after an ally defeats an enemy regardless of their level"
+      "add": "Incrementa por {0} Después de que un aliado derrote a un enemigo sin importar su nivel",
+      "min": "Reduce por {0} Después de que un aliado derrote a un enemigo sin importar su nivel"
+    },
+    {
+      "id": "OnWinDuelAnyTarget",
+      "add": "Incrementa por {0} al Ganar Choque",
+      "min": "Disminuye por {0} al Perder Choque"
     }
   ]
 }

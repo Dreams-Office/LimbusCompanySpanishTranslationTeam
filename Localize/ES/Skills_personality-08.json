@@ -38,7 +38,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Deslizar",
+          "name": "Barrida",
           "desc": "[WinDuel] Inflige 1 Poder Defensivo Reducido",
           "coinlist": [
             {}
@@ -46,7 +46,7 @@
         },
         {
           "level": 2,
-          "name": "Deslizar",
+          "name": "Barrida",
           "desc": "[WinDuel] Inflige 3 Poder Defensivo Reducido",
           "coinlist": [
             {}
@@ -54,7 +54,7 @@
         },
         {
           "level": 4,
-          "name": "Deslizar",
+          "name": "Barrida",
           "desc": "[WinDuel] Inflige 3 Poder Defensivo Reducido",
           "coinlist": [
             {
@@ -115,7 +115,7 @@
         {
           "level": 2,
           "name": "Espada Voladora",
-          "desc": "Con menos de 50% de HP, Esta habilidad aplica 1 de [Breath] adicionales",
+          "desc": "Con menos de 50% de HP, Esta habilidad aplica 1 de [Breath] adicional",
           "keywords": [],
           "coinlist": [
             {
@@ -137,7 +137,7 @@
         {
           "level": 4,
           "name": "Espada Voladora",
-          "desc": "Con menos de 50% de HP, Esta habilidad aplica 3 de [Breath] adicionales",
+          "desc": "Con menos de 50% de HP, Esta habilidad aplica 3 de [Breath] adicional",
           "keywords": [],
           "coinlist": [
             {
@@ -360,7 +360,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Perdigones Temblorosos",
+          "name": "Balas Vibradoras",
           "desc": "",
           "coinlist": [
             {
@@ -388,7 +388,7 @@
         },
         {
           "level": 2,
-          "name": "Perdigones Temblorosos",
+          "name": "Balas Vibradoras",
           "desc": "",
           "coinlist": [
             {
@@ -764,7 +764,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "¡Que Pesado...!",
+          "name": "¡Qué Pesado...!",
           "desc": "",
           "coinlist": [
             {
@@ -778,7 +778,7 @@
         },
         {
           "level": 2,
-          "name": "¡Que Pesado...!",
+          "name": "¡Qué Pesado...!",
           "desc": "",
           "coinlist": [
             {
@@ -795,7 +795,7 @@
         },
         {
           "level": 4,
-          "name": "¡Que Pesado...!",
+          "name": "¡Qué Pesado...!",
           "desc": "[WhenUse] Gana +4 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[DefeatDuel] Inflige 2 de [Vibration] y 2 de [Burst]",
           "coinlist": [
             {
@@ -1414,7 +1414,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pasos Ágil",
+          "name": "Pasos Ágiles",
           "desc": "[WhenUse] Gana 2 Protección a la Ruptura (6 veces por turno)",
           "coinlist": [
             {
@@ -1896,7 +1896,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Forma de Gran Espada de los Caballeros Zwei",
+          "name": "Técnica de la Gran Espada de los Caballeros Zwei",
           "desc": "[WhenUse] Gana +2 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 [DefenseUp] por cada 4 Contador de [Vibration] en sí (máx 2)",
           "coinlist": [
             {
@@ -1923,7 +1923,7 @@
         },
         {
           "level": 2,
-          "name": "Forma de Gran Espada de los Caballeros Zwei",
+          "name": "Técnica de la Gran Espada de los Caballeros Zwei",
           "desc": "[WhenUse] Gana +<style=\"highlight\">3</style> [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 [DefenseUp] por cada <style=\"highlight\">3</style> Contador de [Vibration] en sí (máx 2)\n<style=\"highlight\">[WhenUse] Con 4+ [DefenseUp], Poder Base +1</style>",
           "coinlist": [
             {
@@ -1950,7 +1950,7 @@
         },
         {
           "level": 4,
-          "name": "Forma de Gran Espada de los Caballeros Zwei",
+          "name": "Técnica de la Gran Espada de los Caballeros Zwei",
           "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 1 [DefenseUp] por cada <style=\"highlight\">2</style> Contador de [Vibration] en sí (máx <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Poder Base +1 por cada 4 [DefenseUp] (máx 2)</style>",
           "coinlist": [
             {
@@ -2080,7 +2080,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Tutelaje",
+          "name": "Amparar",
           "desc": "[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx 3)\n[WhenUse] Si esta unidad está en [DefensiveStance], inflige +50% de daño\n[WhenUse] Poder de Moneda +1 por cada 4 [DefenseUp] en sí (máx 2)\n[WhenUse] Gana +8 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WinDuel] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {
@@ -2114,7 +2114,7 @@
         },
         {
           "level": 4,
-          "name": "Tutelaje",
+          "name": "Amparar",
           "desc": "[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx <style=\"highlight\">5</style>)\n[WhenUse] Si esta unidad está en [DefensiveStance], deal +<style=\"highlight\">70</style>% de daño\n[WhenUse] Poder de Moneda +1 por cada 4 [DefenseUp] en sí (máx <style=\"highlight\">4</style>)\n[WhenUse] Gana +<style=\"highlight\">10</style> [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WinDuel] Gana +3 Contador de [Vibration]",
           "coinlist": [
             {

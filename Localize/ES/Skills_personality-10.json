@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Oscilación Descendiente",
+          "name": "Corte Descendiente",
           "desc": "",
           "coinlist": [
             {
@@ -19,7 +19,7 @@
         },
         {
           "level": 2,
-          "name": "Oscilación Descendiente",
+          "name": "Corte Descendiente",
           "desc": "",
           "coinlist": [
             {
@@ -38,7 +38,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Combo de Alabarda",
+          "name": "Tajos de Alabarda",
           "desc": "[WinDuel] +10% de daño",
           "coinlist": [
             {},
@@ -48,7 +48,7 @@
         },
         {
           "level": 2,
-          "name": "Combo de Alabarda",
+          "name": "Tajos de Alabarda",
           "desc": "[WinDuel] +30% de daño",
           "coinlist": [
             {},
@@ -692,7 +692,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Juicio Coercitivo",
+          "name": "Juicio Coaccionado",
           "desc": "[WhenUse] Pierde 7 PC",
           "coinlist": [
             {},
@@ -707,7 +707,7 @@
         },
         {
           "level": 2,
-          "name": "Juicio Coercitivo",
+          "name": "Juicio Coaccionado",
           "desc": "[WhenUse] Pierde 7 PC",
           "coinlist": [
             {},
@@ -725,7 +725,7 @@
         },
         {
           "level": 4,
-          "name": "Juicio Coercitivo",
+          "name": "Juicio Coaccionado",
           "desc": "[WhenUse] Pierde 7 PC",
           "coinlist": [
             {},
@@ -748,7 +748,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Promulgación Inmoral",
+          "name": "Promulgación Amoral",
           "desc": "[WhenUse] Pierde 10 PC\nSi está unidad es Fanático, inflige +5% de daño",
           "coinlist": [
             {},
@@ -777,7 +777,7 @@
         },
         {
           "level": 2,
-          "name": "Promulgación Inmoral",
+          "name": "Promulgación Amoral",
           "desc": "[WhenUse] Pierde 10 PC\nSi está unidad es Fanático, inflige +10% de daño",
           "coinlist": [
             {},
@@ -1102,7 +1102,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ataque Feroz",
+          "name": "Asalto Feroz",
           "desc": "",
           "coinlist": [
             {},
@@ -1125,7 +1125,7 @@
         },
         {
           "level": 2,
-          "name": "Ataque Feroz",
+          "name": "Asalto Feroz",
           "desc": "Con 10+ Contador de [Vibration], Poder de Moneda +1",
           "coinlist": [
             {},
@@ -1154,7 +1154,7 @@
         },
         {
           "level": 4,
-          "name": "Ataque Feroz",
+          "name": "Asalto Feroz",
           "desc": "Con 10+ Contador de [Vibration], Poder de Moneda +1",
           "coinlist": [
             {},
@@ -1355,7 +1355,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Engagement",
+          "name": "Encuentro",
           "desc": "[WinDuel] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
@@ -1377,7 +1377,7 @@
         },
         {
           "level": 2,
-          "name": "Engagement",
+          "name": "Encuentro",
           "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder de Moneda +1\n[WinDuel] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
@@ -1399,7 +1399,7 @@
         },
         {
           "level": 4,
-          "name": "Engagement",
+          "name": "Encuentro",
           "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1 por cada 2 dif. de Velocidad (Máx 2)\n[WinDuel] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
@@ -1508,7 +1508,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carga Feroz",
+          "name": "Ímpetu Feroz",
           "desc": "",
           "coinlist": [
             {
@@ -1526,7 +1526,7 @@
         },
         {
           "level": 2,
-          "name": "Carga Feroz",
+          "name": "Ímpetu Feroz",
           "desc": "",
           "coinlist": [
             {
@@ -1544,7 +1544,7 @@
         },
         {
           "level": 4,
-          "name": "Carga Feroz",
+          "name": "Ímpetu Feroz",
           "desc": "",
           "coinlist": [
             {
@@ -1923,7 +1923,7 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Verja",
+          "name": "Enfrentar",
           "desc": "[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx 2)\n[WhenUse] Poder de Moneda +1 por cada 3 [DefenseUp] en sí (máx 2)",
           "coinlist": [
             {
@@ -1954,7 +1954,7 @@
         },
         {
           "level": 4,
-          "name": "Verja",
+          "name": "Enfrentar",
           "desc": "[WhenUse] Gana 1 [DefenseUp] por cada 2 Contador de [Vibration] en sí (máx <style=\"highlight\">4</style>)\n[WhenUse] Poder de Moneda +1 por cada 3 [DefenseUp] en sí (máx <style=\"highlight\">3</style>)",
           "coinlist": [
             {
@@ -1990,7 +1990,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Forma de Gran Espada de los Caballeros Zwei - Guardia",
+          "name": "Técnica de la Gran Espada de los Caballeros Zwei - Guardia",
           "desc": "[CanDuelGuard]\n[StartBattle] Gana +5 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana +2 Contador de [Vibration] (una vez por turno)\n[WinDuel] Provoca [VibrationExplosion]",
           "coinlist": [
             {
@@ -2004,7 +2004,7 @@
         },
         {
           "level": 4,
-          "name": "Forma de Gran Espada de los Caballeros Zwei - Guardia",
+          "name": "Técnica de la Gran Espada de los Caballeros Zwei - Guardia",
           "desc": "[CanDuelGuard]\n[StartBattle] Gana +5 [Aggro] en esta Ranura el siguiente turno\n[WhenUse] Gana +<style=\"highlight\">3</style> Contador de [Vibration] (una vez por turno)\n[WinDuel] Provoca [VibrationExplosion]",
           "coinlist": [
             {

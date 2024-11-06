@@ -38,7 +38,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Acomplamiento de Hacha",
+          "name": "Tajos de Hacha",
           "desc": "",
           "coinlist": [
             {
@@ -59,7 +59,7 @@
         },
         {
           "level": 2,
-          "name": "Acomplamiento de Hacha",
+          "name": "Tajos de Hacha",
           "desc": "",
           "coinlist": [
             {
@@ -80,7 +80,7 @@
         },
         {
           "level": 4,
-          "name": "Acomplamiento de Hacha",
+          "name": "Tajos de Hacha",
           "desc": "",
           "coinlist": [
             {
@@ -389,7 +389,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tajo Disperso",
+          "name": "Tajo Dispersador",
           "desc": "",
           "coinlist": [
             {
@@ -416,7 +416,7 @@
         },
         {
           "level": 2,
-          "name": "Tajo Disperso",
+          "name": "Tajo Dispersador",
           "desc": "[WhenUse] Gana +1 Contador de [Breath]",
           "coinlist": [
             {
@@ -443,7 +443,7 @@
         },
         {
           "level": 4,
-          "name": "Tajo Disperso",
+          "name": "Tajo Dispersador",
           "desc": "[WhenUse] Gana +2 Contador de [Breath]\nCon 5+ de [Breath], Poder de Moneda +2",
           "coinlist": [
             {
@@ -840,7 +840,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Compresión De Vibració",
+          "name": "Compresión De Vibración",
           "desc": "",
           "coinlist": [
             {
@@ -862,7 +862,7 @@
         },
         {
           "level": 2,
-          "name": "Compresión Vibratoria",
+          "name": "Compresión De Vibración",
           "desc": "",
           "coinlist": [
             {
@@ -1858,7 +1858,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Maleta de Entrega - Cuchillo de Decaimiento",
+          "name": "Maleta de Entrega - Cuchillo de Descomposición",
           "desc": "[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear, pero no inflige [Burst] con los efectos de esta Habilidad Tras Golpear",
           "coinlist": [
             {
@@ -1879,7 +1879,7 @@
         },
         {
           "level": 2,
-          "name": "Maleta de Entrega - Cuchillo de Decaimiento",
+          "name": "Maleta de Entrega - Cuchillo de Descomposición",
           "desc": "<style=\"highlight\">Con 10+ [DevyatDimensionalSack], o si el objetivo tiene 6+ de [Burst], Poder de Moneda +1</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear, pero no inflige [Burst] con los efectos de esta Habilidad Tras Golpear",
           "coinlist": [
             {
@@ -1900,7 +1900,7 @@
         },
         {
           "level": 4,
-          "name": "Maleta de Entrega - Cuchillo de Decaimiento",
+          "name": "Maleta de Entrega - Cuchillo de Descomposición",
           "desc": "<style=\"highlight\">Poder de Moneda +1 por cada 10 [DevyatDimensionalSack] en sí o por cada 6 de [Burst] en el objetivo (máx 2)</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear, pero no inflige [Burst] con los efectos de esta Habilidad Tras Golpear",
           "coinlist": [
             {
@@ -2091,7 +2091,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sólo... ¡Un Tiempo Libre Estratégico!",
+          "name": "Sólo... ¡Un Tiempo Fuera Estratégico!",
           "desc": "[StartBattle] Si esta Habilidad es de ser activada, gana ([DevyatDimensionalSack]/2)% del HP Máx de esta unidad como Escudo (máx 15%, una vez por turno)\n[EndBattle] Activa [Retreat]",
           "coinlist": [
             {}
@@ -2099,7 +2099,7 @@
         },
         {
           "level": 4,
-          "name": "Sólo... ¡Un Tiempo Libre Estratégico!",
+          "name": "Sólo... ¡Un Tiempo Fuera Estratégico!",
           "desc": "[StartBattle] Si esta Habilidad es de ser activada, gana <style=\"highlight\">([DevyatDimensionalSack])%</style> del HP Máx de esta unidad como Escudo (máx <style=\"highlight\">25%</style>, una vez por turno)\n[EndBattle] Activa [Retreat]",
           "coinlist": [
             {}

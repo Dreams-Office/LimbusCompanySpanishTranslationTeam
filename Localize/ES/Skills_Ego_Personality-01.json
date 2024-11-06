@@ -1,6 +1,444 @@
 {
   "dataList": [
     {
+      "id": 2010111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Vista de Cuervo",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Poder de Ataque Reducido."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 1 [Agility] a todos los aliados el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "A Vista de Cuervo",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 3 [Agility] a todos los aliados el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "A Vista de Cuervo",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 1 [Agility] a todos los aliados el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 6 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 6 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Túmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Fragilidad a la Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Parálisis"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Túmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Túmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Pereza"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Selecciona la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Contador de [Charge] para infligir más daño (Máx 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por ([Burst] del objetivo x 7.5)% del daño infligido, y reduce el contador de [Burst] por 5 (Máx 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Selecciona la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Contador de [Charge] para infligir más daño total(Máx 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si se gastó Contador de [Charge], Inflige 3 Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por ([Burst] del objetivo x 10)%, y reduce el contador de [Burst] por 5 (Máx 100%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "Selecciona la unidad más lejana (En encuentros normales)\n\n[BeforeAttack] Gasta Contador de [Charge] para infligir más daño total (Máx 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si se gastó Contador de [Charge], Inflige 5 Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por ([Burst] del objetivo x 10)%, y reduce el contador de [Burst] por 5 (Máx 100%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n\n[BeforeAttack] Gasta Contador de [Charge] para infligir más daño (Máx 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por ([Burst] del objetivo x 7.5)%, y reduce el contador de [Burst] por 5 (Máx 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n\n[BeforeAttack] Gasta Contador de [Charge] para infligir más daño (Máx 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si se gastó Contador de [Charge], Inflige 3 Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por ([Burst] del objetivo x 10)%, y reduce el contador de [Burst] por 5 (Máx 100%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Triturador Dimensional",
+          "abName": "Pasajero Rebelde",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n\n[BeforeAttack] Gasta Contador de [Charge] para infligir más daño (Máx 75%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si se gastó Contador de [Charge], Inflige 5 Grieta Dimensional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige Daño extra de Orgullo por ([Burst] del objetivo x 10)%, y reduce el contador de [Burst] por 5 (Máx 100%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[BeforeAttack] Da 1 Poder de Pereza Aumentado, 1 Ataque de Pereza Aumentado, y 2 Protección a todos los aliados este turno y el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[BeforeAttack] Da 1 Poder de Pereza Aumentado, 2 Ataque de Pereza Aumentado, y 3 Protección a todos los aliados este turno y el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Cura 15 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Gana 1 Poder de Pereza Aumentado y 1 Ataque de Pereza Aumentado este turno y los siguientes 2 turnos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Pereza y 1 Fragilidad a lo Perforante este turno y el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Gana 2 Poder de Pereza Aumentado y 2 Ataque de Pereza Aumentado este turno y los siguientes 2 turnos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Fragilidad a la Pereza y 2 Fragilidad a lo Perforante este turno y el siguiente turnp"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2010611,
       "levelList": [
         {

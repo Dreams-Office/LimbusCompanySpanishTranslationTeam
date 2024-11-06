@@ -1,6 +1,365 @@
 {
   "dataList": [
     {
+      "id": 2110111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Si el HP del objetivo está por debajo de 50%, Inflige +10% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Si el HP del objetivo está por debajo de 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Si el HP del objetivo está por debajo de 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                },
+                {
+                  "desc": "[EnemyKill] Da 1 Daño Aumentado a un aliado aleatorio el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rama de Ébano",
+          "abName": "Manzana de la Reina de Ébano",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Rama de Ébano",
+          "abName": "Manzana de la Reina de Ébano",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Fragilidad a la Gula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rama de Ébano",
+          "abName": "Manzana de la Reina de Ébano",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Rama de Ébano",
+          "abName": "Manzana de la Reina de Ébano",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a la Gula"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[EndSkill] Cura 12 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Lujuria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[EndSkill] Cura 18 PC\n[EndSkill] Aplica 1 Poder de Ataque Aumentado a 2 Aliados aleatorios",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Fragilidad a la Lujuria"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Lujuria"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 1 Frágil"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gana 1 Frágil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "Mi Forma Vacua",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[EndSkill] Aplica 1 Poder de Ataque Aumentado a 2 Aliados aleatorios",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Fragilidad a la Lujuria"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gana 2 Frágil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[BeforeAttack] Gana +4 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[BeforeAttack] Gana +6 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]; Inflige +2 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[BeforeAttack] Gana +7 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]; Inflige +3 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[CantIdentify]\nSelecciona la unidad con menos HP\n[BeforeAttack] Gana +5 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[CantIdentify]\nSelecciona la unidad con menos HP\n[BeforeAttack] Gana +7 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]; Inflige +2 Contador de [Sinking] y Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sol y Lluvia",
+          "abName": "Zorro Errante",
+          "desc": "[CantIdentify]\nSelecciona la unidad con menos HP\n[BeforeAttack] Gana +7 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]; Inflige +3 Contador de [Sinking] y Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2110511,
       "levelList": [
         {

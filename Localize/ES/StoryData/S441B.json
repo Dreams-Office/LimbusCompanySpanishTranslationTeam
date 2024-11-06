@@ -2,163 +2,163 @@
     "dataList": [
         {
             "id": 0,
-            "place": "Ruined K Corp. Laboratory Hallway",
-            "content": "I did my best to ignore the fierce glare at my clock from below."
+            "place": "Pasillo de Laboratorio de K Corp. en Ruinas",
+            "content": "Hice lo mejor que pude para ignorar a las feroces miradas que se posaban sobre mi reloj desde debajo."
         },
         {
             "id": 1,
-            "content": "I noticed a group of staff walking this way, carrying an imposing aura, unlike any other K Corp. employee we've met."
+            "content": "Pero entonces noté a un grupo del personal dirigiéndose hacia nuestra dirección, llevando con ellos un aire imponente que los otros empleados de K Corp. que nos encontramos no tenían."
         },
         {
             "id": 2,
             "model": "그레고르",
-            "content": "Ah, you must be K Corp. staff. Hey! I saw some researchers that haven't evacuated over there..."
+            "content": "Ah, parece que son empleados de K Corp. ¡Oigan! Vi a algunos investigadores que todavía no evacuaron por allí..."
         },
         {
             "id": 3,
             "model": "K사3등급전투원",
-            "teller": "Class 3 Excision Staff",
+            "teller": "Personal de Escisión de Clase 3",
             "title": "K Corp.",
             "content": "……"
         },
         {
             "id": 4,
-            "content": "They ignored our–or Gregor's, rather–words and proceeded upstairs."
+            "content": "Ellos ignoraron nuestras palabras (o las de Gregor, más bien) y subieron las escaleras."
         },
         {
             "id": 5,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "They aren't here to rescue anyone. Their role is eliminating intruders and keeping classified technologies secure."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "No están aquí para rescatar a nadie. Su rol es el de eliminar intrusos y mantener seguras las tecnologías clasificadas.."
         },
         {
             "id": 6,
-            "content": "Dongrang interjected like he's always been here. I suppose he's got done with the call."
+            "content": "Dongrang intervino como si hubiera estado aquí siempre. Supongo que ya terminó con su llamada."
         },
         {
             "id": 7,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Rescuing is left to Class 1 staff."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Los encargados de los rescates son los del personal de Clase 1."
         },
         {
             "id": 8,
             "model": "돈키호테",
-            "content": "Gasp! Is Class 1 not the highest level an employee can reach, precisely like Grade 1 is for Fixers?! Verily, 'tis no wonder that they are the noblest...!"
+            "content": "¡Ohh! ¡¿No es, acaso, la Clase 1 el más elevado de los niveles que un trabajador puede alcanzar, así como el Grado 1 lo es para los Fixers?! ¡No es de asombrar, por tanto, que sean ellos los de mayor nobleza...!"
         },
         {
             "id": 9,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Sorry? In this Nest, Class 1 is the lowest level, and higher numbers indicate better ranks..."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "¿Disculpa? En este Nido, la Clase 1 es el nivel más bajo, y un número más grande indica mayor rango..."
         },
         {
             "id": 10,
             "model": "돈키호테",
-            "content": "Wha, wuh, wah, wha, wai... Whaat?!!!"
+            "content": "Que, que, que, que, que, que, que... ¡¡¡¿Quéééé?!!!"
         },
         {
             "id": 11,
             "model": "돈키호테",
-            "content": "...Even still, none can be too lordly or lowly to save lives, so how can the roles be divided?"
+            "content": "... A pesar y a despecho deso, nadie es ni tan noble ni tan humilde como para no acudir al socorro de una vida en apuros; ¿cómo puede ser que la tarea tenga que repartirse ansí?"
         },
         {
             "id": 12,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Haha, bigger is better for numbers and riches alike, isn't that right?"
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Jaja, lo grande cuenta tanto para la fortuna como para los números, ¿o no?"
         },
         {
             "id": 13,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Ah, the conversation dragged on for a bit... But there's nothing to worry about, I've acquired the permission."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Ah, la conversación se alargó un poco... pero no hay nada de qué preocuparse, ya he obtenido el permiso."
         },
         {
             "id": 14,
             "model": "단테",
-            "content": "<…?>"
+            "content": "<¿…?>"
         },
         {
             "id": 15,
             "model": "히스클리프",
-            "content": "What? Permission? For what?"
+            "content": "¿Qué? ¿El permiso? ¿El permiso pa' qué?"
         },
         {
             "id": 16,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Normally, it seems to require a bunch of paperwork as well, but since we're in an emergency, let's skip the procedures that we can. Should be fine, right, Samjo?"
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Normalmente, parece que también requeriría de un montón de papeleo, pero como esto es una emergencia, intentamos saltarnos todos los procedimientos que pudimos. No debería haber problema, ¿verdad, Samjo?"
         },
         {
             "id": 17,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "Well... I believe it could be managed with three days and a half of working on the report overtime."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Pues... supongo que no debería haber problema si hago tres días y medio de horas extra para escribir el informe."
         },
         {
             "id": 18,
             "model": "삼조",
             "teller": "Samjo",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "And strictly speaking, the problem already began when you brought them to your lab without any report."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Y, estrictamente hablando, el problema ya empezó cuando los llevó a su laboratorio sin haber hecho uno primero."
         },
         {
             "id": 19,
             "model": "히스클리프",
-            "content": "Just tell us what that permission is about first!"
+            "content": "¡Pero decinos de qué es el permiso de una vez!"
         },
         {
             "id": 20,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It would seem that Dongbaek has headed that way."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Parecería ser que Dongbaek se ha dirigido en esa dirección."
         },
         {
             "id": 21,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The screening room."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Hacia la sala de proyecciones."
         },
         {
             "id": 22,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "The security procedures for entering that place can be... extremely convoluted."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Los procedimientos de seguridad para entrar a ese lugar suelen ser bastante... complicados."
         },
         {
             "id": 23,
             "model": "로쟈",
-            "content": "Screening room? The name doesn't give a very clear idea of what it's about~"
+            "content": "¿Sala de proyecciones? Como que el nombre del lugar no te dice mucho sobre lo que se hace ahí~"
         },
         {
             "id": 24,
             "model": "홍루",
-            "content": "Wonder why the security is so tight about it~"
+            "content": "Me pregunto por qué será tan estricta la seguridad con ese sitio~"
         },
         {
             "id": 25,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "It's at the very top of the building."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Se encuentra en lo más alto del edificio."
         },
         {
             "id": 26,
             "model": "동랑",
             "teller": "Dongrang",
-            "title": "K Corp. Dept. of Food Resource Development",
-            "content": "There are two ways to make something inaccessible: put it underground, or at the highest point."
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Solo hay dos formas de hacer algo inaccesible: o lo pones bajo tierra, o en lo más alto."
         }
     ]
 }

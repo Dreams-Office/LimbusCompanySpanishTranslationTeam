@@ -274,11 +274,11 @@
     },
     {
       "id": "mainui_simulation",
-      "content": "Simulacion"
+      "content": "Simulación"
     },
     {
       "id": "mainui_untill",
-      "content": "Expiracion"
+      "content": "Expiración"
     },
     {
       "id": "mainui_free",
@@ -478,7 +478,7 @@
     },
     {
       "id": "main_until",
-      "content": "Expiracion"
+      "content": "Expiración"
     },
     {
       "id": "mainui_synchronization_grade",
@@ -1791,6 +1791,14 @@
     {
       "id": "mainui_exp_dungeon_9_open_day",
       "content": "Luxcavción de EXP #7 (Contundente) Abre los VIE, SÁB, y DOM."
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "No puedes\nDesplegar\nLa Identidad\nBase"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "No puedes continuar con esta {0} Identidad. Acceso a las Identidades de Soporte otorgado."
     }
   ]
 }

@@ -1689,13 +1689,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Slam",
+          "name": "Aplastar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
@@ -1710,20 +1710,20 @@
         },
         {
           "level": 2,
-          "name": "Slam",
-          "desc": "If the target has 6+ [Burst], Coin Power +1",
+          "name": "Aplastar",
+          "desc": "Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -1731,26 +1731,26 @@
         },
         {
           "level": 4,
-          "name": "Slam",
-          "desc": "If the target has 6+ [Burst], Coin Power +1",
+          "name": "Aplastar",
+          "desc": "Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -1763,7 +1763,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bonecrusher",
+          "name": "Quebrantahuesos",
           "desc": "",
           "coinlist": [
             {
@@ -1776,7 +1776,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             }
@@ -1784,23 +1784,23 @@
         },
         {
           "level": 2,
-          "name": "Bonecrusher",
-          "desc": "[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Quebrantahuesos",
+          "desc": "[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no Inflige [Burst] o Contador de [Burst]; en su lugar, gana Poder de Moneda +1\n[WinDuel] Inflige +1 Contador de [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [TakeHpHealReduce] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [TakeHpHealReduce] el siguiente turno"
                 }
               ]
             }
@@ -1808,26 +1808,26 @@
         },
         {
           "level": 4,
-          "name": "Bonecrusher",
-          "desc": "If the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If the target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Quebrantahuesos",
+          "desc": "Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no Inflige [Burst] o Contador de [Burst]; en su lugar, gana Poder de Moneda +1\n- Si el objetivo es un <Demonio de Sangre> o una <Bolsa de Sangre>, gana Poder de Moneda +1 adicional\n[WinDuel] Inflige +1 Contador de [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [TakeHpHealReduce] next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 [TakeHpHealReduce] el siguiente turno"
                 }
               ]
             }
@@ -1840,20 +1840,20 @@
       "levelList": [
         {
           "level": 3,
-          "name": "A Cheerful Hunt's End",
-          "desc": "[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n[WinDuel] Inflict +1 [Burst] Count",
+          "name": "Fin De Una Cacería Alegre",
+          "desc": "[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no Inflige de [Burst] o Contador de [Burst]; en su lugar, gana Poder de Moneda +1\n[WinDuel] Inflige +1 Contador de [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Burst]"
                 }
               ]
             },
@@ -1862,27 +1862,27 @@
         },
         {
           "level": 4,
-          "name": "A Cheerful Hunt's End",
-          "desc": "If the target has 6+ [Burst], Coin Power +1\n[WhenUse] If the target has 15+ [Burst] and 3+ [Burst] Count: this Skill does not inflict [Burst] or [Burst] Count; instead, gain Coin Power +1\n- If the target is a <Bloodfiend> or a <Bloodbag>, gain an additional Coin Power +1\n[WinDuel] Inflict +2 [Burst] Count",
+          "name": "Fin De Una Cacería Alegre",
+          "desc": "Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no Inflige de [Burst] o Contador de [Burst]; en su lugar, gana Poder de Moneda +1\n- Si el objetivo es un <Demonio de Sangre> o una <Bolsa de Sangre>, gana an additional Poder de Moneda +1\n[WinDuel] Inflige +2 Contador de [Burst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If the target has 15+ [Burst], or has less than 30% HP, Reuse this Coin (once per Skill)"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 15+ de [Burst], o tiene menos de 30% de HP, Reutiliza esta Moneda (una vez por Habilidad)"
                 }
               ]
             }
@@ -1895,7 +1895,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Emergency Styptics",
+          "name": "Estípticos de Emergencia",
           "desc": "",
           "coinlist": [
             {
@@ -1909,8 +1909,8 @@
         },
         {
           "level": 4,
-          "name": "Emergency Styptics",
-          "desc": "[StartBattle] Lose 2 [Laceration] Potency on self (3 times per turn. If Bleed Potency drops to 0 or less, the Bleed effect expires)",
+          "name": "Estípticos de Emergencia",
+          "desc": "[StartBattle] Pierde 2 de Potencia de [Laceration] en sí (3 veces por turno. Si la Potencia de Sangrado cae a 0 o menos, el efecto de Sangrado expira)",
           "coinlist": [
             {
               "coindescs": [

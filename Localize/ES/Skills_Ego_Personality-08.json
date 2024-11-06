@@ -1,6 +1,407 @@
 {
   "dataList": [
     {
+      "id": 2080111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enganche de Harpón",
+          "abName": "Ishmael",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Enganche de Harpón",
+          "abName": "Ishmael",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 [Binding] el siguiente Turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Enganche de Harpón",
+          "abName": "Ishmael",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 [Binding] el siguiente Turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con la Velocidad más alta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con la Velocidad más alta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelo Rosáceo",
+          "abName": "Tacones Rosas",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con la Velocidad más alta",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Polilla de Pétalo Ardiente",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige [Combustion] por la mitad de Reson. de Ira."
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Combustion] a 3 Enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Polilla de Pétalo Ardiente",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aumenta el Umbral de Aturdimiento por 40% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] por Reson. de Ira."
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Combustion] a 3 Enemigos aleatorios"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Polilla de Pétalo Ardiente",
+          "desc": "Selecciona a la unidad más lejana (En encuentros normales)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aumenta el Umbral de Aturdimiento por 40% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] por Reson. de Ira."
+                },
+                {
+                  "desc": "[EndSkillHead] Inflige 5 de [Combustion] a 3 Enemigos Aleatorios"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Polilla de Pétalo Ardiente",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[WhenUse] Pierde HP por 10% de su HP Máx",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] por Reson. de Ira a todas las unidades"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Polilla de Pétalo Ardiente",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[WhenUse] Pierde HP por 10% de su HP Máx",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] por (2 * Reson. de Ira) a todas las unidades"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 60% del daño infligido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Estrella De Pétalo Ardiente",
+          "abName": "Polilla de Pétalo Ardiente",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[WhenUse] Pierde HP por 10% de su HP Máx",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige [Combustion] por (2 * Reson. de Ira) a todas las unidades"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 60% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Toro de Bronce",
+          "desc": "[EndSkill] Aplica 1 Poder de Ira Aumentado a todos los aliados el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hiere por 7 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Toro de Bronce",
+          "desc": "[EndSkill] Aplica 1 Poder de Ira Aumentado a todos los aliados el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 daño de PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Toro de Bronce",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[EndSkill] Da 1 Fragilidad a la Ira, y 1 Poder de Ira Aumentado A todas las unidades el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion], Después reduce en 2 el contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Toro de Bronce",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[EndSkill] Da 1 Fragilidad a la Ira, y 1 Poder de Ira Aumentado A todas las unidades el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion], Después reduce en 2 el contador de [Vibration]; Si el [VibrationExplosion] Aturdió al objetivo, Inflige +2 Contador de [Combustion] en 3 unidades aleatorias"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2080511,
       "levelList": [
         {
@@ -77,7 +478,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 Contador de [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Fragilidad al Orgullo este turno y el siguiente turno"
@@ -95,10 +496,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Cura a sí misma por 3% de HP Máx"
+                  "desc": "[OnSucceedAttackTail] Cura por 3% de HP Máx"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 Contador de [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Fragilidad al Orgullo este turno y el siguiente turno"
@@ -119,10 +520,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura a sí misma por 3% de HP Máx"
+                  "desc": "[OnSucceedAttack] Cura por 3% de HP Máx"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 de Contador de [Breath]"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 Contador de [Breath]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 Fragilidad al Orgullo este turno y el siguiente turno"
@@ -148,26 +549,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura a sí misma por 15% de HP Máx"
+                  "desc": "[OnSucceedAttack] Cura por 15% de HP Máx"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Pierde de 1 a 2 PC"
+                  "desc": "[OnSucceedAttackHead] Pierde 1~2 PC"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Reutiliza esta Moneda (5 veces por Habilidad)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Cura a sí misma por 4 a 8% del daño infligido"
+                  "desc": "[OnSucceedAttack] Cura por 4~8% del daño infligido"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 [ShamrockTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 a 3 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1~3 de [Laceration]"
                 }
               ]
             }
@@ -182,26 +583,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura a sí misma por <style=\"highlight\">18%</style> de HP Máx"
+                  "desc": "[OnSucceedAttack] Cura por <style=\"highlight\">18%</style> de HP Máx"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Pierde de 1 a 2 PC"
+                  "desc": "[OnSucceedAttackHead] Pierde 1~2 PC"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Reutiliza esta Moneda (5 veces por Habilidad)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Cura a sí misma por <style=\"highlight\">6 a 10</style>% del daño infligido"
+                  "desc": "[OnSucceedAttack] Cura por <style=\"highlight\">6~10</style>% del daño infligido"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 [ShamrockTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige de 1 a 3 de [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1~3 de [Laceration]"
                 }
               ]
             }
@@ -216,26 +617,26 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura a sí misma por <style=\"highlight\">20</style>% de HP Máx"
+                  "desc": "[OnSucceedAttack] Cura por <style=\"highlight\">20</style>% de HP Máx"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Pierde de 1 a 2 PC"
+                  "desc": "[OnSucceedAttackHead] Pierde 1~2 PC"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Reutiliza esta Moneda (5 veces por Habilidad)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Cura a sí misma por <style=\"highlight\">8 a 12</style>% del daño infligido"
+                  "desc": "[OnSucceedAttack] Cura por <style=\"highlight\">8~12</style>% del daño infligido"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 [ShamrockTakeDamageUp]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige de 1 a <style=\"highlight\">4</style> de [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1~<style=\"highlight\">4</style> de [Laceration]"
                 }
               ]
             }
@@ -250,15 +651,15 @@
           "level": 1,
           "name": "Aleteo",
           "abName": "Festival de las Hadas",
-          "desc": "[CantIdentify]\nSelecciona a la unidad con el Núcleo de HP más bajo\n[BeforeAttack] Inflige 5% de HP como daño a máximo 5 otros aliados aleatorios\n- Cura a sí misma por HP igual al daño infligido a los aliados.\n- Si esta unidad infligió daño a un aliado, Gana 2 [Enhancement] este turno, y Gana 2 [Agility] el siguiente turno\n(Una vez por turno. El 'daño infligido' incluye daño infligido a HP de Escudo. Este efecto puede matar aliados.)",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el Núcleo de HP más bajo\n[BeforeAttack] Inflige 5% de HP como daño a máximo 5 otros aliados aleatorios\n- Cura HP por daño infligido a los aliados.\n- Si esta unidad infligió daño a un aliado, Gana 2 [Enhancement] este turno, y Gana 2 [Agility] el siguiente turno\n(Una vez por turno. El 'daño infligido' incluye daño infligido a HP de Escudo. Este efecto puede matar aliados.)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Cura a sí misma por 10% del daño infligido"
+                  "desc": "[OnSucceedAttackTail] Cura por 10% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige 1 a 4 [Laceration]"
+                  "desc": "[OnSucceedAttackTail] Inflige 1~4 de [Laceration]"
                 }
               ]
             }
@@ -268,15 +669,15 @@
           "level": 3,
           "name": "Aleteo",
           "abName": "Festival de las Hadas",
-          "desc": "[CantIdentify]\nSelecciona a la unidad con el Núcleo de HP más bajo\n<style=\"highlight\">[BeforeAttack] Gana (# of Reson. más alta -2) Alcance de Atq (máx 1)</style>\n[BeforeAttack] Inflige 5% de HP como daño a máximo 5 otros aliados aleatorios\n- Cura a sí misma por HP igual al daño infligido a los aliados.\n- Si esta unidad infligió daño a un aliado, Gana 2 [Enhancement] este turno, y Gana 2 [Agility] el siguiente turno\n(Una vez por turno. El 'daño infligido' incluye daño infligido a HP de Escudo. Este efecto puede matar aliados.)\n<style=\"highlight\">[EndSkill] Si la curación de esta Habilidad excedió la HP Máx de esta unidad, gana (exceso de curación/HP Máx) x 10 [AttackUp] el siguiente turno. (máx 3 por turno)</style>",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el Núcleo de HP más bajo\n<style=\"highlight\">[BeforeAttack] Gana (# de Reson. más alta -2) Alcance de Atq (máx 1)</style>\n[BeforeAttack] Inflige 5% de HP como daño a máximo 5 otros aliados aleatorios\n- Cura HP por daño infligido a los aliados.\n- Si esta unidad infligió daño a un aliado, Gana 2 [Enhancement] este turno, y Gana 2 [Agility] el siguiente turno\n(Una vez por turno. El 'daño infligido' incluye daño infligido a HP de Escudo. Este efecto puede matar aliados.)\n<style=\"highlight\">[EndSkill] Si la curación de esta Habilidad excedió la HP Máx de esta unidad, gana (exceso de curación/HP Máx) x 10 [AttackUp] el siguiente turno. (máx 3 por turno)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Cura a sí misma por <style=\"highlight\">15</style>% del daño infligido"
+                  "desc": "[OnSucceedAttackTail] Cura por <style=\"highlight\">15</style>% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige de <style=\"highlight\">2 a 5</style> de [Laceration]"
+                  "desc": "[OnSucceedAttackTail] Inflige <style=\"highlight\">2~5</style> de [Laceration]"
                 }
               ]
             }
@@ -286,15 +687,15 @@
           "level": 4,
           "name": "Aleteo",
           "abName": "Festival de las Hadas",
-          "desc": "[CantIdentify]\nSelecciona a la unidad con el Núcleo de HP más bajo\n[BeforeAttack] Gana (# of Reson. más alta -2) Alcance de Atq (máx <style=\"highlight\">2</style>)\n[BeforeAttack] Inflige 5% de HP como daño a máximo 5 otros aliados aleatorios\n- Cura a sí misma por HP igual al daño infligido a los aliados.\n- Si esta unidad infligió daño a un aliado, Gana 2 [Enhancement] este turno, y Gana 2 [Agility] el siguiente turno\n(Una vez por turno. El 'daño infligido' incluye daño infligido a HP de Escudo. Este efecto puede matar aliados.)\n[EndSkill] Si la curación de esta Habilidad excedió la HP Máx de esta unidad, gana (exceso de curación/HP Máx) x 10 [AttackUp] el siguiente turno. (máx <style=\"highlight\">6</style> por turno)",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el Núcleo de HP más bajo\n[BeforeAttack] Gana (# de Reson. más alta -2) Alcance de Atq (máx <style=\"highlight\">2</style>)\n[BeforeAttack] Inflige 5% de HP como daño a máximo 5 otros aliados aleatorios\n- Cura HP por daño infligido a los aliados.\n- Si esta unidad infligió daño a un aliado, Gana 2 [Enhancement] este turno, y Gana 2 [Agility] el siguiente turno\n(Una vez por turno. El 'daño infligido' incluye daño infligido a HP de Escudo. Este efecto puede matar aliados.)\n[EndSkill] Si la curación de esta Habilidad excedió la HP Máx de esta unidad, gana (exceso de curación/HP Máx) x 10 [AttackUp] el siguiente turno. (máx <style=\"highlight\">6</style> por turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] Cura a sí misma por <style=\"highlight\">20</style>% del daño infligido"
+                  "desc": "[OnSucceedAttackTail] Cura por <style=\"highlight\">20</style>% del daño infligido"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Inflige de <style=\"highlight\">3 a 6</style> de [Laceration]"
+                  "desc": "[OnSucceedAttackTail] Inflige <style=\"highlight\">3~6</style> de [Laceration]"
                 },
                 {
                   "desc": "[EnemyKill] Gana 1 [Enhancement] el siguiente turno (máx 3)"
@@ -386,7 +787,7 @@
           "level": 1,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[CantIdentify]\nSelecciona al objetivo con la mayor cantidad de [Sinking]\n[BeforeAttack] Pierde HP por 10% del HP Máx (no es Aturdida debido a este efecto)\n[EndSkill] Cura a 3 otros aliados con el porcentaje de HP más bajo por (5 + (suma de Potencia y Contador de [Sinking] en el objetivo principal)/3)% HP (máx 10%)\n- Con 4+ Reson. más alta, Cura a un aliado adicional",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con la mayor cantidad de [Sinking]\n[BeforeAttack] Pierde HP por 10% de HP Máx (no es Aturdida debido a este efecto)\n[EndSkill] Cura a 3 otros aliados con el porcentaje de HP más bajo por (5 + (suma de Potencia y Contador de [Sinking] en el objetivo principal)/3)% HP (máx 10%)\n- Con 4+ Reson. más alta, Cura a un aliado adicional",
           "coinlist": [
             {
               "coindescs": [
@@ -410,7 +811,7 @@
           "level": 3,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[CantIdentify]\nSelecciona al objetivo con la mayor cantidad de [Sinking]\n[BeforeAttack] Pierde HP por 10% del HP Máx (no es Aturdida debido a este efecto)\n[EndSkill] Cura a 3 otros aliados con el porcentaje de HP más bajo por (<style=\"highlight\">10</style> + (suma de Potencia y Contador de [Sinking] en el objetivo principal)/3)% HP (máx <style=\"highlight\">15</style>%)\n- Con 4+ Reson. más alta, Cura a un aliado adicional",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con la mayor cantidad de [Sinking]\n[BeforeAttack] Pierde HP por 10% de HP Máx (no es Aturdida debido a este efecto)\n[EndSkill] Cura a 3 otros aliados con el porcentaje de HP más bajo por (<style=\"highlight\">10</style> + (suma de Potencia y Contador de [Sinking] en el objetivo principal)/3)% HP (máx <style=\"highlight\">15</style>%)\n- Con 4+ Reson. más alta, Cura a un aliado adicional",
           "coinlist": [
             {
               "coindescs": [
@@ -437,7 +838,7 @@
           "level": 4,
           "name": "Tiempos Pasados",
           "abName": "Retrato de un Cierto Día",
-          "desc": "[CantIdentify]\nSelecciona al objetivo con la mayor cantidad de [Sinking]\n[BeforeAttack] Pierde HP por 10% del HP Máx (no es Aturdida debido a este efecto)\n[EndSkill] Cura a 3 otros aliados con el porcentaje de HP más bajo por (10 + (suma de Potencia y Contador de [Sinking] en el objetivo principal)/3)% HP (máx 15%)\n- Con 4+ Reson. más alta, Cura a un aliado adicional\n<style=\"highlight\">- Si dicha Reson. era una Reson. de Melancolía, Cura un 5% de HP adicional</style>",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con la mayor cantidad de [Sinking]\n[BeforeAttack] Pierde HP por 10% de HP Máx (no es Aturdida debido a este efecto)\n[EndSkill] Cura a 3 otros aliados con el porcentaje de HP más bajo por (10 + (suma de Potencia y Contador de [Sinking] en el objetivo principal)/3)% HP (máx 15%)\n- Con 4+ Reson. más alta, Cura a un aliado adicional\n<style=\"highlight\">- Si dicha Reson. era una Reson. de Melancolía, Cura un 5% de HP adicional</style>",
           "coinlist": [
             {
               "coindescs": [

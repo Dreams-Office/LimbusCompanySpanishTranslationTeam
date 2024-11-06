@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Hoja Arrancada",
+          "name": "Cuchilla Arrancada",
           "desc": "",
           "coinlist": [
             {},
@@ -21,7 +21,7 @@
         },
         {
           "level": 2,
-          "name": "Hoja Arrancada",
+          "name": "Cuchilla Arrancada",
           "desc": "",
           "coinlist": [
             {},
@@ -37,7 +37,7 @@
         },
         {
           "level": 4,
-          "name": "Hoja Arrancada",
+          "name": "Cuchilla Arrancada",
           "desc": "",
           "coinlist": [
             {},
@@ -589,13 +589,13 @@
       "levelList": [
         {
           "level": 3,
-          "name": "Aprovecha la Brecha",
+          "name": "Aprovechar la Brecha",
           "desc": "En un Choque, El oponente tiene -2 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [OffenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 [AttackDown] el siguiente turno"
                 }
               ]
             },
@@ -614,13 +614,13 @@
         },
         {
           "level": 4,
-          "name": "Aprovecha la Brecha",
+          "name": "Aprovechar la Brecha",
           "desc": "En un Choque, El oponente tiene -2 Poder de Choque\nSi el objetivo tiene 7+ de [Burst], Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [OffenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 [AttackDown] el siguiente turno"
                 }
               ]
             },
@@ -1745,7 +1745,7 @@
         {
           "level": 2,
           "name": "Brinco Cargado",
-          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder Base +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + 1) [ChargeForceField] a sí misma y a 2 aliados con el menor Contador de [Charge]. (Máx 7 [ChargeForceField] por aliado. Se activa una vez por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
+          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder Base +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + 1) [ChargeForceField] a sí y a 2 aliados con el menor Contador de [Charge]. (Máx 7 [ChargeForceField] por aliado. Se activa una vez por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
           "coinlist": [
             {
               "coindescs": [
@@ -1772,7 +1772,7 @@
         {
           "level": 4,
           "name": "Brinco Cargado",
-          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder de Moneda +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] a sí misma y a 2 aliados con el menor Contador de [Charge]. (Máx <style=\"highlight\">8</style> [ChargeForceField] por aliado. Se activa <style=\"highlight\">2 veces</style> por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
+          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder de Moneda +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] a sí y a 2 aliados con el menor Contador de [Charge]. (Máx <style=\"highlight\">8</style> [ChargeForceField] por aliado. Se activa <style=\"highlight\">2 veces</style> por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
           "coinlist": [
             {
               "coindescs": [
@@ -1804,7 +1804,7 @@
         {
           "level": 3,
           "name": "Desgarro Dimensional",
-          "desc": "[StartBattle] A sí misma y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7 a 14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +1",
+          "desc": "[StartBattle] A sí y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7 a 14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +1",
           "coinlist": [
             {},
             {
@@ -1836,7 +1836,7 @@
         {
           "level": 4,
           "name": "Desgarro Dimensional",
-          "desc": "[StartBattle] A sí misma y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7 a 14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +2\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +2",
+          "desc": "[StartBattle] A sí y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7 a 14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +2\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1911,20 +1911,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sewing",
-          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 40 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 8 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain +2 [Laceration] Count",
+          "name": "Coser",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             }
@@ -1932,26 +1932,26 @@
         },
         {
           "level": 2,
-          "name": "Sewing",
-          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 40 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 8 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain +2 [Laceration] Count\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>",
+          "name": "Coser",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige +1 Contador de [Laceration]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige +1 Contador de [Laceration]</style>"
                 }
               ]
             }
@@ -1959,26 +1959,26 @@
         },
         {
           "level": 4,
-          "name": "Sewing",
-          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 10)\n[WhenUse] Consume up to 40 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 8 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain +2 [Laceration] Count\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>",
+          "name": "Coser",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige +1 Contador de [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict +1 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige +1 Contador de [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             }
@@ -1991,33 +1991,33 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scission",
-          "desc": "On Hit with this Skill: heal 10% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]",
+          "name": "Disección",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], inflict 1 [LineCuttingPersonality] on the target next turn"
+                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige 1 [LineCuttingPersonality] en el objetivo el siguiente turno"
                 }
               ]
             }
@@ -2025,33 +2025,33 @@
         },
         {
           "level": 2,
-          "name": "Scission",
-          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>",
+          "name": "Disección",
+          "desc": "Tras Golpear con esta Habilidad: cura 20% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], inflict 1 [LineCuttingPersonality] on the target next turn"
+                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige 1 [LineCuttingPersonality] en el objetivo el siguiente turno"
                 }
               ]
             }
@@ -2059,33 +2059,33 @@
         },
         {
           "level": 4,
-          "name": "Scission",
-          "desc": "On Hit with this Skill: heal 20% of the HP damage dealt (max 20)\n[WhenUse] Consume up to 60 [BloodDinner] and gain 1 [BloodScissorPersonalityFirst] for every 6 [BloodDinner] this unit consumed\n- If this unit failed to consume [BloodDinner], gain 5 [Laceration]\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1<style=\"highlight\"></style>",
+          "name": "Disección",
+          "desc": "Tras Golpear con esta Habilidad: cura 20% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If the target has [LineCuttingPersonality], inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [LineCuttingPersonality], inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [LineCuttingPersonality] on target next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [LineCuttingPersonality] al objetivo el siguiente turno"
                 }
               ]
             }
@@ -2098,34 +2098,34 @@
       "levelList": [
         {
           "level": 3,
-          "name": "I'll Make You a New Dress!",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 20)\n[BeforeAttack] At 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every 6 [Laceration] on the target (max 2)\n[EndSkill] Consume 15 [BloodScissorPersonalityFirst] for every Atk Weight gained\n[EndSkill] If the target is killed, increase [BloodDinner] by 10. Regain half of [BloodScissorPersonalityFirst] consumed by this Skill (once per turn)",
+          "name": "¡Te Haré un Nuevo Vestido!",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño de HP infligido (máx 20)\n[BeforeAttack] Con 10+ [BloodScissorPersonalityFirst], Alcance de Atq +1\n[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada 6 [Laceration] en el objetivo (máx 2)\n[EndSkill] Consume 15 [BloodScissorPersonalityFirst] por cada Alcance de Atq ganado\n[EndSkill] Si el objetivo es matado, aumenta [BloodDinner] por 10. Recupera la mitad de [BloodScissorPersonalityFirst] gastadas por esta Habilidad (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], deal +([BloodScissorPersonalityFirst] x 2)% more damage (max 38%)\n- At 20+ [BloodScissorPersonalityFirst], deal +([BloodScissorPersonalityFirst] x 3)% more damage instead (max 90%)"
+                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x 2)% more damage (máx 38%)\n- Con 20+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x 3)% de daño en su lugar (máx 90%)"
                 }
               ]
             }
@@ -2133,34 +2133,34 @@
         },
         {
           "level": 4,
-          "name": "I'll Make You a New Dress!",
-          "desc": "On Hit with this Skill: heal 30% of the HP damage dealt (max 20)\n[BeforeAttack] At 10+ [BloodScissorPersonalityFirst], Atk Weight +1\n<style=\"highlight\">- At 20+ [BloodScissorPersonalityFirst], replace the above effect with Atk Weight +2 instead</style>\n[WhenUse] If the target has 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 for every 6 [Laceration] on the target (max 2)\n[EndSkill] Consume <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] for every Atk Weight gained\n[EndSkill] If the target is killed, increase [BloodDinner] by <style=\"highlight\">20</style>. Regain half of [BloodScissorPersonalityFirst] consumed by this Skill (once per turn)\n<style=\"highlight\">- If the target is [LineCuttingPersonality], additionally increase [BloodDinner] by 20 more, and gain 5 [BloodScissorPersonalityFirst] (once per turn)</style>",
+          "name": "¡Te Haré un Nuevo Vestido!",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño de HP infligido (máx 20)\n[BeforeAttack] Con 10+ [BloodScissorPersonalityFirst], Alcance de Atq +1\n<style=\"highlight\">- Con 20+ [BloodScissorPersonalityFirst], reemplaza el efecto anterior con Alcance de Atq +2 en su lugar</style>\n[WhenUse] Si el objetivo tiene 5+ [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada 6 [Laceration] en el objetivo (máx 2)\n[EndSkill] Consume <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] por cada Alcance de Atq ganaed\n[EndSkill] Si el objetivo es matado, aumenta [BloodDinner] por <style=\"highlight\">20</style>. Recupera la mitad de [BloodScissorPersonalityFirst] gastadas por esta Habilidad (una vez por turno)\n<style=\"highlight\">- Si el objetivo es [LineCuttingPersonality], adicionalmente aumenta [BloodDinner] por 20 más, y gana 5 [BloodScissorPersonalityFirst] (una vez por turno)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 10+ [BloodScissorPersonalityFirst], deal +([BloodScissorPersonalityFirst] x <style=\"highlight\">3</style>)% more damage (max <style=\"highlight\">57</style>%)\n- At 20+ [BloodScissorPersonalityFirst], deal +([BloodScissorPersonalityFirst] x <style=\"highlight\">4</style>)% more damage instead (max <style=\"highlight\">120</style>%)"
+                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x <style=\"highlight\">3</style>)% de daño (máx <style=\"highlight\">57</style>%)\n- Con 20+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x <style=\"highlight\">4</style>)% de daño en su lugar (máx <style=\"highlight\">120</style>%)"
                 }
               ]
             }
@@ -2173,13 +2173,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quite Discourteous!",
-          "desc": "[WhenUse] At 10+ [BloodScissorPersonalityFirst], Base Power +1\n[WhenUse] At 5+ [Laceration], Coin Power +1",
+          "name": "¡Absolutamente Descortés!",
+          "desc": "[WhenUse] Con 10+ [BloodScissorPersonalityFirst], Poder Base +1\n[WhenUse] Con 5+ de [Laceration], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             }
@@ -2187,13 +2187,13 @@
         },
         {
           "level": 4,
-          "name": "Quite Discourteous!",
-          "desc": "[WhenUse] At 10+ [BloodScissorPersonalityFirst], Base Power +1<style=\"highlight\">\n- At 20+ [BloodScissorPersonalityFirst], gain Base Power +2 instead</style>\n[WhenUse] <style=\"highlight\">Coin Power +1 for every 5 [Laceration] on self (max 3)</style>",
+          "name": "¡Absolutamente Descortés!",
+          "desc": "[WhenUse] Con 10+ [BloodScissorPersonalityFirst], Poder Base +1<style=\"highlight\">\n- Con 20+ [BloodScissorPersonalityFirst], gana Poder Base +2 instead</style>\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 5 de [Laceration] en sí (máx 3)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             }

@@ -1,6 +1,386 @@
 {
   "dataList": [
     {
+      "id": 2040111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Infinitas Flamas En La Pesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Infinitas Flamas En La Pesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Infinitas Flamas En La Pesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Poder de Habilidad +2 contra unidades con [Combustion]\n[EnemyKill] Gana 1 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Poder de Habilidad +2 contra unidades con [Combustion]\n[EnemyKill] Gana 2 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Poder de Habilidad +2 contra unidades con [Combustion]\nInflige +5% de daño por cada 1 de [Combustion] en el objetivo (Máx 100%)\n[EnemyKill] Gana +2 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nPoder de Habilidad +2 contra unidades con [Combustion]\n[EnemyKill] Gana +2 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana 10 de [Combustion] el Siguiente turno el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nPoder de Habilidad +4 contra unidades con [Combustion]\n[EnemyKill] Gana +3 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 Poder de Ataque Aumentado y 10 de [Combustion] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nnPoder de Habilidad +4 contra unidades con [Combustion]\nInflige +5% de daño cada 1 de [Combustion] del objetivo (Máx 100%)\n[EnemyKill] Gana +3 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 Poder de Ataque Aumentado y 10 de [Combustion] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor a la del usuario, Inflige 2 Fragilidad a lo Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor a la del usuario, Inflige 2 Fragilidad a lo Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 2 Debilitamiento de Moneda Positiva el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 2 de Debilitamiento de Moneda Positiva el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor a la del usuario, Inflige 1~3 Frágil Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder de Moneda +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +20% de daño"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder de Moneda +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +20% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder de Moneda +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +40% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder Final +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +30% de daño"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder Final +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +30% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con el menor HP por 10% de HP Máx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Brote Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder Final +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +50% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con el menor HP por 10% de HP Máx"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2040511,
       "levelList": [
         {

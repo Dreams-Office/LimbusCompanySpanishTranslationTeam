@@ -1,6 +1,452 @@
 {
   "dataList": [
     {
+      "id": 2020111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Emisor de Representaciones",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 8 PC para los 4 aliados con los menores PC" 
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Emisor de Representaciones",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 10 PC para los 4 aliados con los menores PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Emisor de Representaciones",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 12 PC para los 4 aliados con los menores PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 10 PC para todos los aliados"
+                },
+                {
+                  "desc": "[EndSkill] Cura a todos los aliados 10% de HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 15 PC para todos los aliados"
+                },
+                {
+                  "desc": "[EndSkill] Cura a todos los aliados 15% de HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "hys Sin Cabeza",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Cura 15 PC para todos los aliados"
+                },
+                {
+                  "desc": "[EndSkill] Cura a todos los aliados 15% de HP"
+                },
+                {
+                  "desc": "[EndSkillHead] Cura 10 PC para todos los aliados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido al siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 20 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 20 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 10 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a lo Perforante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Envidia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a lo Perforante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Envidia"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Maldición"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a lo Perforante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Envidia"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Maldición"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Maldición, +50% de Daño"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a lo Perforante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Envidia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a lo Perforante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a la Envidia"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Maldición"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a lo Perforante"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a la Envidia"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Maldición"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Maldición, +50% de Daño"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +5 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +7 Contador de [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Aplica Poder de Envidia Positivo y 1 [Agility] a 2 Aliados aleatorios el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                },
+                {
+                  "desc": "[EndSkill] Gana +7 Contador de [Charge]"
+                },
+                {
+                  "desc": "[EndSkillHead] Aplica Poder de Envidia Positivo y 1 [Agility] a 2 Aliados aleatorios el siguiente turno, y esta unidad Gana +3 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +7 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 Contador de [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 Parálisis y 2 [Binding] a 2 unidades aleatorias el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctro-Poste",
+          "abName": "Guardián del Callejón",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Parálisis"
+                },
+                {
+                  "desc": "[EndSkill] Gana +10 Contador de [Charge]"
+                },
+                {
+                  "desc": "[EndSkillTail] Inflige 2 Parálisis y 2 [Binding] a 2 unidades aliadas el siguiente turno, Gana +3 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": 2020511,
       "levelList": [
         {
@@ -351,26 +797,26 @@
           "level": 1,
           "name": "Lazo",
           "abName": "Cazador de Rosas",
-          "desc": "Coin Power +1 for every 7 [Burst] on the target (max 2)",
+          "desc": "Poder de Moneda +1 por cada 7 de [Burst] en el objetivo (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -380,26 +826,26 @@
           "level": 3,
           "name": "Lazo",
           "abName": "Cazador de Rosas",
-          "desc": "<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ Gluttony or Lust Reson., gain +1 Atk Weight</style>",
+          "desc": "<style=\"highlight\">Si la suma de la Velocidad de esta unidad y el objetivo es 6 o mayor, Poder de Moneda +1</style>\nPoder de Moneda +1 por cada 7 de [Burst] en el objetivo (máx 2)\n<style=\"highlight\">[BeforeAttack] Gana 2 [Agility] el siguiente\n[BeforeAttack] Con 4+ Reson. de Gula o Lujuria, gana +1 Alcance de Atq</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             }
@@ -409,26 +855,26 @@
           "level": 4,
           "name": "Lazo",
           "abName": "Cazador de Rosas",
-          "desc": "If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for ever 7 [Burst] on the target (max 2)\n[BeforeAttack] Gain 2 [Agility] next turn\n[BeforeAttack] At 4+ highest Reson., Atk Weight +1\n<style=\"highlight\">- If the said Reson. was a Gluttony Reson., Atk Weight +1</style>",
+          "desc": "Si la suma de la Velocidad de esta unidad y el objetivo es 6 o mayor, Poder de Moneda +1\nPoder de Moneda +1 for ever 7 de [Burst] en el objetivo (máx 2)\n[BeforeAttack] Gana 2 [Agility] el siguiente\n[BeforeAttack] Con 4+ Reson. más alta, Alcance de Atq +1\n<style=\"highlight\">- Si dicha Reson. era una Reson. de Gula, Alcance de Atq +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             }
@@ -443,26 +889,26 @@
           "level": 1,
           "name": "Lazo",
           "abName": "Cazador de Rosas",
-          "desc": "[CantIdentify]\nTargets randomly\nCoin Power +1 for every 7 [Burst] on the target (max 2)",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nPoder de Moneda +1 por cada 7 de [Burst] en el objetivo (máx 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Snare]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Snare]"
                 }
               ]
             }
@@ -472,29 +918,29 @@
           "level": 3,
           "name": "Lazo",
           "abName": "Cazador de Rosas",
-          "desc": "[CantIdentify]\nTargets randomly\n<style=\"highlight\">If the sum of this unit and the target's Speed is 6 or greater, Coin Power +1</style>\nCoin Power +1 for every 7 [Burst] on the target (max 2)\n<style=\"highlight\">[BeforeAttack] Gain 2 [Agility] next turn</style>",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n<style=\"highlight\">Si la suma de la Velocidad de esta unidad y el objetivo es 6 o mayor, Poder de Moneda +1</style>\nPoder de Moneda +1 por cada 7 de [Burst] en el objetivo (máx 2)\n<style=\"highlight\">[BeforeAttack] Gana 2 [Agility] el siguiente</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Snare]"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst] on the target (max 30%)"
+                  "desc": "[OnSucceedAttack] Realiza +2% más de daño por cada de [Burst] en el objetivo (máx 30%)"
                 }
               ]
             }
@@ -504,29 +950,29 @@
           "level": 4,
           "name": "Lazo",
           "abName": "Cazador de Rosas",
-          "desc": "[CantIdentify]\nTargets randomly\nIf the sum of this unit and the target's Speed is 6 or greater, Coin Power +1\nCoin Power +1 for every 7 [Burst] on the target\n[BeforeAttack] Gain 2 [Agility] next turn\n<style=\"highlight\">[EndSkill] If the target is Staggered or defeated, gain 1 [ShamrockResultUp] next turn</style>",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi la suma de la Velocidad de esta unidad y el objetivo es 6 o mayor, Poder de Moneda +1\nPoder de Moneda +1 por cada 7 de [Burst] en el objetivo\n[BeforeAttack] Gana 2 [Agility] el siguiente\n<style=\"highlight\">[EndSkill] Si el objetivo es Aturdido o derrotado, gana 1 [ShamrockResultUp] el siguiente</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 4 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Snare]"
+                  "desc": "[OnSucceedAttack] Inflige 2 [Snare]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Deal +2% more damage for every [Burst] on the target (max 60%)"
+                  "desc": "[OnSucceedAttack] Realiza +2% más de daño por cada de [Burst] en el objetivo (máx 60%)"
                 }
               ]
             }
