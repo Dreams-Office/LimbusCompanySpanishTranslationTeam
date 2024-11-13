@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Apuñalada"
+          "name": "Puñalada"
         }
       ]
     },
@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "Herida Abierta",
-          "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Negativo el siguiente turno"
+          "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido el siguiente turno"
         }
       ]
     },
@@ -54,7 +54,7 @@
         {
           "level": 1,
           "name": "Spot Vulnerability",
-          "desc": "[OnSucceedAttack] Inflige 3 Fragile next turn"
+          "desc": "[OnSucceedAttack] Inflige 3 Frágil el siguiente turno"
         }
       ]
     },
@@ -73,7 +73,7 @@
         {
           "level": 1,
           "name": "Comando de Ataque",
-          "desc": "[WhenUse] Apply 1 Attack Power Up to a random ally next turn"
+          "desc": "[WhenUse] Apply 1 Attack Power Up to a random ally el siguiente turno"
         }
       ]
     },
@@ -83,7 +83,7 @@
         {
           "level": 1,
           "name": "Comando de Defensa",
-          "desc": "[2xPostLine]\n[WhenUse] Give 2 Poder Defensivo Aumentado to 2 random allies next turn"
+          "desc": "[2xPostLine]\n[WhenUse] Give 2 Poder Defensivo Aumentado to 2 random allies el siguiente turno"
         }
       ]
     },
@@ -200,7 +200,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Apuñalar",
+          "name": "Puñalada",
           "desc": "",
           "coinlist": [
             {}
@@ -213,7 +213,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Puñetazos Veloces",
+          "name": "Punzadas Veloces",
           "desc": "",
           "coinlist": [
             {},
@@ -227,7 +227,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golpetazo",
+          "name": "Corte",
           "desc": "",
           "coinlist": [
             {}
@@ -253,7 +253,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Barrido",
+          "name": "Tajo",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -286,7 +286,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Apuñalada",
+          "name": "Puñalada",
           "desc": "",
           "coinlist": [
             {}
@@ -299,7 +299,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Puñetazos Veloces",
+          "name": "Punzadas Veloces",
           "desc": "",
           "coinlist": [
             {}
@@ -312,7 +312,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golpetazo",
+          "name": "Corte",
           "desc": "",
           "keywords": [
             "Bleeding"
@@ -347,7 +347,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Barrido",
+          "name": "Tajo",
           "desc": "",
           "coinlist": [
             {
@@ -366,7 +366,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guardia",
+          "name": "Guardiaia",
           "desc": ""
         }
       ]
@@ -376,7 +376,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Apuñalada",
+          "name": "Puñalada",
           "desc": "",
           "coinlist": [
             {}
@@ -389,7 +389,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Puñetazos Veloces",
+          "name": "Punzadas Veloces",
           "desc": "",
           "coinlist": [
             {
@@ -422,7 +422,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golpetazo",
+          "name": "Corte",
           "desc": "",
           "coinlist": [
             {}
@@ -454,7 +454,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Barrido",
+          "name": "Tajo",
           "desc": "",
           "coinlist": [
             {
@@ -483,7 +483,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Apuñalada",
+          "name": "Puñalada",
           "desc": "",
           "coinlist": [
             {}
@@ -496,7 +496,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Puñetazos Veloces",
+          "name": "Punzadas Veloces",
           "desc": "",
           "coinlist": [
             {
@@ -529,7 +529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Golpetazo",
+          "name": "Corte",
           "desc": "",
           "coinlist": [
             {}
@@ -837,7 +837,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Apuñalada Astuta",
+          "name": "Puñalada Astuta",
           "desc": "",
           "coinlist": [
             {
@@ -2381,7 +2381,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "¡Tonterías…!",
+          "name": "¡Insensatez...!",
           "desc": "",
           "coinlist": [
             {
@@ -2400,7 +2400,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Trazo Mortal",
+          "name": "Golpear",
           "desc": "",
           "coinlist": [
             {}
@@ -2413,7 +2413,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Line of Death",
+          "name": "Trazo Mortal",
           "desc": "",
           "coinlist": [
             {}
@@ -2445,7 +2445,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kiih",
+          "name": "¡Kii!",
           "desc": "",
           "coinlist": [
             {
@@ -2471,7 +2471,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Guardia",
           "desc": "",
           "coinlist": [
             {}
@@ -2484,7 +2484,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kiih",
+          "name": "¡Kiiiki!",
           "desc": "",
           "coinlist": [
             {
@@ -2503,7 +2503,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kiieeh",
+          "name": "¡Kiiiiiki!",
           "desc": "",
           "coinlist": [
             {
@@ -2516,7 +2516,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige Paralyze for each Heads this skill lands"
+                  "desc": "[OnSucceedAttackHead] Inflige Parálisis  por cada moneda en cara que obtenga esta habilidad"
                 }
               ]
             }
@@ -2529,7 +2529,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Guardia",
           "desc": "",
           "coinlist": [
             {}
@@ -2542,7 +2542,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kigik!",
+          "name": "¡Kikiii!",
           "desc": "",
           "coinlist": [
             {
@@ -2561,7 +2561,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kieek!",
+          "name": "¡¡¡¡Kiiiki!!",
           "desc": "",
           "coinlist": [
             {
@@ -2574,7 +2574,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Defense Down and +1 de Contador de Sangrado"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Nivel Defensivo Reducido y +1 de Contador de Sangrado"
                 }
               ]
             }
@@ -2587,7 +2587,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Guardia",
           "desc": "",
           "coinlist": [
             {}
@@ -2600,13 +2600,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kigigiik",
-          "desc": "If user took no damage last turn, Coin Power +1",
+          "name": "¡Kikikikiii!",
+          "desc": "Si el usuario no tomó daño el último turno, Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 de Tremor"
                 }
               ]
             }
@@ -2619,13 +2619,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kigigiik",
+          "name": "¡Kikikikiii!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Bind and 2 Defense Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] y 2 Nivel Defensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -2638,7 +2638,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Kieegikhik",
+          "name": "¡Kiiiikikiii!",
           "desc": "[WhenUse] Gana 2 Protección",
           "coinlist": [
             {
@@ -2657,7 +2657,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Guard",
+          "name": "Guardia",
           "desc": "",
           "coinlist": [
             {}
@@ -2670,7 +2670,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Disparo a Proximidad",
           "desc": "",
           "coinlist": [
             {}
@@ -2683,7 +2683,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Retirada; Retirada;",
           "desc": "",
           "coinlist": [
             {}
@@ -2696,7 +2696,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Disparo a Proximidad",
           "desc": "",
           "coinlist": [
             {}
@@ -2709,7 +2709,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Retirada; Retirada;",
           "desc": "",
           "coinlist": [
             {}
@@ -2722,8 +2722,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flash; Flash;",
-          "desc": "[WhenUse] Target loses 10 SP",
+          "name": "Destello Destellante;",
+          "desc": "[WhenUse] El objetivo pierde 10 PC",
           "coinlist": [
             {}
           ]
@@ -2735,13 +2735,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scanning for weakness.",
+          "name": "Escaneando debilidades.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             }
@@ -2754,13 +2754,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Impeding movement.",
+          "name": "Impidiendo movimientos.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -2773,13 +2773,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cutting up.",
+          "name": "Cortando.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 }
               ]
             }
@@ -2792,16 +2792,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carving out.",
+          "name": "Serrando.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 Nivel Defensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -2814,13 +2814,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Load... And Fire",
+          "name": "Cargando... Y Fuego",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Tremor"
                 }
               ]
             }
@@ -2833,13 +2833,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing down.",
+          "name": "Presionando.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Activa Estallido de Tremor"
@@ -2855,13 +2855,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cutting up.",
+          "name": "Cortando.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +5 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +5 Contador de Ruptura"
                 }
               ]
             },
@@ -2881,14 +2881,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Carving out.",
+          "name": "Serrando.",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Defense Level Down next turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Defensivo Reducido el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Frágil el siguiente turno"
@@ -2904,13 +2904,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sawblade... Slamming down.",
+          "name": "Sierra... Aplastando.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +5 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +5 Contador de Ruptura"
                 }
               ]
             },
@@ -2924,7 +2924,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Frágil el siguiente turno"
                 }
               ]
             }
@@ -2937,7 +2937,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
+          "name": "Entrando en Modo Defensivo",
           "desc": "[WhenUse] Gana 2 Protección",
           "coinlist": [
             {}
@@ -2950,16 +2950,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Load... And Fire",
+          "name": "Cargando... Y Fuego",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de Tremor"
                 }
               ]
             }
@@ -2972,13 +2972,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pressing down.",
+          "name": "Presionando.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Negativo el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -2991,13 +2991,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "CAUTION, CAUTION: Unsteady",
+          "name": "PRECAUCIÓN, PRECAUCIÓN: Inestable",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Ofensivo Reducidonext turn"
+                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Ofensivo Reducidoel siguiente turno"
                 }
               ]
             },
@@ -3017,7 +3017,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
+          "name": "Entrando en Modo Defensivo",
           "desc": "[WhenUse] Gana 2 Protección",
           "coinlist": [
             {}
@@ -3030,7 +3030,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wounding.",
+          "name": "Hiriendo.",
           "desc": "",
           "coinlist": [
             {
@@ -3039,7 +3039,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +5 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttackHead] Inflige +5 Contador de Ruptura"
                 }
               ]
             }
@@ -3052,13 +3052,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "SPOTTED, SPOTTED: Injury",
-          "desc": "Prioritizes enemies con Ruptura",
+          "name": "ENCONTRADA, ENCONTRADA: Herida",
+          "desc": "Prioriza enemigos con Ruptura",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal fixed damage equal to target's de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige daño fijo igual al Contador de Ruptura del enemigo"
                 }
               ]
             }
@@ -3071,16 +3071,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Amplify Vibration",
+          "name": "Amplificar Vibración",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 5 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +3 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +3 Contador de Tremor"
                 }
               ]
             }
@@ -3093,8 +3093,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Breaking down.",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "Destrozando.",
+          "desc": "Prioriza enemigos con Tremor",
           "coinlist": [
             {
               "coindescs": [
@@ -3102,7 +3102,7 @@
                   "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 Paralyze next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -3115,13 +3115,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "WARNING, WARNING: Shaking",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "PELIGRO, PELIGRO: Tembleque",
+          "desc": "Prioriza enemigos con Tremor",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 10 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 10 de Tremor"
                 }
               ]
             }
@@ -3134,13 +3134,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vulnerability Detected",
+          "name": "Vulnerabilidad Detectada",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Damage -50%\nStagger target"
+                  "desc": "[OnSucceedAttack] Daño -50%\nAturde al objetivo"
                 }
               ]
             }
@@ -3153,8 +3153,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Enter Defensive Mode",
-          "desc": "[StartBattle] Gana 3 Protection",
+          "name": "Entrando en Modo Defensivo",
+          "desc": "[StartBattle] Gana 3 Protección",
           "coinlist": [
             {}
           ]
@@ -3166,13 +3166,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let me return the favor.",
+          "name": "Permíteme devolverte el favor.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Tremor by the number of Coins that hit last turn"
+                  "desc": "[OnSucceedAttack] Inflige Tremor según el número de Monedas que golpearon el anterior turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Activa Estallido de Tremor"
@@ -3188,13 +3188,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This'll Throw You Off",
+          "name": "Esto Te Va a Marear",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Tremor"
                 }
               ]
             }
@@ -3207,13 +3207,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Acceleration",
+          "name": "Acelerando Vibración",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Double target’s Tremor Count"
+                  "desc": "[OnSucceedAttack] Duplica el Contador de Tremor del objetivo"
                 }
               ]
             }
@@ -3226,7 +3226,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This is It!",
+          "name": "¡Acabemos Con Esto!",
           "desc": "",
           "coinlist": [
             {
@@ -3252,8 +3252,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gana 1 Tremor Sincronizado next turn",
+          "name": "Acelerar",
+          "desc": "[WhenUse] Gana 1 Tremor Sincronizado el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -3265,13 +3265,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Eat This!",
+          "name": "¡Toma Esto!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
                 }
               ]
             }
@@ -3284,13 +3284,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Amplification",
+          "name": "Amplificando Vibración",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Inflige Tremor según el Tremor del objetivo"
                 }
               ]
             }
@@ -3303,20 +3303,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's Over!",
+          "name": "¡Se Acabó!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Tremor"
                 }
               ]
             },
@@ -3336,8 +3336,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gana 1 Tremor Sincronizado next turn",
+          "name": "Acelerar",
+          "desc": "[WhenUse] Gana 1 Tremor Sincronizado el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -3349,13 +3349,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Friction Escalation",
+          "name": "Escalando Fricción",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 1 de Ruptura"
@@ -3365,7 +3365,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura"
@@ -3375,7 +3375,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Ruptura"
@@ -3391,13 +3391,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Grind You Up!",
+          "name": "¡Te Voy a Triturar!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 de Ruptura"
@@ -3413,7 +3413,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Quaker Shaker",
+          "name": "Vibra Vibra",
           "desc": "",
           "coinlist": [
             {},
@@ -3421,14 +3421,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Si las Monedas 1 y 2 caen en Cara, inflige Tremor según el Tremor del Objetivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If Coins 1 & 2 land Heads, inflict Tremor by the number of Heads this skill lands"
+                  "desc": "[OnSucceedAttack] Si las Monedas 1 y 2 caen en Cara, inflige Tremor según el número de Caras que caigan en esta habilidad"
                 }
               ]
             }
@@ -3441,8 +3441,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rev Up",
-          "desc": "[WhenUse] Gana 1 Tremor Sincronizado next turn",
+          "name": "Acelerar",
+          "desc": "[WhenUse] Gana 1 Tremor Sincronizado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3460,13 +3460,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stand Back!",
+          "name": "¡Atrás!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
                 }
               ]
             }
@@ -3479,21 +3479,21 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This'll be Wobbly!",
+          "name": "¡Esto Te Va a Hacer Tambalear!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige Parálisis según el Tremor del objetivo el siguiente turno"
                 }
               ]
             }
@@ -3506,13 +3506,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Turbo Amp",
+          "name": "Turbo-Amplificador",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Inflige Tremor según el Tremor del objetivo"
                 }
               ]
             }
@@ -3525,24 +3525,24 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Trembling Conversion",
+          "name": "Conversión de Vibraciones",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Tremor by target's Tremor"
+                  "desc": "[OnSucceedAttack] Inflige Tremor según el Tremor del objetivo"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige Paralyze by target's Tremor next turn"
+                  "desc": "[OnSucceedAttackHead] Inflige Parálisis según el Tremor del objetivo el siguiente turno"
                 }
               ]
             }
@@ -3555,20 +3555,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Vibration Compression",
+          "name": "Compresión de Vibración",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Tremor"
                 }
               ]
             },
@@ -3588,16 +3588,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let's Sweep the Stakes",
+          "name": "Subamos las Apuestas",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 10"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en 10"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Raise Stagger Threshold by 20"
+                  "desc": "[OnSucceedAttackHead] enta el Umbral de Aturdimiento en 20"
                 }
               ]
             }
@@ -3610,8 +3610,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Final Warmup",
-          "desc": "[StartBattle] Gana 4 Protection\nHeal 15 SP",
+          "name": "Último Calentamiento",
+          "desc": "[StartBattle] Gana 4 Protección\nHeal 15 SP",
           "coinlist": [
             {
               "coindescs": [
@@ -3629,13 +3629,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stop the Intruder",
+          "name": "Detener al Intruso",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 }
               ]
             }
@@ -3648,7 +3648,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No Entry",
+          "name": "No Se Permite el Paso",
           "desc": "",
           "coinlist": [
             {
@@ -3667,7 +3667,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Forbid Entry",
+          "name": "Entrada Prohibida",
           "desc": "",
           "coinlist": [
             {},
@@ -3687,8 +3687,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cover, Cover!",
-          "desc": "[StartBattle] Heal 5% of Max HP",
+          "name": "¡A Cubierto, A Cubierto!",
+          "desc": "[StartBattle] Cura 5% del HP Máx",
           "coinlist": [
             {}
           ]
@@ -3700,13 +3700,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pause! Halt!",
+          "name": "¡Deténganse! ¡Alto!",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
                 }
               ]
             }
@@ -3719,17 +3719,17 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stop There, Please!",
+          "name": "¡Alto Ahí, Por Favor!",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Tremor"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Tremor"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de Tremor"
                 }
               ]
             }
@@ -3742,8 +3742,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Arresting!",
-          "desc": "Prioritizes enemies with Tremor",
+          "name": "¡Arrestando!",
+          "desc": "Prioriza a los enemigos con Tremor",
           "coinlist": [
             {
               "coindescs": [
@@ -3761,8 +3761,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Taking Cover!",
-          "desc": "[StartBattle] Heal 5% of Max HP",
+          "name": "¡Tomando Cubierta!",
+          "desc": "[StartBattle] Cura 5% del HP Máx",
           "coinlist": [
             {}
           ]
@@ -3774,8 +3774,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Administering HP Ampule",
-          "desc": "[CantDuel][WhenUse] Targets allies\nHeal by damage number\nDeals no damage",
+          "name": "Administrando Vial HP",
+          "desc": "[CantDuel][WhenUse] Selecciona a Aliados\nCura el número de daño infligido",
           "coinlist": [
             {
               "coindescs": [
@@ -3793,8 +3793,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Administering Resister Ampule",
-          "desc": "[CantDuel][WhenUse] Targets allies\nGive 1 Protection against a random affinity\nDeals no damage",
+          "name": "Administrando Vial de Resistencia",
+          "desc": "[CantDuel][WhenUse] Selecciona a aliados\nDa 1 Protección contra una afinidad al azar\nNo inflige daño",
           "coinlist": [
             {
               "coindescs": [
@@ -3812,13 +3812,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Firing Decay Ampule",
+          "name": "Disparando Vial de Descomposición",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Vial de Descomposición\nInflige 1 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Vial de Descomposición\nInflige 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -3831,7 +3831,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Initiating evasive maneuver.",
+          "name": "Iniciando maniobra evasiva.",
           "desc": "",
           "coinlist": [
             {
@@ -3850,13 +3850,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Discharging Decay Ampule",
+          "name": "Descargando Viales de Descomposición",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Paralyze next turn"
+                  "desc": "[OnSucceedAttack] Inflige 2 Parálisis el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 2 Vial de Descomposición"
@@ -3872,14 +3872,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Exposing weakness.",
+          "name": "Exponiendo debilidades.",
           "desc": "",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragile next turn"
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
                 }
               ]
             },
@@ -3906,13 +3906,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Continue engaging.",
-          "desc": "[CantDuel] Targets allies",
+          "name": "Continúen peleando.",
+          "desc": "[CantDuel] Selecciona a aliados",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 Damage Up next turn"
+                  "desc": "[OnSucceedAttack] Da 2 Daño Aumentado el siguiente turno"
                 }
               ]
             }
@@ -3925,13 +3925,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do not reserve your strength.",
-          "desc": "[CantDuel] Targets allies",
+          "name": "No contengan su fuerza.",
+          "desc": "[CantDuel] Selecciona a aliados",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Give 2 de Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Da 2 Poder de Ataque Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Frágil el siguiente turno"
@@ -3947,7 +3947,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreating.",
+          "name": "Retirada.",
           "desc": "",
           "coinlist": [
             {}
@@ -3960,13 +3960,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harming Curse",
+          "name": "Maldición Hiriente",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 }
               ]
             }
@@ -3979,20 +3979,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
+          "name": "Maldición Proliferante",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ruptura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ruptura"
                 }
               ]
             }
@@ -4005,7 +4005,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Opened Wound",
+          "name": "Herida Abierta",
           "desc": "",
           "coinlist": [
             {},
@@ -4025,7 +4025,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Defensive Talisman",
+          "name": "Talismán Defensivo",
           "desc": "",
           "coinlist": [
             {
@@ -4044,7 +4044,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suppressing Fluid",
+          "name": "Fluido Supresor",
           "desc": "",
           "coinlist": [
             {
@@ -4063,7 +4063,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Fluid",
+          "name": "Fluido Explosivo",
           "desc": "",
           "coinlist": [
             {
@@ -4082,20 +4082,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wobbling Fluid",
+          "name": "Fluido Tambaleante",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Tremor"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Tremor"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de Tremor"
                 }
               ]
             }
@@ -4108,7 +4108,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fluid Guard",
+          "name": "Barrera de Fluidos",
           "desc": "",
           "coinlist": [
             {
@@ -4127,13 +4127,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Harming Curse",
+          "name": "Maldición Hiriente",
           "desc": "[WhenUse] Gana 1 Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 }
               ]
             }
@@ -4146,20 +4146,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
+          "name": "Maldición Proliferante",
           "desc": "[WhenUse] Gana 2 Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ruptura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ruptura"
                 }
               ]
             }
@@ -4172,7 +4172,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restraining Curse",
+          "name": "Maldición Restrictiva",
           "desc": "[WhenUse] Gana 2 Talismán Maldito Enredado",
           "coinlist": [
             {},
@@ -4192,20 +4192,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pronounced Wound",
-          "desc": "[EndBattle] Remove all Talismán Maldito Enredado",
+          "name": "Herida Pronunciada",
+          "desc": "[EndBattle] Remueve todos el Talismán Maldito Enredado",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ruptura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ruptura"
                 }
               ]
             },
@@ -4228,7 +4228,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Defensive Talisman",
+          "name": "Talismán Defensivo",
           "desc": "",
           "coinlist": [
             {
@@ -4247,7 +4247,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suppressing Fluid",
+          "name": "Fluido Supresor",
           "desc": "",
           "coinlist": [
             {
@@ -4266,7 +4266,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explosive Fluid",
+          "name": "Fluido Explosivo",
           "desc": "[WhenUse] Gana 1 [Exalted]",
           "coinlist": [
             {
@@ -4285,7 +4285,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wobbling Fluid",
+          "name": "Fluido Tambaleante",
           "desc": "[WhenUse] Gana 1 [Exalted]",
           "coinlist": [
             {
@@ -4298,7 +4298,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +1 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de Tremor"
                 }
               ]
             }
@@ -4311,8 +4311,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fluid Guard",
-          "desc": "[WhenUse] Heal 5% of Max HP\nGana 2 Frágil el siguiente turno\n[EndBattle] Remove all [Tipsiness]",
+          "name": "Barrera de Fluidos",
+          "desc": "[WhenUse] Cura 5% del HP Máx\nGana 2 Frágil el siguiente turno\n[EndBattle] Remueve todo [Tipsiness]",
           "coinlist": [
             {
               "coindescs": [
@@ -4330,7 +4330,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restraining Curse",
+          "name": "Maldición Restrictiva",
           "desc": "",
           "coinlist": [
             {
@@ -4349,7 +4349,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Blunt Curse",
+          "name": "Maldición Contundente",
           "desc": "[WhenUse] Inflige 1 Talismán Maldito Reatado",
           "coinlist": [
             {},
@@ -4369,14 +4369,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Multiplying Talismans",
-          "desc": "Targets the enemy with the mostde Ruptura",
+          "name": "Talismanes Multiplicantes",
+          "desc": "Selecciona al enemigo con mayor Ruptura",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Rupture by the amount of Talismán Maldito Reatado on target"
+                  "desc": "[OnSucceedAttack] Inflige Ruptura según la cantidad de Talismán Maldito Reatado en el objetivo"
                 }
               ]
             }
@@ -4389,8 +4389,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Paralyzing Curse",
-          "desc": "[EndBattle] Remove all Talismán Maldito Reatado from target",
+          "name": "Maldición Paralizante",
+          "desc": "[EndBattle] Elimina todo Talismán Maldito Reatado del objetivo",
           "coinlist": [
             {},
             {
@@ -4403,7 +4403,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Paralyze by the amount of Talismán Maldito Reatado on target"
+                  "desc": "[OnSucceedAttack] Inflige Parálisis según la cantidad de Talismán Maldito Reatado en el objetivo"
                 }
               ]
             }
@@ -4416,8 +4416,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Strangling Curse Talisman",
-          "desc": "Target the enemy with the most Talismán Maldito Reatados",
+          "name": "Talismán de Maldición Estranguladora",
+          "desc": "Selecciona el enemigo con mayor Talismán Maldito Reatado",
           "coinlist": [
             {
               "coindescs": [
@@ -4435,8 +4435,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Talismán Maldito Reatados\n[EndBattle] Remove all Talismán Maldito Reatado from target",
+          "name": "Talismán de Maldición Expirante",
+          "desc": "Selecciona el enemigo con mayor Talismán Maldito Reatado\n[EndBattle] Elimina todo Talismán Maldito Reatado del objetivo",
           "coinlist": [
             {
               "coindescs": [
@@ -4448,7 +4448,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] If target has 9+ Talismán Maldito Reatado, Inflige 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene 9+ Talismán Maldito Reatado, inflige 5 Parálisis\nRealiza daño fijo según el 50% del daño infligido"
                 }
               ]
             }
@@ -4461,7 +4461,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Spreading Curse Talisman",
+          "name": "Talismán de Maldición Propagante",
           "desc": "[WhenUse] Inflige 2 Talismán Maldito Reatado",
           "coinlist": [
             {
@@ -4480,8 +4480,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expiring Curse Talisman",
-          "desc": "Target the enemy with the most Talismán Maldito Reatados\n[EndBattle] Remove all Talismán Maldito Reatado from target",
+          "name": "Talismán de Maldición Expirante",
+          "desc": "Selecciona el enemigo con mayor Talismán Maldito Reatado\n[EndBattle] Elimina todo Talismán Maldito Reatado del objetivo",
           "coinlist": [
             {
               "coindescs": [
@@ -4493,7 +4493,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackTail] If target has 9+ Talismán Maldito Reatado, Inflige 5 Paralyze\nDeal fixed damage by 50% of damage dealt"
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 9+ Talismán Maldito Reatado, inflige 5 Parálisis\nRealiza daño fijo según el 50% del daño infligido"
                 }
               ]
             }
@@ -4506,7 +4506,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suspicious Individuals",
+          "name": "Individuos Sospechosos",
           "desc": "",
           "coinlist": [
             {
@@ -4525,7 +4525,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restrain",
+          "name": "Restringir",
           "desc": "",
           "coinlist": [
             {
@@ -4544,28 +4544,28 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No Trespassing",
-          "desc": "Targets the unit with the most HP",
+          "name": "Allanamiento Prohibido",
+          "desc": "Selecciona a la unidad con mayor HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 1 lands Tails, +10% Damage"
+                  "desc": "Si Moneda 1 cae en Sello, +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 2 lands Tails, +10% Damage"
+                  "desc": "Si Moneda 2 cae en Sello, +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coins 2 & 3 land Tails, +30% Damage"
+                  "desc": "Si Moneda 2 y 3 caen en Sello, +30% de Daño"
                 }
               ]
             }
@@ -4578,7 +4578,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Interlocking Moment",
+          "name": "Entrelazando Momento",
           "desc": "[WhenUse] Gain +1 Contador de Carga",
           "coinlist": [
             {
@@ -4587,7 +4587,7 @@
                   "desc": "[OnSucceedAttack] Inflige 1 Tiempo Entrelazado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gasta 2 Charge Count to Inflige 3 Paralyze"
+                  "desc": "[OnSucceedAttack] Gasta 2 Contador de Carga para infligir 3 Parálisis"
                 }
               ]
             }
@@ -4600,13 +4600,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Siphon Time",
-          "desc": "[WhenUse] Gain +1 Contador de Carga",
+          "name": "Absorber Tiempo",
+          "desc": "[WhenUse] Gana +1 Contador de Carga",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Haste; Inflige 2 de Atadura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Rapidez; Inflige 2 Atadura el siguiente turno"
                 }
               ]
             }
@@ -4619,8 +4619,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Accelerating Moment",
-          "desc": "[StartBattle] Gain +3 Charge Count\n[WhenUse] At 5+ Charge Count, Clash Power +2\nBecome immobilized next turn",
+          "name": "Acelerando Momento",
+          "desc": "[StartBattle] Gana +3 Contador de Carga\n[WhenUse] Con 5+ Contador de Carga, Poder de Choque +2\nQueda inmovilizado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -4632,7 +4632,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] At 5+ Charge Count, spend all Charge Count to deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] Con 5+ Contador de Carga, gasta todo Contador de Carga para infligir +10% de daño por cada Contador"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 Tiempo Entrelazado"
@@ -4648,8 +4648,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Borrow Time",
-          "desc": "[StartBattle] Gana 3 [TimeRental] and +1 Contador de Carga",
+          "name": "Rentar Tiempo",
+          "desc": "[StartBattle] Gana 3 [TimeRental] y +1 Contador de Carga",
           "coinlist": [
             {}
           ]
@@ -4661,7 +4661,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Disparo a Proximidad",
           "desc": "",
           "coinlist": [
             {}
@@ -4674,7 +4674,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Retreat; Retreat;",
+          "name": "Retirada; Retirada;",
           "desc": "",
           "coinlist": [
             {}
@@ -4687,7 +4687,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flash; Flash;",
+          "name": "Destello Destellante;",
           "desc": "",
           "coinlist": [
             {
@@ -4709,13 +4709,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Arresting.",
+          "name": "Arrestando.",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind and 3 Paralyze next turn."
+                  "desc": "[OnSucceedAttack] Inflige 2 Atadura y 3 Parálisis el siguiente turno."
                 }
               ]
             }
@@ -4728,7 +4728,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suspicious Individuals",
+          "name": "Individuos Sospechosos",
           "desc": "",
           "coinlist": [
             {
@@ -4747,7 +4747,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Restrain",
+          "name": "Allanamiento Prohibido",
           "desc": "",
           "coinlist": [
             {},
@@ -4768,27 +4768,27 @@
         {
           "level": 1,
           "name": "No Trespassing",
-          "desc": "Targets the unit with the most HP",
+          "desc": "Selecciona a la unidad con mayor HP",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 1 lands Heads, +10% Damage"
+                  "desc": "Si Moneda 1 cae en Cara, +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coin 2 lands Heads, +10% Damage"
+                  "desc": "Si Moneda 2 cae en Cara, +10% de Daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If Coins 2 & 3 land Heads, +30% Damage"
+                  "desc": "Si Monedas 2 y 3 caen en Cara, +30% de daño"
                 }
               ]
             }

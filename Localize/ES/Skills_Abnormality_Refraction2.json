@@ -1267,7 +1267,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 3 Tiempo Prestado next turn"
+                  "desc": "[OnSucceedAttack] Gain 3 Tiempo Rentado next turn"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflict 3 Bind next turn"
@@ -1284,7 +1284,7 @@
         {
           "level": 1,
           "name": "Accelerating Moment",
-          "desc": "Skill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Tiempo Prestado</color></link></u>\n[DefeatDuel] Spend 3 Charge Count",
+          "desc": "Skill Power +1 for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Tiempo Rentado</color></link></u>\n[DefeatDuel] Spend 3 Charge Count",
           "coinlist": [
             {
               "coindescs": [
@@ -1299,7 +1299,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Deal +20% damage for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Tiempo Prestado</color></link></u>"
+                  "desc": "[OnSucceedAttack] Deal +20% damage for every <sprite name=\"TimeRental\"><color=#f8c200><u><link=\"TimeRental\">Tiempo Rentado</color></link></u>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gain +4 Charge Count"

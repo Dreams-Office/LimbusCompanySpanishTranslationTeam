@@ -1134,7 +1134,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Explotar Huesos",
+          "name": "Ráfaga de Huesos",
           "coinlist": [
             {
               "coindescs": [
@@ -1719,7 +1719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "No eres nada",
+          "name": "No Eres Nada",
           "desc": "[OnSucceedEvadir] Inflige 5 daño de PC",
           "coinlist": [
             {}
@@ -2073,7 +2073,7 @@
           "level": 1,
           "name": "Cañón de Sangre",
           "keywords": [
-            "Bleeding"
+            "Sangradoing"
           ],
           "coinlist": [
             {
@@ -2097,7 +2097,7 @@
           "level": 1,
           "name": "Coagulación",
           "keywords": [
-            "Bleeding"
+            "Sangradoing"
           ],
           "desc": "",
           "coinlist": [
@@ -2799,7 +2799,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Ram",
+          "name": "Embestida",
           "desc": "",
           "coinlist": [
             {
@@ -2825,13 +2825,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pin Down",
+          "name": "Aplastar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Quemadura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Quemadura"
                 }
               ]
             }
@@ -2844,7 +2844,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Charge In",
+          "name": "A la Carga",
           "desc": "",
           "coinlist": [
             {
@@ -2853,7 +2853,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en un 20% del daño infligido"
                 }
               ]
             },
@@ -2863,7 +2863,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en un 20% del daño infligido"
                 }
               ]
             },
@@ -2873,7 +2873,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Quemadura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 20% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en un 20% del daño infligido"
                 }
               ]
             }
@@ -2887,15 +2887,15 @@
         {
           "level": 1,
           "name": "Overflowing Sorrow",
-          "desc": "[DefeatDuel] Gana 1 Pena sin Resolver",
+          "desc": "[DefeatDuel] Gana 1 [Bull_Sadness]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 15 SP"
+                  "desc": "[OnSucceedAttack] El objetivo pierde 15 PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en un 50% del daño infligido"
                 }
               ]
             }
@@ -2909,15 +2909,15 @@
         {
           "level": 1,
           "name": "Heated Cries",
-          "desc": "[WinDuel] Gana 1 Haste and 1 Attack Power Up el siguiente turno",
+          "desc": "[WinDuel] Gana 1 [Agility] y 1 [Enhancement] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Emociones Vacilantes"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Bull_BuzzingEmotion]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ahogo"
                 }
               ]
             }
@@ -2936,7 +2936,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Emociones Vacilantes"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Bull_BuzzingEmotion]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
@@ -2946,7 +2946,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Emociones Vacilantes"
+                  "desc": "[OnSucceedAttack] Inflige 1 [Bull_BuzzingEmotion]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de Ahogo"
@@ -2962,7 +2962,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flash; Flash;",
+          "name": "Destello Destellante",
           "desc": "",
           "coinlist": [
             {
@@ -2981,7 +2981,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scanning . . .",
+          "name": "Escaneando. . .",
           "desc": "",
           "coinlist": [
             {
@@ -3000,7 +3000,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proximity Shooting",
+          "name": "Disparos a Proximidad",
           "desc": "",
           "coinlist": [
             {
@@ -3019,8 +3019,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Bite",
-          "desc": "[WhenUse] Gana 2 Autocarga\n[DefeatDuel] Lose 1 Autocarga",
+          "name": "Mordisco",
+          "desc": "[WhenUse] Gana 2 [SelfCharge]\n[DefeatDuel] Pierde 1 [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
@@ -3038,13 +3038,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tail Poke",
-          "desc": "[WhenUse] Gana 2 Autocarga\n[DefeatDuel] Lose 1 Autocarga",
+          "name": "Piquete de Cola",
+          "desc": "[WhenUse] Gana 2 [SelfCharge]\n[DefeatDuel] Pierde 1 [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado y +2 de Contador de Sangrado"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado y +2 Contador de Sangrado"
                 }
               ]
             },
@@ -3064,8 +3064,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wrapping Coil",
-          "desc": "[WhenUse] Gana 2 Autocarga\n[DefeatDuel] Lose 1 Autocarga",
+          "name": "Envoltura en Espiral",
+          "desc": "[WhenUse] Gana 2 [SelfCharge]\n[DefeatDuel] Pierde 1 [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
@@ -3086,8 +3086,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electric Load",
-          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Parálisis",
+          "name": "Carga Eléctrica",
+          "desc": "[WhenUse] Gana 1 [SelfCharge]\nRealiza 10% más de daño contra objetivos con Parálisis",
           "coinlist": [
             {},
             {
@@ -3107,7 +3107,7 @@
         {
           "level": 1,
           "name": "Electric Release",
-          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +10% damage to targets with Parálisis",
+          "desc": "[WhenUse] Gana 1 [SelfCharge]\nRealiza 10% más de daño contra objetivos con Parálisis",
           "coinlist": [
             {},
             {},
@@ -3127,8 +3127,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electric Discharge",
-          "desc": "[WhenUse] Gana 1 Autocarga\nDeal +20% damage to targets with Parálisis",
+          "name": "Choque Eléctrico",
+          "desc": "[WhenUse] Gana 1 [SelfCharge]\nRealiza 20% más de daño contra objetivos con Parálisis",
           "coinlist": [
             {
               "coindescs": [
@@ -3153,8 +3153,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "High-voltage Electric Discharge",
-          "desc": "At 11+ Autocarga, deal +10% Damage for each Count of Autocarga over 10\nSpend all Autocarga",
+          "name": "Descarga Eléctrica de Alto Voltaje",
+          "desc": "Con 11+ de [SelfCharge], realiza +10% de daño por cada Contador de [SelfCharge] sobre 10\nGasta toda la [SelfCharge]",
           "coinlist": [
             {
               "coindescs": [
@@ -3166,10 +3166,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Condensador, deal 40% of damage dealt as fixed damage"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [ElectricStorage], inflige 40% del daño como daño fijo"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis and 1 Condensador"
+                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis y 1 [ElectricStorage]"
                 }
               ]
             }
@@ -3182,8 +3182,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Coil Up",
-          "desc": "If this skill is on a slot, gain shield by the head's current HP",
+          "name": "Enrollarse",
+          "desc": "Si esta habilidad está en una ranura, gana escudo igual al HP de actual de la cabeza",
           "coinlist": [
             {}
           ]
@@ -3195,8 +3195,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wriggling Head",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 2 Autocarga\n[DefeatDuel] Lose 2 Autocarga",
+          "name": "Cabeza Agitadora",
+          "desc": "Prioriza al enemigo con menos HP\n[WhenUse] Gasta 2 [SelfCharge]\n[DefeatDuel] Pierde 2 [SelfCharge]",
           "coinlist": [
             {},
             {
@@ -3215,8 +3215,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wriggling Tail",
-          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 2 Autocarga\n[DefeatDuel] Lose 3 Autocarga",
+          "name": "Cola Agitadora",
+          "desc": "Targets the enemy with the least HP\n[WhenUse] Gasta 2 [SelfCharge]\n[DefeatDuel] Lose 3 [SelfCharge]",
           "coinlist": [
             {},
             {},
@@ -3236,7 +3236,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Gloomy Moan",
+          "name": "Gemido Melancólico",
           "desc": "",
           "coinlist": [
             {
@@ -3255,13 +3255,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Raging Withdrawal",
+          "name": "Decaída Radical",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ahogo"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ahogo"
                 }
               ]
             },
@@ -3281,13 +3281,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sorrowful Recoil",
+          "name": "Retroceso Afligido",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 }
               ]
             },
@@ -3307,13 +3307,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sorrowful Torrent",
+          "name": "Torrente de Aflicción",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de Ruptura"
                 }
               ]
             },
@@ -3336,8 +3336,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cries Seeking Something",
-          "desc": "[WhenUse] Spawn an Old Umbrella el siguiente turno",
+          "name": "Llantos en Busca de Algo",
+          "desc": "[WhenUse] Genera un Paraguas Viejo el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -3345,7 +3345,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de Ahogo"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Deal +15% damage for each Old Umbrella"
+                  "desc": "[OnSucceedAttackHead] Realiza +15% de daño por cada Paraguas Viejo en el campo"
                 }
               ]
             }
@@ -3358,8 +3358,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Waiting",
-          "desc": "[StartBattle] All enemies lose 20 SP",
+          "name": "Esperando",
+          "desc": "[StartBattle] Todos los enemigos pierden 20 PC",
           "coinlist": [
             {}
           ]
@@ -3371,13 +3371,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Entangling Talisman",
-          "desc": "[WhenUse] Inflige 2 Talismán Maldito Enredado",
+          "name": "Enredar Talismanes",
+          "desc": "[WhenUse] Inflige 2 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura y +2 Ruptura Count el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ruptura y +2 Contador de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -3390,27 +3390,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cumulating Curse",
-          "desc": "[WhenUse] Inflige 1 Talismán Maldito Enredado",
+          "name": "Acumulando Maldición",
+          "desc": "[WhenUse] Inflige 1 [WrappedCurseTag]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige Talismán Maldito Enredado by target's Talismán Maldito Enredado"
+                  "desc": "[OnSucceedAttack] Inflige [WrappedCurseTag] según el [WrappedCurseTag] del objetivo"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 5 Ruptura el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 5 de Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura y +2 Ruptura Count el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de Ruptura y +2 Contador de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -3423,8 +3423,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "So That No One Will Cry",
-          "desc": "[EndBattle] Remove all Talismán Maldito Reatado",
+          "name": "Así Nadie Volverá a Llorar",
+          "desc": "[EndBattle] Remueve todos los [ReattachedCurseTag]",
           "coinlist": [
             {},
             {},
@@ -3449,8 +3449,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Transferring Talisman",
-          "desc": "[WhenUse] Remove all Talismán Maldito Enredado from target; Gain the same amount of Talismán Maldito Reatado",
+          "name": "Transferir Talismanes",
+          "desc": "[WhenUse] Remueve todos los [WrappedCurseTag] del Objetivo; Gana la misma cantidad de [ReattachedCurseTag]",
           "coinlist": [
             {}
           ]
@@ -3462,8 +3462,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Proliferating Curse",
-          "desc": "[WhenUse] Inflige Talismán Maldito Enredado by target's Talismán Maldito Enredado",
+          "name": "Maldición Proliferante",
+          "desc": "[WhenUse] Inflige [WrappedCurseTag] Según la cantidad de [WrappedCurseTag] del objetivo",
           "coinlist": [
             {}
           ]
@@ -3475,13 +3475,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Wanna Get Drunk?",
-          "desc": "In a clash, give 1 [Exalted]",
+          "name": "¿Quieres Emborracharte?",
+          "desc": "En un choque, da 1 [Exalted]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 Tremor and +2 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige 5 Tremor y +2 Contador de Tremor"
                 }
               ]
             }
@@ -3494,8 +3494,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Let's Share the Drink!",
-          "desc": "In a clash, give 1 [Exalted]\n[WhenUse] Heal 5% HP",
+          "name": "¡Compartamos La Bebida!",
+          "desc": "En un choque, da 1 [Exalted]\n Cura 5% de HP",
           "coinlist": [
             {
               "coindescs": [
@@ -3513,14 +3513,14 @@
       "levelList": [
         {
           "level": 1,
-          "name": "This is All I Got!",
-          "desc": "In a Clash, give 2 [Exalted]\nPrioritizes enemies with Tremor",
+          "name": "¡Es Todo Lo Que Tengo!",
+          "desc": "En un Choque, da 2 [Exalted]\n Prioriza enemigos sin Tremor",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Provoca Estallido de Tremor by target's Tremor Count"
+                  "desc": "[OnSucceedAttack] Activa Estallido de Tremor por el Contador de Tremor del objetivo"
                 }
               ]
             }
@@ -3533,19 +3533,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Have This!",
-          "desc": "[CantDuel]\nCannot be redirected\nPrioritizes enemies with [Exalted]\nIf target has no [Tipsiness], Clash Power +5",
+          "name": "¡Me Deleitaré con Esto!",
+          "desc": "[CantDuel]\nNo puede ser redirigido\n Prioriza enemigos con [Exalted]\n Si el objetivo no tiene [Tipsiness]\n Poder de Choque +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Exalted], deal +10% damage for each Count"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Exalted], inflige +10% de daño por cada Contador"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Tipsiness], deal 0 damage, and user loses 50 HP"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Tipsiness], no realiza daño y el usuario pierde 50 de HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all [Exalted] or [Tipsiness]"
+                  "desc": "[OnSucceedAttack] Remueve todo el [Exalted] o [Tipsiness]"
                 }
               ]
             }
@@ -3558,19 +3558,19 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll Have This!",
-          "desc": "Prioritizes enemies with [Exalted]\nIf target has no [Tipsiness], Clash Power +5",
+          "name": "¡Me Deleitaré con Esto!",
+          "desc": "Prioriza enemigos con [Exalted]\n Si el objetivo no tiene [Tipsiness]\n Poder de Choque +5",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has [Exalted], deal +100% damage for each Count"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Exalted], realiza +100% de daño por cada Contador"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has [Tipsiness], deal 0 damage, and user loses 50 HP"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Tipsiness], no realiza daño y el usuario pierde 50 de HP"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Remove all [Exalted] or [Tipsiness]"
+                  "desc": "[OnSucceedAttack] Remueve todo el [Exalted] o [Tipsiness]"
                 }
               ]
             }
@@ -3583,13 +3583,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Not This Time!",
-          "desc": "Prioritizes Fairy Wine",
+          "name": "¡No Esta Vez!",
+          "desc": "Prioriza al Vino de las Hadas",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If this attacks Fairy Wine, heal 10% HP el siguiente turno, and gana 2 Attack Power Up, 2 Haste, and 2 Protection"
+                  "desc": "[OnSucceedAttack] Si esto ataca al Vino de las Hadas, se cura 10% de HP el siguiente turno, y gana 2 Poder de Ataque Aumentado, 2 de Rapidez y 2 de Protección"
                 }
               ]
             }
@@ -3602,7 +3602,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You Like This Brew?",
+          "name": "¿Te Gusta Este Brebaje??",
           "desc": "[WhenUse] Gana 1 de Atadura el siguiente turno",
           "coinlist": [
             {}
@@ -3615,8 +3615,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fairy Wine",
-          "desc": "[WhenUse] Convert opponent's [Exalted] into [Tipsiness]",
+          "name": "Vino de las Hadas",
+          "desc": "[WhenUse] Convierte la [Exalted] en [Tipsiness]",
           "coinlist": [
             {}
           ]
@@ -3628,8 +3628,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scattering Sorrow",
-          "desc": "[EndSkill] Inflige +2 Ruptura Count and +2 Sinking Count to all enemies",
+          "name": "Tristeza Dispersa",
+          "desc": "[EndSkill] Inflige +2 Contador de Ruptura y +2 Contador de Ahogo a todos los enemigos",
           "coinlist": [
             {}
           ]
@@ -3641,27 +3641,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Stinging Memories",
-          "desc": "[WinDuel] Heal 8 SP\n[DefeatDuel] Lose 5 SP",
+          "name": "Recuerdos Punzantes",
+          "desc": "[WinDuel] Cura 8 PC\n[DefeatDuel] Pierde 5 PC",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Ruptura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahoga y 2 de Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Ruptura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahoga y 2 de Ruptura el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Sinking and 2 Ruptura el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ahoga y 2 de Ruptura el siguiente turno"
                 }
               ]
             }
@@ -3674,8 +3674,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thorny Memories",
-          "desc": "[WinDuel] Heal 8 SP\n[DefeatDuel] Lose 5 SP",
+          "name": "Recuerdos Espinosos",
+          "desc": "[WinDuel] Cura 8 PC\n[DefeatDuel] Pierde 5 PC",
           "coinlist": [
             {
               "coindescs": [
@@ -3700,13 +3700,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Self-defense",
-          "desc": "[DefeatDuel] Lose 8 SP and gana 3 de Ahogo",
+          "name": "Defensa Propia",
+          "desc": "[DefeatDuel] Pierde 8 PC y gana 3 de Ahogo",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Bind and 2 Attack Power Down el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Atadura y 2 Poder de Ataque Reducido el siguiente turno"
                 }
               ]
             }
@@ -3719,7 +3719,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Aching Heart",
+          "name": "Corazón Adolorido",
           "desc": "",
           "coinlist": [
             {
@@ -3732,10 +3732,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Ruptura Count."
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Raise Stagger Threshold by 50% of damage dealt"
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en un 50% del daño infligido"
                 }
               ]
             }
@@ -3748,16 +3748,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sink It All",
-          "desc": "[WhenUse] Lose 30 SP and gana 5 Sinking; Gain Corazón Corroído el siguiente turno",
+          "name": "Ahógalo Todo",
+          "desc": "[WhenUse] Pierde 30 PC y gana 5 de Ahogo; gana Corazón Corroído el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 15 SP."
+                  "desc": "[OnSucceedAttack] El objetivo pierde 15 PC."
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 8 Sinking and 8 Veneno el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 8 de Ahogo y 8 Veneno el siguiente turno"
                 }
               ]
             }
@@ -3770,8 +3770,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Get It Away",
-          "desc": "[OnDefeatEvadir] Lose 8 SP",
+          "name": "No Te Me Acerques",
+          "desc": "[OnDefeatEvadir] Pierde 8 PC",
           "coinlist": [
             {}
           ]
@@ -3783,8 +3783,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don't Touch Me...!",
-          "desc": "[StartBattle] Gain Espinas",
+          "name": "¡No Me Toques...!",
+          "desc": "[StartBattle] Gana Espinas",
           "coinlist": [
             {}
           ]
@@ -3796,7 +3796,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Scattering Fragrance",
+          "name": "Fragancia Dispersa",
           "desc": "",
           "coinlist": [
             {
@@ -3828,7 +3828,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pungent Fragrance",
+          "name": "Fragancia Punzante",
           "desc": "",
           "coinlist": [
             {
@@ -3854,13 +3854,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flowering Buds",
-          "desc": "Spawn 2 flowers el siguiente turno\nIf there are 4 flowers present, instead raise the level of a lowest-level flower by 1",
+          "name": "Brotes Florecientes",
+          "desc": "Genera 2 flores el siguiente turno\nSi hay 4 flores, en su lugar aumenta el nivel de la flor con menos nivel en 1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de Floración"
@@ -3876,7 +3876,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Like Flowers in Full Bloom...",
+          "name": "Como Flores en Total Florecimiento...",
           "desc": "[WhenUse] Inflige 3 de Floración",
           "coinlist": [
             {
@@ -3903,13 +3903,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Magnificent Spring Breeze",
-          "desc": "Gain +5 Final Power for each living A-Punto-de-Florecer Flower\n\n[EndSkill] Remove all A-Punto-de-Florecer Flowers",
+          "name": "Magnífica Brisa Primavera",
+          "desc": "Gana +5 Poder Final por cada Flor A-Punto-de-Florecer viviente\n\n[EndSkill] Remueve todas las Flores A-Punto-de-Florecer",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Target loses 15 SP"
+                  "desc": "[OnSucceedAttack] El objetivo pierde 15 PC"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de Floración"
@@ -3925,8 +3925,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Must Cover With Dirt",
-          "desc": "[WhenUse] Inflige Dueling el siguiente turno",
+          "name": "Debo Cubrirme en el Suelo Fértil",
+          "desc": "[WhenUse] Inflige [DongbaekShowdown] el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -3938,8 +3938,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Flowering Glory",
-          "desc": "[StartBattle] Gana 10 Protection\n[DefeatDuel] Gana 1 Dispersión de Pétalos",
+          "name": "Gloria Floreciente",
+          "desc": "[StartBattle] Gana 10 de Protección\n[DefeatDuel] Gana 1 Dispersión de Pétalos",
           "coinlist": [
             {}
           ]
@@ -3951,8 +3951,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Withering Flower",
-          "desc": "[StartBattle] Gana 10 Protection\n[DefeatDuel] Gana 3 Dispersión de Pétalos",
+          "name": "Flor Marchita",
+          "desc": "[StartBattle] Gana 10 de Protección\n[DefeatDuel] Gana 3 Dispersión de Pétalos",
           "coinlist": [
             {}
           ]
@@ -3964,13 +3964,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Culminating Fragrance",
-          "desc": "If target is Totalmente Florecido, deal +100% damage",
+          "name": "Fragancia Culminante",
+          "desc": "Si el objetivo está Totalmente Florecido, realiza +100% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target is Totalmente Florecido, stagger them and remove the effect"
+                  "desc": "[OnSucceedAttack] Si el objetivo está Totalmente Florecido, lo aturde y remueve este efecto"
                 }
               ]
             },
@@ -3987,7 +3987,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige +5 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +5 Contador de Ruptura"
                 }
               ]
             }
@@ -4000,7 +4000,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Piquant Scent",
+          "name": "Fuerte Aroma",
           "desc": "[OnSucceedEvadir] Inflige 1 de Floración",
           "coinlist": [
             {}
@@ -4013,8 +4013,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Awaiting the Moment",
-          "desc": "[StartBattle] Gana 5 Protection",
+          "name": "Fuerte Aroma",
+          "desc": "[StartBattle] Gana 5 de Protección",
           "coinlist": [
             {}
           ]
@@ -4026,7 +4026,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Floral Breeze",
+          "name": "Fuerte Aroma",
           "desc": "",
           "coinlist": [
             {
@@ -4045,7 +4045,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fragrant Breeze",
+          "name": "Brisa Fragante",
           "desc": "",
           "coinlist": [
             {
@@ -4071,7 +4071,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pungent Breeze",
+          "name": "Brisa Punzante",
           "desc": "",
           "coinlist": [
             {
@@ -4104,8 +4104,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Borne Scent",
-          "desc": "[WhenUse] Heal 10 HP",
+          "name": "Esencia Persistente",
+          "desc": "[WhenUse] Cura 10 de HP",
           "coinlist": [
             {}
           ]
@@ -4118,7 +4118,7 @@
         {
           "level": 1,
           "name": "Totalmente Florecido",
-          "desc": "[DefeatDuel] This unit is defeated",
+          "desc": "[DefeatDuel] Esta unidad es derrotada",
           "coinlist": [
             {}
           ]
@@ -4130,8 +4130,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Full Bloom",
-          "desc": "Cannot act\nAt the end of the turn, lose 20 SP\nIf SP reaches -45, fully heal SP, then gain Mente Deslumbrada el siguiente turno\nIf this effect isn't removed for 2 turns, remove it at the end of the turn",
+          "name": "Florecimiento Total",
+          "desc": "Cannot act\nNo puede actuar\n Al final del turno, pierde 20PC\n Si los PC alcanzan -45, se cura todo el PC, y entonces gana Mente Deslumbrada el siguiente turno\n Si este efecto no es removido en los siguientes 2 turnos, se remueve al final del segundo",
           "coinlist": [
             {}
           ]
@@ -4143,7 +4143,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You're Empty As Well",
+          "name": "Estás Igual de Vacío",
           "desc": "[WhenUse] Inflige Marca Vacía el siguiente turno",
           "coinlist": [
             {
@@ -4162,7 +4162,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prune",
+          "name": "Podar",
           "desc": "",
           "coinlist": [
             {
@@ -4175,7 +4175,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 }
               ]
             }
@@ -4188,20 +4188,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Prune",
+          "name": "Podar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Ruptura"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt"
+                  "desc": "[OnSucceedAttack] Cura por el daño realizado"
                 }
               ]
             }
@@ -4214,20 +4214,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thinning",
-          "desc": "Deal +50% damage to targets with Marca Vacía\n[DefeatDuel] Gana 1 de Frágil el siguiente turno",
+          "name": "Adelgazamiento",
+          "desc": "Realiza +50% de daño a los objetivos con Marca Vacía\n[DefeatDuel] Gana 1 de Frágil el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up el siguiente turno"
+                  "desc": "[OnSucceedAttack] Cura por el daño realizado\nSi el objetivo tiene Marca Vacía, gana 1 Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal by damage dealt\nIf target has Marca Vacía, gana 1 Attack Power Up el siguiente turno"
+                  "desc": "[OnSucceedAttack] Cura por el daño realizado\nSi el objetivo tiene Marca Vacía, gana 1 Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             }
@@ -4240,7 +4240,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Destruction",
+          "name": "Destrucción",
           "desc": "",
           "coinlist": [
             {
@@ -4259,27 +4259,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Still Not Enough...",
+          "name": "Aún No es Suficiente\n Ataca a un Aliado aleatorio...",
           "desc": "Targets a random friendly unit",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bleed; Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado; Se cura 25% del daño realizado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Bleed; Heal by 25% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflige 3 de Sangrado; Se cura 25% del daño realizado"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it el siguiente turno"
+                  "desc": "[OnSucceedAttack] Absorbe 1 efecto de estado positivo del objetivo y lo gana el siguiente turno"
                 }
               ]
             }
@@ -4292,20 +4292,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Must Fill...",
-          "desc": "Targets a random unit",
+          "name": "Debe Ser Llenado...",
+          "desc": "Ataca a una unidad aleatoria",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Absorb 1 random positive status effect from target and gain it el siguiente turno"
+                  "desc": "[OnSucceedAttack] Absorbe 1 efecto de estado positivo del objetivo y lo gana el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Apply +5 de Contador de Sangrado"
+                  "desc": "[OnSucceedAttack] Aplica +5 de Contador de Sangrado"
                 }
               ]
             }
@@ -4318,7 +4318,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's All Empty",
+          "name": "Está Totalmente Vacío",
           "desc": "[DefeatDuel] Gana 10 de Ruptura",
           "coinlist": [
             {}
@@ -4331,7 +4331,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's Too Late Now",
+          "name": "Ya Es Demasiado Tarde",
           "desc": "",
           "coinlist": [
             {
@@ -4350,13 +4350,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's All Burned Up",
+          "name": "Todo Esta en Llamas",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Frágil, 5 Ruptura, and 5 Bleed; Heal by 10% of damage dealt"
+                  "desc": "[OnSucceedAttack] Inflige 2 Frágil, 5 Ruptura, y 5 Sangrado; Se cura por el 10% del daño realizado"
                 }
               ]
             }
@@ -4369,7 +4369,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "It's No Use",
+          "name": "Ya No Tiene Sentido",
           "desc": "",
           "coinlist": [
             {}
@@ -4382,20 +4382,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Cultivate",
+          "name": "Cultivar",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind and 1 Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Atadura y 1 Parálisis el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Bind and 1 Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Atadura y 1 Parálisis el siguiente turno"
                 }
               ]
             }
@@ -4408,7 +4408,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Dissemination",
+          "name": "Sembrado",
           "desc": "",
           "coinlist": [
             {
@@ -4441,27 +4441,27 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Facilitate",
+          "name": "Mediación",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; if target already has Semillas, Inflige 1 more"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; si el objetivo ya tiene Semillas, inflige 1 más"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; if target already has Semillas, Inflige 1 more"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; si el objetivo ya tiene Semillas, inflige 1 más"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; if target already has Semillas, Inflige 1 more"
+                  "desc": "[OnSucceedAttack] Inflige 1 Semillas; si el objetivo ya tiene Semillas, inflige 1 más"
                 }
               ]
             }
@@ -4474,13 +4474,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Overgrowth",
+          "name": "Crecimiento Excesivo",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Semillas and Sobrecuración; Heal target's HP by 15"
+                  "desc": "[OnSucceedAttack] Inflige 3 Semillas and Sobrecuración; Cura al objetivo por 15 de HP"
                 }
               ]
             }
@@ -4499,7 +4499,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Frágil and 10 Bleed\nIf target has Drenaje de Nutrientes, heal 20 HP, and gana 2 Attack Power Up el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 Frágil y 10 de Sangrado\nSi el objetivo tiene Drenaje de Nutrientes, se cura a sí mismo por 20 de HP y gana 2 Poder de Ataque Aumentado el siguiente turno"
                 }
               ]
             }
@@ -4513,12 +4513,12 @@
         {
           "level": 1,
           "name": "Por Favor Sé Mi Nutriente",
-          "desc": "[WhenUse] All Trees of Desires heal 15 HP; If there are no Trees of Desires, spawn one",
+          "desc": "[WhenUse] Todos los Arboles de Deseos se curan 15 de HP; Si no hay Arboles de Deseos, genera uno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Heal 10 HP; Inflige 3 Semillas"
+                  "desc": "[OnSucceedAttack] Cura 10 de Hp; Inflige 3 Semillas"
                 }
               ]
             }
@@ -4531,7 +4531,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Growing Results",
+          "name": "Resultado del Cultivo",
           "desc": "",
           "coinlist": [
             {
@@ -4557,7 +4557,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Expectation",
+          "name": "Expectación",
           "desc": "",
           "coinlist": [
             {}
@@ -4579,7 +4579,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 de Contador de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de Tremor"
                 }
               ]
             }
@@ -4601,7 +4601,7 @@
                   "desc": "[OnSucceedAttack] Inflige 2 de Ruptura"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige +2 Tremor Count"
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de Tremor"
                 }
               ]
             }
@@ -4620,7 +4620,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige +3 Tremor Count"
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de Tremor"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 3 Tremor"
@@ -4685,7 +4685,7 @@
         {
           "level": 1,
           "name": "Hard Branches",
-          "desc": "[StartBattle] Gana 3 Protection",
+          "desc": "[StartBattle] Gana 3 de Protección",
           "coinlist": [
             {}
           ]
@@ -4703,10 +4703,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Parálisis"
+                  "desc": "[OnSucceedAttack] If target has Sangrado, inflict 1 Parálisis"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
+                  "desc": "[OnSucceedAttack] If target has 2+ Sangrado Count, Inflige 5 de Sangrado"
                 }
               ]
             }
@@ -4725,10 +4725,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, inflict 1 Bind el siguiente turno"
+                  "desc": "[OnSucceedAttack] If target has Sangrado, inflict 1 Bind el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 3 Bleed"
+                  "desc": "[OnSucceedAttack] Inflict 3 Sangrado"
                 }
               ]
             }
@@ -4750,14 +4750,14 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Sangrado"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If target has Bleed, heal 20 HP"
+                  "desc": "[OnSucceedAttack] If target has Sangrado, heal 20 HP"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target has 2+ Bleed Count, Inflige 5 de Sangrado"
+                  "desc": "[OnSucceedAttack] If target has 2+ Sangrado Count, Inflige 5 de Sangrado"
                 }
               ]
             }
@@ -4771,7 +4771,7 @@
         {
           "level": 1,
           "name": "Casting Shade",
-          "desc": "[WhenUse] Spawn a Giant Clover el siguiente turno\n[WhenUse] Deal +5% damage per Bleed Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
+          "desc": "[WhenUse] Spawn a Giant Clover el siguiente turno\n[WhenUse] Deal +5% damage per Sangrado Count\n[DefeatDuel] The Giant Clover spawns with 70% HP",
           "coinlist": [
             {
               "coindescs": [

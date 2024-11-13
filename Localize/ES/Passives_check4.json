@@ -3,77 +3,77 @@
     {
       "id": 1010311,
       "name": "Poised",
-      "desc": "On clash win, gain +1 de Contador de Temple.\nCoin Power +1 for every 5 de Contador de Temple. (Max 3)"
+      "desc": "Tras un choque ganado, gana +1 Contador de Temple.\nPoder de Moneda +1 por cada 5 Contador de Temple. (Máx 3)"
     },
     {
       "id": 1020211,
-      "name": "Self-charging",
-      "desc": "Gain +1 Charge Count after an attack.\nA random ally gains +1 Charge Count after an attack."
+      "name": "Auto-cargable",
+      "desc": "Gana +1 Contador de [Charge] tras un ataque.\nUn aliado aleatorio gana +1 Contador de Carga después de atacar."
     },
     {
       "id": 1050311,
-      "name": "Enduring Spirit",
-      "desc": "When attacked, gain +1 Charge Count. (Up to 6 times)\nAfter losing a clash, gain +1 Charge Count. (Up 6 times, counted independently of hits taken)"
+      "name": "Espíritu Resistente",
+      "desc": "Al ser atacado, gana +1 de [Charge].(Hasta 6 veces)\nDespués de perder un choque, gana +1 Contador de Carga. (Hasta 6 veces, cuenta independiente de golpes recibidos)"
     },
     {
       "id": 1070411,
-      "name": "Bugger…",
-      "desc": "When an ally is defeated, lose 10 SP and gana 1 Blunt Power Up next turn.\nIf 4 or more surviving units in the team, including this unit, are from N Corp, Coin Power +1."
+      "name": "Maldición...",
+      "desc": "Cuando un aliado es derrotado, pierde 10 PC y gana 1 de Poder Contundente Aumentado el próximo turno.\nSi hay 4 o más unidades sobrevivientes en el equipo, incluyendo esta unidad, son 'Fanáticos de N Corp.', Poder de Moneda +1."
     },
     {
       "id": 1100211,
-      "name": "Slayer",
-      "desc": "The last Coin on the last skill in the chain deals +20% damage.\nWhenever an ally other than this unit gains de Contador de Temple, this unit gains +1 de Contador de Temple at a 50% chance."
+      "name": "Asesino",
+      "desc": "La última Moneda de la última Habilidad en la cadena inflige +20% de daño.\nSiempre que haya un aliado aparte de esta unidad que gane Contador de Temple, esta unidad gana +1 Contador de Temple con un 50% de probabilidad."
     },
     {
       "id": 1020411,
-      "name": "Whistles",
-      "desc": "At the start of the combat phase, heal 2 allies with the least SP for 15 SP.\nIf the ally is from N Corp, also apply 2 Fanático."
+      "name": "Silbidos",
+      "desc": "Al inicio de la fase de combate, cura a 2 aliados con los menores PC por 15 PC.\nSi el aliado es un 'Fanático de N Corp.', también aplica 2 Fanático."
     },
     {
       "id": 1020431,
-      "name": "Whispers",
-      "desc": "At the start of the combat phase, heal 1 ally with the least SP for 15 SP.\nIf the ally is from N Corp, also apply 2 Fanático."
+      "name": "Susurros",
+      "desc": "Al inicio de la fase de combate, cura a 1 aliado con los menores PC por 15 PC.\nSi el aliado es un 'Fanático N Corp.', también aplica 2 Fanático."
     },
     {
       "id": 1100511,
-      "name": "Mad Flame",
-      "desc": "Heal 50% less SP from winning a clash or defeating an enemy.\nIf 5 or more surviving units, including this unit, are from N Corp, they deal +10% damage."
+      "name": "Llama Furiosa",
+      "desc": "Cura 50% menos de PC tras ganar un Choque o derrotar a un enemigo.\nSi hay 5 o más unidades sobrevivientes, incluyendo esta unidad, son 'Fanáticos de N Corp.' realizan +10% de daño."
     },
     {
       "id": 1070311,
-      "name": "Raring to Graze",
-      "desc": "Gain (Wrath Reson.) Charge Count next turn.\nAt 5+ Charge Count, gana 1 Haste and 1 Attack Power Up.\nAlways Activate: At the start of the stage, gain +3 Munición."
+      "name": "Con Ganas de Pastar",
+      "desc": "Gana (Reson. de Ira) de Contador de Carga el próximo turno.\nAl tener +5 Contador de Carga, gana 1 de Rapidez y Poder de Ataque Aumentado.\nSiempre Activa: Al inicio de la escena, gana +3 de Munición."
     },
     {
       "id": 1050611,
-      "name": "Activate rrR-#4 Suit Pressurization",
-      "desc": "At the end of the turn, gain +2 Max Speed per 5 Charge Count next turn. (Max 6)\nAt the start of the turn, if at 5+ Charge Count, gana 3 Agravio to this unit's rightmost slot."
+      "name": "Activar Presurización de Traje rrR-#4",
+      "desc": "Al final de turno, Velocidad Máx +2 el próximo turno por cada 5 de Contador de Carga. (Limitado a 6)\n Al inicio del turno, con 5+ Contador de Carga, gana 3 de Agravio para la ranura más a la derecha de esta unidad."
     },
     {
       "id": 1080511,
-      "name": "Filling Fluid",
-      "desc": "If this unit fails to deal HP damage using attack skills in a turn, gain a Shield equal to 10% of Max HP next turn. (Max 30)"
+      "name": "Rellenando Fluido",
+      "desc": "Si esta unidad falla en infligir daño de HP usando habilidades de ataque en un turno, gana Escudo igual al 10% de HP Máx el próximo turno(Máx 30)"
     },
     {
       "id": 1080211,
-      "name": "Brainwave Focus",
-      "desc": "At the start of the combat phase, gain (Gloom Reson. / 3) Attack Power Up.\nIf this unit fails to deal damage this turn, lose 15 SP at the end of the turn."
+      "name": "Enfoque de Ondas Cerebrales",
+      "desc": "Al inicio de la fase de combate, pierde 15 PC.\nGana (Reson. de Melancolía / 3) de Poder de Ataque Aumentado el próximo turno.\n Si esta unidad falla en realizar daño este turno, pierde 15 PC al final del turno."
     },
     {
       "id": 1040511,
-      "name": "Dimensional Demon Edge",
-      "desc": "Upon defeating an enemy, gain +3 Charge Count (3 times per turn)"
+      "name": "Filo Demoniaco Dimensional",
+      "desc": "Tras derrotar a un enemigo, gana +3 de Contador de Carga. (3 veces por turno)"
     },
     {
       "id": 1040531,
-      "name": "Dimensional Refraction Edge - Type: Blade Mk7",
-      "desc": "When an ally with the lowest Max HP defeats an enemy, they gain +3 Charge Count (Once per turn)"
+      "name": "Filo Demoniaco Dimensional - Tipo: Espada Mk7",
+      "desc": "Cuando un aliado con menor HP Máx derrota a un enemigo, gana +3 de Contador de Carga. (1 vez por turno)"
     },
     {
       "id": 1060611,
-      "name": "Cleanup Mastery",
-      "desc": "If at 5+ Charge Count at the start of the combat phase, gain 2 Haste. <style=\"highlight\">At 10+ Charge Count, gain 1 additional Haste.</style>"
+      "name": "Limpieza Maestra",
+      "desc": "Si tiene 5+ de Contador de Carga al inicio de la fase de combate, gana 2 de Rapidez el próximo turno.\n <style=\"highlight\"> Con 10+ Contador de Carga, gana 1 Rapidez adicional.</style>"
     }
   ]
 }

@@ -146,7 +146,7 @@
           "level": 4,
           "name": " Llama del 4to Fósforo",
           "abName": "Chica Chamuscada",
-          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nnPoder de Habilidad +4 contra unidades con [Combustion]\nInflige +5% de daño cada 1 de [Combustion] del objetivo (Máx 100%)\n[EnemyKill] Gana +3 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 Poder de Ataque Aumentado y 10 de [Combustion] el siguiente turno",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nPoder de Habilidad +4 contra unidades con [Combustion]\nInflige +5% de daño cada 1 de [Combustion] del objetivo (Máx 100%)\n[EnemyKill] Gana +3 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 Poder de Ataque Aumentado y 10 de [Combustion] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -490,7 +490,7 @@
                   "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
                 },
                 {
-                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GanaSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>., apply 1 Haste next turn"
+                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>., Aplica 1 de Rapidez el siguiente turno"
                 }
               ]
             }

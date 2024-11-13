@@ -429,66 +429,66 @@
     {
       "id": 803101,
       "title": "단수어선택지1",
-      "prevDesc": "That headless thing’s belly seems to have stretched to its limit.",
-      "eventDesc": "Its abdomen has filled with red liquid.\nIt looks like it might expel it at any moment.\nA bubbling splash of blood can be seen around its severed neck.",
-      "behaveDesc": "Who could jam its throat shut?",
+      "prevDesc": "Parece que el vientre de la criatura decapitada se ha hinchado hasta el límite.",
+      "eventDesc": "Su estómago está lleno de un líquido carmesí.\nParece que está a punto de desbordarse.\nCerca del cuello cercenado, se puede ver una marea de sangre burbujeante.",
+      "behaveDesc": "¿Quién podría sellar ese cuello antes de que estalle?",
       "successDesc": [
-        "{0} quickly ran over and looked up at its neck.\nThe Sinner had no means to seal a severed throat.\nAfter a quick brainstorm, {0} used their weapon to cut its belly open.\nLiquid spilled out onto the ground, losing all of its built-up pressure."
+        "'{0} corre desesperadamente hasta el cuello de la criatura y observa hacia arriba.\nNo había manera de taponar aquel cuello ya cortado.\nDespués de un instante de reflexión, {0} levanta su arma y abre el vientre en dos.\nEl líquido carmesí se derrama al suelo sin fuerza, formando un charco en silencio."
       ],
       "failureDesc": [
-        "{0} quickly ran over and cut its neck.\nHowever, shortening an already sliced throat wasn’t going to weaken that bloody stream.\n\n“A mistake.”\n\nOne Sinner commented, but what is done is done.\nThere was only one chance, and it has been squandered."
+        "{0} se lanza con prisa y decapita lo que queda del cuello.\nSin embargo, aunque el cuello cercenado se haya acortado, no hay forma de detener la explosión de sangre.\n\n\"Fue un error\"\n\nMurmura uno de los Pecadores, pero ya era demasiado tarde.\nSolo había una oportunidad y se ha desperdiciado."
       ]
     },
     {
       "id": 803201,
       "title": "골목파수견선택지1",
-      "prevDesc": "Thunderous roars gather and violet sparks grow restless.\nWhere should they go?",
-      "eventDesc": "Purple flashes are jumping between the poles.\nIf they aren’t captured, something bad will happen.",
-      "behaveDesc": "Who will nab those pesky bolts?",
+      "prevDesc": "Rugidos atronadores se reúnen, y las chispas violetas se agitan, inquietas.\n¿Hacia dónde se dirigirán?",
+      "eventDesc": "Destellos morados saltan entre los postes de luz.\nSi no son capturados, algo terrible sucederá.",
+      "behaveDesc": "¿Quién atrapará a esos rayos indomables?",
       "successDesc": [
-        "{0} lodged their weapon into the ground.\n“Did you fry your brains?”\nSomeone outcried, but it took little time for that concern to be proven wrong.\nThe bulky bolt of lightning gravitated toward the Sinner’s weapon and was sucked into the ground.\n“…It will then be conducted.”\nIndeed, the rejected sparks jumped into the utility pole near the weapon.\nIronically enough, the king of the alleyway was struck by electricity."
+        "{0} clavó su arma en el suelo.\n“¿Se te frieron las neuronas?”\nAlguien gritó, pero pronto esa preocupación se demostró infundada.\nEl grueso rayo de electricidad fue atraído por el arma del Pecador y absorbido por la tierra.\n“…Física básica.”\nY así fue: las chispas rechazadas saltaron a un poste cercano.\nIronía del destino, el rey del callejón fue alcanzado por la electricidad."
       ],
       "failureDesc": [
-        "{0} lodged their weapon into the ground.\nThe Sinner was trying to guide the rampaging sparks to the earth.\n“…It’s too low. It won’t strike here.”\nIndeed, the bulky bolt of lightning directly headed for the utility poles without hesitation.\n“Oi, doesn’t that look… grim?”\nUnfortunately, the king of the alleyway now had red lightning under its command."
+        "{0} clavó su arma en el suelo.\nEl Pecador intentaba guiar las chispas descontroladas hacia la tierra.\n“…Está demasiado bajo. No alcanzará aquí.”\nDe hecho, el grueso rayo de electricidad se dirigió directamente a los postes de luz sin titubear.\n“Che, ¿no pinta eso... medio fulero?”\nDesafortunadamente, el rey del callejón ahora tenía bajo su mando un relámpago rojo."
       ]
     },
     {
       "id": 851001,
-      "title": "Blubbering Toad",
-      "prevDesc": "The toad seems to be taking a huge breath.",
-      "eventDesc": "The toad had taken a deep breath, inflating its belly.\nA blue teardrop or two welled in its huge, round eyes.\nThis cavern will be filled with an air of gloom once its mouth opens.\nIt would be best to knock the wind out of it.",
-      "behaveDesc": "Who will stop its cry from coming forth?",
+      "title": "Sapo Llorón",
+      "prevDesc": "El sapo parece estar tomando una gran bocanada de aire.",
+      "eventDesc": "El sapo ha llenado su vientre de aire.\nUna o dos lágrimas azules asoman en sus enormes ojos redondos.\nEsta caverna se llenará de un aire sombrío en cuanto abra la boca.\nSería mejor hacerle perder el aliento.",
+      "behaveDesc": "¿Quién evitará que su llanto surja?",
       "successDesc": [
-        "“I do worry that this might be a little cruel…”\n\n{0} gut-punched the inflated vocal sac.\n\n“Pfarhk!”\n\nA deflating sound rang out in the cave.\n\n“Croough…”\n\nShrunk back to a slim shape, the toad sniffled. It must have been frustrated that it couldn’t cry out loud like it wanted to.\n\n“How gloomy.”\n\nThough it might have left a bad taste… an opportunity is still an opportunity."
+        "”Me preocupa que esto pueda ser un poco cruel…”\n\n{0} golpeó el saco vocal inflado.\n\n“¡Pfarhk!”\n\nUn sonido de desinflado resonó en la cueva.\n\n“Crooak…”\n\nRetraído a su forma delgada, el sapo sollozó. Parecía frustrado por no poder soltar el lamento que tanto deseaba.\n\n“Qué triste.”\n\nAunque dejó un mal sabor de boca… una oportunidad sigue siendo una oportunidad."
       ],
       "failureDesc": [
-        "{0} approached the toad.\n\n“Croak!”\n\nPerhaps the Sinner was a bit too careful.\n\nWhen {0} got to the toad, its mouth had already begun to open, exhaling a staggeringly gloomy sound.\n\n“Croohoo… Croohic… Croohoo…”\n\n{0} lost consciousness, trapped in sorrow.\nNow they merely cry, just as the toad does."
+        "{0} se acercó al sapo.\n\n“¡Croak!”\n\nQuizás el Pecador fue demasiado cauteloso.\n\nCuando {0} llegó al sapo, su boca ya comenzaba a abrirse, exhalando un sonido profundamente melancólico.\n\n“Croohoo… Croohic… Croohoo…”\n\n{0} perdió la conciencia, atrapado en la tristeza.\nAhora solo llora, al igual que el sapo."
       ]
     },
     {
       "id": 851901,
       "title": "Kqe-1j-23",
-      "prevDesc": "The mechanical arm is reaching for the ground. What is it up to?",
-      "eventDesc": "The mechanical puppet stretched its wires onto the ground.\nThose wires then dug underneath like roots.\nIs it trying to get electricity from the floor?\n\nThe robot’s terminal printed out:\n\n<Please Cooperate!>\n\n“…Hold on, doesn’t that mean it can’t do anything while it’s charging?”\n\nThe Sinners seem rather unwilling to listen to its request.",
-      "behaveDesc": "Who can sabotage its attempts to charge up?",
+      "prevDesc": "El brazo mecánico se extiende hacia el suelo. ¿Qué estará intentando hacer?",
+      "eventDesc": "El títere mecánico estiró sus cables hasta el suelo.\nEstos cables luego se hundieron en la superficie como raíces.\n¿Intentará obtener electricidad del suelo?\n\nEl terminal del robot imprimió:\n\n<Por favor, cooperen>\n\n“…Espera, ¿eso significa que no puede hacer nada mientras se recarga?”\n\nLos Pecadores no parecen muy dispuestos a escuchar su petición.",
+      "behaveDesc": "¿Quién podrá sabotear sus intentos de recarga?",
       "successDesc": [
-        "{0} moved quickly.\nThe mechanical puppet remained still-a perfect opportunity.\nA clear sound soon rang in the area.\nThe Sinner delivered a powerful attack that shattered the puppet’s capacitor.\n\n<Please Cooperrr… Csdk…ppra…@#@%!%^#$>\n\nThe terminal was filled with random letters shortly before turning off.\nWhat a perfect strike, wasn’t it?"
+        "{0} se movió rápidamente.\nEl títere mecánico permanecía quieto… una oportunidad perfecta.\nUn sonido nítido pronto resonó en el área.\nEl Pecador lanzó un golpe poderoso que rompió el capacitor del títere.\n\n<Por favor, coopereerrr… Csdk…ppra…@#@%!%^#$>\n\nEl terminal se llenó de letras aleatorias antes de apagarse.\nUn golpe perfecto, ¿verdad?"
       ],
       "failureDesc": [
-        "{0} moved quickly.\nThe mechanical puppet remained still-a perfect opportunity.\nBut alas…\n\n“W-Wait!”\n\nBefore the others could warn them, {0}’s weapon struck the wires that the puppet had plugged into the floor.\nIt should go without saying that touching a high-voltage current with anything remotely conductive has its consequences.\n{0} was zapped stiff by the electricity.\nFortunately, the shock wasn’t deadly, but the machine began to move… now pulling its wires off the ground.\nSuch as it is.\nThings don’t always go as planned, do they?"
+        "{0} se movió rápidamente.\nEl títere mecánico permanecía quieto… una oportunidad perfecta.\nPero, ay…\n\n“¡E-Espera!”\n\nAntes de que los demás pudieran advertirle, el arma de {0} golpeó los cables que el títere había conectado al suelo.\nEstá de más decir que tocar una corriente de alto voltaje con algo remotamente conductor tiene sus consecuencias.\n{0} recibió por la descarga eléctrica.\nAfortunadamente, el choque no fue letal, pero la máquina comenzó a moverse… ahora desenganchando sus cables del suelo.\nAsí es.\nLas cosas no siempre salen como se planean, ¿verdad?"
       ]
     },
     {
       "id": 852701,
       "title": "Mi Forma Vacua",
-      "prevDesc": "The statue looks as tranquil as ever. What could it be thinking?",
-      "eventDesc": "It feels as though you find peace in merely looking at it.\nThe statue seems to be embracing the agony and anguish of all.\nThere is no self within-only everyone.\nIt can only make sense that one would lose the will to fight.\nHowever, no man can wholly shoulder another’s suffering in their stead.\nBefore we all are allured by its false compassion, someone has to break the statue.",
-      "behaveDesc": "Who will be able to break this deceitful statue?",
+      "prevDesc": "La estatua luce tan serena como siempre. ¿En qué podría estar pensando?",
+      "eventDesc": "Parece que uno encuentra paz simplemente al mirarla.\nLa estatua parece estar abrazando la agonía y el sufrimiento de todos.\nNo hay un “yo” en ella, solo hay “todos”.\nEs natural que uno pierda la voluntad de luchar.\nSin embargo, ningún hombre puede cargar completamente el sufrimiento de otro en su lugar.\nAntes de que todos seamos seducidos por su falsa compasión, alguien debe romper la estatua.",
+      "behaveDesc": "¿Quién será capaz de quebrar a este embustero?",
       "successDesc": [
-        "{0} shook their head.\nAs they looked around, the Sinner saw that everyone else was bowing to the statue. Some were uttering odd mantras as well.\n{0} realized that such tranquility was the result of brainwashing.\nThere is no need to describe how the worshippers would have felt upon realizing this truth.\nA powerful attack shattered the statue, and everybody returned to their senses."
+        "{0} sacudió la cabeza.\nAl mirar alrededor, el Pecador vio que todos los demás estaban inclinados ante la estatua. Algunos incluso pronunciaban mantras extraños.\n{0} comprendió que esta tranquilidad era el resultado de un lavado de cerebro.\nNo hace falta describir lo que los adoradores sintieron al darse cuenta de esta verdad.\nUn poderoso golpe destrozó la estatua, y todos recobraron la razón."
       ],
       "failureDesc": [
-        "{0} trudged their way to the statue, feet heavy like its stone.\nNo one could stop the Sinner, as all were busy lowering their heads and bowing to it.\n{0} murmured some sort of mantra along the way.\nListening closely, it was a confession. The Sinner was uttering all the negative pasts and thoughts in their mind.\n{0} felt that their heart grew lighter and forgiveness grew closer as they divulged, but it was not to come.\nThe fake bodhisattva was only biding its time to restore its strength, paying little attention to the confession.\nAnd now…\nTime is up."
+        "{0} avanzó pesadamente hacia la estatua, con los pies tan pesados como su piedra.\nNadie pudo detener al Pecador, pues todos estaban ocupados inclinando la cabeza en reverencia.\n{0} murmuraba una especie de mantra mientras se acercaba.\nEscuchando con atención, era una confesión. El Pecador pronunciaba todos los pensamientos y pecados de su pasado.\n{0} sintió que su corazón se aligeraba y que el perdón se acercaba con cada palabra, pero nunca llegó.\nEl falso bodhisattva solo estaba ganando tiempo para restaurar su fuerza, prestando poca atención a la confesión.\nY ahora…\nEl tiempo se ha acabado."
       ]
     },
     {
@@ -505,143 +505,143 @@
     },
     {
       "id": 804501,
-      "title": "Shock Centipede",
-      "prevDesc": "The centipede writhes as if to coil up.",
-      "eventDesc": "The Shock Centipede's body is starting to coil up into one spot.\n\"It seems electricity is gathering.\"\nAs the Sinner pointed out, sparks are flying from the center of its coiled body.\nIt might be a good idea to stop it.",
-      "behaveDesc": "Who will be able to stop it?",
+      "title": "Ciempiés Eléctrico",
+      "prevDesc": "El ciempiés se retuerce como si fuera a enroscarse.",
+      "eventDesc": "El Ciempiés Eléctrico empieza a enroscar su cuerpo en un solo punto.\n“Parece que está acumulando electricidad.”\nTal como señaló el Pecador, centellas saltan desde el centro de su cuerpo enroscado.\nQuizás sería buena idea detenerlo.",
+      "behaveDesc": "¿Quién será capaz de detenerlo?",
       "successDesc": [
-        "[{0}] struck at the Shock Centipede's carapace.\n\"Ohh...!\"\nA crack opened up in its hard-looking armor.\nCould it really have stopped the centipede?\nThis ought to be a rare opportunity."
+        "[{0}] golpeó el caparazón del Ciempiés Eléctrico.\n“¡Ohh…!”\nUna grieta se abrió en su dura coraza.\n¿Podría ser que de verdad lograron detener al ciempiés?\nEsto debería ser una oportunidad única."
       ],
       "failureDesc": [
-        "[{0}] struck at the Shock Centipede's carapace.\nAlas...\nCould the stored power have sprung forth?\nTremendous showers of sparks popped out of the Centipede's center along with a thunderous boom.\nNaturally, [{0}] was knocked away by the shockwave.\nFortunately enough, it only pushed the Sinner away and did little harm...\nBut the Centipede looks quite angry.\nIt'd be a good idea to brace up, right?"
+        "[{0}] golpeó el caparazón del Ciempiés Eléctrico.\nSin embargo…\n¿Acaso la energía acumulada se liberó?\nEnormes lluvias de chispas estallaron desde el centro del Ciempiés, acompañadas de un fuerte estruendo.\nNaturalmente, {0} fue lanzado lejos por la onda de choque.\nAfortunadamente, solo fue empujado y no recibió mucho daño…\nPero el Ciempiés parece bastante enfurecido.\nSería buena idea prepararse, ¿no?"
       ]
     },
     {
       "id": 804601,
-      "title": "Drifting Fox",
-      "prevDesc": "Could those ragged umbrellas protect that fox, really?",
-      "eventDesc": "Old umbrellas are lined up around the Drifting Fox.\nOld, worn, holed umbrellas.\nThe umbrellas look like they've been standing there for Wings know how long trying to protect the fox, but it certainly doesn't seem like they're doing a good job at it.\n\"…….\"\nThen, a Sinner slowly walked toward it.\nThe fox noticed the Sinner approaching, but it doesn't growl, nor does it happily relax.\nIt stays still, keeping its ever-constant place.",
-      "behaveDesc": "Who approached the fox?",
+      "title": "Zorro Errante",
+      "prevDesc": "¿Podrán esos viejos paraguas proteger realmente al zorro?",
+      "eventDesc": "Antiguos paraguas andrajosos se agrupan alrededor del Zorro Errante.\nParaguas viejos, usados y rotos.\nLos paraguas, que llevaban allí por un largo tiempo, parecían intentar proteger al zorro, pero no creo que lo estuvieran haciendo muy bien.\n“…….”\nEntonces, un Pecador se le acercó lentamente.\nEl zorro nota al pecador acercándose, mas no gruñe, ni muestra ningún signo de alivio.\nSimplemente se mantiene firme, como si siempre hubiera estado ahí.",
+      "behaveDesc": "¿Quién se acercó al zorro?",
       "successDesc": [
-        "[{0}] walked toward the fox before getting under a worn umbrella.\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\nChilling winds and damp air brush against the Sinner under the umbrella.\n\"…….\"\nBut [{0}] raised their head up to see the sky, making a profound smile.\nAs if the Sinner knew the rain will stop someday."
+        "[{0}] caminó hacia el zorro antes de refugiarse bajo un paraguas desgastado.\nA pesar de ser un paraguas, este permitía que numerosas gotas de lluvia cayeran a través de el.\nRáfagas heladas y aire húmedo rozaban al Pecador bajo el paraguas.\n“…….”\nPero {0} levantó la cabeza para mirar al cielo, esbozando una profunda sonrisa.\nComo si supiera que la lluvia algún día cesará."
       ],
       "failureDesc": [
-        "[{0}] walked toward the fox before getting under a worn umbrella.\nDespite being an umbrella, it allowed numerous drops of rain to fall through it.\nChilling winds and damp air brush against the Sinner under the umbrella.\n\"…Haah.\"\n[{0}] drooped down with a large sigh.\nIt may not be easy to notice from afar,\nbut it must have been the cumulation of gloom and dampening the person under the umbrella felt."
+        "[{0}] caminó hacia el zorro antes de refugiarse bajo un paraguas desgastado.\nA pesar de ser un paraguas, este permitía que numerosas gotas de lluvia cayeran a través de el.\nRáfagas heladas y aire húmedo rozaban al Pecador bajo la sombrilla.\n“…Hah.”\n{0} dejó caer la mirada con un profundo suspiro.\nPuede que no sea fácil notarlo desde lejos,\npero debía ser la acumulación de melancolía y desaliento lo que sintió la persona bajo el paraguas."
       ]
     },
     {
       "id": 804701,
-      "title": "So That No One Will Cry",
-      "prevDesc": "The cursed wooden doll has stopped moving.\nWhat could be going on?",
-      "eventDesc": "The wooden doll stopped in place as if nothing was happening.\nIts head was tilted slightly downward like it was examining its talismans...\nOr perhaps it could have been looking at the Sinners' talismans.\n\"…….\"\nAs if possessed, the Sinners began to walk toward the wooden doll.\nIt was like they forgot they were fighting just moments ago.\nAnd they started removing the talismans entangled on their bodies.\nJust what could be going on?",
-      "behaveDesc": "Who will gather the talismans and return them?",
+      "title": "Así Nadie Volverá a Llorar",
+      "prevDesc": "La muñeca de madera maldita se ha detenido.\n¿Qué estará ocurriendo?",
+      "eventDesc": "La muñeca de madera se quedó quieta, como si nada estuviera pasando.\nSu cabeza estaba inclinada ligeramente hacia abajo, como si examinara sus talismanes…\nO quizás podría estar mirando los talismanes de los Pecadores.\n“…….”\nComo si estuvieran poseídos, los Pecadores comenzaron a caminar hacia la muñeca de madera.\nEra como si hubieran olvidado que estaban en medio de una pelea hace solo unos momentos.\nY comenzaron a quitarse los talismanes enredados en sus cuerpos.\n¿Qué podría estar ocurriendo?",
+      "behaveDesc": "¿Quién recogerá los talismanes y los devolverá?",
       "successDesc": [
-        "[{0}] gathered the detached talismans and stood before the wooden doll.\nIt seems to be gazing silently.\nOr, maybe it was just the Sinner's conscience making it seem that way.\nThe eagerness to return the talismans to where they were.\n[{0}] extended their arm to hand over the stack of talismans...\nAs if drawn by a magnet, the talismans flew toward the doll.\n\"So that no one will cry...\"\nAfter muttering the phrase, [{0}] came back to their position."
+        "[{0}] reunió los talismanes desprendidos y se plantó frente a la muñeca de madera.\nParecía estar observando en silencio.\nO tal vez solo era la conciencia del Pecador haciéndole pensar que era así.\nEl deseo de devolver los talismanes a su lugar.\n{0} extendió el brazo para entregar el montón de talismanes…\nComo atraídos por un imán, los talismanes volaron hacia la muñeca.\n“Así nadie volverá a llorar…”\nMurmurando esta frase, {0} volvió a su posición."
       ],
       "failureDesc": [
-        "[{0}] gathered the detached talismans and stood before the wooden doll.\n\"…….\"\nIt creaked a little, then stretched a hand at [{0}].\nThinking it's to retrieve the talismans, [{0}] handed over the stack,\n\"Ah!\"\nThe wooden hand changed its trajectory and touched the Sinner's body.\nAt that moment, all the talismans on [{0}] began writhing before melting into sticky blood.\n…That doesn't bode well, does it?"
+        "[{0}] reunió los talismanes desprendidos y se plantó frente a la muñeca de madera.\n“…….”\nLa muñeca crujió un poco y luego extendió una mano hacia {0}.\nPensando que era para recuperar los talismanes, {0} le entregó el montón.\n“¡Ah!”\nLa mano de madera cambió de trayectoria y tocó el cuerpo del Pecador.\nEn ese momento, todos los talismanes sobre {0} comenzaron a retorcerse antes de derretirse en una sangre espesa y pegajosa.\n…Eso no augura nada bueno, ¿verdad?"
       ]
     },
     {
       "id": 804801,
       "title": "Hada Caballero",
       "prevDesc": "An intoxicating smell fills the air, it could almost get you drunk.",
-      "eventDesc": "The Hada Caballero spoke with a jolly laugh.\n\"Huhu... Didn't think this much would be gulped down.\"\nA short hiccup could also be heard.\n\"I admit, it caught me off guard a tiny bit... Just a tiny bit.\"\nThe fairy then puts the cup in his hand to his mouth.\n\"Hey! Is that thing trying to sober up?\"\n\"We must keep the blackguard disoriented!\"\n…It seems the fairy must be stopped from drinking from the cup.",
-      "behaveDesc": "Who will take the cup from the gentleman?",
+      "eventDesc": "El Hada Caballero habló con una risa alegre.\n“Huhu... No me había dado cuenta de que había tomado tanto.”\nUn breve hipo se dejó oír.\n“Admito que me pilló desprevenido un poquito… solo un poquito.”\nEntonces, el hada lleva la copa en su mano a la boca.\n“¡Hey! ¿Acaso se intenta desembriagar?”\n“¡Debemos mantener desorientado a este sinvergüenza!”\n…Parece que hay que detener al hada para que no siga bebiendo de la copa.",
+      "behaveDesc": "¿Quién le quitará la copa al caballero?",
       "successDesc": [
-        "[{0}] stood before the gentleman's mountainous belly.\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\nInstead of demanding it, [{0}] just stares into the fairy.\n\"...Ahem.\"\nCompletely still, not moving a muscle.\n\"...A-Alright, alright! I can give you... a little bit.\"\n[{0}] shook their head.\n\"Are you... telling me to give you all of it?\"\nThe Sinner nodded.\n\"You...\"\n\"Fuu, haha. Fine, I've lost. You can have this.\"\n[{0}] finally made a light smile as they claimed the cup."
+        "[{0}] se plantó ante la barriga colosal del caballero.\n“Ah, no podría compartir esto contigo, aunque seas un invitado privilegiado.”\nEn lugar de exigirle, {0} se limitó a mirarlo fijamente.\n“...Ejem.”\nCompletamente inmóvil, sin mover ni un músculo.\n\"...¡De acuerdo, de acuerdo! Puedo darte... un poquito.\"\n{0} negó con la cabeza.\n“…¿M-Me estás diciendo que te entregue toda la copa?”\nEl Pecador asintió.\n“Tú…”\n“Fuu, jaja. De acuerdo, he perdido. Puedes quedarte con esto.”\n{0} esbozó finalmente una ligera sonrisa al tomar la copa."
       ],
       "failureDesc": [
-        "[{0}] stood before the gentleman's mountainous belly.\n\"Ah, I couldn't share this with you, even if you're a privileged guest.\"\nInstead of demanding it, [{0}] just stares into the fairy.\n\"...Ahem.\"\nCompletely still, not moving a muscle.\n\"...Standing like that won't change my answer, you know?\"\nAfter vigorous laughter, the fairy gulped down all of the cup's content into his stomach.\n\"As much as I care about you, I couldn't give you everything I have, could I? Haha.\"\nDefeated, [{0}] returned."
+        "[{0}] se plantó ante la barriga colosal del caballero.\n“Ah, no podría compartir esto contigo, aunque seas un invitado privilegiado.”\nEn lugar de exigirle, {0} se limitó a mirarlo fijamente.\n“...Ejem.”\nCompletamente inmóvil, sin mover ni un músculo.\n“...Quedándote ahí no cambiarás mi respuesta, ¿sabes?”\nTras una risa enérgica, el hada se bebió todo el contenido de la copa de un solo trago.\n“Por mucho que me importes, no podría darte todo lo que tengo, ¿cierto? Jaja.”\nAnte tal derrota, {0} dio media vuelta y regresó."
       ]
     },
     {
       "id": 1040101,
-      "title": "Looking for a Drone",
+      "title": "Buscando un Dron",
       "prevDesc": "",
-      "eventDesc": "A Sinner good at searching should be able to help.",
-      "behaveDesc": "Who will be the most efficient at the job?",
+      "eventDesc": "Un Pecador con buen ojo para buscar debería poder ayudar.",
+      "behaveDesc": "¿Quién será el más eficiente en el trabajo?",
       "successDesc": [
-        "Several wounds were left on [{0}]'s hands while rummaging through the wreckage.\nFortunately, we were able to find a small ampule in it.\n\"After going through that trouble...\"\nThe other Sinners sighed at the ultimately pointless haul.\n...We had to leave the room with my promise that I'll turn the clock for them next time."
+        "Varias heridas quedaron en las manos de {0} al hurgar entre los escombros.\nAfortunadamente, logramos encontrar una pequeña ampolla en medio del desastre.\n“Después de tanto esfuerzo…”\nLos otros Pecadores suspiraron, decepcionados por un botín tan trivial.\n…Tuvimos que abandonar la sala, con mi promesa de que les devolveré el tiempo perdido en otra ocasión."
       ],
       "failureDesc": [
-        "The broken debris was sharper than expected.\n\"…!\"\nSeveral wounds were left on [{0}]'s hands while rummaging through the wreckage.\n\"Guess there's nothing.\"\nNothing useful could be found after several more minutes of searching.\n\"…….\"\nI feel the resentful glares of the Sinners on my back."
+        "Los escombros rotos eran más afilados de lo esperado.\n“…¡Ah!”\nVarias heridas quedaron en las manos de {0} al hurgar entre los escombros.\n“Parece que no hay nada.”\nTras varios minutos más de búsqueda, no se encontró nada útil.\n“…….”\nPuedo sentir las miradas resentidas de los Pecadores sobre mí."
       ]
     },
     {
       "id": 1040301,
-      "title": "Poking at the Egg",
+      "title": " Tocando los Huevos",
       "prevDesc": "",
-      "eventDesc": "Considering our experiences with receiving gifts from Abnormalities,\nwe might just be able to get something to help with exploring the dungeon here.",
-      "behaveDesc": "Who will be the most effective at the job?\nA delicate hand will have an easier time.",
+      "eventDesc": "Considerando nuestras experiencias previas con los regalos de las Anormalidades,\nquizás podamos obtener algo útil para explorar esta mazmorra.",
+      "behaveDesc": "¿Quién será el más eficaz en esta tarea?\nUna mano delicada tendrá más facilidad.",
       "successDesc": [
-        "\"Whoa!\"\n[{0}] touched the egg. It started glowing.\nSoon afterwards, it hardened and turned into a uniquely shaped gem.\n\"This looks worth taking.\"\n[{0}] seemed rather tired, but there wasn't anything off about the body as far as we could see.\nWe left the place with the gem in our possession."
+        "\"”¡Woah!”\n[{0} tocó el huevo, y este comenzó a brillar.\nPoco después, se endureció y se transformó en una gema de forma única.\n“Esto parece que vale la pena llevarlo.”\n{0} se veía sin energías, pero no había nada raro en su cuerpo que pudiéramos notar.\nSalimos del lugar con la gema en nuestro poder."
       ],
       "failureDesc": [
-        "\"Whoa!\"\n[{0}] touched the egg. It started glowing.\nHowever, the egg soon crumbled into dust.\n\"Ugh...\"\nA mysterious wound was left on [{0}]'s hand.\nAnd the Sinner seemed tired as well.\n...We left the room, consoling [{0}]."
+        "\"“¡Woah!”\n{0} tocó el huevo, y este comenzó a brillar.\nSin embargo, el huevo pronto se desmoronó en polvo.\n“Ugh...”\nUna misteriosa herida quedó en la mano de {0}.\nAdemás, el Pecador parecía estar sin energías.\n…Salimos de la sala, consolando a {0}]."
       ]
     },
     {
       "id": 1040401,
-      "title": "PickingRowAndColumn",
+      "title": "ElegirFilasYColumnas",
       "prevDesc": "",
-      "eventDesc": "When you look closer, you can almost see something else in there.\nA Sinner with keen eyes might be able to get something good.",
-      "behaveDesc": "Who will take a look?",
+      "eventDesc": "Al observar de cerca, parece que hay algo más allí.\nUn Pecador con buena vista podría conseguir algo valioso.",
+      "behaveDesc": "¿Quién se animará a echar un vistazo?",
       "successDesc": [
-        "[{0}] looked at the cabinet.\nThe Sinner discovered a hidden drawer. The drawer contained a number of useful items.\nSoon afterward, the area began to blur, and the cabinet disappeared."
+        "[{0}] examinó el gabinete.\nEl Pecador descubrió un cajón oculto que contenía varios objetos útiles.\nPoco después, el área comenzó a desvanecerse, y el gabinete desapareció."
       ],
       "failureDesc": [
-        "[{0}] looked at the cabinet.\nPerhaps the Sinner spent too long pondering; the area began to blur, and the cabinet disappeared."
+        "[{0}] examinó el gabinete.\nTal vez el Pecador pasó demasiado tiempo observando; el área comenzó a desvanecerse y el gabinete desapareció."
       ]
     },
     {
       "id": 1040801,
-      "title": "Try Talking",
+      "title": "Intentar Hablarles",
       "prevDesc": "",
-      "eventDesc": "All the Sinners faced the window.",
-      "behaveDesc": "Who will talk to the figures?",
+      "eventDesc": "Todos los Pecadores se pusieron frente a la ventana.",
+      "behaveDesc": "¿Quién hablará con las figuras?",
       "successDesc": [
-        "<i>Icriedwithoutachoice.\nOh ▽ ! Iaminpain.\nIentertainthethought:\nHowmustIcry.\n\nWhen [{0}] talked to the figures in the window, they writhed and disappeared.\nThen a fragment fell from the window.\nWe took it and left the room.</i>",
-        "<i>Icriedwithoutachoice.\nOh ▽ ! Iaminpain.\nIentertainthethought:\nHowmustIcry.\n\nWhen [{0}] talked to the figures in the window, they writhed and disappeared.\nThen a fragment fell from the window.\nWe took it and left the room.</i>"
+        "<i>Sinopciónalgunalloré.\nOh ▽ ¡ Estoysufriendo !\nMeinvadeelpensamiento:\n¿Cómodebollorar?\n\nCuando {0} habló con las figuras en la ventana, estas se retorcieron y desaparecieron.\nEntonces, un fragmento cayó de la ventana.\nLo tomamos y dejamos el lugar.</i>",
+        "<i>Sinopciónalgunalloré.\nOh ▽ ¡ Estoysufriendo !\nMeinvadeelpensamiento:\n¿Cómodebollorar?\n\nCuando {0} habló con las figuras en la ventana, estas se retorcieron y desaparecieron.\nEntonces, un fragmento cayó de la ventana.\nLo tomamos y dejamos el lugar.</i>"
       ],
       "failureDesc": [
-        "…………..\n[{0}] tried talking, but there was no response.\nSoon enough, the figures writhed and disappeared.\n\"What, did they want us to sing or something?\"\nWe left the room with the Sinners complaining."
+        "…………..\n[{0}] intentó hablar, pero no hubo respuesta.\nPronto, las figuras se retorcieron y desaparecieron.\n\"¿Querían que les cantáramos o qué?\"\nSalimos del lugar mientras los Pecadores se quejaban."
       ]
     },
     {
       "id": 805002,
-      "title": "Stand in his way.",
+      "title": "Interponerse en su camino.",
       "prevDesc": "",
       "eventDesc": "",
-      "behaveDesc": "Will you stop Dongrang?",
+      "behaveDesc": "¿Detendrás a Dongrang?",
       "successDesc": [
-        "[{0}] managed to block Dongrang's attack.\n\n\"Haah... You're being a nuisance.\"\n\nDongrang muttered as his weapon bounced off.\nBeneath his bitter chuckle was a cold fury."
+        "[{0}] logró bloquear el ataque de Dongrang.\n\n\"Haah… Eres un estorbo.\" \n\nMurmuró Dongrang mientras su arma rebotaba.\nBajo su amargo suspiro se ocultaba una furia helada."
       ],
       "failureDesc": [
-        "[{0}] tried to stop Dongrang, but alas...\n\n\"Haha, what a futile thing you're doing.\"\n\nPerhaps the attack was more powerful than anticipated. The Sinner was the one that got knocked away.\n\n\"Haah... You're being a nuisance.\"\n\"I'd much prefer if you served as seeds... for my accomplishment.\"\n\nBeneath his mocking grin was a cold fury."
+        "[{0}] intentó detener a Dongrang, pero, ay...\n\n\"Jaja, qué cosa tan inútil haces\" \n.\nTal vez el ataque fue más fuerte de lo que se anticipaba, pues fue el Pecador quien fue derribado.\n\n\"Haah… Eres un estorbo.\"\n\"Preferiría que sirvieras como semillas... para mi triunfo.\"\n\nBajo su sonrisa burlona se ocultaba una furia helada."
       ]
     },
     {
       "id": 805004,
-      "title": "Stand in his way.",
+      "title": "Interponerse en su camino.",
       "prevDesc": "",
       "eventDesc": "",
-      "behaveDesc": "Will you stop Dongrang again?",
+      "behaveDesc": "¿Detendrás a Dongrang nuevamente?",
       "successDesc": [
-        "[{0}] drove their weapon into Dongrang while his focus was elsewhere.\n\n\"Kgh...\"\n\nIt looks like the attack was successful.\nThe move Dongrang was preparing didn't come through.\n\n\"I see where you stand...\"\n\n\"Then I'll just get rid of you all along with Yi Sang and his ideal.\""
+        "[{0}] hundió su arma en Dongrang mientras este estaba distraído.\n\n\"Kgh...\"\n\nParece que el ataque fue exitoso.  \nY el movimiento que Dongrang preparaba no se llevó a cabo.\n\n\"Ya veo dónde estás parado...\"\n\n\"Entonces me desharé de ti junto con Yi Sang y su ideal.\""
       ],
       "failureDesc": [
-        "{0}] drove their weapon into Dongrang while his focus was elsewhere.\n\n\"Such incompetence.\"\n\nHowever, what seemed to be the gap in his defense was merely his trap.\nThe Sinner was knocked away by his attack.\n\n\"Hah, I see where you stand...\"\n\n\"You leave me with no choice. I'll get rid of you all along with Yi Sang and his ideal.\""
+        "{0}] hundió su arma en Dongrang mientras este estaba distraído.\n\n\"Qué incompetencia.\"\n\nSin embargo, lo que parecía ser una brecha en su defensa no era más que una trampa.\nEl ataque de Dongrang hizo retroceder al Pecador.\n\n\"Ja, ya veo dónde estás parado...\"\n\n\"No me dejas elección. Me desharé de ustedes junto con Yi Sang y su ideal.\""
       ]
     },
     {
       "id": 805006,
-      "title": "Stand in his way.",
+      "title": "Interponerse en su camino.",
       "prevDesc": "",
-      "eventDesc": "\"…….\"\n\nYi Sang walked ahead.\n\n\"I must insist... that I mark the end for Dongrang.\"\n\n\"...For that would be most ideal.\"",
+      "eventDesc": "\"…….\"\n\nYi Sang avanzó al frente.\n\n\"Debo insistir… en que yo sea quien ponga fin a Dongrang.\"\n\n\"…Pues sería lo más ideal.\"",
       "behaveDesc": "……",
       "successDesc": [
-        "Yi Sang managed to stop Dongrang in his path.\n\n\"Yi Sang...\"\n\n\"I plead you, end this now... Dongrang.\"\n\n\"Haha... How can I?\"\n\n\"In the end, someone... has to... cry tears, isn't that right...?\"\n\nDongrang pulled the weapon lodged into himself deeper inside.\n\n\"…!\"\n\n\"Let's end it this way... Yi Sang...\""
+        "Yi Sang logró detener a Dongrang en su camino.\n\n\"Yi Sang…\"\n\n\"Te lo ruego, termina esto ahora... Dongrang.\n\n\"Ja… ¿cómo podría?\"\n\n\"Al final, alguien… debe… llorar lágrimas, ¿verdad…?\"\n\nDongrang hundió aún más el arma clavada en él.\n\n\"¡…!\"\n\n\"Terminémoslo así… Yi Sang...\""
       ],
       "failureDesc": [
         ""
@@ -650,14 +650,14 @@
     {
       "id": 805901,
       "title": "Hada Piernas Largas",
-      "prevDesc": "The sky seems to have been covered again. Why does it keep casting that shade?",
-      "eventDesc": "The giant plant that the fairy made grow was as thick as it was tall.\n\nIt did have its perks.\n\nLike hiding behind a building's column, one Sinner managed to escape the fairy's view.\n\nThe Sinner then carefully struck at the stem.",
-      "behaveDesc": "Who struck at the stem?",
+      "prevDesc": "El cielo parece haberse cubierto de nuevo. ¿Por qué sigue arrojando esa sombra?",
+      "eventDesc": "La planta gigante que el hada hizo crecer era tan gruesa como alta.\n\nY tenía sus ventajas.\n\nComo si se ocultara detrás de la columna de un edificio, un Pecador logró escapar de la vista del hada.\n\nLuego, el Pecador golpeó cuidadosamente el tallo.",
+      "behaveDesc": "¿Quién golpeó el tallo?",
       "successDesc": [
-        "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nThen the Sinner carefully walked up to the edge...\n\nAnd poked a hole in the leaf, causing the pool of water to fall on the fairy's head.\n\nThe fairy is making quite a fuss, looking surprised."
+        "Golpeando el tallo, {0} comenzó a trepar por la planta, subiendo poco a poco.\n\nEl Pecador subió tan alto que los otros y el hada parecían pequeñas hormigas.\n\nLa planta parecía interminable, pero tenía su final.\n\nFinalmente, {0} se subió a la inmensa hoja en la cima.\n\nCon cautela, el Pecador se acercó al borde…\n\ny perforó la hoja, haciendo que la piscina de agua cayera sobre la cabeza del hada.\n\nEl hada está armando un gran alboroto, claramente sorprendido."
       ],
       "failureDesc": [
-        "Striking at the stem, [{0}] climbed up the plant, hand over foot over hand.\n\nThe Sinner climbed so high, the others and the fairy appeared as tiny dots.\n\nThe plant seemed endlessly tall, but it had its end.\n\nAt last, [{0}] climbed onto the massive leaf at the top.\n\nBut perhaps the Sinner failed to consider the amount of water that ponded on the leaf...\n\nAs soon as [{0}] stepped on the leaf, they slipped and fell right to the ground.\n\n...It might be fortunate that the Sinner didn't die."
+        "Golpeando el tallo, {0} comenzó a trepar por la planta, subiendo poco a poco.\n\nEl Pecador subió tan alto que los otros y el hada parecían pequeñas hormigas.\n\nLa planta parecía interminable, pero tenía su final.\n\nFinalmente, {0} se subió a la inmensa hoja en la cima.\n\nPero quizás el Pecador no consideró la cantidad de agua acumulada en la hoja…\n\nTan pronto como {0} puso un pie en la hoja, resbaló y cayó directo al suelo.\n\n…Quizás fue una fortuna que el Pecador no muriera."
       ]
     }
   ]

@@ -292,7 +292,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de [Combustion] en 5 enemigos"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion], Entonces reduce el Contador de [Vibration] por 2; if the [VibrationExplosion] Aturdió al objetivo, Inflige +3 Contador de [Combustion] en 5 enemigos aleatorios"
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion], Entonces reduce el Contador de [Vibration] por 2; Si el [VibrationExplosion] Aturdió al objetivo, Inflige +3 Contador de [Combustion] en 5 enemigos aleatorios"
                 }
               ]
             }

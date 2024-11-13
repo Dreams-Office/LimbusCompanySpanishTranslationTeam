@@ -1860,23 +1860,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain +15 additional [Laceration]",
+          "name": "Sacrificio por la Familia",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 10 de [Laceration]\n- Con 50%+ HP, Gana 15 de [Laceration] adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana 1 [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1884,23 +1884,23 @@
         },
         {
           "level": 2,
-          "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "name": "Sacrificio por la Familia",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>\n[WhenUse] Gana 10 de [Laceration]\n- Con 50%+ HP, Gana 15 de [Laceration] adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">2</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1908,23 +1908,23 @@
         },
         {
           "level": 4,
-          "name": "Sacrifice for the Family",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n- At 50%+ HP, gain 15 additional [Laceration]",
+          "name": "Sacrificio por la Familia",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno\n<style=\"highlight\">[WhenUse] Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>\n[WhenUse] Gana 10 de [Laceration]\n- Con 50%+ de HP, Gana 15 de [Laceration] adicional",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">3</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1937,23 +1937,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Suffocating Guilt",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
+          "name": "Culpa Sofocante",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WhenUse] Gana 10 de [Laceration]\n[WhenUse] Con 5+ [WornHeartGreg], consume hasta 60 [BloodDinner]; después, Gana 1 [BloodyHandGregFirst] por cada 6 [BloodDinner] consumidos\n- Con menos de 5 [WornHeartGreg], Gana 10 de [Laceration] y 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain 1 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana 1 [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1961,23 +1961,23 @@
         },
         {
           "level": 2,
-          "name": "Suffocating Guilt",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] If the target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 2 [BloodyHandGregFirst]",
+          "name": "Culpa Sofocante",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ [Laceration], Poder de Moneda +1</style>\n[WhenUse] Gana 10 de [Laceration]\n[WhenUse] Con 5+ [WornHeartGreg], consume hasta 60 [BloodDinner]; después, Gana 1 [BloodyHandGregFirst] por cada 6 [BloodDinner] consumidos\n- Con menos de 5 [WornHeartGreg], Gana 10 de [Laceration] y 2 [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+2</style> Contador de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">2</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">2</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -1985,23 +1985,23 @@
         },
         {
           "level": 4,
-          "name": "Suffocating Guilt",
-          "desc": "[WhenUse] Gain +3 [Aggro] to this Skill Slot next turn\n<style=\"highlight\">[WhenUse] Coin Power +1 for every 6 [Laceration] on the target (max 2)</style>\n[WhenUse] Gain 10 [Laceration]\n[WhenUse] At 5+ [WornHeartGreg], consume up to 60 [BloodDinner]; then, gain 1 [BloodyHandGregFirst] for every 6 [BloodDinner] consumed\n- At less than 5 [WornHeartGreg], gain 10 [Laceration] and 3 [BloodyHandGregFirst]",
+          "name": "Culpa Sofocante",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno\n<style=\"highlight\">[WhenUse] Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>\n[WhenUse] Gana 10 de [Laceration]\n[WhenUse] Con 5+ [WornHeartGreg], consume hasta 60 [BloodDinner]; después, Gana 1 [BloodyHandGregFirst] por cada 6 [BloodDinner] consumidos\n- Con menos de 5 [WornHeartGreg], Gana 10 de [Laceration] y 3 [BloodyHandGregFirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +2 [Laceration] Count<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">3</style> [BloodyHandGregFirst]"
                 }
               ]
             }
@@ -2014,33 +2014,33 @@
       "levelList": [
         {
           "level": 3,
-          "name": "The Unforgivable Sin",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal +1% more damage for every 1% missing HP on self (max 60%)\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
+          "name": "El Pecado Imperdonable",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 100 por Habilidad)\n[WhenUse] Inflige +1% de daño por cada 1% de HP faltante en sí (máx 60%)\n[WhenUse] Si el objetivo tiene 6+ [Laceration], Poder de Moneda +1\n[WhenUse] Gasta cada Acumulación excedente de [BloodyHandGregFirst] por sobre 10 Acumulaciones para ganar los siguientes efectos:\n- Cura (Acumulaciones consumidas x 3) HP en sí\n- Si esta unidad gastó 10+ Acumulaciones, Poder de Moneda +1\n[WhenUse] Gana 10 [Laceration]\n[EndSkill] Cura 10% HP en sí",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain 2 [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana 2 [BloodyHandGregFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +1 [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict 1 [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
                 }
               ]
             }
@@ -2048,33 +2048,33 @@
         },
         {
           "level": 4,
-          "name": "The Unforgivable Sin",
-          "desc": "On Hit with this Skill: heal 50% of the HP damage dealt (max 100 per Skill)\n[WhenUse] Deal <style=\"highlight\">+1.5%</style> more damage for every 1% missing HP on self <style=\"highlight\">(max 90%)</style>\n[WhenUse] If the target has 6+ [Laceration], Coin Power +1\n[WhenUse] Consume every excess Stack of [BloodyHandGregFirst] past 10 Stack to gain the following effects:\n- Heal (Stacks consumed x 3) HP on self\n- If this unit consumed 10+ Stack, Coin Power +1\n<style=\"highlight\">- If this unit consumed 20+ Stack, Reuse the final Coin</style>\n[WhenUse] Gain 10 [Laceration]\n[EndSkill] Heal 10% HP on self",
+          "name": "El Pecado Imperdonable",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 100 por Habilidad)\n[WhenUse] Inflige <style=\"highlight\">+1.5%</style> de daño por cada 1% de HP faltante en sí <style=\"highlight\">(máx 90%)</style>\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1\n[WhenUse] Gasta cada Acumulación excedente de [BloodyHandGregFirst] por sobre 10 Acumulaciones para ganar los siguientes efectos:\n- Cura (Acumulaciones gastadas x 3) HP en sí\n- Si esta unidad gastó 10+ Acumulaciones, Poder de Moneda +1\n<style=\"highlight\">- Si esta unidad gastó 20+ Acumulaciones, Reutiliza la Moneda final</style>\n[WhenUse] Gana 10 de [Laceration]\n[EndSkill] Cura 10% HP en sí",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gain <style=\"highlight\">3</style> [BloodyHandGregFirst]"
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">3</style> [BloodyHandGregFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+2</style> Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">+2</style> [Burst] Count"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">+2</style> Contador de [Burst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">2</style> [Burst]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Burst]"
                 }
               ]
             }
@@ -2087,8 +2087,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Faded Patience",
-          "desc": "[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
+          "name": "Paciencia Desgastada",
+          "desc": "[StartBattle] Gana 3 [WornHeartGreg] (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -2101,8 +2101,8 @@
         },
         {
           "level": 4,
-          "name": "Faded Patience",
-          "desc": "<style=\"highlight\">[StartBattle] At 40%+ HP, gain 5 [Laceration] and activate [Laceration] up to 3 times on self (once per turn; lose [Laceration] Count equal to the number of times it was activated)\n[StartBattle] At less than 40% HP, consume up to 20 [BloodDinner] and heal the same value as HP (once per turn)</style>\n[StartBattle] Gain 3 [WornHeartGreg] (once per turn)",
+          "name": "Paciencia Desgastada",
+          "desc": "<style=\"highlight\">[StartBattle] Con 40%+ de HP, Gana 5 de [Laceration] y se desangra por [Laceration] en sí hasta 3 veces (una vez por turno; pierde Contador de [Laceration] igual al número de veces que se desangró)\n[StartBattle] Con menos de 40% de HP, consume hasta 20 [BloodDinner] y se cura el mismo valor como HP (una vez por turno)</style>\n[StartBattle] Gana 3 [WornHeartGreg] (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [

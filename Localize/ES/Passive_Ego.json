@@ -308,7 +308,7 @@
     {
       "id": 2120611,
       "name": "Si Pudiese Regresar...",
-      "desc": "Despues de Atacar: Si el objetivo es derrotado por el ataque de esta unidad, gana 1 recurso E.G.O para el recurso E.G.O con menos propiedad.\nGana 1 recurso E.G.O adicional por cada 5 de (Potencia de [Sinking] + Contador) (máx 3)\n(Su hay 2 o más \"E.G.O de menor propiedad\", slecciona 1 de esas Afinidades aleatoriamente para ganar el recurso E.G.O"
+      "desc": "Despues de Atacar: Si el objetivo es derrotado por el ataque de esta unidad, gana 1 recurso E.G.O para el recurso E.G.O con menos propiedad.\nGana 1 recurso E.G.O adicional por cada 5 de (Potencia de [Sinking] + Contador) (máx 3)\n(Si hay 2 o más \"E.G.O de menor propiedad\", slecciona 1 de esas Afinidades aleatoriamente para ganar el recurso E.G.O"
     },
     {
       "id": 2010611,
@@ -384,7 +384,7 @@
     {
       "id": 2120711,
       "name": "Lamento",
-      "desc": "Fin de Turno: si esta  unidad tiene un estado engativo, gana 1 [Enhancement] el siguiente turno\nAl atacar unidades que están en pánico o en Corrosión E.G.O: realiza +15% más de daño",
+      "desc": "Fin de Turno: si esta  unidad tiene un estado negativo, gana 1 [Enhancement] el siguiente turno\nAl atacar unidades que están en pánico o en Corrosión E.G.O: realiza +15% más de daño",
       "summary": ""
     },
     {

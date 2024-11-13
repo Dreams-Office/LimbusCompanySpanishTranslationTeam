@@ -2,15 +2,15 @@
   "dataList": [
     {
       "id": 1030,
-      "panicName": "Bridle of Nihility",
-      "lowMoraleDescription": "Turn Start: gain 1 [Enhancement] and 3 [DefenseDown]. Take 5 SP at Turn End.",
-      "panicDescription": "Turn Start: gain 2 [Enhancement] and 6 [DefenseDown]. Heal 10 SP at Turn End."
+      "panicName": "Brida de la Nihilidad",
+      "lowMoraleDescription": "Inicio de Turno: Gana 1 [Enhancement] y 3 [DefenseDown]. Recibe 5 de daño de PC al Fin del Turno.",
+      "panicDescription": "Inicio de Turno: Gana 2 [Enhancement] y 6 [DefenseDown]. Cura 10 PC al Fin del Turno."
     },
     {
       "id": 9996,
-      "panicName": "Thorns",
-      "lowMoraleDescription": "On Clash Win, gain 1 [AttackDmgUp]",
-      "panicDescription": "On Clash Win, gain 1 [AttackDmgUp]. At Turn End, gain 2 [ParryingResultUp] next turn."
+      "panicName": "Espinas",
+      "lowMoraleDescription": "Tras un choque ganado, gana 1 [AttackDmgUp]",
+      "panicDescription": "Tras un choque ganado, gana 1 [AttackDmgUp]. Al Fin del Turno, gana 2 [ParryingResultUp] el siguiente turno."
     }
   ]
 }
