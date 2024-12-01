@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Vomit Froth",
+                    "name": "Vomito Espumoso",
                     "desc": "",
                     "coinlist": [
                         {
@@ -31,20 +31,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Claw",
-                    "desc": "If target has 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, deal +20% damage.",
+                    "name": "Garra",
+                    "desc": "Si el objetivo tiene 5+ [Sinking], realiza +20% de daño.",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Heal by 30% of damage dealt"
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
                                 }
                             ]
                         }
@@ -57,13 +57,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Water Jet",
+                    "name": "Pistola de Agua",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +5 de Contador de Ahogo"
+                                    "desc": "[OnSucceedAttack] Inflige +5 Contador de Ahogo"
                                 }
                             ]
                         }
@@ -76,8 +76,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Mucous Skin",
-                    "desc": "If attacked while Shielded, Inflige 1 Sinking on the attacker",
+                    "name": "Piel Mucosa",
+                    "desc": "Al ser atacado mientras posee un Escudo, inflige 1 de Ahogo en el atacante",
                     "coinlist": [
                         {}
                     ]
@@ -89,7 +89,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hook Slice",
+                    "name": "Tajo de Garfio",
                     "desc": "",
                     "coinlist": [
                         {
@@ -108,13 +108,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Consecutive Hook Slice",
+                    "name": "Tajos Consecutivos de Garfio",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de Sangrado"
                                 }
                             ]
                         },
@@ -134,8 +134,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nTurn End: Heal HP equal to the Shield HP.",
+                    "name": "Grito de Batalla",
+                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
                     "coinlist": [
                         {}
                     ]
@@ -147,20 +147,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Gap",
-                    "desc": "Coin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "Desgarrar la Brecha",
+                    "desc": "Los efectos de Moneda de esta habilidad se activan cuando esta unidad tiene [Breath].",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Realiza +30% de daño"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Realiza +30% de daño"
                                 }
                             ]
                         }
@@ -173,13 +173,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hook Snag",
+                    "name": "Enganche de Garfio",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 Contador de Sangrado"
                                 }
                             ]
                         }
@@ -192,7 +192,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Hook Punch",
+                    "name": "Garfiotazo",
                     "desc": "",
                     "coinlist": [
                         {
@@ -205,7 +205,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contador de Sangrado"
                                 }
                             ]
                         }
@@ -218,8 +218,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nTurn End: Heal HP equal to the Shield HP.",
+                    "name": "Grito de Batalla",
+                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -237,20 +237,20 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Gap",
-                    "desc": "Coin effects activate when this unit has <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "name": "Desgarrar la Brecha",
+                    "desc": "Los efectos de Moneda de esta habilidad se activan cuando esta unidad tiene [Breath].",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Realiza +30% de daño"
                                 }
                             ]
                         },
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttackTail] Deal +30% damage"
+                                    "desc": "[OnSucceedAttackTail] Realiza +30% de daño"
                                 }
                             ]
                         }
@@ -263,13 +263,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Tear the Flesh",
+                    "name": "Desgarrar la Carne",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de Sangrado"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Inflige 3 de Sangrado"
@@ -285,14 +285,14 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Going In",
+                    "name": "Va Entrando",
                     "desc": "",
                     "coinlist": [
                         {},
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 4 de Sangrado y +3 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige 4 de Sangrado y +3 Contador de Sangrado"
                                 }
                             ]
                         }
@@ -305,8 +305,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Faster",
-                    "desc": "[EndSkill] Gana 1 Damage Up next turn",
+                    "name": "Más Rápido",
+                    "desc": "[EndSkill] Gana 1 de Daño Aumentado el siguiente turno",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -318,7 +318,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 2 Fragile next turn"
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Frágil el siguiente turno"
                                 }
                             ]
                         }
@@ -331,8 +331,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Battle Cry",
-                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nTurn End: Heal HP equal to the Shield HP.",
+                    "name": "Grito de Batalla",
+                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
                     "coinlist": [
                         {}
                     ]
@@ -447,7 +447,7 @@
                 {
                     "level": 1,
                     "name": "Defend",
-                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nTurn End: Heal HP equal to the Shield HP.",
+                    "desc": "[WhenUse] Gana 2 de Temple el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
                     "coinlist": [
                         {}
                     ]
@@ -472,7 +472,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Water Jet",
+                    "name": "Pistola de Agua",
                     "desc": "",
                     "coinlist": [
                         {
@@ -507,7 +507,7 @@
                                     "desc": "[OnSucceedAttack] Inflige 2 Fragilidad al Ahogo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +3 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contador de Sangrado"
                                 },
                                 {
                                     "desc": "[OnSucceedAttack] Heal by 50% of damage dealt"
@@ -529,7 +529,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ahogo"
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de Ahogo"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
@@ -539,7 +539,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de Ahogo"
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de Ahogo"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
@@ -575,7 +575,7 @@
                 {
                     "level": 1,
                     "name": "Mucous Skin",
-                    "desc": "If attacked while Shielded, Inflige 1 Sinking on the attacker",
+                    "desc": "Al ser atacado mientras posee un Escudo, inflige 1 de Ahogo en el atacante",
                     "coinlist": [
                         {}
                     ]
@@ -612,7 +612,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de Sangrado"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Inflige 2 de Sangrado"
@@ -622,7 +622,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +1 de Contador de Sangrado"
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contador de Sangrado"
                                 },
                                 {
                                     "desc": "[OnSucceedAttackHead] Inflige 4 de Sangrado"

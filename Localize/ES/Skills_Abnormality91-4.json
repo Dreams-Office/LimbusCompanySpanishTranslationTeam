@@ -5,7 +5,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Brutal Pummelling",
+                    "name": "Aporreo Brutal",
                     "desc": "",
                     "coinlist": [
                         {
@@ -38,13 +38,13 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Powerful! Pummel",
+                    "name": "Aporreo Poderoso",
                     "desc": "",
                     "coinlist": [
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige +4 de Contador de Ruptura"
+                                    "desc": "[OnSucceedAttack] Inflige +4 Contador de Ruptura"
                                 }
                             ]
                         }
@@ -57,7 +57,7 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Foaming",
+                    "name": "Espumando",
                     "desc": "[CantIdentify]",
                     "coinlist": [
                         {
@@ -83,8 +83,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Shell Attack!!!",
-                    "desc": "[CantIdentify] \nDeal +20% damage per 5 Rupture Count on target",
+                    "name": "¡¡¡Atacazón!!!",
+                    "desc": "[CantIdentify] \nRealiza +20% de daño por cada 5 Contador de [Burst] en el objetivo",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -105,8 +105,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Crab Rave",
-                    "desc": "[CantIdentify] Damage +20% per 5 Rupture Count on Target\n[EndSkill] Summon 3 Crabs if there are less than 5 other Crabs on field at the end of the turn (Max 5)",
+                    "name": "Festejo Cangrejo",
+                    "desc": "[CantIdentify] Daño +20% por cada 5 Contador de [Burst] en el Objetivo\n[EndSkill] Convoca a 3 Basurejos si hay menos de 5 Basurejos al final del turno (Máx 5)",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -124,8 +124,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Foam Armor",
-                    "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and Inflige 1 de Ruptura",
+                    "name": "Espumarmadura",
+                    "desc": "[StartBattle] Cuando se es atacado mientras esta unidad tiene HP de Escudo, inflige 7 de daño devuelta al atacante, e inflige 1 [Burst]",
                     "coinlist": [
                         {}
                     ]
@@ -138,7 +138,7 @@
                 {
                     "level": 1,
                     "name": "Foam Armor",
-                    "desc": "[StartBattle] When attacked while this unit has Shield HP, deal 7 damage back to the attacker, and Inflige 1 de Ruptura",
+                    "desc": "[StartBattle] Cuando se es atacado mientras esta unidad tiene HP de Escudo, inflige 7 de daño devuelta al atacante, e inflige 1 [Burst]",
                     "coinlist": [
                         {}
                     ]

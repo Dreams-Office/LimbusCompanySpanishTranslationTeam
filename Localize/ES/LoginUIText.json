@@ -199,6 +199,10 @@
     {
       "id": "servererror_invalid_purchasing_package",
       "content": "Transacción fallida."
+    },
+    {
+      "id": "forcequit_cache_initialize_fail",
+      "content": "El Cliente del Juego falló en iniciarse correctamente. \nPor favor verifique el estado de su conexión e intente nuevamente. \nConsultas: limbussupport+bug@projmoon.com"
     }
   ]
 }

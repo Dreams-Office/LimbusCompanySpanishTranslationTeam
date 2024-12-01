@@ -227,6 +227,14 @@
     {
       "id": "TargetKillFail",
       "name": "[Tras Muerte de Objetivo Fallida]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[Tras Asesinato Aliado]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[Tras Asesinto Aliado Fallido]"
     }
   ]
 }

@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_11210_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Aunque yo pueda perdonarlos en el lugar de mi Padre... él no encontrará en sí la misma clemencia para mi absolución."
+        },
+        {
+            "id": "lobby_morning_11210_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "La Manchaland abrirá pronto. Cuántos... de la Familia me visitarán hoy, me pregunto. Cuántas veces me veré obligado a decirles 'todo estará bien' hoy, me pregunto."
+        },
+        {
+            "id": "lobby_noon_11210_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Hubo un tiempo en el que creía en la grandeza de las hemobarras.\nCada crujido de mis dientes contra este ladrillo me recuerda a la ignorancia detrás de esa fe."
+        },
+        {
+            "id": "lobby_night_11210_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "¿Alguna vez observaste con atención las manos de los Hermanos que me visitan? Sus manos, sus uñas están rotas y arrancadas de tanto cavar entre la tierra...\nPero solo tengo una cosa para decirles. Que tienen que seguir adelante, sin importar que. Que debemos soportar esta adversidad."
+        },
+        {
+            "id": "smalltalk_11210_1",
+            "desc": "Charla #1",
+            "dlg": "Nuestro único sustento es la sangre que nos otorgan los humanos. Ah, que dulce que es.\nPero la felicidad de la Familia permanece por siempre enterrada en estas tierras..."
+        },
+        {
+            "id": "smalltalk_11210_2",
+            "desc": "Charla #2",
+            "dlg": "Esto es algo que aprendí mientras le daba consejo a humanos en mi atracción.\nMi Familia solo tiene una pregunta desesperante y sin fin— un deseo, incluso — ¿Cómo podemos resistir esta sed? Pero las preocupaciones humanas son tan... variadas."
+        },
+        {
+            "id": "smalltalk_11210_3",
+            "desc": "Charla #3",
+            "dlg": "Esto también, debe ser soportado... Esto es una disciplina para mí mismo. El castigo que mi Padre me hubiera dado... si no se hubiera ido a su aventura."
+        },
+        {
+            "id": "smalltalk_11210_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Lo sé. Cualquier intento de suprimir esta sed, de olvidarla por al menos un segundo... es inútil. Lo he probado todo yo mismo.\nPero... ¿qué más puedo hacer, aparte de alimentarlos con estas... frases cliché? Si sabes de otra cosa que pueda decirles, ¡Por favor... yo...! Yo también quiero saber."
+        },
+        {
+            "id": "smalltalk_11210_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Quiero... sangre... no. Ni siquiera pienses en eso. Ah... ¿dónde está mi padre, me pregunto? ¿Habrá encontrado el yelmo, la Reliquia?"
+        },
+        {
+            "id": "neglect_11210_1",
+            "desc": "Inactivo",
+            "dlg": "¿Haz pensado en sangre hoy? Sí. ¿Y ayer? Sí, ¿qué hay de ayer? ¿También pensaste en sangre? Por supuesto que lo hice. ¿Y mañana? ¿Pensarás en sangre mañana? ¿Estás seguro? No, no deberíamos. ¿Pero cómo podemos no pensar en sangre? Somos Demonios de Sangre."
+        },
+        {
+            "id": "gacksung_11210_1",
+            "desc": "Aunando",
+            "dlg": "Aunque esta vergüenza pueda estar enmascarada... la sed bajo su superficie no me deja tranquilo."
+        },
+        {
+            "id": "formation_11210_1",
+            "desc": "Desplegar",
+            "dlg": "Si así lo deseas."
+        },
+        {
+            "id": "battleentry_11210_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Que la razón me acompañe hoy."
+        },
+        {
+            "id": "battle_select_11210_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¿Puedes volver luego para la consulta? Estoy un poco... ocupado ahora mismo."
+        },
+        {
+            "id": "battle_endcommand_11210_1",
+            "desc": "Al Atacar",
+            "dlg": "¿Eres un pecador también?"
+        },
+        {
+            "id": "battle_enemy_break_11210_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Esto también será perdonado..."
+        },
+        {
+            "id": "battle_break_11210_1",
+            "desc": "Aturdido",
+            "dlg": "El dolor... debe ser soportado..."
+        },
+        {
+            "id": "battle_kill_11210_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... así que descansa ahora, por siempre."
+        },
+        {
+            "id": "battle_dead_11210_1",
+            "desc": "Muerte",
+            "dlg": "Hnh. Al fin... libre... del hambre..."
+        },
+        {
+            "id": "choice_success_p_11210_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Siempre estoy aquí... para ti. Si algo te pasa... nuevamente, no dudes en visitarme en cualquier momento."
+        },
+        {
+            "id": "choice_fail_n_11210_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Solo... necesito algo de tiempo. No puedo pensar en nada más que en.. sangre..."
+        },
+        {
+            "id": "battle_clear_11210_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Esto es solo una... sed pasajera. No debería permitir que esta victoria me obligue a saciarla. Por supuesto que no."
+        },
+        {
+            "id": "battle_clear_ex_11210_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Sangre... hay... tanta sangre... desbordándose... ¡Dámela! Un sorbo— no, ¡Incluso una gota de sangre! Aunque Padre nunca me perdone por esto... ¡¡La necesito!!"
+        },
+        {
+            "id": "battle_defeat_11210_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "No solo desafié a mi Padre... busqué sangre...\nEsta derrota es la humillación que me merezco."
+        }
+    ]
+}

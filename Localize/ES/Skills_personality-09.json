@@ -1901,7 +1901,7 @@
         {
           "level": 4,
           "name": "Maleta de Entrega - Cuchillo de Descomposición",
-          "desc": "<style=\"highlight\">Poder de Moneda +1 por cada 10 [DevyatDimensionalSack] en sí o por cada 6 de [Burst] en el objetivo (máx 2)</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear, pero no inflige [Burst] con los efectos de esta Habilidad Tras Golpear",
+          "desc": "<style=\"highlight\">Poder de Moneda +1 por cada 10 [DevyatDimensionalSack] o por cada 6 de [Burst] en el objetivo (máx 2)</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear, pero no inflige [Burst] con los efectos de esta Habilidad Tras Golpear",
           "coinlist": [
             {
               "coindescs": [
@@ -1955,7 +1955,7 @@
         {
           "level": 2,
           "name": "Maleta de Entrega - Revelar Artilugio",
-          "desc": "<style=\"highlight\">Poder de Moneda +1 por cada 10 [DevyatDimensionalSack] en sí o por cada 6 de [Burst] en el objetivo (máx 2)</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear",
+          "desc": "<style=\"highlight\">Poder de Moneda +1 por cada 10 [DevyatDimensionalSack] o por cada 6 de [Burst] en el objetivo (máx 2)</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear",
           "coinlist": [
             {
               "coindescs": [
@@ -1983,7 +1983,7 @@
         {
           "level": 4,
           "name": "Maleta de Entrega - Revelar Artilugio",
-          "desc": "<style=\"highlight\">Inflige +2% de daño por cada [DevyatDimensionalSack] en sí (máx 40%)</style>\nPoder de Moneda +1 por cada 10 [DevyatDimensionalSack] en sí o por cada 6 de [Burst] en el objetivo (máx 2)\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear",
+          "desc": "<style=\"highlight\">Inflige +2% de daño por cada [DevyatDimensionalSack] en sí (máx 40%)</style>\nPoder de Moneda +1 por cada 10 [DevyatDimensionalSack] o por cada 6 de [Burst] en el objetivo (máx 2)\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no gasta el Contador de [Burst] del objetivo Tras Golpear",
           "coinlist": [
             {
               "coindescs": [
@@ -2016,7 +2016,7 @@
         {
           "level": 3,
           "name": "¡Confío En Ti, Polu!",
-          "desc": "Inflige +2% de daño por cada [DevyatDimensionalSack] en sí (máx 40%)\nCon 10+ [DevyatDimensionalSack] en sí, o si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige Contador de [Burst] con sus efectos Tras Golpear; en su lugar, Reutiliza su última Moneda",
+          "desc": "Inflige +2% de daño por cada [DevyatDimensionalSack] (máx 40%)\nCon 10+ [DevyatDimensionalSack] en sí, o si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige Contador de [Burst] con sus efectos Tras Golpear; en su lugar, Reutiliza su última Moneda",
           "coinlist": [
             {},
             {
@@ -2041,7 +2041,7 @@
         {
           "level": 4,
           "name": "¡Confío En Ti, Polu!",
-          "desc": "Inflige <style=\"highlight\">+4%</style> de daño por cada [DevyatDimensionalSack] en sí (máx <style=\"highlight\">80%</style>)\n<style=\"highlight\">Poder de Moneda +1 por cada 10 [DevyatDimensionalSack] en sí o por cada 6 de [Burst] en el objetivo (máx 2)</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige Contador de [Burst] con sus efectos Tras Golpear; en su lugar, Reutiliza su última Moneda",
+          "desc": "Inflige <style=\"highlight\">+4%</style> de daño por cada [DevyatDimensionalSack] (máx <style=\"highlight\">80%</style>)\n<style=\"highlight\">Poder de Moneda +1 por cada 10 [DevyatDimensionalSack] en sí o por cada 6 de [Burst] en el objetivo (máx 2)</style>\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige Contador de [Burst] con sus efectos Tras Golpear; en su lugar, Reutiliza su última Moneda",
           "coinlist": [
             {},
             {
@@ -2103,6 +2103,359 @@
           "desc": "[StartBattle] Si esta Habilidad es de ser activada, gana <style=\"highlight\">([DevyatDimensionalSack])%</style> del HP Máx de esta unidad como Escudo (máx <style=\"highlight\">25%</style>, una vez por turno)\n[EndBattle] Activa [Retreat]",
           "coinlist": [
             {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desaparece...",
+          "desc": "[StartBattle] En sí misma y en 1 aliado con el mayor HP Máx: consume hasta 20 [BloodDinner] y aplica 1 [BloomingThornsRodionFirst] por cada 10 [BloodDinner] que esta unidad consumió (2 veces por turno)\n- Prioriza aliados que sean <Demonio de Sangre>\n- Si el aliado afectado es un <Demonio de Sangre>, esta unidad aplica 1 [BloomingThornsRodionFirst] adicional\n- Si esta unidad falló en consumir [BloodDinner], gana 5 [Laceration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Desaparece...",
+          "desc": "[StartBattle] En sí misma y en 1 aliado con el mayor HP Máx: consume hasta 20 [BloodDinner] y aplica 1 [BloomingThornsRodionFirst] por cada 10 [BloodDinner] que esta unidad consumió (2 veces por turno)\n- Prioriza aliados que sean <Demonio de Sangre>\n- Si el aliado afectado es un <Demonio de Sangre>, esta unidad aplica 1 [BloomingThornsRodionFirst] adicional\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Desaparece...",
+          "desc": "[StartBattle] En sí misma y en 1 aliado con el mayor HP Máx: consume hasta 20 [BloodDinner] y aplica 1 [BloomingThornsRodionFirst] por cada 10 [BloodDinner] que esta unidad consumió (2 veces por turno)\n- Prioriza aliados que sean <Demonio de Sangre>\n- Si el aliado afectado es un <Demonio de Sangre>, esta unidad aplica 1 [BloomingThornsRodionFirst] adicional\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dispersar y Triturar",
+          "desc": "[StartBattle] En sí misma y en 1 aliado con el menor HP Máx: aplica 1 [Enhancement], consume hasta 30 [BloodDinner] y aplica 1 [BloomingThornsRodionFirst] por cada 10 [BloodDinner] que esta unidad consumió (2 veces por turno)\n- Prioriza aliados que sean <Demonio de Sangre>\n- Si el aliado afectado es un <Demonio de Sangre>, esta unidad aplica adicionalmente 1 [Enhancement] y 2 [BloomingThornsRodionFirst]\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dispersar y Triturar",
+          "desc": "[StartBattle] En sí misma y en 1 aliado con el menor HP Máx: aplica 1 [Enhancement], consume hasta 30 [BloodDinner] y aplica 1 [BloomingThornsRodionFirst] por cada 10 [BloodDinner] que esta unidad consumió (2 veces por turno)\n- Prioriza aliados que sean <Demonio de Sangre>\n- Si el aliado afectado es un <Demonio de Sangre>, esta unidad aplica adicionalmente 1 [Enhancement] y 2 [BloomingThornsRodionFirst]\n- Si esta unidad falló en consumir [BloodDinner], gana 5 [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> Contador de [Laceration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dispersar y Triturar",
+          "desc": "[StartBattle] En sí misma y en 1 aliado con el menor HP Máx: aplica 1 [Enhancement], consume hasta 30 [BloodDinner] y aplica 1 [BloomingThornsRodionFirst] por cada 10 [BloodDinner] que esta unidad consumió (2 veces por turno)\n- Prioriza aliados que sean <Demonio de Sangre>\n- Si el aliado afectado es un <Demonio de Sangre>, esta unidad aplica adicionalmente 1 [Enhancement] y 2 [BloomingThornsRodionFirst]\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "El Festival Terminará",
+          "desc": "[BeforeUse] Con 25+ [BloomingThornsRodionFirst], activa 'Artes de Sangre Cristalizada Ascendentes Don Quixote - El Finale' en su lugar\n[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica (3 + (1 por cada 50 [BloodDinner_Accumulation] por esta unidad) [FestivalFeverRodion] este turno y el siguiente turno (máx 10)\n[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica 3 [BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "El Festival Terminará",
+          "desc": "[BeforeUse] Con 25+ [BloomingThornsRodionFirst], activa 'Artes de Sangre Cristalizada Ascendentes Don Quixote - El Finale' en su lugar\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>\n[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica (3 + (1 por cada 50 [BloodDinner_Accumulation] por esta unidad) [FestivalFeverRodion] este turno y el siguiente turno (máx 10)\n[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica 3 [BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artes de Sangre Cristalizada Ascendentes Don Quixote 15: Parasol",
+          "desc": "[DuelCounter]\n[WhenUse] Reduce en 3 el Contador de [Laceration] de 2 otros aliados con el mayor valor de (Potencia x Contador de [Laceration]), e incrementa [BloodDinner] por (Potencia de [Laceration] antes de ser reducida x Contador de [Laceration] reducido)\n  - Si este efecto reduce el Contador de [Laceration] a 0, el [Laceration] expira\n[WinDuel] Gana 4 [BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Artes de Sangre Cristalizada Ascendentes Don Quixote 15: Parasol",
+          "desc": "[DuelCounter]\n[WhenUse] Reduce en 3 el Contador de [Laceration] de 2 otros aliados con el mayor valor de (Potencia x Contador de [Laceration]), e incrementa [BloodDinner] por (Potencia de [Laceration] antes de ser reducida x Contador de [Laceration] reducido))\n  - Si este efecto reduce el Contador de [Laceration] a 0, el [Laceration] expira\n<style=\"highlight\">  - Si el aliado afectado es un <Demonio de Sangre>, reduce en 2 más su Contador de [Laceration]</style>\n[WinDuel] Gana 4 [BloomingThornsRodionFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1091105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artes de Sangre Cristalizada Ascendentes Don Quixote - El Finale",
+          "desc": "[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica (5 + (1 por cada 50 [BloodDinner_Accumulation] por esta unidad) [FestivalFeverRodion] este turno y el siguiente turno (máx 10)\n[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica 5 [BloomingThornsRodionFirst]\n[WhenUse] Inflige +1% de daño por cada 5 [BloodDinner_Accumulation] por esta unidad (máx 50%)\n[EndSkill] Gasta toda la [BloomingThornsRodionFirst] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Artes de Sangre Cristalizada Ascendentes Don Quixote - El Finale",
+          "desc": "<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ [Laceration], Poder de Moneda +1</style>\n[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica (5 + (1 por cada 50 [BloodDinner_Accumulation] por esta unidad) [FestivalFeverRodion] este turno y el siguiente turno (máx 10)\n[WhenUse] A sí misma y a (Reson. más alta) aliados: aplica 5 [BloomingThornsRodionFirst]\n[WhenUse] Inflige +1% de daño por cada 5 [BloodDinner_Accumulation] por esta unidad (máx 50%)\n[EndSkill] Gasta toda la [BloomingThornsRodionFirst] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">2</style> Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
           ]
         }
       ]

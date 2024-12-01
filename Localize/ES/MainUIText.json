@@ -730,7 +730,7 @@
     },
     {
       "id": "outstanding_staff",
-      "content": "Empleado mejor valorado"
+      "content": "Empleado del día"
     },
     {
       "id": "total_damage_contribution",
@@ -1799,6 +1799,34 @@
     {
       "id": "mainui_change_personality_of_character",
       "content": "No puedes continuar con esta {0} Identidad. Acceso a las Identidades de Soporte otorgado."
+    },
+    {
+      "id": "caution",
+      "content": "WARNING"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "Este Anunciador contiene Spoilers del Capítulo <color=#990000><{0}-{1}></color>.\n\n¿Ver igualmente?"
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "Una de las recompensas que estás a punto de reclamar\nincluye un Anunciador que puede contener Spoilers\nde un Capítulo que todavía no has completado.\n\n¿Reclamar igualmente?"
+    },
+    {
+      "id": "select_all",
+      "content": "Seleccionar Todo"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Deseleccionar Todo"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
     }
   ]
 }

@@ -127,6 +127,34 @@
       "name": "Tremor - Cadena",
       "desc": "Pierde 1 de Poder de Choque por cada 10 Potencia de Tremor (máx 3)",
       "summary": ""
+    },
+    {
+      "id": "DefSkillPowerResultAdder",
+      "desc": "Poder Final de Habilidad Defensiva {0}"
+    },
+    {
+      "id": "TakeAtkDamageMultiplier",
+      "desc": "Daño Recibido {0}%"
+    },
+    {
+      "id": "ParryingResultAdder",
+      "desc": "Poder de Choque {0}"
+    },
+    {
+      "id": "SkillPowerResultAdder",
+      "desc": "Poder FInal {0}"
+    },
+    {
+      "id": "SkillPowerAdder",
+      "desc": "Poder Base {0}"
+    },
+    {
+      "id": "PlusCoinScaleAdder",
+      "desc": "Poder de Moneda Positiva {0}"
+    },
+    {
+      "id": "MinusCoinScaleAdder",
+      "desc": "Poder de Moneda Negativa {0}"
     }
   ]
 }

@@ -284,7 +284,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "Mi Forma Vacua",
-          "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +1",
+          "desc": "[BeforeAttack] Con 15+ PC, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
@@ -302,7 +302,7 @@
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "Mi Forma Vacua",
-          "desc": "[BeforeAttack] Con 15+ PC, Alcanze de Atq +2",
+          "desc": "[BeforeAttack] Con 15+ PC, Alcance de Atq +2",
           "coinlist": [
             {
               "coindescs": [
@@ -346,7 +346,7 @@
           "level": 3,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "Mi Forma Vacua",
-          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +1",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Con -15 o menos PC, Alcance de Atq +1",
           "coinlist": [
             {
               "coindescs": [
@@ -370,7 +370,7 @@
           "level": 4,
           "name": "Ya Śūnyatā Tad Rūpam",
           "abName": "Mi Forma Vacua",
-          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Con -15 o menos PC, Alcanze de Atq +2",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[BeforeAttack] Con -15 o menos PC, Alcance de Atq +2",
           "coinlist": [
             {
               "coindescs": [
@@ -776,6 +776,193 @@
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y 3 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Inercia Asimétrica",
+          "abName": "Tentetieso Temporal de Relojería",
+          "desc": "[BeforeAttack] Gana (Resonancia más alta) Contador de [Vibration] (Máx 6, 20 veces por turno)\n- Si dicha Resonancia fue una Reson. de Pereza., activa [Switch_Vibration] en el [Vibration] de sí mismo para [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +2 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1\n- Al activar Estallido de Tremor, inflige 1 [AmberTakeDamageUp] este turno\n- Si la Resonancia más alta fue una Reson-A de Pereza +4., inflige 1 [AmberTakeDamageUp] el siguiente turno también"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Inercia Asimétrica",
+          "abName": "Tentetieso Temporal de Relojería",
+          "desc": "[BeforeAttack] Gana (<style=\"highlight\">2 +</style> Resonancia más alta.) Contador de [Vibration] (máx <style=\"highlight\">8</style>, 20 veces por turno)\n- Si dicha Resonancia fue una Reson. de Pereza., activa [Switch_Vibration] en el [Vibration] de sí mismo para [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +2 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1\n- Al activar Estallido de Tremor, inflige 1 [AmberTakeDamageUp] este turno\n- Si la Reson. más alta fue una <style=\"highlight\">Reson-A de Pereza.</style>, inflige 1 [AmberTakeDamageUp] el siguiente turno también"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Inercia Asimétrica",
+          "abName": "Tentetieso Temporal de Relojería",
+          "desc": "[BeforeAttack] Gana (<style=\"highlight\">4 +</style> Reson. más alta.) Contador de [Vibration] (máx 8, 20 veces por turno)\n- Si dicha Resonancia fue una Reson. de Pereza., activa [Switch_Vibration] en el [Vibration] de sí mismo para [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflict +3 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1\n- Al activar Estallido de Tremor, inflige 1 [AmberTakeDamageUp] este turno\n- Si la Reson. más alta fue una <style=\"highlight\">3+ Reson. de Pereza.</style>, inflige 1 [AmberTakeDamageUp] el siguiente turno también"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Inercia Asimétrica",
+          "abName": "Tentetieso Temporal de Relojería",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (2 + Reson. más alta) Contador de [Vibration] (máx 8, 20 veces por turno)\n- Si dicha Resonancia fue una Reson. de Pereza., activa [Switch_Vibration] en el [Vibration] de sí mismo para [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +2 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1\n- Al activar Estallido de Tremor, inflige 2 [AmberTakeDamageUp] este turno\n- Si la Resonancia más alta fue una Reson-A de Pereza +4. inflige 2 [AmberTakeDamageUp] el siguiente turno también"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Inercia Asimétrica",
+          "abName": "Tentetieso Temporal de Relojería",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (<style=\"highlight\">4 +</style> Reson. más alta.) Contador de [Vibration] (max 8, 20 veces por turno)\n- Si dicha Resonancia fue una Reson. de Pereza., activa [Switch_Vibration] en el [Vibration] de sí mismo para [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflict +3 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1\n- Al activar Estallido de Tremor, inflige 2 [AmberTakeDamageUp] este turno\n- Si la Reson. más alta fue una <style=\"highlight\">Reson-A de Pereza</style>, inflige 2 [AmberTakeDamageUp] el siguiente turno también"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Inercia Asimétrica",
+          "abName": "Tentetieso Temporal de Relojería",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gain (4 + Reson. más alta) Contador de [Vibration] (máx <style=\"highlight\">10</style>, 20 veces por turno)\n- Si dicha Resonancia fue una Reson. de Pereza., activa [Switch_Vibration] en el [Vibration] de sí mismo para [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflict +4 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Activa [VibrationExplosion]; luego, reduce el Contador de [Vibration] del objetivo en 1\n- Al activar Estallido de Tremor, inflige 2 [AmberTakeDamageUp] este turno\n- Si la Reson. más alta fue una <style=\"highlight\">3+ Reson. de Pereza.</style>, inflige 2 [AmberTakeDamageUp] el siguiente turno también"
                 }
               ]
             }

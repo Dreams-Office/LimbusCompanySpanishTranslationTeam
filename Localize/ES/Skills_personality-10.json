@@ -2017,6 +2017,290 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Maleta de Entrega - Martillo de Descomposición",
+          "desc": "[WhenUse] Si el objetivo tiene 15+ [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] con sus efectos Tras Golpear; en su lugar, inflige 2 [DefenseDown] (una vez por Moneda)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 [DevyatDimensionalSackSinclair]\n- Si esta unidad tiene menos de 15 [DevyatDimensionalSackSinclair], Gana 1 [DevyatDimensionalSackSinclair] adicional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Maleta de Entrega - Martillo de Descomposición",
+          "desc": "Con 10+ [DevyatDimensionalSackSinclair], o si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige Contador de [Burst] con sus efectos Tras Golpear; en su lugar, inflige 2 [DefenseDown] (una vez por Moneda)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 [DevyatDimensionalSackSinclair]\n- Si esta unidad tiene menos de 15 [DevyatDimensionalSackSinclair], Gana 1 [DevyatDimensionalSackSinclair] adicional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]\n- Con 15+ [DevyatDimensionalSackSinclair], inflige +1 Contador de [Burst] adicional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Maleta de Entrega - Martillo de Descomposición",
+          "desc": "Poder de Moneda +1 por cada 10 [DevyatDimensionalSackSinclair] en sí o por cada 6 de [Burst] en el objetivo (máx 2)\n[WhenUse] Si el objetivo tiene 15+ [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige Contador de [Burst] con sus efectos Tras Golpear; en su lugar, inflige 2 [DefenseDown] (una vez por Moneda)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 [DevyatDimensionalSackSinclair]\n- Si esta unidad tiene menos de 15 [DevyatDimensionalSackSinclair], Gana 1 [DevyatDimensionalSackSinclair] adicional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]\n- Con 15+ [DevyatDimensionalSackSinclair], inflige +1 Contador de [Burst] adicional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Maleta de Entrega - Dispositivo de Demolición",
+          "desc": "[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst]: esta Habilidad no inflige [Burst] o Contador de [Burst] con sus efectos Tras Golpear; en su lugar, inflige 2 [DefenseDown] (una vez por Moneda)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 [DevyatDimensionalSackSinclair]\n- Si esta unidad tiene menos de 15 [DevyatDimensionalSackSinclair], Gana 2 [DevyatDimensionalSackSinclair] adicional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Maleta de Entrega - Dispositivo de Demolición",
+          "desc": "Con 10+ [DevyatDimensionalSackSinclair], o si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige [Burst] or Contador de [Burst] con sus efectos Tras Golpear; en su lugar, inflige 2 [DefenseDown] (una vez por Moneda)\n[WhenUse] Con 20- [DevyatDimensionalSackSinclair], Gana 1 [Agility] el siguiente turno (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 [DevyatDimensionalSackSinclair]\n- Si esta unidad tiene menos de 15 [DevyatDimensionalSackSinclair], Gana 2 [DevyatDimensionalSackSinclair] adicional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]\n- Con 15+ [DevyatDimensionalSackSinclair], inflige +1 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]\n- Con 15+ [DevyatDimensionalSackSinclair], inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Maleta de Entrega - Dispositivo de Demolición",
+          "desc": "Poder de Moneda +1 por cada 10 [DevyatDimensionalSackSinclair] en sí o por cada 6 de [Burst] en el objetivo (máx 2)\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige [Burst] o Contador de [Burst] con sus efectos Tras Golpear; en su lugar, inflige 2 [DefenseDown] (una vez por Moneda)\n[WhenUse] Con 30- [DevyatDimensionalSackSinclair], Gana 1 [Agility] el siguiente turno (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 [DevyatDimensionalSackSinclair]\n- Si esta unidad tiene menos de 15 [DevyatDimensionalSackSinclair], Gana 2 [DevyatDimensionalSackSinclair] adicional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]\n- Con 15+ [DevyatDimensionalSackSinclair], inflige +<style=\"highlight\">2</style> Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]\n- Con 15+ [DevyatDimensionalSackSinclair], inflige +<style=\"highlight\">2</style> Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Poludnitsa... ¡Confío en ti!",
+          "desc": "Con 10+ [DevyatDimensionalSackSinclair], o si el objetivo tiene 6+ de [Burst], Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige [Burst] o Contador de [Burst] con sus efectos Tras Golpear; en su lugar, la Moneda final gana +2 Poder de Moneda\n[WhenUse] Si el objetivo tiene 15+ de [Burst], inflige +3% de daño por cada [DevyatDimensionalSackSinclair] (máx 90%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]\n- Inflige +1 Contador de [Burst] adicional por cada 10 [DevyatDimensionalSackSinclair] (máx 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]\n- Inflige +1 additional [Burst] por cada 10 [DevyatDimensionalSackSinclair] (máx 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si esta Habilidad falló en aumentar el Poder de Moneda Final, Gana 1 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Poludnitsa... ¡Confío en ti!",
+          "desc": "Poder de Moneda +1 por cada 10 [DevyatDimensionalSackSinclair] en sí o por cada 6 de [Burst] en el objetivo (máx 2)\n[WhenUse] Si el objetivo tiene 15+ de [Burst] y 3+ Contador de [Burst], esta Habilidad no inflige [Burst] or Contado de [Burst] con sus efectos Tras Golpear; en su lugar, la Moneda final gana +4 Poder de Moneda\n[WhenUse] Si el objetivo tiene 15+ de [Burst], inflige +4% de dañp por cada [DevyatDimensionalSackSinclair] (máx 120%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]\n- Inflige +1 Contador de [Burst] adicional por cada 10 [DevyatDimensionalSackSinclair] (máx <style=\"highlight\">3</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]\n- Inflige +1 additional [Burst] por cada <style=\"highlight\">8</style> [DevyatDimensionalSackSinclair] (máx <style=\"highlight\">4</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el efecto de esta Habilidad para aumentar su Poder de Moneda final no se activó, Gana 2 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1101104,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "Sistema de Asistencia de Mensajería & Control de Crisis",
+              "desc": "[StartBattle] Con 15+ [DevyatDimensionalSackSinclair], activa '¡E-espera, tengo que hacer mantenimiento...!.' en su lugar (una vez por turno)\n[StartBattle] Si esta Habilidad es de ser activada, Gana ([DevyatDimensionalSackSinclair] / 2)% del HP Máx de esta unidad como Escudo (máx 15%, una vez por turno)",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 4,
+              "name": "Sistema de Asistencia de Mensajería & Control de Crisis",
+              "desc": "[StartBattle] Con 15+ [DevyatDimensionalSackSinclair], activa '¡E-espera, tengo que hacer mantenimiento...!' en su lugar (una vez por turno)\n[StartBattle] Si esta Habilidad es de ser activada, Gana <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> del HP Máx de esta unidad como Escudo (máx <style=\"highlight\">25%</style>, una vez por turno)",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 1101105,
+          "levelList": [
+            {
+              "level": 1,
+              "name": "¡E-espera, tengo que hacer mantenimiento...!",
+              "desc": "[StartBattle] Si esta Habilidad es de ser activada, Gana ([DevyatDimensionalSackSinclair])% del HP Máx de esta unidad como Escudo (máx 15%, una vez por turno)\n[EndBattle] Activa [Retreat]",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": ""
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "level": 4,
+              "name": "¡E-espera, tengo que hacer mantenimiento...!",
+              "desc": "[StartBattle] Si esta Habilidad es de ser activada, Gana <style=\"highlight\">([DevyatDimensionalSackSinclair])%</style> del HP Máx de esta unidad como Escudo (máx <style=\"highlight\">25%</style>, una vez por turno)\n[EndBattle] Activa [Retreat]",
+              "coinlist": [
+                {
+                  "coindescs": [
+                    {
+                      "desc": ""
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

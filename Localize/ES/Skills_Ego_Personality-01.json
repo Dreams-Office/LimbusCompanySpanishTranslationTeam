@@ -546,6 +546,274 @@
           ]
         }
       ]
+    },
+    {
+      "id": 2010711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bala Fatal",
+          "abName": "Der Fluchschütze",
+          "desc": "Selecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Gana 1 de [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra el objetivo principal."
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige +8% de daño por cada [BoseProjektil] (máx 56%)"
+                },
+                {
+                  "desc": "[AllyKill] Aplica 2 de [Breath] a sí mismo y a 2 aliados"
+                },
+                {
+                  "desc": "[AllyKillFail] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los subobjetivos\n- Si la primera Moneda falló en matar al aliado, 1 subobjetivo aleatorio recibe daño"
+                },
+                {
+                  "desc": "+2% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bala Fatal",
+          "abName": "Der Fluchschütze",
+          "desc": "Selecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra el objetivo principal.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige <style=\"highlight\">+10% de daño por cada [BoseProjektil] (máx 70%)</style>"
+                },
+                {
+                  "desc": "[AllyKill] Aplica <style=\"highlight\">3</style> de [Breath] a sí mismo y a 2 aliados"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 recurso E.G.O para la Afinidad de la Habilidad 1 del aliado asesinado</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Gana <style=\"highlight\">3</style> de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los subobjetivos\n- Si la primera Moneda falló en matar al aliado, 1 subobjetivo aleatorio recibe daño<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+5% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 35%)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bala Fatal",
+          "abName": "Der Fluchschütze",
+          "desc": "Selecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (Reson. más alta x 2) [BoseProjektil] instead (máx 7)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra el objetivo principal.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige <style=\"highlight\">+15% de daño por cada [BoseProjektil] (máx 105%)</style>"
+                },
+                {
+                  "desc": "[AllyKill] Aplica 3 de [Breath] a sí mismo y a 2 aliados<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 recurso E.G.O para las Afinidades de las Habilidades 1 y 2 del aliado asesinado</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Gana 3 de [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los subobjetivos\n- Si la primera Moneda falló en matar al aliado, 1 subobjetivo aleatorio recibe daño<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+9% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 63%)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige <style=\"highlight\">3</style> de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bala Fatal",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Deal +2% de daño por cada [BoseProjektil] (máx 14%)\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra el objetivo principal."
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige +10% de daño por cada [BoseProjektil] (máx 70%)"
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige +2% de daño por cada [Breath] en sí (máx 50%)"
+                },
+                {
+                  "desc": "[AllyKill] Aplica 2 de [Breath] a sí mismo y a 3 aliados"
+                },
+                {
+                  "desc": "[AllyKill] La siguiente Moneda inflige +2% de daño por cada [BoseProjektil] (máx 14%)"
+                },
+                {
+                  "desc": "[AllyKill] +1 recurso E.G.O para las Afinidades de las Habilidades 1 y 2 del aliado asesinado"
+                },
+                {
+                  "desc": "[AllyKillFail] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los subobjetivos\n- Si la primera Moneda falló en matar al aliado, 1 subobjetivo aleatorio recibe daño"
+                },
+                {
+                  "desc": "+2% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bala Fatal",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n[BeforeAttack] Deal <style=\"highlight\">+3% de daño por cada [BoseProjektil] (máx 21%)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra el objetivo principal.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige <style=\"highlight\">+12% de daño por cada [BoseProjektil] (máx 84%)</style>"
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige <style=\"highlight\">+2% de daño por cada [Breath] en sí (máx 50%)</style>"
+                },
+                {
+                  "desc": "[AllyKill] Aplica <style=\"highlight\">3</style> [Breath] a sí mismo y a 3 aliados"
+                },
+                {
+                  "desc": "[AllyKill] La siguiente Moneda inflige <style=\"highlight\">+5% de daño por cada [BoseProjektil] (máx 35%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 recurso E.G.O para las Afinidades de las Habilidades 1, 2 y 3 del aliado asesinado</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Gana <style=\"highlight\">2</style> de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los subobjetivos\n- Si la primera Moneda falló en matar al aliado, 1 subobjetivo aleatorio recibe daño<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+3% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 21%)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige <style=\"highlight\">4</style> de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bala Fatal",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con el menor HP\n[BeforeAttack] Gana (Reson. más alta + 1) [BoseProjektil] (máx 7)\n<style=\"highlight\">- If the said Reson. was a Pride Reson., gain (Reson. más alta x 2) [BoseProjektil] instead (máx 7)</style>\n[BeforeAttack] Deal <style=\"highlight\">+4% de daño por cada [BoseProjektil] (máx 28%)</style>\n[BeforeAttack] Gana 1 [Breath] por cada [BoseProjektil] (máx 7)\n[EndSkill] Pierde cada [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra el objetivo principal.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige <style=\"highlight\">+15% de daño por cada [BoseProjektil] (máx 105%)</style>"
+                },
+                {
+                  "desc": "Si el objetivo principal es un aliado, inflige <style=\"highlight\">+2% de daño por cada [Breath] en sí (máx 50%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+30% de Daño en Golpe Crítico</style>"
+                },
+                {
+                  "desc": "[AllyKill] Aplica <style=\"highlight\">4</style> de [Breath] a sí mismo y a 3 aliados"
+                },
+                {
+                  "desc": "[AllyKill] La siguiente Moneda inflige <style=\"highlight\">+7% de daño por cada [BoseProjektil] (máx 49%)</style>"
+                },
+                {
+                  "desc": "[AllyKill] +1 recurso E.G.O para las Afinidades de las Habilidades 1, 2 y 3 del aliado asesinado<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Gana <style=\"highlight\">3</style> de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los subobjetivos\n- Si la primera Moneda falló en matar al aliado, 1 subobjetivo aleatorio recibe daño<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+4% de Daño en Golpe Crítico por cada [BoseProjektil] (máx 28%)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige <style=\"highlight\">5</style> de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

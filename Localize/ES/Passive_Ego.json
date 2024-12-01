@@ -389,40 +389,51 @@
     },
     {
       "id": 2080711,
-      "name": "Interloper Reception",
-      "desc": "If the target has [UninvitedGuestPersonality] or any of the Panic Type changing effects, Clash Power +1.\nOn Hit against the said target, heal 1 ally with the least SP for 5 SP. (once per turn)"
+      "name": "Recepción para Intrusos",
+      "desc": "Si el objetivo tiene [UninvitedGuestPersonality] o cualquier Tipo de Pánico cambiante de efectos, Poder de Choque +1.\nAl golpear contra dicho objetivo, cura a 1 aliado con menos PC en 5 PC. (una vez por turno)"
     },
     {
       "id": 2020711,
-      "name": "Sprawling Lasso",
-      "desc": "After Attack, if the target is Staggered or defeated, inflict +1 [Burst] Count against 2 random enemies (once per turn; cannot stack; in Focused Encounters, against 2 random Parts)",
-      "summary": "After Attack, if the target is Staggered or defeated, inflict +1 [Burst] Count against 2 random enemies"
+      "name": "Lazo Expandible",
+      "desc": "Después de atacar, si el objetivo es Aturdido o derrotado, inflige +1 Contador de [Burst] contra 2 enemigos aleatorios (una vez por turno: no se puede acumular; en Encuentros Centrados, contra 2 partes aleatorias)",
+      "summary": "Después de Atacar, si el objetivo es Aturdido o derrotado, inflige +1 Contrador de [Burst] contra 2 enemigos aleatorios"
     },
     {
       "id": 2060711,
-      "name": "Time to Hunt",
-      "desc": "If an enemy or an ally is killed due to [Burst] or [Laceration] damage, inflict 2 [Snare] against a random enemy, and gain 1 [Agility] next turn (once per turn)"
+      "name": "Hora de Cazar",
+      "desc": "Si un enemigo o un aliado es asesinado por causa de [Burst] o [Laceration], inflige 2 [Snare] contra un enemigo aleatorio, y gana 1 [Agility] el siguiente turno (una vez por turno)"
     },
     {
       "id": 2030711,
-      "name": "Spiring Crimson Blossom",
-      "desc": "Every time 10 [Laceration] damage occurs, heal 1 SP on self (10 per turn)"
+      "name": "Floreciente y Espinosa Flor Carmesí",
+      "desc": "Cada vez que ocurren 10 instancias de daño de [Laceration], cura 1 PC en sí(10 veces por turno)"
     },
     {
       "id": 2090711,
-      "name": "Iron Stake against the Heart",
-      "desc": "When inflicting [Laceration] or 'Unique Bleed' against an enemy with Base Attack Skills, inflict 1 [DefenseDown] (once per turn)\n- If the target has [Laceration] or 'Unique Bleed', inflict additional 2 [Laceration] (once per turn)\n\nIf an ally, including this unit, takes direct HP damage from the enemy, inflict 1 [Curse] against the target enemy (2 times per turn)",
+      "name": "Estaca de Hierro al Corazón",
+      "desc": "Cuando se inflige [Laceration] o 'Sangrado Único' contra un enemigo con Ataques de Habilidad Base, inflige 1 [DefenseDown] (una vez por turno)\n- Si el objetivo tiene [Laceration] o 'Sangrado Único', inflige 2 de [Laceration] adicional(una vez por turno)\n\nSi un aliado, incluyendo esta unidad, recibe daño directo en HP por parte de un enemigo, inflige 1 [Curse] contra el objetivo enemigo (2 veces por turno)",
       "summary": ""
     },
     {
       "id": 2100711,
-      "name": "Grimy Hide",
-      "desc": "Combat Start: if this unit has a negative effect, gain 1 [ParryingResultUp] and 1 [Endurance]\n- Gain 1 [Protection] for every 3 negative effect on self (max 2)"
+      "name": "Cuero Mugriento",
+      "desc": "Inicio del Combate: si esta unidad tiene un efecto negativo, gana 1 [ParryingResultUp] y 1 [Endurance]\n- Gana 1 [Protection] por cada 3 efectos negativos en sí (máx 2)"
     },
     {
       "id": 2050711,
-      "name": "Bloodthirsty Banquet",
-      "desc": "When this unit deals or takes [Laceration] damage, heal HP equal to the [Laceration] damage (max 10 per turn)\n- When activating a Skill/Coin effect that inflicts [Laceration], if the target has [RoseWedge], inflict 1 [Laceration] against the target. (2 times per turn)"
+      "name": "Banquete de Sangre",
+      "desc": "Cuando esta unidad realiza o recibe daño de [Laceration], cura HP equivalente al daño de [Laceration] (máx 10 per turn)\n- Al activar un efecto de Habilidad/Moneda que inflige [Laceration], si el objetivo tiene [RoseWedge], inflige 1 [Laceration] contra el objetivo. (2 veces por turno)"
+    },
+    {
+      "id": 2010711,
+      "name": "Siguiente",
+      "desc": "Después de Atacar: si el objetivo es asesinado, gana +2 Contador de [Breath](2 veces por turno)"
+    },
+    {
+      "id": 2070811,
+      "name": "Campana Quebrada",
+      "desc": "Inflige [Vulnerable] este turno en los enemigos que han sido golpeados por [VibrationExplosion] proveniente de una Habilidad, Moneda o Efecto Pasivo.\n- No se acumula con los Regalos E.G.O. que infligen [Vulnerable] al activar Estallido de Tremor. (Si dicho Regalo E.G.O. ha sido mejorado, resta el valor de este efecto por el valor final antes de infligirlo.)",
+      "summary": "Inflige 1 [Vulnerable] al activar [VibrationExplosion] "
     }
   ]
 }
