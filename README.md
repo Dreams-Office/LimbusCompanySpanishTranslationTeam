@@ -19,6 +19,8 @@ Traducción al Español de Limbus Company
 ### 2.- Ejecute el juego, al hacerlo se abrirá el BepinEX hasta cargar el juego, una vez en la pantalla de inicio (La pantalla con el logo del juego), cierre el juego
 ### 3.- Prepare una carpeta para el mod
    - A diferencia de MelonLoader, para el correcto funcionamiento de los plugins en BIE es necesario poner todo en una carpeta. Crea dicha carpeta en la ruta ``...\Limbus Company\BepInEx\plugins``. El nombre puede ser cualquier cosa
+### 4.- Innecesario
+   - Sigue al siguiente paso
 ### 5.- Descargar Localización
    - Descargar el [Archivo Comprimido LCSTT.zip](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam/releases). Luego Arrastre la carpeta Localize, el archivo LCB_ESP_BIE.dll y el archivo con la fuente para el juego tmplatinfonts a la carpeta creada en el paso 3
 ### 6.- Abrir el juego.
