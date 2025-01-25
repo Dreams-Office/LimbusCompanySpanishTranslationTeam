@@ -29,10 +29,10 @@ Traducción al Español de Limbus Company
 
 # Preguntas Frecuentes
 
-¿El parche está disponible para móviles?
+## ¿El parche está disponible para móviles?
 No, solamente está disponible para PC. Tristemente, no hay forma de que el parche esté disponible para la versión de teléfonos sin que se corra riesgo de ban, pues involucraría un .apk y eso no está permitido.
 
-¿Cada cuánto se actualiza la traducción?
+## ¿Cada cuánto se actualiza la traducción?
 Se intenta sacar una actualización nueva cada semana, pero a veces puede variar un poco porque suele pasar que el contenido que agregan en el juego hace cambios en el código a los que nos tenemos que adaptar.
 
 # Creditos
