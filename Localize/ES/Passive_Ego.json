@@ -1,0 +1,464 @@
+{
+  "dataList": [
+    {
+      "id": 2010111,
+      "name": "Silencio",
+      "desc": "Tras ser golpeado por un ataque, gana de 3 Atadura el siguiente turno, e inflige +20% de daño al atacar con un tipo o Afinidad a la que el objetivo es Débil o Fatal.\n(Una vez por turno.)"
+    },
+    {
+      "id": 2010211,
+      "name": "Ascuas",
+      "desc": "Tras victoria de choque, inflige Quemadura por (Reson.-A de Ira / 2).\n(Una vez por habilidad)"
+    },
+    {
+      "id": 2010311,
+      "name": "Dol Hareubang",
+      "desc": "Al inicio del turno, gana 3 de Protección a lo Contundente y Protección a Pereza."
+    },
+    {
+      "id": 2020111,
+      "name": "Ennui",
+      "desc": "Si un enemigo es aturdido durante el ataque de esta unidad, 1 aliado con los PC más bajos obtiene +2 de Eficiencia de Cura de PC el siguiente turno. (Máx. 3 veces por turno)"
+    },
+    {
+      "id": 2020211,
+      "name": "Velo Líquido",
+      "desc": "Al inicio del turno, aplica 2 de Protección al aliado con menos HP. (Incluye a la unidad misma.)"
+    },
+    {
+      "id": 2020311,
+      "name": "¡Duele!",
+      "desc": "Inflige +10% de daño por cada efecto de estado negativo en esta unidad. (Hasta 50%)"
+    },
+    {
+      "id": 2030111,
+      "name": "Pasión Inmoderada",
+      "desc": "Al golpear, si el objetivo tenía Sangrado, cura 3 HP."
+    },
+    {
+      "id": 2030211,
+      "name": "Ola de Depresión",
+      "desc": "El objetivo de la habilidad más a la derecha del Tablero pierde PC por (Reson.-A de Melancolía x 2) después del ataque.\n(Objetivos sin valores de PC toman daño de Melancolía.)"
+    },
+    {
+      "id": 2040111,
+      "name": "Arte",
+      "desc": "Inflige y recibe +5% de daño por cada enemigo derrotado por esta unidad el último turno."
+    },
+    {
+      "id": 2040211,
+      "name": "Llama del 4to Fósforo",
+      "desc": "Cada 4ta habilidad usada gana +4 de Poder Final e inflige 4 de Quemadura con cada uno de sus ataques."
+    },
+    {
+      "id": 2050111,
+      "name": "Rechazo a Juzgar",
+      "desc": "Al inicio de la fase de combate, gana 3 de Protección si esta unidad es apuntada por 3 o más habilidades."
+    },
+    { 
+      "id": 2050211,
+      "name": "Modificación Final",
+      "desc": "Si la Habilidad de E.G.O <¿Quieres ser golpeado? ¿Dolorosamente?> es usada al tener menos de 25% de HP, gana 3 Poder de Ataque Aumentado, Poder Defensivo Aumentado, y Rapidez cada turno, pero muere en 3 turnos."
+    },
+    {
+      "id": 2050311,
+      "name": "Revelación desde Arriba",
+      "desc": "Tras ganar un choque con la habilidad más a la izquierda en el Tablero, aplica 1 Poder de Ataque Aumentado o Poder Defensivo Aumentado a un aliado al azar el siguiente turno."
+    },
+    {
+      "id": 2060111,
+      "name": "Onda",
+      "desc": "Al inicio de la fase de combate, cura PC al aliado con los menos PC por el número del valor de tu Reson.-A más alto, a excepción de los que están en Pánico."
+    },
+    {
+      "id": 2060211,
+      "name": "Cintas que Atan",
+      "desc": "El objetivo de la habilidad más a la izquierda del Tablero es infligida por (Reson.-A de Lujuria / 4) de Fragilidad a la Lujuria el siguiente turno."
+    },
+    {
+      "id": 2070111,
+      "name": "Espíritu Competitivo",
+      "desc": "Cuando otro aliado derrota a un enemigo, gana 1 de Poder de Ataque Aumentado y 1 de Rapidez al inicio del siguiente turno. (Máx. 3)"
+    },
+    {
+      "id": 2070211,
+      "name": "Rugido",
+      "desc": "Tras derrotar a un enemigo, gana Contador de Carga por la mitad de la Reson.-A de Envidia de ese turno.\n(Reson.-A de Envidia / 2)"
+    },
+    {
+      "id": 2080111,
+      "name": "Compulsión",
+      "desc": "Poder de Choque +2 en choques cuyas chances de victoria están a favor de la unidad.\nPoder de Choque -2 en choques cuyas chances de victoria están en contra de la unidad."
+    },
+    {
+      "id": 2080211,
+      "name": "Cintas Rosas",
+      "desc": "Tras ganar un choque, inflige 1 de Cintas Rosas."
+    },
+    {
+      "id": 2080311,
+      "name": "Ducha de Fuego",
+      "desc": "Al golpear, si el objetivo tenía Quemadura, inflige 1 de Quemadura en 3 enemigos al azar."
+    },
+    {
+      "id": 2090111,
+      "name": "Separación",
+      "desc": "+1 de Eficacia Curativa de PC, +1 de Eficiencia en Pérdida de PC."
+    },
+    {
+      "id": 2090211,
+      "name": "Chispazo de Llama",
+      "desc": "Tras derrotar a un enemigo que tiene Quemadura, cura HP por el (Reson.-A de Ira)% de HP Máx."
+    },
+    {
+      "id": 2090311,
+      "name": "Frialdad",
+      "desc": "Tras golpear, si el objetivo tiene 5+ de Ahogo, inflige 1 de Atadura y Poder de Ataque Reducido.\n(3 veces por unidad.)"
+    },
+    {
+      "id": 2100111,
+      "name": "Inestable",
+      "desc": "Si la Moneda de una habilidad golpea con un lado distinto de la Moneda anterior en la misma habilidad, pierde 5 PC y obtén 1 de Daño Aumentado este turno. (3 veces por turno)"
+    },
+    {
+      "id": 2100211,
+      "name": "Sacrificio",
+      "desc": "Tras derrotar a un enemigo con una habilidad de ataque o contraataque, gana 5 recursos de E.G.O de la Afinidad de esa Habilidad."
+    },
+    {
+      "id": 2110111,
+      "name": "Perfección Táctica",
+      "desc": "Si la unidad no fue golpeada para nada durante un turno, gana 1 de Daño Aumentado el siguiente turno. (Máx. 3)"
+    },
+    {
+      "id": 2110211,
+      "name": "Rama de Desconfianza",
+      "desc": "Al inicio del turno, gana 1 de Daño Perforante Aumentado. \nTras golpear con una moneda en Caras, inflige 1 de Atadura y +1 de Contador de Ruptura el siguiente turno."
+    },
+    {
+      "id": 2110311,
+      "name": "Vaciándose",
+      "desc": "Al inicio del turno, gana 1 de Daño de Lujuria Aumentado.\nGana 1 más al estar debajo de 0 PC."
+    },
+    {
+      "id": 2120111,
+      "name": "Transformación Incontrolable",
+      "desc": "Al inicio del turno, si está debajo del 25% de HP, cura 15 HP y gana 2 de Protección.\nCuando este efecto se active, inflige a 1 otro aliado al azar y a 1 enemigo al azar con +2 de Eficiencia en Pérdida de PC."
+    },
+    {
+      "id": 2120211,
+      "name": "Gusanos",
+      "desc": "Tras golpear, inflige 5 de Gusanos con un (Reson.-A de Gula x 8)% de probabilidad."
+    },
+    {
+      "id": 2120311,
+      "name": "Absorción de Nutrientes",
+      "desc": "Tras derrotar a un enemigo que tiene Ruptura, cura HP por el (Reson-A de Gula)% de HP Máx."
+    },
+    {
+      "id": 2030311,
+      "name": "Descarga Caótica",
+      "desc": "Al inicio de la fase de combate, un aliado al azar con Carga obtiene +(Reson.-A de Envidia / 2) de Contador de Carga."
+    },
+    {
+      "id": 2020411,
+      "name": "Lanzamiento Adaptativo",
+      "desc": "Cuando esta unidad tiene Carga, inflige +2% de daño por Contador de Carga.\nLas habilidades gastan -2 de Contador de Carga."
+    },
+    {
+      "id": 2030411,
+      "name": "Caldero de Atiborrado",
+      "desc": "Al inicio del turno, convierte 2 recursos de E.G.O al azar que no sean Lujuria en 1 recurso de Lujuria."
+    },
+    {
+      "id": 2100311,
+      "name": "Reflujo de Estofado",
+      "desc": "Monedas en Sello infligen 1 de Quemadura si golpean un enemigo."
+    },
+    {
+      "id": 2010411,
+      "name": "Hombre Alocado",
+      "desc": "Al inicio del turno, si esta unidad no recibió daño el último turno, gana +4 Carga.\nTras golpear a un enemigo con Velocidad menor, inflige +1 de Contador de Ruptura. (3 veces por turno)"
+    },
+    {
+      "id": 2060311,
+      "name": "Restauración de Fenómeno Enredado",
+      "desc": "Al golpear un enemigo con efectos de estado negativos, esta unidad gana +1 Contador de Carga.\n(Máx. +4 por turno.)\nCuando los HP caigan a 0 por primera vez durante la batalla, gasta todo el Contador de Carga y cura HP en proporción a la cantidad gastada. (No puede curar más del 50% de HP Máx.)"
+    },
+    {
+      "id": 2050411,
+      "name": "Agitación Inmoderada ",
+      "desc": "Al inicio de la fase de combate, si es blanco de 2 o más habilidades, las habilidades de esta unidad tienen +1 de Poder Base; al ser golpeado, inflige 1 de Quemadura en el atacante. (5 veces por turno.)"
+    },
+    {
+      "id": 2080411,
+      "name": "Asesinatos Entre Aplausos",
+      "desc": "Al atacar un objetivo con menos de 30% de HP, las habilidades de Ira infligen +20% de daño."
+    },
+    {
+      "id": 2110411,
+      "name": "Respiro de la Cacería",
+      "desc": "Luego de un duelo, gana 2 de Temple.\nAl ser aturdido, gana 2 de Protección; al recuperarse del aturdimiento, gana 5 de Temple."
+    },
+    {
+      "id": 2070311,
+      "name": "Descarga Temperamental",
+      "desc": "Al ser golpeado, usa 1 de Carga para curar el 2.5% de los HP Máx.\nAl tener menos de 40% de HP, gana 1 de Carga antes de activar el efecto de curación. (Puede gana máx. 10 de Carga por turno.)"
+    },
+    {
+      "id": 2120411,
+      "name": "Descarga Alterna",
+      "desc": "Tras golpear con una moneda en Cara, usa 2 de Carga para dar +1 de Carga a un aliado que posea Carga, y que tenga la menor Carga."
+    },
+    {
+      "id": 2010511,
+      "name": "Rayo de Sol tras la Lluvia",
+      "desc": "Al inicio del turno, todos los aliados curan 3 PC."
+    },
+    {
+      "id": 2040311,
+      "name": "Redes de Araña",
+      "desc": "Tras un choque ganado, inflige 1 de Atadura el siguiente turno. (3 veces por turno.)"
+    },
+    {
+      "id": 2040411,
+      "name": "Depredadora",
+      "desc": "Si esta unidad curó más del 10% de sus HP Máx. este turno, gana 1 de Poder de Ataque Aumentado el siguiente turno."
+    },
+    {
+      "id": 2040511,
+      "name": "Lata Abierta",
+      "desc": "Tras golpear, si el objetivo tiene 5+ de Ahogo, inflige +1 de Poder Defensivo Reducido. (5 veces por turno.)"
+    },
+    {
+      "id": 2060411,
+      "name": "Graznidos De Gaviotas De Los Mares Distantes",
+      "desc": "Cuando un enemigo es derrotado, el aliado con los PC más bajos cura 1 PC.\nCuando un enemigo es derrotado, la cantidad de PC curados se incrementa por 2. (Máx. 9)\nLa cantidad se restablece al inicio de una nueva oleada."
+    },
+    {
+      "id": 2100411,
+      "name": "Señuelo de Hada",
+      "desc": "Tras derrotar a un enemigo que apuntaba a esta unidad al inicio de la fase de combate, cura 3% de HP Máx. + (Reson.-A de Gula)% de HP Máx."
+    },
+    {
+      "id": 2070411,
+      "name": "Dhyāna",
+      "desc": "Aumenta HP Máx. por el 15% de los HP Máx. base de esta identidad al recuperarse del estado de Aturdimiento.\nLuego, cura por el 15% de HP Máx. actuales. Si se está a menos del 30% de los HP Máx. actuales, cura el 25%.\n(3 veces por Encuentro. Al Final del Encuentro, se revierte a los HP Máx. base. Los valores de HP actuales serán ajustados para reflejar el porcentaje de HP al tiempo del Final del Encuentro.)"
+    },
+    {
+      "id": 2050511,
+      "name": "Ira Aprisionada",
+      "desc": "La habilidad más a la izquierda de esta unidad en el Tablero pierde 1 de Poder Base y gana 2 de Poder de Moneda.\nAl inicio de turno, si se está a 4- de Velocidad, gana 1 de Poder de Contundente Aumentado."
+    },
+    {
+      "id": 2020511,
+      "name": "Marca Ígnea",
+      "desc": "Al Golpear con Cara usando una habilidad con afinidad de Lujuria, inflige 1 de Quemadura en el objetivo. (6 veces por turno.)"
+    },
+    {
+      "id": 2060511,
+      "name": "Baba Verde",
+      "desc": "Tras ser golpeado con menos del 50% de HP, inflige 1 de Ruptura en el atacante. Se activa (Reson.-A de Gula más alta) veces por turno."
+    },
+    {
+      "id": 2040611,
+      "name": "Devora-Sueños",
+      "desc": "Tras un Crítico con una habilidad de afinidad de Orgullo, gana 1 de Contador de Temple. (3 veces por turno.)"
+    },
+    {
+      "id": 2080511,
+      "name": "Temeroso Viaje",
+      "desc": "Al final del turno, inflige 5 de Ahogo a 1 otro aliado con los HP más bajos; aplica con 1 de Rapidez y 3 de Nivel Ofensivo Aumentado el siguiente turno."
+    },
+    {
+      "id": 2090411,
+      "name": "Basura Pegajosa",
+      "desc": "Tras Golpe de Cara con una habilidad Perforante, inflige 1 de Atadura. (2 veces por turno.)"
+    },
+    {
+      "id": 2100511,
+      "name": "Profecía de la Ruina",
+      "desc": "Tras un Golpe de Cara con una habilidad de afinidad de Lujuria, reduce los PC de esta unidad y su objetivo por 4.\n(No funciona contra objetivos sin Cordura)\nGana 5 recursos E.G.O de Lujuria tras derrotar a un enemigo con una habilidad de afinidad de Lujuria."
+    },
+    {
+      "id": 2090511,
+      "name": "Sentencia de Arriba",
+      "desc": "Cuando un enemigo es Aturdido, el aliado con el porcentaje de HP más bajo cura 4% de sus HP Máx. (Una vez por turno.)"
+    },
+    {
+      "id": 2070511,
+      "name": "Odio Infinito",
+      "desc": "Cuando esta unidad tiene un efecto de estado negativo, y si su objetivo principal o atacante tiene un efecto positivo:\n- Inflige +1 de Potencia de Quemadura, Sangrado, Tremor, Ruptura y Ahogo a sí mismo y a los enemigos con efectos de Habilidad o efectos de Moneda.\n- Gana +1 de Contador de Temple y Carga con efectos de Habilidad o efectos de Moneda."
+    },
+    {
+      "id": 2110511,
+      "name": "Regalos Justos",
+      "desc": "Al aplicar efectos positivos a otros aliados con efectos de Habilidad o efectos de Moneda, selecciona al azar uno de los siguientes efectos: Quemadura, Sangrado, Tremor, Ruptura o Ahogo.\nLuego, inflige 1 de Potencia del efecto seleccionado a 1 enemigo al azar. (Se activa 5 veces por Turno. Puede ser aplicado hasta 5 veces por enemigo. Para Anormalidades, aplicado a una Parte al azar.)"
+    },
+    {
+      "id": 2030511,
+      "name": "Pagoda de Piedra Derrumbada",
+      "desc": "Gana 2 de Temple y 2 de Contador de Temple cuando derrota a un enemigo con Sangrado (3 veces por turno)"
+    },
+    {
+      "id": 2120511,
+      "name": "Corona de Rosas",
+      "desc": "Inicio de Turno: Inflige 2 de Potencia de Ruptura en un enemigo aleatorio(En en Encuentros Centrados, todas las partes)\nAl activar Resonancia Absoluta, inflige 2 de Potencia de Ruptura en todos los enemigos al Iniciar Combate"
+    },
+    {
+      "id": 2120611,
+      "name": "Si Pudiese Regresar...",
+      "desc": "Despues de Atacar: Si el objetivo es derrotado por el ataque de esta unidad, gana 1 recurso E.G.O para el recurso E.G.O con menos propiedad.\nGana 1 recurso E.G.O adicional por cada 5 de (Potencia de [Sinking] + Contador) (máx 3)\n(Si hay 2 o más \"E.G.O de menor propiedad\", slecciona 1 de esas Afinidades aleatoriamente para ganar el recurso E.G.O"
+    },
+    {
+      "id": 2010611,
+      "name": "Ayer Fragmentado",
+      "desc": "Si el objetivo tiene 6+ de Potencia de [Sinking], Poder de Choque +1\nSi el objetivo tiene 4+ de Contador de [Sinking], Poder de Choque +1"
+    },
+    {
+      "id": 2030611,
+      "name": "Grito Tempestuoso",
+      "desc": "Si el objetivo es derrotado por una Habilidad Cortante o con Afinidad de Envidia, gana 1 de [Enhancement] el siguiente turno (una vez por turno)"
+    },
+    {
+      "id": 2050611,
+      "name": "Cables Sobrecargados",
+      "desc": "Inicio de Combate: Con 4+ de Reson., gana 2 de [AttackUp] y 2 de [DefenseUp].\nSi la Reson. fue una Reson. de Envidia, también aplica los efectos anteriores a las 2 unidades adyacentes de esta unidad en el Tablero."
+    },
+    {
+      "id": 2070611,
+      "name": "Cadenas de Atadura",
+      "desc": "Inicio del Combate: Con 4+ de Reson. más alta que incluya la Habilidad de esta unidad, aplica 3 de [AttackUp] y 3 de [DefenseUp] a sí mismo y todos los aliados que fueron parte de esa Reson.\n- Si dicha REson. fue una Reson-A, aplica adicionalmente 2 de [AttackUp] y de [DefenseUp]"
+    },
+    {
+      "id": 2110611,
+      "name": "Gran Bienvenida",
+      "desc": "Después del ataque de esta unidad: si el ojbetivo está Aturdido o derrotado, gana +1 recurso E.G.O de Orgullo y +1 recurso E.G.O de otra Afinidad aleatoria (3 veces por turno)"
+    },
+    {
+      "id": 2080611,
+      "name": "Glotonería",
+      "desc": "Si el objetivo principal recibio HP de daño este turno y no está a su máximo HP al usar esta Habilidad:\nAl golpear,\nCuando esta unidad está con HP al máx, realiza +5~+10% más de daño.\n Cuando esta unidad no está con HP al máx, se cura 2~5 HP.\n(7 veces por turno)",
+      "summary": "Si el ojbetivo no está con los HP al máx, realiza más daño Al golpear o cura HP Al golpear"
+    },
+    {
+      "id": 2090611,
+      "name": "Obsesión",
+      "desc": "Si la Habilidad de esta unidad esta lo más a la izquierda del Tablero, inflige el doble de Potencia de [Laceration] (una vez por turno)",
+      "summary": "Esta Habilidad inflige Potencia de [Laceration] x2"
+    },
+    {
+      "id": 2060611,
+      "name": "Melancolía",
+      "desc": "Cuando esta unidad usa una Habilidad para activar [VibrationExplosion] en un enemigo, inflige 1 [AttackDown] y 2 [DefenseDown] en el enemigo el siguiente turno (3 veces por turno, incluyendo Habilidades E.G.O)",
+      "summary": "Al activar [VibrationExplosion], inflige 1 [AttackDown] y 2 [DefenseDown] el siguiente turno"
+    },
+    {
+      "id": 2100611,
+      "name": "Película Lagrimal",
+      "desc": "Inicio de Turno: Si esta unidad tiene Escudo, gana 1 [Protection]\nSi esta unidad está bajo el efecto de [ShieldManagerCryingToad], gana 1 [Protection] adicional",
+      "summary": "Si esta unidad tiene Escudo, gana 1 [Protection]\nSi [ShieldManagerCryingToad] está activo, gana 1 [Protection]"
+    },
+    {
+      "id": 2020611,
+      "name": "Tiempo de Ejecución",
+      "desc": "Cuando esta unidad usa una Habilidad para activar [VibrationExplosion] en un enemigo, gana 1 [Agility] el siguiente turno (4 veces por turno, incluyendo Habilidades E.G.O)",
+      "summary": "Al usar una Habilidad para activar [VibrationExplosion] en un enemigo, gana 1 [Agility] el siguiente turno. (4 veces por turno, incluyendo Habilidades E.G.O)"
+    },
+    {
+      "id": 2040711,
+      "name": "Rastro de la Mirada",
+      "desc": "Cuando esta unidad usa una Habilidad de Ataque básica contra un enemigo, gana 1 recurso E.G.O adicional para la Afinidad aleatoria menos poseída que no corresponde a la Afinidad de la Habilidad de Ataque fue usada (2 veces por turno)"
+    },
+    {
+      "id": 2070711,
+      "name": "Colgante Triturado",
+      "desc": "Inicio de Combate: Con 3+ de Reson. o más, gana 3 [Breath]."
+    },
+    {
+      "id": 2110711,
+      "name": "Sujeto Errante",
+      "desc": "Contador de [Charge] Máx +5\nHabilidades que gastan Contador de {Charge] infligen +2% de daño por cada ([Charge] - 1) (máx 10%)",
+      "summary": "Habilidades que gastan Contador de [Charge] infligen más daño"
+    },
+    {
+      "id": 2120711,
+      "name": "Lamento",
+      "desc": "Fin de Turno: si esta  unidad tiene un estado negativo, gana 1 [Enhancement] el siguiente turno\nAl atacar unidades que están en pánico o en Corrosión E.G.O: realiza +15% más de daño",
+      "summary": ""
+    },
+    {
+      "id": 2080711,
+      "name": "Recepción para Intrusos",
+      "desc": "Si el objetivo tiene [UninvitedGuestPersonality] o cualquier Tipo de Pánico cambiante de efectos, Poder de Choque +1.\nAl golpear contra dicho objetivo, cura a 1 aliado con menos PC en 5 PC. (una vez por turno)"
+    },
+    {
+      "id": 2020711,
+      "name": "Lazo Expandible",
+      "desc": "Después de atacar, si el objetivo es Aturdido o derrotado, inflige +1 Contador de [Burst] contra 2 enemigos aleatorios (una vez por turno: no se puede acumular; en Encuentros Centrados, contra 2 partes aleatorias)",
+      "summary": "Después de Atacar, si el objetivo es Aturdido o derrotado, inflige +1 Contrador de [Burst] contra 2 enemigos aleatorios"
+    },
+    {
+      "id": 2060711,
+      "name": "Hora de Cazar",
+      "desc": "Si un enemigo o un aliado es asesinado por causa de [Burst] o [Laceration], inflige 2 [Snare] contra un enemigo aleatorio, y gana 1 [Agility] el siguiente turno (una vez por turno)"
+    },
+    {
+      "id": 2030711,
+      "name": "Floreciente y Espinosa Flor Carmesí",
+      "desc": "Cada vez que ocurren 10 instancias de daño de [Laceration], cura 1 PC en sí (10 veces por turno)"
+    },
+    {
+      "id": 2090711,
+      "name": "Estaca de Hierro al Corazón",
+      "desc": "Cuando se inflige [Laceration] o 'Sangrado Único' contra un enemigo con Ataques de Habilidad Base, inflige 1 [DefenseDown] (una vez por turno)\n- Si el objetivo tiene [Laceration] o 'Sangrado Único', inflige 2 de [Laceration] adicional(una vez por turno)\n\nSi un aliado, incluyendo esta unidad, recibe daño directo en HP por parte de un enemigo, inflige 1 [Curse] contra el objetivo enemigo (2 veces por turno)",
+      "summary": ""
+    },
+    {
+      "id": 2100711,
+      "name": "Cuero Mugriento",
+      "desc": "Inicio del Combate: si esta unidad tiene un efecto negativo, gana 1 [ParryingResultUp] y 1 [Endurance]\n- Gana 1 [Protection] por cada 3 efectos negativos en sí (máx 2)"
+    },
+    {
+      "id": 2050711,
+      "name": "Banquete Sanguinario",
+      "desc": "Cuando esta unidad realiza o recibe daño de [Laceration], cura HP equivalente al daño de [Laceration] (máx 10 per turn)\n- Al activar un efecto de Habilidad/Moneda que inflige [Laceration], si el objetivo tiene [RoseWedge], inflige 1 [Laceration] contra el objetivo. (2 veces por turno)"
+    },
+    {
+      "id": 2010711,
+      "name": "Siguiente",
+      "desc": "Después de Atacar: si el objetivo es asesinado, gana +2 Contador de [Breath](2 veces por turno)"
+    },
+    {
+      "id": 2070811,
+      "name": "Campana Quebrada",
+      "desc": "Inflige [Vulnerable] este turno en los enemigos que han sido golpeados por [VibrationExplosion] proveniente de una Habilidad, Moneda o Efecto Pasivo.\n- No se acumula con los Regalos E.G.O. que infligen [Vulnerable] al activar Estallido de Tremor. (Si dicho Regalo E.G.O. ha sido mejorado, resta el valor de este efecto por el valor final antes de infligirlo).",
+      "summary": "Inflige 1 [Vulnerable] al activar [VibrationExplosion] "
+    },
+    {
+      "id": 2080811,
+      "name": "Una Mirada en las Sombras",
+      "desc": "Los aliados ganan +1 Contador de [Vibration] más de Habilidades o efectos de Moneda (2 veces por turno)\n- Si el objetivo del aliado está Aturdido, con Baja Moral, o en estado de Pánico, gana +2 más en su lugar\n- Este efecto no se acumula con Regalos E.G.O. con efectos idénticos."
+    },
+    {
+      "id": 2120811,
+      "name": "Noche de Insomnio",
+      "desc": "Inicio del Combate: inflige 1 [AttackDown] o 1 [DefenseDown] a todos los enemigos un total de (# de enemigos Aturdidos,con Baja Moral, o en estado de Pánico) veces. (2 veces por turno)\n- Este efecto no se acumula con Regalos E.G.O. con efectos idénticos."
+    },
+    {
+      "id": 2040811,
+      "name": "Respiración",
+      "desc": "Al Inicio del Siguiente Turno después de usar esta Habilidad E.G.O: gana 1 [NebulizerInhale] (una vez por turno)\n- Si esta Habilidad derrotó algún enemigo, gana [NebulizerInhale] adicionalmente según el número de enemigos derrotados\n- Si esta Habilidad derrotó algún aliado, gana (objetivos derrotados x 2) de [NebulizerInhale] adicionales\n- Este valor no se Acumula durante este Encuentro"
+    },
+    {
+      "id": 2110811,
+      "name": "Siete Balas",
+      "desc": "- Al golpear con Habilidades de Ataque Base: inflige ([FreischutzShotCount] / 3) de [Combustion] (3 veces por turno)\n- Por cada Identidad de Outis E.G.O Lobotomy::Bala Mágica[TabExplain], inflige ([FreischutzShotCount]) de [Combustion] en cambio (3 veces por turno)\n- Si el objetivo tiene 30+ de [Combustion], inflige 1 [DarkFlame] en vez de los efectos anteriormente mencionado (2 veces por turno)"
+    },
+    {
+      "id": 2020811,
+      "name": "Respiración",
+      "desc": "Al Inicio del siguiente Turno después de usar esta habilidad E.G.O: gana 1 [NebulizerExhale] (una vez por turno)\n- Este valor se acumula a través del Encuentro\n\nInicio del Combate: gana 1 [NebulizerExhale] cada vez que esta unidad aplica 10 Contador de [Breath] a los aliados con el efecto de [NebulizerExhale]\n\nFin de Turno: comenzando por el aliado con el menor porcentaje de HP, cura ([NebulizerExhale] Stack)% de HP a (highest Reson.) aliados (máx 6)\n- Si dicha unidad recibe la curación teniendo 20 o más Potencia de [Breath], activa el efecto de curación una vez más"
+    }
+  ]
+}

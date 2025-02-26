@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10105_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Por desgracia, parece que debemos implicarnos en este asunto."
+        },
+        {
+            "id": "lobby_morning_10105_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Así pues, es una mañana como cualquier otra, sus patrones son siempre inmutables. Si tienes algún asunto relacionado con un contrato, por favor ponte cómodo en nuestra oficina."
+        },
+        {
+            "id": "lobby_noon_10105_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Hmm... Queda medio día. ¿Cómo te va?"
+        },
+        {
+            "id": "lobby_night_10105_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Aunque pueda parecer lamentable que trabaje hasta tan tarde por la noche... no es completamente no ideal, ya que significa que hay trabajo por hacer.\nMuchas oficinas en esta ciudad a menudo pasan días sin ningún contrato adecuado."
+        },
+        {
+            "id": "smalltalk_10105_1",
+            "desc": "Charla #1",
+            "dlg": "Primero hay que redactar y firmar un contrato oficial, si queremos aceptar una petición.\nBueno... no hay necesidad de sentirse intimidado. No es más que un simple pacto entre dos entidades."
+        },
+        {
+            "id": "smalltalk_10105_2",
+            "desc": "Charla #2",
+            "dlg": "La Hermana Mayor está... ocupada con un asunto ajeno en este momento. Si hay alguna palabra que debas transmitirle, puedes decírmela a mí.\n...Pedir su información de contacto... puede ser imprudente. Puedo hablar con certeza de que ella no está en un estado ideal para entablar un diálogo."
+        },
+        {
+            "id": "smalltalk_10105_3",
+            "desc": "Charla #3",
+            "dlg": "¿Preguntas por esta arma? Es una artesanía de un taller, en efecto.\n¿Modificaciones...? Hmm, ¿por qué habría necesidad de modificaciones? No me veo manipulando su construcción, tampoco."
+        },
+        {
+            "id": "smalltalk_10105_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "Los contratos de las Asociaciones y los contratos de las Alas tienen niveles de importancia totalmente diferentes. Ser contratado por un Ala es tener nuestra competencia reconocida.\nPor lo tanto, este contrato de R Corp. es también... algo de gran importancia."
+        },
+        {
+            "id": "smalltalk_10105_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "Aunque tengo mis reservas... también entiendo que puede ser una oportunidad maravillosa.\nTengo la esperanza de que podamos cumplir este contrato siempre y cuando demuestre ser un apoyo suficiente para la Hermana Mayor."
+        },
+        {
+            "id": "neglect_10105_1",
+            "desc": "Inactivo",
+            "dlg": "Usaré este tiempo de inactividad para catalogar nuestros documentos. Uno no debe holgazanear... en tiempos como estos."
+        },
+        {
+            "id": "gacksung_10105_1",
+            "desc": "Aunando",
+            "dlg": "Hm. Esta es una gran responsabilidad. Me esforzaré al máximo para estar a la altura de tus expectativas."
+        },
+        {
+            "id": "formation_10105_1",
+            "desc": "Desplegar",
+            "dlg": "Vas a salir, ¿cierto? Permíteme acompañarte."
+        },
+        {
+            "id": "battleentry_10105_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Que esta sea una experiencia positiva para todos nosotros."
+        },
+        {
+            "id": "battle_select_10105_1",
+            "desc": "Vista en Batalla",
+            "dlg": "La situación ha sido hasta ahora bastante... ideal."
+        },
+        {
+            "id": "battle_endcommand_10105_1",
+            "desc": "Al Atacar",
+            "dlg": "Mantén la calma."
+        },
+        {
+            "id": "battle_enemy_break_10105_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Esta es una oportunidad."
+        },
+        {
+            "id": "battle_break_10105_1",
+            "desc": "Aturdido",
+            "dlg": "Ach..."
+        },
+        {
+            "id": "battle_kill_10105_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "No había de qué preocuparse."
+        },
+        {
+            "id": "battle_dead_10105_1",
+            "desc": "Muerte",
+            "dlg": "...Era de esperarse de mí."
+        },
+        {
+            "id": "choice_success_p_10105_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Parece que mi apuesta dio sus frutos."
+        },
+        {
+            "id": "choice_fail_n_10105_1",
+            "desc": "Juicio Fallido",
+            "dlg": "...He calculado mal los riesgos de esta apuesta."
+        },
+        {
+            "id": "battle_clear_10105_1",
+            "desc": "Grito de Victoria",
+            "dlg": "...El contrato se ha cumplido. Desaparezcamos antes de que nos encontremos con más problemas."
+        },
+        {
+            "id": "battle_clear_ex_10105_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Suponiendo que nos mantengamos firmes, un contrato de tal calibre no debería plantearnos dificultades."
+        },
+        {
+            "id": "battle_defeat_10105_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "He cometido demasiados errores... Me disculpo. No te he sido de ayuda."
+        }
+    ]
+}

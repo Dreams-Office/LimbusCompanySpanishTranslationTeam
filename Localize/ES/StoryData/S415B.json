@@ -1,0 +1,400 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Laboratorio de K Corp.",
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio de K Corp.",
+            "content": "¡Atención, todos! ¡¡Han llegado los refuerzos!!"
+        },
+        {
+            "id": 1,
+            "model": "로쟈",
+            "content": "¿Q-quiénes son esas personas?"
+        },
+        {
+            "id": 2,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Dept. de Desarrollo de Recursos Alimenticios de K Corp.",
+            "content": "Sí, ¿quiénes son ellos, Shrenne~? ¿Te hiciste amigos nuevos aparte de mí?"
+        },
+        {
+            "id": 3,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio de K Corp.",
+            "content": "Son Fixers del Taller Llaverrosa. Estamos trabajando con ellos para el proyecto actual. Ya han estado aquí varias veces antes, deberías estar familiarizado con ellos para este punto."
+        },
+        {
+            "id": 4,
+            "model": "니코",
+            "teller": "Niko",
+            "title": "Taller Llaverrosa",
+            "content": "Es un placer conocerlos. Soy Niko, representante del Taller Llaverrosa."
+        },
+        {
+            "id": 5,
+            "content": "Los rostros de los enemigos se oscurecieron ante la inesperada llegada de los refuerzos."
+        },
+        {
+            "id": 6,
+            "model": "란",
+            "teller": "¿¿??",
+            "title": "¿Organización Terrorista?",
+            "content": "Aburrido. Vámonos de aquí."
+        },
+        {
+            "id": 7,
+            "model": "마리르",
+            "teller": "¿¿??",
+            "title": "¿Organización Terrorista?",
+            "content": "¿Qué?"
+        },
+        {
+            "id": 8,
+            "model": "마리르",
+            "teller": "¿¿??",
+            "title": "¿Organización Terrorista?",
+            "content": "De acuerdo... Vámonos."
+        },
+        {
+            "id": 9,
+            "model": "니코",
+            "teller": "Niko",
+            "title": "Taller Llaverrosa",
+            "content": "Miren nada más, nuestra \"aura\" los hizo escaparse del miedo... Juju..."
+        },
+        {
+            "id": 10,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Gracias, Shrenne. En serio que esto me hizo considerar la posibilidad de que tu departamento sea escogido como el mejor el próximo año por primera vez."
+        },
+        {
+            "id": 11,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio de K Corp.",
+            "content": "Qué pena que tus preciosos trofeos hayan sido destruídos, ¿eh?"
+        },
+        {
+            "id": 12,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Srta. Shrenne, disculpa la sospecha, pero imagino que no estuviste esperando a que se rompieran los trofeos para enviar los refuerzos, ¿verdad?"
+        },
+        {
+            "id": 13,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "No me importa perderlos."
+        },
+        {
+            "id": 14,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Siempre y cuando la foto esté bien."
+        },
+        {
+            "id": 15,
+            "model": "그레고르",
+            "content": "El daño que dejaron es bastante severo, ahora que lo veo más de cerca..."
+        },
+        {
+            "id": 16,
+            "model": "그레고르",
+            "content": "De haber salido las cosas mal, podrían haber matado a todos los investigadores."
+        },
+        {
+            "id": 17,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "En efecto, y es por eso que debemos eliminarlos y recuperar la instalación que han ocupado lo antes posible."
+        },
+        {
+            "id": 18,
+            "model": "이상",
+            "content": "¿Por qué, entonces... K Corp. no brinda asistencia?"
+        },
+        {
+            "id": 19,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Hmm... Claramente porque no quieren que el público general sepa que una cosa así sucedió en el Nido, ¿no te parece?"
+        },
+        {
+            "id": 20,
+            "model": "이상",
+            "content": "Si bien eso podría ser cierto en el caso de plumas inocentes, este incidente involucra a investigadores y a un laboratorio directamente afiliado con el Ala..."
+        },
+        {
+            "id": 21,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Pues es evidencia de que así de discreto lo quieren mantener, ¿no crees?"
+        },
+        {
+            "id": 22,
+            "model": "이상",
+            "content": "......"
+        },
+        {
+            "id": 23,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "En cualquier caso, debería traerles una generosa cantidad de viales de regeneración para que puedan utilizar. Creo que ya vendría siendo momento de irnos, ¿verdad?"
+        },
+        {
+            "id": 24,
+            "model": "그레고르",
+            "content": "No nos vamos a ir de picnic, Dongrang... ¿Seguro de que estarás bien?"
+        },
+        {
+            "id": 25,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "No hay por qué preocuparse; verlos pelear me hizo sentir más seguro de que debería acompañarlos."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Solo para que sepa... la tecnología que nuestro gerente Dante utiliza se encuentra en un nivel distinto a la hora de compararla con los viales de K Corp.; más que regenerar, lo que hace es restaurar."
+        },
+        {
+            "id": 27,
+            "model": "파우스트",
+            "content": "Por lo tanto, observarla no le proporcionará mucha información que podría serle de utilidad para mejorar la Singularidad de K Corp. o los viales de regeneración."
+        },
+        {
+            "id": 28,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Restauración, mas no curación, ¿eh...?"
+        },
+        {
+            "id": 29,
+            "model": "로쟈",
+            "content": "No puede ser~ ¡¿Está tratando de copiar la habilidad de Dante como lo intentó hacer el tipo raro del restaurante de pollos con su rival?!"
+        },
+        {
+            "id": 30,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Nunca haría algo así. No soy del tipo de persona que se llena con comida que sé que no puedo digerir."
+        },
+        {
+            "id": 31,
+            "model": "오티스",
+            "content": "Ha de ser una práctica común para alguien como tú el enviar a subordinados capaces a luchar por ti y, sin embargo, esta vez insistes en estar en el frente. ¿Tan hambriento estás de una medalla?"
+        },
+        {
+            "id": 32,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "No, es solo que..."
+        },
+        {
+            "id": 33,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Hay un par de cosas de allí que no pude llevarme a tiempo."
+        },
+        {
+            "id": 34,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Como la foto conmemorativa de mi tercer año consecutivo ganando el premio a la excelencia, la placa de reconocimiento de K Corp., la foto que tomé para celebrar la expansión de mi laboratorio y... ¿Qué más dejé ahí, Samjo?"
+        },
+        {
+            "id": 35,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "... Documentos clasificados relacionados con la investigación, señor..."
+        },
+        {
+            "id": 36,
+            "model": "오티스",
+            "content": "... Entonces, lo que quieres es recuperar las medallas que solías tener."
+        },
+        {
+            "id": 37,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Ah, cierto. Casi me olvido de eso."
+        },
+        {
+            "id": 38,
+            "model": "그레고르",
+            "content": "Realmente te salvaste de ese incidente por un pelo, ¿eh...?"
+        },
+        {
+            "id": 39,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio de K Corp.",
+            "content": "Se los garantizo, ese nerd de Dongrang nunca ha dado un puñetazo en su vida. Es demasiado despreocupado. Por lo menos debería conseguirse algunos Fixers, como lo hago yo."
+        },
+        {
+            "id": 40,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "¿Tu departamento vendrá también, Srta. Shrenne?"
+        },
+        {
+            "id": 41,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "No veo cómo podrías beneficiarte del éxito de esta operación."
+        },
+        {
+            "id": 42,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio de K Corp.",
+            "content": "... Tres de mis compañeros murieron en el último ataque."
+        },
+        {
+            "id": 43,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio de K Corp.",
+            "content": "Ya he perdido demasiado como para andar preocupándome por intereses y beneficios."
+        },
+        {
+            "id": 44,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Srta. Shrenne..."
+        },
+        {
+            "id": 45,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "En ese caso, supondré que tu departamento se encargará de entregarles su paga a los Fixers..."
+        },
+        {
+            "id": 46,
+            "model": "슈렌느",
+            "teller": "Shrenne",
+            "title": "Laboratorio de K Corp.",
+            "content": "Ugh... No sé cómo no se cansan de ser tan irritantes..."
+        },
+        {
+            "id": 47,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "La sucursal de Lobotomy Corp. que debemos recuperar se encuentra no muy lejos de aquí."
+        },
+        {
+            "id": 48,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Vayamos juntos."
+        },
+        {
+            "id": 49,
+            "model": "동랑",
+            "teller": "Dongrang",
+            "title": "Laboratorio de K Corp.",
+            "content": "Esperaba tener la oportunidad de viajar en su bus... Qué lástima."
+        },
+        {
+            "id": 50,
+            "model": "삼조",
+            "teller": "Samjo",
+            "title": "K Corp. Dept. of Food Resource Development",
+            "content": "Se la aseguraré para la próxima. Por ahora, pongámonos en marcha."
+        },
+        {
+            "id": 51,
+            "model": "로쟈",
+            "content": "¿Eh? ¡¿Quién te crees que eres para decidir eso...?!"
+        },
+        {
+            "id": 52,
+            "place": "Camino hacia la Sucursal de Lobotomy Corp. en el Nido K",
+            "content": "Esta misión se siente particularmente tumultuosa."
+        },
+        {
+            "id": 53,
+            "model": "로쟈",
+            "content": "Como decía~ Entonces, tomé todas mis fichas y dije esto:"
+        },
+        {
+            "id": 54,
+            "model": "로쟈",
+            "content": "\"Lo apuesto~ todo.\""
+        },
+        {
+            "id": 55,
+            "model": "그레고르",
+            "content": "Haah... Ya no quiero oír más... Me están dando náuseas."
+        },
+        {
+            "id": 56,
+            "model": "니코",
+            "teller": "Niko",
+            "title": "Taller Llaverrosa",
+            "content": "En el casino de J Corp., no hay nada mejor que jugar al póker. Las personas que se quedan sentadas todo el día frente a las máquinas tragamonedas son unas completas idiotas."
+        },
+        {
+            "id": 57,
+            "model": "히스클리프",
+            "content": "¿Por qué? ¿Para vos las tragamonedas están falseadas?"
+        },
+        {
+            "id": 58,
+            "model": "니코",
+            "teller": "Niko",
+            "title": "Taller Llaverrosa",
+            "content": "Verán, esta información nunca se la había dicho a nadie antes..."
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "Esperá, tenés que decirnos más..."
+        },
+        {
+            "id": 60,
+            "model": "단테",
+            "content": "<Las cosas sí que se pusieron animadas esta vez.>"
+        },
+        {
+            "id": 61,
+            "model": "료슈",
+            "content": "N.M.G."
+        },
+        {
+            "id": 62,
+            "content": "\"Dice que no le gusta\", susurró Sinclair."
+        },
+        {
+            "id": 63,
+            "content": "En respuesta, le susurré diciendo \"Lo sé\"."
+        }
+    ]
+}

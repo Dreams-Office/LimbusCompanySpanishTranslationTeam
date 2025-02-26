@@ -1,0 +1,120 @@
+{
+    "dataList": [
+        {
+            "id": 9008801,
+            "name": "Forma Indescriptible",
+            "desc": "Al ser asesinado en combate, inflige 10 de daño a los PC a la última unidad que lo atacó"
+        },
+        {
+            "id": 9008901,
+            "name": "Palidificación",
+            "desc": "Gana 2 de Nivel Ofensivo y Nivel Defensivo por cada aliado Palidecido vivo (sin contar a esta unidad)"
+        },
+        {
+            "id": 9008902,
+            "name": "Inmundicia Aplastante",
+            "desc": "A 10% de la HP Máx, inflige 20 de daño a los PC Tras Golpear, inflige 1 de Ruido Pálido, luego muere."
+        },
+        {
+            "id": 9008903,
+            "name": "Propagando Inmundicia",
+            "desc": "Si hay unidades Palidecidas sobrevivientes al Fin del Turno, todos los enemigos con 20 o más PC pierden 1 PC por cada aliado Palidecido sobreviviente (sin contar a esta unidad)"
+        },
+        {
+            "id": 9009001,
+            "name": "Propagando Inmundicia",
+            "desc": "Si hay unidades Palidecidas sobrevivientes al Fin del Turno, todos los enemigos con 20 o más PC pierden 1 PC por cada aliado Palidecido sobreviviente (sin contar a esta unidad)"
+        },
+        {
+            "id": 9009101,
+            "name": "Resentimiento Curativo",
+            "desc": "Si hay aliados Palidecidos sobrevivientes al Final del Turno, todos los otros aliados Palidecidos se curan (# de otros aliados Palidecidos * 3) HP"
+        },
+        {
+            "id": 9009201,
+            "name": "Acumulando Material Orgánico",
+            "desc": "Nivel Defensivo +1 por cada aliados sobreviviente (sin contar a esta unidad)"
+        },
+        {
+            "id": 9009202,
+            "name": "Desintegrando Material Inorgánico",
+            "desc": "Gana 1 de Frágil el siguiente turno si un aliado muere"
+        },
+        {
+            "id": 9009301,
+            "name": "Material Orgánico Entrelazado",
+            "desc": "Nivel Ofensivo +1 por cada aliado sobreviviente (sin contar a esta unidad)"
+        },
+        {
+            "id": 9009302,
+            "name": "Material Orgánico Dispersado",
+            "desc": "Gana 1 Poder de Ataque Reducido el siguiente turno si un aliado muere"
+        },
+        {
+            "id": 9009401,
+            "name": "Respiración Orgánica",
+            "desc": "Si esta unidad realizó el último golpe, aplica 5 de Temple a todos los aliados Palidecidos. Aplica 1 Contador de Temple"
+        },
+        {
+            "id": 9009501,
+            "name": "Endurecimiento Orgánico",
+            "desc": "Si esta unidad realizó el último golpe, aplica 1 de Protección y 2 de Nivel Defensivo Aumentado a todos los aliados.."
+        },
+        {
+            "id": 9009601,
+            "name": "Tatuaje de la Venganza",
+            "desc": "Cada vez que un aliado del Medio es asesinado en este encuentro, gana 1 de Nivel Ofensivo Aumentado (Máx 5)"
+        },
+        {
+            "id": 9009602,
+            "name": "Pequeña Venganza",
+            "desc": "Tras Choque Perdido, gana 1 Mejora de Moneda Negativa el siguiente turno (2 veces por turno)"
+        },
+        {
+            "id": 9009603,
+            "name": "Retribución Múltiple",
+            "desc": "Usa \"Retribución Múltiple\" a 20% o menos de HP. (Una vez por Oleada)"
+        },
+        {
+            "id": 9009604,
+            "name": "Cadenas de Lealtad",
+            "desc": "Cuando un aliado del Medio es asesinado, gana 1 Mejora de Moneda Positiva el siguiente turno.."
+        },
+        {
+            "id": 809901,
+            "name": "El Hermano Mayor",
+            "desc": "Todos los aliados se curan 10 PC al Inicio del Turno",
+            "summary": ""
+        },
+        {
+            "id": 809902,
+            "name": "Cadenas de Lealtad",
+            "desc": "Cuando un aliado del Medio es asesinado, gana 1 Mejora de Moneda Positiva el siguiente turno. (Máx 2)",
+            "summary": ""
+        },
+        {
+            "id": 809903,
+            "name": "Dominar",
+            "desc": "Si un enemigo que atacó a esta unidad falló en hacer más de 12 HP de daño con su Habilidad, el enemigo pierde 10 PC",
+            "summary": ""
+        },
+        {
+            "id": 809904,
+            "name": "Una Peinada y Ya",
+            "desc": "Cuando entra pánico, se recupera del pánico al inicio del siguiente turno y reinicia los PC a 0.",
+            "summary": ""
+        },
+        {
+            "id": 809905,
+            "name": "Melena Despeinada",
+            "desc": "Gana 6 de Nivel Defensivo Reducido el siguiente turno luego de perder un Choque 3 veces",
+            "summary": ""
+        },
+        {
+            "id": 9008904,
+            "name": "",
+            "desc": "Inicia el combate con -20 PC.",
+            "summary": ""
+        }
+    ]
+}

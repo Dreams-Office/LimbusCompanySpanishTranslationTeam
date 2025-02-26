@@ -1,0 +1,311 @@
+{
+  "dataList": [
+    {
+      "id": 9017801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enseñanza de los Engranajes",
+          "desc": "[WhenUse] Gana 2 de [Smoke]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gain +1 Contador de [Smoke]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engranaje de Carne: Detener",
+          "desc": "[WhenUse] Gana 4 de [Smoke] y +2 Contador de [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vapor",
+          "desc": "Poder de Choque +1 por cada 3 de [Smoke] en el objetivo (máx 2)\nInflige +10% de daño por cada 3 de [Smoke] en sí (máx 20%)\n[WhenUse] Con 10 de [Smoke], Poder de Moneda +2\n[EndSkill] Consume todo el [Smoke] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reutiliza esta Moneda por cada 3 de [Smoke] en el objetivo (3 veces máx)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Orden de Evasión",
+          "desc": "[OnSucceedEvade] Gana 3 de [Smoke] y +1 Contador de [Smoke]\n[OnSucceedEvade] Con 10 de [Smoke], gana 1 de [ParryingResultUp] y 3 de [Protection] el siguiente turno (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guiado por Engranajes",
+          "desc": "[WhenUse] Gana 2 de [Smoke]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Smoke]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engranaje de Carne: Agarrar",
+          "desc": "[WhenUse] Gana 4 de [Smoke] y +2 Contador de [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Orden de Asalto",
+          "desc": "Poder de Choque +1 por cada 3 de [Smoke] en el objetivo (máx 2)\nInflige +10% de daño por cada 3 de [Smoke] en sí (máx 20%)\n[WhenUse] Con 10 de [Smoke], Poder de Moneda +2\n[EndSkill] Consume todo el [Smoke] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reutiliza esta Moneda por cada 3 de [Smoke] en el objetivo (3 veces máx)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Orden de Evasión",
+          "desc": "[OnSucceedEvade] Gana 3 de [Smoke] y +1 Contador de [Smoke]\n[OnSucceedEvade] Con 10 de [Smoke], gana 1 de [ParryingResultUp] y 3 de [Protection] el siguiente turno (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engranaje de Carne: Ordenar",
+          "desc": "[WhenUse] Gana 3 de [Smoke] y +2 Contador de [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Smoke] y +2 Contador de [Smoke]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engranaje de Mente: Recolectar",
+          "desc": "[WhenUse] Gana 4 de [Smoke] y +2 Contador de [Smoke]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Smoke] y +2 Contador de [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engranaje de Carne: Restringir",
+          "desc": "Poder de Moneda +1 por cada 3 de [Smoke] en el objetivo\nInflige +10% de daño por cada 3 de [Smoke] en sí\nConsume 3 de [Smoke] en sí cada vez que esta Habilidad Reutiliza Moneda\n[WhenUse] Con 10 de [Smoke], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reutiliza esta Moneda por cada 5 de [Smoke] en el objetivo (2 veces máx)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engranaje de Mente: Eliminar",
+          "desc": "Poder de Choque +1 por cada 3 de [Smoke] en el objetivo\nInflige +20% de daño por cada 3 de [Smoke] en sí\n[WhenUse] Con 10 de [Smoke], Poder de Moneda +2\n[EndSkill] Consume todo el [Smoke] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Reutiliza esta Moneda por cada 3 de [Smoke] en el objetivo (3 veces máx)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Engranaje de Mente: Vapor",
+          "desc": "[WhenUse] Gana 5 de [Smoke] y +2 Contador de [Smoke]\n[WhenUse] Con 10 de [Smoke], gana 2 [PlusCoinValueUp] y 3 de [Protection] el siguiente turno (una vez por turno)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

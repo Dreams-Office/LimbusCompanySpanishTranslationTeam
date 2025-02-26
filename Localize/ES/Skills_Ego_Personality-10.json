@@ -1,0 +1,857 @@
+{
+  "dataList": [
+    {
+      "id": 2100111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rama del Árbol del Conocimiento",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 6 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pierde 10 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Rama del Árbol del Conocimiento",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 12 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Pierde 10 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Cura 10 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rama del Árbol del Conocimiento",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 12 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Pierde 10 PC. <style=\"highlight\">Gana 1 Poder de Ataque Aumentado el siguiente turno</style>"
+                },
+                {},
+                {
+                  "desc": "[OnSucceedAttackTail] Cura 10 PC. <style=\"highlight\">Gana 1 Protección el siguiente turno</style>"
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "Si el HP del objetivo está por debajo de 25%, Inflige +15% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Cura a todos los aliados por 10% de su HP Máx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "Si el HP del objetivo está por debajo de 25%, Inflige +20% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de su HP máx."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "Si el HP del objetivo está por debajo de 25%, Inflige +40% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus HP máx."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi el HP del objetivo está por debajo de 25%, Inflige +15% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Gana 10 de de [Laceration] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi el HP del objetivo está por debajo de 25%, Inflige +25% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Gana 10 de de [Laceration] el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKillFail] Gana 3 Poder de Ataque Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dia Inminente",
+          "abName": "Calendario del Juicio Final",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi el HP del objetivo está por debajo de 25%, Inflige +50% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Gana 10 de de [Laceration] el siguiente turno"
+                },
+                {
+                  "desc": "[EnemyKillFail] Gana 3 Poder de Ataque Aumentado el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nSelecciona a las unidades con el menor HP\nSi el objetivo es un aliado, este ataque inflige 0 daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 5% de su HP máximo"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 7 de [Combustion]; Si el objetivo es un aliado, Les da 2 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nSelecciona a las unidades con el menor HP\nSi el objetivo es un aliado, este ataque inflige 0 daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo es un aliado, Los cura por un 10% de su HP máximo"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 7 de [Combustion]; Si el objetivo es un aliado, Da 2 [Agility] y 1 de <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">de amplificación de recursos E.G.O </color></link></u> el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nSelecciona a las unidades con el menor HP\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentar el daño en un 10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nSelecciona a las unidades con el menor HP\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentar el daño en un 20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nSelecciona a las unidades con el menor HP\n\n[BeforeAttack] Gasta 3 Recursos E.G.O Aleatorios para aumentar el daño en un 30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura a 2 aliados con el menor porcentaje de HP por 10% de su HP Máx."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "[BeforeAttack] Con 50%- de HP, Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura a 2 aliados con el menor porcentaje de HP por 12% de su HP Máx."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "[BeforeAttack] Con 50%- de HP, Alcance de Atq +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura a 2 aliados con el menor porcentaje de HP por 15% de su HP Máx."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "[CantIdentify] \nSelecciona al objetivo con el HP más alto",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +2 de Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con el HP más alto\n[BeforeAttack] Con 50%- de HP, Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige +3 de Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Nivel Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Linterna",
+          "abName": "Linterna de las Hadas",
+          "desc": "[CantIdentify]\nSelecciona al objetivo con el HP más alto\n[BeforeAttack] Con 50%- de HP, Alcance de Atq +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1\n[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta.), Alcance de Atq +1 adicional",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 1 Poder de Ataque Reducido y 1 Poder Defensivo Reducido el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 1 Fragilidad a Lujuria"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Profeta de la Piel",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 4+ (Reson. de Lujuria), Alcance de Atq +1\n[BeforeAttack] Con 4+ (Reson.-A de Lujuria más alta), Alcance de Atq +1 adicional",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo no tiene [Combustion], Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 2 Fragilidad a Lujuria"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[BeforeAttack] Con 4+ Reson. más alta., Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Aplica 10% del HP Máx de esta unidad como Escudo a sí mismo y a 1 otro aliado con el menor HP actual, y aplica 2 [ShieldManagerCryingToad] también"
+                },
+                {
+                  "desc": "- Con 4+ Reson. más alta, aplicalo a un aliado más"
+                },
+                {
+                  "desc": "- Si la unidad afectada ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "<style=\"highlight\">[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Aplica <style=\"highlight\">14%</style> del HP Máx de esta unidad como Escudo a sí mismo y a <style=\"highlight\">(1 + (Reson. más alta. - 2))</style> aliados con el menor HP actual, y aplica 2 [ShieldManagerCryingToad] también\n<style=\"highlight\">(# máx de otros aliados que ganan [ShieldManagerCryingToad]: 3)</style>"
+                },
+                {
+                  "desc": "- Si la unidad afectada ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Aplica <style=\"highlight\">20%</style> del HP Máx de esta unidad como Escudo a sí mismo y a (1 + (Reson. más alta. - 2)) aliados con el menor HP actual, y aplica 2 [ShieldManagerCryingToad] también\n(# máx de otros aliados que ganan [ShieldManagerCryingToad]: 3)"
+                },
+                {
+                  "desc": "- Si la unidad afectada ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Con 3+ Reson. más alta., Alcance de Atq +1\n[BeforeAttack] Gana +5 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Gana (15 + 2.5(Reson. más alta.))% del HP Máx de esta unidad como Escudo a sí mismo y gana 2 [ShieldManagerCryingToad]. (máx 25%)"
+                },
+                {
+                  "desc": "- If this unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                },
+                {
+                  "desc": "- Con 4+ Reson. de Melancolía más alta, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n<style=\"highlight\">[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)</style>\n[BeforeAttack] Gana <style=\"highlight\">+10 [Aggro]</style> para esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Gana (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Reson. más alta.))% del HP Máx de esta unidad como Escudo a sí mismo y gana 2 [ShieldManagerCryingToad]. (máx <style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "- Si esta unidad ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Llanto Cavernoso",
+          "abName": "Sapo Llorón",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. más alta. - 2) Alcance de Atq (máx 2)\n[BeforeAttack] Gana +10 [Aggro] en esta Ranura de Habilidad el siguiente turno<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] y <style=\"highlight\">+3 Contador de [Sinking]</style>"
+                },
+                {
+                  "desc": "[EndSkill] Gana (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Reson. más alta.))% del HP Máx de esta unidad como Escudo a sí mismo y gana 2 [ShieldManagerCryingToad]. (máx <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "- Si esta unidad ya tiene [ShieldManagerCryingToad], cambia el valor de [ShieldManagerCryingToad] a 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Con 4+ Reson.-A de Melancolía, los efectos anteriores de esta Habilidad cambian a 'aplica 3 [ShieldManagerCryingToad]' y 'cambia el valor de [ShieldManagerCryingToad] a 3' en su lugar.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Con 4+ Reson. de Melancolía, gana 10% del HP Máx de esta unidad como Escudo adicional</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[EndSkill] Si el objetivo tiene [Curse], este es inmediatamente maldecido 2 veces, reduciendo su [Curse] en 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]\n- Inflige 1 [Curse] adicional por cada 3 efectos negativos en el objetivo que no sean [Curse] o [NailPersonality] (máx 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "<style=\"highlight\">[BeforeAttack] Con 4+ Reson. de Envidia incluyendo esta Habilidad, Alcance de Atq +1</style>\n[EndSkill] Si el objetivo tiene [Curse], este es inmediatamente maldecido 2 veces, reduciendo su [Curse] en 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]\n- Inflige 1 [Curse] adicional por cada 3 efectos negativos en el objetivo que no sean [Curse] o [NailPersonality] (máx 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno (una vez por turno)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "<style=\"highlight\">[BeforeAttack] Por cada 3 Reson. de Envidia incluyendo esta Habilidad, Alcance de Atq +1 (máx 2)</style>\n[EndSkill] Si el objetivo tiene [Curse], este es inmediatamente maldecido 2 veces, reduciendo su [Curse] en 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]\n- Inflige 1 [Curse] adicional por cada <style=\"highlight\">2</style> efectos negativos en el objetivo que no sean [Curse] o [NailPersonality] (máx 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Con 4+ [Curse], inflige 1 [ParryingResultDown] (una vez por turno)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno (una vez por turno)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[EndSkill] Si el objetivo tiene [Curse], este es inmediatamente maldecido 2 veces, reduciendo su [Curse] en 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[EndSkill] Si el objetivo tiene [Curse], este es inmediatamente maldecido 2 veces, reduciendo su [Curse] en 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige <style=\"highlight\">3</style> de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Inflige 2 [Binding] el siguiente turno (una vez por turno)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\n[EndSkill] Si el objetivo tiene [Curse], este es inmediatamente maldecido 2 veces, reduciendo su [Curse] en 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 3 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Con 4+ Reson. de Envidia incluyendo esta Habilidad, inflige 1 [ParryingResultDown] (una vez por turno)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 [Binding] el siguiente turno (una vez por turno)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Inflige 2 [DefenseDown] el siguiente turno (una vez por turno)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

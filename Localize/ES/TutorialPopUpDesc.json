@@ -1,0 +1,224 @@
+{
+  "dataList": [
+    {
+      "id": "tutorial_main_low_0",
+      "content": "Tutorial del Menú Principal #1"
+    },
+    {
+      "id": "tutorial_main_low_1",
+      "content": "Tutorial del Menú Principal #2"
+    },
+    {
+      "id": "tutorial_main_low_2",
+      "content": "Tutorial del Menú Principal #3"
+    },
+    {
+      "id": "tutorial_main_low_3",
+      "content": "Tutorial del Menú Principal #4"
+    },
+    {
+      "id": "tutorial_main_low_4",
+      "content": "Tutorial del Menú Principal #5"
+    },
+    {
+      "id": "tutorial_dungeon_formation_1",
+      "content": "En la recta final de cada capitulo, vas a explorar una <Dungeon>, una sucursal de la antigua empresa L Corp."
+    },
+    {
+      "id": "tutorial_dungeon_formation_2",
+      "content": "Escoge a la Identidades que entraran contigo a la mazmorra. No puedes ajustar este equipo una vez dentro, así que escoge sabiamente."
+    },
+    {
+      "id": "tutorial_dungeon_formation_start_button",
+      "content": "Cuando estés preparado, presiona el botón [Entrar]."
+    },
+    {
+      "id": "tutorial_dungeon_entry_0_title",
+      "content": "Estructura de la Mazmorra"
+    },
+    {
+      "id": "tutorial_dungeon_entry_0",
+      "content": "Tu meta es alcanzar la úlltima sección del piso más bajo recuperar la Rama Dorada.\nLa mazmorra consiste de múltiples pisos, cada uno con montones de eventos y encuentros.\nCompletar el sector al final del piso te llevara al siguiente."
+    },
+    {
+      "id": "tutorial_dungeon_entry_1_title",
+      "content": "Navegar por la Mazmorra"
+    },
+    {
+      "id": "tutorial_dungeon_entry_1",
+      "content": "Cada sector esta conectado a uno o más caminos.\nPuedes viajar por los sectores adyacentes seleccionándolos.\nEs posible volver por donde viniste, siéntete libre de explorar donde tu quieras."
+    },
+    {
+      "id": "tutorial_dungeon_entry_2_title",
+      "content": "Lesiones Prolongadas"
+    },
+    {
+      "id": "tutorial_dungeon_entry_2",
+      "content": "Los Pecadores no se curan después de un Combate en la Mazmorra.\nLos Pecadores con 0 HP son incapaces de participar, mantén vigilada su salud.\nAlcanzar un punto de control te permitirá curar por completo a tu equipo."
+    },
+    {
+      "id": "tutorial_dungeon_entry_3_title",
+      "content": "Derrotas y Reintentos"
+    },
+    {
+      "id": "tutorial_dungeon_entry_3",
+      "content": "Después de perder un combate, puedes reintentarlo con cualquiera de los Pecadores restantes en tu equipo."
+    },
+    {
+      "id": "tutorial_dungeon_saveroom",
+      "content": "Puedes encontrar Puntos de Control mientras exploras la mazmorra.\nTus Pecadores curarán sus HP por completo y reiniciarán sus PC al alcanzar uno.\nSi todos tus Pecadores mueren, serás llevado al ultimo Punto de control.\nTodo el progreso que hayas logrado antes de dicho Punto de control también será reiniciado."
+    },
+    {
+      "id": "tutorial_dungeon_ab_part_title",
+      "content": "Partes de las Anormalidades"
+    },
+    {
+      "id": "tutorial_dungeon_ab_part_1",
+      "content": "Las Anormalidades consisten de mínimo una parte del su cuerpo.\nCada parte tienen sus propias características, como habilidades únicas."
+    },
+    {
+      "id": "tutorial_dungeon_ab_speed_title",
+      "content": "Velocidad de la Anormalidad"
+    },
+    {
+      "id": "tutorial_dungeon_ab_speed_1",
+      "content": "Cada parte de la Anormalidad tiene espacios con habilidades que planea usar.\nLas partes también tienen sus propios valores de Rapidez que determina el orden de su ataque\nSi seleccionas una habilidad con un Pecador que tenga una Rapidez más alta puedes redireccionar sus ataques y Chocar contra estos."
+    },
+    {
+      "id": "tutorial_dungeon_ab_destroypart_title",
+      "content": "Partes Rotas"
+    },
+    {
+      "id": "tutorial_dungeon_ab_destroypart_1",
+      "content": "Cuando los HP de una parte se ve reducida a 0, Estará <Rota>.\nUna parte Rota se vuelve vulnerable a todo tipo de ataque físico.\nAlgunas partes pueden perder ciertas habilidades o pasivas después de romperse.\nTome en cuenta que algunas Anormalidades tienen partes regenerativas, también romper ciertas partes pueden hacer enfadar una Anormalidad."
+    },
+    {
+      "id": "tutorial_dungeon_ab_guide_title",
+      "content": "La Enciclopedia de Anormalidades"
+    },
+    {
+      "id": "tutorial_dungeon_ab_guide_1",
+      "content": "La Enciclopedia registra la información de las Anormalidades y de sus partes.\nObviamente, La Enciclopedia carece de contiene contenido al principio.\nMientras más te enfrentes a una Anormalidad, más entradas serán escritas.\nDespues de suficientes encuentros, Su nivel de observación subirá.\nMientras más alto el nivel de información más aumenta los ataque que proporcionas."
+    },
+    {
+      "id": "tutorial_dungeon_ab_selection_title",
+      "content": "Controles"
+    },
+    {
+      "id": "tutorial_dungeon_ab_selection_1",
+      "content": "Los Controles presentados por una Anormalidad requieren una Afinidad de Pecado y un Umbral para ser aprobados.\nEscoge un Pecador con la Afinidad correcta para aumentar tus probabilidad de éxito.\nLas Anormalidades reaccionarán de manera diferente dependiendo de tus acciones y resultados.\nAprobar el control conlleva beneficios, y fallarlo te agobiara con desventajas."
+    },
+    {
+      "id": "tutorial_dungeon_saveroom_title",
+      "content": "Puntos de Control"
+    },
+    {
+      "id": "tutorial_dungeon_saveroom_1",
+      "content": "Puedes encontrar Puntos de Control mientras exploras la mazmorra.\nTus Pecadores curarán sus HP por completo y reiniciarán sus PC al alcanzar uno.\nSi todos tus Pecadores mueren, serás llevado al ultimo Punto de control.\nTodo el progreso que hayas logrado antes de dicho Punto de control también será reiniciado."
+    },
+    {
+      "id": "tutorial_skill_command_title",
+      "content": "Ordenar Ataques"
+    },
+    {
+      "id": "tutorial_skill_command_1",
+      "content": "Cuando empiece la fase de Combate, a cada Pecador se le deberá dar una orden.\nEn encuentros Regulares, puedes seleccionar sus habilidades encadenándolas a través del Tablero, Desde el engranaje izquierdo hasta el derecho."
+    },
+    {
+      "id": "tutorial_skill_coin_title",
+      "content": "Monedas de Habilidad"
+    },
+    {
+      "id": "tutorial_skill_coin_1",
+      "content": "Cada habilidad consiste de al menos 1 Moneda, el cual representa el numero de ataques que podrá realizara.\nLa Moneda es lanzada una vez se inicia el ataque, y su resultado puede aumentar o reducir el Poder de la Habilidad.\nEste modificador se traslada a la siguiente Moneda si hay más de una.\nHay dos tipos de Moneda, la Positiva (+) y Negativa (-)."
+    },
+    {
+      "id": "tutorial_adding_slot_title",
+      "content": "Espacios Adicionales"
+    },
+    {
+      "id": "tutorial_adding_slot_1",
+      "content": "En el Tablero, se agregara una nuevo espacio de habilidad por cada Pecador cada turno en el orden en el que fueron desplegados, hasta un máximo de 12 espacios.\nLos Pecadores que han ganado un espacio adicional hasta que todos sus aliados ganen una propia.\nUna vez que todos los Pecadores tengan una columna adicional, Serán elegibles para una nueva columna nuevamente.\nLos enemigos también ganan espacios adicionales mientras transcurre el combate."
+    },
+    {
+      "id": "tutorial_passive_title",
+      "content": "Pasivas"
+    },
+    {
+      "id": "tutorial_passive_1",
+      "content": "Las habilidades pasivas se activan cuando ciertas Afinidades son encadenadas."
+    },
+    {
+      "id": "tutorial_ab_assign_skill_title",
+      "content": "Atacando Anormalidades"
+    },
+    {
+      "id": "tutorial_ab_assign_skill_1",
+      "content": "Selecciona la habilidad de un Pecador, luego arrástrala hacia uno de los espacios de habilidad de la Anormalidad para escoger su objetivo.\nTome en cuenta que cada espacio de habilidad representa una parte diferente de su cuerpo."
+    },
+    {
+      "id": "ui_tutorial_2_1",
+      "content": "Puedes enviar a todos los Pecadores al Combate a la vez, Si. Pero dirigir a tanto personal a la vez puede ser una tarea complicada."
+    },
+    {
+      "id": "ui_tutorial_2_2",
+      "content": "Por esto, le informo que el numero apropiados de participantes dependerá de la particularidad en cada Combate.\nPara esta ocasión, 5 Pecadores harán un excelente trabajo."
+    },
+    {
+      "id": "ui_tutorial_2_3",
+      "content": "Selecciona a los 5 Pecadores que quieres desplegar para este Combate.\nPuedes seleccionar la parte inferior de sus cartas para desplegarlos."
+    },
+    {
+      "id": "ui_tutorial_2_4",
+      "content": "Primero, Selecciona a Faust."
+    },
+    {
+      "id": "ui_tutorial_2_5",
+      "content": "Buen trabajo.\nAhora selecciona el resto de Pecadores para ser desplegados en este encuentro."
+    },
+    {
+      "id": "ui_tutorial_2_6",
+      "content": "Seleccionar 'A Combatir' hará que comience el combate con los Pecadores que has desplegado."
+    },
+    {
+      "id": "ui_tutorial_3_1",
+      "content": "Los Pecadores desplegados en el ultimo encuentro serán automáticamente seleccionados para la siguiente, ahorrándote la molestia de seleccionarlos nuevamente. De todas maneras, puedes cambiarlos cuando quieras antes de entrar a cada combate."
+    },
+    {
+      "id": "ui_tutorial_3_2",
+      "content": "Selecciona el botón de  'A Combatir'"
+    },
+    {
+      "id": "ui_tutorial_4_1",
+      "content": "Una de las muchas funciones de Mefistófeles es la 'Extracción'.\nPuedes coleccionar varias Identidades y E.G.O desde aquí."
+    },
+    {
+      "id": "ui_tutorial_4_2",
+      "content": "Selecciona el botón de 'Extracción'"
+    },
+    {
+      "id": "ui_tutorial_4_3",
+      "content": "Has adquirido una nueva Identidad.\nColeccionar nuevas Identidades y E.G.O contribuirá positivamente el rendimiento en combate."
+    },
+    {
+      "id": "ui_tutorial_4_4",
+      "content": "Ahora, volvamos al combate.\nPuedes acceder a los combates desde el botón de 'Conducir'."
+    },
+    {
+      "id": "ui_tutorial_4_5",
+      "content": "Selecciona la parte superior de los Pecadores para cambiar entre sus diferentes Identidades."
+    },
+    {
+      "id": "ui_tutorial_4_6",
+      "content": "Selecciona al Pecador Ishmael, si deseas."
+    },
+    {
+      "id": "ui_tutorial_4_7",
+      "content": "Desde este menú, puedes seleccionar una de las Identidades que has Extraído para desplegarla en combate.\nPor favor selecciona la nueva Identidad adquirida para Ishmael."
+    },
+    {
+      "id": "ui_tutorial_4_8",
+      "content": "Bien hecho. Seleccionar las Identidades apropiadas para los distintivos de cada combate es un paso para la Victoria.\nAhora, Selecciona el botón de 'A Combatir'."
+    }
+  ]
+}

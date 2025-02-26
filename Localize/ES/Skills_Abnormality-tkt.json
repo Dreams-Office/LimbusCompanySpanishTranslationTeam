@@ -1,0 +1,528 @@
+{
+  "dataList": [
+    {
+      "id": 827701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¿Tienes Miedo?",
+          "desc": "Al estar en un estado de [TimeAcceleration], Poder de Choque +1\n[DefeatDuel] Con 75%- de HP, gasta 50 de [LimitedTime] y gana 1 de [Protection] (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Castigo para Asesinos de Tiempo",
+          "desc": "Al estar en un estado de [TimeAcceleration], Poder de Choque +2\n[WhenUse] Con 500+ de [LimitedTime], inflige +1 Contador de [Laceration]\n[WhenUse] Con 300+ de [LimitedTime], gasta 25 de [LimitedTime] e inflige +1 Potencia y Contador de [Laceration] adicional con esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Extracción",
+          "desc": "Al estar en un estado de [TimeAcceleration], Poder de Moneda +1\n[DefeatDuel] Con 75%- de HP, gasta 50 de [LimitedTime] y gana Poder de Choque +2 (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mutilar",
+          "desc": "[DefeatDuel] Con 75%- de HP, gasta 75 de [LimitedTime] y gana Poder de Choque +2\n[BeforeAttack] Al estar en un estado de [TimeAcceleration], gana +1 Alcance de Atq",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiempo de Salvarse",
+          "desc": "[CantDuel]\nInflige [TimeKillerWatch] contra el objetivo que usó una Habilidad de Ataque contra esta unidad\n[StartBattle] Gasta 200 de [LimitedTime] y gana [TimeAcceleration] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "[WhenUse] Poder Base +1 por cada 100 de [LimitedTime] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¿Tienes Miedo?",
+          "desc": "Al estar en un estado de [TimeAcceleration], Poder de Choque +1\n[DefeatDuel] Con 75%- de HP, gasta 50 de [OwnTime] y gana 1 de [Protection] (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Castigo para Asesinos de Tiempo",
+          "desc": "Al estar en un estado de [TimeAcceleration], Poder de Choque +2\n[WhenUse] Con 500+ suma de [OwnTime] entre todas las Partes, inflige +1 Contador de [Laceration]\n[WhenUse] Con 300+ suma de [OwnTime], gasta 25 de [OwnTime] e inflige +1 Potencia y Contador de [Laceration] más con esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Extracción",
+          "desc": "Al estar en un estado de [TimeAcceleration], Poder de Moneda +1\n[DefeatDuel] Con 75%- de HP, gasta 50 de [OwnTime] y gana Poder de Choque +2 (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mutilar",
+          "desc": "[DefeatDuel] Con 75%- de HP, gasta 75 de [OwnTime] y gana Poder de Choque +2\n[BeforeAttack] Al estar en un estado de [TimeAcceleration], gana +1 Alcance de Atq\n[BeforeAttack] Con 60%- de HP, gasta 10 de [OwnTime] y gana +1 Alcance de Atq",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiempo de Salvarse",
+          "desc": "[CantDuel]\nInflige [TimeKillerWatch] contra el objetivo que usó una Habilidad de Ataque contra esta unidad\n[StartBattle] Gasta 200 de [OwnTime] y gana [TimeAcceleration] el siguiente turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "[WhenUse] Poder Base +1 por cada 100 suma de [OwnTime] entre todas las Partes",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiempo de Matar Tiempo",
+          "desc": "[CantDuel]\nLa Velocidad de esta unidad queda fija en 12.\nNo puede ser Aturdido este turno.\n[WhenUse] Gasta 400 de [OwnTime].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Mata el tiempo del objetivo. Al matar el tiempo del objetivo, todas las Partes recuperan sus valores máx de [OwnTime] y ganan 10 de [Agility] y Poder de Ataque Aumentado el siguiente turno."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tic",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tac",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tictick-Tac",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tac",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mi...",
+          "desc": "[DefeatDuel] Gana 1 de [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Se Me Acaba el Tiempo",
+          "desc": "[DefeatDuel] Gana 1 de [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Necesitamos Más Tiempo!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "dataList": [
+    {
+      "id": "tutorial_401_01",
+      "content": "Cada personaje tiene un <Conjunto de Habilidades>.\nEsta es una lista de las habilidades de las que se compone el personaje."
+    },
+    {
+      "id": "tutorial_401_02",
+      "content": "Pulsa a un personaje para abrir su ficha de información."
+    },
+    {
+      "id": "tutorial_401_03",
+      "content": "Con esto, puedes revisar varios detalles incluyendo sus habilidades."
+    },
+    {
+      "id": "tutorial_401_04",
+      "content": "Cada Pecador que controlas tiene su propio conjunto de habilidades.\nSe seleccionarán aleatoriamente habilidades de este conjunto aleatoriamente que serán desplegadas en el tablero."
+    },
+    {
+      "id": "tutorial_401_05",
+      "content": "Habilidades usadas serán tratadas como “descartada“ del conjunto.\nY no reaparecerán hasta que otra habilidad en el Conjunto sea usada, siendo rellenada de este modo."
+    },
+    {
+      "id": "tutorial_401_06",
+      "content": "Adicionalmente, las habilidades de ataque tiene un “Nivel Ofensivo“.\nEn Choques, la diferencia en los niveles ofensivos puede afectar el resultado."
+    },
+    {
+      "id": "tutorial_401_07",
+      "content": "Eso debería cubrir lo básico de las habilidades de tus Pecadores\nAhora, dales instrucciones."
+    },
+    {
+      "id": "tutorial_402_01",
+      "content": "Además de las habilidades, tus Pecadores tienen <Habilidades Pasivas>.\nLos Pecadores en combate tienen sus pasivas de combate activas."
+    },
+    {
+      "id": "tutorial_402_02",
+      "content": "Los Pecadores que no están participando en el combate directamente proveerán ayuda con su Pasivas de Soporte."
+    },
+    {
+      "id": "tutorial_402_03",
+      "content": "Para poner la teoría en practica, activa la Pasiva encadenando dos habilidades de Orgullo."
+    },
+    {
+      "id": "tutorial_402_04",
+      "content": "Esta porción indicara que Pasivas están activas.\nLas Pasivas activas cuando posees un cierto numero de recursos E.G.O o cuando encadenas ciertas Afinidades para causar una Resonancia."
+    },
+    {
+      "id": "tutorial_403_00",
+      "content": "Nuestro encuentro actual contiene múltiples oleadas."
+    },
+    {
+      "id": "tutorial_403_01",
+      "content": "Para contribuir con esto, tus Pecadores poseen habilidades poderosas llamadas <E.G.O>, cuales se manifiestan al resonar de sus emociones."
+    },
+    {
+      "id": "tutorial_403_02",
+      "content": "Para usar el <E.G.O>, necesitas recursos E.G.O."
+    },
+    {
+      "id": "tutorial_403_03",
+      "content": "Puedes ver los recursos que tienes actualmente apilados aquí a la derecha."
+    },
+    {
+      "id": "tutorial_403_04",
+      "content": "Como es tu primera vez manejando un <E.G.O>, He reunido los recursos necesarios para ti.\nEste es un poder especial, así que tendrás que conseguir los recursos por tu cuenta de ahora en adelante."
+    },
+    {
+      "id": "tutorial_403_05",
+      "content": "Los Pecadores que pueden usar <E.G.O> actualmente se verán destacados."
+    },
+    {
+      "id": "tutorial_403_06",
+      "content": "Las <Habilidades E.G.O> se deben de generar en el tablero, de forma parecida a las habilidades defensivas. Por favor, mantén presionado aquí."
+    },
+    {
+      "id": "tutorial_403_07",
+      "content": "Pulsa el icono del <E.G.O> que desees usar.\nEsto también puede ser usado para cancelar aquellos que ya han sido generados."
+    },
+    {
+      "id": "tutorial_403_08_title",
+      "content": "E.G.O"
+    },
+    {
+      "id": "tutorial_403_08",
+      "content": "Los E.G.O son un equipamiento poderoso que se manifiesta resonando con las emociones de tus Pecadores.\nPara usar una habilidad E.G.O, necesitarás recursos de Afinidad basada en el Pecado correspondiente del E.G.O.\nCada vez que quieras usar una habilidad de ataque, ganarás un recurso E.G.O concordando con su Afinidad."
+    },
+    {
+      "id": "tutorial_403_09_title",
+      "content": "Corrosión E.G.O"
+    },
+    {
+      "id": "tutorial_403_09",
+      "content": "Además de necesitar recursos E.G.O, los E.G.O, esta se llevará una cuota de la cordura del Pecador.\nlos Pecadores pueden sufrir una <Corrosión de E.G.O> al tener poca cordura.\nLos Pecadores corroídos por el E.G.O ignorarán tus órdenes, asegúrate de que tus Pecadores mantengan una buena salud mental."
+    },
+    {
+      "id": "tutorial_403_10_title",
+      "content": "Pasivas E.G.O"
+    },
+    {
+      "id": "tutorial_403_10",
+      "content": "Después de usar una Habilidad E.G.O, Su habilidad pasiva se activará en el siguiente turno y fortalecerá aún más al Pecador por el resto del combate.\nHaz buen uso de la variedad de Pasivas que los E.G.Os tienen para ofrecer."
+    },
+    {
+      "id": "tutorial_403_11",
+      "content": "Habilidades de ataque pueden ser de un solo objetivo o de múltiple objetivo;\nla última son llamadas ”Habilidades con AdE”."
+    },
+    {
+      "id": "tutorial_403_12",
+      "content": "Parece que el E.G.O que estas apunto de ocupar tiene una Habilidad con AdE."
+    },
+    {
+      "id": "tutorial_403_13_title",
+      "content": "Habilidades con Área de Efecto"
+    },
+    {
+      "id": "tutorial_403_13",
+      "content": "Los objetivos de una Habilidad con AdE se dividen en dos categorías:\nEl objetivo principal, y los sub-objetivos."
+    },
+    {
+      "id": "tutorial_403_14",
+      "content": "El Choque de una habilidad con AdE solo ocurrirá con el objetivo principal escogido."
+    },
+    {
+      "id": "tutorial_403_15",
+      "content": "Si una habilidad con AdE pierde el Choque, el ataque será cancelado para cada objetivo de este."
+    },
+    {
+      "id": "tutorial_403_16",
+      "content": "Los sub-objetivos se determinan por el rango de la habilidad."
+    },
+    {
+      "id": "tutorial_403_17_title",
+      "content": "Los objetivos de una Habilidad con AdE se dividen en dos categorías:\nEl objetivo principal, y los sub-objetivos."
+    },
+    {
+      "id": "tutorial_403_17",
+      "content": "Las habilidades con AdE apuntan a las ranuras de habilidades del enemigo."
+    },
+    {
+      "id": "tutorial_403_18",
+      "content": "Cada habilidad con AdE tiene un alcance de ataque (Alcance de Atq)."
+    },
+    {
+      "id": "tutorial_403_19",
+      "content": "Cada ranura tiene un “alcance” la cual una porción es usada por las habilidad de Ade en su Alcance de Atq."
+    },
+    {
+      "id": "tutorial_403_20",
+      "content": "En encuentros normales, un enemigo solo es atacado una vez por una habilidad de AdE, incluso si la unidad está tomando múltiples objetivos."
+    },
+    {
+      "id": "tutorial_403_21",
+      "content": "En Encuentros Centrados, solo una de las ranuras de alguna de sus partes del cuerpo es atacada a la vez, incluso si dichas ranuras están tomando múltiples objetivos."
+    },
+    {
+      "id": "tutorial_404_00",
+      "content": "Utilizar E.G.O será una parte importante en tu estrategia."
+    },
+    {
+      "id": "tutorial_404_01",
+      "content": "Nuestro encuentro actual contiene múltiples oleadas."
+    },
+    {
+      "id": "tutorial_404_02",
+      "content": "Antes de proceder, permíteme introducirte una función útil."
+    },
+    {
+      "id": "tutorial_404_03",
+      "content": "Ahora puedes dejar que el juego encadene habilidades por ti.\nEl encadenamiento será automáticamente decidido dependiendo en que botón presiones."
+    },
+    {
+      "id": "tutorial_404_04",
+      "content": "‘Por Ventaja’ escoge las habilidades que tienen más probabilidad de ganar los Choques.\n'Daño' como el nombre implica, elije las habilidades que dañarán más al enemigo."
+    },
+    {
+      "id": "tutorial_404_05",
+      "content": "Sin embargo, el encadenamiento automático no toma en consideración ninguno los factores complejos que acabamos de cubrir."
+    },
+    {
+      "id": "tutorial_404_06",
+      "content": "Además, puedes alternar el mostrar las flechas de objetivo usando el panel superior derecho, y ajustar información mostrada de las habilidades y los controles del lanzamiento de Moneda en las configuraciones."
+    },
+    {
+      "id": "tutorial_404_07",
+      "content": "Ese fue mi último consejo.\nDe ahora en adelante deberás gestionar a los Pecadores sin mi ayuda.\nEspero recibir magníficas órdenes tuyas, Dante."
+    },
+    {
+      "id": "tutorial_404_08_title",
+      "content": "Auto-Encadenamiento de Daño & Por Ventaja"
+    },
+    {
+      "id": "tutorial_404_08",
+      "content": "‘Por Ventaja’ escoge las habilidades que tienen más probabilidad de ganar los Choques."
+    },
+    {
+      "id": "tutorial_404_09",
+      "content": "‘Daño’, como el nombre implica, elije las habilidades que dañarán más al enemigo."
+    },
+    {
+      "id": "tutorial_404_10",
+      "content": "Para encuentros normales, el auto-encadenamiento solo esta disponible en escenarios donde hayas cumplido las Condiciones EX.\nAuto-encadenar siempre puede ser usado para Encuentros Centrados.\nTomar en cuenta que el auto-encadenamiento no necesariamente garantiza la solución más optima para el combate."
+    },
+    {
+      "id": "tutorial_ego_overclock_title",
+      "content": "Sobrecarga de E.G.O"
+    },
+    {
+      "id": "tutorial_ego_overclock_1",
+      "content": "La Sobrecarga de E.G.O puede ser Estable o Inestable dependiendo de los recursos disponibles."
+    },
+    {
+      "id": "tutorial_ego_overclock_2",
+      "content": "Sobrecargar gasta 1.5 veces más de cordura y recursos E.G.O de lo que costaría la habilidad E.G.O normalmente."
+    },
+    {
+      "id": "tutorial_ego_overclock_3",
+      "content": "Para sobrecargar una habilidad E.G.O, necesitas poseer mínimo el coste base de recursos E.G.O que pide la habilidad; Si tienes el coste base pero no lo suficiente para sobrecargarlo, la sobrecarga inestable restará los recursos incluso más allá del 0."
+    },
+    {
+      "id": "tutorial_ego_overclock_4",
+      "content": "La unidad puede seguir corroyéndose tras la sobrecarga; En el caso que suceda, solo se consumirán los recursos del E.G.O base."
+    },
+    {
+      "id": "tutorial_ego_overclock_5",
+      "content": "Las habilidades E.G.O de Sobrecarga Estable tienen los mismos efectos y valores de daño como las habilidades de corrosión, salvo que esta pueda distinguir aliados de enemigos."
+    },
+    {
+      "id": "tutorial_ego_overclock_6",
+      "content": "Las Habilidad E.G.O Inestable corren con el riesgo de apuntar indiscriminadamente, teniendo los mismos efectos y valores como las habilidades de corrosión."
+    },
+    {
+      "id": "tutorial_403_06_New",
+      "content": "Las <Habilidades E.G.O > deben de ser generadas en el tablero de manera similar a las habilidades defensivas. Mantén presionado el retrato destacado."
+    },
+    {
+      "id": "tutorial_403_07_New",
+      "content": "Pulsa el ícono de el <E.G.O> que quieras usar."
+    },
+    {
+      "id": "tutorial_403_07_1",
+      "content": "Consume recursos para generar un ícono de habilidad E.G.O en el tablero."
+    },
+    {
+      "id": "tutorial_403_07_2",
+      "content": "Las habilidades E.G.O. pueden ser canceladas pinchando dos veces en el retrato del Pecador por el cual fueron añadidas al tablero. La habilidad E.G.O se verá cancelada y tus recursos serán reembolsados."
+    }
+  ]
+}

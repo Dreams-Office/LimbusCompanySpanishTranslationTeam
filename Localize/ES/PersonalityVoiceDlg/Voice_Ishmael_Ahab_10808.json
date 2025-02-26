@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10808_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "¡Bienvenido a bordo, novato! ¿Estás en condiciones y preparado para el viaje, verdad?"
+        },
+        {
+            "id": "lobby_morning_10808_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "¡No se pongan a perder el tiempo! ¡Si veo a algún holgazán, lo ataré al mástil yo misma! ¡Es un día, no un suplicio; despierten y actívense, hombres!"
+        },
+        {
+            "id": "lobby_noon_10808_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "¿Qué te parece el sabor del charqui de Sirena? Más vale que lo disfrutes. Será nuestro principal fuente de alimento por un buen tiempo. Je."
+        },
+        {
+            "id": "lobby_night_10808_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Puede ser tarde, pero no bajen la guardia. Las Olas pueden golpear en cualquier momento, de día o de noche. Mantengan los ojos bien abiertos, ¿queda claro?"
+        },
+        {
+            "id": "smalltalk_10808_1",
+            "desc": "Charla #1",
+            "dlg": "¡No tememos a los horrores inconmensurables del mar! ¡Erguíos! ¡Denles una sonrisa feroz y una risa desenfrenada! ¡Eso es lo que significa ser parte de la tripulación del Pequod!"
+        },
+        {
+            "id": "smalltalk_10808_2",
+            "desc": "Charla #2",
+            "dlg": "¡Nadie debe entrar en los camarotes del Capitán! Si tienen algo que decir, díganselo al navegante. Me canso de escuchar a tontos quejándose y acobardarse ante las olas del Gran Lago."
+        },
+        {
+            "id": "smalltalk_10808_3",
+            "desc": "Charla #3",
+            "dlg": "Las Ballenas son... monstruos magníficos y misteriosos. Considérense afortunados de poder cazarlas junto a mí...\n¡Ja, diría que mi pasión por la caza de Ballenas es inigualable!"
+        },
+        {
+            "id": "smalltalk_10808_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "¡Arponeros! ¡Aseguren sus arpones! ¡Timoneles, timón a la derecha con fuerza! ¡REMEROS!! ¡Concéntrense y REMEN!!!"
+        },
+        {
+            "id": "smalltalk_10808_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "¡Todos a cubierta, escuchen mi orden! ... ¡Nuestra hora más gloriosa ha llegado! ¡Esta noche, cazamos a la Ballena!\n¡Esta noche, cazamos a la Ballena Carmesí Que Todo Marchita!"
+        },
+        {
+            "id": "gacksung_10808_1",
+            "desc": "Aunando",
+            "dlg": "¡Truenos y relámpagos... Sí, la batalla de nuestras vidas está por llegar! ¡Cazaremos a la Ballena de todos los males! ¡Jajajajaja!"
+        },
+        {
+            "id": "neglect_10808_1",
+            "desc": "Inactivo",
+            "dlg": "Aah... Estos vientos son ideales. Me agrada esta calma previa a la tormenta."
+        },
+        {
+            "id": "formation_10808_1",
+            "desc": "Desplegar",
+            "dlg": "¡Avancemos, la Ballena nos espera!"
+        },
+        {
+            "id": "battleentry_10808_1",
+            "desc": "Entrada a Escena",
+            "dlg": "¡Que se encienda el gas y que los motores rujan!"
+        },
+        {
+            "id": "battle_select_10808_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¡Si tienes tiempo para hablar, \nmejor enfócate en la Ballena!"
+        },
+        {
+            "id": "battle_endcommand_10808_1",
+            "desc": "Al Atacar",
+            "dlg": "Tripulación, ¡A LA CARGA!"
+        },
+        {
+            "id": "battle_enemy_break_10808_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¡Nuestros enemigos tiemblan! ¡Es nuestra oportunidad para cambiar el rumbo de la batalla!"
+        },
+        {
+            "id": "battle_break_10808_1",
+            "desc": "Aturdido",
+            "dlg": "¡Hngh...! ¡Mantengan sus posiciones! ¡El enemigo está enfocado en mí... aprovechen esta oportunidad para atacarlo!"
+        },
+        {
+            "id": "battle_kill_10808_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "¡Perfecto! ¡No paren hasta que hayamos eliminado a cada uno de ellos! ¡No habrá tregua hasta que lo logremos!"
+        },
+        {
+            "id": "battle_dead_10808_1",
+            "desc": "Muerte",
+            "dlg": "¡Y-yo soy la Capitana Ishmael! ¡No sucumbiré… aquí...!"
+        },
+        {
+            "id": "choice_success_p_10808_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Por supuesto. ¿Acaso alguna vez mi brújula te ha desviado del camino?"
+        },
+        {
+            "id": "choice_fail_n_10808_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Maldita sea... ¡La culpa recae en ti, Gerente!"
+        },
+        {
+            "id": "battle_clear_10808_1",
+            "desc": "Grito de Victoria",
+            "dlg": "¡No te enorgullezcas de esta victoria menor! Lo que buscamos es mucho más grande y más aterrador que este simple triunfo; nuestra Ballena es la verdadera prueba."
+        },
+        {
+            "id": "battle_clear_ex_10808_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Nada mal, nada mal... ¡Pero todavía no hemos llegado a la Ballena! ¡Activen las turbinas de gas otra vez! Y..."
+        },
+        {
+            "id": "battle_defeat_10808_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "¡Patéticos inútiles! ¿Se atreven a rendirse aquí? ¡No recuerdo haberles dado la orden de ser derrotados!"
+        }
+    ]
+}

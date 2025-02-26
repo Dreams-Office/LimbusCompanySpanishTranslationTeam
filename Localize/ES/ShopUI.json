@@ -1,0 +1,320 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_shop_charge_enkephalin_tab",
+      "content": "Recargar Encefalina"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box_tab",
+      "content": "Comprar Cajas de Encefalina"
+    },
+    {
+      "id": "mainui_shop_buy_enkephalin_box",
+      "content": "Caja de Encefalina Comprada"
+    },
+    {
+      "id": "mainui_shop_scarce_madness",
+      "content": "No tienes suficiente Lunacy."
+    },
+    {
+      "id": "mainui_shop_ask_buy_enkephalin_box",
+      "content": "¿Le gustaría comprar más Cajas de Encefalina?"
+    },
+    {
+      "id": "mainui_shop_own",
+      "content": "Adquirido"
+    },
+    {
+      "id": "mainui_shop_enkephalin_fulled",
+      "content": "La Encefalina ya está al máximo de capacidad."
+    },
+    {
+      "id": "mainui_shop_ask_charge_enkephalin",
+      "content": "¿Te gustaría recargar Encefalina?"
+    },
+    {
+      "id": "mainui_shop_charge_enkephalin",
+      "content": "Encefalina Recargada"
+    },
+    {
+      "id": "mainui_shop_enkephalin_number",
+      "content": "Encefalina"
+    },
+    {
+      "id": "mainui_shop_madness_tab",
+      "content": "Tienda de Lunacy"
+    },
+    {
+      "id": "mainui_shop_package_tab",
+      "content": "Paquetes"
+    },
+    {
+      "id": "mainui_shop_only_once",
+      "content": "Ofertas de Primera vez"
+    },
+    {
+      "id": "mainui_shop_additional_give",
+      "content": "Suministros Extras"
+    },
+    {
+      "id": "mainui_shop_not_free",
+      "content": "de Paga"
+    },
+    {
+      "id": "mainui_shop_purchase_per_today_fulled",
+      "content": "Has alcanzado el máximo de compras de Cajas de Encefalina por el día."
+    },
+    {
+      "id": "mainui_shop_purchase_success",
+      "content": "Compra Exitosa."
+    },
+    {
+      "id": "mainui_shop_enkephalin_box_scarce",
+      "content": "No tienes suficientes Cajas de Encefalina."
+    },
+    {
+      "id": "mainui_shop_lunacy_scarce",
+      "content": "No tienes suficiente Lunacy."
+    },
+    {
+      "id": "mainui_shop_limit_purchase_permanent",
+      "content": "Quedan {0}"
+    },
+    {
+      "id": "mainui_shop_limit_purchase_periodic",
+      "content": "{0} en Stock"
+    },
+    {
+      "id": "mainui_shop_acquire_at_mailbox",
+      "content": "※ Canjeable en el correo."
+    },
+    {
+      "id": "mainui_shop_purchase_product_success",
+      "content": "Comprado exitosamente\n{0}."
+    },
+    {
+      "id": "mainui_shop_remain_days_minutes",
+      "content": "Queda {0}D {1}H"
+    },
+    {
+      "id": "shopui_use_enkephalin_box",
+      "content": "Usar Caja de Encefalina"
+    },
+    {
+      "id": "shopui_use_lunacy",
+      "content": "Usar Lunacy"
+    },
+    {
+      "id": "shopui_no_more_purchase_chance_today",
+      "content": "Limite máximo de compras diarias alcanzado."
+    },
+    {
+      "id": "shopui_scarce_lunacy",
+      "content": "No tienes suficiente Lunacy."
+    },
+    {
+      "id": "shopui_scarce_enkephalin_box",
+      "content": "No tienes suficientes Cajas de Encefalina."
+    },
+    {
+      "id": "shopui_scarce_enkephalin",
+      "content": "Encefalina Insuficiente."
+    },
+    {
+      "id": "shopui_make_enkephalin_module",
+      "content": "Ensamblar Módulos de Encefalina"
+    },
+    {
+      "id": "shopui_charge_enkephalin_about",
+      "content": "¿Recargar {0} Encefalina?"
+    },
+    {
+      "id": "shopui_recover_enkephalin_after_time",
+      "content": "{1} Encefalina recuperada en {0}."
+    },
+    {
+      "id": "shopui_ask_create_enkephalin_module",
+      "content": "¿Le gustaría ensamblar Módulos de Encefalina?"
+    },
+    {
+      "id": "shopui_charge_as_lunacy",
+      "content": "Usar Lunacy"
+    },
+    {
+      "id": "shopui_charge_as_box",
+      "content": "Usar Cajas"
+    },
+    {
+      "id": "shopui_create_module",
+      "content": "Módulos"
+    },
+    {
+      "id": "remain_days",
+      "content": "{0}d"
+    },
+    {
+      "id": "remain_hours",
+      "content": "{0}h"
+    },
+    {
+      "id": "remain_minutes",
+      "content": "{0}m"
+    },
+    {
+      "id": "enkephalin_charge_finished",
+      "content": "Encefalina cargada"
+    },
+    {
+      "id": "unable_to_charge",
+      "content": "No se puede Cargar"
+    },
+    {
+      "id": "lack_of_enkephalin_box",
+      "content": "Cajas Insuficientes"
+    },
+    {
+      "id": "enkephalin_full",
+      "content": "Máx. Encefalina"
+    },
+    {
+      "id": "purchase_limitation_full",
+      "content": "Limite de Compra Alcanzado"
+    },
+    {
+      "id": "lack_of_lunacy",
+      "content": "Insuficiente Lunacy"
+    },
+    {
+      "id": "create_enkephalin_module_success",
+      "content": "Módulo Ensamblado"
+    },
+    {
+      "id": "unable_to_create_enkephalin_module",
+      "content": "No se pueden Ensamblar Módulos"
+    },
+    {
+      "id": "lack_of_enkephalin",
+      "content": "Insuficiente Encefalina"
+    },
+    {
+      "id": "remain_days_with_number",
+      "content": "Quedan {0}d"
+    },
+    {
+      "id": "enkephalin_module",
+      "content": "<size=90%>Módulos de Encefalina</size>"
+    },
+    {
+      "id": "enkephalin_box",
+      "content": "Caja de Encefalina"
+    },
+    {
+      "id": "today_purchase_count",
+      "content": "Contador Diario"
+    },
+    {
+      "id": "lack_of_lunacy_ask_to_move_shop",
+      "content": "No tienes suficiente Lunacy. ¿Le gustaría dirigirse a la tienda?"
+    },
+    {
+      "id": "remain_hours_with_number",
+      "content": "Quedan {0}h"
+    },
+    {
+      "id": "enkephalin_module_count_max",
+      "content": "Máx. Módulos de Encefalinas"
+    },
+    {
+      "id": "enkephalin_module_count_max_desc",
+      "content": "No se pueden ensamblar Módulos; tienes demasiado en el inventario."
+    },
+    {
+      "id": "mainui_shop_lunacy_package_tab",
+      "content": "Paquetes #2"
+    },
+    {
+      "id": "mainui_shop_until_season_finished",
+      "content": "Hasta la Temporada 5"
+    },
+    {
+      "id": "mainui_shop_purchase",
+      "content": "Comprar"
+    },
+    {
+      "id": "mainui_shop_popup_title",
+      "content": "Tienda"
+    },
+    {
+      "id": "paidShop_category_SPECIAL",
+      "content": "Especial"
+    },
+    {
+      "id": "paidShop_category_PACKAGE",
+      "content": "Paquetes"
+    },
+    {
+      "id": "paidShop_category_LUNACY",
+      "content": "Lunacy"
+    },
+    {
+      "id": "paidShop_category_GROWTH",
+      "content": "Crecimiento"
+    },
+    {
+      "id": "returnpolicy_info_title",
+      "content": "Política de Reembolso"
+    },
+    {
+      "id": "paidShop_Tab_LIMITED",
+      "content": "Limitado"
+    },
+    {
+      "id": "paidShop_Tab_WEEKLY",
+      "content": "Semanal"
+    },
+    {
+      "id": "paidShop_Tab_MONTHLY",
+      "content": "Mensual"
+    },
+    {
+      "id": "paidShop_Tab_ALWAYS",
+      "content": "Siempre Disponible"
+    },
+    {
+      "id": "go_to_mail_popup",
+      "content": "Al Correo"
+    },
+    {
+      "id": "membership_remain_side_title",
+      "content": "[Pack Expiry Notice]"
+    },
+    {
+      "id": "membership_remain_side_desc",
+      "content": "{1} dia(s) restante para tu {0}."
+    },
+    {
+      "id": "returnpolicy_table_battlePassPackge",
+      "content": "Paquete del Limbus Pass"
+    },
+    {
+      "id": "paid_runacy_lack",
+      "content": "Insuficiente Lunacy de Paga."
+    },
+    {
+      "id": "membership_remain_side_desc_oneDay",
+      "content": "{0} caduca hoy."
+    },
+    {
+      "id": "restore_purchase_btn",
+      "content": "Restaurar Compra"
+    },
+    {
+      "id": "restore_purchase_no_product",
+      "content": "No hay productos disponibles para restaurar."
+    },
+    {
+      "id": "restore_purchase_succeed",
+      "content": "Tus productos no reclamados han sido restaurados."
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "dataList": [
+    {
+      "id": "OnSucceedAttack",
+      "name": "[Tras Golpear]"
+    },
+    {
+      "id": "WhenUse",
+      "name": "[Tras Usar]"
+    },
+    {
+      "id": "WinDuel",
+      "name": "[Choque Ganado]"
+    },
+    {
+      "id": "BeforeAttack",
+      "name": "[Antes de Atacar]"
+    },
+    {
+      "id": "Wide",
+      "name": "[AdE]"
+    },
+    {
+      "id": "nxPostLine",
+      "name": "[{n} en Frente]"
+    },
+    {
+      "id": "nxCenterLine",
+      "name": "[{n} en Medio]"
+    },
+    {
+      "id": "nxBackLine",
+      "name": "[{n} por Detrás]"
+    },
+    {
+      "id": "CantIdentify",
+      "name": "[Indiscriminado]"
+    },
+    {
+      "id": "CRIMSON",
+      "name": "Carmesí"
+    },
+    {
+      "id": "SCARLET",
+      "name": "Escarlata"
+    },
+    {
+      "id": "AMBER",
+      "name": "Ambár"
+    },
+    {
+      "id": "SHAMROCK",
+      "name": "Verde"
+    },
+    {
+      "id": "AZURE",
+      "name": "Azur"
+    },
+    {
+      "id": "INDIGO",
+      "name": "Indigo"
+    },
+    {
+      "id": "VIOLET",
+      "name": "Violeta"
+    },
+    {
+      "id": "WHITE",
+      "name": "Blanco"
+    },
+    {
+      "id": "BLACK",
+      "name": "Negro"
+    },
+    {
+      "id": "EndSkill",
+      "name": "[Después de Atacar]"
+    },
+    {
+      "id": "StartBattle",
+      "name": "[Inicio de Combate]"
+    },
+    {
+      "id": "DefeatDuel",
+      "name": "[Choque Perdido]"
+    },
+    {
+      "id": "OnSucceedAttackHead",
+      "name": "[Cae en Cara]"
+    },
+    {
+      "id": "OnSucceedAttackTail",
+      "name": "[Cae en Sello]"
+    },
+    {
+      "id": "OnSucceedEvade",
+      "name": "[Tras Evadir]"
+    },
+    {
+      "id": "AlwaysUse",
+      "name": "[Constante]"
+    },
+    {
+      "id": "CantDuel",
+      "name": "[Inchocable]"
+    },
+    {
+      "id": "EnemyKill",
+      "name": "[Al Matar]"
+    },
+    {
+      "id": "EnemyKillFail",
+      "name": "[Fallar Asesinato]"
+    },
+    {
+      "id": "ReUse",
+      "name": "[Tras Reusar]"
+    },
+    {
+      "id": "ReUseOnSucceedAttackHead",
+      "name": "[Reusar - Cae en Cara]"
+    },
+    {
+      "id": "CriticalOnSucceedAttack",
+      "name": "[Tras Critico]"
+    },
+    {
+      "id": "StartDuel",
+      "name": "[Al Empezar Choque]"
+    },
+    {
+      "id": "EndBattle",
+      "name": "[Finalizar Turno]"
+    },
+    {
+      "id": "OnDefeatEvade",
+      "name": "[Evasión Fallida]"
+    },
+    {
+      "id": "EndSkillHead",
+      "name": "[Ataque termina en Cara]"
+    },
+    {
+      "id": "EndSkillTail",
+      "name": "[Ataque termina en Sello]"
+    },
+    {
+      "id": "WinDuelAttackHead",
+      "name": "[Cae en Cara Después de Choque Ganado]"
+    },
+    {
+      "id": "WinDuelAttack",
+      "name": "[Tras Golpear Después de Choque Ganado]"
+    },
+    {
+      "id": "CriticalActivated",
+      "name": "[Tras Critico]"
+    },
+    {
+      "id": "CriticalEndSkill",
+      "name": "[Finalizar ataque con Critico]"
+    },
+    {
+      "id": "CantChangeTarget",
+      "name": "[Objetivo Fijado]"
+    },
+    {
+      "id": "TurnStartBattle",
+      "name": "[Inicio de Turno]"
+    },
+    {
+      "id": "EndSkillAll",
+      "name": "[Finalizar Habilidad]"
+    },
+    {
+      "id": "WhenUse_Force",
+      "name": "<color=#26cfff>[Tras Usar]</color>"
+    },
+    {
+      "id": "StartBattle_Force",
+      "name": "<color=#93f13e>[Inicio de Combate]</color>"
+    },
+    {
+      "id": "TargetKill",
+      "name": "[Tras Matar Objetivo]"
+    },
+    {
+      "id": "CriticalTargetKill",
+      "name": "[Tras Matar con Crítico]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[Antes de Usar]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[Contaataque de Choque]"
+    },
+    {
+      "id": "CantBreak",
+      "name": "[Moneda Irrompible]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[Guardia de Choque]"
+    },
+    {
+      "id": "WhenUseEvade",
+      "name": "[Tras Usar Evadir]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[Tras usar la Moneda de Ataque Actual]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[Tras Fallar el Crítico Contra un Enemigo]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[Tras Matar con Crítico Contra un Enemigo]"
+    },
+    {
+      "id": "DefeatDuelAttack",
+      "name": "[Golpear después de Choque Perdido]"
+    },
+    {
+      "id": "TargetKillFail",
+      "name": "[Tras Muerte de Objetivo Fallida]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[Tras Asesinato Aliado]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[Tras Asesinato Aliado Fallido]"
+    },
+    {
+      "id": "TabExplain",
+      "name": ""
+    },
+    {
+      "id": "UnBrokenCoinOnSucceedAttack",
+      "name": "[Tras Golpear sin fracturar]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[Antes de ser Golpeado]"
+    }
+  ]
+}

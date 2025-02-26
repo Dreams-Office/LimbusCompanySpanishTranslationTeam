@@ -1,0 +1,119 @@
+{
+  "dataList": [
+    {
+      "id": "get_11001_1",
+      "desc": "Al Adquirir Identidad",
+      "dlg": "Soy Sinclair... Emil Sinclair. Oh, mi número es, uhm... once."
+    },
+    {
+      "id": "lobby_morning_11001_1",
+      "desc": "Saludo Mañanero",
+      "dlg": "¡Buenos días! Tuviste un buen... Oh, ¿puedes dormir verdad. Gerente...?"
+    },
+    {
+      "id": "lobby_noon_11001_1",
+      "desc": "Saludo de Mediodía",
+      "dlg": "Me siento más cómodo a esta hora del día. Tenga una buena tarde, Gerente."
+    },
+    {
+      "id": "lobby_night_11001_1",
+      "desc": "Saludo Nocturno",
+      "dlg": "¿Cómo estuvo tu día? Por mi parte... No me pude concentrar mucho en mis tareas, creo."
+    },
+    {
+      "id": "smalltalk_11001_1",
+      "desc": "Charla #1",
+      "dlg": "No creo que podría imaginarme haciendo esto... Oh, no es que me desagrade mi trabajo ni nada, es solo... algo que se me ocurrió aleatoriamente."
+    },
+    {
+      "id": "smalltalk_11001_2",
+      "desc": "Charla #2",
+      "dlg": "Realmente eres sorprendente, Gerente... aún estoy sufriendo en ajustarme, y tú nos estás liderando como un campeón a pesar de tu perdida de memoria."
+    },
+    {
+      "id": "smalltalk_11001_3",
+      "desc": "Charla #3",
+      "dlg": "Mira, Rodya me dio unos bocaditos. Los guardaré para luego. Jeje."
+    },
+    {
+      "id": "smalltalk_11001_4",
+      "desc": "Charla #4",
+      "dlg": "Dime, Dante... ¿Tú... realmente no sientes nada teniendo eso como cabeza? ¿Es el mundo... aún normal para ti?"
+    },
+    {
+      "id": "smalltalk_11001_5",
+      "desc": "Charla #5",
+      "dlg": "Así que, si no recuerdas tu pasado, ¿supongo que eso significa que no puedes tener arrepentimientos tampoco, no es así, Dante? Esto puede sonar grosero de mi parte, pero... me da envidia. Puedes enfocarte completamente en el presente."
+    },
+    {
+      "id": "neglect_11001_1",
+      "desc": "Inactivo",
+      "dlg": "¿Um, Gerente...? ¿Dónde estás? ¿Estás ocupado?"
+    },
+    {
+      "id": "formation_11001_1",
+      "desc": "Desplegar",
+      "dlg": "Umm... ¿Me quieres a mí? Mmh... Haré lo mejor que pueda..."
+    },
+    {
+      "id": "battleentry_11001_1",
+      "desc": "Entrada a Escena",
+      "dlg": "Supongo que esto es para mejor, ¿verdad...?"
+    },
+    {
+      "id": "battle_select_11001_1",
+      "desc": "Vista en Batalla",
+      "dlg": "¿Hice algo mal...?"
+    },
+    {
+      "id": "battle_endcommand_11001_1",
+      "desc": "Al Atacar",
+      "dlg": "¡Lo intentaré...!"
+    },
+    {
+      "id": "battle_enemy_break_11001_1",
+      "desc": "Aturdir al Enemigo",
+      "dlg": "Lo logré, ¿no...?"
+    },
+    {
+      "id": "battle_break_11001_1",
+      "desc": "Aturdido",
+      "dlg": "¡Ngh...!"
+    },
+    {
+      "id": "battle_kill_11001_1",
+      "desc": "Enemigo Asesinado",
+      "dlg": "¡Lo hice!"
+    },
+    {
+      "id": "battle_allydead_11001_1",
+      "desc": "Muerte Aliada",
+      "dlg": "¿Me pasará a mi también...?"
+    },
+    {
+      "id": "choice_success_p_11001_1",
+      "desc": "Juicio Exitoso",
+      "dlg": "Gracias a dios lo logré..."
+    },
+    {
+      "id": "choice_fail_n_11001_1",
+      "desc": "Juicio Fallido",
+      "dlg": "Es mi culpa..."
+    },
+    {
+      "id": "battle_clear_11001_1",
+      "desc": "Grito de Victoria",
+      "dlg": "Umm... ¿Lo logramos? Qué alivio."
+    },
+    {
+      "id": "battle_clear_ex_11001_1",
+      "desc": "Condiciones EX Cumplidas",
+      "dlg": "Realmente no creo que sea gracias a mí. Pero aprecio el alago. Me acordé de mi madre por un momento."
+    },
+    {
+      "id": "battle_defeat_11001_1",
+      "desc": "LLanto de Derrota",
+      "dlg": "Perdón. Debí haberlo hecho mejor... Aún tengo mucho por mejorar."
+    }
+  ]
+}

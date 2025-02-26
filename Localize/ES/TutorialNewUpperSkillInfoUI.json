@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_01",
+      "content": "Ajustando la Densidad de la Información en Pantalla Durante el Combate"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_01",
+      "content": "En la parte superior derecha de la pantalla de batalla hay un botón para ajustar la cantidad de información que se muestra.\n\nLos tres botones ajustarán la densidad de la información a mínimo, medio, y máximo, respectivamente."
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_02",
+      "content": "MÁX"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_02",
+      "content": "La configuración máxima de visualización de información.\n\nEs la configuración por defecto que se aplica al iniciar el juego por primera vez.\n\nSe muestra más información en comparación con las otras dos configuraciones.\n\nTambién se muestran detalles sobre las palabras clave utilizadas en las habilidades."
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_03",
+      "content": "MED"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_03",
+      "content": "La configuración de visualización de la información media.\n\nEn esta configuración, no se mostrarán los detalles sobre las palabras clave utilizadas en las habilidades.\n\nPor lo demás, funciona igual que la configuración máxima."
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_title_04",
+      "content": "MIN"
+    },
+    {
+      "id": "tutorial_upperSkillInfo_System_popup_04",
+      "content": "La configuración de visualización de la información mínima.\n\nEn esta configuración, no se mostrará la información de los efectos y palabras clave de las habilidades."
+    }
+  ]
+}

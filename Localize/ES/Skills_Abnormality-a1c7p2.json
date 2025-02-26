@@ -1,0 +1,432 @@
+{
+  "dataList": [
+    {
+      "id": 838101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Caminar con Gracia...",
+          "desc": "Prioriza a un aliado no aturdido. Si el objetivo es un aliado, gana Poder de Choque +10, y siempre fija el daño a 0\nPoder de Choque +1 por cada 3 de [Laceration] en el objetivo (máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]\n- Si el objetivo es un aliado, reemplaza este efecto por 3 de [AttackUp] hasta el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Moverse con Belleza...",
+          "desc": "Prioriza a un aliado no aturdido. Si el objetivo es un aliado, gana Poder de Choque +10, y siempre fija el daño a 0\nPoder de Choque +1 por cada 3 de [Laceration] en el objetivo (máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]\n- Si el objetivo es un aliado, reemplaza este efecto por 3 de [DefenseUp] hasta el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Traed a la Audiencia Aquí...",
+          "desc": "[WhenUse] Poder Final +1 por cada 5 [FestivalFever] en sí o por cada 6 de [Laceration] en el objetivo (máx 4)\n[WhenUse] Con menos de 15 [BloodDinner], gana 15 de [Laceration] e inmediatamente se desangra una vez, después reduce en 1 el Contador de [Laceration] (a menos de 10% de HP, activa solo la parte de este efecto en la cual esta unidad gana Potencia y Contador de [Laceration])\n[EndSkill] Consume 15 [BloodDinner]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackUp] y 1 de [DefenseUp] por cada 6 de [Laceration] en el objetivo (máx 3 de cada uno)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige +5 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desfile de las Maravillas",
+          "desc": "[CantIdentify]\nPrioriza enemigos para su objetivo principal, y prioriza aliados para sus sub-objetivos. Si el objetivo es un aliado, Poder de Choque +10 y siempre fija su daño a 0.\n[WhenUse] Poder de Choque +1 por cada 20 [BloodDinner_Accumulation] por esta unidad (máx 10)\n[WhenUse] Con menos de 25 [BloodDinner], gana 25 de [Laceration], e inmediatamente se desangra una vez, después reduce en 1 el Contador de [Laceration] (a menos de 10% de HP, activa solo la parte de este efecto en la cual esta unidad gana Potencia y Contador de [Laceration])\n[EndSkill] Consume 25 [BloodDinner]\n[EndBattle] Consume toda la [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [AttackUp] y [DefenseUp] hasta el siguiente turno basado en [FestivalFever] (1 por cada 3 [FestivalFever], máx 3 de cada uno)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]\n- Si el objetivo es un aliado, reemplaza este efecto con 5 de [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "El Desfile Se Repite Eternamente",
+          "desc": "[WhenUse] Poder de Choque +1 por cada 20 [BloodDinner_Accumulation] por esta unidad (máx 10)\n[WhenUse] Con menos de 50 [BloodDinner], gana 25 de [Laceration], +2 Contador de [Laceration], inmediatamente se desangra dos vez, después reduce en 2 el Contador de [Laceration] (a menos de 10% de HP, activa solo la parte de este efecto en la cual esta unidad gana Potencia y Contador de [Laceration])\n[WhenUse] Consume la mitad del [BloodDinner]\n[EndBattle] Consume todo el [IncompleteParade]\n[EndBattle] Gana 10 [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por 25% del daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura por 25% del daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura por 50% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] y 5 de [Burst]"
+                },
+                {
+                  "desc": "[EndCoin] Gana 1 de [BloomingThorns] por cada 10 [BloodDinner] consumido por esta Habilidad (máx 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Y eso es todo lo que hace...",
+          "desc": "[DuelCounter]\n[WhenUse] Con 5+ [FestivalFever], Poder de Choque +3\n[StartBattle] Gana 5 de [BloomingThorns]\n[DefeatDuel] Pierde 5 de [BloomingThorns]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "El Finale",
+          "desc": "[WhenUse] Consume la mitad del [BloodDinner]\n[WinDuel] Inflige +([BloodDinner] consumido por esta Habilidad)% de daño (máx 150%)\n[DefeatDuel] Inflige -50% de daño, y el daño infligido por esta Habilidad no Aturde al objetivo\n[EndSkill] Los PC de esta Unidad caen a -45",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +6 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige 6 de [Burst]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige +6 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[EndCoin] Gana 1 de [BloomingThorns] por cada 10 [BloodDinner] consumido por esta Habilidad (máx 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dragón de la Primavera",
+          "desc": "[WhenUse] Gana 2 de [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Agility] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Loto en Otoño",
+          "desc": "[WhenUse] Gana 2 de [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Agility] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rastro Débil",
+          "desc": "[WhenUse] Gana 3 de [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rastro Pálido",
+          "desc": "Si la Velocidad del usuario es mayor que la del objetivo por 5+, Poder de Choque +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 100 de Daño Adicional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flecha Roja",
+          "desc": "[WhenUse] Gana 2 de [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 50 de Daño Adicional"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 50 de Daño Adicional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flecha Negra",
+          "desc": "[WhenUse] Gana 2 de [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MentalCrack]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Espejo de Agua",
+          "desc": "[CanDuelGuard]\n[WhenUse] Gana 3 de [Protection]\n[WinDuel] Inflige daño de HP igual al Poder de Choque final de esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Activación de Riel Acelerador de Electrones",
+          "desc": "[StartBattle] Gana 10 [Enhancement] y [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flecha",
+          "desc": "[WhenUse] Gana 5 de [PenetrateDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

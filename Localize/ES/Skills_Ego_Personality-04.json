@@ -1,0 +1,853 @@
+{
+  "dataList": [
+    {
+      "id": 2040111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Infinitas Flamas En La Espesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Infinitas Flamas En La Espesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Infinitas Flamas En La Espesura",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Frágil el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Poder de Habilidad +2 contra unidades con [Combustion]\n[EnemyKill] Gana 1 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Poder de Habilidad +2 contra unidades con [Combustion]\n[EnemyKill] Gana 2 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "Poder de Habilidad +2 contra unidades con [Combustion]\nInflige +5% de daño por cada 1 de [Combustion] en el objetivo (Máx 100%)\n[EnemyKill] Gana +2 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nPoder de Habilidad +2 contra unidades con [Combustion]\n[EnemyKill] Gana +2 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana 10 de [Combustion] el siguiente turno el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nPoder de Habilidad +4 contra unidades con [Combustion]\n[EnemyKill] Gana +3 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 Poder de Ataque Aumentado y 10 de [Combustion] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nPoder de Habilidad +4 contra unidades con [Combustion]\nInflige +5% de daño cada 1 de [Combustion] del objetivo (Máx 100%)\n[EnemyKill] Gana +3 Poder de Ataque Aumentado el siguiente turno\n[EnemyKillFail] Gana +3 Poder de Ataque Aumentado y 10 de [Combustion] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos",
+          "abName": "Capullo Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos",
+          "abName": "Capullo Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor a la del usuario, Inflige 2 Fragilidad a lo Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos",
+          "abName": "Capullo Aracnido",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 1 de Debilitamiento de Moneda Positiva el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor a la del usuario, Inflige 2 Fragilidad a lo Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos",
+          "abName": "Capullo Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 2 Debilitamiento de Moneda Positiva el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos",
+          "abName": "Capullo Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige 2 de Debilitamiento de Moneda Positiva el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor a la del usuario, Inflige 1~3 Frágil Cortante el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Capullo Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder de Moneda +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +20% de daño"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Capullo Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder de Moneda +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +20% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Capullo Aracnido",
+          "desc": "Si la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder de Moneda +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +40% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con menos HP por 10% de sus HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Capullo Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder Final +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +30% de daño"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Capullo Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder Final +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +30% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con el menor HP por 10% de HP Máx"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ojos Rojos (Abiertos)",
+          "abName": "Capullo Aracnido",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nSi la Velocidad del objetivo es menor que la del usuario por 3 o más, Poder Final +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 3+ [Binding], Inflige +50% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si esta habilidad aturde o derrota al enemigo, cura al usuario y al aliado con el menor HP por 10% de HP Máx"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Gana 3 recursos E.G.O de una Afinidad aleatoria actualmente en posesión"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Gana 3 recursos E.G.O de una Afinidad aleatoria actualmente en posesión; Todos los aliados curan 3 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
+                },
+                {
+                  "desc": "[EnemyKill] Gana 3 recursos E.G.O de una Afinidad aleatoria actualmente en posesión; Todos los aliados curan 3 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GanaSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GanaSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Todos los aliados ganan +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GanaSinStockAdder\">Amp. de Recursos E.G.O</color></link></u>., Aplica 1 de Rapidez el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsesión Ciega",
+          "abName": "Silencioso Torrente Devora Sueños",
+          "desc": "[BeforeAttack] Gana 4 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Obsesión Ciega",
+          "abName": "Silencioso Torrente Devora Sueños",
+          "desc": "[BeforeAttack] Gana 4 de [Breath]\n[EndBattle] Gana 2 de [Breath] por cada unidad Derrotada por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Obsesión Ciega",
+          "abName": "Silencioso Torrente Devora Sueños",
+          "desc": "[BeforeAttack] Gana 4 de [Breath]\n[EndBattle] Gana 2 de [Breath] por cada unidad Derrotada por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsesión Ciega",
+          "abName": "Silencioso Torrente Devora Sueños",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 4 de [Breath]. Gasta 2 Contador de [Charge] para ganar 1 de [Breath] (Máx 10)\n[EndBattle] Gana +4 Contador de [Charge] por cada unidad Derrotada por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Obsesión Ciega",
+          "abName": "Silencioso Torrente Devora Sueños",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 4 [Breath]. Gasta 2 Contador de [Charge] para ganar 1 de [Breath] (Máx 10)\n[EndBattle] Gana +4 Contador de [Charge] por cada unidad Derrotada por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Obsesión Ciega",
+          "abName": "Silencioso Torrente Devora Sueños",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 4 [Breath]. Gasta 2 Contador de [Charge] para ganar 1 de [Breath] (Máx 10)\n[EndBattle] Gana +4 Contador de [Charge] por cada unidad Derrotada por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Con 10+ de [Breath], Gana +30% de Daño Crítico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desprecio, Asombro",
+          "abName": "Espiral del Desprecio",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) Alcance de Atq (Máx 2)\n[BeforeAttack] Gana (Reson. más alta + 1) [GazePersonality] (Máx 7)\n[EndSkill] Por 2 turnos, pierde 10 PC al Final del Turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige 10 de [Laceration] uniformemente entre todos los objetivos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Desprecio, Asombro",
+          "abName": "Espiral del Desprecio",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) Alcance de Atq (Máx <style=\"highlight\">4</style>)\n[BeforeAttack] Gana (Reson. más alta + 1) [GazePersonality] (Máx 7)\n[EndSkill] Por 2 turnos, pierde 10 PC al Final del Turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige <style=\"highlight\">15</style> de [Laceration] uniformemente entre todos los objetivos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Desprecio, Asombro",
+          "abName": "Espiral del Desprecio",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) Alcance de Atq (Máx <style=\"highlight\">6</style>)\n[BeforeAttack] Gana (Reson. más alta + 1) [GazePersonality] <style=\"highlight\">este turno y el siguiente</style> (Máx 7)\n<style=\"highlight\">[EndSkill] Si esta habilidad fue parte de una Reson. de Lujuria, gana 1 recurso E.G.O en Afinidades correspondientes a cada una de las Habilidades de Ataque de esta unidad</style>\n[EndSkill] Por 2 turnos, pierde 10 PC al Final del Turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Inflige 15 de [Laceration] uniformemente entre todos los objetivos<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desprecio, Asombro",
+          "abName": "Espiral del Desprecio",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration], inflige +(suma de Potencia y Contador de [Laceration] en el objetivo)% de daño (Máx 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige (1 + (Reson. más alta x 1.5)) de [Laceration] (Máx 10, redondeado hacia abajo)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Desprecio, Asombro",
+          "abName": "Espiral del Desprecio",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration], inflige +(suma de Potencia y Contador de [Laceration] en el objetivo)% de daño (Máx <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">(3 + (Reson. más alta x 2))</style> de [Laceration] (Máx <style=\"highlight\">15</style>, redondeado hacia abajo)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">3</style> Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Desprecio, Asombro",
+          "abName": "Espiral del Desprecio",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Si esta habilidad fue parte de una Reson. de Lujuria, gana 1 recurso E.G.O en Afinidades correspondientes a cada una de las Habilidades de Ataque de esta unidad</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration], inflige +(suma de Potencia y Contador de [Laceration] en el objetivo)% de daño (Máx <style=\"highlight\">60%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">(10 + (Reson. más alta x 2.5))</style> de [Laceration] (Máx <style=\"highlight\">25</style>, redondeado hacia abajo)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">5</style> Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Toracalgia",
+          "abName": "Saco de Dormir de Antaño",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) de [Breath] (máx 4)\n- Con 15+ de [Breath], gana Poder Final +(Reson. más alta) en su lugar (máx 4)\n[BeforeAttack] Gana (Reson. más alta / 2) Contador de [Breath] (máx 2)\n- Con 5+ Contador de [Breath], gana Poder de Moneda +(Reson. más alta / 2) en su lugar (máx 2)\n[TargetKill] Gana 1 de [HoldingBreath] el siguiente turno (2 veces por turno)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [HoldingBreath] (una vez por turno)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toracalgia",
+          "abName": "Saco de Dormir de Antaño",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) de [Breath] (máx <style=\"highlight\">6</style>)\n- Con 15+ de [Breath], gana Poder Final +(Reson. más alta) en su lugar (máx <style=\"highlight\">6</style>)\n[BeforeAttack] Gana (Reson. más alta / 2) Contador de [Breath] (máx 2)\n- Con 5+ Contador de [Breath], gana Poder de Moneda +(Reson. más alta / 2) en su lugar (máx 2)\n[TargetKill] Gana <style=\"highlight\">2</style> de [HoldingBreath] el siguiente turno (<style=\"highlight\">4</style> veces por turno)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [HoldingBreath] (una vez por turno)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Toracalgia",
+          "abName": "Saco de Dormir de Antaño",
+          "desc": "[BeforeAttack] Gana (Reson. más alta) de [Breath] (máx 6)\n- Con 15+ de [Breath], gana Poder Final +(Reson. más alta) en su lugar (máx 6)\n[BeforeAttack] Gana (Reson. más alta / 2) Contador de [Breath] (máx <style=\"highlight\">3</style>)\n- Con 5+ Contador de [Breath], gana Poder de Moneda +(Reson. más alta / 2) en su lugar (máx <style=\"highlight\">3</style>)\n[TargetKill] Gana 2 de [HoldingBreath] el siguiente turno (<style=\"highlight\">6</style> veces por turno)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">4</style> de [HoldingBreath] (una vez por turno)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Toracalgia",
+          "abName": "Saco de Dormir de Antaño",
+          "desc": "[CantIdentify]\nPrioriza objetivos con el menor HP (prioriza aliados)\nSi uno aliado es uno de los objetivos de esta Habilidad, inflige +30% de daño\n\n[BeforeAttack] Con menos de 15 [Breath], consume 10% de HP para ganar 5 de [Breath] y +5 Contador de [Breath]\n- No puede ser Aturdida o derrotada debido a este efecto\n\n[EndSkill] Si el objetivo es derrotado, gana 2 de [HoldingBreath] el siguiente turno. (una vez por turno) Si dicho objetivo es un aliado, activa el siguiente efecto también:\n- Aliados que participan o son Sustituidos en este Encuentro debido a aliados derrotados gana 2 de [Breath] and +2 Contador de [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 4 de [HoldingBreath] (una vez por turno)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Toracalgia",
+          "abName": "Saco de Dormir de Antaño",
+          "desc": "[CantIdentify]\nPrioriza objetivos con el menor HP (prioriza aliados)\nSi uno aliado es uno de los objetivos de esta Habilidad, inflige +30% de daño\n\n[BeforeAttack] Con menos de 15 [Breath], consume 10% de HP para ganar 5 de [Breath] y +5 Contador de [Breath]\n- No puede ser Aturdida o derrotada debido a este efecto\n<style=\"highlight\">- Gana 1 de [Breath] por cada aliado seleccionado por esta Habilidad (máx 2)</style>\n\n[EndSkill] Si el objetivo es derrotado, gana 2 de [HoldingBreath] el siguiente turno. (una vez por turno) Si dicho objetivo es un aliado, activa el siguiente efecto también:\n- Aliados que participan o son Sustituidos en este Encuentro debido a aliados derrotados gana <style=\"highlight\">4</style> de [Breath] y +2 Contador de [Breath]\n<style=\"highlight\">- Recupera la mitad de los PC usados por esta Habilidad</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 4 de [HoldingBreath] (una vez por turno)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Toracalgia",
+          "abName": "Saco de Dormir de Antaño",
+          "desc": "[CantIdentify]\nPrioriza objetivos con el menor HP (prioriza aliados)\nSi uno aliado es uno de los objetivos de esta Habilidad, inflige +30% de daño\n\n[BeforeAttack] Con menos de 15 [Breath], consume 10% de HP para ganar 5 de [Breath] y +5 Contador de [Breath]\n- No puede ser Aturdida o derrotada debido a este efecto\n- Gana <style=\"highlight\">2</style> [Breath] por cada aliado seleccionado por esta Habilidad (máx <style=\"highlight\">4</style>)\n\n[EndSkill] Si el objetivo es derrotado, gana 3 de [HoldingBreath] el siguiente turno. (una vez por turno) Si dicho objetivo es un aliado, activa el siguiente efecto también:\n- Aliados que participan o son Sustituidos en este Encuentro debido a aliados derrotados gana 4 de [Breath] y +<style=\"highlight\">4</style> Contador de [Breath]\n<style=\"highlight\">- Recupera los PC usados por esta Habilidad y 1 de cada recurso E.G.O consumido</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +(Potencia + Contador de [Breath])% de daño en Golpe Crítico (máx <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana <style=\"highlight\">7</style> de [HoldingBreath] (una vez por turno)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

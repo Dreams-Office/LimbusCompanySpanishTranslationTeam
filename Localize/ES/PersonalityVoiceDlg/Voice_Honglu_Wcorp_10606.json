@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10606_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Esos trenes WARP suelen estar algo apretados, ¿no lo crees?"
+        },
+        {
+            "id": "lobby_morning_10606_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "No tengo mucho problema levantándome por la mañana... Pero repetir el mismo trabajo día tras día se volvió monótono muy rápido."
+        },
+        {
+            "id": "lobby_noon_10606_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Mmm~ ¡Qué lindo día! La tienda que visité sirve excelentes bebidas también. ...Pero, voy a tener que regresar dentro y prepararme para limpiar más trenes."
+        },
+        {
+            "id": "lobby_night_10606_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Sabes, algunas veces pierdo la noción del tiempo trabajando hasta altas horas de la noche en los trenes nocturnos. Los andenes del tren siempre están iluminando todo y eso."
+        },
+        {
+            "id": "smalltalk_10606_1",
+            "desc": "Charla #1",
+            "dlg": "Mi abuela me dijo que trabajara aquí, pero se vuelve un poco aburrido hacer lo mismo una y otra vez~"
+        },
+        {
+            "id": "smalltalk_10606_2",
+            "desc": "Charla #2",
+            "dlg": "¿Me pregunto si alguna vez nos llegarán a dar viajes patrocinados por la compañía? Somos agentes de limpieza del tren, así que sería apropiado. Oh, no es como si quisiese viajar en uno de esos trenes WARP, claro~"
+        },
+        {
+            "id": "smalltalk_10606_3",
+            "desc": "Charla #3",
+            "dlg": "Aw~ Todos han estado muy callados últimamente. Sus rostros parecen melancólicos, también... ¿quizá es temporada de gripe?"
+        },
+        {
+            "id": "smalltalk_10606_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "Uf... todos están hechos pedazos otra vez. Aparentemente hubo una ocasión donde los pasajeros se encontraban orando en sus asientos, bien quietos y tranquilos. ¡Qué trabajo más sencillo debió de haber sido!"
+        },
+        {
+            "id": "smalltalk_10606_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "¿Si el trabajo de limpieza de trenes es complicado? Pues... lo puede llegar a ser cuando se trata de limpiar cuando hay pasajeros más extraños de lo normal. \nOh, ¿te refieres a psicológicamente? Hm... Nah, es solo un trabajo, ¿cierto? No pienso mucho en ello."
+        },
+        {
+            "id": "neglect_10606_1",
+            "desc": "Inactivo",
+            "dlg": "Mm, me iré a revisar las cartas de mi familia, si no es mucha molestia~"
+        },
+        {
+            "id": "gacksung_10606_1",
+            "desc": "Aunando",
+            "dlg": "Oh, ¿una lección nueva? Espero que sea sobre algo nuevo para variar~"
+        },
+        {
+            "id": "formation_10606_1",
+            "desc": "Desplegar",
+            "dlg": "Estoy todo listo para la limpieza~"
+        },
+        {
+            "id": "battleentry_10606_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Hora de comenzar, la limpieza."
+        },
+        {
+            "id": "battle_select_10606_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Oh~ No deberías de venir aquí mientras limpiamos."
+        },
+        {
+            "id": "battle_endcommand_10606_1",
+            "desc": "Al Atacar",
+            "dlg": "Encargándome de pasajeros problemáticos."
+        },
+        {
+            "id": "battle_enemy_break_10606_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Relájate y quédate quieto, ahora~"
+        },
+        {
+            "id": "battle_break_10606_1",
+            "desc": "Aturdido",
+            "dlg": "¡Ay!"
+        },
+        {
+            "id": "battle_kill_10606_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Muy bien, pongamos sus extremidades y torsos por aquí~"
+        },
+        {
+            "id": "battle_dead_10606_1",
+            "desc": "Muerte",
+            "dlg": "Ah... ¿Qué no... se suponía que era una limpieza sencilla...?"
+        },
+        {
+            "id": "choice_success_p_10606_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Hmhmm. Eso fue sencillo."
+        },
+        {
+            "id": "choice_fail_n_10606_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Qué raro... Los manuales me enseñaron a hacerlo de esta manera."
+        },
+        {
+            "id": "battle_clear_10606_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Muy bien, ahora que esto está terminado, debería visitar un café para tomarme un pequeño descanso."
+        },
+        {
+            "id": "battle_clear_ex_10606_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Ohh~ Hemos terminado el trabajo de hoy mucho más rápido de lo usual, ¿no es así? ¿Quizás tienes un don para la limpieza?~"
+        },
+        {
+            "id": "battle_defeat_10606_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "Los pasajeros estaban un poco muy alborotados esta vez..."
+        }
+    ]
+}

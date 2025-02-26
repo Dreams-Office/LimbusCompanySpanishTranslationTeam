@@ -1,0 +1,984 @@
+{
+    "dataList": [
+        {
+            "id": 9008801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sembrar Miedo",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige 2 de daño a los PC"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige 2 de daño a los PC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Infundir Horror",
+                    "desc": "[WinDuel] Inflige 10 de daño a los PC al objetivo; esta unidad se cura 10 de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cosechar Horror",
+                    "desc": "Si los PC del objetivo están por debajo de 20, cura 20% más de HP con este ataque",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige 3 de daño a los PC"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige 3 de daño a los PC"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Paralizar la Mente",
+                    "desc": "Si los PC del objetivo están por debajo de -15, inflige +50% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--. --- .-.",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "--.- ..- ..-..",
+                    "desc": "[WinDuel] Inflige 1 de Ruido Pálido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +3 de Contador de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "..-. . .-.. .. --..",
+                    "desc": "Poder Final +1 por cada aliado Palidecido sobreviviente (sin contar a esta unidad)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 40% del daño infligido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno.\n(Limitado a: Poder de Ataque Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 40% del daño infligido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.-- ---",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ". .-..",
+                    "desc": "[WinDuel] Inflige 1 de Ruido Pálido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "- ..-",
+                    "desc": "[WinDuel] Inflige 1 de daño a los PC al objetivo por cada aliado Palidecido sobreviviente (sin contar esta unidad)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 40% del daño infligido"
+                                },
+                                {
+                                    "desc": "Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno. \n(Limitado a: Poder de Ataque Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 40% del daño infligido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.. ---",
+                    "desc": "Si el objetivo tiene <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Ahogo</link></u></color> , el efectivo curativo de HP también aplica a 1 aliado Palidecido más con los menores PC.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".... .-",
+                    "desc": "Si el objetivo tiene <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Ahogo</link></u></color> , el efectivo curativo de HP también aplica a 1 aliado Palidecido más con los menores PC.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 50% del daño infligido"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Ruido Pálido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.-- --- ..-",
+                    "desc": "[WhenUse] Si el objetivo tiene <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Ruido Pálido</link></u></color> , todos los aliados Palidecios curan 30 de HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno.\n(Limitado a: Poder de Ataque Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 20 de HP en sí"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".... .- -.--",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "--.- ..- .",
+                    "desc": "[WhenUse] Aplica 1 de [Protection] a 1 otro aliado aleatorio el siguiente turno. Si el aliado es un aliado Palidecido, aplica 1 de [Protection] adicional.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +4 Contador de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".... ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Reduce en 2 el Contador de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de Ruido Pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 10 de [Burst] y +4 Contador de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".. .-.",
+                    "desc": "[StartBattle] Gana 1 de [Protection] por cada 2 aliados Palidecidos (sin contar a esta unidad)\nAl ser atacado mientras esta unidad tiene Escudo, inflige 1 de [Vibration] al atacante",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".- ..-. ..-",
+                    "desc": "[WhenUse] Aplica 1 de Daño Aumentado a 1 otro aliado Palidecido el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de Ruido Pálido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ". .-. .-",
+                    "desc": "[WhenUse] Aplica de 1 Daño Aumentado a 1 otro aliado Palidecido el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de Ruido Pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-",
+                    "desc": "Si el objetivo tiene <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Ruido Pálido</link></u></color>, inflige 1 de daño a los PC al objetivo por cada otro aliado sobreviviente",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.-- ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de Ruido Pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.. . -.",
+                    "desc": "[WinDuel] Inflige 1 de Ruido Pálido",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Frágil el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-- .",
+                    "desc": "Al ser atacado mientras esta unidad tiene Escudo, inflige 1 de Ruido Pálido al objetivo\n[EndBattle] Si esta unidad tiene Escudo, gana 3 de [Breath] el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "--.- ..- .",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ". ...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Daño Reducido el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ". ... .-",
+                    "desc": "[WhenUse] Gana 1 de Protección por cada aliado sobreviviente. (Máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Protection]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de Ruido Pálido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Protection] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 4 de [Laceration] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.-. --- ... .-",
+                    "desc": "[WhenUse] Gana 2 de [Protection]\nAl ser atacado mientras esta unidad tiene Escudo, inflige 1 de Ruido Pálido al objetivo\n[EndBattle] Cura HP igual al doble del HP restante del escudo.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Justo en el Plexo Solar",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Recordamos!",
+                    "desc": "[DefeatDuel] Gana 1 de Daño Aumentado el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige daño fijo adicional igual al número de aliados del Medio asesinados en esta oleada"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aplasta Cráneos",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Listo para Escribir",
+                    "desc": "[EndBattle] Si esta unidad tiene Escudo, gana 1 Poder de Ataque Aumentado el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Venganza",
+                    "desc": "[DefeatDuel] Gana 1 de Daño Aumentado el siguiente turno",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Aumenta el Umbral de Aturdimiento en 8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Retribución Múltiple",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 20 de daño de HP fijo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Justo en el Plexo Solar",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Escriban Sus Pecados!",
+                    "desc": "[DefeatDuel] Gana 1 de Daño Aumentado el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Daño Reducido el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige daño fijo adicional igual al número de aliados del Medio asesinados en esta oleada"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reventa Cráneos",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Listo para Escribir",
+                    "desc": "Si el Escudo de esta unidad es agotado completamente, gana 1 Poder de Ataque Aumentado el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Venganza",
+                    "desc": "[DefeatDuel] Gana 1 de Daño Aumentado el siguiente turno",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Aumenta el Umbral de Aturdimiento en 8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Retribución Múltiple",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 20 de daño de HP fijo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

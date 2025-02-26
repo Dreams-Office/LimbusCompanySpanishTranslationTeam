@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10109_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "¿Reavivarás la inspiración dentro de mí? Si no... entonces no puedo decir que estoy tremendamente interesado."
+        },
+        {
+            "id": "lobby_morning_10109_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "No abras las cortinas; temo que una repentina luz del amanecer pueda perturbar la densidad de este punto en el que he estado dedicando mi atención."
+        },
+        {
+            "id": "lobby_noon_10109_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Oh, cómo desearía que hubiera una comida que pudiera consumirse en cinco segundos. Perder tanto tiempo que podría haber utilizado para crear... en algo tan trivial pero vital en la bisección exacta de un día completo... Qué lamentable."
+        },
+        {
+            "id": "lobby_night_10109_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "El sueño sólo me reclamará cuando llame con la muerte como compañera. Entiende que el cese de la vida es, a su vez, una eliminación completa de cualquier potencial de creación. Por tanto, cada momento de vigilia debe dedicarse plenamente a la creación de arte."
+        },
+        {
+            "id": "smalltalk_10109_1",
+            "desc": "Charla #1",
+            "dlg": "Aunque no soy más que un aprendiz con un solo anillo, hay muchas cosas que requieren de mi atención.\nLas tareas del Maestro por completar, las monótonas \"obras de arte\" de los civiles por evaluar..."
+        },
+        {
+            "id": "smalltalk_10109_2",
+            "desc": "Charla #2",
+            "dlg": "¿Algún descontento, preguntas...? Mm, me parece lamentable que mi libertad para manejar el pincel no se extienda a criticar el mérito artístico de las obras creadas por Docentes. A menudo me veo obligado a elogiar sus piezas, cuando tal sentimiento no se puede encontrar en mi corazón.\nEsto no es más que un descontento muy, muy minúsculo."
+        },
+        {
+            "id": "smalltalk_10109_3",
+            "desc": "Charla #3",
+            "dlg": "El pasado merece muy poca atención. El arte y la percepción que lo rodea deben permanecer siempre en un estado constante de mejora transformadora; caprichoso como el mercurio, por así decirlo.\nOh, hm... De hecho, reinterpretar trabajos pasados para recrearlos podría ser interesante."
+        },
+        {
+            "id": "smalltalk_10109_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "F. Hm... otra F. ...¡Ah! B+ para ti, mi amigo; tu trabajo es como un loto solitario, floreciendo su belleza incipiente en un pozo de barro de mediocridad."
+        },
+        {
+            "id": "smalltalk_10109_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Encuentro todo tu proceso artístico, desde la conceptualización hasta la producción, bastante satisfactorio. Por favor, sorpréndeme más con otra de tus creaciones. Haré todo lo posible para complementar tu trabajo, en caso de que sea necesario retocar algo."
+        },
+        {
+            "id": "neglect_10109_1",
+            "desc": "Inactivo",
+            "dlg": "Hm. No te molestaré mientras meditas sobre tu próximo proyecto. Entiendo muy bien la importancia de esas horas."
+        },
+        {
+            "id": "gacksung_10109_1",
+            "desc": "Aunando",
+            "dlg": "Ajá, ¿deseabas verme evaluarlos? Ven aquí; permíteme guiarte hacia aquellos que valen la pena ver."
+        },
+        {
+            "id": "formation_10109_1",
+            "desc": "Desplegar",
+            "dlg": "¿Supongo que los materiales están listos?"
+        },
+        {
+            "id": "battleentry_10109_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Vaya, esto es bastante emocionante."
+        },
+        {
+            "id": "battle_select_10109_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¿Tienes algo que decir sobre mi trabajo?"
+        },
+        {
+            "id": "battle_endcommand_10109_1",
+            "desc": "Al Atacar",
+            "dlg": "¡Qué crítica tan mordaz!"
+        },
+        {
+            "id": "battle_enemy_break_10109_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Mm, esta pieza está fuera de equilibrio."
+        },
+        {
+            "id": "battle_break_10109_1",
+            "desc": "Aturdido",
+            "dlg": "Kngh..."
+        },
+        {
+            "id": "battle_kill_10109_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Finalmente... está completa."
+        },
+        {
+            "id": "battle_dead_10109_1",
+            "desc": "Muerte",
+            "dlg": "El perecer en el proceso de creación artística... De verdad, no existe... muerte... más ideal..."
+        },
+        {
+            "id": "choice_success_p_10109_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Esa es una calificación aprobatoria."
+        },
+        {
+            "id": "choice_fail_n_10109_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Mm esa... puede que sea una calificación reprobatoria."
+        },
+        {
+            "id": "battle_clear_10109_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Es... pasable. Aunque desearía mucho tener más oportunidades de manejar este pincel..."
+        },
+        {
+            "id": "battle_clear_ex_10109_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Todo un tour de force artístico que hemos producido... Ah, no puedo evitar sentirme abrumado por la anticipación de la crítica del Maestro a esta pieza."
+        },
+        {
+            "id": "battle_defeat_10109_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Qué horror... Los materiales quedaron rotos y no quedó ni un gramo de inspiración. Hacía mucho tiempo que no sentía tanta vergüenza."
+        }
+    ]
+}

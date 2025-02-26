@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10508_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "¿No va a hacer ningún movimiento? Mm, entonces nos veremos forzados a resignar."
+        },
+        {
+            "id": "lobby_morning_10508_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Es mejor empezar las mañanas temprano. Hay mucho qué pensar y mucho por hacer."
+        },
+        {
+            "id": "lobby_noon_10508_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Si su rutina se lo permite, ¿podría usted unirse a mí en una ronda de baduk? Requiero algo de tiempo para organizar mis pensamientos.\nDebo contemplar el donde hallar nuestro nuevo hogar."
+        },
+        {
+            "id": "lobby_night_10508_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Siempre manténgase alerta bajo la brillante luz de la luna. Uno debe de mantener sus heridas y cicatrices fuera de vista."
+        },
+        {
+            "id": "smalltalk_10508_1",
+            "desc": "Charla #1",
+            "dlg": "No dude al blandir una espada, el dudar es señal de inexperiencia. Entrene más por su cuenta, hasta alcanzar la perfección."
+        },
+        {
+            "id": "smalltalk_10508_2",
+            "desc": "Charla #2",
+            "dlg": "Uno puede aprender las estrategias del oponente jugando una partida de baduk con ellos. \nConforme más progresa el juego, mientras más movimientos haga el oponente, más fácil se vuelve leerlo."
+        },
+        {
+            "id": "smalltalk_10508_3",
+            "desc": "Charla #3",
+            "dlg": "Espero la pronta llegada de una tempestad. Se me asignó el rol de protector, por lo que cumpliré mi deber hasta el final.\n...Aún así presiento que mis camaradas, la persona que debo proteger y yo vamos a perder nuestro lugar en S Corp."
+        },
+        {
+            "id": "smalltalk_10508_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "Cuando alguien me dijo que yo viviría una vida vagante, me burlé de la idea... Supongo que en verdad viviré la vida de un errante ahora."
+        },
+        {
+            "id": "smalltalk_10508_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "Desgarra la carne y corta los huesos. En otras palabras, uno debe mantener la concentración hasta que la espada corte a través del hueso. Daré una demostración, así usted aprenderá."
+        },
+        {
+            "id": "neglect_10508_1",
+            "desc": "Inactivo",
+            "dlg": "... Mm. Empezaré la cuenta regresiva."
+        },
+        {
+            "id": "gacksung_10508_1",
+            "desc": "Aunando",
+            "dlg": "No importa cuántos asesinos envíen, para mí no son nada más que una sola ficha en un juego de baduk.\nMi jugada todavía ha de florecer... ¿continuará jugando aún así?"
+        },
+        {
+            "id": "formation_10508_1",
+            "desc": "Desplegar",
+            "dlg": "He colocado mi ficha en un punto flor."
+        },
+        {
+            "id": "battleentry_10508_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Mi turno."
+        },
+        {
+            "id": "battle_select_10508_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Interrumpir una partida es tabú."
+        },
+        {
+            "id": "battle_endcommand_10508_1",
+            "desc": "Al Atacar",
+            "dlg": "Si va a cortar... asegúrese que sea decisivo."
+        },
+        {
+            "id": "battle_enemy_break_10508_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Cede la carne."
+        },
+        {
+            "id": "battle_break_10508_1",
+            "desc": "Aturdido",
+            "dlg": "Tomé una... mala jugada."
+        },
+        {
+            "id": "battle_kill_10508_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Para reclamar sus huesos."
+        },
+        {
+            "id": "battle_dead_10508_1",
+            "desc": "Muerte",
+            "dlg": "Ah... ¿cómo se supone que mire a los ojos... a mis compañeros...?"
+        },
+        {
+            "id": "choice_success_p_10508_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Excelente jugada."
+        },
+        {
+            "id": "choice_fail_n_10508_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Una jugada imprudente."
+        },
+        {
+            "id": "battle_clear_10508_1",
+            "desc": "Grito de Victoria",
+            "dlg": "El final de este encuentro fue reñido pero satisfactorio. Ahora hemos de buscar libremente el camino a nuestra supervivencia."
+        },
+        {
+            "id": "battle_clear_ex_10508_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Mi estratagema funcionó, el flujo de esta batalla estuvo a nuestro favor. Mantengamos este impulso hasta que encontramos un nuevo hogar."
+        },
+        {
+            "id": "battle_defeat_10508_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "Realicé una jugada errónea. Por lo que hoy cedo mi carne a una cicatriz más."
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1030,
+      "panicName": "Brida de la Nihilidad",
+      "lowMoraleDescription": "Inicio de Turno: Gana 1 [Enhancement] y 3 [DefenseDown]. Recibe 5 de daño de PC al Fin del Turno.",
+      "panicDescription": "Inicio de Turno: Gana 2 [Enhancement] y 6 [DefenseDown]. Cura 10 PC al Fin del Turno."
+    },
+    {
+      "id": 9996,
+      "panicName": "Espinas",
+      "lowMoraleDescription": "Tras un choque ganado, gana 1 [AttackDmgUp]",
+      "panicDescription": "Tras un choque ganado, gana 1 [AttackDmgUp]. Al Fin del Turno, gana 2 [ParryingResultUp] el siguiente turno."
+    }
+  ]
+}

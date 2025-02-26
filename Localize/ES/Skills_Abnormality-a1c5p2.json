@@ -1,0 +1,217 @@
+{
+    "dataList": [
+        {
+            "id": 809901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Golpeando",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Daño Contundente +3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Daño Contundente +3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pateando",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Daño Contundente +5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Daño Contundente +5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Venganza",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] El objetivo pierde 5 de PC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dominar",
+                    "desc": "[StartBattle] Aplica 1 Poder de Ataque Aumentado a todos los aliados\n[StartBattle] Inflige 2 Poder de Ataque Reducido a 2 enemigos con los menores PC",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Haz que sea Memorable",
+                    "desc": "[StartBattle] Gana 2 Prueba del Hermano Mayor. Gana 5 de [Binding] el siguiente turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Vigila Tu Espalda!",
+                    "desc": "Si el objetivo tiene menos de 0 PC, Poder de Moneda +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 10 de PC en sí mismo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] y 2 Poder de Ataque Reducido el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] El objetivo pierde 20 de PC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reúnanse",
+                    "desc": "[StartBattle] Convoca a 2 aliados el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Jurar Venganza",
+                    "desc": "[StartBattle] Gana 2 Prueba del Hermano Mayor. Gana 5 de [Binding] y 5 de Daño Aumentado el siguiente turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡¡¡MIS CUPONES PARA EL CABELLOOOOOOOOOOO!!!",
+                    "desc": "Si el objetivo principal tiene menos de 0 PC, Poder Final +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento en 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+  "dataList": [
+    {
+      "id": 9732,
+      "name": "Cupón de Descuento para Clase Económica",
+      "desc": "Fin del Turno: entre las Identidades con 5 de Velocidad o menor, la que tenga la Velocidad más lenta gana 1 de [Agility] el siguiente turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9732,
+          "simpleDesc": "Gana 1 de Rapidez el siguiente turno"
+        }
+      ]
+    },
+    {
+      "id": 9733,
+      "name": "Helado Enlatado",
+      "desc": "Cuando un aliado pierde HP debido a un efecto de su Habilidad de Ataque, se cura la mitad del HP perdido debido al efecto de la Habilidad al Inicio del siguiente turno. (redondeado hacia abajo)\n\nCuando un aliado se cura HP debido al efecto de una Habilidad E.G.O, cura +12.5% más HP. (redondeado hacia abajo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9733,
+          "simpleDesc": "Cura HP al inicio del siguiente turno"
+        },
+        {
+          "abilityID": 97331,
+          "simpleDesc": "Mejora los efectos de Curación de HP de E.G.O"
+        }
+      ]
+    },
+    {
+      "id": 9734,
+      "name": "Daga Dimensional Tipo E",
+
+      "desc": "Habilidades 1 que ganen Contador de [Charge] ganan Poder de Choque +1 e infligen +5% más de daño.\n\nSi esa Habilidad 1 era de una Sola moneda, gana Poder de Choque +1 e inflige +12.5% más de daño en su lugar.\n\nSi una Identidad de W Corp. inflige daño a un enemigo con una Habilidad de Envidia(incluyendo Habilidades E.G.O), inflige 2 Curación de HP Reducida en su lugar. (no se acumula)",
+      "simpleDesc": [
+        {
+          "abilityID": 9734,
+          "simpleDesc": "Habilidad 1 gana Poder de Choque e inflige más daño"
+        },
+        {
+          "abilityID": 97341,
+          "simpleDesc": "Habilidad 1 gana Poder de Choque e inflige más daño"
+        },
+        {
+          "abilityID": 97342,
+          "simpleDesc": "Inflige 2 Curación de HP Reducida"
+        }
+      ]
+    },
+    {
+      "id": 9735,
+      "name": "Batería de Barrera Portátil",
+      "desc": "Habilidades 1 que ganen Contador de [Charge] ganan Poder de Choque +2.\n\nCuando se usa una Habilidad 1 que gane Contador de [Charge], gana +2 Contador de [Charge] y 1 [ChargeForceField]. (una vez por turno)\n\nSi una Identidad de W Corp. recibe daño de HP debido a cualquier efecto que no sea un daño directo, gana 5 [ChargeForceField]. (una vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9735,
+          "simpleDesc": "Habilidad 1 gana Poder de Choque, Contador de Carga, y Barrera de Carga"
+        },
+        {
+          "abilityID": 97351,
+          "simpleDesc": "Gana Barrera de Carga"
+        }
+      ]
+    },
+    {
+      "id": 9736,
+      "name": "Batería Biogenerativa",
+      "desc": "Aliados con Contador de [Charge] ganan 1 Nivel Ofensivo con cada Choque. (máx 6. Se reinicia Después de Atacar, o cuando el Contador de [Charge] expira completamente)\n\nFin de Turno: Identidades con 10+ de Contador de [Charge] ganan 1 [Agility] el siguiente turno. A 18+ de Contador de [Charge], también ganan 3 [AttackUp.",
+      "simpleDesc": [
+        {
+          "abilityID": 9736,
+          "simpleDesc": "Gana Nivel Ofensivo"
+        },
+        {
+          "abilityID": 97361,
+          "simpleDesc": "Gana Rapidez"
+        },
+        {
+          "abilityID": 97362,
+          "simpleDesc": "Gana Nivel Ofensivo Aumentado"
+        }
+      ]
+    },
+    {
+      "id": 9737,
+      "name": "Módulo Cardiovascular Reactivo",
+      "desc": "Cuando un aliado con Contador de [Charge] pierde un Choque, gana Escudo igual al Contador de [Charge]. (una vez por turno)\n\nCuando está a menos de 50% de HP, gana (Contador de [Charge] x 2) de Escudo en su lugar. (una vez por turno)\n\nSi una Identidad de la Oficina MultiCrack recibió daño de HP durante este Encuentro: el siguiente turno, se cura 33% del HP perdido el último turno. (redondeado hacia abajo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9737,
+          "simpleDesc": "Gana Escudo"
+        },
+        {
+          "abilityID": 97371,
+          "simpleDesc": "Se Cura HP basado en el HP perdido el último turno"
+        }
+      ]
+    },
+    {
+      "id": 9738,
+      "name": "Servomotores de Prótesis Articulares",
+      "desc": "Siguiente Turno: aliados ganan [Agility] y Contador de [Charge] igual al número de Habilidades de Ataque base con obtención de Contador de [Charge] que hayan usado. (máx 2)\n\nCuando una Identidad de la Oficina MultiCrack gana o consume Contador de [Charge] con una Habilidad de Ataque base, gana +1 de Contador de [Charge] adicional. (máx  2)",
+      "simpleDesc": [
+        {
+          "abilityID": 9738,
+          "simpleDesc": "Gana Rapidez y Contador de Carga"
+        },
+        {
+          "abilityID": 97381,
+          "simpleDesc": "Gana más Contador de Carga"
+        }
+      ]
+    },
+    {
+      "id": 9739,
+      "name": "Sangre Cristalizada",
+      "desc": "Fin Del Turno: Si esta unidad tiene [Laceration], reduce la Potencia de [Laceration] en sí a la mitad y cura (Potencia de [Laceration] reducida x Contador de [Laceration] en sí) HP. (redondeado hacia abajo. Puede curar hasta 10% del HP Máx a la vez)",
+      "simpleDesc": [
+        {
+          "abilityID": 9739,
+          "simpleDesc": "Reduce la Potencia de Sangrado en sí a la mitad, cura HP"
+        }
+      ]
+    },
+    {
+      "id": 9740,
+      "name": "Articulaciones Automatizadas",
+      "desc": "Inicio del Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque ganan Contador de [Charge] o efectos de 'Carga Única'. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nHabilidades de Ataque Base que consuman Contador de [Charge]: gana Poder de Moneda +1 e inflige +(Contador de [Charge] consumida por esa Habilidad x 4)% más de daño (máx 40%)\n\nFin de Turno: aliados con Contador de [Charge] ganan 1 [Agility] (máx 2) y 1 [AttackDmgUp] (máx 3) por cada vez que hayan usando una Habilidad de Ataque base que consuma Contador de [Charge] en este Encuentro.\n\nSi una Identidad de la Oficina MultiCrack tiene 5+ [Charge], gana Poder de Moneda +1 para las Habilidades de Ataque Base.",
+      "simpleDesc": [
+        {
+          "abilityID": 9740,
+          "simpleDesc": "Gana Poder de Moneda e inflige más daño"
+        },
+        {
+          "abilityID": 97401,
+          "simpleDesc": "Gana Rapidez y Daño Aumentado el Siguiente Turno"
+        },
+        {
+          "abilityID": 97402,
+          "simpleDesc": "Gana Poder de Moneda"
+        }
+      ]
+    },
+    {
+      "id": 9741,
+      "name": "Batería Sobrecargada",
+      "desc": "Inicio del Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque ganan Contador de [Charge]. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nHabilidades de Ataque Base que consuman Contador de [Charge]:gana Poder de Moneda +1 e inflige +(Contador de [Charge] consumida por esa Habilidad x 4)% más de daño (máx 40%)\n\nCuando los aliados con Contador de [Charge] entran en un Choque con Habilidades de Ataque Base: Poder de Choque +2; gana +3 de Contador de [Charge] al Ganar el Choque, y pierde Contador de [Charge] al Perder el Choque.\n\nCuando se gana un Choque con una Habilidad de Ataque base con Afinidad de Envidia, inflige 1 [VioletTakeDamageUp]. (se acumula 3 veces)",
+      "simpleDesc": [
+        {
+          "abilityID": 9741,
+          "simpleDesc": "Gana Poder de Moneda e inflige más daño"
+        },
+        {
+          "abilityID": 97411,
+          "simpleDesc": "Gana Poder de Choque; gana Contador de Carga al Ganar un Choque, pierde Contador de Carga al Perder el Choque"
+        },
+        {
+          "abilityID": 97412,
+          "simpleDesc": "Inflige Fragilidad a la Envidia"
+        }
+      ]
+    },
+    {
+      "id": 9742,
+      "name": "Servomotores del Generador Perpetuo",
+      "desc": "Inicio del Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque ganan Contador de [Charge] o efectos de 'Carga Única'. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nHabilidades de Ataque Base que consuman Contador de [Charge]:gana Poder de Moneda +1 e inflige +(Contador de [Charge] consumida por esa Habilidad x 4)% más de daño (máx 40%)\n\nCuando los aliados con Contador de [Charge] entran en un Choque con Habilidades de Ataque Base: Poder de Choque +1; gana 2 [AttackUp] al Inicio del Turno por cada vez que se Gane un Choque durante este Encuentro. (máx 6)\n\nEn este Encuentro, cuando un aliado recibe daño que podría matarlo, consume todo el Contador de [Charge] en sí; luego, cura (10 + Contador de [Charge] consumida)% HP inmediatamente (una vez por Encuentro); luego, gana 3 [Protection] hasta que el aliado sea derrotado.",
+      "simpleDesc": [
+        {
+          "abilityID": 9742,
+          "simpleDesc": "Gana Poder de Moneda e inflige más daño"
+        },
+        {
+          "abilityID": 97421,
+          "simpleDesc": "Gana Poder de Choque y [AttackUp]"
+        },
+        {
+          "abilityID": 97422,
+          "simpleDesc": "Inmediatamente antes de morir, consume Contador de [Charge] para curar y ganar Protección instantáneamente"
+        }
+      ]
+    },
+    {
+      "id": 9743,
+      "name": "Corazón Cristalizado",
+      "desc": "Inicio del Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque ganan Contador de [Charge] o efectos de 'Carga Única'. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nHabilidades de Ataque Base que consuman Contador de [Charge]: gana Poder de Moneda +1 e inflige +(Contador de [Charge] consumida por esa Habilidad x 4)% más de daño (máx 40%)\n\nAliados con +15 Contador de [Charge]: cuando usan una Habilidad 3 que consuma [Charge], y si que aún queda Contador de [Charge] Despues del Ataque, consume todo el Contador de [Charge] restante e inflige (Contador de [Charge] consumida x 7.5)% como daño fijo adicional. (máx 75%)\n\nContador de [Charge] Máximo +5.",
+      "simpleDesc": [
+        {
+          "abilityID": 9743,
+          "simpleDesc": "Gana Poder de Moneda e inflige más daño"
+        },
+        {
+          "abilityID": 97431,
+          "simpleDesc": "Gasta Contador de Carga adicional para infligir daño extra"
+        },
+        {
+          "abilityID": 97432,
+          "simpleDesc": "Contador de Carga Máximo +5"
+        }
+      ]
+    }
+  ]
+}

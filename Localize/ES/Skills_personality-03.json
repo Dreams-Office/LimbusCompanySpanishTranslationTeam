@@ -1,0 +1,2407 @@
+{
+  "dataList": [
+    {
+      "id": 1030101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Justar",
+          "desc": "[WinDuel] Gana 1 [Agility] el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Justar",
+          "desc": "[WinDuel] Gana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arremetida Galopante",
+          "desc": "[WinDuel] Gana 1 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Arremetida Galopante",
+          "desc": "[WinDuel] Gana 2 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Arremetida Galopante",
+          "desc": "[WinDuel] Gana 2 Poder de Ataque Aumentado el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "¡Por La Justicia!",
+          "desc": "Con 10+ Velocidad, Poder de Moneda +2",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "¡Por La Justicia!",
+          "desc": "Con 10+ Velocidad, Poder de Moneda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tomar Aliento",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [Breath] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tomar Aliento",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tomar Aliento",
+          "desc": "[WhenUse] Gana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Golpe Doble",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Golpe Doble",
+          "desc": "[WhenUse] Con menos de 50% de HP, gana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Golpe Doble",
+          "desc": "[WhenUse] Con menos de 50% de HP, gana 4 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Hiperventilación",
+          "desc": "Con 10+ Velocidad, Poder de Habilidad +3",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hiperventilación",
+          "desc": "Con 10+ Velocidad, Poder de Habilidad +5",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desgarro",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Desgarro",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Desgarro",
+          "desc": "Con 5+ Contador de [Charge], Poder de Moneda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +4 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brinco",
+          "desc": "",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Frágil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Brinco",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +4 Contador de [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +4 Contador de [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Frágil"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Brinco",
+          "desc": "Con 7+ Contador de [Charge], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +4 Contador de [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +4 Contador de [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Frágil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Desgarro Espacial",
+          "desc": "[WhenUse] Gasta 10 Contador de [Charge] para Ganar +4 Poder de Moneda\nCon menos de 10 Contador de [Charge], pierde 20% de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 5 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Purga Justificada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Purga Justificada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Purga Justificada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Promulgación!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "¡Promulgación!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "+20% de Daño a objetivos con 5+ Clavos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "¡Promulgación!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "+30% de Daño a objetivos con 5+ Clavos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Juicio Fanático",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Clavos"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene 5+ Clavos, Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene 5+ Clavos, Inflige 2 Parálisis el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Juicio Fanático",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 Clavos"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 Clavos"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene 5+ Clavos, Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Si el objetivo tiene 5+ Clavos, Inflige 2 Parálisis el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Remise",
+          "desc": "Con 7+ Velocidad, Poder de Moneda +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttackHead] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Remise",
+          "desc": "Con 7+ Velocidad, Poder de Moneda +1\n[WinDuel] Gana 1 [Agility] el siguiente turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttackHead] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Remise",
+          "desc": "Con 7+ Velocidad, Poder de Moneda +2\n[WinDuel] Gana 1 [Agility] el siguiente turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flèche",
+          "desc": "[WhenUse] Gana 1 [Agility] el siguiente turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Flèche",
+          "desc": "[WhenUse] Gana 2 [Agility] el siguiente turno",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Flèche",
+          "desc": "[WhenUse] Gana 2 [Agility] el siguiente turno\n[WinDuel] Inflige más daño basado en el contador de Choque (+5% por Contador de Choque, Máx 50%)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "¡Salut!",
+          "desc": "Con 10+ Velocidad, Poder de Moneda +2\n[WinDuel] Inflige más daño basado en el contador de Choque (+5% por Contador de Choque, Máx 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige [DuelDeclaration_DonQuixote]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "¡Salut!",
+          "desc": "Con 10+ Velocidad, Poder de Moneda +3\n[WinDuel] Inflige más daño basado en el contador de Choque (+10% por Contador de Choque, Máx 100%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige [DuelDeclaration_DonQuixote]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Cura 15 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Défensive",
+          "desc": "[OnSucceedEvade] El objetivo pierde 3 PC",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Défensive",
+          "desc": "[OnSucceedEvade] El objetivo pierde 3 PC",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Revisando el Libro",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Revisando el Libro",
+          "desc": "[WhenUse] Cura 5 PC a sí misma",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Revisando el Libro",
+          "desc": "[WhenUse] Cura 5 PC a sí misma",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prueba de Lealtad",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson.-A más alta/3) (Máx 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Daño Reducido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Prueba de Lealtad",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson.-A más alta/3) (Máx 4)\nSi la Reson.-A más alta es una Reson.-A de Envidia, Aumenta en un 50% el 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Daño Reducido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prueba de Lealtad",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson.-A más alta/2) (Máx 6)\nSi la Reson.-A más alta es una Reson.-A de Envidia, Aumenta en un 50% el 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)\nGana el doble del 'Nivel Ofensivo' obtenido de los efectos anteriores en Encuentros Centrados con un Límite de 7 o menos de Participantes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Daño Reducido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Una Venganza Justa",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson.-A más alta/3) (Máx 4)\nSi la Reson.-A más alta es una Reson.-A de Envidia, Gana 50% de 'Nivel Ofensivo' adicional al 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con los menores PC se cura 6 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Una Venganza Justa",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson.-A más alta/2) (Máx 6)\nSi la Reson.-A más alta es una Reson.-A de Envidia, Aumenta en un 50% el 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)\nGana el doble del 'Nivel Ofensivo' obtenido de los efectos anteriores en Encuentros Centrados con un Límite de 7 o menos de Participantes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con los menores PC se cura 6 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Retribución Múltiple",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario por 3"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario por 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Retribución Múltiple",
+          "desc": "[StartBattle] Al tener 6+ Reson.-A de Envidia incluyendo esta Habilidad, usa 'Una Justa Venganza' como Contraataque.\nAl provocar el efecto anterior, la afinidad de la Habilidad es cambiada a Envidia.\n(La 'Retribución Múltiple' más a la izquierda es provocada primero. Se provoca 2 veces por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario por 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Disminuye el Umbral de Aturdimiento del usuario por 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030605,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Una Venganza Justa",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson.-A más alta/3) (Máx 4)\nSi la Reson.-A más alta es una Reson.-A de Envidia, Gana 50% de 'Nivel Ofensivo' adicional al 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con los menores PC se cura 6 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Una Venganza Justa",
+          "desc": "[StartBattle] Esta Habilidad gana 1 'Nivel Ofensivo' por (Reson.-A más alta/2) (Máx 6)\nSi la Reson.-A más alta es una Reson.-A de Envidia, Gana 50% de 'Nivel Ofensivo' adicional al 'Nivel Ofensivo' obtenido por los efectos anteriores (redondeado hacia abajo)\nGana el doble del 'Nivel Ofensivo' obtenido de los efectos anteriores en Encuentros Centrados con un Límite de 6 o menos de Participantes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, 1 aliado con los menores PC se cura 6 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡He de Mordisquearte!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +2 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "¡He de Mordisquearte!",
+          "desc": "[WhenUse] Gana +1 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "¡He de Mordisquearte!",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Destello Cautivante",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Destello Cautivante",
+          "desc": "[WhenUse] Gana +2 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 2- Contador de [Burst], Inflige +2 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Destello Cautivante",
+          "desc": "[WhenUse] Gana +4 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 2- Contador de [Burst], Inflige +3 Contador de [Burst] "
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "¡Ciclón Am-Ñam-Ñam!",
+          "desc": "[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Burst]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura 10 de HP."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura HP adicional basado en la [Burst] del objetivo (1 de HP por cada 1 de [Burst]. Máx 20)"
+                },
+                {
+                  "desc": "Con 50%- de HP, Reutiliza esta Moneda una vez"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "¡Ciclón Am-Ñam-Ñam!",
+          "desc": "[WhenUse] Gana +5 [Aggro] en esta Ranura de Habilidad el siguiente turno\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Burst]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura 15 de HP. Cura +50% de HP al reutilizar Moneda."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura HP adicional basado en la [Burst] del objetivo (2 de HP por cada 1 de [Burst]. Máx 40)"
+                },
+                {
+                  "desc": "Con 50%- de HP, Reutiliza esta Moneda una vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dientes Dentellantes",
+          "desc": "[EndBattle] Cura HP igual a HP restante del Escudo (Una vez por turno. Curación Máx: 10% de HP)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dientes Dentellantes",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder Final +3\n[EndBattle] Cura HP igual a HP restante del Escudo (Una vez por turno. Curación Máx: 10% de HP)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desenvainar la Espada",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Desenvainar la Espada",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Desenvainar la Espada",
+          "desc": "<style=\"highlight\">Con 5+ de [Breath] en sí, Poder de Moneda +1\n</style>[WhenUse] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hoja Pendular",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de [Breath] a un aliado sin [Breath] o con la menor Potencia de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Hoja Pendular",
+          "desc": "[WhenUse] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de [Breath] a un aliado sin [Breath] o con la menor Potencia de [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hoja Pendular",
+          "desc": "<style=\"highlight\">Con 7+ de [Breath] en sí, Poder de Moneda +1\n</style>[WhenUse] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aplica 2 de [Breath] a un aliado sin [Breath] o con la menor Potencia de [Breath]\n<style=\"highlight\">Si el aliado afectado es del Linaje de la Espada, Aplica 2 de [Breath] adicional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "¡Que Os Vaya Bien!",
+          "desc": "[WhenUse] Gana 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de Daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de Daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aplica +2 Contador de [Breath] a 2 aliados sin [Breath] o con el menor Contador de [Breath]"
+                },
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, gana 1 de [SlashDamageUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "¡Que Os Vaya Bien!",
+          "desc": "<style=\"highlight\">Con 10+ de [Breath] en sí, Poder de Moneda +1\n</style>[WhenUse] Gana 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de Daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La última Moneda inflige +10% de Daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% de Daño en Golpe Crítico"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aplica +2 Contador de [Breath] a 2 aliados sin [Breath] o con el menor Contador de [Breath].\n<style=\"highlight\">Si el aliado afectado es del Linaje de la Espada, Aplica +2 Contador de [Breath] adicional</style>"
+                },
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, <style=\"highlight\">aplica 1 de [SlashDamageUp] a sí misma y a otro aliado aleatorio el siguiente turno</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Evadir",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Preparémonos Para Recaudar",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Preparémonos Para Recaudar",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\n<style=\"highlight\">[WhenUse] [WhenUse] Si el objetivo tiene 6+ de [Vibration], Poder de Choque +1\n[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Preparémonos Para Recaudar",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\n<style=\"highlight\">[WhenUse] Gana Poder de Choque +1 por cada 6 [Vibration] en el objetivo (máx 2)</style>\n[WhenUse] Gana +3 [Aggro] en esta Ranura de Habilidad el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gana +4 [Aggro] en esta Ranura de Habilidad el siguiente turno</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">2</style> de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Amputador Acelerado de T Corp.",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta hasta 3 de [Vibration] en el objetivo, y gana la misma cantidad de Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Amputador Acelerado de T Corp.",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Vibration], Poder de Choque +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta hasta 3 de [Vibration] en el objetivo, y gana la misma cantidad de Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Si los efectos de Moneda de esta Habilidad gastaron [Vibration] en el objetivo, provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Amputador Acelerado de T Corp.",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]\n[WhenUse] <style=\"highlight\">Poder de Choque +1 por cada 6 de [Vibration] en el objetivo (máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta hasta 3 de [Vibration] en el objetivo, y gana <style=\"highlight\">el doble de la cantidad gastada</style> como Contador de [Vibration]\n<style=\"highlight\">Inflige ([Vibration] gastada - 1) [Binding] el siguiente turno</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si los efectos de Moneda de esta Habilidad gastaron [Vibration] en el objetivo, provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "¡Os Ordeno, Parad!",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Vibration], Poder de Choque +1\n[WhenUse] Gasta 10 Contador de [Vibration] en sí para ganar Poder de Moneda +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Vibration], gasta 10 de [Vibration] en el objetivo e inflige 2 [TimeSuspend]\n- Si esta unidad está en un estado de [TimeRentalTwoPersonality], este efecto no gasta [Vibration] del objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor que la de esta unidad, provoca [Switch_Vibration] en [VibrationChainPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "¡Os Ordeno, Parad!",
+          "desc": "[WhenUse] <style=\"highlight\">Poder de Choque +1 por cada 6 de [Vibration] en el objetivo (max 2)</style>\n<style=\"highlight\">[WhenUse] Si el objetivo tiene [Binding], gana Poder de Choque +1</style>\n[WhenUse] Gasta 10 Contador de [Vibration] en sí para ganar Poder de Moneda +2",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 3 de [Vibration]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Vibration], gasta 10 de [Vibration] en el objetivo e inflige 2 [TimeSuspend]\n- Si esta unidad está en un estado de [TimeRentalTwoPersonality], este efecto no gasta [Vibration] del objetivo<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad del objetivo es menor que la de esta unidad, provoca [Switch_Vibration] en [VibrationChainPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1030904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Morded el Polvo en Vuestro Tiempo",
+          "desc": "[StartBattle] Si esta unidad no está en un estado de [TimeRentalTwoPersonality], gana 4 [TimeRentalTwoPersonality] al Final del Turno (una vez por turno)\n[WhenUse] Por este turno: tras ser golpeada por un enemigo, inflige 2 de [Vibration] en el objetivo el siguiente turno (2 veces por turno)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Morded el Polvo en Vuestro Tiempo",
+          "desc": "[StartBattle] Si esta unidad no está en un estado de [TimeRentalTwoPersonality], gana 4 [TimeRentalTwoPersonality] al Final del Turno (una vez por turno)\n[WhenUse] Por este turno: tras ser golpeada por un enemigo, inflige <style=\"highlight\">3</style> de [Vibration] en el objetivo el siguiente turno (<style=\"highlight\">6 veces</style> por turno)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Fue Suficiente",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 5 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Ya Fue Suficiente",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 5 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ya Fue Suficiente",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 5 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Que Todos Florezcan Libremente",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 10 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n[BeforeAttack] Con 10+ [BloodArmorPersonalityFirst], Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +2.5% de daño por cada [Laceration] en el objetivo (máx 25%)"
+                },
+                {
+                  "desc": "Inflige +5% de daño por cada 100 [BloodDinner_Accumulation] en sí (máx 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Que Todos Florezcan Libremente",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 10 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>\n[BeforeAttack] <style=\"highlight\">Alcance de Atq +1 por cada 10 [BloodArmorPersonalityFirst] en sí (máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +2.5% de daño por cada [Laceration] en el objetivo (máx 25%)"
+                },
+                {
+                  "desc": "Inflige +<style=\"highlight\">10</style>% de daño por cada 100 [BloodDinner_Accumulation] en sí (máx <style=\"highlight\">50</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Que Todos Florezcan Libremente",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 10 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n[WhenUse] Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>\n[BeforeAttack] Alcance de Atq +1 por cada 10 [BloodArmorPersonalityFirst] en sí (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +2.5% de daño por cada [Laceration] en el objetivo (máx 25%)"
+                },
+                {
+                  "desc": "Inflige +<style=\"highlight\">15</style>% de daño por cada 100 [BloodDinner_Accumulation] en sí (máx <style=\"highlight\">75</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "He De Empalar",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 10)\n[WhenUse] Clash Power +1 por cada 10 [BloodArmorPersonalityFirst] (máx 2)\n[WhenUse] Si el objetivo tiene 10+ de [Laceration], Poder de Moneda +1\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 10 [BloodDinner] consumed\n- Si esta unidad falló en consumir [BloodDinner], gana 10 de [Laceration]\n[WhenUse] Inflige +5% de daño por cada [Laceration] en el objetivo (máx 50%)\n[WhenUse] Inflige +10% de daño por cada 100 [BloodDinner_Accumulation] en sí (máx 50%)\n[EndSkill] Si el objetivo es derrotado, aumenta [BloodDinner] por 30; gana 10 [BloodArmorPersonalityFirst] (una vez por turno)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "He De Empalar",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 10)\n[WhenUse] Clash Power +1 por cada 10 [BloodArmorPersonalityFirst] (máx 2)\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 5 [Laceration] en el objetivo (máx 2)</style>\n[WhenUse] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 10 [BloodDinner] consumed\n- Si esta unidad falló en consumir [BloodDinner], gana 10 [Laceration]\n[WhenUse] Inflige +5% de daño por cada [Laceration] en el objetivo (máx 50%)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de daño por cada 100 [BloodDinner_Accumulation] en sí (máx <style=\"highlight\">100</style>%)\n[EndSkill] Si el objetivo es derrotado, aumenta [BloodDinner]aumenta<style=\"highlight\">60</style>; gana 10 [BloodArmorPersonalityFirst] (una vez por turno)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Las Risas Se Desvanecerán",
+          "desc": "[DuelCounter]\n[StartBattle] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 10 [BloodDinner]\n- Si esta unidad falló en consumir [BloodDinner], gana 10 de [Laceration]\n[StartBattle] A 1 aliado con el menor HP: aplica 1 [SwirlingBloodPersonality] por cada 50 [BloodDinner_Common_Accumulation] (máx 10, una vez por turno)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Las Risas Se Desvanecerán",
+          "desc": "[DuelCounter]\n[StartBattle] Consume hasta 50 [BloodDinner] y gana 1 [BloodArmorPersonalityFirst] por cada 10 [BloodDinner]\n- Si esta unidad falló en consumir [BloodDinner], gana 10 de [Laceration]\n[StartBattle] A 1 aliado con el menor HP: aplica 1 [SwirlingBloodPersonality] por cada 50 [BloodDinner_Common_Accumulation] (máx <style=\"highlight\">15</style>, una vez por turno)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 9 - Látigo",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 20)\n[WhenUse] Gana 20 de [Laceration]\n[WhenUse] Inflige +1 de [Laceration] Tras Golpear por cada 10 [BloodArmorPersonalityFirst]. (máx 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 9 - Látigo",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 20)\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>\n[WhenUse] Gana 20 [Laceration]\n[WhenUse] Inflige +1 more [Laceration] Tras Golpear por cada 10 [BloodArmorPersonalityFirst]. (máx 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 9 - Látigo",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 20)\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>\n[WhenUse] Gana 20 [Laceration]\n[WhenUse] Inflige +1 more [Laceration] Tras Golpear por cada 10 [BloodArmorPersonalityFirst]. (máx 2) After Attack, consume 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Desangra al objetivo por su [Laceration] una vez (objetivo pierde 1 Contador de [Laceration])</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 8 - Dividir",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1\n[BeforeAttack] Con 10+ [BloodArmorPersonalityFirst], Alcance de Atq +1\n[EndSkill] Si esta unidad tiene Alcande de Atq aumentado, gasta 10 [BloodArmorPersonalityFirst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +2.5% de daño por cada [Laceration] en el objetivo (máx 25%)"
+                },
+                {
+                  "desc": "Inflige +5% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx 25%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 8 - Dividir",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>\n[BeforeAttack] <style=\"highlight\">Gana Alcance de Atq +1 por cada 10 [BloodArmorPersonalityFirst] (máx 2)</style>\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] por cada Alcance de Atq ganado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +2.5% de daño por cada [Laceration] en el objetivo (máx 25%)"
+                },
+                {
+                  "desc": "Inflige +<style=\"highlight\">10</style>% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx <style=\"highlight\">50</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 8 - Dividir",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño infligido (máx 10)\n[WhenUse] Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)\n[BeforeAttack] Gana Alcance de Atq +1 por cada 10 [BloodArmorPersonalityFirst] (máx 2)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] por cada Alcance de Atq ganado<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +2.5% de daño por cada [Laceration] en el objetivo (máx 25%)"
+                },
+                {
+                  "desc": "Inflige +<style=\"highlight\">15</style>% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx <style=\"highlight\">75</style>%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031007,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Artes Ascendentes de Sangre Cristalizada Sancho - La Sangre",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 20)\n[WhenUse] Poder Base +1 por cada 10 [BloodArmorPersonalityFirst] en sí (máx 2)\n[WhenUse] Si el objetivo tiene 10+ de [Laceration], Poder de Moneda +1\n[WhenUse] Inflige +5% de daño por cada [Laceration] en el objetivo (máx 50%)\n[WhenUse] Inflige +20% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx 100%)\n[EndSkill] Gasta 10 [BloodArmorPersonalityFirst] por cada 10 [BloodArmorPersonalityFirst]\n[EndSkill] Si el objetivo es derrotado, aumenta [BloodDinner] por 50. Recupera la mitad de la [BloodArmorPersonalityFirst] consumida por esta Habilidad (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] y +4 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, inflige 5 de [Laceration] y +1 Contador de [Laceration] a todos los enemigos"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Artes Ascendentes de Sangre Cristalizada Sancho - La Sangre",
+          "desc": "Tras Golpear con esta Habilidad: cura 50% del daño de HP infligido (máx 20)\n[WhenUse] Poder Base +1 por cada 10 [BloodArmorPersonalityFirst] en sí (máx <style=\"highlight\">3</style>)\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 5 de [Laceration] en el objetivo (máx 2)</style>\n[WhenUse] Inflige +5% de daño por cada [Laceration] en el objetivo (máx 50%)\n[WhenUse] Inflige +20% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx 100%)\n[EndSkill] Consume 10 [BloodArmorPersonalityFirst] por cada 10 [BloodArmorPersonalityFirst]\n[EndSkill] Si el objetivo es derrotado, aumenta [BloodDinner] por <style=\"highlight\">100</style>. Recupera la mitad de la [BloodArmorPersonalityFirst] consumida por esta Habilidad (una vez por turno)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">8</style> de [Laceration] y +4 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[EndSkill] Si el objetivo es derrotado, inflige 5 de [Laceration] y +1 Contador de [Laceration] a todos los enemigos"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1031008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 15 - Preparación Para El Finale",
+          "desc": "[DuelCounter]\n[StartBattle] A (3 + (Reson. más alta / 2)) aliados con el menor HP: aplica (1 + ([BloodArmorPersonalityFirst] / 15)) [SwirlingBloodPersonality] por cada 40 [BloodDinner_Common_Accumulation], después gasta la mitad de la [BloodArmorPersonalityFirst] en sí. (una vez por aliado; redondeado hacia abajo)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Artes de Sangre Cristalizada Variante Sancho 15 - Preparación Para El Finale",
+          "desc": "[DuelCounter]\n[StartBattle] A (3 + (Reson. más alta / 2)) aliados con el menor HP: aplica (1 + ([BloodArmorPersonalityFirst] / <style=\"highlight\">10</style>)) [SwirlingBloodPersonality] por cada 40 [BloodDinner_Common_Accumulation], después gasta la mitad de la [BloodArmorPersonalityFirst] en sí. (una vez por aliado; redondeado hacia abajo)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": "RedEyeFirst",
+      "name": "Red Eyes",
+      "desc": "- Base Skill Coin effects inflict +1 more Bleed\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Resource used by certain Skills for additional effects\n- Enhances the buff based on Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The amount of additional bleed inflicted by the first line of this buff is equal to the buff enhancement Stage (max 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeSecond",
+      "name": "Red Eyes - Alert",
+      "desc": "- Base Skill Coin effects inflict +2 more Bleed\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Resource used by certain Skills for additional effects\n- Enhances the buff based on Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The amount of additional bleed inflicted by the first line of this buff is equal to the buff enhancement Stage (max 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeThird",
+      "name": "Red Eyes - Devouring",
+      "desc": "- Base Skill Coin effects inflict +3 more Bleed\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Resource used by certain Skills for additional effects\n- Enhances the buff based on Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The amount of additional bleed inflicted by the first line of this buff is equal to the buff enhancement Stage (max 3)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceFirst",
+      "name": "Penitence",
+      "desc": "- Heal 2 SP On Hit with Base Skill Coins that gain Penitence\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Turn Start: gain (Penitence)% of max HP as Shield\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The amount of SP healed by the first line of this buff is based on the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceSecond",
+      "name": "Penitence - Periphery",
+      "desc": "- Heal 4 SP On Hit with Base Skill Coins that gain Penitence\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Turn Start: gain (Penitence)% of max HP as Shield\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The amount of SP healed by the first line of this buff is based on the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceThird",
+      "name": "Penitence - Confession",
+      "desc": "- Heal 6 SP On Hit with Base Skill Coins that gain Penitence\n- Max Value : 20\n- Unique Charge (fixed Potency)\n- Turn Start: gain (Penitence)% of max HP as Shield\n- Resource used by certain Skills for additional effects\n- Enhances the buff Stage based on Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The amount of SP healed by the first line of this buff is based on the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "Emptiness",
+      "name": "Only Ashes Remain",
+      "desc": "- Cannot maintain Red Eyes & Penitence\n- When gaining Red Eyes with Base Skill effects, heal self and 1 ally with the lowest HP percentage by (Red Eyes gained)% of this unit's max HP (2 times per turn)\n- When gaining Penitence with Base Skill effects, heal self and 1 ally with the least SP by ((Penitence gained)/2) SP (2 times per turn)\n- Turn End: this effect expires",
+      "summary": ""
+    },
+    {
+      "id": "SinkingWhite",
+      "name": "Mariposa",
+      "desc": "- Ahogo Único \n- Valor Base: 0, Valor Máx: 15\n- La potencia y el Contador de este efecto son llamados \"Las que Perduran\" and \"Las que Partieron\" respectivamente.\n- Al ser golpeado, la unidad atacante se cura por (Las que Perduran/4) PC. (min 1; redondeado hacia abajo)\n- Al ser golpeado, si el PC de esta unidad es menor que 0, recibe (Potencia de Ahogo/5) de daño en Melancolía por cada valor de Las que Partieron. (Daño máximo de Melancolía 30; redondeado hacia abajo; realiza la mitad del daño a los objetivos sin PC.)\n- Finalizar Turno: Reinicia el efecto de Las que Partieron a 0; luego, gana Ahogo al igual que el valor de Las que Perduran y convierte Las que Perduran en Las que Partieron.\n- Ningún efecto externo puede aumentar el valor de Mariposa infligido. Efectos que \"Infligen Ahogo adicional\" Infligen Ahogo adicional en vez de Mariposa.\n- Este efecto expira cuando tanto Las que Perduran y Las que Partieron llegan a 0.",
+      "summary": ""
+    },
+    {
+      "id": "SinkingBlack",
+      "name": "!!!OUDATED EFFECT!!!",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletLament",
+      "name": "Las que Perduran & Las que Partieron",
+      "desc": "- Munición Única\n- La suma de Potencia y Contador llega al máximo de 20.\n- Consumido por ciertas Habilidades.\n- Ya sea Las que Perduran(Potencia) o Las que Partieron(Contador) la que será consumida por cada disparo es determinado aleatoriamente\n- Algunos ataques se cancelarán si está unidad se queda sin munición.",
+      "summary": ""
+    },
+    {
+      "id": "TrainTeamCaptain",
+      "name": "Training Team Captain",
+      "desc": "Skill Slot +1\nModify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\nTurn Start: heal 15 SP\nIncrease the amount of Burn, Bleed, Rupture, Sinking, or Tremor inflicted by +1 (including 'Unique Status Effects')\nIncrease the amount of Poise or Charge(including 'Unique Charge') gained by +1\nOn Kill, Gain +2 E.G.O resource to the Affinity of the Skill that defeated the enemy; gain +1 E.G.O resource to rest of the Affinities",
+      "summary": ""
+    },
+    {
+      "id": "VioletUnderstand",
+      "name": "Understanding",
+      "desc": "- Deal +5% more damage per Stack\n- Take +5% more damage per Stack\n(max value : 5)",
+      "summary": ""
+    },
+    {
+      "id": "MentalCrack",
+      "name": "Mental Fracture",
+      "desc": "SP Loss Efficiency +1 per Stack (max 5)\nExpires when it reaches 5 Stack, and take 10 SP damage\nLose 1 Stack per turn",
+      "summary": ""
+    },
+    {
+      "id": "ImpendingCollapse",
+      "name": "Imminent Decay",
+      "desc": "Turn End: Lose 1 Stack\nTurn Start: At 1- Stack, use a special Skill",
+      "summary": ""
+    },
+    {
+      "id": "ReloadLament",
+      "name": "Recarga",
+      "desc": "- Efecto aplicado a Las que Perduran & Las que Partieron(Munición Única)\n- Consume (30 - (Las que Perduran + Las que Partieron))/2 PC. (redondeado hacia abajo)\n- Reinicia ambos valores de Las que Perduran y Las que Partieron en sí a 0, y gana el valor máximo de la suma basado en las probabilidades listadas en la Pasiva 'DelAtaúdLaMariposaTomaVuelo.'\n- Al Recargar, gana al menos 1 de Las que Perduran y Las que Partieron.",
+      "summary": ""
+    }
+  ]
+}

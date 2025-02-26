@@ -1,0 +1,567 @@
+{
+    "dataList": [
+        {
+            "id": 108001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Lluvia de Piedras",
+                    "desc": "[WhenUse] Si el objetivo tiene 5+ de [Vibration], Poder Base +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Juntar Piedras",
+                    "desc": "[WinDuel] Si el objetivo tiene [Vibration], Poder Base +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pereza Creciente",
+                    "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Vibration] en el objetivo (máx 3)\n[WinDuel] Esta Habilidad gana Alcance de Atq +1 por cada 5 de [Vibration] en el objetivo (máx 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] a [VibrationEcho]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Provoca [VibrationExplosion] una vez por cada Contador de [Vibration] en el objetivo (máx 2); después, reduce en 2 el Contador de [Vibration] del objetivo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +4 Contador de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guardia",
+                    "desc": "Inflige 2 de [Vibration] contra el Atacante al ser golpeado mientras haya HP de Escudo restante\n[WhenUse] Gana 3 de [Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Colisión de Descomposición",
+                    "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] y +2 Contador de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Torrente",
+                    "desc": "[WhenUse] Si el objetivo tiene [Sinking], Poder Base +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Sinking] y +2 Contador de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Sinking] y +2 Contador de [Sinking] contra 2 objetivos aleatorios"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Derramar Melancolía",
+                    "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Sinking] en el objetivo (máx 3)\n[WinDuel] Esta Habilidad gana Alcance de Atq +1 por cada 5 de [Sinking] en el objetivo (máx 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Sinking] y +4 Contador de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Siguiente Moneda tiene Poder +1 por cada 3 de [Sinking] en el objetivo (3 veces máx)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Causa [SinkingSurge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evadir",
+                    "desc": "[OnSucceedEvade] Objetivo pierde 5 PC",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Derribar",
+                    "desc": "[WhenUse] Consume 20 [BloodDinner]: gana 1 [BloodArmor] por cada 10 [BloodDinner] consumido\n[WhenUse] Poder de Moneda +1 por cada 10 [BloodArmor] (máx 2)\n[WhenUse] Poder de Moneda +1 por cada 15 de [Laceration] en sí (máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Herir",
+                    "desc": "[WhenUse] Consume 20 [BloodDinner]: gana 1 [BloodArmor] por cada 10 [BloodDinner] consumido\n[WhenUse] Poder de Moneda +1 por cada 10 [BloodArmor] (máx 2)\n[WhenUse] Poder de Moneda +1 por cada 15 de [Laceration] en sí (máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Artes de Sangre Cristalizada Don Quixote 4 - Cortar",
+                    "desc": "[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1\n[WinDuel] Con esta Habilidad, inflige +20% de daño por cada fase de [BloodArmor] (máx 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Artes de Sangre Cristalizada Don Quixote 11 - Empalar",
+                    "desc": "[WhenUse] Por cada 3 de [Laceration] en el objetivo, Poder Base +1 (máx 3)\n[WinDuel] Con esta Habilidad, inflige +20% de daño por cada fase de [BloodArmor] (máx 60%)\n[DefeatDuel] Consume 4 [BloodArmor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] El objetivo se desangra por [Laceration] igual a su Contador. Usa el Contador de [Laceration] del objetivo hasta reducirlo a 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variante Estilo Don Quixote: Artes de Sancho 4 - Rastrear",
+                    "desc": "Prioriza objetivos con el mayor [Laceration]\n[BeforeAttack] Alcance de Atq +1 por cada 10 [BloodArmor] en sí (máx 3)\n[WhenUse] Poder de Choque +1 por cada 5 de [Laceration] en el objetivo (máx 3)\n[WhenUse] Consume hasta 30 [BloodDinner]: gana 1 [BloodArmor] y Poder de Moneda +1 por cada 15 [BloodDinner] consumido (máx 2)\n- Si esta unidad falló en consumir [BloodDinner], gana 10 de [Laceration], y se desangra por [Laceration] inmediatamente. Pierde 1 Contador de [Laceration]\n[EndSkill] Aumenta [BloodDinner] por el daño que esta Habilidad infligió",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno\n- Si esta habilidad consumió 30 [BloodDinner], Inflige 2 de [Binding] adicional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variante Estilo Don Quixote: Artes de Sancho 3 - Emboscar",
+                    "desc": "Prioriza objetivos con el mayor [Laceration]\n[BeforeAttack] Alcance de Atq +1 por cada 10 [BloodArmor] en sí (máx 2)\n[WhenUse] Poder de Choque +1 por cada 5 de [Laceration] en el objetivo (máx 3)\n[WhenUse] Consume hasta 30 [BloodDinner]: gana 1 [BloodArmor] y Poder de Moneda +1 por cada 15 [BloodDinner] consumido (máx 2)\n- Si esta unidad falló en consumir [BloodDinner], gana 10 de [Laceration], y se desangra por [Laceration] inmediatamente. Pierde 1 Contador de [Laceration]\n[EndSkill] Aumenta [BloodDinner] por el daño que esta Habilidad infligió",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno\n- Si esta Habilidad consumió 50 [BloodDinner], Inflige 2 de [Paralysis] adicional"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Artes de Sangre Cristalizada Don Quixote 2 - Sangre Cristalizada",
+                    "desc": "Puede Chocar con esta Habilidad sin importar la Velocidad\n[StartBattle] Gana 1 [SwirlingBlood]\n[StartBattle] Consume 100 [BloodDinner]; gana 1 [BloodArmor] y 20 HP de Escudo por cada 10 [BloodDinner] consumido\n- Si esta unidad no tiene sufciente [BloodDinner], gana 50 de [Laceration], y se desangra inmediatamente. Pierde 2 Contador de [Laceration]. Gana 200 HP de Escudo (este daño no reduce el HP de esta unidad a 0)\n[DefeatDuel] Mientras quede HP de Esucdo de esta Habilidad, gana 3 de [Vulnerable]\n[DefeatDuel] Esta Habilidad inflige -50% de daño\n[EndSkill] Termina la Fase de Combate",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] y +3 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Aventura Ha Terminado",
+                    "desc": "Inflige +10% de daño por cada [Laceration] en el objetivo (máx 200%)\nInflige +10% de daño por cada 3 [BloodArmor] (máx 100%)\n[StartBattle] Consume (45 - PC actuales) [BloodDinner] y cura hasta llegar a 45 PC\n- Si no hay suficiente [BloodDinner], gana 20 de [Laceration] y cura hasta llegar a 45 PC\n- Gana HP de Escudo igual a [BloodDinner] restante (máx 100)\n[WinDuel] Inflige 10 de [Laceration]\n[EndSkill] Aumenta [BloodDinner] por daño de HP infligido al objetivo\n[EndSkill] Si el objetivo es derrotado, aumenta [BloodDinner] por el HP Máx del objetivo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 10 de [Laceration] y +3 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] y +3 Contador de [Laceration] a todos los enemigos excepto el objetivo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Aventura Ha Terminado...",
+                    "desc": "Inflige +40% de daño por cada 10 de (suma de [Laceration] en todos los objetivos) (máx 200%)\nInflige +10% de daño por cada [BloodDinner] acumulado que esta unidad consumió (máx 100%)\n[StartBattle] Consume (45 - PC actual) [BloodDinner] y cura hasta llegar a 45 PC\n- Si no hay suficiente [BloodDinner], gana 20 de [Laceration] y cura hasta llegar a 45 PC\n- Gana HP de Escudo igual a [BloodDinner] restante (máx 100)\n[WinDuel] Inflige 10 de [Laceration]\n[EndSkill] Aumenta [BloodDinner] por daño de HP infligido al objetivo\n[EndSkill] Si el objetivo es derrotado, aumenta [BloodDinner] por el HP Máx del objetivo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Inflige 10 de [Laceration] y +3 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Compresión",
+                    "desc": "[WhenUse] Poder Final +1 por cada 5 de [Breath] en sí (máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Vibration] y +2 Contador de [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Desmantelar",
+                    "desc": "[WhenUse] Poder Final +1 por cada 3 de [Breath] en sí (máx 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige +3 Contador de [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Realizar Análisis",
+                    "desc": "[WhenUse] Con 10+ Potencia de [Breath], consume Potencia de [Breath] para ganar +2 Poder Final por cada 3 de [Breath] consumido (máx 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Contador de [Vibration], Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Inflige 5 de [Vibration] y +3 Contador de [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion] dos veces; después, reduce en 2 el Contador de [Vibration] del objetivo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Activar Secuencia de Extinción",
+                    "desc": "[WhenUse] Consume la mitad de la Potencia y Contador de [Breath] en sí\n- Gana (suma de Potencia y Contador de [Breath] consumidos / 2) Poder Final (máx 20)\n- Inflige +(suma de Potencia y Contador de [Breath] consumidos x 2)% de daño (máx 50%)\n- +(suma de Potencia y Contador de [Breath] consumidos x 4)% de daño en Golpe Crítico (máx 100%)\n[DefeatDuel] Reduce Contador de [Breath] restante a la mitad",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Si el usuario no recibió daño de HP el último turno, garantiza un Golpe Crítico"
+                                },
+                                {
+                                    "desc": "Si el usuario recibió daño de HP el último turno, no hace Golpe Crítico; en su lugar, inflige -80% de daño"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion] tres veces; después, reduce en 3 el Contador de [Vibration] del objetivo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contemplación",
+                    "desc": "[WhenUse] Poder Final +1 por cada Potencia de [Breath] en sí (máx 5)\n[WhenUse] Gana 4 de [Breath]\n- Si esta unidad tiene Escudo, gana +2 Contador de [Breath] también",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

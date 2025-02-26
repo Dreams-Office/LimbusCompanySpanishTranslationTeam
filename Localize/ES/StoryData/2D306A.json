@@ -1,0 +1,524 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Castillo Helado Donde Yacen los Vecinos",
+      "model": "이스마엘",
+      "content": "¡Veo la salida por aquí!"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "Egh, qué pesados que son."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Tenemos que encontrar una manera de distraerlos si queremos salir de aquí...>"
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "¿Y por qué no lanzas a alguno de nosotros? Lo podrás traer de vuelta más tarde todos modos."
+    },
+    {
+      "id": 4,
+      "model": "싱클레어",
+      "content": "¡¿Por qué me miras a mí mientras dices eso?!"
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<... Un momento, miren eso...>"
+    },
+    {
+      "id": 6,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Déjenmelo a mí."
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "¡¿Sonya?! ¿Qué estás tramando?"
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<¡Rodya! ¿A qué viene esa actitud? ¡Tenemos que aceptar toda la ayuda que nos puedan ofrecer!>"
+    },
+    {
+      "id": 9,
+      "model": "로쟈",
+      "content": "Ya he visto a gente ofrecer ayuda a cambio de nada antes, y casi siempre han tenido una segunda intención."
+    },
+    {
+      "id": 10,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "......"
+    },
+    {
+      "id": 11,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Es tal como aquella vez en la que no pudiste evitar usar tu hacha."
+    },
+    {
+      "id": 12,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Puede que yo también tenga un... impulso inexplicable que me está empujando a hacer esto."
+    },
+    {
+      "id": 13,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Dante, tengo entendido que tu organización trabaja a su manera para hacer un mundo mejor, ¿verdad?"
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Yo... Eh... ¿Eh?>"
+    },
+    {
+      "id": 15,
+      "content": "¿Qué es lo que se supone por un mundo mejor?"
+    },
+    {
+      "id": 16,
+      "content": "Por primera vez, recordé que nunca me había cuestionado las motivaciones de Limbus Company."
+    },
+    {
+      "id": 17,
+      "content": "Por suerte, mis pensamientos no parecieron haber llegado a Sonya, y él tomó mi falta de respuesta como una señal de acuerdo"
+    },
+    {
+      "id": 18,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "A veces el silencio dice más que mil palabras. Me lo tomaré como un sí."
+    },
+    {
+      "id": 19,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Y una cosa más... Pronto, el niño te visitará a ti también."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<¿Niño?>"
+    },
+    {
+      "id": 21,
+      "model": "싱클레어",
+      "content": "¿Eh?"
+    },
+    {
+      "id": 22,
+      "model": "싱클레어",
+      "content": "Ah... Lo siento. Debe ser que vi mal. Por un segundo pensé haber visto algo en su frente..."
+    },
+    {
+      "id": 23,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Así es, hablo de ese niño que te impresionó tanto. Imagino que será una reunión conmovedora."
+    },
+    {
+      "id": 24,
+      "content": "Sonya señala con el mentón hacia algo que está detrás de él."
+    },
+    {
+      "id": 25,
+      "content": "Una tenue luz brillaba entre los bloques de hielo caídos, irradiando un resplandor inconfundible..."
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<La Rama Dorada...>"
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "No esperes que vuelva a actuar bajo el mismo impulso de amabilidad la próxima vez que nos veamos."
+    },
+    {
+      "id": 29,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Si un camino claro hacia la prosperidad de muchos se muestra ante mis ojos, yo lo tomaré sin dudarlo."
+    },
+    {
+      "id": 30,
+      "content": "Luego de que Sonya nos haya dejado con ese misterioso mensaje, los Yurodiviye comenzaron a aparecer uno detrás de otro."
+    },
+    {
+      "id": 31,
+      "content": "Bueno... Puede que este haya sido el momento perfecto para una despedida emotiva del tipo “¡Nunca te olvidaré!”"
+    },
+    {
+      "id": 32,
+      "content": "... Pero luego vi a Rodya, que fue la primera en correr hacia la salida."
+    },
+    {
+      "id": 33,
+      "model": "이상",
+      "content": "Rodion. ¿Acaso no le preocupa?"
+    },
+    {
+      "id": 34,
+      "model": "로쟈",
+      "content": "¿Qué cosa?"
+    },
+    {
+      "id": 35,
+      "model": "이상",
+      "content": "Independientemente de las diferencias que tengan, nada cambiará el hecho de que fue su amigo."
+    },
+    {
+      "id": 36,
+      "model": "로쟈",
+      "content": "Ah, eso~ Eh, es un tipo listo, así que estoy segura de que se las arreglará para salir vivo de esta y todo eso."
+    },
+    {
+      "id": 37,
+      "model": "이상",
+      "content": "... Verdaderamente, una forma ideal de la amistad."
+    },
+    {
+      "id": 38,
+      "content": "Tiempo después..."
+    },
+    {
+      "id": 39,
+      "content": "Si bien estaba muerto del cansancio, yo sabía que Vergilius no apartaría su mirada feroz hasta que le diera un breve informe verbal de por lo que tuvimos que pasar hoy."
+    },
+    {
+      "id": 40,
+      "place": "A bordo de Mefistófeles",
+      "model": "베르길리우스",
+      "content": "... Ya veo, conque así les fue. Aunque hay una cosa que me preocupa."
+    },
+    {
+      "id": 41,
+      "model": "베르길리우스",
+      "content": "Este hombre... Sonya, ¿no? Sus acciones durante esos últimos momentos no parecen encajar con los ideales de los que te habló."
+    },
+    {
+      "id": 42,
+      "model": "베르길리우스",
+      "content": "Y es por eso que debemos analizar bien sus verdaderas intenciones..."
+    },
+    {
+      "id": 43,
+      "model": "로쟈",
+      "content": "¡Oye, oye! ¡¡¡Tiempo fuera!!!"
+    },
+    {
+      "id": 44,
+      "model": "로쟈",
+      "content": "¿Primero Yi Sang y ahora tú también? ¿Por qué todos se preocupan más por Sonya que por mí? Lo importante es que conseguimos la Rama Dorada."
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Y como plus... Chéquense esto, chicos~"
+    },
+    {
+      "id": 46,
+      "content": "Rodya se sacó un colorido puñado de fichas de juego de los bolsillos."
+    },
+    {
+      "id": 47,
+      "model": "로쟈",
+      "content": "Podemos cambiar estas bellezas por dinero en cualquier casino, así que pasemos por uno."
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Las agarré cuando el gerente deslumbró el suelo con el premio gordo que sacó."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Me impresiona que se te haya ocurrido llevarte todo eso en medio de todo el caos.>"
+    },
+    {
+      "id": 50,
+      "model": "로쟈",
+      "content": "¿Y bien, Vergi? ¿Qué te parece una jugosa ración de solomillo de primera para celebrar nuestra victoria de hoy?"
+    },
+    {
+      "id": 51,
+      "model": "베르길리우스",
+      "content": "... ¿Tú que opinas, Charon?"
+    },
+    {
+      "id": 52,
+      "model": "카론",
+      "content": "... Hmm."
+    },
+    {
+      "id": 53,
+      "model": "카론",
+      "content": "Parece que Mefi también quiere. Carne fresca, jugosa y deliciosa."
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "content": "Ay, de todas las cosas que pudiste mencionar..."
+    },
+    {
+      "id": 55,
+      "model": "베르길리우스",
+      "content": "Está bien. Dejaré que Rodion escoja un restaurante en el Distrito 10 para nosotros."
+    },
+    {
+      "id": 56,
+      "model": "카론",
+      "content": "Okey. Bruum-Bruum."
+    },
+    {
+      "id": 57,
+      "model": "로쟈",
+      "content": "Ahora sí que nos entendemos, Vergi."
+    },
+    {
+      "id": 58,
+      "model": "로쟈",
+      "content": "Ya todo dicho y hecho..."
+    },
+    {
+      "id": 59,
+      "content": "Ocultados por su sonrisa, los ojos de Rodya temblaban de angustia, pero es rápida para disimularlo con una fachada de jovialidad, como si nada hubiera pasado."
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "Soy super genial, ¿verdad?"
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62,
+      "place": "En Algún Lado de Las Callejuelas",
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Impresionante, Yurodivy."
+    },
+    {
+      "id": 63,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "No solamente lograste eliminar a la legión de enemigos..."
+    },
+    {
+      "id": 64,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Sino que también quemaste todo el dinero."
+    },
+    {
+      "id": 65,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Deberías saber ya, Hermann, que yo nunca me llevé bien con él."
+    },
+    {
+      "id": 66,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "He de admitirlo, no eres como la mayoría de idealistas que son solo teoría y nada de acción."
+    },
+    {
+      "id": 67,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Te habrías ganado mis elogios si además de todo eso hubieras conseguido la Rama Dorada."
+    },
+    {
+      "id": 68,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "... Le mostré ese mundo a Rodya."
+    },
+    {
+      "id": 69,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aquella realidad ideal que tanto me fascina."
+    },
+    {
+      "id": 70,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Pero tristemente..."
+    },
+    {
+      "id": 71,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Supongo que no la convenció."
+    },
+    {
+      "id": 72,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Parece que el método que sugeriste no era muy bueno después de todo, Hermann."
+    },
+    {
+      "id": 73,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Nunca fue del tipo de persona que deja que unas pocas palabras le hagan cambiar de opinión."
+    },
+    {
+      "id": 74,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "¿Y eso lo encuentras... lamentable?"
+    },
+    {
+      "id": 75,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Pues..."
+    },
+    {
+      "id": 76,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Puede que parte de mí haya deseado que me hubiera seguido como lo hacía en el pasado."
+    },
+    {
+      "id": 77,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Pero no, creo que en realidad me alivia comprobar que sigue igual que antes."
+    },
+    {
+      "id": 78,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Rodya no deseaba un mundo perfecto sin defecto alguno."
+    },
+    {
+      "id": 79,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Más bien, puede que haya sentido..."
+    },
+    {
+      "id": 80,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Que sería aburrido vivir en tal mundo, pues ya no tendría forma de afirmar que es especial."
+    },
+    {
+      "id": 81,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Esa es la impresión que me dio."
+    },
+    {
+      "id": 82,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "La creía una mujer de virtud, con principios inquebrantables..."
+    },
+    {
+      "id": 83,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Pero oyéndote decir esto... No era más que una soñadora como tú, ¿verdad?"
+    },
+    {
+      "id": 84,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Todavía le queda un largo camino por delante. Estoy seguro."
+    },
+    {
+      "id": 85,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "... Aunque no querrá admitirlo."
+    },
+    {
+      "id": 86,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Entiendo. Lo tendré en cuenta para futuras consideraciones a la hora de seguir con nuestro plan."
+    },
+    {
+      "id": 87,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "¿No vas a regañarme? No conseguí completar el trabajo que me diste."
+    },
+    {
+      "id": 88,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Las reprimendas no harán que la Rama aparezca ante nuestros pies, ¿o sí?"
+    },
+    {
+      "id": 89,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "No pasa nada. Donde sea que las Ramas estén ahora..."
+    },
+    {
+      "id": 90,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "N Corp.",
+      "content": "Lo que importa más es quién reclame el manojo al final."
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "dataList": [
+    {
+      "id": 815101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puñalada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Combustion] y +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coletazo",
+          "desc": "[WinDuel] Si el objetivo tiene [Combustion], Poder Base +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Combustion] y +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exhalar Aliento",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Combustion], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [CrimsonTakeDamageUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [CrimsonTakeDamageUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contrataque",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Combustion], Poder de Moneda +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackDmgUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Saltar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] y +2 Contador de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking] y +2 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Salpicar",
+          "desc": "[WhenUse] Si el objetivo tiene [Sinking], Poder Base +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking] y +3 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bomba de Agua",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Sinking], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [AzureTakeDamageUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "[OnSucceedEvade] Inflige 2 de [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desenvainar la Espada",
+          "desc": "[WhenUse] Gana 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paralizador",
+          "desc": "[WhenUse] Gana 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackDmgUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Asesinar",
+          "desc": "[WinDuel] Gana +1 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +1 Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [SlashDamageUp] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [SlashResistDown] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Derrocar",
+          "desc": "[WinDuel] Gana +3 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath] y +1 Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 de [SlashDamageUp] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "[StartBattle] Gana 50 de Escudo\n[WhenUse] Si el Escudo no fue gastado por completo, Poder de Choque +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+100% de daño en Golpe Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Laceration] y +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el Escudo no fue gastado por completo, divide el valor de [Grudge] por el Alcance de Atq e inflige el valor resultante como daño fijo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "[OnSucceedEvade] Gana 4 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ceder Mi Carne",
+          "desc": "Gana X de [Grudge] el siguiente turno (X = Daño infligido por la Habilidad que activó la Habilidad de Contrataque)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "[StartBattle] Gana 200 de Escudo\n[WhenUse] Gana +3 Contador de [Breath]\n[WhenUse] Si el Escudo no fue gastado por completo, Poder de Choque +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+100% de daño en Golpe Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Paralysis] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Laceration] y +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el Escudo no fue gastado por completo, divide el valor de [Grudge] por el Alcance de Atq e inflige el valor resultante como daño fijo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815408,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Danza de Espadas",
+          "desc": "[EnemyKill] Gana 3 de [AttackUp] y 3 de [DefenseUp] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815409,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Para Reclamar Sus Huesos",
+          "desc": "[CantChangeTarget]\nPrioriza la unidad con el menor HP\n[EnemyKill] Douplica el valor de [Grudge].\n[EnemyKill] Cura HP igual al valor de [Grudge]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige daño fijo igual al valor de [Grudge]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

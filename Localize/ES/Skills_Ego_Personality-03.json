@@ -1,0 +1,873 @@
+{
+  "dataList": [
+    {
+      "id": 2030111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Cura por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 daño de PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 25 daño de PC"
+                },
+                {
+                  "desc": "Si el objetivo está Con urdido, con Baja Moral, o en Pánico, Inflige 30% del daño infligido como daño adicional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 25 daño de PC"
+                },
+                {
+                  "desc": "Si el objetivo está Con urdido, con Baja Moral, o en Pánico, Inflige 30% del daño infligido como daño adicional"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 7 de [Sinking]"
+                },
+                {
+                  "desc": "Si el objetivo está Con urdido, con Baja Moral, o en Pánico, Inflige 50% del daño infligido como daño adicional"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bolsa de Fluidos",
+          "abName": "Ichthys Decapitado",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Sinking]"
+                },
+                {
+                  "desc": "Si el objetivo está Con urdido, con Baja Moral, o en Pánico, Inflige 50% del daño infligido como daño adicional"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctroposte",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctroposte",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 Contador de [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Da Contador de [Charge] por Reson. de Envidia a todos los aliados."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctroposte",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 Contador de [Charge]"
+                },
+                {
+                  "desc": "[EndSkill] Da Contador de [Charge] por Reson. de Envidia a todos los aliados."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eléctroposte",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 Contador de [Charge] y 10 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Eléctroposte",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 Contador de [Charge] y 10 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Da +10 Contador de [Charge], 5 Frágil y 10 de [Burst] a todos los aliados"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Eléctroposte",
+          "abName": "Guardián del Callejón",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +10 Contador de [Charge] y 10 de [Burst]"
+                },
+                {
+                  "desc": "[EndSkill] Da 5 Frágil, 10 de [Burst] y +12 Contador de [Charge] a todos los aliados"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[BeforeAttack] Aumenta el daño basado en recursos de Lujuria actuales (Hasta 25%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[BeforeAttack] Aumenta el daño basado en recursos de Lujuria actuales (Hasta 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el mayor HP\n\n[BeforeAttack] Aumenta el daño basado en recursos de Lujuria actuales (Hasta 25%)\nEntonces gasta los recursos de Lujuria por (Reson. de Lujuria); adicionalmente aumenta el daño por 5% por cada recurso gastado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Estofado De Por Vida",
+          "abName": "Basilisopa",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el mayor HP\n\n[BeforeAttack] Aumenta el Con aque basado en recursos de Lujuria actuales (Hasta 50%)\nEntonces gasta los recursos de Lujuria por (Reson. de Lujuria); adicionalmente aumenta el daño por 10% por cada recurso gastado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +4 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cúmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cúmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +4 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cúmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +4 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cúmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 4 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cúmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 6 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cúmulo de Deseos",
+          "abName": "Veneración a la Pagoda",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 8 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 2 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chirrido Eléctrico",
+          "abName": "Oveja Eléctrica Soñadora",
+          "desc": "[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Con q (máx 1)\n[BeforeAttack] Si esta unidad tiene 20+ Contador de [Charge], Gasta 20 Contador de [Charge] para infligir +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chirrido Eléctrico",
+          "abName": "Oveja Eléctrica Soñadora",
+          "desc": "[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Con q (máx 2)\n[BeforeAttack] Inflige ((Reson. de Envidia - 3) x 5)% de daño (máx 15%)\n[BeforeAttack] Si esta unidad tiene 20+ Contador de [Charge], Gasta 20 Contador de [Charge] para infligir +35% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chirrido Eléctrico",
+          "abName": "Oveja Eléctrica Soñadora",
+          "desc": "[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Con q (máx 3)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x 10)% de daño (máx 30%)\n[BeforeAttack] Si esta unidad tiene 20+ Contador de [Charge], Gasta 20 Contador de [Charge] para infligir +40% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana +2 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chirrido Eléctrico",
+          "abName": "Oveja Eléctrica Soñadora",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Con q (máx 1)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x 5)% de daño (máx 15%)\n[BeforeAttack] Con menos de 20 Contador de [Charge], Gasta 1.5% del HP Máx de esta unidad por cada Contador de [Charge] faltante para aumentar el Contador de [Charge] a 20\n[BeforeAttack] Gasta hasta 20 Contador de [Charge] para infligir +2.5% de daño por cada Contador de [Charge] gastado (máx 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana +3 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chirrido Eléctrico",
+          "abName": "Oveja Eléctrica Soñadora",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Con q (máx <style=\"highlight\">2</style>)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x <style=\"highlight\">8</style>)% de daño (máx <style=\"highlight\">24</style>%)\n[BeforeAttack] Con menos de 20 Contador de [Charge], Gasta 1.5% del HP Máx de esta unidad por cada Contador de [Charge] faltante para aumentar el Contador de [Charge] a 20\n[BeforeAttack] Gasta hasta 20 Contador de [Charge] para infligir +<style=\"highlight\">3.5</style>% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">70</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana +3 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chirrido Eléctrico",
+          "abName": "Oveja Eléctrica Soñadora",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (Reson. de Envidia - 2) Alcance de Con q (máx <style=\"highlight\">3</style>)\n[BeforeAttack] Inflige +((Reson. de Envidia - 3) x <style=\"highlight\">12</style>)% de daño (máx <style=\"highlight\">36</style>%)\n[BeforeAttack] Con menos de 20 Contador de [Charge], Gasta <style=\"highlight\">1</style>% del HP Máx de esta unidad por cada Contador de [Charge] faltante para aumentar el Contador de [Charge] a 20\n[BeforeAttack] Gasta hasta 20 Contador de [Charge] para infligir +<style=\"highlight\">5</style>% de daño por cada Contador de [Charge] gastado (máx <style=\"highlight\">100</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Gana +3 Contador de [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelante Mircalla",
+          "abName": "Cuatrocientas Rosas",
+          "desc": "El HP de esta unidad no cae por debajo de 1 mientras está usando esta Habilidad.\nPoder de Choque +1 por cada 100 [BloodDinner_Accumulation] por esta unidad (máx 2)\n[BeforeAttack] Con menos de 50 [BloodDinner], inflige 1 de [Laceration] con cada Golpe\n[EndSkill] Por 3 turnos, pierde 10 PC al Fin del Turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +0.1% de daño por cada [BloodDinner_Common_Accumulation] (máx 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 100+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 200+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx 20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 300+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx 30%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige [ThirstyRose] basado en la Reson.-A de Lujuria más alta (máx 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelante Mircalla",
+          "abName": "Cuatrocientas Rosas",
+          "desc": "El HP de esta unidad no cae por debajo de 1 mientras está usando esta Habilidad.\n<style=\"highlight\">Si el objetivo tiene 10+ de [Laceration], Poder de Moneda +1</style>\nPoder de Choque +1 por cada 100 [BloodDinner_Accumulation] por esta unidad (máx <style=\"highlight\">3</style>)\n[BeforeAttack] Con menos de <style=\"highlight\">75</style> [BloodDinner], inflige 1 de [Laceration] con cada Golpe\n[EndSkill] Por 3 turnos, pierde 10 PC al Fin del Turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +0.1% de daño por cada [BloodDinner_Common_Accumulation] (máx 10%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 100+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx <style=\"highlight\">15</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 200+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx <style=\"highlight\">25</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 300+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx <style=\"highlight\">40</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige [ThirstyRose] basado en la Reson.-A de Lujuria más alta (máx 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelante Mircalla",
+          "abName": "Cuatrocientas Rosas",
+          "desc": "El HP de esta unidad no cae por debajo de 1 mientras está usando esta Habilidad.\n<style=\"highlight\">Poder de Moneda +1 por cada 10 de [Laceration] en el objetivo (máx 2)</style>\nPoder de Choque +1 por cada 100 [BloodDinner_Accumulation] por esta unidad (máx <style=\"highlight\">5</style>)\n[BeforeAttack] Con menos de <style=\"highlight\">100</style> [BloodDinner], inflige 1 de [Laceration] con cada Golpe\n[EndSkill] Por 3 turnos, pierde 10 PC al Fin del Turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +0.1% de daño por cada [BloodDinner_Common_Accumulation] (máx 10%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 100+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx <style=\"highlight\">20</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 200+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx <style=\"highlight\">30</style>%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Con 300+ [BloodDinner_Common_Accumulation]: inflige +0.1% de daño por cada valor (máx <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige [ThirstyRose] basado en la Reson.-A de Lujuria más alta (máx <style=\"highlight\">4</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelante Mircalla",
+          "abName": "Cuatrocientas Rosas",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nEl HP de esta unidad no cae por debajo de 1 mientras está usando esta Habilidad.\nSi el objetivo tiene 10+ de [Laceration], Poder de Moneda -1\n[BeforeAttack] Con menos de 150 [BloodDinner], inflige 1 de [Laceration] con cada golpe\n[BeforeAttack] Gana 20 de [Laceration], e inmediatamente se desangra por [Laceration] en sí. Pierde 2 Contador de [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] por cada 50 [BloodDinner_Common_Accumulation] (máx 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 100- [BloodDinner], inflige 10 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +5% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx 25%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige [ThirstyRose] basado en la Reson.-A de Lujuria más alta (máx 3)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Cura por 50% del daño de HP infligido (máx 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Anhelante Mircalla",
+          "abName": "Cuatrocientas Rosas",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nEl HP de esta unidad no cae por debajo de 1 mientras está usando esta Habilidad.\nSi el objetivo tiene 10+ de [Laceration], Poder de Moneda -1\n<style=\"highlight\">Con 200+ [BloodDinner_Accumulation] por esta unidad, Poder de Moneda -1</style>\n[BeforeAttack] Con menos de 150 [BloodDinner], inflige 1 de [Laceration] con cada golpe\n[BeforeAttack] Gana 20 de [Laceration], e inmediatamente se desangra por [Laceration] en sí. Pierde 2 Contador de [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] por cada 50 [BloodDinner_Common_Accumulation] (máx 10)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 100- [BloodDinner], inflige 10 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +<style=\"highlight\">10</style>% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige [ThirstyRose] basado en la Reson.-A de Lujuria más alta (máx <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Cura por 50% del daño de HP infligido (máx 10)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Anhelante Mircalla",
+          "abName": "Cuatrocientas Rosas",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente\nEl HP de esta unidad no cae por debajo de 1 mientras está usando esta Habilidad.\nSi el objetivo tiene 10+ de [Laceration], Poder de Moneda -1\nCon 200+ [BloodDinner_Accumulation] por esta unidad, Poder de Moneda -1\n[BeforeAttack] Con menos de 150 [BloodDinner], inflige 1 de [Laceration] con cada golpe\n[BeforeAttack] Gana 20 de [Laceration], e inmediatamente se desangra por [Laceration] en sí. Pierde 2 Contador de [Laceration]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration] por cada 50 [BloodDinner_Common_Accumulation] (máx 10)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 100- [BloodDinner], inflige 10 de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige +<style=\"highlight\">20</style>% de daño por cada 100 [BloodDinner_Common_Accumulation] (máx <style=\"highlight\">100</style>%)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige [ThirstyRose] basado en la Reson.-A de Lujuria más alta (máx <style=\"highlight\">5</style>)"
+                },
+                {
+                  "desc": "[WinDuelAttack] Cura por 50% del daño de HP infligido (máx 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

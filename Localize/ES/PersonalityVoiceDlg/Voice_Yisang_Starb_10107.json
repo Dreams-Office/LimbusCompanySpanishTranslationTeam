@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10107_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Puedes llamarme Yi Sang. Soy el primer oficial del Pequod."
+        },
+        {
+            "id": "lobby_morning_10107_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Rezo para que las olas no te hayan quitado el sueño. El Lago permanece tranquilo hoy... Tal vez podamos disfrutar de un breve momento para saborear sus vistas por una vez."
+        },
+        {
+            "id": "lobby_noon_10107_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Hm... Me estoy cansando de esta dieta de aletas disecadas. ¿Cómo te va?"
+        },
+        {
+            "id": "lobby_night_10107_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "No navegues demasiado tiempo bajo el cielo nocturno. Es sabido que tal práctica pone en peligro el viaje. Por favor, descansa un poco."
+        },
+        {
+            "id": "smalltalk_10107_1",
+            "desc": "Charla #1",
+            "dlg": "Ves, esta es la parte de la ballena que debes atacar. Si un golpe singular y poderoso es difícil de ejecutar, aplica múltiples golpes a un solo punto. Entonces deberías ser capaz de actuar con eficacia."
+        },
+        {
+            "id": "smalltalk_10107_2",
+            "desc": "Charla #2",
+            "dlg": "¡Tripulantes! ¡Dejen de holgazanear y vuelvan a sus puestos! ... Ah, mis disculpas. Eso puede haber sido muy fuerte para ti. Te pido disculpas."
+        },
+        {
+            "id": "smalltalk_10107_3",
+            "desc": "Charla #3",
+            "dlg": "La vida de un marinero es... Bastante buena. Sin embargo, una vez que termine esta empresa, quiero abrir mi propia cafetería.\nHe empezado a soñar con una vida pausada, libre de urgencias."
+        },
+        {
+            "id": "smalltalk_10107_4",
+            "desc": "Charla Post-Aunamiento #1",
+            "dlg": "¡No sueltes la cuerda! ¡Soltar la cuerda es perder la vida! Sé sabio... ¡pero audaz!"
+        },
+        {
+            "id": "smalltalk_10107_5",
+            "desc": "Charla Post-Aunamiento #2",
+            "dlg": "¡La Capitana Ishmael no les ha ordenado morir! Debemos... ¡Todos nosotros debemos matarlo y regresar a donde pertenecemos!"
+        },
+        {
+            "id": "neglect_10107_1",
+            "desc": "Inactivo",
+            "dlg": "Hm... Todo está en silencio, salvo por el sonido de la embarcación surcando las aguas. Esto también es bastante agradable."
+        },
+        {
+            "id": "gacksung_10107_1",
+            "desc": "Aunando",
+            "dlg": "¡Así que debo estar a la altura de las circunstancias, entonces...! De acuerdo. ¡El arpón he de empuñar!"
+        },
+        {
+            "id": "formation_10107_1",
+            "desc": "Desplegar",
+            "dlg": "Parece que debo soltar el timón y unirme a la pelea."
+        },
+        {
+            "id": "battleentry_10107_1",
+            "desc": "Entrada a Escena",
+            "dlg": "No sueltes el arpón."
+        },
+        {
+            "id": "battle_select_10107_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¿Está en peligro la Capitana?"
+        },
+        {
+            "id": "battle_endcommand_10107_1",
+            "desc": "Al Atacar",
+            "dlg": "Por favor, permíteme demostrártelo."
+        },
+        {
+            "id": "battle_enemy_break_10107_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¡Hm! Parece que están bastante cansados."
+        },
+        {
+            "id": "battle_break_10107_1",
+            "desc": "Aturdido",
+            "dlg": "Jaaa..."
+        },
+        {
+            "id": "battle_kill_10107_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Tsk. No hay nada de aceite para sacar de este tipo."
+        },
+        {
+            "id": "battle_dead_10107_1",
+            "desc": "Muerte",
+            "dlg": "Ja ja ja... Así...  mi... viaje... termina..."
+        },
+        {
+            "id": "choice_success_p_10107_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Esta fue una tarea trivial. Incluso un tercer oficial debería tener pocos problemas para realizar esta tarea."
+        },
+        {
+            "id": "choice_fail_n_10107_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Ejem... Rara vez he puesto un pie fuera de la nave... Entiéndelo."
+        },
+        {
+            "id": "battle_clear_10107_1",
+            "desc": "Grito de Victoria",
+            "dlg": "El final de este viaje se vislumbra en el horizonte. Perseveremos un poco más."
+        },
+        {
+            "id": "battle_clear_ex_10107_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "¡Lo hemos conseguido! No muchos piratas o ballenas se atreverán a atacar este barco de nuevo. Hm hm, este fue un resultado bastante satisfactorio."
+        },
+        {
+            "id": "battle_defeat_10107_1",
+            "desc": "LLanto de Derrota",
+            "dlg": "... Nuestra nave está demasiado dañada para continuar... Anclemos y reparemos. ... Entonces zarparemos hacia el Lago una vez más."
+        }
+    ]
+}

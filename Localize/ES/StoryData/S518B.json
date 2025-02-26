@@ -1,0 +1,390 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "A bordo de la Cubierta de Mefistófeles",
+            "model": "단테2",
+            "content": "<Hay algo que me inquietó un poco...>"
+        },
+        {
+            "id": 1,
+            "model": "단테2",
+            "content": "<¿No les pareció raro el cómo esos piratas se veían tan... confiados?>"
+        },
+        {
+            "id": 2,
+            "model": "단테2",
+            "content": "<Confiados de que si continuábamos este camino, nos encontraríamos con otro desastre...>"
+        },
+        {
+            "id": 3,
+            "model": "뫼르소",
+            "content": "No tiene importancia, gerente. No fue más que un derivado de su firme creencia de que tenían la ventaja por sobre nosotros."
+        },
+        {
+            "id": 4,
+            "model": "뫼르소",
+            "content": "Sin embargo, hay algo inusual que he observado. Tenían instalados numerosos clavos en la parte baja del casco de su nave."
+        },
+        {
+            "id": 5,
+            "model": "오티스",
+            "content": "¿Acaso no son para embestir otras embarcaciones? He oído que ese tipo de tácticas son usadas frecuentemente en batallas navales."
+        },
+        {
+            "id": 6,
+            "model": "뫼르소",
+            "content": "Se encontraban demasiado bajo el agua como para ser de utilidad como un medio para embestir a otro barco. Podía deducirse por el grado de corrosión del metal que los clavos, que se concentraban en la quilla del bote, se habían instalado recientemente."
+        },
+        {
+            "id": 7,
+            "model": "오티스",
+            "content": "¿Cómo hiciste para ver la quilla del barco...?"
+        },
+        {
+            "id": 8,
+            "model": "뫼르소",
+            "content": "El agua estaba clara si se la veía de cerca."
+        },
+        {
+            "id": 9,
+            "model": "홍루",
+            "content": "Hm~ ¿A lo mejor intentaban evitar que algo se suba al barco?"
+        },
+        {
+            "id": 10,
+            "model": "그레고르",
+            "content": "Es difícil imaginarse a un pez lanzándose hacia la quilla de un barco. No son aves estrellándose contra una ventana."
+        },
+        {
+            "id": 11,
+            "model": "로쟈",
+            "content": "Tal vez no era nada~ Ya saben lo supersticiosos que pueden llegar a ser los piratas. ¿Y si era algo así como un amuleto para la buena suerte?"
+        },
+        {
+            "id": 12,
+            "model": "그레고르",
+            "content": "Hmm... A lo mejor tuvimos que haber dejado que el Subgerente Pilot venga con nosotros."
+        },
+        {
+            "id": 13,
+            "model": "그레고르",
+            "content": "¿Tú sabes algo, Faust?"
+        },
+        {
+            "id": 14,
+            "model": "파우스트",
+            "content": "La información pertinente no se ha actualizado."
+        },
+        {
+            "id": 15,
+            "model": "파우스트",
+            "content": "Lo máximo que podríamos hacer ahora es asegurarnos de no violar ninguna ley del Gran Lago."
+        },
+        {
+            "id": 16,
+            "content": "Y así, nuestro viaje hacia las coordenadas variables que nos dio Pilot que indicaban la ubicación de la Sucursal de Lobotomy Corp. continuó su curso..."
+        },
+        {
+            "id": 17,
+            "content": "... Con la paranoia ante lo desconocido pesando fuertemente sobre nuestros hombros."
+        },
+        {
+            "id": 18,
+            "content": "Luego de una cantidad de tiempo indefinida..."
+        },
+        {
+            "id": 19,
+            "place": "Cabinas de Mefistófeles",
+            "model": "파우스트",
+            "content": "... Outis, deberemos virar el barco a babor."
+        },
+        {
+            "id": 20,
+            "model": "오티스",
+            "content": "... ¿Qué?"
+        },
+        {
+            "id": 21,
+            "content": "Outis, que miraba hacia el horizonte desde la proa del barco, se dio la vuelta. Lo que sea que le haya dicho Faust pareció haberla agarrado desprevenida."
+        },
+        {
+            "id": 22,
+            "model": "오티스",
+            "content": "Oye, no ha pasado ni una hora desde que nos dijiste que tendríamos que cruzar esta zona en línea recta."
+        },
+        {
+            "id": 23,
+            "model": "파우스트",
+            "content": "No se ha alcanzado la velocidad deseada. A nuestro ritmo actual, las Olas de la siguiente zona nos golpearán tan pronto como abandonemos esta."
+        },
+        {
+            "id": 24,
+            "model": "오티스",
+            "content": "¿Esa es la maldita regla de esta zona?"
+        },
+        {
+            "id": 25,
+            "model": "파우스트",
+            "content": "Así es."
+        },
+        {
+            "id": 26,
+            "model": "파우스트",
+            "content": "Si bien nuestro encuentro con los piratas se resolvió rápidamente, aún así experimentamos un retraso. Las coordenadas variables ahora nos guían por una ruta distinta."
+        },
+        {
+            "id": 27,
+            "model": "오티스",
+            "content": "... ¿Cuánto tiempo más vamos a tener que perder aquí?"
+        },
+        {
+            "id": 28,
+            "model": "파우스트",
+            "content": "De acuerdo a las coordenadas variables... tomar la ruta alternativa nos supondrá tres días más de viaje."
+        },
+        {
+            "id": 29,
+            "model": "오티스",
+            "content": "... Haah."
+        },
+        {
+            "id": 30,
+            "content": "Outis se mordió el labio con descontento antes de voltearse repentinamente en mi dirección."
+        },
+        {
+            "id": 31,
+            "model": "오티스",
+            "content": "Gerente Ejecutivo, se me ocurrió un plan genial. Un plan que no solo acelerará esta operación, sino que además aumentará las probabilidades de poder asegurar y rescatar las vidas de los Agentes de LCCB."
+        },
+        {
+            "id": 32,
+            "model": "오티스",
+            "content": "Si fuésemos a perder otros tres días más en el mar, habría poca garantía para su bienestar."
+        },
+        {
+            "id": 33,
+            "model": "단테2",
+            "content": "<Bueno... ¿Cuál es el plan?>"
+        },
+        {
+            "id": 34,
+            "model": "오티스",
+            "content": "... Seguir adelante."
+        },
+        {
+            "id": 35,
+            "content": "Con eso, Outis levantó lentamente la palanca de aceleración."
+        },
+        {
+            "id": 36,
+            "model": "파우스트",
+            "content": "¡...!"
+        },
+        {
+            "id": 37,
+            "model": "이스마엘",
+            "content": "¿Qué?"
+        },
+        {
+            "id": 38,
+            "model": "베르길리우스",
+            "content": "... Hmm."
+        },
+        {
+            "id": 39,
+            "model": "이스마엘",
+            "content": "¿Estás loca? Si hacemos eso, estaríamos navegando directamente hacia las Olas. Lo sabes, ¿cierto?"
+        },
+        {
+            "id": 40,
+            "model": "오티스",
+            "content": "Sé lo que son las Olas, grumete. No soy tan ignorante con respecto al Gran Lago como crees. Tú también has de tener experiencia capeándolas y conquistándolas, ¿verdad?"
+        },
+        {
+            "id": 41,
+            "model": "이스마엘",
+            "content": "¡Por supuesto! ¡Pero porque fueron Olas que no se podían evitar! ¡Porque no teníamos la información como para tomar una ruta alternativa! Nunca me metí a una Ola con la intención de hacerlo."
+        },
+        {
+            "id": 42,
+            "model": "오티스",
+            "content": "Pero aún así prevaleciste, ¿no es así?"
+        },
+        {
+            "id": 43,
+            "model": "이스마엘",
+            "content": "......."
+        },
+        {
+            "id": 44,
+            "model": "오티스",
+            "content": "Y aquello fue cuando no tenías a alguien para traerte devuelta. Yo digo que esto está dentro de nuestras capacidades."
+        },
+        {
+            "id": 45,
+            "model": "오티스",
+            "content": "Además, también tenemos el beneficio añadido de acelerar el progreso de nuestra misión y de aumentar las posibilidades de rescate que el Gerente Ejecutivo y algunos otros subordinados buscaban."
+        },
+        {
+            "id": 46,
+            "model": "오티스",
+            "content": "Ishmael, para mí, tu descontento con lo lento que ha sido nuestro progreso estaba claro. ¿Qué pasó ahora? ¿De la nada te entraron ganas de darte una pausa de tres días para tomar sol?"
+        },
+        {
+            "id": 47,
+            "content": "En lugar de responder al sarcástico comentario de Outis, Ishmael miró con atención hacia la dirección a la que se dirigía el barco."
+        },
+        {
+            "id": 48,
+            "model": "이스마엘",
+            "content": "Esa marea... ese hedor... esa velocidad... ese color... Ese de ahí es... el Remolinoso Lago Azul de las Tinieblas y el Olor a Pescado. Nunca había sufrido de sus Olas antes, pero sé de muchos barcos que sí. Muchos de los cuales ahora se encuentran en el fondo de sus profundidades."
+        },
+        {
+            "id": 49,
+            "model": "오티스",
+            "content": "Es tan simple como no terminar como ellos."
+        },
+        {
+            "id": 50,
+            "model": "싱클레어",
+            "content": "¿Q-qué tal si vamos a echar un vistazo rápido...? Si sentimos que es demasiado para nosotros, siempre podemos dar la vuelta y regresar... ¿verdad?"
+        },
+        {
+            "id": 51,
+            "model": "이스마엘",
+            "content": "¿Dar la vuelta y regre...? ¡En este Lago... la opción de dar la vuelta y regresar no existe!"
+        },
+        {
+            "id": 52,
+            "model": "파우스트",
+            "content": "¿Su decisión, Dante?"
+        },
+        {
+            "id": 53,
+            "model": "단테2",
+            "content": "<... Intentemos seguir el plan de Outis.>"
+        },
+        {
+            "id": 54,
+            "model": "파우스트",
+            "content": "Entendido. Cruzando los límites de la zona hacia el Lago especificado."
+        },
+        {
+            "id": 55,
+            "model": "이스마엘",
+            "content": "Debes estar bromeando... Hahh. Outis, más te vale estar en lo correcto..."
+        },
+        {
+            "id": 56,
+            "content": "Tan pronto como esas palabras salieron de la boca de Ishmael, un destello apareció en el cielo."
+        },
+        {
+            "id": 57,
+            "place": "A bordo de la Cubierta de Mefistófeles",
+            "model": "단테2",
+            "content": "<¿Un trueno...?>"
+        },
+        {
+            "id": 58,
+            "model": "홍루",
+            "content": "... Sí que está lloviendo a cántaros."
+        },
+        {
+            "id": 59,
+            "model": "료슈",
+            "content": "Estamos en el ojo de la tormenta."
+        },
+        {
+            "id": 60,
+            "model": "단테2",
+            "content": "<Espera... ¡Pero si el cielo estaba despejado hasta hace apenas unos momentos! ¿Cómo es que...?>"
+        },
+        {
+            "id": 61,
+            "model": "이스마엘",
+            "content": "Las Olas ya están aquí, gerente."
+        },
+        {
+            "id": 62,
+            "place": "Cabinas de Mefistófeles",
+            "model": "베르길리우스",
+            "content": "... Hmm. Eso fue entretenido de ver."
+        },
+        {
+            "id": 63,
+            "model": "베르길리우스",
+            "content": "Charon, esta parece ser una buena oportunidad para poner a prueba esa función."
+        },
+        {
+            "id": 64,
+            "model": "카론",
+            "content": "Bien. Cambiando al modo Aguante."
+        },
+        {
+            "id": 65
+        },
+        {
+            "id": 66,
+            "content": "Fue entonces cuando lo empecé a asimilar."
+        },
+        {
+            "id": 67,
+            "content": "Lo que le sucedió, lo que le sucede y lo que le sucederá a todos y a todo lo que entre a este Lago sin preparación."
+        },
+        {
+            "id": 68
+        },
+        {
+            "id": 69,
+            "place": "A bordo de la Cubierta de Mefistófeles",
+            "model": "단테2",
+            "content": "<¿Qué deberíamos...? ¿Qué hacemos ahora, Ishmael?>"
+        },
+        {
+            "id": 70,
+            "model": "이스마엘",
+            "content": "... Hay un dicho que todo marinero novato del Gran Lago escucha antes de embarcarse en su primer viaje."
+        },
+        {
+            "id": 71,
+            "model": "이스마엘",
+            "content": "'Cuando te encuentras en un Lago que no conoces, con Olas que se te hacen ajenas, solamente puedes contar con una cosa.'"
+        },
+        {
+            "id": 72,
+            "content": "Una Ola gigantesca se levanta ante nosotros."
+        },
+        {
+            "id": 73,
+            "model": "료슈",
+            "content": "... A.S.A. Preparen sus armas si es que quieren retrasar lo inevitable."
+        },
+        {
+            "id": 74,
+            "model": "이스마엘",
+            "content": "'Ese algo no es ni tu habilidad para navegar, ni tus ojos de explorador, ni el vínculo inquebrantable entre tú y tus compañeros.'"
+        },
+        {
+            "id": 75,
+            "model": "이스마엘",
+            "content": "'Son muchos los marineros que fracasan en esta prueba y prefieren convertirse en sacrificios para las profundidades del Lago.'"
+        },
+        {
+            "id": 76,
+            "model": "싱클레어",
+            "content": "¿Eh? ¡¿Qué es eso trepándose a nuestro barco?!"
+        },
+        {
+            "id": 77,
+            "teller": "Ishmael & Outis",
+            "title": "Pecadores",
+            "content": "'Para mantenerte firme frente al terror y las calamidades, no confíes en nada más que en tu propia determinación.'"
+        },
+        {
+            "id": 78,
+            "model": "이스마엘",
+            "content": "'Por muy indiferente que se mantenga el iracundo Lago ante la voluntad de tu miserable existencia.'"
+        }
+    ]
+}

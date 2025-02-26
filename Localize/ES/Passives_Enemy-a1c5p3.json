@@ -1,0 +1,28 @@
+{
+    "dataList": [
+        {
+            "id": 9009801,
+            "name": "Palidificación Suprimida",
+            "desc": "Al Inicio del Turno gana 'Nivel Ofensivo' y 'Nivel Defensivo' según el numero de aliados sobrevivientes (sin contar a esta unidad)",
+            "summary": ""
+        },
+        {
+            "id": 9009802,
+            "name": "Órdenes de la Capitán",
+            "desc": "Al Inicio del Turno, cura (# de otros aliados sobrevivientes x 3)",
+            "summary": ""
+        },
+        {
+            "id": 9009803,
+            "name": "Odio y Hostilidad Inyectados",
+            "desc": "Fin Del Turno: A 50%- HP, gana 1 Poder de Ataque Aumentado el siguiente turno. (una vez por encuentro)",
+            "summary": ""
+        },
+        {
+            "id": 9009804,
+            "name": "Palidificación Abrumadora",
+            "desc": "Fin Del Turno: A menos de 0 PC, 50% de probabilidad de cambiar el patrón de Habilidades.",
+            "summary": ""
+        }
+    ]
+}

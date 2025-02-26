@@ -1,0 +1,190 @@
+{
+  "dataList": [
+    {
+      "id": 2047,
+      "name": "Un Sueño Roto",
+      "desc": "Al obtener este Regalo E.G.O, obtén los siguientes efectos:\n• El nivel de Don Quixote aumenta a 50\n• Los Grados de Aunado y Cognición de Don Quixote aumentan a Grado 4\n(Si el valor del nivel o los Grados de Aunado y Cognición son mayores a los mencionados antes, entonces mantienen estos valores mayores.)",
+      "simpleDesc": [
+        {
+          "abilityID": 2047,
+          "simpleDesc": "El nivel de Don Quixote aumenta a 50"
+        },
+        {
+          "abilityID": 204701,
+          "simpleDesc": "Los Grados de Aunado y Cognición de Don Quixote aumentan a Grado 4"
+        }
+      ]
+    },
+    {
+      "id": 2048,
+      "name": "Pase de Todo el Día de La Manchaland",
+      "desc": "Tras golpear objetivos con 10+ de (suma de [Laceration], 'Sangrado Único', y [Burst]): gana 1 Potencia y Contador de [Breath] (3 veces por Habilidad)",
+      "simpleDesc": [
+        {
+          "abilityID": 2048,
+          "simpleDesc": "Tras golpear objetivos con 10+ de (suma de [Laceration], 'Sangrado Único', y [Burst]): gana 1 Potencia y Contador de [Breath]"
+        }
+      ]
+    },
+    {
+      "id": 2049,
+      "name": "Pase General de La Manchaland",
+      "desc": "Inicio del Primer Turno de un Encuentro: todas las unidades ganan 4 Potencia y Contador de [Laceration].",
+      "simpleDesc": [
+        {
+          "abilityID": 2049,
+          "simpleDesc": "Inicio del Primer Turno de un Encuentro: todas las unidades ganan 4 Potencia y Contador de [Laceration]."
+        }
+      ]
+    },
+    {
+      "id": 2050,
+      "name": "Medalla de Victoria",
+      "desc": "Al Matar con daño de Habilidad: 1 aliado con los menores PC cura 8 PC.\nTras atacar: si un enemigo con 10+ de (suma de [Laceration], 'Sangrado Único', y [Burst]) es derrotado, la unidad que derrotó al enemigo gana 2 [AttackUp] el siguiente turno. (3 veces por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2050,
+          "simpleDesc": "Al matar, 1 aliado con los menores PC cura 8 PC."
+        },
+        {
+          "abilityID": 205001,
+          "simpleDesc": "Tras atacar: si un enemigo con 10+ de (suma de [Laceration], 'Sangrado Único', y [Burst]) es derrotado, la unidad que derrotó al enemigo gana 2 [AttackUp] el siguiente turno."
+        }
+      ]
+    },
+    {
+      "id": 2051,
+      "name": "Látigo de Autoflagelación",
+      "desc": "Cuando 1 aliado con el mayor porcentaje actual de HP usa una Habilidad de Ataque, este gana 10 de [Laceration], 3 [AttackUp] y 3 [DefenseUp]. (Una vez por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 2051,
+          "simpleDesc": "Cuando 1 aliado con el mayor porcentaje actual de HP usa una Habilidad de Ataque, este gana 10 de [Laceration], 3 [AttackUp] y 3 [DefenseUp]."
+        }
+      ]
+    },
+    {
+      "id": 2052,
+      "name": "Máscara del Desfile",
+      "desc": "Combates en Cadena: cuando un nuevo enemigo entra al campo de batalla, inflige 5 de [Laceration] y +3 Contador de [Laceration] a ese enemigo al inicio de la batalla.",
+      "simpleDesc": [
+        {
+          "abilityID": 2052,
+          "simpleDesc": "Combates en Cadena: cuando un nuevo enemigo entra al campo de batalla, inflige 5 de [Laceration] y +3 Contador de [Laceration] a ese enemigo al inicio de la batalla."
+        }
+      ]
+    },
+    {
+      "id": 2053,
+      "name": "Cubo Devorador",
+      "desc": "Cuando un aliado muere, gana 1 recurso E.G.O por cada una de las Habilidades 1, 2 y 3 de ese aliado y 1 recurso E.G.O aleatorio.\nTras atacar: si el enemigo fue derrotado, gana 1 recurso E.G.O aleatorio (una vez por Habilidad)",
+      "simpleDesc": [
+        {
+          "abilityID": 2053,
+          "simpleDesc": "Cuando un aliado muere, gana 1 recurso E.G.O por cada una de las Habilidades 1, 2 y 3 de ese aliado y 1 recurso E.G.O aleatorio."
+        },
+        {
+          "abilityID": 205301,
+          "simpleDesc": "Tras atacar: si el enemigo fue derrotado, gana 1 recurso E.G.O aleatorio (una vez por Habilidad)"
+        }
+      ]
+    },
+    {
+      "id": 2054,
+      "name": "Hambre Insaciable",
+      "desc": "Inicio del Primer Turno de un Encuentro: Todas las identidades en el campo de batalla pierden 5 PC y ganan 1 [Enhancement] por 3 turnos.\nSi dichas Identidades son un Demonio de Sangre, pierden 10 PC, y gana 2 [Enhancement] por 3 turnos, e inflige +1 Potencia y Contador de [Laceration] con los efectos de Habilidad y Moneda.",
+      "simpleDesc": [
+        {
+          "abilityID": 2054,
+          "simpleDesc": "Inicio del Primer Turno de un Encuentro: Todas las identidades en el campo de batalla pierden 5 PC y ganan 1 [Enhancement] por 3 turnos."
+        },
+        {
+          "abilityID": 205401,
+          "simpleDesc": "Si dichas Identidades son un Demonio de Sangre, pierde 10 PC, y gana 2 [Enhancement] por 3 turnos, e inflige +1 Potencia y Contador de [Laceration] con los efectos de Habilidad y Moneda."
+        }
+      ]
+    },
+    {
+      "id": 2055,
+      "name": "Un Pequeño Sueño",
+      "desc": "Tras Choque Ganado con una Habilidad de Orgullo: cura 5 PC.\nAl Golpear tras Choque Ganado con dicha habilidad: inflige +1 Contador de [Laceration] y +1 Contador de [Burst] (4 veces por Habilidad)",
+      "simpleDesc": [
+        {
+          "abilityID": 2055,
+          "simpleDesc": "Tras Choque Ganado con una Habilidad de Orgullo: cura 5 PC. y Al Golpear tras Choque Ganado con dicha habilidad: inflige +1 Contador de [Laceration] y +1 Contador de [Burst]"
+        }
+      ]
+    },
+    {
+      "id": 2056,
+      "name": "Un Sueño Vacío",
+      "desc": "Tras Golpear objetivos con [Laceration] o 'Sangrado Único´: cura 2~5 HP.\nHabilidades que consuman [BloodDinner]: Poder de Moneda +1",
+      "simpleDesc": [
+        {
+          "abilityID": 2056,
+          "simpleDesc": "Cura HP Tras Golpear objetivos con [Laceration] o 'Sangrado Único'."
+        },
+        {
+          "abilityID": 205601,
+          "simpleDesc": "Habilidades que consuman [BloodDinner]: Poder de Moneda +1"
+        }
+      ]
+    },
+    {
+      "id": 2057,
+      "name": "El Sueño Comienza Nuevamente",
+      "desc": "Todas las Habilidades de Don Quixote ganan Poder Final +2\nCuando muere un aliado, todos los aliados restantes curan 15 PC, y al Final del Turno, ganan 1 [Enhancement] el siguiente turno ([Enhancement] máximos: 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 2057,
+          "simpleDesc": "Habilidades de Don Quixote ganan Poder Final +2"
+        },
+        {
+          "abilityID": 205701,
+          "simpleDesc": "Cuando muere un aliado, los aliados restantes curan 15 PC, y al Final del Turno, ganan 1 [Enhancement] el siguiente turno"
+        }
+      ]
+    },
+    {
+      "id": 2058,
+      "name": "Estaca de Hierro Mugrosa",
+      "desc": "Al golpear un enemigo usando una Habilidad de una sola Moneda, inflige 1 de Potencia de [Laceration]. Inflige 2 [DefenseDown] hasta el final del siguiente turno.\nSi el objetivo ya tiene [Laceration] o 'Sangrado Único', inflige 3 de Potencia de [Laceration] en su lugar.",
+      "simpleDesc": [
+        {
+          "abilityID": 2058,
+          "simpleDesc": "Inflige 1 Potencia de [Laceration]. Inflige 2 [DefenseDown] hasta el final de el siguiente turno."
+        },
+        {
+          "abilityID": 205801,
+          "simpleDesc": "Inflige 3 Potencia de [Laceration]"
+        }
+      ]
+    },
+    {
+      "id": 2059,
+      "name": "Lazo Espinoso",
+      "desc": "Fin Del Turno: inflige Potencia de [Burst] a todos los enemigos equivalente al valor de su Velocidad.\n\nAl activar Resonancia Absoluta de Lujuria, aplica 3 Potencia de [Burst] y 3 Contador de [Burst] a un enemigo aleatorio al Inicio de la batalla.",
+      "simpleDesc": [
+        {
+          "abilityID": 2059,
+          "simpleDesc": "Inflige Potencia de [Burst] por la Velocidad"
+        },
+        {
+          "abilityID": 205901,
+          "simpleDesc": "Inflige 3 Potencia de [Burst] y +3 Contador de [Burst]"
+        }
+      ]
+    },
+    {
+      "id": 2060,
+      "name": "Carmilla",
+      "desc": "Al inicio de un encuentro no centrado, todos los enemigos toman daño fijo equivalente al 20% de su HP Máx.",
+      "simpleDesc": [
+        {
+          "abilityID": 2060,
+          "simpleDesc": "Inflige 20% de la HP Máx como daño fijo"
+        }
+      ]
+    }
+  ]
+}

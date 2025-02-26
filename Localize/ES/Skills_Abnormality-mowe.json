@@ -1,0 +1,227 @@
+{
+  "dataList": [
+    {
+      "id": 835001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arrollidaros Ante Mí",
+          "desc": "[WhenUse] Si el objetivo tiene 4+ de [Laceration], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Qué Patético",
+          "desc": "[WhenUse] Si el objetivo tiene 4+ de [Laceration], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Iros... Iros...!",
+          "desc": "[WhenUse] Si el objetivo tiene 4+ de [Laceration], Poder de Choque +1\n[WhenUse] Inflige +5% de daño por cada Contador de [Laceration] en el objetivo (máx 20%)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Laceration] y +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "El Príncipe del Desfile",
+          "desc": "[StartBattle] Gana Alcance de Atq igual al número de objetivos con [Laceration] (máx 5)\n[WhenUse] Si el objetivo tiene 4+ de [Laceration], Poder Base +1\n[WhenUse] Si el objetivo tiene 3+ de [Laceration], Poder de Moneda +1\n[DefeatDuel] Pierde 1 de [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Sangre... Sangre... Sangre...!",
+          "desc": "[WhenUse] Si el objetivo tiene 8+ de [Laceration], Poder de Moneda +1\n[DefeatDuel] Pierde 1 de [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] y +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], la siguiente Moneda inflige +20% de daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [KeptBlood]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Dejadme Solo...!",
+          "desc": "[WhenUseEvade] Poder Base +1 por cada Contador de [Laceration] en el objetivo (máx 4)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Yo Soy... El Príncipe... del Desfile...!",
+          "desc": "[CantDuel]\n[WhenUse] Duplica la cantidad curada por Guja de Sangre Cristalizada\n[WhenUse] Reinicia PC a 0\n[EndSkill] Gana 10 de [KeptBlood]\nDoes not get Staggered this turn; ends turn after using this Skill.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡No Voy... A Volver... Jamás...!",
+          "desc": "[WhenUse] Poder de Choque +1 por cada 5 de [Laceration] en el objetivo (máx 3)\n[WhenUse] Si el objetivo tiene 4+ de [Laceration], Poder de Moneda +1\n[WhenUse] Inflige +5% de daño por cada [Laceration] en el objetivo (máx 20%)\n[WhenUse] Duplica la cantidad curada por Guja de Sangre Cristalizada\n[EndSkill] Gana 10 de [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y +1 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

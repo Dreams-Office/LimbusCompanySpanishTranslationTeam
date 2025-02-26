@@ -1,0 +1,397 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Puesto de Mando Provisorio",
+      "model": "로쟈",
+      "content": "B-bueno, ¿alguien quiere dar un paseo rápido por el terreno vacío mientras esperamos...?"
+    },
+    {
+      "id": 1,
+      "content": "Después de mirar nerviosamente alrededor de la habitación, Rodya intentó salir de la carpa. Pero Vergilius la detuvo."
+    },
+    {
+      "id": 2,
+      "model": "베르길리우스",
+      "content": "No, quédate. Tengo algo que compartir."
+    },
+    {
+      "id": 3,
+      "model": "히스클리프",
+      "content": "Nah, dale. ¿No le podés dar un momento hasta que la misión se acabe? Ya se que la tipa se fue a la mierda está vez, pero al final no pasó nada, ¿cierto?"
+    },
+    {
+      "id": 4,
+      "model": "베르길리우스",
+      "content": "... La compañía tiene información exclusiva que les gustaría compartir con ustedes. Esa es la única razón por la que pedí que te quedaras."
+    },
+    {
+      "id": 5,
+      "model": "돈키호테",
+      "content": "Ah... ejem... Señor... Caballero... M-mirada Roja... A-antes, lo que hice..."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "... No te lo tomaré a mal. Así que cállate y presta atención."
+    },
+    {
+      "id": 7,
+      "model": "돈키호테",
+      "content": "Waa... Oh, el ilustre Mirada Roja... Os juro prometer lealtad eterna hacia usted..."
+    },
+    {
+      "id": 8,
+      "content": "Vergilius sacó una pequeña tableta y comenzó a cargar algo en su pantalla."
+    },
+    {
+      "id": 9,
+      "model": "베르길리우스",
+      "content": "La persona que ahora nos informará sobre esta información exclusiva no puede estar con nosotros en persona, debido a... razones personales."
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "Ella quería que les dijera que lamenta tener que entregar la información de manera remota a través de este dispositivo."
+    },
+    {
+      "id": 11,
+      "model": "모제스",
+      "teller": "¿¿??",
+      "title": "¿¿??",
+      "content": "Hola. Uno, dos, probando. ¿Me escuchan?"
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "¿Eh? ¿No prohibió el Fixer de Hana cualquier grabación o transmisión de video no autorizada anteriormente?"
+    },
+    {
+      "id": 13,
+      "model": "베르길리우스",
+      "content": "Por supuesto, pero hemos recibido autorización previa. Además, P Corp. ya está grabando las conversaciones de todos los participantes en esta misión."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Eso solo suena como una manera indirecta de decir que nos tienen a todos grabados."
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "Por supuesto, la autorización no fue gratuita. Tuvimos que convencerlos de que la información sería pertinente para capturar a la entidad que está en el origen de La Manchaland."
+    },
+    {
+      "id": 16,
+      "model": "모제스",
+      "content": "Líder del Equipo de Razonamiento Investigativo en el Sitio de LCD, aquí Moses. He estado estudiando e investigando el fenómeno de la Distorsión durante mucho tiempo. Y—"
+    },
+    {
+      "id": 17,
+      "content": "Eso me recuerda. Tuvimos una rápida llamada con alguien de la LCD en aquel entonces. Tenía una personalidad bastante burbujeante, creo, y su nombre era..."
+    },
+    {
+      "id": 18,
+      "model": "에즈라",
+      "content": "¡Ey, ey! ¡Soy yo otra vez, Ezra! ¡Ha pasado un tiempo!"
+    },
+    {
+      "id": 19,
+      "model": "에즈라",
+      "content": "¿Cazando Demonios de Sangre esta vez, eh? ¡No me digas que estabas a punto de lanzarte de cabeza a ese negocio sin siquiera preguntar a la detec— quiero decir, a nuestra Líder de Equipo! Te lo digo ahora, ella solía romper muchas cabezas de Demonios de Sangre en su día."
+    },
+    {
+      "id": 20,
+      "model": "에즈라",
+      "content": "Diles cómo solías darles una paliza, jefa. ¡Tú hacías sshhhhhh con esa pipa humeante, y luego wurr! ¡Wurrr! Y—"
+    },
+    {
+      "id": 21,
+      "model": "모제스",
+      "content": "Bueno, sí. Tengo algo de experiencia en investigar y luchar contra los Demonios de Sangre. Incluso he conocido a un Demonio de Sangre Antiguo... también conocidos como los Primeros Vástagos."
+    },
+    {
+      "id": 22,
+      "model": "싱클레어",
+      "content": "¿Espera, uno de los Primeros Vástagos?"
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "Ehh, veamos. El que luchamos la última vez era un Sexto Vástago, y un Séptimo Vástago..."
+    },
+    {
+      "id": 24,
+      "model": "모제스",
+      "content": "Bueno, no quiero hacerles perder el tiempo hablando sin parar sobre lo que ocurrió ese día, así que iré directo al grano."
+    },
+    {
+      "id": 25,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 26,
+      "model": "돈키호테",
+      "content": "... ¿Matasteis... al Primer Vástago?"
+    },
+    {
+      "id": 27,
+      "model": "모제스",
+      "content": "Por supuesto que no."
+    },
+    {
+      "id": 28,
+      "model": "에즈라",
+      "content": "Sí, porque no fue enserio con ellos, ya te digo."
+    },
+    {
+      "id": 29,
+      "model": "모제스",
+      "content": "No, el Demonio de Sangre tuvo misericordia de mí. Nuestro encuentro no fue tan sangriento como la escena que podrían estar imaginando."
+    },
+    {
+      "id": 30,
+      "model": "모제스",
+      "content": "De hecho, fue lo suficientemente generosa como para darme un lugar para sentarme. E incluso tuvimos un momento para conversar."
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "¿Qué? ¡¿El Demonio de Sangre te ofreció asiento?! ¿Te pensás que soy pelotudo?"
+    },
+    {
+      "id": 32,
+      "model": "에즈라",
+      "content": "¡Ey! ¡Grosero! No le hables así a la detec— quiero decir, a nuestra Líder de Equipo, ¡¿de acuerdo?!"
+    },
+    {
+      "id": 33,
+      "model": "모제스",
+      "content": "Hmm, entiendo que la percepción del público sobre los Demonios de Sangre está... lejos de ser amigable. Pero sé que al menos algunos de ellos, incluido la Anciana que conocí, desean una coexistencia pacífica con los humanos."
+    },
+    {
+      "id": 34,
+      "model": "모제스",
+      "content": "En ese entonces, solía poder afirmar con absoluta certeza que los Demonios de Sangre no eran especiales, que no eran diferentes de las Distorsiones que había enfrentado en el pasado. Esos pozos de sangre, salpicando dentro de sus pupilas, eran mi evidencia. Pero cuando compartí este pensamiento con la Antigua, ella no confirmó ni negó mis afirmaciones."
+    },
+    {
+      "id": 35,
+      "model": "모제스",
+      "content": "Pero ahora, me gustaría hacer una corrección a mi teoría anterior. Los Demonios de Sangre no pueden explicarse solo a través del simple prisma de verlos como Distorsiones."
+    },
+    {
+      "id": 36,
+      "model": "모제스",
+      "content": "Su esencia es similar a la de las Distorsiones, sí. Sin embargo, eventualmente llegamos a la conclusión de que los Demonios de Sangre no pueden clasificarse en esa categoría. Nuestro intento de 'resolver' a un Demonio de Sangre como se hace con una Distorsión fracasó."
+    },
+    {
+      "id": 37,
+      "model": "모제스",
+      "content": "Los estudios sobre su verdadero origen siguen en curso."
+    },
+    {
+      "id": 38,
+      "model": "오티스",
+      "content": "Si su equipo está investigando a los Demonios de Sangre, ¿supongo que tienen alguna información no disponible públicamente para compartir con el resto de nosotros?"
+    },
+    {
+      "id": 39,
+      "model": "모제스",
+      "content": "... Sí, supongo que sí."
+    },
+    {
+      "id": 40,
+      "content": "Noté en la transmisión de video que Moses miró a Outis de manera intensa, aunque breve, antes de continuar con su presentación. Tal vez se conocían de algún lugar."
+    },
+    {
+      "id": 41,
+      "model": "모제스",
+      "content": "Lo que nos lleva a... esto. Lo siguiente es lo que aprendimos sobre los Vástagos de los verdaderos Demonios de Sangre, aquellos en la misma línea del que ya han encontrado. No estoy hablando de aquellos que se manifestaron como Distorsiones después del incidente de las Noches Blancas y los Días Oscuros."
+    },
+    {
+      "id": 42,
+      "model": "모제스",
+      "content": "Se dice que el primogénito, el primer Demonio de Sangre, poseía un poder inimaginable y podía convertir a innumerables humanos en sus Vástagos. Sin embargo, comenzando con los Vástagos de la primera generación después del primogénito, que se conocen como los Primeros Vástagos, estaban restringidos a crear solo dos Vástagos de una generación inferior a lo largo de sus largas existencias."
+    },
+    {
+      "id": 43,
+      "model": "에즈라",
+      "content": "Algo sobre cómo no pueden simplemente crear 'familias' a lo loco, o algo así~ ¡Por cierto, dibujé este gráfico! No está nada mal, ¿eh?"
+    },
+    {
+      "id": 44,
+      "model": "그레고르",
+      "content": "Eh, sí. Creo que el tipo Cassette ese estaba bastante decepcionado por haber elegido a Sha-sha como su Vástago."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "... Faust encuentra difícil corregir las inexactitudes en tu declaración debido a su naturaleza escandalosa."
+    },
+    {
+      "id": 46,
+      "model": "모제스",
+      "content": "Cuando un Demonio de Sangre de una generación superior crea un Vástago de una generación inferior, el que lo convirtió se llama 'Vástago superior', mientras el que ha sido convertido se llama 'Vástago inferior'. A menudo ocurre que los Vástagos de un nivel más alto en la línea de sangre poseen un poder mucho mayor al de los que están por debajo de ellos."
+    },
+    {
+      "id": 47,
+      "model": "뫼르소",
+      "content": "Comenzaste tu oración con el condicional 'a menudo ocurre'. Por lo tanto, puede interpretarse como una afirmación de que hay casos en los que eso no es así."
+    },
+    {
+      "id": 48,
+      "model": "에즈라",
+      "content": "¡Diste en el clavo! Así como cada Distorsión es diferente, los Demonios de Sangre también lo son de varias maneras..."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 50,
+      "model": "에즈라",
+      "content": "... qué nuestra Líder de Equipo explicará!"
+    },
+    {
+      "id": 51,
+      "model": "모제스",
+      "content": "Haah... Sí. Los poderes y las idiosincrasias de cada Demonio de Sangre a menudo varían según las habilidades del Demonio de Sangre superior. Sin embargo, generalmente es imposible para los Demonios de Sangre inferiores rebelarse contra alguien de un nivel superior en la línea de sangre. Si bien no hay una barrera física que lo impida, existe una intensa barrera psicológica que les impide hacerlo."
+    },
+    {
+      "id": 52,
+      "model": "그레고르",
+      "content": "... Como un padre y su hijo."
+    },
+    {
+      "id": 53,
+      "model": "모제스",
+      "content": "Sí, como padres y sus hijos. Teniendo en cuenta que incluso se llaman entre sí con términos familiares como 'Padre', 'Madre' e 'Hijo'... no es solo una mera metáfora. Por eso llaman a tales actos de revuelta, que van en contra de la línea de sangre... 'impiedad filial'."
+    },
+    {
+      "id": 54,
+      "model": "모제스",
+      "content": "Así como 'la sangre' se convierte en su eje de juicio de valor, también esta idea de la relación inviolable entre los miembros de la familia se imprime en el núcleo de su ser. Al ser convertidos, los Demonios de Sangre experimentan ese nivel extremo de torsión en su juicio moral."
+    },
+    {
+      "id": 55,
+      "model": "싱클레어",
+      "content": "Y por eso las Bolsas de Sangre, que están en el peldaño más bajo del árbol genealógico..."
+    },
+    {
+      "id": 56,
+      "model": "모제스",
+      "content": "Las Bolsas de Sangre son... una historia diferente. Los Demonios de Sangre y las Bolsas de Sangre son los dos grupos de seres que más se alejan de la familia."
+    },
+    {
+      "id": 57,
+      "model": "모제스",
+      "content": "Residuos que no lograron convertirse en Vástagos. Para los Demonios de Sangre, son... literalmente, bolsas portátiles de sangre para reabastecerse en momentos de necesidad."
+    },
+    {
+      "id": 58,
+      "model": "에즈라",
+      "content": "Detective, quiero decir... Líder de Equipo, deberías mencionar eso también. Ya sabes, cuando rompí sus cuellos y los estrellé contra el agua..."
+    },
+    {
+      "id": 59,
+      "model": "모제스",
+      "content": "Sí. Los Demonios de Sangre tienen un miedo irracionalmente extremo al agua. El agua no les causa daño físico, pero cada Demonio de Sangre que he visto hasta ahora ha tenido miedo de ella."
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "¿Eh? Suena como una solución fácil, entonces. ¿No podemos simplemente rociarlos con agua para mantenerlos alejados de nosotros?"
+    },
+    {
+      "id": 61,
+      "model": "모제스",
+      "content": "Dado que están a punto de visitar su guarida, que está llena de Demonios de Sangre... buena suerte encontrando siquiera una gota de agua allí."
+    },
+    {
+      "id": 62,
+      "model": "모제스",
+      "content": "Oh, y me informaron que uno de ustedes puede 'sentir' una Distorsión. Aprendí esto a través de canales no oficiales, pero aún así quería compartirlo."
+    },
+    {
+      "id": 63,
+      "model": "단테",
+      "content": "<Uh...>"
+    },
+    {
+      "id": 64,
+      "model": "모제스",
+      "content": "Me alegra saber que hay alguien más allá que entiende esta sensación en particular."
+    },
+    {
+      "id": 65,
+      "model": "모제스",
+      "content": "Me encantaría conocerte en persona algún día."
+    },
+    {
+      "id": 66,
+      "model": "에즈라",
+      "content": "Es una pena que no podamos estar allí para verlo nosotras mismas. ¿Hay algún Fixer famoso allí? Escuché antes que ese estúpido niño Camille también estará allí... ¡Denle una paliza de mi parte! Porfis. ¡Intenté hacerle una broma, pero el bastardo me prohibió el acceso al chat!"
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "content": "Bueno, él ya le dio una paliza a uno de los nuestros..."
+    },
+    {
+      "id": 68,
+      "model": "에즈라",
+      "content": "¡Eh, Vespa! ¡Te dije que mantuvieras la señal!"
+    },
+    {
+      "id": 69,
+      "model": "이상",
+      "content": "Parece que están participando en... una actividad bastante intensa."
+    },
+    {
+      "id": 70,
+      "model": "베르길리우스",
+      "content": "Creo que podemos terminar la llamada aquí, Moses."
+    },
+    {
+      "id": 71,
+      "model": "모제스",
+      "content": "Muy bien."
+    },
+    {
+      "id": 72,
+      "model": "로쟈",
+      "content": "¿Tienes alguna últimas palabras de advertencia?"
+    },
+    {
+      "id": 73,
+      "model": "모제스",
+      "content": "¿Últimas palabras...? Hmm."
+    },
+    {
+      "id": 74,
+      "model": "모제스",
+      "content": "Una vez escuché que algunos Vástagos de un nivel más alto en la línea de sangre han superado su miedo al agua. Después de todo, la sangre eventualmente se vuelve más espesa que el agua. Ahora, veamos si hay algo que dejé de lado..."
+    },
+    {
+      "id": 75,
+      "model": "모제스",
+      "content": "Ah, probablemente debería aconsejar que no subestimes su sed de sangre. Aman la sangre más de lo que puedas creer..."
+    },
+    {
+      "id": 76,
+      "model": "모제스",
+      "content": "Y hambrientos son mucho peor."
+    },
+    {
+      "id": 77,
+      "model": "로쟈",
+      "content": "¿Qué se supone que significa eso...?"
+    },
+    {
+      "id": 78,
+      "content": "Con sus últimas palabras, que nos dejó preguntándonos qué se suponía que significaba, la llamada se cortó."
+    }
+  ]
+}

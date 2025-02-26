@@ -1,0 +1,1856 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_main_button0",
+      "content": "Menú"
+    },
+    {
+      "id": "mainui_main_button1",
+      "content": "Pecadores"
+    },
+    {
+      "id": "mainui_main_button2",
+      "content": "Teatro"
+    },
+    {
+      "id": "mainui_main_button3",
+      "content": "Conducir"
+    },
+    {
+      "id": "mainui_main_button4",
+      "content": "Extraccion"
+    },
+    {
+      "id": "mainui_main_button5",
+      "content": "Dispensa"
+    },
+    {
+      "id": "mainui_main_exp",
+      "content": "EXP"
+    },
+    {
+      "id": "mainui_main_stamina",
+      "content": "Aguante"
+    },
+    {
+      "id": "mainui_main_enkephalin",
+      "content": "Encefalina"
+    },
+    {
+      "id": "mainui_main_madness",
+      "content": "Lunacy"
+    },
+    {
+      "id": "mainui_battleselection_everydungeon",
+      "content": "Mazmorra Espejo"
+    },
+    {
+      "id": "mainui_stageinfo_recommendlevel",
+      "content": "Dificultad"
+    },
+    {
+      "id": "mainui_stageinfo_enemyinfo",
+      "content": "Info. Enemiga"
+    },
+    {
+      "id": "mainui_stageinfo_exclearcondition",
+      "content": "Objetivos EX"
+    },
+    {
+      "id": "mainui_stageinfo_statinfo",
+      "content": "Estado"
+    },
+    {
+      "id": "mainui_stageinfo_resistinfo",
+      "content": "Resistencias"
+    },
+    {
+      "id": "mainui_stageinfo_enterbutton",
+      "content": "Entrar"
+    },
+    {
+      "id": "mainui_stageinfo_dungeonclear",
+      "content": "Objectivos Principales"
+    },
+    {
+      "id": "mainui_sinners_battleannouncer",
+      "content": "Anunciador"
+    },
+    {
+      "id": "mainui_sinners_dante",
+      "content": "Dante"
+    },
+    {
+      "id": "mainui_sinners_decklist",
+      "content": "MAZOS"
+    },
+    {
+      "id": "mainui_sinners_deck",
+      "content": "Mazo"
+    },
+    {
+      "id": "mainui_sinners_passive",
+      "content": "PASIVAS"
+    },
+    {
+      "id": "mainui_sinners_egoresource",
+      "content": "AFINIDADES"
+    },
+    {
+      "id": "mainui_sinners_participant",
+      "content": "Seleccionar participantes"
+    },
+    {
+      "id": "mainui_sinners_startbattle",
+      "content": "A Combatir!"
+    },
+    {
+      "id": "mainui_common_personality",
+      "content": "Identidad"
+    },
+    {
+      "id": "mainui_common_filter",
+      "content": "Filtro"
+    },
+    {
+      "id": "mainui_common_state",
+      "content": "Actual"
+    },
+    {
+      "id": "mainui_common_sort",
+      "content": "Clasificar"
+    },
+    {
+      "id": "mainui_sinners_unequipego",
+      "content": "Desequipado"
+    },
+    {
+      "id": "mainui_skip_desc",
+      "content": "¿Seguro que quieres omitir la historia?"
+    },
+    {
+      "id": "mainui_battleresult_reward",
+      "content": "Recompensas"
+    },
+    {
+      "id": "mainui_battleresult_exclearreward",
+      "content": "Recompensas EX"
+    },
+    {
+      "id": "mainui_battleresult_statistics",
+      "content": "Estadisticas"
+    },
+    {
+      "id": "mainui_ok",
+      "content": "Confirmar"
+    },
+    {
+      "id": "mainui_battleresult_victory",
+      "content": "Victoria"
+    },
+    {
+      "id": "mainui_battleresult_defeat",
+      "content": "Derrota"
+    },
+    {
+      "id": "mainui_battleresult_return",
+      "content": "Volver"
+    },
+    {
+      "id": "mainui_battleresult_hint",
+      "content": "Pista"
+    },
+    {
+      "id": "mainui_page",
+      "content": "Pg. {0}"
+    },
+    {
+      "id": "mainui_cancel",
+      "content": "Cancelar"
+    },
+    {
+      "id": "mainui_select",
+      "content": "Seleccionar"
+    },
+    {
+      "id": "mainui_select_finished",
+      "content": "Finalizar"
+    },
+    {
+      "id": "mainui_grade",
+      "content": "Etapa {0}"
+    },
+    {
+      "id": "mainui_floor",
+      "content": "Piso {0}"
+    },
+    {
+      "id": "mainui_main_enkephalin_Box",
+      "content": "Caja de Encefalina"
+    },
+    {
+      "id": "mainui_main_own_count",
+      "content": "Tienes"
+    },
+    {
+      "id": "mainui_mirror_entrance_entry",
+      "content": "¿Vas a entrar a {0}?"
+    },
+    {
+      "id": "mainui_mirror_entrance_progressing",
+      "content": "{0} Está en progreso."
+    },
+    {
+      "id": "mainui_mirror_entrance_re_entry",
+      "content": "¿Vas a volver a entrar a la mazmorra?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit",
+      "content": "¿Dejar de explorar mazmorra?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit_former",
+      "content": "¿Abandonar progreso de exploracion en curso?"
+    },
+    {
+      "id": "mainui_mirror_entrance_warning",
+      "content": "※ Modulos de Encefalina gastados no seran devueltos."
+    },
+    {
+      "id": "mainui_proress",
+      "content": "Proceder"
+    },
+    {
+      "id": "mainui_stop",
+      "content": "Interrumpir"
+    },
+    {
+      "id": "mainui_next",
+      "content": "Siguiente"
+    },
+    {
+      "id": "mainui_ego_list",
+      "content": "Lista E.G.O"
+    },
+    {
+      "id": "mainui_personality_list",
+      "content": "Lista de Identidades"
+    },
+    {
+      "id": "mainui_acquired_reward",
+      "content": "Recompensas Adquiridas"
+    },
+    {
+      "id": "mainui_dungeon_finished",
+      "content": "Pausar Exploracion"
+    },
+    {
+      "id": "mainui_category",
+      "content": "Relato"
+    },
+    {
+      "id": "mainui_stats_hp",
+      "content": "HP"
+    },
+    {
+      "id": "mainui_stats_speed",
+      "content": "SPD"
+    },
+    {
+      "id": "mainui_stats_defense",
+      "content": "Nivel de Defensa"
+    },
+    {
+      "id": "mainui_upgrade",
+      "content": "Mejorar"
+    },
+    {
+      "id": "mainui_mirror_select_ego",
+      "content": "E.G.O"
+    },
+    {
+      "id": "mainui_mirror_opening",
+      "content": "Abierto ahora"
+    },
+    {
+      "id": "mainui_simulation",
+      "content": "Simulación"
+    },
+    {
+      "id": "mainui_untill",
+      "content": "Expiración"
+    },
+    {
+      "id": "mainui_free",
+      "content": "Gratis"
+    },
+    {
+      "id": "mainui_paid",
+      "content": "Paga"
+    },
+    {
+      "id": "mainui_support",
+      "content": "Soporte"
+    },
+    {
+      "id": "mainui_gacha_rateinfo",
+      "content": "Probabilidades"
+    },
+    {
+      "id": "mainui_gacha_history",
+      "content": "Historial de Extraccion"
+    },
+    {
+      "id": "mainui_gacha_daliynotice",
+      "content": "Se reinicia cada dia a las{0}:00"
+    },
+    {
+      "id": "mainui_gacha_alreadyusedgacha",
+      "content": "Cuota diaria agotada"
+    },
+    {
+      "id": "mainui_gacha_extract1",
+      "content": "Extraer 1"
+    },
+    {
+      "id": "mainui_gacha_extract10",
+      "content": "Extraer 10"
+    },
+    {
+      "id": "mainui_open_battlepass",
+      "content": "El Pase de Batalla ha sido desbloqueado!"
+    },
+    {
+      "id": "mainui_grade_without_space",
+      "content": "Paso {0}"
+    },
+    {
+      "id": "mainui_type",
+      "content": "Tipo"
+    },
+    {
+      "id": "mainui_level_unit",
+      "content": "{0}★"
+    },
+    {
+      "id": "mainui_Change_lobby_illust",
+      "content": "Modificar Vestibulo"
+    },
+    {
+      "id": "mainui_lobby_illust_acquisition_method",
+      "content": "A Desbloquear:"
+    },
+    {
+      "id": "mainui_networkingerror_content",
+      "content": "La conexion esta inestable\nPor favor revisa tu conexion de internet."
+    },
+    {
+      "id": "mainui_networkingerror_close",
+      "content": "Cerrar"
+    },
+    {
+      "id": "mainui_networkingerror_retry",
+      "content": "Reintentar"
+    },
+    {
+      "id": "mainui_event_notice",
+      "content": "Eventos"
+    },
+    {
+      "id": "mainui_system_notice",
+      "content": "Sistema"
+    },
+    {
+      "id": "mainui_team",
+      "content": "Equipo"
+    },
+    {
+      "id": "mainui_cost",
+      "content": "Coste"
+    },
+    {
+      "id": "mainui_dungeon_progress_rate",
+      "content": "Progreso de mazmorra"
+    },
+    {
+      "id": "mainui_guaranteed_reward",
+      "content": "Recompensa"
+    },
+    {
+      "id": "mainui_select_reward",
+      "content": "Recompensas Adicionales"
+    },
+    {
+      "id": "mainui_battle_pass_exp",
+      "content": "Pase de Batalla EXP"
+    },
+    {
+      "id": "mainui_enforce_ticket",
+      "content": "Boletos de Mejora"
+    },
+    {
+      "id": "mainui_reward_random_box",
+      "content": "Cajas de Egocristal"
+    },
+    {
+      "id": "mainui_reward_select_box",
+      "content": "Cajas de Egocristal teorico"
+    },
+    {
+      "id": "mainui_manaUsage",
+      "content": "Coste de Cordura"
+    },
+    {
+      "id": "mainui_abnormality_analysis_level",
+      "content": "Grado Actual"
+    },
+    {
+      "id": "mainui_analysis",
+      "content": "Cognición"
+    },
+    {
+      "id": "mainui_abnormality_analysis",
+      "content": "Metacognición"
+    },
+    {
+      "id": "mainui_receive",
+      "content": "Reclamar"
+    },
+    {
+      "id": "mainui_dungeon_finished_reward",
+      "content": "Recompensa de Exploracion"
+    },
+    {
+      "id": "mainui_passive",
+      "content": "Pasivas"
+    },
+    {
+      "id": "mainui_support_passive",
+      "content": "Soporte"
+    },
+    {
+      "id": "mainui_synchronization",
+      "content": "Aunar"
+    },
+    {
+      "id": "mainui_personality_synchronization_level",
+      "content": "Aunar Gdo."
+    },
+    {
+      "id": "mainui_owned",
+      "content": "Tienes"
+    },
+    {
+      "id": "mainui_growth_level_limited",
+      "content": "No Usable a Nv. {0}+"
+    },
+    {
+      "id": "mainui_stats_attack",
+      "content": "ATQ"
+    },
+    {
+      "id": "mainui_mailbox_receive_all",
+      "content": "<size=80%>Reclamar Todo</size>"
+    },
+    {
+      "id": "mainui_mailbox_receive_history",
+      "content": "Historia"
+    },
+    {
+      "id": "mainui_remain_days",
+      "content": "Quedan {0} dias"
+    },
+    {
+      "id": "mainui_mail_remains_count",
+      "content": "Correo"
+    },
+    {
+      "id": "mainui_mail_warning",
+      "content": "※ Capacidad maxima 100; Correos expirados seran <color=#990000>borrados</color>."
+    },
+    {
+      "id": "mainui_mail_warning2",
+      "content": "※ Objetos reclamados a traves del correo pueden estar sujetos a restricciones de cancelacion."
+    },
+    {
+      "id": "main_information",
+      "content": "Info"
+    },
+    {
+      "id": "main_until",
+      "content": "Expiración"
+    },
+    {
+      "id": "mainui_synchronization_grade",
+      "content": "Aunar Gdo."
+    },
+    {
+      "id": "mainui_organization",
+      "content": "Equipo"
+    },
+    {
+      "id": "story_ui_log_popup",
+      "content": "Registro"
+    },
+    {
+      "id": "mail_box_attachments",
+      "content": "Contenido"
+    },
+    {
+      "id": "mail_box_unseal_result",
+      "content": "Paquete Recibido"
+    },
+    {
+      "id": "item_use_result",
+      "content": "Objeto Usado"
+    },
+    {
+      "id": "giving_up_story_dungeon_title",
+      "content": "Abandonar Mazmorra de Historia"
+    },
+    {
+      "id": "giving_up_story_dungeon_content",
+      "content": "Actualmente Estas explorando el Episodio {0} de la Mazmorra de Historia\n¿Abandonar progreso y entrar a una nueva mazmorra?"
+    },
+    {
+      "id": "mainui_all",
+      "content": "Todo"
+    },
+    {
+      "id": "mainui_opened",
+      "content": "Abierto"
+    },
+    {
+      "id": "mainui_not_opened",
+      "content": "Bloqueado"
+    },
+    {
+      "id": "mainui_buy",
+      "content": "Confirmar"
+    },
+    {
+      "id": "mainui_use",
+      "content": "Usar"
+    },
+    {
+      "id": "mainui_consume",
+      "content": "Cristales"
+    },
+    {
+      "id": "mainui_currencies",
+      "content": "Consumible"
+    },
+    {
+      "id": "mainui_inventory",
+      "content": "Inventario"
+    },
+    {
+      "id": "mainui_awaken_requirement_amount",
+      "content": "Cantidad Req."
+    },
+    {
+      "id": "mainui_passive_skill_addition",
+      "content": "Pasivas Desbloqueadas"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_reinforcement",
+      "content": "Despertar de E.G.O Mejorado"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_reinforcement",
+      "content": "Corrosión de E.G.O Mejorada"
+    },
+    {
+      "id": "mainui_lack_of_material_amount",
+      "content": "Hilo insuficiente."
+    },
+    {
+      "id": "mainui_move",
+      "content": "Ir"
+    },
+    {
+      "id": "mainui_move_to_twine_store",
+      "content": "Cristal::Canjear Hilo"
+    },
+    {
+      "id": "mainui_move_to_twine_store_question",
+      "content": "Hilo Insuficiente\n¿Ir a Cristal::Canjear Hilo?"
+    },
+    {
+      "id": "mainui_confirm_of_purchased_twine",
+      "content": "¿Convertir {0} a Hilo?"
+    },
+    {
+      "id": "mainui_result_of_purchased_twine",
+      "content": "{0} Hilo adquirido."
+    },
+    {
+      "id": "mainui_personality_awaken_completion",
+      "content": "Identidad Aunada"
+    },
+    {
+      "id": "mainui_ego_awaken_completion",
+      "content": "Metacognición del E.G.O"
+    },
+    {
+      "id": "mainui_new_skill_acquisition",
+      "content": "Nueva Habilidad: [{0}]"
+    },
+    {
+      "id": "mainui_new_passive_skill_acquisition",
+      "content": "Nueva Pasiva: [{0}]"
+    },
+    {
+      "id": "mainui_new_battle_passive_acquisition",
+      "content": "Nueva Pasiva de Combate: [{0}]"
+    },
+    {
+      "id": "mainui_new_support_passive_acquisition",
+      "content": "Nueva Pasiva de Soporte: [{0}]"
+    },
+    {
+      "id": "mainui_skill_reinforcement",
+      "content": "Habilidad Mejorada: [{0}]"
+    },
+    {
+      "id": "mainui_unlock_personality_story",
+      "content": "Historia de [{0}] Desbloqueada"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_name_reinforcement",
+      "content": "Despertar de E.G.O  [{0}] Mejorada"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_name_reinforcement",
+      "content": "Corrosión de E.G.O [{0}] Mejorada"
+    },
+    {
+      "id": "mainui_specific_level_achievement",
+      "content": "Alcanza el Nv. {0}"
+    },
+    {
+      "id": "mainui_personality_awaken_level_up_condition",
+      "content": "Requisitos de Aunar Gdo. {0}"
+    },
+    {
+      "id": "mainui_battle_passsive_addition",
+      "content": "Pasivas de Combate Desbloqueadas"
+    },
+    {
+      "id": "mainui_support_passsive_addition",
+      "content": "Pasivas de Soporte Desbloqueadas"
+    },
+    {
+      "id": "mainui_check_purchase",
+      "content": "Compra Confirmada"
+    },
+    {
+      "id": "mainui_acquire_banner",
+      "content": "Estandarte Adquirido"
+    },
+    {
+      "id": "mainui_purchase_complete",
+      "content": "Comprado"
+    },
+    {
+      "id": "mainui_activation",
+      "content": "ACTIVADO"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin",
+      "content": "Encefalina insuficiente\n¿Te gustaria recargar tu Encefalina?"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_box",
+      "content": "No tienes suficiente Cajas de Encefalina\n¿Te gustaria comprar algunas?"
+    },
+    {
+      "id": "mainui_rewatching-stage-story",
+      "content": "Releer Historia"
+    },
+    {
+      "id": "mainui_before_battle",
+      "content": "Pre-Combate"
+    },
+    {
+      "id": "mainui_after_battle",
+      "content": "Post-Combate"
+    },
+    {
+      "id": "mainui_story",
+      "content": "Historia"
+    },
+    {
+      "id": "Get_Reward",
+      "content": "Recompensas Obtenidas"
+    },
+    {
+      "id": "mainui_user_exp",
+      "content": "EXP de Director"
+    },
+    {
+      "id": "mainui_chapter_progress",
+      "content": "Progreso"
+    },
+    {
+      "id": "mainui_ex_clear_progress",
+      "content": "EX Despejado"
+    },
+    {
+      "id": "mainui_notice_spend_free_lunacy_first",
+      "content": "※ La Lunacy gratis es usada primero"
+    },
+    {
+      "id": "mainui_notice_require_lunacy",
+      "content": "※ Lunacy Insuficiente."
+    },
+    {
+      "id": "mainui_progress_of_spend",
+      "content": "¿Gastar {0} Para seguir con {1}?"
+    },
+    {
+      "id": "game_setting",
+      "content": "Config"
+    },
+    {
+      "id": "level",
+      "content": "Nivel"
+    },
+    {
+      "id": "name",
+      "content": "Nombre"
+    },
+    {
+      "id": "order_of_acquisition",
+      "content": "Reciente"
+    },
+    {
+      "id": "tolerance",
+      "content": "Resistir"
+    },
+    {
+      "id": "outstanding_staff",
+      "content": "Empleado del día"
+    },
+    {
+      "id": "total_damage_contribution",
+      "content": "Contribuido"
+    },
+    {
+      "id": "deal_damage",
+      "content": "Repartido"
+    },
+    {
+      "id": "taken_damage",
+      "content": "Recibido"
+    },
+    {
+      "id": "user_level_up_notice",
+      "content": "Nivel de Director Aumentado!"
+    },
+    {
+      "id": "increase_maxium_enkephalin",
+      "content": "Capacidad de Encefalina Aumentada!"
+    },
+    {
+      "id": "recharge_enkephalin_notice",
+      "content": "La Encefalina ha sido rellenada."
+    },
+    {
+      "id": "gacha_extract_multiple",
+      "content": "Extraer {0}"
+    },
+    {
+      "id": "number_of_times",
+      "content": "Tiempo(s)"
+    },
+    {
+      "id": "number_of_remain_extract_times",
+      "content": "Extracciones Restantes"
+    },
+    {
+      "id": "notice_of_remain_extract_chance",
+      "content": "3★ Identitdad o E.G.O Asegurado en {0} Extracciones"
+    },
+    {
+      "id": "mainui_settings",
+      "content": "Configuración"
+    },
+    {
+      "id": "mainui_environment_settings",
+      "content": "Configuracion"
+    },
+    {
+      "id": "mainui_back",
+      "content": "Volver"
+    },
+    {
+      "id": "mainui_quit_game",
+      "content": "Cerrar Juego"
+    },
+    {
+      "id": "mainui_acquisition",
+      "content": "Obtenido"
+    },
+    {
+      "id": "mainui_not_acquisition",
+      "content": "No Obtenido"
+    },
+    {
+      "id": "mainui_no_record",
+      "content": "Sin Registro de Adquisición"
+    },
+    {
+      "id": "resume",
+      "content": "Reanudar"
+    },
+    {
+      "id": "mainui_entering",
+      "content": "Entrar"
+    },
+    {
+      "id": "mainui_open_after_clear",
+      "content": "Despejar Ep. {0} Para desbloquear"
+    },
+    {
+      "id": "mainui_organization_sharp",
+      "content": "Equipo #{0}"
+    },
+    {
+      "id": "mainui_participant_count",
+      "content": "Editar Equipo"
+    },
+    {
+      "id": "mainui_edit",
+      "content": "Editar"
+    },
+    {
+      "id": "mainui_unlock_condition_by_personality_awaken_level",
+      "content": "Desbloquear a Grado {0}"
+    },
+    {
+      "id": "skill_growth_value",
+      "content": "Crecimiento"
+    },
+    {
+      "id": "gacha_history_notice",
+      "content": "※ Up to {1} cases over the last {0} days are displayed."
+    },
+    {
+      "id": "gacha_history_empty",
+      "content": "Sin Registros de Extraccion que mostrar."
+    },
+    {
+      "id": "own",
+      "content": "Tienes"
+    },
+    {
+      "id": "gacha_category",
+      "content": "Categoria"
+    },
+    {
+      "id": "gacha_time",
+      "content": "Fecha"
+    },
+    {
+      "id": "used_currencies",
+      "content": "Cantidad Usada"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_module",
+      "content": "No tienes suficientes modulos de Encefalina\n¿Te gustaria ensamblar algunas?"
+    },
+    {
+      "id": "list",
+      "content": "Lista"
+    },
+    {
+      "id": "rank",
+      "content": "Rareza"
+    },
+    {
+      "id": "probability",
+      "content": "Expectativa"
+    },
+    {
+      "id": "gacha_rate_label",
+      "content": "Posibilidad de Extracción"
+    },
+    {
+      "id": "gacha_rate_title_ten1",
+      "content": "[10 Extracciónes (1st-9th)]: La misma tasa de [1 Extraction]"
+    },
+    {
+      "id": "gacha_rate_title_ten2",
+      "content": "[10 Extracciónees (10ma)]"
+    },
+    {
+      "id": "gacha_rate_info_intro1",
+      "content": "In compliance with the 「Voluntary Restraint Guidelines of Korea Association of Game Industry」, detailed rates for chance-based items are disclosed here.\n\nIndividual rates are rounded up from the fifth digit after the decimal point. The actual sum is applied as 100%."
+    },
+    {
+      "id": "gacha_rate_info_intro2",
+      "content": "En [10 Extracciónes], almenos una identidad de rareza 2★ o más alto sera extraída.\n\nLa lista para la 10ma Extracción es la siguiente::"
+    },
+    {
+      "id": "gacha_rate_info_ego1",
+      "content": "Debajo esta la lista de identidades y E.G.O que puedes obtener siguuiendo las ya mencionadas tasa de probabilidad.\n\nLa lista puede cambiar en ciertas temporadas; Cambios porvenir en la tabla de recompensas se notificara con adelanto."
+    },
+    {
+      "id": "gacha_rate_info_ego2",
+      "content": "<b>Los E.G.O obtenidos no se repetiran; E.G.Os adquiridos por cualquier medio, incluyendo Extracción, Administrar, y canjes por correos, seran excluidos de la Lista de Extracción.</b>\n\nMientras aun quede un E.G.O restante en la lista de posibles resultados la probabilidad de extracción del E.G.O no se vera afectada. Por lo tanto, las posibilidades de adquirir un E.G.O específico aumentará mientras más Extracciónes se hayan realizado."
+    },
+    {
+      "id": "gacha_rate_info_complete1",
+      "content": "Si no queda ningun E.G.O restante en la lista debido a que el usuario los ha adquirido todos, los porcentajes para [1 Extraction] y de [10 Extraction] cambiarán segun lo acordado acontinuación:"
+    },
+    {
+      "id": "gacha_rate_info_complete2",
+      "content": "En Extracciónes con Objetivo, ciertas identidades y E.G.Os tienen una mayor probabilidad de extracción.\n\nLas Identidades Objetivo aumentaran en 50% su probabilidad según su rareza; las probabilidades son compartidas equitativamente entre todas.\n\nEl otro 50% de probabilidad está distribuida equitativamente entre las Identidades No Objetivas en la lista."
+    },
+    {
+      "id": "gacha_rate_info_complete3",
+      "content": "Lo mismo aplica a los E.G.O Objetivos.\n\nCambios en las probabilidades para la Extracción con Objetivos no afectaran la probabilidad de que aparezcan objetos de cierto tipo y rareza."
+    },
+    {
+      "id": "gacha_rate_info_piece1",
+      "content": "★ Egocristal\nCuando extraes una Identidad o E.G.O que ya has adquirido, Obtendras Egocristales del personaje, La cantidad depende del tipo y rareza del objeto obtenido."
+    },
+    {
+      "id": "gacha_rate_info_piece2",
+      "content": "Los egocristal solo pueden ser usados por un periodo fijo. Cuando la fecha de expiración llegue, solo el 50% de los Egocristales en posesión serán llevados a la siguiente temporada.\n\nEl Egocristal perdido será convertido en Hilo."
+    },
+    {
+      "id": "gacha_rate_info_piece3",
+      "content": "Lo mismo aplica a las Cajas de Egocristal.\n\nLos jugadores serán informados del próximo cambio de temporada y sobre la expiración de los Egocristales tiempo antes de la fecha limite."
+    },
+    {
+      "id": "personality_preview_notice",
+      "content": "Las estadísticas de las identidades a nivel y Aunado máximo serán mostrados aqui."
+    },
+    {
+      "id": "ego_preview_notice",
+      "content": "El E.G.O a su máximo tier sera mostrado aqui."
+    },
+    {
+      "id": "season_1",
+      "content": "Temporada 1"
+    },
+    {
+      "id": "commonly",
+      "content": "Simple"
+    },
+    {
+      "id": "notice_external_website",
+      "content": "Ir a una sitio web externo."
+    },
+    {
+      "id": "pass_level",
+      "content": "Nivel de Pase"
+    },
+    {
+      "id": "normal_reward",
+      "content": "Recompensa Normal"
+    },
+    {
+      "id": "limbus_pass_reward",
+      "content": "Recompensa de Limbus Pass"
+    },
+    {
+      "id": "loading_battlehint",
+      "content": "Consejos de Combate"
+    },
+    {
+      "id": "status_up",
+      "content": "Estadisticas Aumentadas"
+    },
+    {
+      "id": "active_skill_acquired",
+      "content": "Habilidad Obtenida"
+    },
+    {
+      "id": "active_skill_reinforcement",
+      "content": "Habilidad Mejorada"
+    },
+    {
+      "id": "progress_ego_gacksung",
+      "content": "Aumentar\nMetacognición"
+    },
+    {
+      "id": "skill_with_index",
+      "content": "Habilidad {0}"
+    },
+    {
+      "id": "mail_date",
+      "content": "Fecha"
+    },
+    {
+      "id": "mail_sender",
+      "content": "Remitente"
+    },
+    {
+      "id": "mail_history_notice",
+      "content": "※ Hasta {0} Objetos reclamados seran mostrados en el historial."
+    },
+    {
+      "id": "cant_receive_mail_all_tilte",
+      "content": "No Reclamable"
+    },
+    {
+      "id": "cant_receive_mail_all_main",
+      "content": "No hay correos disponibles reclamables usando “Reclamar Todo”"
+    },
+    {
+      "id": "attached_item",
+      "content": "Adjunto"
+    },
+    {
+      "id": "inventory_category_all",
+      "content": "Todo"
+    },
+    {
+      "id": "inventory_category_normal",
+      "content": "Básico"
+    },
+    {
+      "id": "inventory_category_consumable",
+      "content": "Consumibles"
+    },
+    {
+      "id": "inventory_category_pieces",
+      "content": "Egocristal"
+    },
+    {
+      "id": "enkephalin_injection_complete",
+      "content": "Encefalina Cargada"
+    },
+    {
+      "id": "purchase_impossible",
+      "content": "No Comprable"
+    },
+    {
+      "id": "notice_not_enough_pieces",
+      "content": "※ Insuficiente Egocristal."
+    },
+    {
+      "id": "buy_personaliy",
+      "content": "Comprar Identidad"
+    },
+    {
+      "id": "buy_ego",
+      "content": "Comprar E.G.O"
+    },
+    {
+      "id": "not_enough_pieces",
+      "content": "Insuficiente Egocristal"
+    },
+    {
+      "id": "basis",
+      "content": "Básico"
+    },
+    {
+      "id": "skip_tutorial",
+      "content": "Omitir Tutorial"
+    },
+    {
+      "id": "skip_tutorial_description",
+      "content": "¿Seguro que quieres omitir el tutorial?"
+    },
+    {
+      "id": "min_speed_upgrade",
+      "content": "Aumento de Vel. Min."
+    },
+    {
+      "id": "max_speed_upgrade",
+      "content": "Aumento de Vel. Max."
+    },
+    {
+      "id": "min_max_speed_upgrade",
+      "content": "Aumento de Vel Min. & Max."
+    },
+    {
+      "id": "mailbox",
+      "content": "Correos"
+    },
+    {
+      "id": "remain_days_label",
+      "content": "Vencimiento"
+    },
+    {
+      "id": "extract_again",
+      "content": "Extraer De nuevo"
+    },
+    {
+      "id": "ego_gift",
+      "content": "Regalos E.G.O"
+    },
+    {
+      "id": "classification",
+      "content": "Categorias"
+    },
+    {
+      "id": "quantity",
+      "content": "Cantidad"
+    },
+    {
+      "id": "appearance_probability",
+      "content": "Chances"
+    },
+    {
+      "id": "Individual_appearance_probability",
+      "content": "Chance Individual"
+    },
+    {
+      "id": "notice_sold_out",
+      "content": "Agotado"
+    },
+    {
+      "id": "select_piece",
+      "content": "Eligir Egocristal"
+    },
+    {
+      "id": "mail_item_warning",
+      "content": "※ Pueden restringirse los reembolsos despues de canjear los objetos."
+    },
+    {
+      "id": "mainui_unlock_condition_by_ego_awaken_level",
+      "content": "Desbloquear al Tier {0}"
+    },
+    {
+      "id": "empty_mailbox_notice",
+      "content": "Sin Correos."
+    },
+    {
+      "id": "gacha_rate_detail",
+      "content": "Probabilidad Detallada"
+    },
+    {
+      "id": "gacha_alarm_title",
+      "content": "Procediendo con la Extracción"
+    },
+    {
+      "id": "clear_specific_stage",
+      "content": "Completa {0}"
+    },
+    {
+      "id": "clear_main_chapter_stage",
+      "content": "Completa Cap. {0}"
+    },
+    {
+      "id": "ingredients",
+      "content": "Objetos"
+    },
+    {
+      "id": "remote_download_return_title",
+      "content": "Una nueva descarga ha sido añadida.\nVolviendo a la pantalla de inicio."
+    },
+    {
+      "id": "battle_skip",
+      "content": "Omitir Combate"
+    },
+    {
+      "id": "ask_battle_skip",
+      "content": "¿Te gustaría omitir el combate?"
+    },
+    {
+      "id": "notice_consumption_multiples",
+      "content": "{0} coste x {1}"
+    },
+    {
+      "id": "notice_additional_rewards",
+      "content": "Recompensas Adicionales Obtenidas {0}"
+    },
+    {
+      "id": "gacha_notice_exclude_ego",
+      "content": "Esta Extracción no incluye E.G.O"
+    },
+    {
+      "id": "gacha_notice_single_season",
+      "content": "Las identidades 2★ y 3★ en esta Extracción pertenecen a la Temporada {0}."
+    },
+    {
+      "id": "error_and_return_to_main",
+      "content": "Un error ha ocurrido.\nVolviendo a la pantalla principal."
+    },
+    {
+      "id": "to_window",
+      "content": "Al Menú"
+    },
+    {
+      "id": "completion",
+      "content": "Completado"
+    },
+    {
+      "id": "event_in_progress",
+      "content": "Evento Abierto"
+    },
+    {
+      "id": "end_of_event",
+      "content": "Evento Cerrado"
+    },
+    {
+      "id": "gacha_rate_info_intro1_1a",
+      "content": "La probabilidad por una Extracción son las siguientes."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1b",
+      "content": "La lista de un uso de {0} es la siguiente."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1c",
+      "content": "Cuando usas {0}, Puedes escoger un tipo de las siguientes monedas."
+    },
+    {
+      "id": "package_info_detail1",
+      "content": "Cuando hayas seleccionado la divisa de la lista para adquirir diferentes cantidades fijas de esta divisa usando un {0} es la siguiente."
+    },
+    {
+      "id": "package_info_detail2",
+      "content": "※ “{0}” La tabla de abajo es un ejemplo para seleccionar una de las divisas que se muestra en la lista de arriba."
+    },
+    {
+      "id": "acquired_quantity",
+      "content": "Cantidad"
+    },
+    {
+      "id": "name_of_currencies",
+      "content": "Cantidad"
+    },
+    {
+      "id": "package_info_title",
+      "content": "Probabilidad de Aparicion con Cantidad Detallada"
+    },
+    {
+      "id": "used_once",
+      "content": "Un Uso"
+    },
+    {
+      "id": "probability_details",
+      "content": "Probabilidades"
+    },
+    {
+      "id": "be_in_use",
+      "content": "<size=90%>En Uso</size>"
+    },
+    {
+      "id": "season_information",
+      "content": "<size=80%>Guía de Temporada</size>"
+    },
+    {
+      "id": "announcer_selection_description",
+      "content": "※ Si Seleccionas 2 o más Anunciadores a la vez, Los dialogos usados seran escogidos aleatoriamente. (Hasta 10)"
+    },
+    {
+      "id": "panic_type",
+      "content": "Tipos de Panico"
+    },
+    {
+      "id": "mental_strength",
+      "content": "Cordura"
+    },
+    {
+      "id": "mental_increase_condition",
+      "content": "Factores que Aumenta la Cordura"
+    },
+    {
+      "id": "mental_decrease_condition",
+      "content": "Factores que Disminuyen la Cordura"
+    },
+    {
+      "id": "mental_low_morale_effect",
+      "content": "Efectos de Baja Moral"
+    },
+    {
+      "id": "mental_panic_effect",
+      "content": "Efectos de Panico"
+    },
+    {
+      "id": "open_scheduled_date_month_day",
+      "content": "Abriendo en {0}M {1}D (Month/Day)"
+    },
+    {
+      "id": "mainui_acquire_user_ticker_deco",
+      "content": "(Dummy Text)"
+    },
+    {
+      "id": "last_battlepass_season_level",
+      "content": "Nivel de Pase"
+    },
+    {
+      "id": "season_end_notification",
+      "content": "Aviso de Fin de Temporada"
+    },
+    {
+      "id": "season_start_notification",
+      "content": "Aviso de Inicio de Temporada"
+    },
+    {
+      "id": "new_story_appeared_by_new_season",
+      "content": "Nuevo Contenido de Historia Principal"
+    },
+    {
+      "id": "collection_rate",
+      "content": "Colección Estimada"
+    },
+    {
+      "id": "season_n_personality",
+      "content": "Identidad de Temporada {0}"
+    },
+    {
+      "id": "season_n_ego",
+      "content": "E.G.O de Temporada {0}"
+    },
+    {
+      "id": "season_n",
+      "content": "Temporada {0}"
+    },
+    {
+      "id": "new_season_former_piece_to_current_piece_desc",
+      "content": "Solo una porcion de los Egocristales que posees seran llevados a la siguiente temporada."
+    },
+    {
+      "id": "new_season_former_piece_to_thread_desc",
+      "content": "Los Egocristales que no han sido llevados, serán convertidos en Hilo."
+    },
+    {
+      "id": "new_season_former_box_to_current_box_desc",
+      "content": "Solo una porcion de las Cajas de Egocristal (Teorico & Aleatoria) seran llevados a la siguiente temporada."
+    },
+    {
+      "id": "new_season_former_box_to_thread_box",
+      "content": "Las Cajas de Egocristales que no han sido llevadas serán convertidas en Cajas de Hilo."
+    },
+    {
+      "id": "new_pass_appeared",
+      "content": "Nuevo Pase Disponible"
+    },
+    {
+      "id": "get_not_acquired_rewards",
+      "content": "Recompensas sin reclamar Entregadas"
+    },
+    {
+      "id": "items_changed_by_season_changed_desc",
+      "content": "Monedas de la temporada anterior seran llevadas a la temporada actual."
+    },
+    {
+      "id": "exchange",
+      "content": "Canjear"
+    },
+    {
+      "id": "notice_of_pity_system",
+      "content": "Durante una extracción, puedes ganar ‘Yisang’ [Idealidad] en base al numero de Extracciónes realizadas.\nDespues de coleccionar una cierta cantidad, puedes canjearla por una Identidad de 3★ o un E.G.O presentado en la extracción.\n\n※ La Idealidad no se comparte entre extracciónes; La Idealidad en cada uno se considera su propia moneda de cambio.\n※ Al terminar una extracción, la Idealidad restante será convertida en Hilo."
+    },
+    {
+      "id": "twine_store",
+      "content": "Cristales::Canje de Hilo"
+    },
+    {
+      "id": "pass",
+      "content": "Pase"
+    },
+    {
+      "id": "event",
+      "content": "Evento"
+    },
+    {
+      "id": "notice_of_pity_point_expiration",
+      "content": "{1} Yisang [Idealidad] de {0} Ha sido convertido a Hilo."
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not",
+      "content": "¿Usar 200 de Yisang [Idealidad] para hacer este canje?"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have",
+      "content": "Ya posees la Identidad seleccionada. ¿Canjear 200 de Yi Sang [Idealidad] por 50 cristales de Identidad de este Pecador?"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone",
+      "content": "Desbloqueado despues de la actualizacion {0}/{1} ({2}) "
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_date",
+      "content": "{0}/{1} ({2})"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_desc",
+      "content": "Desbloqueable despues de la actualización"
+    },
+    {
+      "id": "enkephalin_desc",
+      "content": "Se usa para entrar a las etapas."
+    },
+    {
+      "id": "not_exchangeable",
+      "content": "No Canjeable"
+    },
+    {
+      "id": "ego_already_have",
+      "content": "E.G.O Ya Adquirido"
+    },
+    {
+      "id": "shortage_number_of_Extracciónes",
+      "content": "Extracciónes Efectuadas Insuficientes"
+    },
+    {
+      "id": "lack_of_formation_participation",
+      "content": "En este combate, <color=#990000>Hasta {0}</color> Pecadores pueden participar."
+    },
+    {
+      "id": "tutorial_formation_participation_add_title",
+      "content": "Mas Participantes"
+    },
+    {
+      "id": "tutorial_formation_participation_add_desc",
+      "content": "Ciertos Escenarios podran permitir mtapasCertain stages may allow more Sinners to participate in battle compared to the previous stage played. In this case, the 'Edit Team' area will flicker."
+    },
+    {
+      "id": "could_not_select_friend_support_in_this_dungeon",
+      "content": "You may not bring {0}'s Support Identity for this dungeon."
+    },
+    {
+      "id": "formation_force_participation_on",
+      "content": "Fijado"
+    },
+    {
+      "id": "formation_force_participation_off",
+      "content": "Miembro Fijado Requerido"
+    },
+    {
+      "id": "formation_must_participate_specific_character",
+      "content": "{0} Debe Participar."
+    },
+    {
+      "id": "cannot_exit_node_after_enter_by_force_alice_character",
+      "content": "Una vez dentro, No seras capaz de viajar a otros nodos en la mazmorra; {0} Tu HP seran curados y tus PC volveran a 0.\n¿Seguro que quieres continuar?"
+    },
+    {
+      "id": "story_dungeon_4_first_open_popup_desc",
+      "content": "Para esta mazmorra, no podras seleccionar una identad Soporte para Yi Sang. Yi Sang debera participar en todos los combates."
+    },
+    {
+      "id": "attack_level",
+      "content": "Nivel Ofensivo"
+    },
+    {
+      "id": "defense_level",
+      "content": "Nivel Defensivo"
+    },
+    {
+      "id": "personality_level",
+      "content": "Nivel de Identidad"
+    },
+    {
+      "id": "enemy_level",
+      "content": "Nivel Enemigo"
+    },
+    {
+      "id": "cannot_enter",
+      "content": "No puedes Entrar"
+    },
+    {
+      "id": "lack_of_item_amount",
+      "content": "Insuficiente {0}"
+    },
+    {
+      "id": "required_count",
+      "content": "Requerido"
+    },
+    {
+      "id": "on_event_reward_grace_period",
+      "content": "Periodo de Recepción de Recompensas"
+    },
+    {
+      "id": "user_level_maximum_notice",
+      "content": "Nivel Máximo Alcanzado."
+    },
+    {
+      "id": "user_level_limit_increase_notice",
+      "content": "※ El nivel máximo de Director sera aumentado en futuras actualizaciónes."
+    },
+    {
+      "id": "level_up",
+      "content": "Subir de Nivel"
+    },
+    {
+      "id": "summary",
+      "content": "Resumen"
+    },
+    {
+      "id": "abnormality_part_skill",
+      "content": "Habilidades por Partes"
+    },
+    {
+      "id": "awaken",
+      "content": "Despertar"
+    },
+    {
+      "id": "erosion",
+      "content": "Corrosión"
+    },
+    {
+      "id": "formation_panel_detail",
+      "content": "Rasgos"
+    },
+    {
+      "id": "ego_cost",
+      "content": "Recursos E.G.O"
+    },
+    {
+      "id": "enable_count_for_battle",
+      "content": "Limite de Participantes"
+    },
+    {
+      "id": "select_for_formation",
+      "content": "Desplegar Identidad"
+    },
+    {
+      "id": "edit_for_formation",
+      "content": "Editar Equipo"
+    },
+    {
+      "id": "full_participated",
+      "content": "Participantes Max."
+    },
+    {
+      "id": "select_for_delete_participation",
+      "content": "Descartar Identidad"
+    },
+    {
+      "id": "clear_reward",
+      "content": "Recompensas Reclamadas"
+    },
+    {
+      "id": "event_information",
+      "content": "Info. de Evento"
+    },
+    {
+      "id": "notice_not_on_sales_period",
+      "content": "※ No comprable durante este periodo."
+    },
+    {
+      "id": "pc_shortcut",
+      "content": "Atajos de Teclado en PC"
+    },
+    {
+      "id": "shortcut_manual_popup_title",
+      "content": "Guía de Atajos de Teclado"
+    },
+    {
+      "id": "new_dungeon_update_alarm",
+      "content": "INESTABILIDAD EN LA PUERTA TRASERA DETECTADA"
+    },
+    {
+      "id": "buy_announcer",
+      "content": "Comprar Anunciador de Combate"
+    },
+    {
+      "id": "label_require_paid_lunacy",
+      "content": "※No tienes suficiente Lunacy de Paga."
+    },
+    {
+      "id": "notice_require_paid_lunacy",
+      "content": "Lunacy de Paga Insuficiente"
+    },
+    {
+      "id": "mainui_original",
+      "content": "Antes"
+    },
+    {
+      "id": "open_after_clear_node",
+      "content": "Completar {0}-{1} para Desbloquear"
+    },
+    {
+      "id": "effect_list_to_applied_level",
+      "content": "Efectos de Nivel Activos"
+    },
+    {
+      "id": "choice_event_effect",
+      "content": "Efecto de Elección"
+    },
+    {
+      "id": "ego_gift_effect_format",
+      "content": "Efecto de 「{0}」 Regalo E.G.O"
+    },
+    {
+      "id": "mainui_previous",
+      "content": "Anterior"
+    },
+    {
+      "id": "formation_force_abstain",
+      "content": "No desplegable"
+    },
+    {
+      "id": "formation_view_detail",
+      "content": "Rasgos"
+    },
+    {
+      "id": "only_hyphen",
+      "content": "-"
+    },
+    {
+      "id": "first_time",
+      "content": "Primera-Vez"
+    },
+    {
+      "id": "formation_Announcer_fixed",
+      "content": "Fijado"
+    },
+    {
+      "id": "gacha_rate_info_wa1",
+      "content": "★ Caja de Hilo"
+    },
+    {
+      "id": "gacha_rate_info_wa2",
+      "content": "Obtener un duplicado de un Anunciador ya poseído lo convertira en Cajas de Hilo.\n\nEstas Cajas de Hilo seran transladadas sin ningun cambio a tráves de las temporadas."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Esta historia toma lugar despues del Capitulo {0} de la Historia Principal. Quieres ver la historia de todas formas"
+    },
+    {
+      "id": "notice_of_pity_point_already_have_announcer",
+      "content": "Ya tienes al Anunciador seleccionado. ¿Canjear 200 Yisang [Idealidad] por 50 Cajas de Hilo?"
+    },
+    {
+      "id": "gacha_rate_info_announcer1",
+      "content": "Debajo puedes obtener la lista con las probabilidades de las Identidades, E.G.O y Anunciadores.\n\nLa lista puede cambiar en ciertas temporadas; próximos cambios a la lista de recompensas seran anunciados con anterioridad."
+    },
+    {
+      "id": "mainui_battleresult_ordeal_victory",
+      "content": "Supresion Completada"
+    },
+    {
+      "id": "mainui_battleresult_ordeal_defeat",
+      "content": "Supresión Fallida"
+    },
+    {
+      "id": "remain_exchange_count",
+      "content": "Stock Restante"
+    },
+    {
+      "id": "remains",
+      "content": "Restantes"
+    },
+    {
+      "id": "everyday",
+      "content": "Diario"
+    },
+    {
+      "id": "for_n_days",
+      "content": "{0} Dias"
+    },
+    {
+      "id": "all_personalities",
+      "content": "Todas las Identidades"
+    },
+    {
+      "id": "leap_up_ticket_title",
+      "content": "Selecciona la Identidad para Desplegar"
+    },
+    {
+      "id": "leap_up_able_uptie_tier_and_level",
+      "content": "Puede aumentar el Grado de Aunar & Nivel de Identidad"
+    },
+    {
+      "id": "leap_up_able_uptie_tier",
+      "content": "Puede aumentar el Grado de Aunar"
+    },
+    {
+      "id": "leap_up_able_level",
+      "content": "Puede aumentar el Nivel de la Identidad"
+    },
+    {
+      "id": "leap_up_confim_title",
+      "content": "Selecciona la Identidad"
+    },
+    {
+      "id": "leap_up_confim_main",
+      "content": "El Grado de Aunar & Nivel de la Identidad [{0}] Se modificará del siguiente modo."
+    },
+    {
+      "id": "leap_up_confim_caution_uptie",
+      "content": "El Grado de Aunar de la Identidad seleccionada no puede aumentar mas."
+    },
+    {
+      "id": "leap_up_confim_caution_level",
+      "content": "El nivel de la identidad seleccionada no puede aumentar mas."
+    },
+    {
+      "id": "leap_up_confim_last_question",
+      "content": "¿Usar <color=#F8C200>{0}</color>?"
+    },
+    {
+      "id": "expiration_date",
+      "content": "Periodo disponible"
+    },
+    {
+      "id": "unlink_account_title",
+      "content": "Selecciona una cuenta para vincular"
+    },
+    {
+      "id": "unlink_account_current_account",
+      "content": "Cuenta Actual"
+    },
+    {
+      "id": "unlink_account_linked_account",
+      "content": "Cuentas Vinculadas"
+    },
+    {
+      "id": "unlink_account_desc",
+      "content": "Una vez desvinculada, no seras capaz de desvincularla nuevamente por {0} dias."
+    },
+    {
+      "id": "unlink_account_desc_unable_by_day",
+      "content": "Puede ser desvinculada despues de {0}."
+    },
+    {
+      "id": "unlink_account_complete_title",
+      "content": "Cuenta Desvinculada"
+    },
+    {
+      "id": "unlink_account_complete_desc",
+      "content": "Desvinculiación de cuenta completa.\nVolviendo a la pantalla de inicio."
+    },
+    {
+      "id": "mainui_stageinfo_effectiveAttribute",
+      "content": "Afinidades Efectivas"
+    },
+    {
+      "id": "personality_level_limit_release_title",
+      "content": "Niv. Máx de Identidad Aumentado"
+    },
+    {
+      "id": "personality_level_limit_release_desc",
+      "content": "El limite de nivel de las identidades ha sido aumentado."
+    },
+    {
+      "id": "mainui_sinners_startSuppress",
+      "content": "Supresión"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_victory",
+      "content": "Supresión de Anormalidad Fallida"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_defeat",
+      "content": "Supresión de Anormalidad Fallida"
+    },
+    {
+      "id": "ui_text_unknown",
+      "content": "Desconocido"
+    },
+    {
+      "id": "buff_effect_for_level_format",
+      "content": "「{0}」"
+    },
+    {
+      "id": "unit_keyword",
+      "content": "Trait Keywords"
+    },
+    {
+      "id": "formation_ask_clear_selection",
+      "content": "¿Reiniciar el Orden de Despliegue?"
+    },
+    {
+      "id": "item_owned_count",
+      "content": "(Poseído : {0})"
+    },
+    {
+      "id": "lunacy_owned_count_paid",
+      "content": "(Paga : {0}, Gratis : {1})"
+    },
+    {
+      "id": "lunacy_owned_count_free",
+      "content": "(Paga : {0}, Gratis : {1})"
+    },
+    {
+      "id": "mainui_ask_use_personality_level_ticket_disadvantage",
+      "content": "Al usar este ticket en tu progreso actual de la historia elevará el nivel de tu Identidad al {1} en vez del {0}, y toda la experiencia no utilizada en el proceso se perderá.\n\n¿Usarás el ticket de todas formas?"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_title",
+      "content": "Luxcavción de EXP #7 (Cortante)"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_open_day",
+      "content": "Luxcavción de EXP #7 (Cortante) Abre los LUN, MAR, y DOM."
+    },
+    {
+      "id": "mainui_exp_dungeon_8_title",
+      "content": "Luxcavción de EXP #7 (Perforante)"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_open_day",
+      "content": "Luxcavción de EXP #7 (Perforante) Abre los MIER, JUE, y DOM."
+    },
+    {
+      "id": "mainui_exp_dungeon_9_title",
+      "content": "Luxcavción de EXP #7 (Contundente)"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_open_day",
+      "content": "Luxcavción de EXP #7 (Contundente) Abre los VIE, SÁB, y DOM."
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "No puedes\nDesplegar\nLa Identidad\nBase"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "No puedes continuar con esta {0} Identidad. Acceso a las Identidades de Soporte otorgado."
+    },
+    {
+      "id": "caution",
+      "content": "WARNING"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "Este Anunciador contiene Spoilers del Capítulo <color=#990000><{0}-{1}></color>.\n\n¿Ver igualmente?"
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "Una de las recompensas que estás a punto de reclamar\nincluye un Anunciador que puede contener Spoilers\nde un Capítulo que todavía no has completado.\n\n¿Reclamar igualmente?"
+    },
+    {
+      "id": "select_all",
+      "content": "Seleccionar Todo"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Deseleccionar Todo"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Story Voice Management"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "(임시 더미)보이스를 적용할 항목을 선택해주세요."
+    },
+    {
+      "id": "vending_machine_item_available_date_label",
+      "content": "Desbloqueo en la Dispensa:\n{0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date",
+      "content": "Las identidades de Temporada en este banner pueden ser\n Dispensadas en el Dispensador desde el {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v2",
+      "content": "E.G.O. de Temporada serán reclamables en la Dispensa luego del {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v3",
+      "content": "IDs & E.G.O. de Temporada serán reclamables en la Dispensa luego del {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "mini_story_warning_spoiler_checkbox_desc",
+      "content": "No ver este mensaje de nuevo"
+    },
+    {
+      "id": "mainui_settings_push_notification",
+      "content": "Configuración de Notificaciones"
+    }
+  ]
+}

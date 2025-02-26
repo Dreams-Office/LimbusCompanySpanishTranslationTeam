@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10206_1",
+      "desc": "Al Adquirir Identidad",
+      "dlg": "Bienvenido. Tomaré sus órdenes aquí."
+    },
+    {
+      "id": "lobby_morning_10206_1",
+      "desc": "Saludo Mañanero",
+      "dlg": "Esta cafetería está siempre repleta de gente, pero ahora es su hora de mayor actividad. Es bastante comprensible, ya que pasar un día sin una taza de té sería deambular con una mente medio despierta."
+    },
+    {
+      "id": "lobby_noon_10206_1",
+      "desc": "Saludo de Mediodía",
+      "dlg": "Designar tiempo para una merienda rápida o para tomar el té de la tarde es una decisión gerencial acertada, considerando que son acciones conocidas por mejorar la eficiencia de trabajo. Tomaré sus órdenes aquí."
+    },
+    {
+      "id": "lobby_night_10206_1",
+      "desc": "Saludo Nocturno",
+      "dlg": "Recibimos pedidos hasta altas horas de la noche para nuestros colegas que trabajan turnos nocturnos u horas extras. Si no está de servicio esta noche, ¿Gustaría que le prepare un buen té con un toque de Sherry o Brandy?"
+    },
+    {
+      "id": "smalltalk_10206_1",
+      "desc": "Charla #1",
+      "dlg": "Esta cafetería es un establecimiento dirigido por empleados y miembros de la Asociación Seven que aman el té más que cualquier otra cosa en el mundo. Todos los turnos son voluntarios y volvemos a nuestras tareas habituales al estar fuera de horario. Ah, y no hace falta decir que todas las ganancias se destinan a la compra de hojas de té y teteras de mayor calidad."
+    },
+    {
+      "id": "smalltalk_10206_2",
+      "desc": "Charla #2",
+      "dlg": "¡la leche!... debe estar ya en la taza antes de verter el té. Esa es nuestra... forma recomendada."
+    },
+    {
+      "id": "smalltalk_10206_3",
+      "desc": "Charla #3",
+      "dlg": "¿Desea un poco de... hielo? Me disculpo, pero este establecimiento no sirve 'té' helado.\nSi no le supone molestia alguna, ¿puedo tomar un momento de su tiempo para profundizar sobre por qué el té negro debe disfrutarse a temperaturas elevadas?"
+    },
+    {
+      "id": "smalltalk_10206_4",
+      "desc": "Charla Post-Aunamiento #1",
+      "dlg": "Ah, me encuentro ocupada en este preciso momento.\nSi bien, siempre disfruto nuestras discusiones sobre el té, por ahora debe esperar."
+    },
+    {
+      "id": "smalltalk_10206_5",
+      "desc": "Charla Post-Aunamiento #2",
+      "dlg": "Ética de trabajo precisa y talento para preparar té de sabor puro y exacto. Faust considera estos como sus dos objetivos principales."
+    },
+    {
+      "id": "neglect_10206_1",
+      "desc": "Inactivo",
+      "dlg": "Infundir demasiado su té es permitir que los sabores impuros florezcan. Por favor absténgase de hacerlo."
+    },
+    {
+      "id": "gacksung_10206_1",
+      "desc": "Aunando",
+      "dlg": "Sí, por supuesto. Puede llamarme en cualquier momento si surge la necesidad. A menos que sea la hora del té, claro."
+    },
+    {
+      "id": "formation_10206_1",
+      "desc": "Desplegar",
+      "dlg": "Un pedido urgente, ¿verdad?"
+    },
+    {
+      "id": "battleentry_10206_1",
+      "desc": "Entrada a Escena",
+      "dlg": "Me reuniré con usted en el campo."
+    },
+    {
+      "id": "battle_select_10206_1",
+      "desc": "Vista en Batalla",
+      "dlg": "Antes de que el té se enfríe."
+    },
+    {
+      "id": "battle_endcommand_10206_1",
+      "desc": "Al Atacar",
+      "dlg": "Impecable."
+    },
+    {
+      "id": "battle_enemy_break_10206_1",
+      "desc": "Aturdir al Enemigo",
+      "dlg": "Como hojas de té machacadas."
+    },
+    {
+      "id": "battle_break_10206_1",
+      "desc": "Aturdido",
+      "dlg": "Ah…"
+    },
+    {
+      "id": "battle_kill_10206_1",
+      "desc": "Enemigo Asesinado",
+      "dlg": "No hay más información que obtener."
+    },
+    {
+      "id": "battle_dead_10206_1",
+      "desc": "Muerte",
+      "dlg": "Ahh... pero... no tengo a nadie... que cubra mi próximo turno..."
+    },
+    {
+      "id": "choice_success_p_10206_2",
+      "desc": "Juicio Exitoso",
+      "dlg": "El resultado de una meticulosa observación."
+    },
+    {
+      "id": "choice_fail_n_10206_1",
+      "desc": "Juicio Fallido",
+      "dlg": "...Debería haber observado con más atención."
+    },
+    {
+      "id": "battle_clear_10206_1",
+      "desc": "Grito de Victoria",
+      "dlg": "Esta misión fue un éxito. Ah, mi próximo turno en la cafetería se aproxima. Así que, si me disculpan..."
+    },
+    {
+      "id": "battle_clear_ex_10206_1",
+      "desc": "Condiciones EX Cumplidas",
+      "dlg": "Té con leche, por favor. Vertido, no revuelto. Ciertamente, el té sabe mejor cuando se lo sirven a uno que cuando lo sirve usted mismo."
+    },
+    {
+      "id": "battle_defeat_10206_1",
+      "desc": "LLanto de Derrota",
+      "dlg": "Eso fue... inesperado. No debemos haber ingerido suficiente té. Tomémonos un tiempo libre para tomar el té antes de nuestro próximo intento."
+    }
+  ]
+}

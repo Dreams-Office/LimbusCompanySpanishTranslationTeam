@@ -1,0 +1,680 @@
+{
+  "dataList": [
+    {
+      "id": 863001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fuego de Retaguardia",
+          "desc": "Esta Habilidad inflige +10% de daño en Golpe Crítico\n[WhenUse] Con 10+ de [Breath], Poder Base +1\n[WhenUse] Gana 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fuego de Vanguardia",
+          "desc": "Esta Habilidad inflige +10% de daño en Golpe Crítico\n[WhenUse] Con 10+ de [Breath], Poder Base +1\n[WhenUse] Gana +3 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perforar",
+          "desc": "[WhenUse] Gana 2 de [Breath]\n[WhenUse] Con 10+ de [Breath], Poder Base +1\n[WhenUse] Poder de Moneda +1 por cada 5 Contador de [Breath] en sí (máx 2)\n[WinDuel] Esta Habilidad de Ataque inflige +50% de daño en Golpe Crítico",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
+                },
+                {
+                  "desc": "Esta Moneda solo inflige daño contra el objetivo principal."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los sub-objetivos\n- Si la primera Moneda falló en matar al aliado o si el objetivo no fue Aturdido, 1 sub-objetivo aleatorio recibe daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Recargar, Fuego",
+          "desc": "Esta Habilidad inflige +50% de daño en Golpe Crítico\n[WhenUse] Poder de Moneda +1 por cada 5 Contador de [Breath] en sí (máx 3)\n[WhenUse] Gana 3 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Reutiliza esta Moneda una vez"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Detectar Puntos Ciegos",
+          "desc": "[DefeatDuel] Reduce a la mitad el [Breath] en sí\n- Cualquier [Breath] ganado durante este turno es reducido a la mitad también\n- Gana 4 de [Paralysis] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fuego al Objetivo Asignado",
+          "desc": "Ataca el objetivo con [FellBulletMark]\nPoder de Moneda +1 por cada 5 [Breath] en sí (máx 2)\nPoder Base +1 por cada 3 Contador de [Breath] en sí (máx 3)\n[WhenUse] Si el objetivo principal [FellBulletMark], gana 1 de [Paralysis] y 3 de [Vulnerable]\n[EndSkill] Si el objetivo es derrotado, gana 10 de [Breath] y reduce los PC de cada enemigo por 15",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Esta Moneda solo inflige daño contra el objetivo principal."
+                },
+                {
+                  "desc": "Si el objetivo tiene [FellBulletMark], inflige +100% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [FellBulletMark], gana 10 de [Breath] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los sub-objetivos\n- Si la primera Moneda falló en matar al objetivo, 2 sub-objetivos aleatorios reciben daño"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Sinking] y 5 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fuego al Objetivo Reasignado",
+          "desc": "[CantIdentify]\n[CantChangeTarget]\nPrioriza al objetivo con [FellBulletMark]\nSi esta unidad falló en matar al objetivo Estigmatizado, cancela esta Habilidad.\nPoder de Moneda +1 por cada 5 de [Breath] en sí (máx 2)\nPoder Base +1 por cada 3 Contador de [Breath] en sí (máx 3)\n[EndSkill] Si el objetivo es derrotado, gana 10 de [Breath] y reduce los PC de cada enemigo por 15",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Esta Moneda solo inflige daño contra el objetivo principal"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Si el objetivo tiene [FellBulletMark], kill the target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 10 de [Breath] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Esta Moneda inflige daño solo contra los sub-objetivos\n- Si la primera Moneda falló en matar al objetivo, 1 sub-objetivo aleatorio recibe daño"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Sinking] y 5 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Magullar",
+          "desc": "[WhenUse] Poder Final +1 por cada 4 Potencia de [Breath] en sí (máx 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 Potencia de [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gana +3 Contador de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devastar",
+          "desc": "[WhenUse] Poder Final +1 por cada 4 Potencia de [Breath] en sí (máx 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 Potencia de [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 2 Potencia de [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gana +2 Contador de [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Respiración Laboriosa",
+          "desc": "[WhenUse] Poder Final +1 por cada 8 Potencia de [Breath] en sí (máx 5)\n[WhenUse] Poder de Moneda +1 por cada 8 Contador de [Breath] en sí (máx 5)\n[DefeatDuel] Reduce a la mitad la Potencia de [Breath] en sí\n[EndSkill] Reduce a la mitad la Potencia y el Contador de [Breath] en sí",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +(Potencia de [Breath])% de daño en Golpe Crítico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Agacharse",
+          "desc": "[WhenUse] Poder Final +1 por cada 4 Potencia de [Breath] en sí (máx 5)\n[WhenUse] Gana 4 Potencia de [Breath]\n- Con 50%- de HP, también gana +4 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863212,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Eso es...MÍO!",
+          "desc": "[CantChangeTarget]\n[WhenUse] Poder de Choque +1 por cada 4 Potencia de [Breath] en sí (máx 3)\n[WhenUse] Poder de Choque +1 por cada 4 Contador de [Breath] en sí (máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Roba la Potencia y el Contador de [Breath] del objetivo (máx 6 de cada uno)"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] Roba 1/3 de la Potencia y el Contador de [Breath] del objetivo (máx 2 de cada uno)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863213,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Compartir el Dolor",
+          "desc": "[WhenUse] Poder Final +1 por cada 8 Potencia de [Breath] en sí (máx 5)\n[WhenUse] Poder de Moneda +1 por cada 8 Contador de [Breath] en sí (máx 5)\n[DefeatDuel] Inflige -75% de daño y el daño infligido por esta Habilidad no puede Aturdir al objetivo\n[EndSkill] Reduce a la mitad la Potencia y el Contador de [Breath] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige 2 de [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Inflige 2 de [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Inflige +(Potencia de [Breath] + Contador de [Breath])% de daño en Golpe Crítico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Liberado de la Vida de Sufrimiento",
+          "desc": "[StartBattle] Gana 2 de [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Herir Tenazmente",
+          "desc": "Si el objetivo tiene 6+ Potencia de [Laceration], +1 a Potencia y Contador de [Laceration] infligidos por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Herir",
+          "desc": "Si el objetivo tiene 6+ Potencia de [Laceration], +1 a Potencia y Contador de [Laceration] infligidos por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zarzas Constrictoras",
+          "desc": "Si el objetivo tiene 6+ Potencia de [Laceration], +1 a Potencia de [Laceration] infligidos por esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Petalos Polidípsicos",
+          "desc": "Ataca al objetivo con la mayor suma de  Potencia + Contador de [Laceration]\n[WhenUse] Si el objetivo tiene 6+ Potencia de [Laceration], Poder Final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [ScarletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Desangra al objetivo por su [Laceration] una vez (reduce en 1 el Contador de [Laceration])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863312,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Petalos Rebosantes",
+          "desc": "Ataca al objetivo con la mayor suma de  Potencia + Contador de [Laceration]\n[WhenUse] Si el objetivo tiene 6+ Potencia de [Laceration], Poder Final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [ScarletTakeDamageUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Desangra completamente al objetivo por su [Laceration] (reduce completamente el Contador de [Laceration])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863313,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tormenta de Púas",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ Potencia de [Laceration], Poder Final +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Desangra al objetivo por su [Laceration] una vez (reduce en 1 el Contador de [Laceration])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863314,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Espina Polidípsica",
+          "desc": "[StartBattle] Gana 3 de [AttackDmgUp] y 2 de [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863315,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Manantial Interminable de Sangre",
+          "desc": "[DuelCounter]\n[WhenUse] El objetivo que choca contra esta habilidad no pierde Contador de [Laceration] meintras chocan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Desangra al objetivo por su [Laceration] una vez, e inmediatamente consume el [BloodDinner] generado por el daño de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Desangra al objetivo por su [Laceration] una vez, e inmediatamente consume el [BloodDinner] generado por el daño de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Desangra al objetivo por su [Laceration] una vez, e inmediatamente consume el [BloodDinner] generado por el daño de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863316,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo de Nutrientes",
+          "desc": "Se activa con 100+ [BloodDinner]\n[EndBattle] Consume hasta 100 [BloodDinner] para activar los siguientes efectos:\n- Cura HP igual a [BloodDinner] consumido para el Núcleo y las Partes del Cuerpo\n- Gana 1 de [AttackUp] el siguiente turno por cada 20 [BloodDinner] consumido",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 863317,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Zarzas que Anhelan",
+          "desc": "[WhenUse] Consume hasta 100 [BloodDinner] para activar los siguientes efectos:\n- Cura HP igual a [BloodDinner] consumido para el Núcleo y las Partes del Cuerpo\n- Esta Habilidad gana Poder Final +1 por cada 20 [BloodDinner] consumido\n[DefeatDuel] Poder Final -5\n[EndSkill] Si esta Habilidad consumió menos de 30 [BloodDinner], gana 2 de [Vulnerable] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

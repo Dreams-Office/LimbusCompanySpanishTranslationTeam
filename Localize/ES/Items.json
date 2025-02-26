@@ -1,0 +1,520 @@
+{
+  "dataList": [
+    {
+      "id": 1,
+      "name": "Lunacy de Paga",
+      "desc": "Una estructura cristalina con forma de rosa. Usada para realizar extracciones y comprar Cajas de Encefalina.",
+      "flavor": "Una rosa de cristal que parece estar orientada a una dirección en todo momento. Se dice que este objeto humanizado absorbe la humedad de cierto río para crecer."
+    },
+    {
+      "id": 2,
+      "name": "Lunacy Gratis",
+      "desc": "Una estructura cristalina con forma de rosa. Usada para realizar extracciones y comprar Cajas de Encefalina.",
+      "flavor": "Una rosa de cristal que parece estar orientada a una dirección en todo momento. Se dice que este objeto humanizado absorbe la humedad de cierto río para crecer."
+    },
+    {
+      "id": 3,
+      "name": "Lunacy",
+      "desc": "Una estructura cristalina con forma de rosa. Usada para realizar extracciones y comprar Cajas de Encefalina.",
+      "flavor": "Aceptar la locura es el paso necesario para que los humanos avancen."
+    },
+    {
+      "id": 11,
+      "name": "Módulos de Encefalina",
+      "desc": "Usado para entrar en mazmorras.",
+      "flavor": "Un módulo esférico diseñado para una contención especial.\n[NOTA] Utilizar una dosis de Encefalina líquida permite un uso más estable comparado con su forma gaseosa.\nLa Encefalina puede ser convertida en energía conectando el módulo en un enchufe designado.\n[PRECAUCIÓN] La modularización de Encefalina es un proceso irreversible; el módulo solo puede ser utilizado mediante un conector.\nEl uso fuera de los fines previstos o modificaciones está estrictamente prohibido."
+    },
+    {
+      "id": 101,
+      "name": "Ticket de Extracción",
+      "desc": "Puede ser usado para realizar 1 extracción.",
+      "flavor": "Un objeto consumible confeccionado a partir de Lunacy, la fuente de la energía extractiva de Mefistófeles.\nParece un delgado trozo de papel a simple vista, pero algo parece palpitar en su interior."
+    },
+    {
+      "id": 102,
+      "name": "Ticket de Deca-extracción",
+      "desc": "Puede ser usado para realizar 10 extracciones. ",
+      "flavor": "Un objeto consumible confeccionado a partir de Lunacy, la fuente de la energía extractiva de Mefistófeles.\nParece un delgado trozo de papel a simple vista, pero algo parece palpitar en su interior."
+    },
+    {
+      "id": 103,
+      "name": "Ticket de Deca-extracción 3★ Garantizado",
+      "desc": "Puede ser usado para realizar 10 extracciones dónde se garantiza que aparecerá una identidad 3★.",
+      "flavor": "Un ticket especial con una marca en el. Este puede extraer una identidad de un mundo de pocas probabilidades con toda seguridad. El papel late y pulsa con fuerza."
+    },
+    {
+      "id": 104,
+      "name": "[Temporada 1] Ticket de Deca-extracción 3★ Garantizado",
+      "desc": "Puede ser usado para realizar 10 extracciones. where one 3★ Identity from [Temporada 1] is guaranteed to appear.",
+      "flavor": "Un ticket especial con una marca en el. Este puede extraer una identidad de un mundo de pocas probabilidades con toda seguridad. El papel late y pulsa con fuerza."
+    },
+    {
+      "id": 105,
+      "name": "[Temporada 2] Ticket de Deca-extracción 3★ Garantizado",
+      "desc": "Puede ser usado para realizar 10 extracciones. where one 3★ Identity from [Temporada 2] is guaranteed to appear.",
+      "flavor": "Un ticket especial con una marca en el. Este puede extraer una identidad de un mundo de pocas probabilidades con toda seguridad. El papel late y pulsa con fuerza."
+    },
+    {
+      "id": 106,
+      "name": "[Temporada 3] Ticket de Deca-extracción 3★ Garantizado",
+      "desc": "Puede ser usado para realizar 10 extracciones. where one 3★ Identity from [Temporada 3] is guaranteed to appear.",
+      "flavor": "Un ticket especial con una marca en el. Este puede extraer una identidad de un mundo de pocas probabilidades con toda seguridad. El papel late y pulsa con fuerza."
+    },
+    {
+      "id": 201,
+      "name": "Hilo",
+      "desc": "Usado para Aunar identidades y la Metacognición de E.G.O.",
+      "flavor": "El Hilo es un objeto parecido a una cuerda concebido para unir todas la posibilidades en un solo lugar .\nNuestra compañía está utilizando el Hilo de varias maneras, como la  de Aunar identidades o la Metacognición de E.G.O para comprenderlo mejor."
+    },
+    {
+      "id": 211,
+      "name": "Ticket de Entrenamiento de Identidad I",
+      "desc": "Otorga 50 EXP a la Identidad.",
+      "flavor": "Un Ticket cual porta con posibilidades del pasado, presente y futuro.\n”Encontré que un pensamiento de algo que nunca había experimentado se plantó firmemente en mi cabeza”"
+    },
+    {
+      "id": 212,
+      "name": "Ticket de Entrenamiento de Identidad II",
+      "desc": "Da 200 EXP a la Identidad.",
+      "flavor": "Un Ticket cual porta con posibilidades del pasado, presente y futuro.\n”Hmhm~ Nunca he estado en los barrios del sur antes, ¿Entonces por qué me resulta tan familiar...?”"
+    },
+    {
+      "id": 213,
+      "name": "Ticket de Entrenamiento de Identidad III",
+      "desc": "Da 1000 EXP a la Identidad.",
+      "flavor": "Un Ticket cual porta con posibilidades del pasado, presente y futuro.\n“... Si  hubiera podido tener una cosa tan conveniente en el pasado, esos momentos de pesadilla hubieran sido muy fáciles de superar.”"
+    },
+    {
+      "id": 214,
+      "name": "Ticket de Entrenamiento de Identidad IV",
+      "desc": "Da 3000 EXP a la Identidad.",
+      "flavor": "Un Ticket resplandeciente de posibilidades que hemos experimentado, estamos experimentando y experimentaremos.\n”Este es un sentimiento similar a recibir memorias que no experimentamos. No es el sentimiento más agradable, pero ciertamente es eficiente.”"
+    },
+    {
+      "id": 221,
+      "name": "Ticket de Incremento de Nivel I",
+      "desc": "Aumenta el nivel de la Identidad hasta 10.",
+      "flavor": "Un ticket de desvinculación de límites que permite que una Identidad resista un exceso de experiencia.\n“¡Oho! ¡Mi contextura se ha tornado más idónea que nunca para impartir justicia!.”"
+    },
+    {
+      "id": 222,
+      "name": "Ticket de Incremento de Nivel II",
+      "desc": "Aumenta el nivel de la Identidad hasta 20.",
+      "flavor": "Un ticket de desvinculación de límites que permite que una Identidad resista un exceso de experiencia.\n“Es... sorprendentemente calmante. Siento que puedo hacer cosas que antes no podía“"
+    },
+    {
+      "id": 223,
+      "name": "Ticket de Incremento de Nivel III",
+      "desc": "Aumenta el nivel de la Identidad hasta 30.",
+      "flavor": "Un ticket de desvinculación de límites que permite que una Identidad resista un exceso de experiencia.\n“Esta cosa hubiera sido una verdadera amenaza si hubiera estado disponible durante la guerra. Imagina formar veteranos en tan sólo segundos.”"
+    },
+    {
+      "id": 224,
+      "name": "Ticket de Incremento de Nivel IV",
+      "desc": "Aumenta el nivel de la Identidad hasta 40.",
+      "flavor": "Un ticket de desvinculación de límites que permite que una Identidad mantenga un exceso de experiencia.\n”O.P. Darme años de experiencia en usar técnicas que nunca he usado antes...  no hay satisfacción alguna. Repugnante”"
+    },
+    {
+      "id": 301,
+      "name": "Caja de Encefalina",
+      "desc": "Recupera 60 de Encefalina cuando es usada.",
+      "flavor": "Un estable contenedor de Encefalina líquida.\n[PRECAUCIÓN] Manejar esta caja sin seguir los procedimientos prescritos puede resultar en incidentes como fugas de Encefalina.\nLa ingestión irregular de Encefalina puede causar un amplio rango de síntomas psicopatológicos no verificados."
+    },
+    {
+      "id": 401,
+      "name": "Caja de Hilo",
+      "desc": "Abrir para recibir 1-3 hebras de Hilo.",
+      "flavor": "Una caja de posibilidades agrupadas.\nNadie sabe cuánto puedes sacar de ello."
+    },
+    {
+      "id": 1101,
+      "name": "[Temporada 1] Caja de Egocristal",
+      "desc": "Abre para recibir 1-3 Egocristales de un Pecador al azar.",
+      "flavor": "Egocristales que fueron recolectados al azar y almacenados en estas cajas. Su contenido es un misterio.\nCuando lo sostienes en un lugar tranquilo, puedes escuchar pequeños ruidos-"
+    },
+    {
+      "id": 1201,
+      "name": "[Temporada 1] Caja de Egocristal Designable",
+      "desc": "Abre para recibir 1-3 Egocristales de un Pecador a elección.",
+      "flavor": "Una caja que produce Egocristales de un recluso de tu elección.\nDe acuerdo con Faust, su contenido es determinado una vez el gerente hace su decisión."
+    },
+    {
+      "id": 1102,
+      "name": "[Temporada 2] Caja de Egocristal",
+      "desc": "Abre para recibir 1-3 Egocristales de un Pecador al azar.",
+      "flavor": "Egocristales que fueron recolectados al azar y almacenados en estas cajas. Su contenido es un misterio.\nCuando lo sostienes en un lugar tranquilo, puedes escuchar pequeños ruidos-"
+    },
+    {
+      "id": 1202,
+      "name": "[Temporada 2] Caja de Egocristal Designable",
+      "desc": "Abre para recibir 1-3 Egocristales de un Pecador a elección.",
+      "flavor": "Una caja que produce Egocristales de un recluso de tu elección.\nDe acuerdo con Faust, su contenido es determinado una vez el gerente hace su decisión."
+    },
+    {
+      "id": 1103,
+      "name": "[Temporada 3] Caja de Egocristal",
+      "desc": "Abre para recibir 1-3 Egocristales de un Pecador al azar.",
+      "flavor": "Egocristales que fueron recolectados al azar y almacenados en estas cajas. Su contenido es un misterio.\nCuando lo sostienes en un lugar tranquilo, puedes escuchar pequeños ruidos-"
+    },
+    {
+      "id": 1203,
+      "name": "[Temporada 3] Caja de Egocristal Designable",
+      "desc": "Abre para recibir 1-3 Egocristales de un Pecador a elección.",
+      "flavor": "Una caja que produce Egocristales de un recluso de tu elección.\nDe acuerdo con Faust, su contenido es determinado una vez el gerente hace su decisión."
+    },
+    {
+      "id": 10101,
+      "name": "[Temporada 1] Egocristal de Yi Sang",
+      "desc": "Usado para comprar Identidades y E.G.O de Yi Sang, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10201,
+      "name": "[Temporada 1] Egocristal de Faust",
+      "desc": "Usado para comprar Identidades y E.G.O de Faust, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10301,
+      "name": "[Temporada 1] Egocristal de Don Quixote",
+      "desc": "Usado para comprar Identidades y E.G.O de Don Quixote, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10401,
+      "name": "[Temporada 1] Egocristal de Ryōshū",
+      "desc": "Usado para comprar Identidades y E.G.O de Ryōshū, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10501,
+      "name": "[Temporada 1] Egocristal de Meursault",
+      "desc": "Usado para comprar Identidades y E.G.O de Meursault, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10601,
+      "name": "[Temporada 1] Egocristal de Hong Lu",
+      "desc": "Usado para comprar Identidades y E.G.O de Hong Lu, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10701,
+      "name": "[Temporada 1] Egocristal de Heathcliff",
+      "desc": "Usado para comprar Identidades y E.G.O de Heathcliff, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10801,
+      "name": "[Temporada 1] Egocristal de Ishmael",
+      "desc": "Usado para comprar Identidades y E.G.O de Ishmael, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10901,
+      "name": "[Temporada 1] Egocristal de Rodion",
+      "desc": "Usado para comprar Identidades y E.G.O de Rodion, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11001,
+      "name": "[Temporada 1] Egocristal de Sinclair",
+      "desc": "Usado para comprar Identidades y E.G.O de Sinclair, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11101,
+      "name": "[Temporada 1] Egocristal de Outis",
+      "desc": "Usado para comprar Identidades y E.G.O de Outis, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11201,
+      "name": "[Temporada 1] Egocristal de Gregor",
+      "desc": "Usado para comprar Identidades y E.G.O de Gregor, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10001,
+      "name": "Temporada 1 Egocristal de [Pecador Seleccionado]",
+      "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 10102,
+      "name": "[Temporada 2] Egocristal de Yi Sang",
+      "desc": "Usado para comprar Identidades y E.G.O de Yi Sang, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10202,
+      "name": "[Temporada 2] Egocristal de Faust",
+      "desc": "Usado para comprar Identidades y E.G.O de Faust, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10302,
+      "name": "[Temporada 2] Egocristal de Don Quixote",
+      "desc": "Usado para comprar Identidades y E.G.O de Don Quixote, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10402,
+      "name": "[Temporada 2] Egocristal de Ryōshū",
+      "desc": "Usado para comprar Identidades y E.G.O de Ryōshū, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10502,
+      "name": "[Temporada 2] Egocristal de Meursault",
+      "desc": "Usado para comprar Identidades y E.G.O de Meursault, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10602,
+      "name": "[Temporada 2] Egocristal de Hong Lu",
+      "desc": "Usado para comprar Identidades y E.G.O de Hong Lu, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10702,
+      "name": "[Temporada 2] Egocristal de Heathcliff",
+      "desc": "Usado para comprar Identidades y E.G.O de Heathcliff, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10802,
+      "name": "[Temporada 2] Egocristal de Ishmael",
+      "desc": "Usado para comprar Identidades y E.G.O de Ishmael, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10902,
+      "name": "[Temporada 2] Egocristal de Rodion",
+      "desc": "Usado para comprar Identidades y E.G.O de Rodion, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11002,
+      "name": "[Temporada 2] Egocristal de Sinclair",
+      "desc": "Usado para comprar Identidades y E.G.O de Sinclair, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11102,
+      "name": "[Temporada 2] Egocristal de Outis",
+      "desc": "Usado para comprar Identidades y E.G.O de Outis, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11202,
+      "name": "[Temporada 2] Egocristal de Gregor",
+      "desc": "Usado para comprar Identidades y E.G.O de Gregor, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10103,
+      "name": "[Temporada 3] Egocristal de Yi Sang",
+      "desc": "Usado para comprar Identidades y E.G.O de Yi Sang, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10203,
+      "name": "[Temporada 3] Egocristal de Faust",
+      "desc": "Usado para comprar Identidades y E.G.O de Faust, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10303,
+      "name": "[Temporada 3] Egocristal de Don Quixote",
+      "desc": "Usado para comprar Identidades y E.G.O de Don Quixote, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10403,
+      "name": "[Temporada 3] Egocristal de Ryōshū",
+      "desc": "Usado para comprar Identidades y E.G.O de Ryōshū, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10503,
+      "name": "[Temporada 3] Egocristal de Meursault",
+      "desc": "Usado para comprar Identidades y E.G.O de Meursault, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10603,
+      "name": "[Temporada 3] Egocristal de Hong Lu",
+      "desc": "Usado para comprar Identidades y E.G.O de Hong Lu, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10703,
+      "name": "[Temporada 3] Egocristal de Heathcliff",
+      "desc": "Usado para comprar Identidades y E.G.O de Heathcliff, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10803,
+      "name": "[Temporada 3] Egocristal de Ishmael",
+      "desc": "Usado para comprar Identidades y E.G.O de Ishmael, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10903,
+      "name": "[Temporada 3] Egocristal de Rodion",
+      "desc": "Usado para comprar Identidades y E.G.O de Rodion, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11003,
+      "name": "[Temporada 3] Egocristal de Sinclair",
+      "desc": "Usado para comprar Identidades y E.G.O de Sinclair, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11103,
+      "name": "[Temporada 3] Egocristal de Outis",
+      "desc": "Usado para comprar Identidades y E.G.O de Outis, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 11203,
+      "name": "[Temporada 3] Egocristal de Gregor",
+      "desc": "Usado para comprar Identidades y E.G.O de Gregor, o Hilo desde el Dispensador.",
+      "flavor": "Momentos fugaces de cualquier punto de la vida del Pecador, condensados en forma física. Los cristales flotan en el aire.\nLas posibilidades son cosas pasajeras; Van a la deriva en el reino de la incertidumbre a menos que sean aprovechadas."
+    },
+    {
+      "id": 10002,
+      "name": "Temporada 2 Egocristal de [Pecador Seleccionado]",
+      "desc": "재화 등장 확률 상세 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 4,
+      "name": "Yisang [Idealidad]",
+      "desc": "천장 재화 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 20001,
+      "name": "Chatarra para modificación del bus",
+      "desc": "Basura diversa como placas oxidadas y pernos arrancados del lomo de los cangrejos basura. \nPuede ser usado para modificar a Mefistófeles.",
+      "flavor": ""
+    },
+    {
+      "id": 20002,
+      "name": "Herradura rara con chatarra para modificación del bus",
+      "desc": "Un enorme objeto con forma de herradura tomado del rey cangrejo basura.\nPuede ser usado como sustituto de varias piezas de chatarra, o eso nos dijeron.",
+      "flavor": ""
+    },
+    {
+      "id": 5,
+      "name": "Egocristales",
+      "desc": "자판기 재화 표시용(name 만 번역해주세요)",
+      "flavor": ""
+    },
+    {
+      "id": 20009,
+      "name": "Saco de baratijas",
+      "desc": "Un saco lleno de baratijas y decoraciones que se llevaron apresuradamente de la Fábrica de Regalos.\nDon Quixote hará un buen uso de esto para decorar el interior de Mefistófeles.",
+      "flavor": ""
+    },
+    {
+      "id": 20010,
+      "name": "Gran saco de baratijas",
+      "desc": "Un enorme saco lleno hasta el borde con baratijas y decoraciones de la Fábrica de Regalos.\nDon Quixote hará un buen uso de esto para decorar el interior de Mefistófeles.",
+      "flavor": ""
+    },
+    {
+      "id": 20012,
+      "name": "Vaina Ensangrentada",
+      "desc": "Se usa para reclamar varias recompensas en el Menú de Recompensas.\n\n<color=#a16a3b>Aquellos quienes empuñan la espada en vida dejan detras una vaina ensangrentada en muerte.\nLa verdadera morada de aquellos que vagan por el camino de la espada es su vaina.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20013,
+      "name": "Vaina Resentida",
+      "desc": "Se usa para reclamar varias recompensas en el Menú de Recompensas.\n\n<color=#a16a3b>Aquel quien empuña su espada con profundo resentimiento se le conoce como un Demonio de la espada.\nEl Demonio de la Espada ya no necesita una vaina; Y si aun la carga, el resentimiento la tiñe con su apego persistente</color>.",
+      "flavor": ""
+    },
+    {
+      "id": 20017,
+      "name": "Reloj de Bolsillo",
+      "desc": "Everyone has their own timepiece, with varying time scales.\nTime that goes by quickly. Time that lingers.\nThe hours are always misaligned.",
+      "flavor": ""
+    },
+    {
+      "id": 20018,
+      "name": "Paquete de Relojes de Bolsillo",
+      "desc": "The same destination awaits every timepiece.\nThe hours finally align when the hands stop ticking down the seconds, when one breathes their final lungful of air.",
+      "flavor": ""
+    },
+    {
+      "id": 20020,
+      "name": "Paquete de Recup. Civil",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Notice to Cleanup Agents: please collect and store a single passenger's parts in this pack. No matter how difficult it may appear to collect their parts, do note that there is a single strand of vein connecting the passenger's parts together. Imagine you are spinning a yarn ball into shape, and patiently collect them one by one.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20021,
+      "name": "Paquete de Recup. Fixer",
+      "desc": "Spawns rarely. Converted to 20 Paquete de Recup. Civil immediately upon acquisition.\n\n<color=#a16a3b>On occasion, you may have to work on passengers equipped with prosthetics.\nPlease note that even full-body prosthetics do not remove the passenger's brain.\nAny prosthetic parts recognized by the brain as the passenger's own body will be connected by veins, so there is no need to worry about mix-and-matching them together.\nRemember: blood is thicker than water.</color>",
+      "flavor": ""
+    },
+    {
+      "id": 232,
+      "name": "Takeoff Module - ID Uptie",
+      "desc": "Raises an Identity’s Uptie Tier up to Tier 4.",
+      "flavor": "Rapid Identity Uptie Module developed by LCA R&D Team.\nForcibly insert the shimmering threads and weave the shards together, rapidly raising the Uptie tier to a certain level.\nWhile those outside the mirror may not know, this devastating injection sweeps short-lived destruction through the mirror."
+    },
+    {
+      "id": 233,
+      "name": "Takeoff Module - E.G.O Spinning [WAW] x1",
+      "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os WAW Level or lower)",
+      "flavor": "E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to a certain level at an accelerated pace.\nIt is yet to be known how much more of this pressure the heart known as E.G.O... can handle Threadspinning these Abnormal-Psychoment based E.G.Os so carelessly out of convenience."
+    },
+    {
+      "id": 501,
+      "name": "Nominable S1 Identity Ticket",
+      "desc": "Use this item to select a Season 1 Identity(including Event Identities) to obtain.",
+      "flavor": "A ticket capable of observing and pulling out an Identity of a particular period within the LCB team's pursuit of Golden Boughs.\n'The ability to target and pull up a specific period in which an Identity from an observed Mirror World demonstrates Limbus Company's vastly significant technological triumph. - LCA Mirror World Observatorium Department Mirror Researcher'"
+    },
+    {
+      "id": 601,
+      "name": "Nominable S1 Battle Pass E.G.O Ticket",
+      "desc": "Use this item to select a Season 1 Battle Pass E.G.O to obtain.",
+      "flavor": "A ticket capable of observing and pulling out an E.G.O of a particular period within the LCB team's pursuit of Golden Boughs.\n'Dragging up an E.G.O, observed within a specific period from the deep fathoms, is a much more complicated research than making Identities selectable. Fuhu. - LCA Mirror World Observatorium Department Observation Researcher'"
+    },
+    {
+      "id": 12004,
+      "name": "Season 4 Uptie & Threadspinning only Shard (Universal)",
+      "desc": "Can be used to Uptie Identities and Threadspin E.G.O for all Sinners.",
+      "flavor": "A universal shard that can be used to Uptie or Threadspin Identities & E.G.O for all Sinners.\nHowever, these shards cannot be used to extract Identities or E.G.O, no matter how many of these shards one collects.\n'These shards are products of our research into the omnitransformative nature of Golden Boughs; it can be used to fill any fathoms or worlds of mirrors. Huh? Extractions? Of course not. Its one-size-fits-all-worlds, nature would mean that it obviously cannot have been made *for* any specific world, right? - LCA Mirror World Observatorium Department Chief Researcher'"
+    },
+    {
+      "id": 12005,
+      "name": "Season 5 Uptie & Threadspinning only Shard (Universal)",
+      "desc": "Can be used to Uptie Identities and Threadspin E.G.O for all Sinners.",
+      "flavor": "A universal shard that can be used to Uptie or Threadspin Identities & E.G.O for all Sinners.\nHowever, these shards cannot be used to extract Identities or E.G.O, no matter how many of these shards one collects.\n'These shards are products of our research into the omnitransformative nature of Golden Boughs; it can be used to fill any fathoms or worlds of mirrors. Huh? Extractions? Of course not. Its one-size-fits-all-worlds, nature would mean that it obviously cannot have been made *for* any world, right? - LCA Mirror World Observatorium Department Chief Researcher'"
+    },
+    {
+      "id": 234,
+      "name": "Takeoff Module - E.G.O Spinning [HE] x1",
+      "desc": "Raises an E.G.O's Threadspinning Tier up to Tier 4. (Usable only on E.G.Os HE Level or lower)",
+      "flavor": "The second E.G.O Threadspinning Module developed by LCA R&D Team.\nWeaves the shimmering threads with numerous shards, enhancing the E.G.O Threadspinning tier to the [HE] level at an accelerated pace.\nWeave the shards together with the threads to compress together a form. The warm light of the threads is reminiscent of the light that had once showered the City for some time."
+    },
+    {
+      "id": 20024,
+      "name": "Amassed Data",
+      "desc": "Used to purchase various rewards from the Reward Exchange menu.\n\n<color=#a16a3b>Various disorganized and trivial documentation on LCB, Distortions, and the Peccatula are haphazardly scribbled here. These data have been collected by the LCE—messy records of tests, experiments, and research litter the papers.\n\n'It is not the duty of a researcher to organize their findings. That is the assistants' responsibility.'</color>",
+      "flavor": ""
+    },
+    {
+      "id": 20025,
+      "name": "Classified Data",
+      "desc": "Spawns rarely. Converted to 20 Amassed Data immediately upon acquisition.\n\n<color=#a16a3b>Classified data collected by Hohenheim himself, available for viewing only for LCE's assistant researchers. It contains all kinds of in-depth information about Limbus Company—from each Sinner's personal information(Birthdays, birthplaces, etc.) to analyses on Abnormalities and Distortions contained within the LCE.\n\n'The enumeration of data alone is worthless. What matters is which data connects to which, when they are unveiled, and how they are put to use. Only then is data transformed into intelligence of worth.' - Anonymous LCA Officer</color>",
+      "flavor": ""
+    }
+  ]
+}

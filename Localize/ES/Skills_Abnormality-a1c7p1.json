@@ -1,0 +1,407 @@
+{
+  "dataList": [
+    {
+      "id": 837101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Allez",
+          "desc": "[WhenUse] Inflige [DuelDeclaration_Camille]\n[WhenUse] Gana 5 de [Breath]\n[WinDuel] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coup Droit",
+          "desc": "[WhenUse] Gana 2 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 7+ Velocidad, inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 7+ Velocidad, inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fente",
+          "desc": "[WhenUse] Con 7+ de [Breath], Poder de Moneda +2\n[WinDuel] Gana +2 Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 7+ Velocidad, inflige 3 de Contador de [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] 50% de Daño en Golpe Crítico"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Salut",
+          "desc": "[WhenUse] Si la velocidad de esta unidad Velocidad es más alta que la del objetivo, Poder de Moneda +1 (Poder de Moneda +1 por cada 2 dif. de Velocidad; máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +4 Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 7+ Velocidad, inflige 3 de [Burst] y +1 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 7+ Velocidad, inflige 3 de [Burst] y +1 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 7+ Velocidad, inflige 3 de [Burst] y +1 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% de Daño en Golpe Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +5% de daño por cada de [Burst] en el objetivo (Máx 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parry",
+          "desc": "[WinDuel] Inflige más daño basado en el número de Choques (+10% de daño por cada Choque, máx 50%)\n[WinDuel] Gana 2 [Agility] el siguiente turno\n[DefeatDuel] Gana 2 [Binding] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Vulnerable] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Défensive",
+          "desc": "[OnSucceedEvade] Gana 1 [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Te Cortaré Bien Bonito!",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Choque +1\n[WhenUse] Poder de Moneda +1 por cada 5 de [Laceration] en sí (máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Reutiliza estas Moneda (Etapa de [BloodScissor] - 1) veces (máx 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aún Más Afilado",
+          "desc": "[WhenUse] Consume hasta 20 [BloodDinner]; gana 1 [BloodScissor] y cura 3 PC por cada 10 [BloodDinner] consumidos\n- Si esta unidad falló en consumir [BloodDinner] con esta Habilidad, gana 30 [Laceration]\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Choque +1\n[WhenUse] Poder de Moneda +1 por cada 5 de [Laceration] en sí (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "SNIP!!",
+          "desc": "[WhenUse] Consume hasta 30 [BloodDinner]; gana 1 [BloodScissor] y cura 3 PC por cada 10 [BloodDinner] consumidos\n[WhenUse] Si el objetivo tiene [LineCutting], Poder de Choque +5\nCura 5 PC en cada golpe contra [LineCutting]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡También Te Cortaré!",
+          "desc": "[BeforeAttack] Alcance de Atq +1 por cada Etapa de [BloodScissor] (máx 2)\n[WhenUse] Consume hasta 30 [BloodDinner]; gana 1 [BloodScissor] y cura 3 PC por cada 10 [BloodDinner] consumidos\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Choque +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [BloodScissorScars] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 5 de [Laceration] y+2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ahora, Es Tu Turno.",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [BloodScissorScars] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [LineCutting] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Los Cortaré Juntos!",
+          "desc": "[BeforeAttack] Alcance de Atq +1 por cada Etapa de [BloodScissor]\n[WhenUse] Consume hasta 100 [BloodDinner]; gana 1 [BloodScissor] y cura 3 PC por cada 10 [BloodDinner] consumidos\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Choque +2\n[EndSkill] Consume 10 [BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Activa el [Laceration] del objetivo (máx 10). El objetivo pierde 1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Activa el [Laceration] del objetivo (máx 10). El objetivo pierde 1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Activa el [Laceration] del objetivo (máx 10). El objetivo pierde 1 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] inflige +40% de daño por cada Etapa de [BloodScissor] (máx 120%)"
+                },
+                {
+                  "desc": "[EnemyKill] Si este efecto de Moneda mató al objetivo, cura por 50% del daño infligido contra el objetivo matado."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Qué Descortés!",
+          "desc": "[DuelCounter]\n[WhenUse] Poder de Choque +1 por cada Etapa de [BloodScissor] (máx 3)\n[WhenUse] Poder de Moneda +1 por cada 5 de [Laceration] en sí (máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] y +4 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡¡No Necesito Cosas Feas!!",
+          "desc": "[CantChangeTarget]\nPrioriza objetivos con el menor porcentaje de HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo está a 30%- de HP, mata al objetivo"
+                },
+                {
+                  "desc": "[EnemyKill] Incrementa [BloodDinner] por 30% del HP Máx del enemigo derrotado"
+                },
+                {
+                  "desc": "[EnemyKill] gana 4 [Vulnerable] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

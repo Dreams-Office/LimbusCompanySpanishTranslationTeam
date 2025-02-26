@@ -1,0 +1,28 @@
+{
+    "dataList": [
+        {
+            "id": "LoseRatioHpOnly",
+            "content": "<color=#ebcaa2>{conditions}{targets}</color> recibe <color=#e30000>{amount}% HP</color> <color=#ebcaa2>de Daño!</color>"
+        },
+        {
+            "id": "Choice_901070401",
+            "content": "Gana <color=#f8c200>2 Recursos E.G.O. de Ira</color>\nGana <color=#f8c200>2 Recursos E.G.O. de Orgullo.</color>"
+        },
+        {
+            "id": "Choice_901070402",
+            "content": "Gana <color=#f8c200>2 Recursos E.G.O de Lujuria</color>\nGana <color=#f8c200>2 Recursos E.G.O de Gula</color>"
+        },
+        {
+            "id": "Choice_901070403",
+            "content": "Gana <color=#f8c200>2 Recursos E.G.O de Melancolía</color>\nGana <color=#f8c200>2 Recursos E.G.O de Envidia</color>"
+        },
+        {
+            "id": "Choice_901070404",
+            "content": "Todos los Pecadores ganan <color=#e30000>+4 Contador de Ruptura</color> al inicio de la siguiente Batalla"
+        },
+        {
+            "id": "Choice_901070405",
+            "content": "Todos los Pecadores ganan <color=#e30000>4 de Ruptura y +4 Contador de Ruptura</color> al inicio de la siguiente Batalla"
+        }
+    ]
+}

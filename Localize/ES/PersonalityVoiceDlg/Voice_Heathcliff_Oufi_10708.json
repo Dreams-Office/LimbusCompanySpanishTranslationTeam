@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10708_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Ahora vamos a proceder con la revisión del contrato con mutua compañía de ambos lados. No hagamos nada estúpido para no malgastar el tiempo del otro, ¿está claro?"
+        },
+        {
+            "id": "lobby_morning_10708_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Dejate de joder... Recién es de día. Tengo cinco contratos distintos para hoy, así que como mínimo dejame la mañana para descansar."
+        },
+        {
+            "id": "lobby_noon_10708_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "A continuación... vamos a revisar... Por favor, como intermediario, no puedo permitir que los presentes se pongan a comer en medio de la escritura del contrato. Podés irte a comer después."
+        },
+        {
+            "id": "lobby_night_10708_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Vos ahí, despertate. Todavía no llegamos a las cláusulas más importantes. Sí, sí. Yo también me quiero ir a mi casa tanto como vos, así que cooperá. ¿Estamos?"
+        },
+        {
+            "id": "smalltalk_10708_1",
+            "desc": "Charla #1",
+            "dlg": "El campo de los Öufi es intermediar y observar contratos. Si algún pobre diablo llega a rehusarse a cumplir con los términos o a intentar sabotearlo... Je, entonces nosotros vamos a tener que hacerlo cumplir."
+        },
+        {
+            "id": "smalltalk_10708_2",
+            "desc": "Charla #2",
+            "dlg": "No puedo decir me guste esta ropa; es incómoda y es muy de ricachón, pero... me dijeron que representa la autoridad de los ejecutores de un contrato, o algo de ese estilo.\nBueno, como no puedo andar sin mi uniforme... supongo que me tendré que acostumbrar. Además, tampoco está fea."
+        },
+        {
+            "id": "smalltalk_10708_3",
+            "desc": "Charla #3",
+            "dlg": "Las armas del Öufi se especializan en la amputación. Es una parte importante del laburo ejecutar a los que no llevan a cabo el contrato, o a aquellos que rompieron alguna regulación importante. O eso es lo que dicen."
+        },
+        {
+            "id": "smalltalk_10708_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Bueno... supongo que es lo que hay. Hubieras enviado una queja como corresponde en vez de haberte puesto a gritar y patalear en frente de todos. Eso ya es obstrucción."
+        },
+        {
+            "id": "smalltalk_10708_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Un contrato supervisado por los Öufi siempre se tiene que cumplir, no importan las condiciones. No puede ni debe fracasar.\n... Por más que eso signifique que se vaya a tener que derramar sangre."
+        },
+        {
+            "id": "neglect_10708_1",
+            "desc": "Inactivo",
+            "dlg": "... El no decir nada también cuenta como negligencia al revisar el contrato. Decí algo."
+        },
+        {
+            "id": "gacksung_10708_1",
+            "desc": "Aunando",
+            "dlg": "Esa fue la última advertencia que les daba. Ahora, como se ha observado una obstrucción en la ejecución del contrato, me veo obligado a... ¡cagarlos a trompadas a todos!"
+        },
+        {
+            "id": "formation_10708_1",
+            "desc": "Desplegar",
+            "dlg": "Otro contrato roto más, ¿eh?"
+        },
+        {
+            "id": "battleentry_10708_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Yo estoy presente."
+        },
+        {
+            "id": "battle_select_10708_1",
+            "desc": "Vista en Batalla",
+            "dlg": "La intervención de un tercero\nsin autorización también está prohibida."
+        },
+        {
+            "id": "battle_endcommand_10708_1",
+            "desc": "Al Atacar",
+            "dlg": "¡Te dije que te comportaras!"
+        },
+        {
+            "id": "battle_enemy_break_10708_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Te conviene empezar a escuchar."
+        },
+        {
+            "id": "battle_break_10708_1",
+            "desc": "Aturdido",
+            "dlg": "Agh..."
+        },
+        {
+            "id": "battle_kill_10708_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Ahora hay un obstáculo menos en el camino."
+        },
+        {
+            "id": "battle_dead_10708_1",
+            "desc": "Muerte",
+            "dlg": "Podrán matarme... pero el Öufi se va a encargar de que... el contrato se cumpla."
+        },
+        {
+            "id": "choice_success_p_10708_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Tal como lo estipulaba el contrato."
+        },
+        {
+            "id": "choice_fail_n_10708_1",
+            "desc": "Juicio Fallido",
+            "dlg": "… ¿Habré leído mal los términos del contrato?"
+        },
+        {
+            "id": "battle_clear_10708_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Las consecuencias por la obstrucción de la ejecución de un contrato serán llevadas a cabo sin importar qué. Los Öufi nunca van a faltar... así que estense bien preparados, je."
+        },
+        {
+            "id": "battle_clear_ex_10708_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Supervisión completada. El contrato se cumplió al pie de la letra... ¡así que ya terminé de laburar!"
+        },
+        {
+            "id": "battle_defeat_10708_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Otro contrato que fue un fracaso. Haah... esto no lo van a contar ni en las pruebas de rendimiento. Tsk, tocará seguir con el próximo caso pronto."
+        }
+    ]
+}

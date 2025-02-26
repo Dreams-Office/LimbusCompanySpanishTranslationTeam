@@ -1,0 +1,141 @@
+{
+    "dataList": [
+        {
+            "id": 811301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sé La Alegría",
+                    "desc": "[WhenUse] Gana +2 Contador de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Binding] en el objetivo el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sé El Consuelo",
+                    "desc": "[WhenUse] Gana +2 Contador de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +3 Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Gana [Breath] igual a [Breath] en sí"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +3 Contador de [Breath]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "He Aquí Un Regalo",
+                    "desc": "Si el objetivo tiene [Binding], y si esta unidad tiene una Velocidad mayor, gana Poder de Choque igual a la diferencia de Velocidad",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pierde 5 PC"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Breath] y +3 Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "A Empaquetar",
+                    "desc": "Si esta unidad tiene [AaCeSeBa], añade 'Inflige 1 de [Paralysis] el siguiente turno' a los efectos de Moneda\nSelecciona la unidad con la menor Velocidad\n[EndBattle] Gasta todo el Contador de [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath]."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige daño extra igual a [Breath] en sí"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 1 de [Breath] y +3 Contador de [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Selecciona aleatoriamente 1 de 4 efectos ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Inflige o aplica 3 del efecto seleccionado."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] El objetivo pierde PC iguales a Contador de [Breath] en esta unidad"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Todos los enemigos pierden 10 PC."
+                                },
+                                {
+                                    "desc": "[EnemyKillFail] Gana 2 de [Paralysis] el siguiente turno."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 811305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "A Ser Empaquetado",
+                    "desc": "Si el HP de Escudo es gastado por completo, es Aturdido el siguiente turno.\nSi hay HP de Escudo restante, gana 2 de [Enhancement] el siguiente turno",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

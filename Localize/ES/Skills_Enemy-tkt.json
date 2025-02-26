@@ -1,0 +1,851 @@
+{
+  "dataList": [
+    {
+      "id": 9014001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apártense De Mi",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana Contador de [Vibration] igual a Contador de [Vibration] en el objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mi Arma Secreta",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Asquerosas Cadenas de Reloj!",
+          "desc": "Poder de Choque +1 por cada 5 Contador de [Vibration] en sí (máx 2)\n[WhenUse] Provoca [Switch_Vibration] para convertir [Vibration] en sí a [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Contador de [Vibration] igual a Contador de [Vibration] en sí"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[StartBattle] Gana 2 x (Contador de [Vibration] en sí) HP de Escudo (máx 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fuera De Mi Camino",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana [Vibration] igual a [Vibration] en el objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +2 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Me Subestimes",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Viles Cadenas de Reloj!",
+          "desc": "Poder de Choque +1 por cada 5 Contador de [Vibration] en sí (máx 2)\n[WhenUse] Provoca [Switch_Vibration] para convertir [Vibration] en sí a [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana [Vibration] igual a [Vibration] en el objetivo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[StartBattle] Gana 2 x (Contador de [Vibration] en sí) HP de Escudo (máx 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¿No Te Da Vergüenza?",
+          "desc": "[WhenUse] Gana +1 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Veo, No Te Da Vergüenza",
+          "desc": "[WhenUse] Gana +1 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¿Puedes Protegerlos?",
+          "desc": "[WhenUse] Gana +1 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Vibration] en sí, provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 15+ Potencia de Vibration, provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¿Ibas A Usar Esa Arma?",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [Switch_Vibration] a [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¿Listos Para Una Paliza?",
+          "desc": "Prioriza objetivos con [VibrationCollapse]\n[WhenUse] Aplica Contador de [Vibration] igual a Contador de [Vibration] en sí a todos los aliados\n[WhenUse] Provoca [Switch_Vibration] en todos los aliados (incluyendo esta unidad) para convertir su [Vibration] a [VibrationDistribution]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [FusionVibration] a [VibrationEcho]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[StartBattle] Gana 3 x (Contador de [Vibration] en sí) HP de Escudo (máx 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Por el Bien Mayor",
+          "desc": "[CantDuel]\n[StartBattle] Atrae el Contador de [Vibration] de todos los aliados a sí; expira el [Vibration] en todos los aliados\n[StartBattle] Gana 1 de [AttackUp] por cada 3 Contador de [Vibration] en sí\n[WhenUse] Gana 9 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +10% de daño adicional con Afinidad de Pereza por cada Contador de [Vibration] en sí"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +4 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +10% de daño adicional con Afinidad de Pereza por cada Contador de [Vibration] en sí"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 3 Contador de [Vibration] en sí, y provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gasta 3 Contador de [Vibration] en sí, y provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gasta 3 Contador de [Vibration] en sí, y provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punto de Control de Recaudación",
+          "desc": "[WhenUse] Gana +1 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 4+ Contador de [Vibration], Inflige 1 de [InterlockingTime]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 4+ Contador de [Vibration], Inflige 1 de [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Por Favor Deténgase.",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]\n[WhenUse] Con 4+ Contador de [Vibration], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 4+ Contador de [Vibration], Inflige 8 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 4+ Contador de [Vibration], Inflige 8 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ejecución de Recaudación.",
+          "desc": "[WhenUse] Poder de Choque +1 por cada 5 Contador de [Vibration] en sí (máx 2)\n[WhenUse] Con 5+ Contador de [Vibration], inflige +10% de daño por cada Contador de [Vibration]. (máx 100%)\n[EndSkill] Gasta todo el Contador de [Vibration] en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 8+ de [Vibration], Inflige 1 de [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 4+ Contador de [Vibration], Inflige 8 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 4+ Contador de [Vibration], Inflige 1 de [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 4+ Contador de [Vibration], Inflige 5 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Con 7+ Contador de [Vibration], Inflige 1 de [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 4+ Contador de [Vibration], provoca [Switch_Vibration] a [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rentar Tiempo",
+          "desc": "[StartBattle] Gasta 5 Contador de [Vibration] y Gana +3 Contador de [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Preparense Para Recaudar",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Con 3+ Contador de [Vibration], Inflige 3 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Amputador Acelerado de T Corp.",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] el siguiente turno"
+                },
+                {
+                  "desc": "Inflige 2 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Su Reloj, Si Fuese Tan Amable.",
+          "desc": "[WhenUse] Con 5+ Contador de [Vibration], Poder de Choque +1\n[WhenUse] Gana +2 Contador de [Vibration]\n[WinDuel] Gasta 3 Contador de [Vibration] en sí y gana +1 Contador de [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Vulnerable] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 5+ Contador de [Vibration], provoca [Switch_Vibration] a [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ejecución de Recaudación.",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]\n[WhenUse] Poder Base +1 por cada 4 Contador de [Vibration] en sí (máx 3)\n[WinDuel] Gasta 5 Contador de [Vibration] en sí y gana +3 Contador de [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 1 Contador de [Vibration] en sí para infligir 1 de [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 3 Contador de [Vibration] en sí, y provoca [VibrationExplosion]; después, reduce en 1 el Contador de [Vibration] del objetivo"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 1 Contador de [Vibration] en sí para infligir 8 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 2 Contador de [Vibration] en sí para provocar [VibrationExplosion]; después, reutiliza esta Moneda (1 vez máx)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gasta 5 Contador de [Vibration] en sí para infligir 2 de [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rentar Tiempo",
+          "desc": "[StartBattle] Gasta 4 Contador de [Vibration] y gana +3 Contador de [TimeRentalTwo]\n[StartBattle] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Preparense Para Recaudar",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Con 3+ Contador de [Vibration], Inflige 3 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana +1 Contador de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trampa de Tiempo de T Corp.",
+          "desc": "[WhenUse] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 1 Contador de [Vibration] en sí para infligir 2 de [Paralysis] el siguiente turno. Inflige 2 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 1 Contador de [Vibration] en sí para infligir 2 de [Paralysis] el siguiente turno. Inflige 2 de [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alto Ahí.",
+          "desc": "[WhenUse] Con 5+ Contador de [Vibration], Poder de Choque +1\n[WhenUse] Gana +2 Contador de [Vibration]\n[WinDuel] Gasta 3 Contador de [Vibration] en sí y gana +1 Contador de [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 2 Contador de [Vibration] en sí para infligir 2 de [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 2 Contador de [Vibration] en sí para infligir 2 [ParryingResultDown] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ejecución de Recaudación.",
+          "desc": "[WhenUse] Gana +3 Contador de [Vibration]\n[WhenUse] Poder Base +1 por cada 4 Contador de [Vibration] en sí (máx 3)\n[WinDuel] Gasta 5 Contador de [Vibration] en sí y gana +3 Contador de [TimeRentalTwo]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 1 Contador de [Vibration] en sí para infligir 1 de [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 1 Contador de [Vibration] en sí para infligir +3 Contador de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 1 Contador de [Vibration] en sí para infligir 8 de [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gasta 2 Contador de [Vibration] en sí para provocar [VibrationExplosion]; después, reutiliza esta Moneda (1 vez máx)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gasta 5 Contador de [Vibration] en sí para infligir 2 de [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rentar Tiempo",
+          "desc": "[StartBattle] Gasta 4 Contador de [Vibration] y gana +3 Contador de [TimeRentalTwo]\n[StartBattle] Gana +2 Contador de [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

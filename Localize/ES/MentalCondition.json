@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Se incrementa tras ganar un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, incrementado por {1}% por cada número de Choques después de 1)</size>",
+      "min": "Se reduce tras ganar un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, reducido por {1}% por cada número de Choques después de 1)</size>"
+    },
+    {
+      "id": "OnKillEnemyAsLevelRatioMultiply",
+      "add": "Incrementa por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor o igual al de esta unidad.",
+      "min": "Reduce por {0} después de que esta unidad derrota a un enemigo cuyo nivel era mayor o igual al de esta unidad."
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
+      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de la unidad.",
+      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de la unidad."
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Se incrementa tras perder un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, incrementado por {1}% por cada número de Choques después de 1)</size>",
+      "min": "Se reduce tras perder un Choque basado en el número de Choques.\n<size=95%>(El valor Base es {0}, incrementado por {1}% por cada número de Choques después de 1)</size>"
+    },
+    {
+      "id": "OnDieAllyAsLevelRatio",
+      "add": "Si el nivel del aliado derrotado era mayor o igual al de la unidad,\nincrementa basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>",
+      "min": "Si el nivel del aliado derrotado era mayor o igual al de la unidad,\nreduce basado en la diferencia de nivel.\n<size=95%>(El valor Base es {0}, incrementado por {0} por cada nivel)</size>"
+    },
+    {
+      "id": "OnRoundStartAfterEvent",
+      "add": "PC incrementados por {0} al inicio del turno.",
+      "min": "PC reducidos por {0} al inicio del turno."
+    },
+    {
+      "id": "OnKillEnemyMp",
+      "add": "Incrementa por {0} después de que esta unidad derrota a un enemigo, sin importar su nivel",
+      "min": "Reduce por {0} después de que esta unidad derrota a un enemigo, sin importar su nivel."
+    },
+    {
+      "id": "OnDieAllyMp",
+      "add": "Si un aliado en derrotado, incrementa por {0}, sin importar el nivel del aliado.",
+      "min": "Si un aliado en derrotado, reduce por {0}, sin importar el nivel del aliado."
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
+      "add": "Incrementa por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de esta unidad.",
+      "min": "Reduce por {0} después que un aliado derrote a un enemigo cuyo nivel era mayor o igual al de esta unidad. No se reduce cuando el enemigo es derrotado por un Ataque Asistente."
+    },
+    {
+      "id": "OnDieBladeLineageAlly",
+      "add": "Si un aliado del Linaje de la Espada es derrotado, gana {0} sin importarel nivel del aliado",
+      "min": "Si un aliado del Linaje de la Espada es derrotado, pierde {0} sin importarel nivel del aliado"
+    },
+    {
+      "id": "OnWinDuelLessMpTarget",
+      "add": "Incrementa por {0} después de ganar un Choque contra un enemigo con un PC menor al de esta unidad",
+      "min": "Reduce por {0} después de ganar un Choque contra un enemigo con un PC menor al de esta unidad"
+    },
+    {
+      "id": "OnLoseDuelLessMpTarget",
+      "add": "Incrementa por {0} después de perder un Choque contra un enemigo con un PC menor al de esta unidad",
+      "min": "Reduce por {0} después de perder un Choque contra un enemigo con un PC menor al de esta unidad"
+    },
+    {
+      "id": "OnKillEnemyByOtherAlly",
+      "add": "Incrementa por {0} Después de que un aliado derrote a un enemigo sin importar su nivel",
+      "min": "Reduce por {0} Después de que un aliado derrote a un enemigo sin importar su nivel"
+    },
+    {
+      "id": "OnWinDuelAnyTarget",
+      "add": "Incrementa por {0} al Ganar Choque",
+      "min": "Disminuye por {0} al Perder Choque"
+    }
+  ]
+}

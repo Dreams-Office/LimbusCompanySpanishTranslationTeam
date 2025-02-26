@@ -1,0 +1,186 @@
+{
+  "dataList": [
+    {
+      "id": "BloodScissor",
+      "name": "Tijeras teñidas de Sangre",
+      "desc": "- Valor Máx: 10\n- Tijeras teñidas de Sangre Fase 1\n- Usado para habilidades especiales",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorTwo",
+      "name": "Tijeras teñidas de Sangre II",
+      "desc": "- Valor Máx: 20\n- Tijeras teñidas de Sangre Fase 2\n- Inicio de Turno: gana 1 Nivel Ofensivo Aumentado y 1 Nivel Defensivo Reducido por cada 5 Acumulaciones\n- Usado por ciertas Habilidades",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorThree",
+      "name": "Tijeras teñidas de Sangre III",
+      "desc": "- Valor Máx: 30\n- Tijeras teñidas de Sangre Fase 3\n- Inicio de Turno: gana 2 Nivel Ofensivo Aumentado y 1 Nivel Defensivo Reducido por cada 5 Acumulaciones\n- Usado por ciertas Habilidades",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner",
+      "name": "Festín de Sangre",
+      "desc": "- Valor Máx: 999\n- Guarda todo el daño de Sangrado infligido en esta zona\n- Se reinicia al moverse a una zona diferente\n- Este valor es compartido entre todos los personajes\n- Si hay algún Vástago de alto rango entre los aliados que también consume Festín de Sangre, esta unidad no puede consumir Festín de Sangre hasta que el aliado lo consuma primero",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Accumulation",
+      "name": "Festín de Sangre Consumido",
+      "desc": "- Valor Máx: 999\n- Festín de Sangre consumido en este Encuentro: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_LowMorale",
+      "name": "Hambre",
+      "desc": "- Moral Baja\nInicio de Turno: Gana 1 Atadura y 3 Poder de Ataque Aumentado. Fin de Turno: recibe 5 de daño de PC",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_Panic",
+      "name": "Hambre",
+      "desc": "- Pánico\nInicio de Turno: Gana 2 Atadura y 4 Poder de Ataque Aumentado.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclaration_Camille",
+      "name": "Duelo Declarado - Camille",
+      "desc": "- En un Choque entre la unidad que infligió Duelo Declarado y la unidad con el estado, el declarante tiene +1 Poder de Choque. Tras Golpear, el declarante gana 1 Rapidez el siguiente turno. (4 veces por turno)\n- Expira cuando la unidad inflige Duelo Declarado a un objetivo diferente. \n- Reemplazado cuando otra unidad inflige Duelo Declarado al mismo objetivo.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RecklessDuel",
+      "name": "Duelo Temerario",
+      "desc": "Fin de Turno: gana 1 Poder de Choque Aumentado el siguiente turno por cada 10% de HP faltante. (máx 5)\nFin de Turno: gana 1 Atadura el siguiente turno por cada 10% de HP faltante. (máx 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttack",
+      "name": "Ataque Centrado",
+      "desc": "Usado en ciertas Ranuras",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TrulyWeak",
+      "name": "El Débil",
+      "desc": "- Inflige -10% de daño\n- Fin de Turno: Reduce el Valor por 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RealPaperBear",
+      "name": "Un Oso, De Verdad",
+      "desc": "- ¡Se come a las Personas! ¡Qué temible!",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorScars",
+      "name": "Una Herida Profunda",
+      "desc": "- Gana +3 de Contador de Sangrado y provoca Sangrado en sí. Luego, pierde 1 Contador de Sangrado.\n- Expira al Fin del Turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LineCutting",
+      "name": "Objetivo de Costura",
+      "desc": "- Priorizado por ???\n- Expira al Fin del Turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberOne",
+      "name": "Marchita",
+      "desc": "- Sedienta de sangre desde hace mucho, mucho tiempo.\n- Pierde 15 Nivel Ofensivo\n- Pierde 15 Nivel Defensivo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberTwo",
+      "name": "Marchita",
+      "desc": "- Sedienta de sangre desde hace mucho, mucho tiempo.\n- Pierde 25 Nivel Ofensivo\n- Pierde 25 Nivel Defensivo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodShooting",
+      "name": "¡¡Disparo de sangre!!",
+      "desc": "Al Morir:\n- Festín de Sangre +30\n- gana 2 recursos E.G.O para el recurso E.G.O que menos se tenga\n- Siguiente Turno: todos los aliados ganan 0.1 a todas las Resistencias Físicas. Este efecto se puede acumular. (máx 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeeling",
+      "name": "¡¡QUÉ JUSTO!!",
+      "desc": "- A cada Fin de Turno: gana 1 Rapidez, 3 Nivel Ofensivo Aumentado, y 3 Nivel Defensivo Reducido el siguiente turno\n- Gana 2 Nivel Ofensivo Aumentado adicionales tras cada 3 turnos acumulativos (máx 6)\n- Tras Ganar Choque, cura 3 PC\n- Al Matar, gana 1 Poder de Choque Aumentado el siguiente turno (una vez por turno)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclarationMeursault",
+      "name": "Duelo Declarado - Meursault",
+      "desc": "- En un Choque entre la unidad que infligió Duelo Declarado y la unidad con el estado, el declarante tiene +1 Poder de Choque. Tras Golpear, el declarante gana 1 Rapidez el siguiente turno. (4 veces por turno)\n- Expira cuando la unidad inflige Duelo Declarado a un objetivo diferente.\n- Reemplazado cuando otra unidad inflige Duelo Declarado al mismo objetivo.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttackMeursault",
+      "name": "Ataque Centrado - Meursault",
+      "desc": "<Solo Encuentros Centrados>\nLa unidad que infligió este Ataque Centrado obtiene los siguientes efectos según la cantidad de Acumulaciones de Ataque Centrado en la Ranura objetivo.\n  · 1x Acumulación: Gana Poder de Choque +1\n  · 2x Acumulación: Gana Poder Base +1\n  · 3x Acumulación: Gana Poder Base +1 y Poder de Moneda +1\n-Expira si, durante un turno, la unidad que lo infligió no logra golpear la Ranura afectada por su Ataque Centrado.\n- Expira cuando la unidad inflige Ataque Centrado a una Ranura diferente.\n- Se remplaza cuando otra unidad inflige Ataque Centrado en una Ranura que ya tiene Ataque Centrado.\n- Al inicio del siguiente turno, si una Ranura afectada por un Ataque Centrado ya no está presente, reorganiza todos los Ataques Centrados infligidos en las Ranuras de esa Parte en el orden de Despliegue.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_LowMorale",
+      "name": "Especialista en Duelo",
+      "desc": "- Moral Baja\n- Inicio de Turno: Gana 2 Nivel Ofensivo Aumentado. Tras Perder Choque, gana 1 Nivel Defensivo Reducido (máx 3 por turno). Velocidad Mín. -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_Panic",
+      "name": "Especialista en Duelo",
+      "desc": "- Pánico\n- Inicio de Turno: Gana 4 Nivel Ofensivo Aumentado. Tras Perder Choque, gana 2 Nivel Defensivo Reducido (máx 6 por turno). Velocidad Mín. -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeelingSancho",
+      "name": "I will take responsibility, through my bloody tears.",
+      "desc": "- Gain 1 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 1 Clash Power Up next turn (once per turn)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDreamSancho",
+      "name": "In which is recounted the thralldom to blood thicker than water.",
+      "desc": "- Gain 2 additional Hardblood every time this unit gains Hardblood. (5 times per turn)\n- At every Turn End: gain 2 Haste and 3 Offense Level Up next turn\n- Gain 2 additional Offense Level Up after every 3 cumulative turns (max 6)\n- On Clash Win, heal 3 SP\n- On Kill, gain 2 Clash Power Up next turn (once per turn)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeSancho",
+      "name": "Which treats the banquet of blood for the Family's suffering.",
+      "desc": "Gain Clash Power Up equal to Stack\nDeal +10% more damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwoSancho",
+      "name": "Of how a lone Bloodfiend came to bear the guilt of slaying the Father who forsook his Children.",
+      "desc": "- Clash Power +4 for every value\n- Apply Shield to self and all allies at Combat Start\n- Deal +20% more damage\n- On Hit, deal 1 fixed damage as well",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

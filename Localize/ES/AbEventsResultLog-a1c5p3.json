@@ -1,0 +1,96 @@
+{
+  "dataList": [
+    {
+      "id": "810001_skinPredector_success_1_1",
+      "content": "{0} <color=#fe4b48>pierde {1} PC</color>"
+    },
+    {
+      "id": "810001_skinPredector_success_1_2",
+      "content": "{0} obtiene %{2} {1}/% para el encuentro."
+    },
+    {
+      "id": "810001_skinPredector_success_1_3",
+      "content": "{0} obtiene %{2} {1}/% y %{4} {3}/% para el encuentro."
+    },
+    {
+      "id": "810001_skinPredector_success_1_4",
+      "content": "Reduce los HP del {0} con <color=#ebcaa2>el mayor HP a 1</color>"
+    },
+    {
+      "id": "810001_skinPredector_failure_1_1",
+      "content": "{0} obtiene %{2} {1}/% y %{4} {3}/% para el encuentro."
+    },
+    {
+      "id": "810001_skinPredector_failure_1_2",
+      "content": "Todas las Identidades obtienen %{1} {0}/% y %{3} {2}/%."
+    },
+    {
+      "id": "810201_nk_success_1_1",
+      "content": "1 {0} <color=#e30000>pierde {1} HP</color>"
+    },
+    {
+      "id": "810201_nk_success_1_2",
+      "content": "{0} obtiene %{2} {1}/%"
+    },
+    {
+      "id": "810201_nk_failure_1_1",
+      "content": "1 {0} <color=#e30000>pierde {1} HP</color>"
+    },
+    {
+      "id": "810201_nk_failure_1_2",
+      "content": "{0} <color=#e30000>pierde {1} HP</color>"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_1",
+      "content": "{0} <color=#fe4b48>pierde {1} PC</color>"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_2",
+      "content": "{0} <color=#e30000>pierde {1} HP</color>"
+    },
+    {
+      "id": "810101_walkingPearl_success_1_3",
+      "content": "{0} %pierde {2} {1}/%"
+    },
+    {
+      "id": "810101_walkingPearl_failure_1_1",
+      "content": "{0} <color=#fe4b48>pierde {1} PC</color>"
+    },
+    {
+      "id": "810101_walkingPearl_failure_1_2",
+      "content": "{0} <color=#e30000>pierde {1} HP</color>"
+    },
+    {
+      "id": "810602_success_1_1",
+      "content": "{0} obtiene %{2} [{1}]/% y %{4} [{3}]/%"
+    },
+    {
+      "id": "810602_success_1_2",
+      "content": "{0} <color=#80c9ff>restaura completamente los PC</color>"
+    },
+    {
+      "id": "810602_success_1_3",
+      "content": "Todos los aliados obtienen %{1} [{0}]/%"
+    },
+    {
+      "id": "810602_success_1_4",
+      "content": "Todos los aliados <color=#80c9ff>se curan {0} PC</color>"
+    },
+    {
+      "id": "810602_success_1_5",
+      "content": "{0} obtiene %{2} [{1}]/%"
+    },
+    {
+      "id": "810603_failure_1_1",
+      "content": "{0} obtiene %{2} [{1}]/% y %{4} [{3}]/%"
+    },
+    {
+      "id": "810603_failure_1_2",
+      "content": "{0} <color=#80c9ff>restaura completamente los PC</color>"
+    },
+    {
+      "id": "810603_failure_1_3",
+      "content": "{0} obtiene %{2} [{1}]/%"
+    }
+  ]
+}

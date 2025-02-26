@@ -1,0 +1,1950 @@
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Todo Será Dividido",
+          "desc": "Prioriza enemigos con Marcado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige daño a los PC equivalente al número de Velas encendidas"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige daño a los PC equivalente al número de Velas encendidas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Anhelo...",
+          "desc": "Prioriza enemigos con Marcado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad a la Ira el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Potencia o Contador de [Combustion], inflige 4 de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad a la Ira el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Potencia o Contador de [Combustion], inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "desc": "Apaga todas las Velas el siguiente turno.\nAl golpear objetivos con [AaCePcBa], el objetivo pierde 5% de HP Máx adicional.\n[DefeatDuel] Inflige 10 de [Combustion]. Inflige Marcado en el objetivo el siguiente turno.\n[EndBattle] Todas las Velas se curan hasta su HP Máx.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] El HP Máx del objetivo disminuye por 10%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Potencia de [Combustion] y +2 Contador de [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] El HP Máx del objetivo disminuye por 10%"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Potencia de [Combustion] y +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6:5",
+          "desc": "[CantDuel][CantChangeTarget]\nRecibe el daño en lugar del objetivo. Queda Aturdido el siguiente turno.\nInflige Marcado en un enemigo aleatorio sin [AaCePcBa].\nTodas las Velas se curan a su HP Máx",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] El HP Máx de esta unidad disminuye por 10%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Combustion] en sí"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] El HP Máx de esta unidad disminuye por 10%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Combustion] en sí"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Todo Será Revelado",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Fragilidad a la Ira"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Todo Será Incinerado",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene Potencia o Contador de [Combustion], inflige 3 de [Combustion]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llama Encendida",
+          "desc": "Prioriza objetivos con [AaCePcBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Combustion] y +2 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Para Que Continúe Ardiendo",
+          "desc": "[StartBattle] Gana 20 de Escudo\nApaga las luces al quedarse sin Escudo el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Combustion] y +1 Contador de [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluido Tóxico",
+          "desc": "[StartBattle] Consume 1 de Baba Verde",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Poison]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Poison]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluido Corrosivo",
+          "desc": "[StartBattle] Consume 1 de Baba Verde",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige [DefenseDown] por [Poison] en el objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Larva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige [DefenseDown] por [Poison] en el objetivo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluido Paralizante",
+          "desc": "[StartBattle] Consume 1 de Baba Verde",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Poison], Inflige 1 de [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Larva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Poison], Inflige 1 de [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluido Cáustico",
+          "desc": "[StartBattle] Consume 2 de Baba Verde\n[WhenUse] Inflige 3 de Larva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Poison]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Poison]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Baba Verde Efervescente",
+          "desc": "[StartBattle] Gana Alcance de Atq por [AaCePcBh]\n[StartBattle] Gana 10 de [AaCePcBh]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Poison]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pierde 7 PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de Larva"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] y 3 de [DefenseDown] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Depredación",
+          "desc": "[CantDuel][CantChangeTarget]\nSe dirige a Babas Verdes principalmente\nDerrota Baba Verde al atacar",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[TargetKill] Gana 3 de [AaCePcBh]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Veneno Rebosante",
+          "desc": "[OnSucceedEvade] Inflige 5 de [Poison]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cabezazo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aporrear",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aplastamiento",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking] Si el objetivo tiene [AaCePcBb]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking] Si el objetivo tiene [AaCePcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsesión Ciega",
+          "desc": "[DefeatDuel] La Parte 'Fluorescencia' de esta unidad pierde 34% de su HP Máx.\n[DefeatDuel] Gana 1 de Obsesión Ciega",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Diluvio"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Torrente Silencioso Violento",
+          "desc": "[CantDuel][StartBattle] Modifica el terreno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking] y +2 de Contador de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana -2 Eficiencia en Pérdida de PC el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Sinking] y +2 de Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsesión Ciega Indomable",
+          "desc": "[CantDuel][CantChangeTarget] Selecciona Pecio destruido\n[EndSkill] La Parte 'Fluorescencia' pierde 34% de su HP Máx.\n[EndBattle] Gana 1 de Obsesión Ciega.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Destruye el objetivo."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Abatir",
+          "desc": "[EndBattle] Crea un Pecio",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking] Si el objetivo tiene [AaCePcBb]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking] Si el objetivo tiene [AaCePcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Forcejeo",
+          "desc": "[StartBattle] Consume toda la Obsesión Ciega\n[StartBattle] Destruye todos los Pecios y Pecios destruidos",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apuñalamiento",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Abrir Herida",
+          "desc": "[WinDuel] Cura 5 PC.\nInflige +5% de daño por cada [Laceration] en el objetivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Protejan el Pueblo!",
+          "desc": "[WhenUse] Gana 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jabalina de Enredamiento",
+          "desc": "[WhenUse] Gana 5 de [Breath] y +2 de Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Enredo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "Cuando esta unidad es atacada mientras tiene Escudo, gana 1 de [AttackUp] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puñaladas Rápidas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tallar Herida",
+          "desc": "[WinDuel] Cura 5 PC.\nInflige +5% de daño por cada [Laceration] en el objetivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Protejan el Pueblo!",
+          "desc": "[WhenUse] Gana 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 4 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jabalina de Captura",
+          "desc": "[WhenUse] Gana 5 de [Breath] y +2 de Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Captura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "[OnSucceedEvade] Gana 1 de [AttackUp] el siguiente turno (Máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Iniciando la Cacería",
+          "desc": "[StartBattle] Invoca 4 aliados el siguiente turno\n[WhenUse] Aplica Marca de Presa el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arponear",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arpón Perforante",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aliento Profundo",
+          "desc": "[StartBattle] Gana 10 de [Breath] y +10 de Contador de [Breath].\nLos Golpes Críticos de esta Habilidad no consumen Contador de Temple.\nFin del Turno: Gana [PlusCoinValueUp] el siguiente turno por el número de aliados sobrevivientes.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque",
+          "desc": "Los Golpes Críticos de esta Habilidad no consumen Contador de Temple.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Acechar Presa",
+          "desc": "+30% de daño en Golpe Crítico\n Inflige 1 de Sangrado",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aumenta el primer Umbral de Aturdimiento del objetivo por 50% del daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corte a la Yugular",
+          "desc": "Los Golpes Críticos de esta Habilidad no consumen Contador de Temple.\nInflige +5% de daño por cada [Laceration] en el objetivo\n[WhenUse] Queda Aturdido al Final del Turno si esta unidad no tiene Temple en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% de daño en Golpe Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aturde al objetivo el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Respiración Profunda",
+          "desc": "[StartBattle] Gana 3 de [Breath] y +5 de Contador de [Breath].\nPor este turno, gana Poder Final equivalente a la Potencia de Temple en sí.\nPor este turno, pierde 1 Contador de Temple al ser atacado.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obsesión por Sobrevivir",
+          "desc": "+30% de daño en Golpe Crítico",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura el HP del Núcleo y de las Partes por 50% del daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura el HP del Núcleo y de las Partes por 50% del daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura el HP del Núcleo y de las Partes por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Debo... Proteger",
+          "desc": "[TurnStartBattle] Al usar esta Habilidad, si la unidad tiene más que 0 de Barrera Asistente, activa Defensa Asistente.\n[StartBattle] Gana 10% del HP Máx como Barrera Asistente.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arpón Tenaz",
+          "desc": "Poder Final +1 al atacar el mismo objetivo de Starbuck",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura el HP del Núcleo y de las Partes por 50% del daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Enredo"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura el HP del Núcleo y de las Partes por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810312,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Debo... Terminar... Cacería...",
+          "desc": "Los Golpes Críticos de esta Habilidad no consumen Contador de Temple.\nInflige +5% de daño por cada [Laceration] en el objetivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% de daño en Golpe Crítico"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aturde al objetivo el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Empalar",
+          "desc": "[WhenUse] Gana +3 de Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Perforante",
+          "desc": "[WhenUse] Gana 5 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Reutiliza esta Moneda una vez más (Máx 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yo Sigo Órdenes...",
+          "desc": "[TurnStartBattle] Si QueeQueg tiene más que 0 de Barrera Asistente, activa Ataque Asistente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Emboscada",
+          "desc": "Inflige 50% de daño en Golpe Crítico\nInflige +5% de daño por cada [Laceration] en el objetivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aumenta el primer Umbral de Aturdimiento del objetivo por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suspiro Temeroso",
+          "desc": "[WhenUse] Gana +6 de Contador de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Árpon Intrépido",
+          "desc": "Poder Final +2 al atacar el mismo objetivo de Queequeg",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige Captura"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [DefenseDown] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Frágil el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Reutiliza esta Moneda una vez más (Máx 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Para Poder Escapar...",
+          "desc": "Inflige 100% de daño en Golpe Crítico\nInflige +5% de daño por cada [Laceration] en el objetivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aumenta el primer Umbral de Aturdimiento del objetivo por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Acata Mis Órdenes",
+          "desc": "[WhenUse] Cura 10 PC en sí y a 1 otro aliado con los menores PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡A Mí!",
+          "desc": "[StartBattle] Ordena a Queequeg que active Defensa Asistida el siguiente turno. La orden es cancelada cuando esta unidad es Aturdida.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Perseguidlos Hasta el Final!",
+          "desc": "[StartBattle] Ordena a Starbuck que active Ataque Asistente el siguiente turno. La orden es cancelada cuando esta unidad es Aturdida.\n[WhenUse] Aplica 1 Marca de Presa el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arpón Veterano",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arpón Ardiente",
+          "desc": "Poder Final +1 por cada efecto negativo en el objetivo principal (Máx 5)\nInflige +5% de daño por cada [Laceration] en el objetivo",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige [Combustion] igual a [Laceration] en el objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Una Estupidez!",
+          "desc": "[WhenUse] Cura 5 PC\n[OnSucceedEvade] El objetivo pierde 5 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Exhala!",
+          "desc": "[WhenUse] Inflige 1 Marca de Presa el siguiente turno\n[WinDuel] Gana 4 de [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aplica 4 de [Breath] a otros 2 aliados\nSi no hay otros aliados, gana 2 Contador de [Breath] en su lugar."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Sean Temerarios!",
+          "desc": "[WhenUse] Cura 10 SP en sí. 1 otro aliado con los mayores PC pierde 10 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 1 de [Paralysis] a un aliado aleatorio el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 1 de [Paralysis] a un aliado aleatorio el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aplica 1 de [Paralysis] a un aliado aleatorio el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Templado de la Muerte",
+          "desc": "[WhenUse] Aplica Comando Indiscutible a 1 aliado con los menores PC\n[DefeatDuel] Aumenta el Umbral de Aturdimiento por 20 para 1 aliado con los menores PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Frágil"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Ven y Enfréntame!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apuñalar a Matar",
+          "desc": "Selecciona a la unidad con el menor HP Máx",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [AttackDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alma Imperecedera",
+          "desc": "Reutiliza Evadir tras fallar el Evadir (Hasta 2 veces)\n[OnDefeatEvade] Pierde 2 Ego de Pip",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Inocencia Turbia",
+          "desc": "[DefeatDuel] Gana 2 de Poder Defensivo Reducido. Pierde 10 PC en sí",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ruido Pálido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ruido Pálido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "El Peso de la Culpa",
+          "desc": "Selecciona a 3 unidades con el menor HP Máx\n[StartBattle] Gana Poder Base +2 y Alcance de Atq +1 por cada 5 Ego de Pip\n[WhenUse] Pierde 3 Ego de pip",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de Ruido Pálido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 30"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El objetivo pierde 10 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "사용하지않는스킬(번역x)",
+          "desc": "",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Miedo Abrumador",
+          "desc": "[WhenUse] Inflige 1 Marca de Presa el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ruido Pálido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y +4 de Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perforar Debilidad",
+          "desc": "[WhenUse] Inflige 1 Marca de Presa el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ruido Pálido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [AttackDown] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810609,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Llanto Estrepitoso",
+          "desc": "Inflige +5% de daño por cada 1 de [Laceration] en el objetivo\nSi el objetivo no tiene Marca de Presa, Poder de Moneda +1\n[DefeatDuel] Pierde 5 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de daño a los PC a 3 enemigos aleatorios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de daño a los PC a 3 enemigos aleatorios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de daño a los PC a 3 enemigos aleatorios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de daño a los PC a 3 enemigos aleatorios"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de daño a los PC a 3 enemigos aleatorios"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Reutiliza la Moneda final por cada 10 Ego de Starbuck"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810610,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Camino Oscurecido",
+          "desc": "[WhenUse] Inflige 1 Marca de Presa el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Daño Reducido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 de Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de Ruido Pálido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expiación Pálida",
+          "desc": "[WhenUse] Pierde 5 Ego de Queequeg\n[WinDuel] Gana 6 de [DefenseDown]\n[DefeatDuel] Pierde 5 PC",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de Ruido Pálido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aturde al objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810612,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Palidificación Maliciosa",
+          "desc": "[StartBattle] Gana 10% de la HP Máx como Escudo. Por cada Ego de Queequeg, gana un 0.5% de la HP Máx como Escudo adicional.\nAl ser atacada mientras tenga Escudo, el atacante pierde 5 PC\nAl ser atacada, usa esta Habilidad una vez por cada 10 Ego de Queequeg",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Desprecies la Profecía",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Combustion] y 2 Contador de [Combustion] en el objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+    "dataList": [
+        {
+            "id": 9009801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Apuñalar",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Abrir Herida",
+                    "desc": "[WinDuel] Cura 5 de PC.\nInflige +5% de daño por cada [Laceration] en el objetivo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Protejan el Pueblo!",
+                    "desc": "[WhenUse] Gana 5 de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Jabalina",
+                    "desc": "[WhenUse] Gana 5 de [Breath] y +2 de Contador de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] y 2 de Daño Reducido el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guardia",
+                    "desc": "Al ser atacado mientras esta unidad tiene Escudo, gana 1 de [AttackUp] el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Puñaladas Rápidas",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 de Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +1 de Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tallar Herida",
+                    "desc": "[WinDuel] Cura 5 de PC.\nInflige +5% de daño por cada [Laceration] en el objetivo",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 de Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Protejan el Pueblo!",
+                    "desc": "[WhenUse] Gana 5 de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana +1 de Contador de [Breath]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura 4 de PC"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Jabalina",
+                    "desc": "[WhenUse] Gana 5 de [Breath] y +2 de Contador de [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] y 2 de Frágil el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evadir",
+                    "desc": "[OnSucceedEvade] Gana 1 de [AttackUp] el próximo turno (Máx 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_11007_1",
+      "desc": "Al Adquirir Identidad",
+      "dlg": "Mm... ¿Estás aquí para que te arreglemos el bote? Nosotros nos encargaremos."
+    },
+    {
+      "id": "lobby_morning_11007_1",
+      "desc": "Saludo Mañanero",
+      "dlg": "El taller aún no está abierto... Oh, te traeré una silla para que puedas sentarte y descansar mientras esperas."
+    },
+    {
+      "id": "lobby_noon_11007_1",
+      "desc": "Saludo de Mediodía",
+      "dlg": "Mmgh... Me gustaría comer algo diferente para variar... Hemos cocinado todo tipo de platillos con esos basurejos: al vapor, guisados, asados, en sopa... ¡pero ninguno sabe bien!"
+    },
+    {
+      "id": "lobby_night_11007_1",
+      "desc": "Saludo Nocturno",
+      "dlg": "¡Ah! ¿El brillo de la soldadura te hace doler los ojos? Perdón por eso... Aún hay trabajo que hacer incluso después de que cerremos el taller."
+    },
+    {
+      "id": "smalltalk_11007_1",
+      "desc": "Charla #1",
+      "dlg": "Cuando me levanté por primera vez aquí, no tenía ni idea de que pensar... Casi me muero de hambre mientras deambulaba."
+    },
+    {
+      "id": "smalltalk_11007_2",
+      "desc": "Charla #2",
+      "dlg": "No estoy tan acostumbrado a manejar maquinaria... pero tengo que practicar duro si quiero volver a donde solía vivir. Y quien sabe, esta experiencia podría ser muy útil en el futuro."
+    },
+    {
+      "id": "smalltalk_11007_3",
+      "desc": "Charla #3",
+      "dlg": "Ya me he acostumbrado, pero la Singularidad de U Corp siempre me resulta fascinante... Unir partes con esta cosa que las unifica, como si fuesen hechas de esa forma desde el principio."
+    },
+    {
+      "id": "smalltalk_11007_4",
+      "desc": "Charla Post-Aunamiento #1",
+      "dlg": "Esta arma, fue hecha con el conocimiento mecánico y las habilidades de soldadura que aprendí aquí. No se ve muy sofisticada, pero... No está mal, ¿no?"
+    },
+    {
+      "id": "smalltalk_11007_5",
+      "desc": "Charla Post-Aunamiento #2",
+      "dlg": "Pudimos llegar donde estamos gracias a la ayuda de la gente de los otros talleres de botes por aquí.\n...Aunque, ya no están con nosotros."
+    },
+    {
+      "id": "neglect_11007_1",
+      "desc": "Inactivo",
+      "dlg": "Hmm... Debería leer más libros de mantenimiento por mientras."
+    },
+    {
+      "id": "gacksung_11007_1",
+      "desc": "Aunando",
+      "dlg": "La mejora ciertamente aumentó el rendimiento... aunque se siente algo redundante si todo lo que haré con esto es cazar más cangrejos."
+    },
+    {
+      "id": "formation_11007_1",
+      "desc": "Desplegar",
+      "dlg": "Los engranajes están en movimiento."
+    },
+    {
+      "id": "battleentry_11007_1",
+      "desc": "Entrada a Escena",
+      "dlg": "¿Häää? ¿Qué pasa con esta potencia...?"
+    },
+    {
+      "id": "battle_select_11007_1",
+      "desc": "Vista en Batalla",
+      "dlg": "¿Necesitas reparar algo?"
+    },
+    {
+      "id": "battle_endcommand_11007_1",
+      "desc": "Al Atacar",
+      "dlg": "Estabilizando potencia... ¡Listo!"
+    },
+    {
+      "id": "battle_enemy_break_11007_1",
+      "desc": "Aturdir al Enemigo",
+      "dlg": "¡Bien hecho...!"
+    },
+    {
+      "id": "battle_break_11007_1",
+      "desc": "Aturdido",
+      "dlg": "Ngh..."
+    },
+    {
+      "id": "battle_kill_11007_1",
+      "desc": "Enemigo Asesinado",
+      "dlg": "Fiu, me encargué de ese."
+    },
+    {
+      "id": "battle_dead_11007_1",
+      "desc": "Muerte",
+      "dlg": "No... Me están... esperando."
+    },
+    {
+      "id": "choice_success_p_11007_2",
+      "desc": "Juicio Exitoso",
+      "dlg": "¡Esa fue la respuesta correcta!"
+    },
+    {
+      "id": "choice_fail_n_11007_1",
+      "desc": "Juicio Fallido",
+      "dlg": "Esto... no estuvo bien."
+    },
+    {
+      "id": "battle_clear_11007_1",
+      "desc": "Grito de Victoria",
+      "dlg": "Debería volver y lidiar con el trabajo que quede."
+    },
+    {
+      "id": "battle_clear_ex_11007_1",
+      "desc": "Condiciones EX Cumplidas",
+      "dlg": "¿Eso fue genial, no? Estoy muy orgulloso si se me permite decirlo. Huh, mi arma está... ¿Qu, qué le pasa?"
+    },
+    {
+      "id": "battle_defeat_11007_1",
+      "desc": "LLanto de Derrota",
+      "dlg": "Noo... No pensé que iría así... Qué me faltó..."
+    }
+  ]
+}

@@ -1,0 +1,747 @@
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Agarrar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Vibration] y +2 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apilando Rocas",
+          "desc": "[WhenUse] Si el objetivo tiene 5 de [Vibration], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apretón Perezoso",
+          "desc": "[WhenUse] Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Choque +1 por cada diferencia de Velocidad (máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 3 de [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Magullar",
+          "desc": "Cuando esta Habilidad de Ataque golpea, gana [TakeHpHealIncrease] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devorando",
+          "desc": "[WhenUse] Si el objetivo tiene [Burst], Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 3 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 3 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 3 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 3 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devoración Voraz",
+          "desc": "[WhenUse] Si el objetivo tiene 5+ de [Burst], Inflige 2 de [DefenseDown]\nGana +1 Poder Base por cada valor de [TakeHpHealIncrease] en sí (máx 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] El Núcleo y la Parte ganan 5 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque",
+          "desc": "Con Núcleo a menos de 50% de HP, El Núcleo y la Parte se curan tras Golpe de Moneda",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst] y +2 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst] y +2 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Batazo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paliza",
+          "desc": "[WinDuel] Gana 1 [Enhancement] y 1 de [AttackDmgUp] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a [Burst] en el objetivo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exasperación",
+          "desc": "Si el objetivo tiene 5+ de [Burst], Poder de Choque +1\nSi el objetivo tiene 5+ de [Laceration], Poder de Choque +1\n[WinDuel] Inflige +3 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La siguiente Moneda tiene +1 Poder"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La siguiente Moneda tiene +2 Poder"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hora de Arrepentirse",
+          "desc": "[CantChangeTarget]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Contador de [Laceration] y 3 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration] y 3 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 [Enhancement] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Debes Sufrir Más!",
+          "desc": "[CantChangeTarget]\n[WinDuel] Inflige 3 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La siguiente Moneda tiene +1 Poder"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] La siguiente Moneda tiene +2 Poder"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 8 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 1 [Enhancement] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque",
+          "desc": "[WhenUse] Gana 1 [Enhancement] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Me Desharé De Ti",
+          "desc": "El Núcleo y la Parte se curan por 10% del daño infligido por esta Habilidad de Ataque",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [Agility] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Maldito Bastardo!",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo Poder de Choque +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] y +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] y +2 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, reutiliza esta Moneda (una vez)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Esta Es Mi Casa!",
+          "desc": "Prioriza objetivos con el menor HP\n[WhenUse] Si el objetivo tiene menos de 70% de HP, Poder de Choque +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [Agility] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] y +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Laceration] y +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 20+ de [Laceration], inflige +100% de daño"
+                },
+                {
+                  "desc": "[EnemyKill] Reutiliza esta Habilidad (1 vez máx)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Te Atraparé...!",
+          "desc": "Prioriza a Heathcliff\n[WhenUse] Si el objetivo es el enemigo con la Velocidad más baja, Poder Base +3\n[WhenUse] Inflige [AaCfPbBe], 2 de [Vulnerable], 3 de [Paralysis], y 5 de [Binding] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡¡Devuélvelo...!!",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [AttackUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [AttackUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [AttackUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], inflige +30% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Laceration], cura por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bastardo...",
+          "desc": "Prioriza objetivos con [AaCfPbBe]\nSi la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, reutiliza esta Habilidad (1 vez máx)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] El Núcleo y la Parte se curan por 50% del daño infligido"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] El Núcleo y la Parte se curan por 50% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "Si esta unidad tiene HP de Escudo restante al Fin del Turno, gana 4 de [Protection] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Evadir",
+          "desc": "[OnSucceedEvade] Inflige 1 de [Binding] el siguiente turno (2 veces máx",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡Este es Mi Lugar!",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], inflige +30% de daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], inflige +30% de daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], inflige +30% de daño"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], inflige +30% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 10+ de [Laceration], cura por 70% del daño infligido"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

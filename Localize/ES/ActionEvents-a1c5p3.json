@@ -1,0 +1,79 @@
+{
+    "dataList": [
+        {
+            "id": 10501,
+            "name": "Examinando el Bote",
+            "subDesc": "",
+            "desc": "No había pasado mucho tiempo desde que zarpamos cuando...\n\n'¡Woah!'\n\n... un sórdido sonido comenzó a retumbar bajo el bote.\n\n'¿Qué fue eso...?'\n\n'¡Bien podría haber un enemigo arañando las maderas ayuso de nuestra nave!'\n\n'... Tengo un mal presentimiento. Será mejor que lo examinemos.'\n\n¿Qué deberíamos hacer?",
+            "options": [
+                {
+                    "message": "Examina por debajo del bote.",
+                    "messageDesc": "Ishmael gana 10 PC. Procede al siguiente cuadro de selección.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "No sabemos lo que podría suceder si revisamos. Mejor esperemos a que se detenga.",
+                    "messageDesc": "Ishmael pierde 10 PC. 50% de probabilidad que ocurra un Encuentro Normal. Obtén un Regalo E.G.O al ganar",
+                    "result": [
+                        "\"¿Simplemente vas a ignorarlo? ¿Cuál es tu maldito...?\"\n\nLa Pecadora, claramente irritada, estaba a punto de decir algo... pero se detuvo a ella misma. Quizá pensó que no valía la pena y se tragó su ira.\n\n\"... El sonido de los rasguños solo se hace más y más intenso.\"\n\nA decir verdad, este bote no es como los demás... a lo mejor este solo hace sonidos de rasguños por una razón trivial.\n\n\"... se ha detenido.\"\n\n\"En algunas ocasiones, la inacción resulta ser la mejor solución.\"\n\nA los pocos minutos, el ruido había desaparecido por completo.\n\n... Supongo no era el bote el que hacía esos sonidos. Tuvimos suerte.",
+                        "\"¿Simplemente vas a ignorarlo? ¿Cuál es tu maldito...?\"\n\nLa Pecadora, claramente irritada, estaba a punto de decir algo... pero se detuvo a ella misma. Quizá pensó que no valía la pena y se tragó su ira.\n\n\"... El sonido de los rasguños solo se hace más y más intenso.\"\n\nA decir verdad, este bote no es como los demás... a lo mejor este solo hace sonidos de rasguños por una razón trivial.\n\nPero, si no es eso...\n\n\"Ahora que lo pienso, esos barcos pirata tenían...\"\n\n\"Supongo para esto tenían esos clavos bajo sus barcos\"\n\nEl ruido comenzó a moverse lentamente hacia arriba intensificándose cuanto más cerca se encontraba, y finalmente, la fuente del sonido se reveló.\n\n... Sirenas.\n\n\"Maldita sea, debimos de haber revisado.\"\n\nNo tenía manera de responder a eso.\n\nNuestra única opción era luchar."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10504,
+            "name": "La Arteria",
+            "subDesc": "",
+            "desc": "Esta debe ser la arteria a la que se refería Ahab. Una vez cortemos esta cosa... nuestro camino al centro del corazón se abrirá.",
+            "options": [
+                {
+                    "message": "Cortar la arteria.",
+                    "messageDesc": "Procede al siguiente cuadro de selección",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 10505,
+            "name": "Recolección de Suministros",
+            "subDesc": "",
+            "desc": "\"¿Es eso... una caja de madera?\n\nAl investigar donde señalaban los Pecadores, encontramos varias pilas de cajas desorganizadas.\n\n\"Se puede extrapolar por su apariencia que eran utilizadas para el almacenamiento de suministros\"\n\nAlgunas cajas tienen dibujado el logo de los Piratas Garfios Gemelos mientras que otras tienen el logo del Equipo before.\n\nLa Ballena debe haber devorado estas cajas también.\n\n\"¡Bien haríamos en procurarnos algunas de ellas para nuestro bastimento!\"\n\nTiene razón. No sabemos lo que podría suceder una vez lleguemos al corazón.\n\n¿Deberíamos tomar algunas? Solo por precaución?",
+            "options": [
+                {
+                    "message": "Inspeccionar las cajas de suministros.",
+                    "messageDesc": "Procede al siguiente cuadro de elección.",
+                    "result": [
+                        ""
+                    ]
+                },
+                {
+                    "message": "Abandonar las cajas.",
+                    "messageDesc": "No pasa nada.",
+                    "result": [
+                        "Nada bueno resulta de juguetear con objetos sospechosos.\n\nNos marchamos sin más."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 810601,
+            "name": "Ahab",
+            "subDesc": "",
+            "desc": "\"Fracasé.\"\n\n\"<¡. . .!>\n\n¿Es acaso una ilusión... o es esa otra Ishmael?\n\nDetrás del Capitán apareció la silueta de Ishmael, cubierta por completo en una pálida membrana.\n\n\"Al final, no pude resolver nada. Fallé en todo.\"\n\n\"Lo único que logré fue sobrevivir de manera patética. Una miserable, aferrándome al ataúd de mi querida amiga\" \n\nLa Capitán se carcajea enloquecidamente. \"¡Así es, Ishmael! ¡Al final no pudiste salvar a nadie cercano a ti! ¡Ni a tus compañeros! ¡Ni a tu amiga! ¡Nadie!\"\n\n\"Y te rendirás otra vez. ¡Porque tienes miedo! ¡Te rendirás antes de siquiera comenzar! ¡Pensarás que no podrás lograrlo!\"\n\n\nLos Pecadores comenzaban a alterarse.\n\n\"¡Esta conchuda de mierda..!\"\n\n\"¡No le hagas caso, Ishmael! ¡N-no dice más que mentiras!\" \n\n\"<. . . . . .>\" \n\nEl Gerente guardó silencio.\n\nLuego, en voz baja, dijo una sola palabra.",
+            "options": [
+                {
+                    "message": "No. Esa no es Ishmael.",
+                    "messageDesc": "Procede al siguiente cuadro de elección.",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

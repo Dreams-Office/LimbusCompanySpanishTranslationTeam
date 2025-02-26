@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "AaCePcBa",
+      "name": "Marcado",
+      "desc": "Será un objetivo prioritario.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBb",
+      "name": "Cristal Fluorescente",
+      "desc": "Inicio de Turno: Gana 3 de Temple y +2 de Contador de Temple.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBc",
+      "name": "Obsesión Ciega",
+      "desc": "Al tener un valor de 3+, esta unidad se Aturde.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBg",
+      "name": "Larva",
+      "desc": "Finalizar Turno: Mueve la Larva al aliado con los HP más altos.\nInicio de Turno: Pierde PC igual al valor de Larva en sí mismo.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBh",
+      "name": "Baba Verde",
+      "desc": "Genera Baba Verde el siguiente turno cada vez que este valor se reduce.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBi",
+      "name": "Respiración Irregular",
+      "desc": "Finalizar Turno: Pierde 5 Temple.\nInflige +50% de daño y recibe +50% de daño.",
+      "summary": "Inflige +50% de daño y recibe +50% de daño",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBj",
+      "name": "Marca de Presa",
+      "desc": "Toda la tripulación del Pequod apunta a esta unidad.\nRecibe +50% de daño de la tripulación del Pequod.",
+      "summary": "Recibe +50% de daño de la tripulación del Pequod.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBk",
+      "name": "Enredo",
+      "desc": "Si es infligido contra objetivos con Captura, Aturdir al objetivo. No funciona contra objetivos que ya están Aturdidos.",
+      "summary": "Aturde al objetivo bajo ciertas condiciones",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBl",
+      "name": "Captura",
+      "desc": "Si es infligido contra objetivos con Enredo, Aturdir al objetivo. No funciona contra objetivos que ya están Aturdidos.",
+      "summary": "Aturde al objetivo bajo ciertas condiciones",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBn",
+      "name": "Comando Indiscutible",
+      "desc": "Pierde 10% de HP actual al usar una Habilidad. Poder de Habilidad Final +1\nTras Golpear, Ahab cura 8 PC; aplicar 2 Temple a sí mismo y a Ahab.",
+      "summary": "Pierde HP al usar una Habilidad; Poder Final +1",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBo",
+      "name": "Ego de Pip",
+      "desc": "Inicio de Turno: Cura 3 SP por el valor.\nSe reduce al usar Peso de Culpa luego de fallar Evasión.\nFinalizar Turno: Si el valor es 0, Aturde al usuario.",
+      "summary": "Cura PC por el valor. Reduce su valor al usar una cierta Habilidad luego de fallar Evasión.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBp",
+      "name": "Ego de Starbuck",
+      "desc": "Inicio de Turno: Gana 1 de Protección por cada 6 de valor.\nSe reduce por cada Moneda destruida en un Choque contra blancos con Marca de Presa.\nFinalizar Turno: SI el valor es 0, Aturde al usuario.",
+      "summary": "Gana Protección por el valor. Reduce su valor al perder un Choque contra ciertos objetivos.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBq",
+      "name": "Ego de Queequeg",
+      "desc": "Inicio de Turno: Gana valor si se está Escudado.\nFinalizar Turno: Pierde valor si no se tiene Escudo o al usar Enmienda Desvanecida.\nFinalizar Turno: Si el valor es 0, Aturde al usuario.",
+      "summary": "Finalizar Turno: Dependiendo de que si esta unidad está Escudada o no, pierde o gana valor.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBe",
+      "iconID": "AaCePbBb",
+      "name": "Pánico Pálido",
+      "desc": "Eficiencia en Pérdida de PC +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBf",
+      "name": "Pánico Pálido",
+      "iconID": "AaCePbBb",
+      "desc": "Gana 2 de Atadura al Finalizar Turno.\nCada Moneda lanzada por esta unidad cae en ello.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBr",
+      "name": "Barrera Asistente",
+      "desc": "Reduce el valor por la cantidad de daño recibido.\nNo expira al final del turno.\nFinalizar Turno: Si el valor es 0, Aturde al usuario el siguiente turno.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBs",
+      "name": "Defensa Asistente",
+      "desc": "Reduce el valor por la cantidad de daño recibido.\nNo expira al final del turno.\nFinalizar Turno: Si el valor es 0, Aturdir al usuario el siguiente turno.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCePcBt",
+      "name": "Ataque Asistente",
+      "desc": "Luego del ataque de Ahab, comienza un ataque unilateral contra el mismo objetivo al que Ahab atacó.\nLa Habilidad usada en esta acción tiene el mismo Nivel Ofensivo, valores de Moneda y efectos de la Habilidad 'Yo Sigo Órdenes...' de esta unidad.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

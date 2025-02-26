@@ -1,0 +1,139 @@
+{
+  "dataList": [
+      {
+          "id": 2027,
+          "name": "Libro de Cuentas Negro",
+          "desc": "Primer Inicio de Turno de un Encuentro: gana recursos E.G.O aleatorios igual al número de enemigos.\n\nSi hay 4 o más Identidades del Linaje de la Espada o del Clan Kurokumo participando en este Encuentro, gana recursos E.G.O para la Afinidad E.G.O que menos se tenga en su lugar.",
+          "simpleDesc": [
+              {
+                  "abilityID": 2027,
+                  "simpleDesc": "Gana recursos E.G.O aleatorios"
+              },
+              {
+                  "abilityID": 20271,
+                  "simpleDesc": "Gana los recursos E.G.O que menos se tenga"
+              }
+          ]
+      },
+      {
+          "id": 2028,
+          "name": "Empuñadura Oxidada",
+          "desc": "Inicio de Turno: todos los aliados ganan 1 Poder Cortante Aumentado.\n\nIdentidades del Linaje de la Espada o del Clan Kurokumo: gana 2 Poder Cortante Aumentado en su lugar.",
+          "simpleDesc": [
+              {
+                  "abilityID": 2028,
+                  "simpleDesc": "Gana 1 Poder Cortante Aumentado "
+              },
+              {
+                  "abilityID": 20281,
+                  "simpleDesc": "Gana 2 Poder Cortante Aumentado "
+              }
+          ]
+      },
+      {
+          "id": 2029,
+          "name": "Cuchilla Fracturada",
+          "desc": "Durante este Encuentro: al infligir Potencia de [Laceration] o 'Sangrado Único' por primera vez contra un enemigo con un efecto de una Habilidad de Ataque, inflige +2 Contador de [Laceratio] adicional. (Una vez por Encuentro)\n\nIdentidades del Clan Kurokumo, al infligir daño contra un enemigo por primera vez, inflige 4 de Potencia de [Laceration] y +4 Contador de [Laceration] adicionales en su lugar.",
+          "simpleDesc": [
+              {
+                  "abilityID": 2029,
+                  "simpleDesc": "Inflige +2 Contador de [Laceration] adicional"
+              },
+              {
+                  "abilityID": 20291,
+                  "simpleDesc": "Inflige 4 de Potencia de [Laceration] y +4 Contador de [Laceration] adicionales"
+              }
+          ]
+      },
+      {
+          "id": 2030,
+          "name": "Cuchilla Rota",
+          "desc": "Cuando un aliado Golpea Críticamente a un enemigo, inflige (Potencia de [Breath]/3) daño de Orgullo adicional.\n \nIdentidades del Linaje de la Espada, cuando Golpean Críticamente a un enemigo, infligen (Potencia de [Breath]/2) daño de Orgullo adicional en su lugar..",
+          "simpleDesc": [
+              {
+                  "abilityID": 2030,
+                  "simpleDesc": "Inflige (Potencia de [Breath]/3) daño de Orgullo adicional."
+              },
+              {
+                  "abilityID": 20301,
+                  "simpleDesc": "Inflige (Potencia de [Breath]/2) daño de Orgullo adicional."
+              }
+          ]
+      },
+      {
+          "id": 2031,
+          "name": "Borla Roja",
+          "desc": "Si el objetivo tiene 1.5 o menor Resistencia al Cortante, Resistencia al Cortante +0.3..",
+          "simpleDesc": [
+              {
+                  "abilityID": 2031,
+                  "simpleDesc": "Resistencia al Cortante +0.3"
+              }
+          ]
+      },
+      {
+          "id": 2032,
+          "name": "Sublimidad",
+          "desc": "Inicio del Encuentro: se activa cuando hay 3 o más Identidades del Clan Kurokumo.\n\nInicio de Turno: todos los aliados ganan 2 Poder Cortante  Aumentado, e inflige +35% de daño Cortante.\n\nInicio de Turno: cuando una Identidad del Clan Kurokumo inflige daño por primera vez, inflige 4 de Potencia de [Laceration] y +4 Contador de [Laceration] adicionales. (Una vez por turno)",
+          "simpleDesc": [
+              {
+                  "abilityID": 2032,
+                  "simpleDesc": "Gana 2 Poder Cortante Aumentado e inflige +35% de Daño Cortante"
+              },
+              {
+                  "abilityID": 20321,
+                  "simpleDesc": "Inflige 4 Potencia de [Laceration] y +4 Contador de [Laceration] adicionales"
+              }
+          ]
+      },
+      {
+          "id": 2033,
+          "name": "Inflexible",
+          "desc": "Inicio de Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada.\n\nInicio de Turno: todos los aliados ganan 2 Poder Cortante Aumentado, e inflige +35% de daño Cortante.\n\nInicio de Turno: cuando una Identidad del Linaje de la Espada golpea críticamente, inflige daño de Orgullo adicional igual a Potencia de [Breath] en sí.",
+          "simpleDesc": [
+              {
+                  "abilityID": 2033,
+                  "simpleDesc": "Gana 2 Poder Cortante Aumentado e inflige +35% de Daño Cortante"
+              },
+              {
+                  "abilityID": 20331,
+                  "simpleDesc": "Inflige daño de Orgullo adicional igual a Potencia de [Breath] en sí"
+              }
+          ]
+      },
+      {
+          "id": 2034,
+          "name": "Sombrero de Bambú Andrajoso",
+          "desc": "Inicio de Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada.\n\nTodos los aliados infligen +50% de daño Cortante\n\nIdentidades del Linaje de la Espada: si el aliado tiene [Breath], probabilidad de Crítico es fijada en 100%.",
+          "simpleDesc": [
+              {
+                  "abilityID": 2034,
+                  "simpleDesc": "Inflige +50% Daño Cortante"
+              },
+              {
+                  "abilityID": 20341,
+                  "simpleDesc": "Fija la probabilidad de Crítico a 100%"
+              }
+          ]
+      },
+      {
+          "id": 2035,
+          "name": "Bata Dopo Vieja",
+          "desc": "Inicio del Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada.\n\nTodos los aliados infligen +50% de daño Cortante\n\nIdentidades del Linaje de la Espada: Habilidad 1 gana Poder de Moneda +1. Habilidad 1 con una Sola Moneda gana Poder de Moneda +3.\n\n[Solamente Mentor del Linaje de la Espada Meursault] Poder de Choque Final -12 para Habilidad 'Ceder Mi Carne' ; Habilidad 'Para Reclamar Sus Huesos' inflige +50% de daño.",
+          "simpleDesc": [
+              {
+                  "abilityID": 2035,
+                  "simpleDesc": "Inflige +50% de Daño Cortante"
+              },
+              {
+                  "abilityID": 20351,
+                  "simpleDesc": "Habilidad 1 Poder de Moneda Aumentado"
+              },
+              {
+                  "abilityID": 20352,
+                  "simpleDesc": "Habilidad 'Ceder Mi Carne' Poder de Choque Final -12; 'Para Reclamar Sus Huesos' inflige +50% de daño"
+              }
+          ]
+      }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "dataList": [
+    {
+      "id": 9403,
+      "name": "Broche de Ébano",
+      "desc": "Primer Inicio de Turno de un Encuentro: Inflige 2 de Potencia y Contador de [Burst] a todos los enemigos.\n\nInflige 2 [Binding] al final del siguiente turno a todos los enemigos por 3 turnos.",
+      "simpleDesc": [
+        {
+          "abilityID": 9403,
+          "simpleDesc": "Inflige 2 de Potencia de [Burst] y +2 Contador de [Burst] en todos los enemigos"
+        },
+        {
+          "abilityID": 94031,
+          "simpleDesc": "Inflige 2 [Binding] en todos los enemigos"
+        }
+      ]
+    },
+    {
+      "id": 9404,
+      "name": "Gusanos Confinados",
+      "desc": "Al usar una Habilidad con Afinidad de Gula(Excepto Habilidades E.G.O) contra un enemigo, inflige 2 [MuckWorm] en el objetivo.\n\nSi dicha Habilidad aplica Potencia o Contador de [Laceration], o 'Sangrado Único', inflige 3 [MuckWorm] en su lugar.",
+      "simpleDesc": [
+        {
+          "abilityID": 9404,
+          "simpleDesc": "Inflige 2 [Muckworm]"
+        },
+        {
+          "abilityID": 94041,
+          "simpleDesc": "Inflige 3 [Muckworm]"
+        }
+      ]
+    },
+    {
+      "id": 9407,
+      "name": "Hecho a Medida",
+      "desc": "[Los efectos solo aplican a la Identidad #3 Desplegada]\n\nInicio del Encuentro: gana +3 Contador de [Vibration]\n\nInicio de Turno: gana 1 [Protection], 1 [AttackDmgUp], y 1 [ResultEnhancement].",
+      "simpleDesc": [
+        {
+          "abilityID": 9407,
+          "simpleDesc": "Gana +3 Contador de [Vibration]"
+        },
+        {
+          "abilityID": 94071,
+          "simpleDesc": "Gana 1 [Protection], 1 [AttackDmgUp], y 1 [ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9408,
+      "name": "Zapatos Embrujados",
+      "desc": "[Los efectos solo aplican a la Identidad #2 Desplegada]\n\nInicio del Encuentro: gana +3 Contador de [Sinking].\n\nInicio de Turno: gana 1 [Protection], 1 [AttackDmgUp], y 1 [ResultEnhancement].",
+      "simpleDesc": [
+        {
+          "abilityID": 9408,
+          "simpleDesc": "Gana +3 Contador de [Sinking]"
+        },
+        {
+          "abilityID": 94081,
+          "simpleDesc": "Gana 1 [Protection], 1 [AttackDmgUp], y 1 [ResultEnhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9409,
+      "name": "Lamentos Congelados",
+      "desc": "Aplica solo a 1 Identidad con la menor Velocidad al Inicio del Turno.\n\nSi dicho aliado gana un Choque o es golpeado por un enemigo, inflige 3 de [Sinking] contra el enemigo.",
+      "simpleDesc": [
+        {
+          "abilityID": 9409,
+          "simpleDesc": "Inflige 3 de [Sinking] contra el enemigo"
+        }
+      ]
+    },
+    {
+      "id": 9410,
+      "name": "Huella en Escarcha",
+      "desc": "Primer Inicio de Turno de una Oleada: todos los aliados ganan +3 Contador de [Sinking] e inflige a todos los enemigos(o todas las partes de Anormalidades) 4 de Potencia de [Sinking] y +8 Contador de [Sinking].\n\nEnemigos con [Sinking] pierden 2 Poder de Choque; cuando una Identidad aliada gana un Choque contra un enemigo afectado por este efecto, inflige 2 de Potencia de [Sinking]; cuando una Identidad aliada es golpeada por un enemigo afectado por este efecto, inflige 3 de Potencia de [Sinking].",
+      "simpleDesc": [
+        {
+          "abilityID": 9410,
+          "simpleDesc": "Inflige 4 de Potencia de [Sinking] y +8 Contador de [Sinking] contra todos los enemigos."
+        },
+        {
+          "abilityID": 94101,
+          "simpleDesc": "Enemigos con [Sinking] pierden 2 Poder de Choque"
+        }
+      ]
+    },
+    {
+      "id": 9413,
+      "name": "Escrituras de Nagel und Hammer",
+      "desc": "Cuando un aliado gana un Choque usando una Habilidad que inflige Potencia, Contador de [Laceration], o '[Laceration] Único', inflige 1~2 [NailPersonality].\n\nSi dicho aliado es un 'Fanático de N Corp.', gana 1 Fanático al Inicio del Turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9413,
+          "simpleDesc": "Inflige 1~2 [NailPersonality]"
+        },
+        {
+          "abilityID": 94131,
+          "simpleDesc": "Si el aliado es un 'Fanático de N Corp.', gana 1 Fanático al Inicio del Turno."
+        }
+      ]
+    },
+    {
+      "id": 9414,
+      "name": "Melena Sangrienta",
+      "desc": "Los efectos aplican para todas las Identidades con Habilidades de Ataque de Afinidad de Ira o Lujuria\n\nFin de Turno: si esta unidad no recibió ningún daño de Habilidades de Ataque enemigas este turno, gana 2 [Agility] y 2 [Endurance].\n\nFin de Turno: si esta unidad recibió daño de Habilidades de Ataque enemigas este turno, gana 2 [Binding] y Poder de Choque +2 el siguiente turno.",
+      "simpleDesc": [
+        {
+          "abilityID": 9414,
+          "simpleDesc": "Gana 2 [Agility] y 2 [Endurance] el siguiente turno"
+        },
+        {
+          "abilityID": 94141,
+          "simpleDesc": " 2 [Binding] y Poder de Choque +2 el siguiente turno"
+        }
+      ]
+    },
+    {
+      "id": 9415,
+      "name": "Inmundicia",
+      "desc": "Cuando un aliado ataca a un enemigo que tiene [Laceration] con una Habilidad que inflige Potencia o Contador de [Laceration], o 'Sangrado Único', inflige +15% de daño contra el objetivo.\n\nSi el objetivo tiene 33%- de HP, inflige +25% de daño contra el objetivo en su lugar.",
+      "simpleDesc": [
+        {
+          "abilityID": 9415,
+          "simpleDesc": "Inflige +15% de daño"
+        },
+        {
+          "abilityID": 94151,
+          "simpleDesc": "Inflige +25% de daño"
+        }
+      ]
+    },
+    {
+      "id": 9416,
+      "name": "Pureza",
+      "desc": "Si el aliado gana un Choque usando una Habilidad que inflige Potencia o Contador de [Laceration], o 'Sangrado Único', inflige 2~3 [NailPersonality].\n\nSi el aliado es un 'Fanático de N Corp.', gana 1 Fanático al Inicio del Turno, e inflige +25% de daño contra objetivos con [Laceration].\n\nActiva un efecto especial al haber 5+ Identidades 'Fanático de N Corp.'(solo cuenta Identidades en el campo al Inicio del Encuentro):\n\n- Identidades 'Fanático de N Corp.' ganan Poder Final +1, Poder de Moneda Positiva +1, Poder de Moneda Negativa -1, y las Habilidades de Ataque infligen +1 [NailPersonality]. Si una Identidad 'Fanático de N Corp.' está a PC máx al Inicio del Turno, gana 3 [AttackDmgUp].",
+      "simpleDesc": [
+        {
+          "abilityID": 9416,
+          "simpleDesc": "Choque Ganado: inflige 2~3 [NailPersonality]"
+        },
+        {
+          "abilityID": 94161,
+          "simpleDesc": "'Identidades 'Fanático de N Corp.' infligen +25% de daño al atacar a un enemigo"
+        },
+        {
+          "abilityID": 94162,
+          "simpleDesc": "Activa un efecto especial al haber 5+ Identidades 'Fanático de N Corp."
+        }
+      ]
+    },
+    {
+      "id": 9419,
+      "name": "Rama de Lindera",
+      "desc": "Por este Encuentro, el siguiente efecto se activa cada vez que las Habilidades 1, 2 y 3 son todas usadas al menos una vez.\n\nInicio del Turno: gana 1 [Agility] y 1 [SkillPowerUp]. (se puede acumular hasta 3 veces)",
+      "simpleDesc": [
+        {
+          "abilityID": 9419,
+          "simpleDesc": "Inicio del turno: gana 1 de [Agility] y 1 [SkillPowerUp]."
+        }
+      ]
+    },
+    {
+      "id": 9420,
+      "name": "Caleidoscopio",
+      "desc": "Inicio del Turno: unidades acompañadas por otras Identidades de la misma facción que ellos ganan [AttackUp] igual al número de otras Identidades de la misma facción. (máx 4)\n\nIdentidades de la Alianza de Liberación Tecnológica ganan Poder de Choque +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9420,
+          "simpleDesc": "Gana [AttackUp]"
+        },
+        {
+          "abilityID": 94201,
+          "simpleDesc": "Poder de Choque +1"
+        }
+      ]
+    },
+    {
+      "id": 9423,
+      "name": "Lentes Rotos",
+      "desc": "Cuando un aliado Choca contra un enemigo con mayor Velocidad, gana Poder de Choque +1\n\nCuando un aliado gana un Choque contra un enemigo con mayor Velocidad, gana 2 [AttackUp] el siguiente turno (máx 4.)",
+      "simpleDesc": [
+        {
+          "abilityID": 9423,
+          "simpleDesc": "Poder de Choque +1"
+        },
+        {
+          "abilityID": 94231,
+          "simpleDesc": "Gana 2 [AttackUp] el siguiente turno"
+        }
+      ]
+    },
+    {
+      "id": 9424,
+      "name": "Carta Sin Enviar",
+      "desc": "[Los efectos solo aplican a las Identidades #1 y #2 Desplegadas]\n\nAl ganar un Choque con una Habilidad de Ataque que inflige Potencia o Contador de [Burst], inflige 5 de Potencia de [Burst] y +3 Contador de [Burst] contra el objetivo. (una vez por turno por Identidad)\n\nAl ganar un choque contra un enemigo con menor Velocidad, gana Poder Final +1 e inflige +25% de daño.\n\nAl ganar un Choque contra un enemigo con [AttackUp], gana 3 [AttackUp] el siguiente turno, e inflige 3 [AttackDown] en el enemigo que perdió el Choque (valor absoluto 9)",
+      "simpleDesc": [
+        {
+          "abilityID": 9424,
+          "simpleDesc": "Choque Ganado: inflige 5 de [Burst] y +3 Contador de [Burst] contra el objetivo"
+        },
+        {
+          "abilityID": 94241,
+          "simpleDesc": "Poder Final +1, inflige +25% de daño"
+        },
+        {
+          "abilityID": 94242,
+          "simpleDesc": "Inflige 3 [AttackDown] contra el enemigo que perdió el Choque"
+        }
+      ]
+    },
+    {
+      "id": 9429,
+      "name": "Pierna Protésica de Arpón",
+      "desc": "Fin del Turno: aplica 2 de [Agility], 2 [AttackUp] y 2 [AttackDmgUp] el siguiente turno al aliado con la mayor suma de Potencia y Contador de [Breath].\n\nIdentidades del Pequod ganan Velocidad Máx +1.",
+      "simpleDesc": [
+        {
+          "abilityID": 9429,
+          "simpleDesc": "Aplica 2 de [Agility], 2 [AttackUp], y 2 [AttackDmgUp] el siguiente turno"
+        },
+        {
+          "abilityID": 94291,
+          "simpleDesc": "Identidades del Pequod ganan Velocidad Máx +1."
+        }
+      ]
+    },
+    {
+      "id": 9430,
+      "name": "Lámpara de Proa a Gas",
+      "desc": "Primer Turno al Inicio de una Oleada: todos los aliados ganan 5 de [Breath] y +5 Contador de [Breath].\n\nFin del Turno: 1 aliado con la mayor suma de Potencia y Contador de [Breath] gana 2 [Agility], 3 [AttackUp], y 3 [AttackDmgUp] el siguiente turno.\n\nIdentidades del Pequod ganan Poder de Habilidad +2 y Velocidad Máx +2.",
+      "simpleDesc": [
+        {
+          "abilityID": 9430,
+          "simpleDesc": "Todos los aliados ganan 5 de [Breath] y +5 Contador de [Breath]."
+        },
+        {
+          "abilityID": 94301,
+          "simpleDesc": "Aplica 2 [Agility], 3 [AttackUp], y 3 [AttackDmgUp] el siguiente turno."
+        },
+        {
+          "abilityID": 94302,
+          "simpleDesc": "Poder de Habilidad +2, Velocidad Máx +2."
+        }
+      ]
+    },
+    {
+      "id": 9433,
+      "name": "Artes Secretas de la Ama de Llaves",
+      "desc": "Primer Turno al Inicio de una Oleada: selecciona a 1 enemigo con la menor Velocidad(o una parte aleatoria de una Anormalidad), e inflige 5 [Binding] por 5 turnos a partir del siguiente turno.\n\nChoque Ganado: Si la Velocidad de esta unidad es mayor que la del objetivo, cura PC iguales a a diferencia de Velocidad, y gana 'Nivel Ofensivo' igual a la mitad de esa diferencia de Velocidad. (Solo aplica a la Habilidad usada para ganar el Choque. Máx 'Nivel Ofensivo' ganado: 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Inflige 5 [Binding] por 5 turnos a partir del siguiente turno"
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Cura PC, y gana Nivel Ofensivo igual a la cantidad de PC curados"
+        }
+      ]
+    },
+    {
+      "id": 9434,
+      "name": "Espejo de Mano",
+      "desc": "Primer Turno al Inicio de una Oleada: selecciona 2 enemigos con la menor Velocidad(o 2 partes aleatorias de una Anormalidad. el efecto no se acumula si el enemigo es uno solo) e inflige 5 [Binding] y 3 [DefenseDown] al Inicio del Turno a partir del siguiente turno.\n\nCuando el enemigo se recupera del Aturdimiento, y si no tiene ningún Umbral de Aturdimiento restante, crea un nuevo Umbral de Aturdimiento a 66% del HP actual del objetivo (3 veces por Encuentro). Si un aliado Aturde a un enemigo con una Habilidad de Ataque(Excepto Habilidades E.G.O) que aplique Potencia o Contador de [Vibration](incluyendo en sí o en un aliado), inflige aleatoriamente Potencia de [Vibration] igual a la mitad de la Potencia de [Vibration] en el objetivo entre otros enemigos(o otras partes de Anormalidad), y duplica la Potencia de [Vibration] en el objetivo Aturdido.",
+      "simpleDesc": [
+        {
+          "abilityID": 9433,
+          "simpleDesc": "Inicio del Turno: Gana 5 [Binding] y 3 [DefenseDown]."
+        },
+        {
+          "abilityID": 94331,
+          "simpleDesc": "Crea un nuevo Umbral de Aturdimiento a 66% del HP actual del objetivo"
+        },
+        {
+          "abilityID": 94332,
+          "simpleDesc": "[La Potencia de [Vibration] en el objetivo Aturdido aumenta por 2"
+        }
+      ]
+    }
+  ]
+}

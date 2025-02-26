@@ -1,0 +1,122 @@
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Entrelazamiento de Amplitud",
+      "desc": "- Fusiona los efectos del tipo de Tremor añadido por Entrelazamiento de Amplitud  y el tipo de Tremor actualmente sobre el objetivo juntos bajo el Tremor - Superposición.\n- El valor de la Potencia y Contador no cambian con el Entrelazamiento.\n- Al activar Conversión de Amplitud en Tremor - Superposición, se activa como Entrelazamiento de Amplitud.\n- Fin del Turno: convertido en Tremor base.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationNesting",
+      "name": "Tremor - Superposición",
+      "desc": "- Obtenido a través de Entrelazamiento de Amplitud\n- Al activar Conversión de Amplitud, añade los efecto del tipo de Tremor resultante a la lista de efectos del Tremor activo bajo Tremor - Superposición.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationDistribution",
+      "name": "Tremor - Distribución",
+      "desc": "- Fin del Turno: Gana ((Suma del Contador de Tremor de todos los aliados / (# de aliados vivos)) Nivel Ofensivo Aumentado el siguiente turno (máx 5)\n- Cuando es golpeado por Habilidades que activan Estallido de Tremor, aumenta el Umbral de Aturdimiento por la Potencia del efecto\n- Fin del Turno: Reduce el Contador en 1\n- (Funciona de la misma manera que lo hace el Tremor normal para efectos que aumentan o reducen el Contador/la Potencia) ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TcorpSpecialInvestigator",
+      "name": "Insignia de Investigador Especial de T Corp.",
+      "desc": "- Cuando esta unidad recibe daño letal, su HP no cae por debajo de 1, se cura instantáneamente un 80% de su HP máximo y se recupera del Aturdimiento. (Una vez por Encuentro)\n- Cuando este efecto se activa, a partir del siguiente turno, esta unidad gana 2 de Poder de Ataque al inicio de cada turno durante 5 turnos.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationChain",
+      "name": "Tremor - Cadena",
+      "desc": "- Pierde 1 de Poder de Choque por cada 10 Potencia de Tremor sobre sí mismo (máx 3)\n- Por {1} turnos: Cuando se es golpeado por Habilidades que active Estallido de Tremor, aumenta el Umbral de Aturdimiento en {0}.\n- Fin del Turno: reduce el Contador en 1\n- (Funciona de la misma manera que lo hace el Tremor normal para efectos que aumentan o reducen el Contador/la Potencia) ",
+      "summary": " Pierde 1 de Poder de Choque por cada 10 Potencia de Tremor sobre si mismo.\nIncrementa el Umbral de Aturdimiento en {0}",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeRentalTwo",
+      "name": "Tiempo Rentado de T Corp.",
+      "desc": "Fin del Turno:\n- Gana {1} de Rapidez, Poder de Choque Aumentado, y Frágil el siguiente turno.\n- A 1 de Contador, gana {0} de Atadura el siguiente turno en su lugar.\n- Gana 1 de Potencia y pierde 1 de Contador\n- Si esta unidad tiene más Atadura que Rapidez, el efecto de Tiempo Rentado expira y esta unidad queda Aturdida.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAccumulation",
+      "name": "Retraso Temporal",
+      "desc": "- Mientras este efecto esté activo, el daño infligido a esta unidad se almacena y no se recibe.\n- Fin del Turno: reduce el valor en 1\n- Fin del Turno: Si solo queda 1 de Valor de este efecto, el efecto expira después de infligir (2 x daño almacenado) de daño de Pereza a esta unidad.\n- Cuando este efecto está activo, su valor no puede ser incrementado ni refrescado.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultDown",
+      "name": "Poder de Choque Reducido",
+      "desc": "En un Choque, pierde Poder de Choque igual al valor",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultUp",
+      "name": "Poder de Choque Aumentado",
+      "desc": "En un Choque, gana Poder de Choque igual al valor",
+      "summary": "En un Choque, gana Poder de Choque igual al valor",
+      "undefined": "-"
+    },
+    {
+      "id": "LimitedTime",
+      "name": "Tiempo Robado",
+      "desc": "- Inicio de Turno: A 200 o más de valor, gana ({0} - 200)/50 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado.\n- Inicio del Turno: A menos de 200 de valor, gana (200 - {0})/50 Nivel Ofensivo Reducido & Nivel Defensivo Reducido.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OwnTime",
+      "name": "Shared Time",
+      "desc": "- Inicio del Turno: A 40 o más de valor, gana ({0} - 40)/10 Nivel Ofensivo Aumentado & Nivel Defensivo Aumentado. \n- Inicio del Turno: A menos de 40 de valor, gana (40 - {0})/10 Nivel Ofensivo Reducido & Nivel Defensivo Reducido. ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EquitableDistribution",
+      "name": "Gasto de Tiempo Conjunto",
+      "desc": "Al gastar Tiempo Compartido, los Cerebros gastan una cantidad igual de tiempo a través del tablero.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfairDistribution",
+      "name": "Luchas internas",
+      "desc": "Al gastar Tiempo Compartido, los Cerebros ya no gastan una cantidad igualitaria de tiempo a través del tablero.\nInicio de Turno: Todas las partes pierden Protección igual al número de Partes con valores de Tiempo restantes que sean diferentes.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAcceleration",
+      "name": "Aceleración Temporal",
+      "desc": "- Gana 5 de Velocidad\n- Mejora las Habilidades de esta unidad.\n- Gana 1 de Frágil; Al recibir un efecto de Estallido de Tremor, habilidad o moneda que incremente el Umbral de Aturdimiento de esta unidad, se incrementa un 50% más.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_LowMorale",
+      "name": "Unidad Quebrada",
+      "desc": "- Moral Baja\nGana1 de Frágil. Gana 1 de Contador de Tremor al ser golpeado. (3 veces máx)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_Panic",
+      "name": "Unidad Quebrada",
+      "desc": "- Pánico\nGana 2 de Frágil. Gana 2 de Contador de Tremor al ser golpeado. (3 veces máx)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeKillerWatch",
+      "name": "Objetivo Reabastecedor de Tiempo de Emergencia",
+      "desc": "Priorizado por el Destripador de Tiempo mientras que Aceleración Temporal esté activo.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

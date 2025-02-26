@@ -1,0 +1,109 @@
+{
+  "dataList": [
+    {
+      "id": "get_10501_1",
+      "desc": "Al Adquirir Identidad",
+      "dlg": "Meursault. Por favor refiérase a mi como tal, Gerente."
+    },
+    {
+      "id": "lobby_morning_10501_1",
+      "desc": "Saludo Mañanero",
+      "dlg": "Las reglas de la compañía dicen que sus empleados han de levantarse a horas designadas. Parece que la mayoría de Pecadores no son conscientes de este hecho, al igual que usted."
+    },
+    {
+      "id": "lobby_noon_10501_1",
+      "desc": "Saludo de Mediodía",
+      "dlg": "Si me preguntas como planeo pasar mi tarde... No hay reglas que digan que hacer."
+    },
+    {
+      "id": "lobby_night_10501_1",
+      "desc": "Saludo Nocturno",
+      "dlg": "Si tuviera que comparar las partes del día entre ellas, prefiero las mañanas a las noches. La oscuridad opaca la visión, y lo que es difícil de ver es difícil de entender."
+    },
+    {
+      "id": "smalltalk_10501_1",
+      "desc": "Charla #1",
+      "dlg": "¿Tiene algún asunto conmigo Gerente? Si hay algún motivo en particular hágalo claro."
+    },
+    {
+      "id": "smalltalk_10501_2",
+      "desc": "Charla #2",
+      "dlg": "Las personas sugieren que sonría más seguido. ¿Quiere eso también, Gerente? "
+    },
+    {
+      "id": "smalltalk_10501_3",
+      "desc": "Charla #3",
+      "dlg": "...Usted continua hablando conmigo ¿Está motivado por las reglas a hacerlo?"
+    },
+    {
+      "id": "neglect_10501_1",
+      "desc": "Inactivo",
+      "dlg": "Esperaré aquí hasta que vuelva."
+    },
+    {
+      "id": "formation_10501_1",
+      "desc": "Desplegar",
+      "dlg": "Sí, si eso es que quiere."
+    },
+    {
+      "id": "battleentry_10501_1",
+      "desc": "Entrada a Escena",
+      "dlg": "Si las reglas lo dicen."
+    },
+    {
+      "id": "battle_select_10501_1",
+      "desc": "Vista en Batalla",
+      "dlg": "¿Hay algún problema, Gerente?"
+    },
+    {
+      "id": "battle_endcommand_10501_1",
+      "desc": "Al Atacar",
+      "dlg": "Ejecutaré la orden según las reglas."
+    },
+    {
+      "id": "battle_enemy_break_10501_1",
+      "desc": "Aturdir al Enemigo",
+      "dlg": "Espero su próxima orden."
+    },
+    {
+      "id": "battle_break_10501_1",
+      "desc": "Aturdido",
+      "dlg": "¡Ugh!"
+    },
+    {
+      "id": "battle_kill_10501_1",
+      "desc": "Enemigo Asesinado",
+      "dlg": "Hecho apropiadamente."
+    },
+    {
+      "id": "battle_allydead_10501_1",
+      "desc": "Muerte Aliada",
+      "dlg": "Por favor encárguese de esto según las normas."
+    },
+    {
+      "id": "choice_success_p_10501_2",
+      "desc": "Juicio Exitoso",
+      "dlg": "Lo logré."
+    },
+    {
+      "id": "choice_fail_n_10501_1",
+      "desc": "Juicio Fallido",
+      "dlg": "Fallé."
+    },
+    {
+      "id": "battle_clear_10501_1",
+      "desc": "Grito de Victoria",
+      "dlg": "Simplemente seguí ordenes."
+    },
+    {
+      "id": "battle_clear_ex_10501_1",
+      "desc": "Condiciones EX Cumplidas",
+      "dlg": "Es lo que se debía de hacer; los halagos son redundantes."
+    },
+    {
+      "id": "battle_defeat_10501_1",
+      "desc": "LLanto de Derrota",
+      "dlg": "Le imploro que reconsidere la estrategia. "
+    }
+  ]
+}

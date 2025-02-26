@@ -1,0 +1,254 @@
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "name": "La Luz Que Todo lo Ilumina",
+      "desc": "Si todas las Velas están apagadas y están a máxima HP, gana resistencias hasta que todas las Velas estén encendidas otra vez.\nCuando todas las Velas estén encendidas, pierde las resistencias."
+    },
+    {
+      "id": 810002,
+      "name": "Oscuridad Inhibida",
+      "desc": "Enciende todas las Velas cada 4 turnos después de que una Vela sea apagada. La HP de todas las Velas es reducida a 1."
+    },
+    {
+      "id": 810701,
+      "name": "Ascuas Ardientes",
+      "desc": "La HP no cae por debajo de 1.\nA 1 de HP, enciende las Velas y usa una Habilidad de Ataque."
+    },
+    {
+      "id": 810702,
+      "name": "Oscuridad Ahogante",
+      "desc": "Cuando todas las Velas estén encendidas, usa una Habilidad Defensiva.\nApaga todas las Velas el siguiente turno al quedarse sin Escudo."
+    },
+    {
+      "id": 810101,
+      "name": "Perla Expuesta",
+      "desc": "Inicio del turno: Si a 0 de Baba Verde, queda Aturdido. La Perla pierde 0.5 de Resistencia a todas las Afinidades.\nGana 10 de Baba Verde al recuperarse de Aturdimiento."
+    },
+    {
+      "id": 810102,
+      "name": "Concha Rota",
+      "desc": "a 10% HP del Núcleo, gana un nuevo patrón."
+    },
+    {
+      "id": 810103,
+      "name": "Concha Solida",
+      "desc": "La Concha retiene sus resistencias incluso durante el estado de Aturdido."
+    },
+    {
+      "id": 810104,
+      "name": "Acumulación de Baba",
+      "desc": "Fija la Velocidad de esta Parte a 1 por el turno al usar Fluido Cáustico."
+    },
+    {
+      "id": 810901,
+      "name": "Baba Verde",
+      "desc": "Aplica 3 de Baba Verde a la Perla Deambulante al ser derrotado por Perla Deambulante."
+    },
+    {
+      "id": 810902,
+      "name": "Baba Contaminante",
+      "desc": "Fin del Turno: Aplica (2 + Baba Verde sobrevivientes) Veneno a todos los enemigos."
+    },
+    {
+      "id": 810201,
+      "name": "Expansión de Oxígeno",
+      "desc": "Cuando la Parte Fluorescencia es rota, inflige [AaCePcBb] a todos los enemigos.\nLa Parte de la Fluorescencia se regenera luego de 2 turnos."
+    },
+    {
+      "id": 810202,
+      "name": "Respiración Bajo el Agua",
+      "desc": "Iniciando desde el turno 2, gana 8 de Temple este turno si la Parte Fluorescencia no  está rota.\nGana +3 Contador de Temple. Iniciando desde el turno 2, gana 2 de Parálisis y 2 de Daño Reducido este turno si la Parte Fluorescencia está rota."
+    },
+    {
+      "id": 810203,
+      "name": "Torrente Silencioso",
+      "desc": "Iniciando desde el turno 2, a todas las Identidades sin [AaCePcBb] son infligidas con 1 de Atadura y 1 de Parálisis; Identidades sin [AaCePcBb] pierden 3 PC."
+    },
+    {
+      "id": 810801,
+      "name": "Endurecerse",
+      "desc": "Solo puede ser dañado con ataques que infligen daño equivalente a 12 o más.\nTodo daño por debajo de 12 es anulado."
+    },
+    {
+      "id": 810802,
+      "name": "Pecios a la Deriva",
+      "desc": "Tras que el Silencioso Torrente Devora Sueños use Obsesión Ciega, y si esta unidad no es destruida al Fin del Turno, inflige 20 de daño a una Identidad aleatoria."
+    },
+    {
+      "id": 810803,
+      "name": "Pecio Destruido",
+      "desc": "la HP no cae por debajo de 1 al ser derrotado.\nSe convierte en un Pecio Destruido."
+    },
+    {
+      "id": 810301,
+      "name": "Órdenes de la Capitán",
+      "desc": "Inicio de Turno: Si no a -45 PC, curar (# de Aliados sobrevivientes x 5) PC.\nInicio de Turno: Si a -45 PC, recuperarse del Pánico al Finalizar Turno y reestablecer PC a 0."
+    },
+    {
+      "id": 810302,
+      "name": "Tatuajes Mutilados",
+      "desc": "EvCada vez que un Aliado de la facción del Pueblo Pequod sea derrotado, pierde 1 Contador de Temple y 10 PC."
+    },
+    {
+      "id": 810303,
+      "name": "La Arponera Indomable",
+      "desc": "Mientras más baje el HP de esta unidad, más daño harán sus Habilidades."
+    },
+    {
+      "id": 810304,
+      "name": "Odio y Hostilidad Inyectados",
+      "desc": "Fin del Turno: si a -50% HP Máx, continua a la Fase 2.\nEl HP de esta unidad no cae por debajo de 1 antes de que inicie la Fase 2.\nInicio de la Fase 2: Cura HP a 50% de la HP Máx e invoca 4 aliados. Inflige [AaCePcBj] contra 1 enemigo con los HP menores al inicio de cada turno."
+    },
+    {
+      "id": 810305,
+      "name": "Odio y Hostilidad Grabados",
+      "desc": "A 1 HP, cura hasta 50% de la HP Máx y gana 2 Poder de Ataque Aumentado el siguiente turno. (Una vez por encuentro)"
+    },
+    {
+      "id": 810306,
+      "name": "Mente Nublada",
+      "desc": "Al quedar Aturdido y tener PC menores a 0 al Fin del Turno, restablece los PC a 0."
+    },
+    {
+      "id": 810401,
+      "name": "Odio y Hostilidad Grabados",
+      "desc": "Fin del Turno: A -50% HP, gana 2 de Rapidez y 2 Poder de Ataque Aumentado. (una vez por encuentro)"
+    },
+    {
+      "id": 810402,
+      "name": "Arpón Punzante",
+      "desc": "Tras Golpe Crítico, inflige 1 efecto negativo adicional con efectos de Habilidad."
+    },
+    {
+      "id": 810501,
+      "name": "Capitán del Pequod",
+      "desc": "Inicio del Turno: Si no a -45 PC, cura 15 PC.\nFin del Turno: Si en Pánico, se recupera del pánico. Restablece los PC a 0."
+    },
+    {
+      "id": 810503,
+      "name": "Órdenes Enredadas",
+      "desc": "Cuando esta unidad queda Aturdida, y cuando todos los otros aliados están por debajo de 0 PC al Fin del Turno, restablece sus PC a 0."
+    },
+    {
+      "id": 810504,
+      "name": "Decisión Despiadada",
+      "desc": "Inicio de Fase 2: Cura HP por completo; Queequeg y Starbuck ya no activan la pasiva Órdenes de la Capitán. También, Queequeg ya no puede quedar Aturdida incluso cuando el Escudo de su Defensa Asistida llega a 0."
+    },
+    {
+      "id": 810601,
+      "name": "Ahab",
+      "desc": "Inicio del turno: Si no a -45 PC, cura 15 PC.\nFin del Turno: Si en Pánico, se recupera del pánico. Restablece PC a 0 y gana 2 Poder de Ataque Aumentado y 2 de Poder Defensivo Aumentado."
+    },
+    {
+      "id": 810602,
+      "name": "La Inocencia y Pecado de Pip",
+      "desc": "Inicio de Fase: Gana 20 Ego de Pip.\nFin del Turno: Cura 3 PC por cada Ego de Pip.\nFin del Turno: Si [AaCePcBo] está a 0, queda Aturdido el siguiente turno."
+    },
+    {
+      "id": 810603,
+      "name": "Los Miedos de Starbuck",
+      "desc": "Inicio de Fase: Gana 20 Ego de Starbuck.\nPierde 1 [AaCePcBp] por cada Moneda destruida en un Choque contra objetivos con [AaCePcBj].\nInicio del turno: Gana 1 de Protección por cada 5 Ego de Starbuck.\nFin del Turno: Si [AaCePcBp] está a 0, queda Aturdido el siguiente turno."
+    },
+    {
+      "id": 810604,
+      "name": "Arpón Punzante",
+      "desc": "Por la duración de esta Fase, tras Golpe Crítico, inflige 1 efecto negativo adicional con efectos de Habilidad."
+    },
+    {
+      "id": 810605,
+      "name": "La Penitencia de Queequeg",
+      "desc": "Inicio de Fase: Gana 30 Ego de Queequeg.\nFin del Turno: Si esta unidad tiene Escudo restante, gana 5 Ego de Queequeg. Si la unidad no tiene Escudo restante, pierde 10 [AaCePcBq].\nFin del Turno: Si [AaCePcBq] está a 0, queda Aturdido el siguiente turno."
+    },
+    {
+      "id": 810606,
+      "name": "La Arponera Indomable",
+      "desc": "Mientras más baje el HP de esta unidad, inflige daño adicional con sus Habilidades.\nInflige 1% más de daño por cada 0.75% HP faltante en sí\n(Máx 100%. Máximo Valor cuando esta unidad está a 25% de HP)"
+    },
+    {
+      "id": 810607,
+      "name": "El Precio de la Nobleza",
+      "desc": "Gana 'Nivel Ofensivo' y 'Nivel Defensivo' cada vez que esta unidad gana Ego de otros personajes\nPierde PC al perder ciertos Choques"
+    },
+    {
+      "id": 814101,
+      "name": "La Luz Que Todo lo Ilumina",
+      "desc": "Si todas las Velas están apagadas y a máxima HP, gana resistencias hasta que todas las Velas sean encendidas otra vez.\nCuando todas las Velas son encendidas, pierde resistencias."
+    },
+    {
+      "id": 814102,
+      "name": "Oscuridad Inhibida",
+      "desc": "Enciende todas las Velas cada 4 turnos después de que una Vela sea apagada. El HP de todas las Velas es reducido a 1."
+    },
+    {
+      "id": 813601,
+      "name": "Ascuas Ardientes",
+      "desc": "La HP no cae por debajo de 1.\nA 1 de HP, enciende las Velas y usa una Habilidad de Ataque."
+    },
+    {
+      "id": 813602,
+      "name": "Oscuridad Ahogante",
+      "desc": "Cuando todas las Velas estén encendidas, usa una Habilidad Defensiva.\nApaga todas las Velas el siguiente turno al quedarse sin Escudo."
+    },
+    {
+      "id": 813701,
+      "name": "Perla Expuesta",
+      "desc": "Inicio del turno: Si a 0 de Baba Verde, queda Aturdido. La Perla pierde 0.5 de Resistencia a todas las Afinidades.\nGana 10 de Baba Verde al recuperarse de Aturdimiento."
+    },
+    {
+      "id": 813702,
+      "name": "Concha Rota",
+      "desc": "a 10% HP del Núcleo, gana un nuevo patrón."
+    },
+    {
+      "id": 813703,
+      "name": "Concha Solida",
+      "desc": "La Concha retiene sus resistencias incluso durante el estado de Aturdido."
+    },
+    {
+      "id": 813704,
+      "name": "Acumulación de Baba ",
+      "desc": "Fija la Velocidad de esta Parte a 1 por el turno al usar Fluido Cáustico."
+    },
+    {
+      "id": 813801,
+      "name": "Baba Verde",
+      "desc": "Aplica 3 de Baba Verde a la Perla Deambulante al ser derrotado por Perla Deambulante."
+    },
+    {
+      "id": 813802,
+      "name": "Baba Contaminante",
+      "desc": "Fin del Turno: Aplica (2 + Baba Verde sobrevivientes) Veneno a todos los enemigos."
+    },
+    {
+      "id": 813901,
+      "name": "Expansión de Oxígeno",
+      "desc": "Cuando la Parte Fluorescencia es rota, inflige [AaCePcBb] a todos los enemigos.\nLa Parte de la Fluorescencia se regenera luego de 2 turnos."
+    },
+    {
+      "id": 813902,
+      "name": "Respiración Bajo el Agua",
+      "desc": "Iniciando desde el turno 2, gana 8 de Temple este turno si la Parte Fluorescencia no  está rota.\nGana +3 Contador de Temple. Iniciando desde el turno 2, gana 2 de Parálisis y 2 de Daño Reducido este turno si la Parte Fluorescencia está rota."
+    },
+    {
+      "id": 813903,
+      "name": "Torrente Silencioso",
+      "desc": "Iniciando desde el turno 2, a todas las Identidades sin [AaCePcBb] son infligidas con 1 de Atadura y 1 de Parálisis; Identidades sin [AaCePcBb] pierden 3 PC."
+    },
+    {
+      "id": 814001,
+      "name": "Endurecerse",
+      "desc": "Solo puede ser dañado con ataques que infligen daño equivalente a 12 o más.\nTodo daño por debajo de 12 es anulado."
+    },
+    {
+      "id": 814002,
+      "name": "Pecios a la Deriva",
+      "desc": "Tras que el Silencioso Torrente Devora Sueños use Obsesión Ciega, y si esta unidad no es destruida al Fin del Turno, inflige 20 de daño a una Identidad aleatoria."
+    },
+    {
+      "id": 814003,
+      "name": "Pecio Destruido",
+      "desc": "la HP no cae por debajo de 1 al ser derrotado.\nSe convierte en un Pecio Destruido."
+    }
+  ]
+}

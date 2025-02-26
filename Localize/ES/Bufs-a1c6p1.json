@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "CleanUp_LowMorale",
+      "name": "Compulsión de Organización (Moral Baja)",
+      "desc": "Pierde 5 PC tras Choque Perdido. Gana 1 de Rapidez el siguiente turno al ser golpeado (Máx. 2).",
+      "summary": "Pierde 5 PC tras Choque Perdido. Gana 1 de Rapidez el siguiente turno tras ser golpeado.",
+      "undefined": "-"
+    },
+    {
+      "id": "CleanUp_Panic",
+      "name": "Compulsión de Organización (Pánico)",
+      "desc": "Gana 2 de Frágil. Gana 1 de Rapidez el siguente turno tras ser golpeado. (Máx. 3)",
+      "summary": "Gana 3 de Frágil. Gana 1 de Rapidez el siguiente turno tras ser golpeado.",
+      "undefined": "-"
+    },
+    {
+      "id": "Acclamation_LowMorale",
+      "name": "Ecos de la Mansión (Moral Baja)",
+      "desc": "Poder de Choque -1 para sí mismo. Inflige +10% de daño tras Golpear con Cara.",
+      "summary": "Poder de Choque -2 para sí mismo. Gana 1 de Daño Aumentado.",
+      "undefined": "-"
+    },
+    {
+      "id": "Acclamation_Panic",
+      "name": "Ecos de la Mansión (Pánico)",
+      "desc": "Poder de Choque -2 para sí mismo. Gana 1 de Daño Aumentado.",
+      "summary": "Poder de Choque -2 para sí mismo. Gana 1 de Daño Aumentado.",
+      "undefined": "-"
+    },
+    {
+      "id": "Unstable_LowMorale",
+      "name": "Partiéndose (Moral Baja)",
+      "desc": "Pierde 2 HP propios con cada Choque. Gana 1 de Nivel Ofensivo Aumentado al Inicio de Turno.",
+      "summary": "Pierde 2 HP propios con cada Choque.",
+      "undefined": "-"
+    },
+    {
+      "id": "Unstable_Panic",
+      "name": "Partiéndose (Pánico)",
+      "desc": "Pierde 3 HP propios con cada Choque. Gana 2 de Nivel Ofensivo Aumentado al Inicio de Turno.",
+      "summary": "Pierde 3 HP propios con cada Choque.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPaBa",
+      "name": "Aflicción",
+      "desc": "Finalizar Turno: Si tiene a -15 o más de PC, pierde 10 PC.\nTras ser golpeado, pierde 2 PC y gana 1 de Nivel Ofensivo Aumentado el siguiente turno. (3 veces por turno)\nInicio de Turno: Si tiene menos de 0 SP, gana 3 de Poder de Ataque Aumentado.",
+      "summary": "Al ser golpeado, pierde PC y gana 1 de Nivel Ofensivo Aumentado el siguiente turno.\nInicio de Turno: Al tener menos de 0 PC, gana 3 de Poder de Ataque Aumentado.",
+      "undefined": "-"
+    }
+  ]
+}

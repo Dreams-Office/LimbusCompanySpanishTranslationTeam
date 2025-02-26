@@ -1,0 +1,727 @@
+{
+    "dataList": [
+        {
+            "id": 9008301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vomito Espumoso",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Garra",
+                    "desc": "Si el objetivo tiene 5+ de [Sinking], inflige +20% de daño.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 30% del daño infligido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pistola de Agua",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +5 Contador de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Piel Mucosa",
+                    "desc": "Al ser atacado mientras posee un Escudo, inflige 1 de [Sinking] en el atacante",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tajo de Garfio",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tajos Consecutivos de Garfio",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grito de Batalla",
+                    "desc": "[WhenUse] Gana 2 de [Breath] el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Desgarrar la Brecha",
+                    "desc": "Los efectos de Moneda de esta habilidad se activan cuando esta unidad tiene [Breath].",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige +30% de daño"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige +30% de daño"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enganche de Garfio",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige +2 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Garfiotazo",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grito de Batalla",
+                    "desc": "[WhenUse] Gana 2 de [Breath] el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Desgarrar la Brecha",
+                    "desc": "Los efectos de Moneda de esta habilidad se activan cuando esta unidad tiene [Breath].",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige +30% de daño"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Inflige +30% de daño"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Desgarrar la Carne",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Va Entrando",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration] y +3 Contador de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Más Rápido",
+                    "desc": "[EndSkill] Gana 1 de Daño Aumentado el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 4 de [Breath] el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Frágil el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grito de Batalla",
+                    "desc": "[WhenUse] Gana 2 de [Breath] el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Saqueo",
+                    "desc": "[WinDuel] Copia el Poder de Moneda de las Habilidades 1~3 del objetivo y la Cantidad de Monedas para usar como si fuesen suyas",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Golpéame Más",
+                    "desc": "[WhenUse] Si el objetivo tiene <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrado</color></link></u>, gana 1 de [Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Golpéame Justo Aquí",
+                    "desc": "[WhenUse] Si el objetivo tiene <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrado</color></link></u>, gana 1 de [Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Daño Reducido el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aún Más Fuerte",
+                    "desc": "[EndSkill] Gana 1 de Daño Aumentado el siguiente turno",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Protection]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 2 de [Protection] el siguiente turno"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Gana 4 de [Breath] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defender",
+                    "desc": "[WhenUse] Gana 2 de [Breath] el siguiente turno.\nFin del Turno: Cura HP igual a HP del Escudo.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Saqueo",
+                    "desc": "[WinDuel] Copia el Poder de Moneda de las Habilidades 1~3 del objetivo y la Cantidad de Monedas para usar como si fuesen suyas",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pistola de Agua",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Golpe Húmedo",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de Fragilidad al Ahogo"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Cura por 50% del daño infligido"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Agarre de las Olas",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rugido de las Olas",
+                    "desc": "+20% de daño por cada 5 Potencia de Ahogo en el objetivo\nSi el objetivo está debajo de 0 PC, inflige +10% de daño",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Diluvio"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Piel Mucosa",
+                    "desc": "Al ser atacado mientras posee un Escudo, inflige 1 de [Sinking] en el atacante",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ahí, Ahí Están",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tenemos Compañía, Chicos",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Orden de Batalla",
+                    "desc": "[WhenUse] Gana 5 de [Breath] este turno",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aplica 2 de [Protection], 1 Poder de Ataque Aumentado a todos los aliados el próximo turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡Punto Débil Expuesto! ¡Disparen!",
+                    "desc": "Si el objetivo tiene 5+ de <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrado</color></link></u>, Poder de Choque +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Inflige 4 de [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 3 Contador de [Laceration]\nInflige daño adicional equivalente al <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Sangrado</color></link></u> en el objetivo"
+                                },
+                                {
+                                    "desc": "Gasta 1 de [Ammo]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Evadir",
+                    "desc": "[OnSucceedEvade] Gana 5 de [Breath] el siguiente turno.\n[OnSucceedEvade] Aplica 2 de [Breath] a todos los aliados el siguiente turno.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Saqueo",
+                    "desc": "[WinDuel] Copia el Poder de Moneda de la Habilidad 3 del objetivo y la Cantidad de Monedas para usar como si fuesen suyas",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

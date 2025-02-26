@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 9011001,
+      "name": "Golpe Fuerte",
+      "desc": "Tras Golpear, inflige 1 Sangrado (3 veces por turno)"
+    },
+    {
+      "id": 9011002,
+      "name": "Corte Profundo",
+      "desc": "Choque Ganado: inflige +1 Contador de Sangrado"
+    },
+    {
+      "id": 9011301,
+      "name": "Excavar Surco",
+      "desc": "Inflige +1 Sangrado cuando una Habilidad de Ataque inflige Sangrado"
+    },
+    {
+      "id": 9101301,
+      "name": "Espada de la Nube Oscura",
+      "desc": "Poder Final de la Habilidad Cortante +1"
+    },
+    {
+      "id": 9101302,
+      "name": "Limpieza",
+      "desc": "Cuando un aliado es derrotado, gana 1 Ranura de Habilidad el siguiente turno (Puede tener hasta 5 Ranuras máx)"
+    }
+  ]
+}

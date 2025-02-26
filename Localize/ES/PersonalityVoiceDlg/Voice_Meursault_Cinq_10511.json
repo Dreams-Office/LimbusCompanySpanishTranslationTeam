@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10511_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "La entrevista de hoy termina aquí. Por favor dirija cualquier pregunta adicional al Departamento de Relaciones Públicas de la Asociación Cinq del Oeste."
+        },
+        {
+            "id": "lobby_morning_10511_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Buenos días. Este momento del día está normalmente reservado para las sesiones de entrenamiento matutino de la Asociación. Ya que una entrevista suele requerir una significativa cantidad de tiempo y atención total, me gustaría solicitar que la posterguemos hasta después de que el entrenamiento sea completado."
+        },
+        {
+            "id": "lobby_noon_10511_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "¿No almorzará con ellos? Llegadas las tres horas y catorce minutos de nuestra discusión respecto a nuestro 'curriculum', todos los demás ya se retiraron de la entrevista para almorzar, así que..."
+        },
+        {
+            "id": "lobby_night_10511_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "No hago transmisiones en horas nocturnas. Aunque una no significante porción de mis espectadoras han solicitado tal horario, es difícil determinar que beneficios podrían conseguirse transmitiendo la vida privada de uno."
+        },
+        {
+            "id": "smalltalk_10511_1",
+            "desc": "Charla #1",
+            "dlg": "Debe estarse refiriendo a las transmisiones en vivo de mis duelos. Su propósito tiene menos que ver con publicidad, y más con permitir que un grupo anónimo de examinadores analicen mis movimientos y técnicas.\nLa fría e indiferente mirada de la multitud anónima es beneficiosa para conseguir una perspectiva objetiva de uno mismo."
+        },
+        {
+            "id": "smalltalk_10511_2",
+            "desc": "Charla #2",
+            "dlg": "Cada Cinq, sin importar que rama, tiene la misma base. Derrota a tu oponente mediante un duelo y haz que se arrodillen o ejecútalos. Es así de simple."
+        },
+        {
+            "id": "smalltalk_10511_3",
+            "desc": "Charla #3",
+            "dlg": "La innegable verdad es que una significante cantidad de los contratos son emitidos gracias a la publicidad amasada mediante transmisiones y a que ofrecen cierto grado de conveniencia.\nTambién se dice que la rama del sur frecuentemente patrulla las Callejuelas para descubrir posibles nuevos clientes. ...Mm. Tal método parece ser bastante ineficaz."
+        },
+        {
+            "id": "smalltalk_10511_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "No es sorpresa que mis movimientos no puedan ser seguidos a simple vista. Ese es precisamente el propósito de mi entrenamiento, al fin y al cabo.\nRevisitar transmisiones pasadas es recomendado para aquellos que quieran pausar sus contenidos para analizar la técnica de cerca."
+        },
+        {
+            "id": "smalltalk_10511_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "La Asociación Öufi ha notariado esta actividad y el consentimiento del oponente está en pie. ¿Será este un duelo a muerte o simplemente uno para determinar quien es el mejor espadachín?\nComenzará una vez que la respuesta sea dada. Tiene tanto tiempo como desee para pensar en ello."
+        },
+        {
+            "id": "neglect_10511_1",
+            "desc": "Inactivo",
+            "dlg": "...Ah, puede que este sea un buen momento para continuar con la entrevista. ¿Deberíamos de continuar desde la página ciento diez del manual de duelo Cinq?"
+        },
+        {
+            "id": "gacksung_10511_1",
+            "desc": "Aunando",
+            "dlg": "Un momento, por favor. Usted observará ahora mismo la demostración de un duelo; la entrevista puede continuar posteriormente."
+        },
+        {
+            "id": "formation_10511_1",
+            "desc": "Desplegar",
+            "dlg": "Un contrato, entonces."
+        },
+        {
+            "id": "battleentry_10511_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Esto será transmitido en vivo como siempre."
+        },
+        {
+            "id": "battle_select_10511_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Actualmente concentrado."
+        },
+        {
+            "id": "battle_endcommand_10511_1",
+            "desc": "Al Atacar",
+            "dlg": "Attaque."
+        },
+        {
+            "id": "battle_enemy_break_10511_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "De pie. Este duelo no ha terminado."
+        },
+        {
+            "id": "battle_break_10511_1",
+            "desc": "Aturdido",
+            "dlg": "Hm. 'Rompre'."
+        },
+        {
+            "id": "battle_kill_10511_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Un buen encuentro."
+        },
+        {
+            "id": "battle_dead_10511_1",
+            "desc": "Muerte",
+            "dlg": "Con que... no fue suficiente... Quizá esta derrota podría ser... analizada... en un video..."
+        },
+        {
+            "id": "choice_success_p_10511_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Así es como se maneja una situación así, espectadores."
+        },
+        {
+            "id": "choice_fail_n_10511_1",
+            "desc": "Juicio Fallido",
+            "dlg": "¿Hay alguno de mis espectadores que sepa la respuesta...?"
+        },
+        {
+            "id": "battle_clear_10511_1",
+            "desc": "Grito de Victoria",
+            "dlg": "No hubo nada fuera de lo ordinario en respecto al horario de hoy. Un momento de crisis seguido de una victoria conclusiva. Es lamentable que la multitud anónima no tenga mucho contenido que consumir de eso."
+        },
+        {
+            "id": "battle_clear_ex_10511_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Una victoria abrumadora. Creo que mi habilidad con la espada ha crecido mucho desde mi anterior intento. Esto definitivamente resultará en un incremento de espectadores."
+        },
+        {
+            "id": "battle_defeat_10511_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Tal derrota no era el resultado esperado. Sin embargo, ya que el motivo de esta derrota puede ser revisado y analizado, se podría decir que esta contienda ha traído consigo un resultado positivo."
+        }
+    ]
+}

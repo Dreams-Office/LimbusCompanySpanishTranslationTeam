@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_11010_1",
+      "desc": "Al Adquirir Identidad",
+      "dlg": "Rescataremos al superviviente como lo solicitó, así que... ¿podría dejar de apuntarme con el dedo...?"
+    },
+    {
+      "id": "lobby_morning_11010_1",
+      "desc": "Saludo Mañanero",
+      "dlg": "...¡¿Y-ya es de mañana?! Tengo que correr si quiero ponerme el uniforme y llegar a tiempo a la asamblea matutina—"
+    },
+    {
+      "id": "lobby_noon_11010_1",
+      "desc": "Saludo de Mediodía",
+      "dlg": "Hay mucho papeleo por hacer. Con un poco de suerte podremos encargarnos de este proceso antes de que el sol se esconda... Apresurémonos."
+    },
+    {
+      "id": "lobby_night_11010_1",
+      "desc": "Saludo Nocturno",
+      "dlg": "Nunca se es demasiado precavido al tomar contratos de rescate a altas horas de la noche. A menudo termina poniéndonos en peligro a nosotros también."
+    },
+    {
+      "id": "smalltalk_11010_1",
+      "desc": "Charla #1",
+      "dlg": "Los Caballeros de Zwei llevan estas armaduras llamativas no solo porque es nuestro uniforme... También porque desvía la atención de nuestros clientes cuando la situación se sale de control.\nY aquí estaba yo, pensando que esta capa era molesta... Supongo que todo tiene una razón de ser."
+    },
+    {
+      "id": "smalltalk_11010_2",
+      "desc": "Charla #2",
+      "dlg": "Me dí cuenta de algo cada vez que voy a operaciones conjuntas con Fixers de otras Asociaciones... Es que a la mayoría de la gente no le interesa proteger o salvar a alguien.\nSé que nosotros solo nos movemos cuando nos pagan, pero... nuestra Asociación es la mejor cuando se trata de proteger a sus clientes."
+    },
+    {
+      "id": "smalltalk_11010_3",
+      "desc": "Charla #3",
+      "dlg": "A veces recibimos contratos que están claramente por encima de nuestra paga. Odio tomar esos contratos, pero...\nSi nos pagan lo suficiente, los Fixers de Zwei no tenemos más opción que hacer lo que nuestra Asociación nos diga."
+    },
+    {
+      "id": "smalltalk_11010_4",
+      "desc": "Charla Post-Aunamiento 1",
+      "dlg": "Me odio a mí mismo por haberme acostumbrado a ver gente morir a mi alrededor. Lo sé, no tengo otra opción. Pero...\n... No. No puedo ser tan débil de voluntad... No podré proteger nada así. Justo como ese día..."
+    },
+    {
+      "id": "smalltalk_11010_5",
+      "desc": "Charla Post-Aunamiento 2",
+      "dlg": "No creo que haya nada malo en desearle seguridad a todos.\nEs solo que es... imposible. Es la Ciudad. Ni siquiera podemos proteger a nuestros seres queridos."
+    },
+    {
+      "id": "neglect_11010_1",
+      "desc": "Inactivo",
+      "dlg": "... ¿Ah? ¡E-ey! ¡Por favor, no te vayas por ahí por tu cuenta!"
+    },
+    {
+      "id": "gacksung_11010_1",
+      "desc": "Aunando",
+      "dlg": "No te preocupes. Tú eres mi objetivo... así que te protegeré sin importar que."
+    },
+    {
+      "id": "formation_11010_1",
+      "desc": "Desplegar",
+      "dlg": "Misión... confirmada."
+    },
+    {
+      "id": "battleentry_11010_1",
+      "desc": "Entrada a Escena",
+      "dlg": "Así, esta gran espada se convierte en tu ataque y tu defensa..."
+    },
+    {
+      "id": "battle_select_11010_1",
+      "desc": "Vista en Batalla",
+      "dlg": "¿Pensé que había entregado todo lo que debía...? ¿Qué ocurre?"
+    },
+    {
+      "id": "battle_endcommand_11010_1",
+      "desc": "Al Atacar",
+      "dlg": "¡Asegurando al cliente...!"
+    },
+    {
+      "id": "battle_enemy_break_11010_1",
+      "desc": "Aturdir al Enemigo",
+      "dlg": "¡Ponte detrás de mí, ahora...!"
+    },
+    {
+      "id": "battle_break_11010_1",
+      "desc": "Aturdido",
+      "dlg": "Nngh..."
+    },
+    {
+      "id": "battle_kill_11010_1",
+      "desc": "Enemigo Asesinado",
+      "dlg": "Excluyendo a individuos de alto riesgo..."
+    },
+    {
+      "id": "battle_dead_11010_1",
+      "desc": "Muerte",
+      "dlg": "Estaré bien... solo corre... Vete lo más lejos que puedas..."
+    },
+    {
+      "id": "choice_success_p_11010_2",
+      "desc": "Juicio Exitoso",
+      "dlg": "Puedo proteger a una persona más, sí... Pero solo esta vez, ¿okey? No puedo hacer esto de nuevo."
+    },
+    {
+      "id": "choice_fail_n_11010_1",
+      "desc": "Juicio Fallido",
+      "dlg": "... Lo lamento. Esto no era parte de mi contrato."
+    },
+    {
+      "id": "battle_clear_11010_1",
+      "desc": "Grito de Victoria",
+      "dlg": "Sufrimos algunas pérdidas, pero... supongo que no se podía evitar. Un escudo solo puede proteger hasta cierto punto."
+    },
+    {
+      "id": "battle_clear_ex_11010_1",
+      "desc": "Condiciones EX Cumplidas",
+      "dlg": "De verdad rescatamos a todos. Supongo que los días de trabajo duro si que dan frutos... a veces."
+    },
+    {
+      "id": "battle_defeat_11010_1",
+      "desc": "Llanto de Derrota",
+      "dlg": "Nosotros... fallamos el contrato. No pude proteger a nadie... Están... todos muertos..."
+    }
+  ]
+}

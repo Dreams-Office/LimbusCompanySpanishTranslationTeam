@@ -1,0 +1,807 @@
+{
+  "dataList": [
+    {
+      "id": 2090111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lo Que Fue Arrojado",
+          "abName": "Rodion",
+          "desc": "Si el HP del objetivo está sobre 50%, Inflige +10% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lo Que Fue Arrojado",
+          "abName": "Rodion",
+          "desc": "Si el HP del objetivo está sobre 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lo Que Fue Arrojado",
+          "abName": "Rodion",
+          "desc": "Si el HP del objetivo está sobre 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana +2 Eficiencia de Curación PC el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana -2 Eficiencia de Perdida PC el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a la Ira el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": " Llama del 4to Fósforo",
+          "abName": "Chica Chamuscada",
+          "desc": "[CantIdentify]\nSelecciona objetivo aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 6 de [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a la Ira el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "Si el HP del objetivo está sobre 50%, Inflige +10% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "Si el HP del objetivo está sobre 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "Si el HP del objetivo está sobre 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]\n[OnSucceedAttack] Inflige 5 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el mayor HP\nSi el HP del objetivo está sobre 50%, Inflige +10% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +4 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el mayor HP\nSi el HP del objetivo está sobre 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +6 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Puente Escarchado",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nSelecciona a la unidad con el mayor HP\nSi el HP del objetivo está sobre 50%, Inflige +30% de daño",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 10 de [Sinking]\n[OnSucceedAttack] Inflige +8 Contador de [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corrosión Efervescente",
+          "abName": "Perla Deambulante",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Corrosión Efervescente",
+          "abName": "Perla Deambulante",
+          "desc": "[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +5 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Corrosión Efervescente",
+          "abName": "Perla Deambulante",
+          "desc": "[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1;\nSi el objetivo principal tiene 75%+ de HP, Alcance de Atq +1 adicional",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +7 Contador de [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corrosión Efervescente",
+          "abName": "Perla Deambulante",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura 30% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Corrosión Efervescente",
+          "abName": "Perla Deambulante",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura 30% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 Nivel Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Corrosión Efervescente",
+          "abName": "Perla Deambulante",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Si el objetivo principal tiene 50%+ de HP, Alcance de Atq +1;\nSi el objetivo principal tiene 75%+ de HP, Alcance de Atq +1 adicional",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura 30% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 5 Nivel Defensivo Reducido"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragilidad a la Pereza el siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Cura a 2 otros aliados con el porcentaje de HP más bajo por 15% del HP Máx de esta unidad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 Fragilidad a la Pereza el siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Cura a 2 otros aliados con el porcentaje de HP más bajo por 25% del HP Máx de esta unidad"
+                },
+                {
+                  "desc": "[EndSkillHead] Si el objetivo es Aturdido o Derrotado, aplica 10% del HP Máx de esta unidad como Escudo a los aliados que curo esta unidad"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a la Pereza el siguiente turno"
+                },
+                {
+                  "desc": "[EndSkill] Cura a 2 otros aliados con el porcentaje de HP más bajo por 30% del HP Máx de esta unidad"
+                },
+                {
+                  "desc": "[EndSkillHead] Si el objetivo es Aturdido o Derrotado, aplica 15% del HP Máx de esta unidad como Escudo a los aliados que curo esta unidad"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 daño de PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] At 50%- HP, Alcance de Atq +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 20 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Si el objetivo es Aturdido o Derrotado, cura 5 PC"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Prosecución",
+          "abName": "Escriba del Ejecutor Celestial",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] At 50%- HP, Alcance de Atq +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Provoca [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 20 daño de PC"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo es Aturdido o Derrotado, cura 7 PC"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deseo Sangriento",
+          "abName": "Los Zapatos Rojos",
+          "desc": "Poder de Moneda +1 por cada 2 de [Laceration] en el objetivo (máx 6)\n[StartBattle] El objetivo principal de esta Habilidad no pierde Contador de [Laceration] por este turno.\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Inflige daño de Afinidad de Lujuria igual a Potencia de [Laceration] en el objetivo.\n- Con 4+ Reson. de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x 1.2).\n(Solo hasta 99 Potencia de [Laceration] será usado para calcular por esta Habilidad.)",
+                  "summary": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria basado en de [Laceration] en el objetivo"
+                },
+                {
+                  "desc": "[EnemyKill] Si esta Habilidad o sus efectos de Moneda infligen daño que excede los HP restantes del objetivo(En Encuentros Centrados, del Núcleo), inflige el exceso de daño como daño fijo entre todos los enemigos.",
+                  "summary": "[EnemyKill] Inflige el exceso de daño entre todos los enemigos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Deseo Sangriento",
+          "abName": "Los Zapatos Rojos",
+          "desc": "Poder de Moneda +1 por cada 2 de [Laceration] en el objetivo (máx <style=\"highlight\">9</style>)\n[StartBattle] El objetivo principal de esta Habilidad no pierde Contador de [Laceration] por este turno.\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria igual a <style=\"highlight\">(Potencia de [Laceration] en el objetivo x 1.2)</style>.\n- Con 4+ Reson. de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- Con 4+ Reson.-A de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x 1.8).</style>\n(Solo hasta 99 Potencia de [Laceration] será usado para calcular por esta Habilidad.)",
+                  "summary": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria basado en de [Laceration] en el objetivo"
+                },
+                {
+                  "desc": "[EnemyKill] Si esta Habilidad o sus efectos de Moneda infligen daño que excede los HP restantes del objetivo(En Encuentros Cetrnados, del Núcleo), inflige el exceso de daño como daño fijo entre todos los enemigos.",
+                  "summary": "[EnemyKill] Inflige el exceso de daño entre todos los enemigos."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Deseo Sangriento",
+          "abName": "Los Zapatos Rojos",
+          "desc": "Poder de Moneda +1 por cada 2 de [Laceration] en el objetivo (máx <style=\"highlight\">13</style>)\n[StartBattle] El objetivo principal de esta Habilidad no pierde Contador de [Laceration] por este turno.\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria igual a (Potencia de [Laceration] en el objetivo x <style=\"highlight\">1.5</style>).\n- Con 4+ Reson. de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x <style=\"highlight\">1.8</style>).\n- Con 4+ Reson.-A de Lujuria, Inflige daño de Afinidad de Lujuria igual a  (Potencia de [Laceration] en el objetivo x <style=\"highlight\">2</style>).\n(Solo hasta 99 Potencia de [Laceration] será usado para calcular por esta Habilidad.)",
+                  "summary": "[OnSucceedAttack] Inflige daño de Afinidad de Lujuria basado en de [Laceration] en el objetivo"
+                },
+                {
+                  "desc": "[EnemyKill] Si esta Habilidad o sus efectos de Moneda infligen daño que excede los HP restantes del objetivo(En Encuentros Cetrnados, del Núcleo), inflige el exceso de daño como daño fijo entre todos los enemigos.",
+                  "summary": "[EnemyKill] Inflige el exceso de daño entre todos los enemigos."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deseo Sangriento",
+          "abName": "Los Zapatos Rojos",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (# de la Reson.más alta - 2) Alcance de Atq (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige (2 + (Reson. de Lujuria)) de [Laceration]\n(Máxima Reson. de Lujuria tomada en cuenta : 4)",
+                  "summary": "[OnSucceedAttack] Inflige (2 + (Reson. de Lujuria)) de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Deseo Sangriento",
+          "abName": "Los Zapatos Rojos",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (# de la Reson.más alta - 2) Alcance de Atq (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige (<style=\"highlight\">3</style> + (Reson. de Lujuria)) de [Laceration]\n(Máxima Reson. de Lujuria tomada en cuenta : <style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] Inflige (3 + (Reson. de Lujuria)) de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Deseo Sangriento",
+          "abName": "Los Zapatos Rojos",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\n[BeforeAttack] Gana (# de la Reson.más alta - 2) Alcance de Atq (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige (<style=\"highlight\">4</style> + (Reson. de Lujuria)) de [Laceration]\n(Máxima Reson. de Lujuria tomada en cuenta : <style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] Inflige (4 + (Reson. de Lujuria)) de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +<style=\"highlight\">3</style> Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[EndSkill] Cura a sí misma y a 2 otros aliados con el menor porcentaje de HP por 12.5% del HP Máx de esta unidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[EndSkill] Cura a sí misma y a 2 otros aliados con el menor porcentaje de HP por 12.5% del HP Máx de esta unidad\n<style=\"highlight\">- Cada unidad que fue curada se cura +2.5% de HP por cada 2 efectos negativos en sí (máx 7.5)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[EndSkill] Cura a sí misma y a 2 otros aliados con el menor porcentaje de HP por <style=\"highlight\">15%</style> del HP Máx de esta unidad\n- Cada unidad que fue curada se cura +2.5% de HP por <style=\"highlight\">cada</style> efecto negativo en sí (máx <style=\"highlight\">10%</style>)\n<style=\"highlight\">- Con 4+ Reson. de Envidia incluyendo esta Habilidad, cura 1 aliado adicional</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">4</style> de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona Objetivo Aleatoriamente\n[EndSkill] Cura a 3 otros aliados con el menor porcentaje de HP por 15% del HP Máx de esta unidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona Objetivo Aleatoriamente\n[EndSkill] Cura a 3 otros aliados con el menor porcentaje de HP por 15% del HP Máx de esta unidad\n<style=\"highlight\">- Cada unidad que recibió curación gana 1 [AttackUp] hasta el siguiente turno (máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Alfiler Maldito",
+          "abName": "Osito de Peluche Lastimado",
+          "desc": "[CantIdentify]\nSelecciona Objetivo Aleatoriamente\n[EndSkill] Cura a 3 otros aliados con el menor porcentaje de HP por <style=\"highlight\">20%</style> del HP Máx de esta unidad\n- Cada unidad que recibió curación gana 1 [AttackUp] hasta el siguiente turno por <style=\"highlight\">cada</style> efecto negativo en ellos (máx <style=\"highlight\">3</style>)\n<style=\"highlight\">- Con 4+ Reson. de Envidia incluyendo esta Habilidad, cura 1 aliado adicional</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">4</style> de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Inflige <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

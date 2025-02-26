@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "KeptBlood",
+      "name": "Reserva de Sangre",
+      "desc": "- Valor Máx: 10\n- Pierde 1 valor cada vez que esta unidad pierda 5% de HP.\n- Tras Golpear, cura 1% del HP de esta unidad.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyCrave",
+      "name": "Antojo Sanguinario",
+      "desc": "- Gana 1 Poder de Choque Aumentado y Daño Aumentado cada turno\n- Tras Golpear, gana 1 Reserva de Sangre\n- Si esta unidad no ganó Reserva de Sangre este turno, gana 2 Frágil, 1 Rapidez y 4 Nivel Ofensivo Aumentado el siguiente turno en lugar del efecto previo.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_LowMorale",
+      "name": "Sed de Sangre",
+      "desc": "Inicio de Turno: Gana 1 Frágil y Daño Aumentado",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_Panic",
+      "name": "Sed de Sangre",
+      "desc": "Inicio de Turno: Gana 2 Frágil y Daño Aumentado",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HardenedBlood",
+      "name": "Sangre Coagulada",
+      "desc": "Gana Nivel Ofensivo y Nivel Defensivo igual al valor (máx. 5)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

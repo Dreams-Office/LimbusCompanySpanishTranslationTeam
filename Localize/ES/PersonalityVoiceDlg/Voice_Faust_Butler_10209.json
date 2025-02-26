@@ -1,0 +1,124 @@
+{
+    "dataList": [
+        {
+            "id": "get_10209_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Discúlpeme.  Aquí tiene una taza de té de la tarde, cortesía de esta casa.\nPor favor, disfrute de su tiempo aquí."
+        },
+        {
+            "id": "lobby_morning_10209_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Hemos preparado una simple crema para untar y un vaso de vino para su desayuno. Por favor, relájese y disfrute, una taza de té negro será proporcionada después de esta comida."
+        },
+        {
+            "id": "lobby_noon_10209_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Esta mansión raramente consigue algo de sol. Combustible fue añadido a la estufa de leña por ordenes de la Ama de Llaves Outis. Caliéntese junto al fuego, si así lo quiere."
+        },
+        {
+            "id": "lobby_night_10209_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Un cálido y grueso edredón de plumas de pato a sido preparado en anticipación al frio. Por favor tenga una noche de descanso.\nTenemos que partir para unirnos a una reunión sobre la cacería."
+        },
+        {
+            "id": "smalltalk_10209_1",
+            "desc": "Charla #1",
+            "dlg": "La Ama de Llaves Outis conversa día y noche con la Señora en nuestro lugar. Algunas noches, su comunicación con la Señora dura hasta el amanecer."
+        },
+        {
+            "id": "smalltalk_10209_2",
+            "desc": "Charla #2",
+            "dlg": "Usted podría llegar a oír... la conmoción viniendo del sótano. Los criados están entrenando en preparación para la caza; por favor no permita que los sonidos del metal chocando preocupe su mente."
+        },
+        {
+            "id": "smalltalk_10209_3",
+            "desc": "Charla #3",
+            "dlg": "El té esta preparado usando hojas entregadas a esta ubicación por la Asociación Devyat, las cuales están infusionadas directamente sin romperse. No sería una hipérbole decir que esta variedad de té representa la mayor excelencia de Cumbres Borrascosas que ha pasado de generación en generación."
+        },
+        {
+            "id": "smalltalk_10209_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Ah, ¿el ruido lo ha molestado? Mis más sinceras disculpas. Un invitado no deseado ha aparecido en las instalaciones... y le tomó a los criados bastante esfuerzo el persuadirlo a abandonar las instalaciones.\nPor favor, espero que lo entienda."
+        },
+        {
+            "id": "smalltalk_10209_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Naturalmente, cualquier tipo de daño o manchas ocurridas en respuesta a los invitados no deseados será atendida por los excelentes criados expertos en limpieza de esta mansión.\nNo hay necesidad de que el Señor se preocupe; todo se devolverá  a como era antes."
+        },
+        {
+            "id": "neglect_10209_1",
+            "desc": "Inactivo",
+            "dlg": "... Si mi presencia molesta su deliberación, entonces el cuarto será desocupado para su uso exclusivo."
+        },
+        {
+            "id": "gacksung_10209_1",
+            "desc": "Aunando",
+            "dlg": "... Venga por aquí, querido invitado. Me disculpo por la imprudencia de todos y cualquier invitado no deseado, debemos pedirle que abandone inmediatamente las instalaciones."
+        },
+        {
+            "id": "formation_10209_1",
+            "desc": "Desplegar",
+            "dlg": "Siempre lista para ser convocada."
+        },
+        {
+            "id": "battleentry_10209_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Faust va a recibir a los invitados."
+        },
+        {
+            "id": "battle_select_10209_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¿Hay algo que no sea de tu agrado?"
+        },
+        {
+            "id": "battle_endcommand_10209_1",
+            "desc": "Al Atacar",
+            "dlg": "... Por aquí, por favor."
+        },
+        {
+            "id": "battle_enemy_break_10209_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Qué mal educado."
+        },
+        {
+            "id": "battle_break_10209_1",
+            "desc": "Aturdido",
+            "dlg": "Hup..."
+        },
+        {
+            "id": "battle_kill_10209_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Por favor abandone las instalaciones. Inmediatamente."
+        },
+        {
+            "id": "battle_dead_10209_1",
+            "desc": "Muerte",
+            "dlg": "Mis más sinceras disculpas, Señora Outis, Señorita. He fallado en completar mis... tareas..."
+        },
+        {
+            "id": "choice_success_p_10209_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Sencillo."
+        },
+        {
+            "id": "choice_fail_n_10209_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Estas deficiencias fueron imprevistas..."
+        },
+        {
+            "id": "battle_clear_10209_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Los invitados no deseados han sido tratados propiamente. Un par de posibles puntos de falla para la cacería han sido detectados. Serán informados."
+        },
+        {
+            "id": "battle_clear_ex_10209_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Una respuesta perfecta. Dejemos que este éxito nos inspire a liderar la cacería de la Ama de Llaves a la victoria."
+        },
+        {
+            "id": "battle_defeat_10209_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Mis más sinceras disculpas; nuestra respuesta estuvo muy lejos de ser aceptable. ...Trataré de no decepcionarlo."
+        }
+    ]
+}
