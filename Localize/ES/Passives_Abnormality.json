@@ -25,7 +25,7 @@
     {
       "id": 800105,
       "name": "Raíz Solitaria",
-      "desc": "Las Raíces ganan 2 Poder de Ataque Aumentado por cada Brazo intacto."
+      "desc": "Las Raíces ganan 2 Poder Ofensivo Aumentado por cada Brazo intacto."
     },
     {
       "id": 800201,
@@ -85,7 +85,7 @@
     {
       "id": 800903,
       "name": "Manzana Podrida",
-      "desc": "Luego de que el cuerpo sea destruido, a todas las partes se les inflige 2 Poder de Ataque Reducido cada turno."
+      "desc": "Luego de que el cuerpo sea destruido, a todas las partes se les inflige 2 Poder Ofensivo Reducido cada turno."
     },
     {
       "id": 800904,
@@ -125,7 +125,7 @@
     {
       "id": 802401,
       "name": "Brazos Pulsantes",
-      "desc": "Al inicio del turno, gana Poder de Ataque Aumentado y Protección según el Contador de Instintos."
+      "desc": "Al inicio del turno, gana Poder Ofensivo Aumentado y Protección según el Contador de Instintos."
     },
     {
       "id": 802402,
@@ -150,7 +150,7 @@
     {
       "id": 802502,
       "name": "Frenesí",
-      "desc": "En estado de Frenesí, esta unidad gana 3 Poder de Ataque Aumentado y 3 Frágil, cambia de comportamiento, y no gana Instintos al ser atacado."
+      "desc": "En estado de Frenesí, esta unidad gana 3 Poder Ofensivo Aumentado y 3 Frágil, cambia de comportamiento, y no gana Instintos al ser atacado."
     },
     {
       "id": 802503,
@@ -165,7 +165,7 @@
     {
       "id": 802702,
       "name": "Frenesí",
-      "desc": "En estado de Frenesí, esta unidad gana 3 Poder de Ataque Aumentado y 3 Frágil, cambia de comportamiento, y no gana Instintos al ser atacado."
+      "desc": "En estado de Frenesí, esta unidad gana 3 Poder Ofensivo Aumentado y 3 Frágil, cambia de comportamiento, y no gana Instintos al ser atacado."
     },
     {
       "id": 802801,
@@ -200,12 +200,12 @@
     {
       "id": 802902,
       "name": "Valor para Triunfar ante el Miedo",
-      "desc": "Si se han recolectado 3 o más de Una Marca, Sinclair gana 1 Poder de Ataque Aumentado y 2 Protección cada turno."
+      "desc": "Si se han recolectado 3 o más de Una Marca, Sinclair gana 1 Poder Ofensivo Aumentado y 2 Protección cada turno."
     },
     {
       "id": 802903,
       "name": "¡Debes Aceptar el Dolor!",
-      "desc": "Al inicio del turno, si una parte no rota tiene Sangrado o Quemadura, cura 15% del HP Máx y gana 3 Poder de Ataque Aumentado.\nLa curación y efectos de estado ganados se reducen según el número de Una Marca, hasta 0."
+      "desc": "Al inicio del turno, si una parte no rota tiene Sangrado o Quemadura, cura 15% del HP Máx y gana 3 Poder Ofensivo Aumentado.\nLa curación y efectos de estado ganados se reducen según el número de Una Marca, hasta 0."
     },
     {
       "id": 802904,
@@ -219,13 +219,13 @@
     },
     {
       "id": 803002,
-      "name": "Pureza Floreciente",
-      "desc": "Si el cuerpo principal de Kromer es llevado al 50% de HP, ella gana Pureza por el resto de turnos."
+      "name": "Completitud Floreciente",
+      "desc": "Si el cuerpo principal de Kromer es llevado al 50% de HP, ella gana Completitud por el resto de turnos."
     },
     {
       "id": 803003,
       "name": "Carne Impecable",
-      "desc": "Cuando el brazo es roto, 2 Poder de Ataque Reducido se inflige a la parte."
+      "desc": "Cuando el brazo es roto, 2 Poder Ofensivo Reducido se inflige a la parte."
     },
     {
       "id": 803101,
@@ -305,7 +305,7 @@
     {
       "id": 804104,
       "name": "Domado por los Cuernos",
-      "desc": "Cuando la cabeza se rompa, todas las partes quedan aturdidas el siguiente turno. Luego, todas las partes tendrán 3 Poder de Ataque Reducido por el resto de la batalla."
+      "desc": "Cuando la cabeza se rompa, todas las partes quedan aturdidas el siguiente turno. Luego, todas las partes tendrán 3 Poder Ofensivo Reducido por el resto de la batalla."
     },
     {
       "id": 804501,
@@ -340,7 +340,7 @@
     {
       "id": 804603,
       "name": "Último Esfuerzo",
-      "desc": "Con 15% de HP, la Velocidad de esta unidad es fijada a 1, y gana 1 Poder de Ataque Reducido.\nParaguas Viejos recién generados obtienen 30% de HP más. Usa 'Llantos en Busca de Algo' cada turno."
+      "desc": "Con 15% de HP, la Velocidad de esta unidad es fijada a 1, y gana 1 Poder Ofensivo Reducido.\nParaguas Viejos recién generados obtienen 30% de HP más. Usa 'Llantos en Busca de Algo' cada turno."
     },
     {
       "id": 804701,
@@ -375,7 +375,7 @@
     {
       "id": 804302,
       "name": "Corazón Arrinconado",
-      "desc": "Al estar en Moral Baja, gana 2 Poder de Ataque Aumentado y 3 Atadura."
+      "desc": "Al estar en Moral Baja, gana 2 Poder Ofensivo Aumentado y 3 Atadura."
     },
     {
       "id": 804303,
@@ -385,7 +385,7 @@
     {
       "id": 804304,
       "name": "Determinación",
-      "desc": "Al recuperarse del pánico, recupera PC por completo, y gana 2 Rapidez y 2 Poder de Ataque Aumentado."
+      "desc": "Al recuperarse del pánico, recupera PC por completo, y gana 2 Rapidez y 2 Poder Ofensivo Aumentado."
     },
     {
       "id": 804305,
@@ -395,7 +395,7 @@
     {
       "id": 805301,
       "name": "Corazón Cerrado",
-      "desc": "Cada que esta unidad es rota, Dongbaek recibe +5 Contador de Ahogo; y todos los Pecadores pierden 2 Contador de Ahogo; todos los Pecadores ganan 1 Protección y 2 Poder de Ataque Aumentado el siguiente turno."
+      "desc": "Cada que esta unidad es rota, Dongbaek recibe +5 Contador de Ahogo; y todos los Pecadores pierden 2 Contador de Ahogo; todos los Pecadores ganan 1 Protección y 2 Poder Ofensivo Aumentado el siguiente turno."
     },
     {
       "id": 804401,
@@ -410,7 +410,7 @@
     {
       "id": 804403,
       "name": "A Duelo",
-      "desc": "Cuando el HP cae por debajo del 50%, usa una habilidad especial para seleccionar a 1 unidad, luego se vuelve inmune a Aturdido y Pánico por los siguientes 2 turnos.\nSi Yi Sang tiene 'Duelo', Dongbaek gana 1 Poder de Ataque Aumentado.\nSi Yi Sang gana el duelo, todos los aliados ganan 3 Daño Aumentado el siguiente turno.\nSi Dongbaek gana el duelo, Dongbaek se cura los PC por completo."
+      "desc": "Cuando el HP cae por debajo del 50%, usa una habilidad especial para seleccionar a 1 unidad, luego se vuelve inmune a Aturdido y Pánico por los siguientes 2 turnos.\nSi Yi Sang tiene 'Duelo', Dongbaek gana 1 Poder Ofensivo Aumentado.\nSi Yi Sang gana el duelo, todos los aliados ganan 3 Daño Aumentado el siguiente turno.\nSi Dongbaek gana el duelo, Dongbaek se cura los PC por completo."
     },
     {
       "id": 804404,
@@ -445,7 +445,7 @@
     {
       "id": 805601,
       "name": "Vanidad Radiante",
-      "desc": "Cuando esta unidad está presente, Dongrang gana 1 Protección y 1 Poder de Ataque Aumentado al inicio de cada turno."
+      "desc": "Cuando esta unidad está presente, Dongrang gana 1 Protección y 1 Poder Ofensivo Aumentado al inicio de cada turno."
     },
     {
       "id": 805602,
@@ -460,7 +460,7 @@
     {
       "id": 805701,
       "name": "Fructificación",
-      "desc": "La unidad que derrotó a esta unidad se cura el 5% de HP Máx, y gana 1 Rapidez y 1 Poder de Ataque Aumentado el siguiente turno."
+      "desc": "La unidad que derrotó a esta unidad se cura el 5% de HP Máx, y gana 1 Rapidez y 1 Poder Ofensivo Aumentado el siguiente turno."
     },
     {
       "id": 805001,
@@ -485,7 +485,7 @@
     {
       "id": 805006,
       "name": "Juicio Ineficiente",
-      "desc": "Al recuperarse de aturdimiento, gana 1 Poder de Ataque Aumentado."
+      "desc": "Al recuperarse de aturdimiento, gana 1 Poder Ofensivo Aumentado."
     },
     {
       "id": 805007,
@@ -510,7 +510,7 @@
     {
       "id": 805802,
       "name": "Base Expuesta",
-      "desc": "Cuando la parte de hada es rota, las raíces pueden ser atacadas el siguiente turno.\nTodas las partes ganan 1 Poder de Ataque Aumentado, 2 Atadura y 3 Frágil el siguiente turno."
+      "desc": "Cuando la parte de hada es rota, las raíces pueden ser atacadas el siguiente turno.\nTodas las partes ganan 1 Poder Ofensivo Aumentado, 2 Atadura y 3 Frágil el siguiente turno."
     },
     {
       "id": 805803,
@@ -535,7 +535,7 @@
     {
       "id": 805902,
       "name": "Medios Perdidos",
-      "desc": "Cuando un brazo es roto, esta unidad gana 2 Poder de Ataque Reducido el siguiente turno."
+      "desc": "Cuando un brazo es roto, esta unidad gana 2 Poder Ofensivo Reducido el siguiente turno."
     },
     {
       "id": 805903,
@@ -545,12 +545,12 @@
     {
       "id": 806201,
       "name": "Hoja Contaminante",
-      "desc": "Al inicio del turno, da 1 Potenciador de Curación HP y 1 Poder de Ataque Aumentado a Hada Piernas Largas."
+      "desc": "Al inicio del turno, da 1 Potenciador de Curación HP y 1 Poder Ofensivo Aumentado a Hada Piernas Largas."
     },
     {
       "id": 80620101,
       "name": "Hoja Contaminante",
-      "desc": "Al inicio del turno, da 1 Potenciador de Curación HP y 1 Poder de Ataque Aumentado a Hada Piernas Largas."
+      "desc": "Al inicio del turno, da 1 Potenciador de Curación HP y 1 Poder Ofensivo Aumentado a Hada Piernas Largas."
     },
     {
       "id": 826301,

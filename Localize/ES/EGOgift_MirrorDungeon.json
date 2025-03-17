@@ -1218,7 +1218,7 @@
     {
       "id": 9048,
       "name": "Cuchilla Oxidada",
-      "desc": "Al infligir Potencia de [Laceration] o 'Sangrado Único' con efectos de Habilidad a enemigos no aturdidos, inflige 1 Potencia de [Laceration] y +1 Contador de [Laceration.\n\nSi la Afinidad de la Habilidad era Lujuria, inflige 3 Potencia de [Laceration] y +1 Contador de [Laceration] en su lugar.",
+      "desc": "Al infligir Potencia de [Laceration] o 'Sangrado Único' con efectos de Habilidad a enemigos no aturdidos, inflige 1 Potencia de [Laceration] y +1 Contador de [Laceration].\n\nSi la Afinidad de la Habilidad era Lujuria, inflige 3 Potencia de [Laceration] y +1 Contador de [Laceration] en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9048,
@@ -1233,7 +1233,7 @@
     {
       "id": 19048,
       "name": "Cuchilla Oxidada+",
-      "desc": "Al infligir Potencia de [Laceration] o 'Sangrado Único' con efectos de Habilidad a enemigos no aturdidos, inflige <style=\"upgradeHighlight\"> 2 Potencia de [Laceration]</style> y +1 Contador de [Laceration.\n\nSi la Afinidad de la Habilidad era Lujuria, inflige 3 Potencia de [Laceration] y +1 Contador de [Laceration] en su lugar.",
+      "desc": "Al infligir Potencia de [Laceration] o 'Sangrado Único' con efectos de Habilidad a enemigos no aturdidos, inflige <style=\"upgradeHighlight\"> 2 Potencia de [Laceration]</style> y +1 Contador de [Laceration].\n\nSi la Afinidad de la Habilidad era Lujuria, inflige 3 Potencia de [Laceration] y +1 Contador de [Laceration] en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 19048,
@@ -1248,7 +1248,7 @@
     {
       "id": 29048,
       "name": "Cuchilla Oxidada++",
-      "desc": "Al infligir Potencia de [Laceration] o 'Sangrado Único' con efectos de Habilidad a enemigos no aturdidos, inflige <style=\"upgradeHighlight\"> 3 Potencia de [Laceration]</style> y +1 Contador de [Laceration.\n\nSi la Afinidad de la Habilidad era Lujuria, inflige 3 Potencia de [Laceration] y <style=\"upgradeHighlight\"> +2 Contador de [Laceration]</style> en su lugar.",
+      "desc": "Al infligir Potencia de [Laceration] o 'Sangrado Único' con efectos de Habilidad a enemigos no aturdidos, inflige <style=\"upgradeHighlight\"> 3 Potencia de [Laceration]</style> y +1 Contador de [Laceration].\n\nSi la Afinidad de la Habilidad era Lujuria, inflige 3 Potencia de [Laceration] y <style=\"upgradeHighlight\"> +2 Contador de [Laceration]</style> en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 29048,
@@ -1308,7 +1308,7 @@
     {
       "id": 9050,
       "name": "Gossypium Empapado de Rojo",
-      "desc": "Inicio del Primer Turno de un Encuentro: inflige 1 Potencia de [Laceration] y +15 Contador de [Laceration] a todos los enemigos (o a todas las partes de Anormalidades).\n\nTInicio del Turno: enemigos con Potencia de [Laceration] pierden (Potencia de [Laceration]/3) 'Nivel Ofensivo' y 'Nivel Defensivo' por el resto del turno. (Máximo valor al acumular 30 Potencia de [Laceration)",
+      "desc": "Inicio del Primer Turno de un Encuentro: inflige 1 Potencia de [Laceration] y +15 Contador de [Laceration] a todos los enemigos (o a todas las partes de Anormalidades).\n\nInicio del Turno: enemigos con Potencia de [Laceration] pierden (Potencia de [Laceration]/3) 'Nivel Ofensivo' y 'Nivel Defensivo' por el resto del turno. (Máximo valor al acumular 30 Potencia de [Laceration)",
       "simpleDesc": [
         {
           "abilityID": 9050,
@@ -1323,7 +1323,7 @@
     {
       "id": 19050,
       "name": "Gossypium Empapado de Rojo+",
-      "desc": "<style=\"upgradeHighlight\"> Inicio del Primer Turno de una Ola</style> : inflige <style=\"upgradeHighlight\">2 Potencia de [Laceration]</style> y +15 Contador de [Laceration] a todos los enemigos (o a todas las partes de Anormalidades).\n\nInicio del Turno: enemigos con Potencia de [Laceration] pierden (Potencia de [Laceration]/3) 'Nivel Ofensivo' y 'Nivel Defensivo' por el resto del turno. (Máximo valor al acumular 30 Potencia de [Laceration)",
+      "desc": "<style=\"upgradeHighlight\"> Inicio del Primer Turno de una Oleada</style> : inflige <style=\"upgradeHighlight\">2 Potencia de [Laceration]</style> y +15 Contador de [Laceration] a todos los enemigos (o a todas las partes de Anormalidades).\n\nInicio del Turno: enemigos con Potencia de [Laceration] pierden (Potencia de [Laceration]/3) 'Nivel Ofensivo' y 'Nivel Defensivo' por el resto del turno. (Máximo valor al acumular 30 Potencia de [Laceration)",
       "simpleDesc": [
         {
           "abilityID": 19050,
@@ -1338,7 +1338,7 @@
     {
       "id": 29050,
       "name": "Gossypium Empapado de Rojo++",
-      "desc": "Inicio del Primer Turno de una Ola: inflige <style=\"upgradeHighlight\"> 4 Potencia de [Laceration] y +20 Contador de [Laceration]</style> a todos los enemigos (o a todas las partes de Anormalidades).\n\nInicio del Turno: enemigos con [Laceration] pierden <style=\"upgradeHighlight\"> (Potencia de [Laceration]/2)</style> 'Nivel Ofensivo' y 'Nivel Defensivo' por el resto del turno. (Máximo valor al acumular 30 Potencia de [Laceration)",
+      "desc": "Inicio del Primer Turno de una Oleada: inflige <style=\"upgradeHighlight\"> 4 Potencia de [Laceration] y +20 Contador de [Laceration]</style> a todos los enemigos (o a todas las partes de Anormalidades).\n\nInicio del Turno: enemigos con [Laceration] pierden <style=\"upgradeHighlight\"> (Potencia de [Laceration]/2)</style> 'Nivel Ofensivo' y 'Nivel Defensivo' por el resto del turno. (Máximo valor al acumular 30 Potencia de [Laceration)",
       "simpleDesc": [
         {
           "abilityID": 29050,
@@ -1615,7 +1615,7 @@
     {
       "id": 19060,
       "name": "Deleite+",
-      "desc": "Inicio del Turno: inflige <style=\"upgradeHighlight\"> 4 Potencia de [Burst]</style> y +3 Contador de [Burst] a todos los enemigos. (o a todas las Partes de Anormalidades)\n\nFinal del Turno: Inflige (Potencia de [Burst] x Contador de [Burst]) daño de Gula a todos los enemigos con 3+ Contador de [Burst] (para Anormalidades, cada Parte se considera por individual) luego <style=\"upgradeHighlight\"> reduce el Contador de [Burst en 1</style>.",
+      "desc": "Inicio del Turno: inflige <style=\"upgradeHighlight\"> 4 Potencia de [Burst]</style> y +3 Contador de [Burst] a todos los enemigos. (o a todas las Partes de Anormalidades)\n\nFinal del Turno: Inflige (Potencia de [Burst] x Contador de [Burst]) daño de Gula a todos los enemigos con 3+ Contador de [Burst] (para Anormalidades, cada Parte se considera por individual) luego <style=\"upgradeHighlight\"> reduce el Contador de [Burst] en 1</style>.",
       "simpleDesc": [
         {
           "abilityID": 19060,
@@ -2350,7 +2350,7 @@
     {
       "id": 9088,
       "name": "Reposo Crematorio",
-      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habiliades de Ataque que aplican efectos de Potencia, Contador de [Combustion] o 'Quemadura Única'. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nFPrimer Inicio de Turno de una Oleada: inflige 3 Contador de [Combustion] a todos los enemigos (o todas las partes de Anormalidades); inflige aleatoriamente un total de 15 de Potencia de [Combustion] entre todos los enemigos (o todas las partes de Anormalidades).\n\nPara Habilidades que infligen Potencia, Contador de [Combustion] o 'Quemadura Única': Poder Final +1, Poder de Moneda +1, Potencia de [Combustion] infligida +1, Contador de [Combustion] infligido +1.\n\nAl ganar un Choque con una Habilidad que inflige Potencia de [Combustion], o 'Quemadura Única', inflige (# de las Monedas restantes + 1) de Potencia de [Combustion] al objetivo enemigo.",
+      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habiliades de Ataque que aplican efectos de Potencia, Contador de [Combustion] o 'Quemadura Única'. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nPrimer Inicio de Turno de una Oleada: inflige 3 Contador de [Combustion] a todos los enemigos (o todas las partes de Anormalidades); inflige aleatoriamente un total de 15 de Potencia de [Combustion] entre todos los enemigos (o todas las partes de Anormalidades).\n\nPara Habilidades que infligen Potencia, Contador de [Combustion] o 'Quemadura Única': Poder Final +1, Poder de Moneda +1, Potencia de [Combustion] infligida +1, Contador de [Combustion] infligido +1.\n\nAl ganar un Choque con una Habilidad que inflige Potencia de [Combustion], o 'Quemadura Única', inflige (# de las Monedas restantes + 1) de Potencia de [Combustion] al objetivo enemigo.",
       "simpleDesc": [
         {
           "abilityID": 9088,
@@ -2418,7 +2418,7 @@
       "simpleDesc": [
         {
           "abilityID": 9090,
-          "simpleDesc": "Inflige el doble de Potencia y Contador de [Laceration"
+          "simpleDesc": "Inflige el doble de Potencia y Contador de [Laceration]"
         },
         {
           "abilityID": 90901,
@@ -2690,7 +2690,7 @@
     {
       "id": 9100,
       "name": "Máquina de Movimiento Perpetuo Tipo 1",
-      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque que ganan Contador de [Carga] o 'Carga Única' (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nInicio del Primer Turno de una oleada: todos los aliados ganan 7 [ChargeForceField].\n\nFin del Turno: todos los aliados ganan 3 [ChargeForceField]  el siguiente turno.\n\nIncio de Turnot: todos los aliados ganan ((Contador de [Charge] + 'Carga Única' / 5) + 1) [AttackDmgUp]. (máx 5, redondeado hacia arriba)\n\nCada vez que una Identidad consuma 20 Contador de Carga, gana 1 Potencia de [Charge]. (2 veces por Encuentro por cada Identidad; no aplica a la 'Carga Única')",
+      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque que ganan Contador de [Carga] o 'Carga Única' (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nInicio del Primer Turno de una oleada: todos los aliados ganan 7 [ChargeForceField].\n\nFin del Turno: todos los aliados ganan 3 [ChargeForceField]  el siguiente turno.\n\nIncio de Turno: todos los aliados ganan ((Contador de [Charge] + 'Carga Únic  a' / 5) + 1) [AttackDmgUp]. (máx 9, redondeado hacia arriba)\n\nCada vez que una Identidad consuma 20 Contador de Carga, gana (Contador de [Charge] total consumida por Habilidades durante este Encuentro/ 4) de Nivel Ofensivo al Inicio del Turno (máx 10). Cada identidad gana 1 Potencia de [Charge] cada vez que se consume 20 de [Charge]. (2 veces por Encuentro por cada Identidad; no aplica a la 'Carga Única')",
       "simpleDesc": [
         {
           "abilityID": 9100,
@@ -4798,7 +4798,7 @@
     {
       "id": 9198,
       "name": "Plume of Proof",
-      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; does not stack against the same enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel' or 'Focused Attack', gain 2 Poise Potency On Hit (once per turn for each Identity)",
+      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; does not stack against the same enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Focused Attack' or Nerve Strike', gain 2 Poise Potency On Hit (once per turn for each Identity)",
       "simpleDesc": [
         {
           "abilityID": 9198,
@@ -4813,7 +4813,7 @@
     {
       "id": 19198,
       "name": "Plume of Proof+",
-      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel' or 'Focused Attack', gain 4 Poise Potency On Hit (once per turn for each Identity)",
+      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well.\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Focused Attack' or Nerve Strike', gain 4 Poise Potency On Hit (once per turn for each Identity)",
       "simpleDesc": [
         {
           "abilityID": 19198,
@@ -4828,7 +4828,7 @@
     {
       "id": 29198,
       "name": "Plume of Proof++",
-      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well. (2 times per turn for each Identity)\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel' or 'Focused Attack', gain 4 Poise Potency On Hit (2 times per turn for each Identity)",
+      "desc": "On Hit after winning a Clash with a Pierce Base Attack Skill, inflict 1 Bind against the target next turn. (once per turn for each Identity; max 2 for each enemy)\n- For Cinq Association Identities: gain 1 Haste next turn as well. (2 times per turn for each Identity)\n\nWhen a Cinq Association Identity uses a Base Attack Skill to win a Clash against targets(for Abnormalities, Parts) with 'Declared Duel', 'Focused Attack' or Nerve Strike', gain 4 Poise Potency On Hit (2 times per turn for each Identity)",
       "simpleDesc": [
         {
           "abilityID": 29198,
@@ -4888,7 +4888,7 @@
     {
       "id": 9200,
       "name": "Dueling Manual Book 3",
-      "desc": "Pierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their Declared Duel or Focused Attack, gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)",
+      "desc": "Pierce Base Attack Skills gain Clash Power +2. On Combat Start, gain [AttackUp] equal to the number of Identities who are using Pierce base Attack Skills this turn. (max 3)\n\nAllies with Pierce Attack Type for all of their base Attack Skills gain 2 [PenetrateDamageUp] at Turn Start. (except for Empowered Skills or Skills that need unique conditionals)\n\nEvade Skill Power +2. Every time an allied Identity successfully Evades 2 times within a single turn, they gain 1 [AttackDmgUp] next turn (max 3)\n\nAt Turn Start, Cinq Association Identities gain 1 [PenetrateResultUp] and 2 [PenetrateDamageUp]; if a Cinq Association Identity dealt damage On Hit against an enemy inflicted by their Declared Duel, Nerve Strike or Focused Attack, gain 2 [PenetrateDamageUp] and 1 [Agility] next turn. (once per Identity per turn)",
       "simpleDesc": [
         {
           "abilityID": 9200,

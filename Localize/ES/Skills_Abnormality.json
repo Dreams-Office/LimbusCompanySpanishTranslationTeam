@@ -1576,7 +1576,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -1929,7 +1929,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Si el HP del objetivo está por debajo del 30%, al matar y cura 30 HP\nGana 2 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Si el HP del objetivo está por debajo del 30%, al matar y cura 30 HP\nGana 2 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -1988,7 +1988,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 de Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -2009,7 +2009,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -2310,7 +2310,7 @@
         {
           "level": 1,
           "name": "Manotazo",
-          "desc": "[WhenUse] Gana 1 de Poder de Ataque Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana 1 de Poder Ofensivo Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -2440,7 +2440,7 @@
         {
           "level": 1,
           "name": "¡Cococooo!",
-          "desc": "Si el usuario no recibió daño este turno, aplica 2 Poder de Ataque Aumentado a todos los aliados el siguiente turno",
+          "desc": "Si el usuario no recibió daño este turno, aplica 2 Poder Ofensivo Aumentado a todos los aliados el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -3106,7 +3106,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Electric Release",
+          "name": "Liberar Eléctricidad",
           "desc": "[WhenUse] Gana 1 [SelfCharge]\nRealiza 10% más de daño contra objetivos con Parálisis",
           "coinlist": [
             {},
@@ -3589,7 +3589,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si esto ataca al Vino de las Hadas, se cura 10% de HP el siguiente turno, y gana 2 Poder de Ataque Aumentado, 2 de Rapidez y 2 de Protección"
+                  "desc": "[OnSucceedAttack] Si esto ataca al Vino de las Hadas, se cura 10% de HP el siguiente turno, y gana 2 Poder Ofensivo Aumentado, 2 de Rapidez y 2 de Protección"
                 }
               ]
             }
@@ -3706,7 +3706,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Atadura y 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Atadura y 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -4220,14 +4220,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura por el daño realizado\nSi el objetivo tiene Marca Vacía, gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Cura por el daño realizado\nSi el objetivo tiene Marca Vacía, gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Cura por el daño realizado\nSi el objetivo tiene Marca Vacía, gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Cura por el daño realizado\nSi el objetivo tiene Marca Vacía, gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -4499,7 +4499,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Frágil y 10 de Sangrado\nSi el objetivo tiene Drenaje de Nutrientes, se cura a sí mismo por 20 de HP y gana 2 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 Frágil y 10 de Sangrado\nSi el objetivo tiene Drenaje de Nutrientes, se cura a sí mismo por 20 de HP y gana 2 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }

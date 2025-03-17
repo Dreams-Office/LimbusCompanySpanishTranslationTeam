@@ -7,10 +7,10 @@
       "prevDesc": "Las enredaderas del suelo son un estorbo.\n¿Tal vez haya una forma de deshacerse de ellas?",
       "behaveDesc": "La tierra seca debe ser excavada.\n¿Qué Pecador está a la altura para la tarea?",
       "successDesc": [
-        "'{0} no pudo hacer nada.\nNo era una tarea fácil después de todo: tan enredadas estaban las raíces, que uno ni las podía distinguir entre sí.\n\nAferrándose, la resistente red de fibra continuó expandiéndose\ny los Pecadores seguirán sufriendo.'"
+        "'{0} caminó mientras temblaba.\nCon sus propias manos, desenterró las raíces.\n\nEn sus manos estaban las dudas de los demás.\nEl Pecador se dio cuenta…\n\nQue si bien la herida puede sanar, la desconfianza puede arraigarse profundamente en el corazón.'"
       ],
       "failureDesc": [
-        "'{0} no pudo hacer nada.\nNo era una tarea fácil después de todo: tan enredadas estaban las raíces, que uno ni las podía distinguir entre sí.\n\nAferrándose, la resistente red de fibra continuó expandiéndose\ny los Pecadores seguirán sufriendo.'"
+        "'{0} no pudo hacer nada.\nNo era una tarea fácil después de todo: tan enredadas estaban las raíces, que uno no las podía distinguir entre sí.\n\nAferrándose, la resistente red de fibra continuó expandiéndose\ny los Pecadores seguirán sufriendo.'"
       ]
     },
     {
@@ -416,11 +416,11 @@
     {
       "id": 803001,
       "title": "크로머선택지2",
-      "eventDesc": "A Kromer le está costando respirar. Tal vez es un efecto secundario de la transformación.\n\nSu postura es inestable, y sus ojos están miran vagamente.\n\n Ahora que está distraída, tal vez podamos asestarle un golpe crítico.",
+      "eventDesc": "A Kromer le está costando respirar. Tal vez es un efecto secundario de la transformación.\n\nSu postura es inestable, y sus ojos miran vagamente.\n\n Ahora que está distraída, tal vez podamos asestarle un golpe crítico.",
       "prevDesc": "Kromer está fatigada. Pronto expondrá una debilidad.",
       "behaveDesc": "¿Quién sería capaz de aprovechar la oportunidad?",
       "successDesc": [
-        "{0} rodeó la carnosa masa de Kromer, desorientándola.\n\n Tan pronto como lo hizo, dejo su guardia abajo.\n {0} no perdió está oportunidad de brindarle un golpe devastador\n\n Pareció bastante efectivo. Una herida profunda quedó en el cuerpo de Kromer.\n¿Podría ser la clave?"
+        "{0} rodeó la carnosa masa de Kromer, desorientándola.\n\n Tan pronto como lo hizo, dejo su guardia baja.\n {0} no perdió esta oportunidad de brindarle un golpe devastador\n\n Pareció bastante efectivo. Una herida profunda quedó en el cuerpo de Kromer.\n¿Podría ser la clave?"
       ],
       "failureDesc": [
         "{0} rodeó la masa carnosa de Kromer, desorientándola.\n\n“... Ah.“\n\n Sin embargo, por alguna razón desconocida, {0} se paralizó.\n\n ¿Fue la perturbación de observar su carne retorcida de cerca, o fue el temor que brindaban los ojos de Kromer?\n\n El niño no pudo hacer nada más que intentar balancear su arma antes de volver a su lugar. Parecía mentalmente exhausto.\n\n No hay mucho que puedas hacer por ello. Solo pelear como siempre."
@@ -549,7 +549,7 @@
       "eventDesc": "El Hada Caballero habló con una risa alegre.\n“Huhu... No me había dado cuenta de que había tomado tanto.”\nUn breve hipo se dejó oír.\n“Admito que me pilló desprevenido un poquito... solo un poquito.”\nEntonces, el hada lleva la copa en su mano a la boca.\n“¡Hey! ¿Acaso se intenta desembriagar?”\n“¡Debemos mantener desorientado a este sinvergüenza!”\n...Parece que hay que detener al hada para que no siga bebiendo de la copa.",
       "behaveDesc": "¿Quién le quitará la copa al caballero?",
       "successDesc": [
-        "[{0}] se plantó ante la barriga colosal del caballero.\n“Ah, no podría compartir esto contigo, aunque seas un invitado privilegiado.”\nEn lugar de exigirle, {0} se limitó a mirarlo fijamente.\n“...Ejem.”\nCompletamente inmóvil, sin mover ni un músculo.\n\"...¡De acuerdo, de acuerdo! Puedo darte... un poquito.\"\n{0} negó con la cabeza.\n“...¿M-Me estás diciendo que te entregue toda la copa?”\nEl Pecador asintió.\n“Tú...”\n“Fuu, jaja. De acuerdo, he perdido. Puedes quedarte con esto.”\n{0} esbozó finalmente una ligera sonrisa al tomar la copa."
+        "[{0}] se plantó ante la barriga colosal del caballero.\n“Ah, no podría compartir esto contigo, aunque seas un invitado privilegiado.”\nEn lugar de exigirle, {0} se limitó a mirarlo fijamente.\n“...Ejem.”\nCompletamente inmóvil, sin mover ni un músculo.\n\"...¡De acuerdo, de acuerdo! Puedo darte... un poquito.\"\n{0} negó con la cabeza.\n“... ¿M-Me estás diciendo que te entregue toda la copa?”\nEl Pecador asintió.\n“Tú...”\n“Fuu, jaja. De acuerdo, he perdido. Puedes quedarte con esto.”\n{0} esbozó finalmente una ligera sonrisa al tomar la copa."
       ],
       "failureDesc": [
         "[{0}] se plantó ante la barriga colosal del caballero.\n“Ah, no podría compartir esto contigo, aunque seas un invitado privilegiado.”\nEn lugar de exigirle, {0} se limitó a mirarlo fijamente.\n“...Ejem.”\nCompletamente inmóvil, sin mover ni un músculo.\n“...Quedándote ahí no cambiarás mi respuesta, ¿sabes?”\nTras una risa enérgica, el hada se bebió todo el contenido de la copa de un solo trago.\n“Por mucho que me importes, no podría darte todo lo que tengo, ¿cierto? Jaja.”\nAnte tal derrota, {0} dio media vuelta y regresó."

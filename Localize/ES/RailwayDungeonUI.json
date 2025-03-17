@@ -2,27 +2,27 @@
   "dataList": [
     {
       "id": "clear_turn",
-      "content": "Clear Turns"
+      "content": "Turnos"
     },
     {
       "id": "accumulated_turn",
-      "content": "Total Turns"
+      "content": "Turnos en Total"
     },
     {
       "id": "final_accumulated_turn",
-      "content": "Final Turn Count"
+      "content": "Cantidad de Turnos Final"
     },
     {
       "id": "reward_after_clear",
-      "content": "Clear Rewards"
+      "content": "Reclamar Recompensas"
     },
     {
       "id": "lost_and_found",
-      "content": "Lost & Found"
+      "content": "Objetos Perdidos"
     },
     {
       "id": "railway_line",
-      "content": "Line {0}"
+      "content": "Línea {0}"
     },
     {
       "id": "progressing_railway_line",
@@ -30,7 +30,7 @@
     },
     {
       "id": "select_railway_line",
-      "content": "What Line will you travel?"
+      "content": "¿Qué Línea abordarás?"
     },
     {
       "id": "stage_info",
@@ -38,7 +38,7 @@
     },
     {
       "id": "stage_number",
-      "content": "Station {0}"
+      "content": "Estación {0}"
     },
     {
       "id": "mirror_refraction_railway",
@@ -50,27 +50,27 @@
     },
     {
       "id": "accumulated_records",
-      "content": "Travel Collection"
+      "content": "Recuento de Viajes"
     },
     {
       "id": "rank_with_number",
-      "content": "Rank #{0}"
+      "content": "#{0} Lugar"
     },
     {
       "id": "open_railway_dungeon_records",
-      "content": "Logs"
+      "content": "Registro"
     },
     {
       "id": "no_more_rewards_remains_desc",
-      "content": "No rewards to claim."
+      "content": "Sin recompensas a reclamar."
     },
     {
       "id": "use_enkephalin_module_to_acquire_rewards",
-      "content": "Spend <color=#990000>{0} Enkephalin Modules</color>\nto unlock the rewards?"
+      "content": "¿Gastar <color=#990000>{0} Módulos de Encefalina</color>\npara desbloquear las recompensas?"
     },
     {
       "id": "able_to_acquire_rewards_without_using_enkephalin_module",
-      "content": "※ Once unlocked, you can freely claim the rewards you’ve earned during the event at no additional cost."
+      "content": "※ Una vez desbloqueado, puedes reclamar las recompensas que ganes libremente durante el evento sin costo adicional."
     },
     {
       "id": "railway_dungeon_ask_for_re_enter",
@@ -82,11 +82,11 @@
     },
     {
       "id": "final_clear_accumulated_turn",
-      "content": "Final Turn Count"
+      "content": "Cantidad de Turnos Final"
     },
     {
       "id": "railway_dungeon_detailed_info",
-      "content": "Details"
+      "content": "Detalles"
     },
     {
       "id": "railway_dungeon_1_banner_reward_condition_1",
@@ -102,7 +102,7 @@
     },
     {
       "id": "railway_dungeon_banner_reward_condition_title",
-      "content": "Banner Requisites"
+      "content": "Requisitos para el Cartel"
     },
     {
       "id": "railway_dungeon_banner_reward_unable_over",
@@ -110,7 +110,7 @@
     },
     {
       "id": "no_records_description",
-      "content": "The travelogue is currently empty."
+      "content": "El registro de viajes está vacío actualmente."
     },
     {
       "id": "recover_after_resting_battle",
@@ -138,19 +138,19 @@
     },
     {
       "id": "railway_dungeon_route_map",
-      "content": "Line Diagram"
+      "content": "Ruta de Operación"
     },
     {
       "id": "railway_dungeon_resume_operation",
-      "content": "Continue Travels"
+      "content": "Continuar Viaje"
     },
     {
       "id": "railway_dungeon_stop_operation",
-      "content": "Disembark"
+      "content": "Desembarcar"
     },
     {
       "id": "railway_dungeon_station_info",
-      "content": "Line Info"
+      "content": "Información de la Línea"
     },
     {
       "id": "railway_dungeon_operation_closed",
@@ -162,15 +162,15 @@
     },
     {
       "id": "railway_clear_date",
-      "content": "Record Date"
+      "content": "Fecha de Registro"
     },
     {
       "id": "railway_clear_turn_count",
-      "content": "Total Clear Turn Count"
+      "content": "Cantidad de Turnos Total"
     },
     {
       "id": "railway_clear_turn_count_by_stage",
-      "content": "Clear Turn Count by Section"
+      "content": "Cantidad de Turnos por Sección"
     }
   ]
 }

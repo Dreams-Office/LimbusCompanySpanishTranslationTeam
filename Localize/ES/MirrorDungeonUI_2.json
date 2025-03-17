@@ -6,7 +6,7 @@
     },
     {
       "id": "ego_gift_list",
-      "content": "E.G.O Gifts Owned"
+      "content": "Regalos E.G.O en Posesión"
     },
     {
       "id": "normal_difficulty",
@@ -18,7 +18,7 @@
     },
     {
       "id": "start_buffs",
-      "content": "Active Effects"
+      "content": "Efectos Activos"
     },
     {
       "id": "enter_normal_difficulty",
@@ -30,7 +30,7 @@
     },
     {
       "id": "list_of_applied_effects",
-      "content": "Active Effects"
+      "content": "Efectos Activos"
     },
     {
       "id": "activation_complete",
@@ -46,7 +46,7 @@
     },
     {
       "id": "weekly_bonus_reward",
-      "content": "Weekly Bonuses"
+      "content": "Bonificaciones Semanales"
     },
     {
       "id": "hard_dungeon_reward",
@@ -66,7 +66,7 @@
     },
     {
       "id": "dungeon_shop_heal_desc_one_hp_perc_mp_int",
-      "content": "The selected Sinner heals {0}% HP and {1} SP"
+      "content": "El Pecador seleccionado se cura {0}% de su HP y {1} de sus PC."
     },
     {
       "id": "dungeon_shop_heal_title_all",
@@ -74,7 +74,7 @@
     },
     {
       "id": "dungeon_shop_heal_desc_all_hp_perc_mp_int",
-      "content": "All Sinners heal {0}% HP and {1} SP"
+      "content": "Todos los Pecadores se curan {0}% de sus HP y {1} de sus PC"
     },
     {
       "id": "dungeon_shop_purchase_title",
@@ -90,35 +90,35 @@
     },
     {
       "id": "dungeon_shop_heal_character",
-      "content": "Heal Sinner"
+      "content": "Curar Equipo"
     },
     {
       "id": "dungeon_shop_change_formation",
-      "content": "Team"
+      "content": "Equipo"
     },
     {
       "id": "dungeon_shop_upgrade_personality",
-      "content": "Replace {0}'s Skill"
+      "content": "Reemplazar la Habilidad de {0}"
     },
     {
       "id": "dungeon_shop_upgrade_personality_0_title",
-      "content": "Pay a moderate price."
+      "content": "Pagar un precio moderado."
     },
     {
       "id": "dungeon_shop_upgrade_personality_1_title",
-      "content": "Pay a large sum."
+      "content": "Pagar una suma elevada."
     },
     {
       "id": "dungeon_shop_upgrade_personality_2_title",
-      "content": "Pay a tremendous price."
+      "content": "Pagar un precio enorme."
     },
     {
       "id": "dungeon_shop_upgrade_personality_desc",
-      "content": "Change one of the Identity's [skills {2} - {0}] to a [skill {3} - {1}]"
+      "content": "Cambiar una de las [habilidades {2} - {0}] a [habilidad {3} - {1}] de la Identidad"
     },
     {
       "id": "dungeon_shop_out",
-      "content": "Leave"
+      "content": "Irse"
     },
     {
       "id": "mirrordungeon_2_hard_open_at",
@@ -126,7 +126,7 @@
     },
     {
       "id": "mirrordungeon_with_number",
-      "content": "Mirror Dungeon {0}"
+      "content": "Mazmorra Espejo {0}"
     },
     {
       "id": "mirrordungeon_select_buffs_title",
@@ -146,7 +146,7 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_no_chance_desc",
-      "content": "Claim the rewards?"
+      "content": "¿Reclamar las recompensas?"
     },
     {
       "id": "mirror_dungeon_start_buffs_chip_name",
@@ -154,7 +154,7 @@
     },
     {
       "id": "mirror_dungeon_exit_without_acquire_rewards",
-      "content": "End expedition without claiming rewards?"
+      "content": "¿Terminar la expedición sin reclamar las recompensas?"
     },
     {
       "id": "mirror_dungeon_buffs_title_1",
@@ -310,7 +310,7 @@
     },
     {
       "id": "ego_gift_info",
-      "content": "E.G.O Gift Info"
+      "content": "Información del Regalo E.G.O"
     },
     {
       "id": "mirrordungeon_shop_gift_entrance",
@@ -358,7 +358,7 @@
     },
     {
       "id": "dungeon_encounter_guide_mirror_shop",
-      "content": "Shop"
+      "content": "Tienda"
     },
     {
       "id": "dungeon_encounter_guide_mirror_select_event",
@@ -366,15 +366,15 @@
     },
     {
       "id": "dungeon_explore_floor",
-      "content": "Exploring Floor {0}"
+      "content": "Explorando el Piso {0}"
     },
     {
       "id": "lack_of_point_for_shop",
-      "content": "Not Enough Cost"
+      "content": "Coste Insuficiente"
     },
     {
       "id": "mirrordungeon_select_less_character_at_start",
-      "content": "You've deployed fewer Sinners than your max for the team.\nAre you sure you want to proceed?"
+      "content": "Has desplegado menos Pecadores que el máximo de tu equipo.\n¿Estás seguro de querer proceder?"
     },
     {
       "id": "list_of_applied_effects_is_empty",
@@ -382,19 +382,19 @@
     },
     {
       "id": "give_up_rewards",
-      "content": "Give Up Rewards"
+      "content": "Rechazar"
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_button",
-      "content": "To Window"
+      "content": "Al Menú"
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_desc",
-      "content": "Would you like to move to the Window?\nThe expedition rewards popup will reappear when you return to the Mirror Dungeons menu."
+      "content": "¿Regresar al Menú?\nLa notificación de las recompensas de la expedición reaparecerá cuando regresas al menú de las Mazmorras Espejo."
     },
     {
       "id": "mirror_dungeon_rewards_back_to_lobby_button_lobby",
-      "content": "To List"
+      "content": "Cerrar"
     },
     {
       "id": "mirrordungeon_resting_heal_one_who",
@@ -410,7 +410,7 @@
     },
     {
       "id": "mirrordungeon_exit_shop",
-      "content": "Leave the shop?"
+      "content": "¿Irse de la tienda?"
     },
     {
       "id": "mirrordungeon_exit_resting",
@@ -426,7 +426,7 @@
     },
     {
       "id": "mirror_dungeon_clear_battle_reward_label",
-      "content": "Clear Rewards"
+      "content": "Recompensas por Completar"
     },
     {
       "id": "mirror_dungeon_start_change_formation_but_button",
@@ -434,7 +434,7 @@
     },
     {
       "id": "mirror_dungeon_give_up_ego_gift",
-      "content": "Refuse Gift"
+      "content": "Rechazar Regalo"
     },
     {
       "id": "mirror_dungeon_give_up_ego_gift_ask",
@@ -506,7 +506,7 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards_no_hard_chance_no_chance_desc",
-      "content": "Claim the rewards?"
+      "content": "¿Reclamar las recompensas?"
     },
     {
       "id": "mirrordungeon_hard_no_reward_desc",

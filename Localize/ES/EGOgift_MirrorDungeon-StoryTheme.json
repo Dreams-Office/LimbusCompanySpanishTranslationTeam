@@ -18,7 +18,7 @@
     {
       "id": 9404,
       "name": "Gusanos Confinados",
-      "desc": "Al usar una Habilidad con Afinidad de Gula(Excepto Habilidades E.G.O) contra un enemigo, inflige 2 [MuckWorm] en el objetivo.\n\nSi dicha Habilidad aplica Potencia o Contador de [Laceration], o 'Sangrado Único', inflige 3 [MuckWorm] en su lugar.",
+      "desc": "Al usar una Habilidad con Afinidad de Gula(Excepto Habilidades E.G.O) contra un enemigo, inflige 2 [Muckworm] en el objetivo.\n\nSi dicha Habilidad aplica Potencia o Contador de [Laceration], o 'Sangrado Único', inflige 3 [Muckworm] en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9404,
@@ -133,7 +133,7 @@
     },
     {
       "id": 9416,
-      "name": "Pureza",
+      "name": "Completitud",
       "desc": "Si el aliado gana un Choque usando una Habilidad que inflige Potencia o Contador de [Laceration], o 'Sangrado Único', inflige 2~3 [NailPersonality].\n\nSi el aliado es un 'Fanático de N Corp.', gana 1 Fanático al Inicio del Turno, e inflige +25% de daño contra objetivos con [Laceration].\n\nActiva un efecto especial al haber 5+ Identidades 'Fanático de N Corp.'(solo cuenta Identidades en el campo al Inicio del Encuentro):\n\n- Identidades 'Fanático de N Corp.' ganan Poder Final +1, Poder de Moneda Positiva +1, Poder de Moneda Negativa -1, y las Habilidades de Ataque infligen +1 [NailPersonality]. Si una Identidad 'Fanático de N Corp.' está a PC máx al Inicio del Turno, gana 3 [AttackDmgUp].",
       "simpleDesc": [
         {

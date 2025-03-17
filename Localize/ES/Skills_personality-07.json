@@ -39,7 +39,7 @@
         {
           "level": 1,
           "name": "Paliza",
-          "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana 1 Poder Ofensivo Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -53,7 +53,7 @@
         {
           "level": 2,
           "name": "Paliza",
-          "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado y Daño Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana 1 Poder Ofensivo Aumentado y Daño Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -67,7 +67,7 @@
         {
           "level": 4,
           "name": "Paliza",
-          "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado y Daño Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana 1 Poder Ofensivo Aumentado y Daño Aumentado el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1966,7 +1966,7 @@
         {
           "level": 3,
           "name": "Lamento, Duelo y Desesperación",
-          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +7% de daño por cada [Coffin] en sí (máx 70%)\n[WhenUse] Inflige +10% de daño por cada [NightPathfinding] en sí (máx 30%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura 1 PC adicional por cada PC faltante; máx 25)\n[EndBattle] Pierde [NightPathfinding]",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +7% de daño por cada [Coffin] en sí (máx 70%)\n[WhenUse] Inflige +10% de daño por cada [NightPathfinding] en sí (máx 30%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]\n[EndSkill] Al tener menos de 0 PC, se cura PC mientras más grande sea la diferencia entre los PC actuales y 0 PC de esta unidad (Más 1 PC adicional por cada PC faltante; máx 25)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -1996,7 +1996,7 @@
         {
           "level": 4,
           "name": "Lamento, Duelo y Desesperación",
-          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx <style=\"highlight\">4</style>)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de daño por cada [Coffin] en sí (máx <style=\"highlight\">100</style>%)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de daño por cada [NightPathfinding] en sí (máx <style=\"highlight\">60</style>%)\n[WhenUse] Gana <style=\"highlight\">2</style> [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana <style=\"highlight\">3</style> [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura <style=\"highlight\">2</style> PC adicionales por cada PC faltante; máx <style=\"highlight\">50</style>)\n[EndBattle] Pierde [NightPathfinding]",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx <style=\"highlight\">4</style>)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de daño por cada [Coffin] en sí (máx <style=\"highlight\">100</style>%)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de daño por cada [NightPathfinding] en sí (máx <style=\"highlight\">60</style>%)\n[WhenUse] Gana <style=\"highlight\">2</style> [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana <style=\"highlight\">3</style> [Coffin]\n[EndSkill] Al tener menos de 0 PC, se cura PC mientras más grande sea la diferencia entre los PC actuales y 0 PC de esta unidad (Más <style=\"highlight\">2</style> PC adicionales por cada PC faltante; máx <style=\"highlight\">50</style>)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -2031,7 +2031,7 @@
         {
           "level": 3,
           "name": "Lamento, Duelo y Desesperación",
-          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +7% de daño por cada [Coffin] en sí (máx 70%)\n[WhenUse] Inflige +10% de daño por cada [NightPathfinding] en sí (máx 30%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura 1 PC adicional por cada PC faltante; máx 25)\n[EndBattle] Pierde [NightPathfinding]",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx 2)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada PC faltante, máx 21%)\n[WhenUse] Inflige +7% de daño por cada [Coffin] en sí (máx 70%)\n[WhenUse] Inflige +10% de daño por cada [NightPathfinding] en sí (máx 30%)\n[WhenUse] Gana 1 [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana 2 [Coffin]\n[EndSkill] Al tener menos de 0 PC, se cura PC mientras más grande sea la diferencia entre los PC actuales y 0 PC de esta unidad (Más 1 PC adicional por cada PC faltante; máx 25)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [
@@ -2061,7 +2061,7 @@
         {
           "level": 4,
           "name": "Lamento, Duelo y Desesperación",
-          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx <style=\"highlight\">4</style>)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada missing SP, máx 21%)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de daño por cada [Coffin] en sí (máx <style=\"highlight\">100</style>%)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de daño por cada [NightPathfinding] en sí (máx <style=\"highlight\">60</style>%)\n[WhenUse] Gana <style=\"highlight\">2</style> [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana <style=\"highlight\">3</style> [Coffin]\n[EndSkill] A menos de 0 PC, Cura 10 PC. Cuando a menos de 0 PC, cura más PC mientras más lejos de 0 PC esté esta unidad (cura <style=\"highlight\">2</style> PC adicionales por cada PC faltante; máx <style=\"highlight\">50</style>)\n[EndBattle] Pierde [NightPathfinding]",
+          "desc": "[WhenUse] Pierde 15 PC\n[WhenUse] Poder Base +1 por cada 5 de [Sinking] en el objetivo (máx <style=\"highlight\">4</style>)\n[WhenUse] Inflige más daño mientras más lejos de 45 PC esté esta unidad (+0.3% de daño por cada missing SP, máx 21%)\n[WhenUse] Inflige +<style=\"highlight\">10</style>% de daño por cada [Coffin] en sí (máx <style=\"highlight\">100</style>%)\n[WhenUse] Inflige +<style=\"highlight\">20</style>% de daño por cada [NightPathfinding] en sí (máx <style=\"highlight\">60</style>%)\n[WhenUse] Gana <style=\"highlight\">2</style> [Coffin]\n[EndSkill] Si el ataque de esta Habilidad mata al objetivo, gana <style=\"highlight\">3</style> [Coffin]\n[EndSkill] Al tener menos de 0 PC, se cura PC mientras más grande sea la diferencia entre los PC actuales y 0 PC de esta unidad (Más <style=\"highlight\">2</style> PC adicionales por cada PC faltante; máx <style=\"highlight\">50</style>)\n[EndBattle] Pierde [NightPathfinding]",
           "coinlist": [
             {
               "coindescs": [

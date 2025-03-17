@@ -722,7 +722,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Clavos, Inflige 2 [Binding] y 1 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Clavos, Inflige 2 [Binding] y 1 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -746,7 +746,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Clavos, Inflige 2 [Binding] y 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ Clavos, Inflige 2 [Binding] y 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -885,7 +885,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Vibration], Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Vibration], Inflige 1 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -909,7 +909,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Vibration], Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Vibration], Inflige 1 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -933,7 +933,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Vibration], Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+ de [Vibration], Inflige 1 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }

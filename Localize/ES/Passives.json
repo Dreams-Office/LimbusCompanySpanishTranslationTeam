@@ -103,7 +103,7 @@
     {
       "id": 1070301,
       "name": "Con Ganas de Pastar",
-      "desc": "Gana (Reson. de Ira) Contador de [Charge] el siguiente turno.\nAl tener +5 Contador de [Charge], gana 1 [Agility] y Poder de Ataque Aumentado."
+      "desc": "Gana (Reson. de Ira) Contador de [Charge] el siguiente turno.\nAl tener +5 Contador de [Charge], gana 1 [Agility] y Poder Ofensivo Aumentado."
     },
     {
       "id": 1080101,
@@ -113,7 +113,7 @@
     {
       "id": 1080201,
       "name": "Enfoque de Ondas Cerebrales",
-      "desc": "Al inicio de la fase de combate, pierde 15 PC.\nGana (Reson. de Melancolía / 3) Poder de Ataque Aumentado el siguiente turno."
+      "desc": "Al inicio de la fase de combate, pierde 15 PC.\nGana (Reson. de Melancolía / 3) Poder Ofensivo Aumentado el siguiente turno."
     },
     {
       "id": 1080301,
@@ -143,7 +143,7 @@
     {
       "id": 1100101,
       "name": "Coraje",
-      "desc": "Cuando un aliado es derrotado, gana 1 Poder de Ataque Aumentado el siguiente turno."
+      "desc": "Cuando un aliado es derrotado, gana 1 Poder Ofensivo Aumentado el siguiente turno."
     },
     {
       "id": 1100201,
@@ -333,7 +333,7 @@
     {
       "id": 1100121,
       "name": "Rencor",
-      "desc": "1 aliado con los menores PC gana 1 Poder de Ataque Aumentado el turno después que un aliado sea derrotado."
+      "desc": "1 aliado con los menores PC gana 1 Poder Ofensivo Aumentado el turno después que un aliado sea derrotado."
     },
     {
       "id": 1100221,
@@ -363,7 +363,7 @@
     {
       "id": 1110321,
       "name": "Valor",
-      "desc": "1 aliado con el mayor HP obtiene al azar 1 Poder de Ataque Aumentado, 1 Poder Defensivo Aumentado, o 1 Protección al inicio de la fase de combate."
+      "desc": "1 aliado con el mayor HP obtiene al azar 1 Poder Ofensivo Aumentado, 1 Poder Defensivo Aumentado, o 1 Protección al inicio de la fase de combate."
     },
     {
       "id": 1120121,
@@ -453,7 +453,7 @@
     {
       "id": 1050401,
       "name": "Martillo Obsesivo",
-      "desc": "Al tener menos del 50% de HP, remueve 1 efecto de estado negativo y gana 1 Fanático, 1 Poder de Ataque Aumentado y 3 Protección al inicio de la fase de combate."
+      "desc": "Al tener menos del 50% de HP, remueve 1 efecto de estado negativo y gana 1 Fanático, 1 Poder Ofensivo Aumentado y 3 Protección al inicio de la fase de combate."
     },
     {
       "id": 1090401,
@@ -463,7 +463,7 @@
     {
       "id": 1050421,
       "name": "El Más Grande Honor",
-      "desc": "Aplica 1 Poder de Ataque Aumentado 1 Protección al aliado con menor HP debajo del 50%.\nSi el aliado es un 'Fanático de N Corp.', también aplica 1 Fanático."
+      "desc": "Aplica 1 Poder Ofensivo Aumentado 1 Protección al aliado con menor HP debajo del 50%.\nSi el aliado es un 'Fanático de N Corp.', también aplica 1 Fanático."
     },
     {
       "id": 1090421,
@@ -810,12 +810,12 @@
     {
       "id": 1060701,
       "name": "Gancho",
-      "desc": "Tras derrotar a un enemigo, gana 1 Poder de Ataque Aumentado el siguiente turno. (Una vez por turno)"
+      "desc": "Tras derrotar a un enemigo, gana 1 Poder Ofensivo Aumentado el siguiente turno. (Una vez por turno)"
     },
     {
       "id": 1060721,
       "name": "Equipamiento Biónico Producido En Masa",
-      "desc": "Cuando un aliado con la mayor Velocidad derrota a un enemigo infligido con [Laceration], gana 1 Poder de Ataque Aumentado el siguiente turno. (Una vez por turno)"
+      "desc": "Cuando un aliado con la mayor Velocidad derrota a un enemigo infligido con [Laceration], gana 1 Poder Ofensivo Aumentado el siguiente turno. (Una vez por turno)"
     },
     {
       "id": 1020701,
@@ -1165,7 +1165,7 @@
     {
       "id": 1090811,
       "name": "Pasión Ardiente",
-      "desc": "Inflige +10% de daño por cada 6 de Potencia de [Combustion] en el objetivo (Máx 30%)\nInicio de Combate: Si todos los enemigos tiene 6+ de Potencia de [Combustion], aplica 1 [CrimsonDamageUp] a (Reson.-A de Ira más alta) aliados en orden de Despliegue\n- En Encuentros Centrados, el efecto anterior se activa cuando todas las Partes de los enemigos tienen 6+ de Potencia de [Combustion]\n- Si el aliado es un Fixer de la Asociación Liu, aplica 1 Poder de Ataque Aumentado",
+      "desc": "Inflige +10% de daño por cada 6 de Potencia de [Combustion] en el objetivo (Máx 30%)\nInicio de Combate: Si todos los enemigos tiene 6+ de Potencia de [Combustion], aplica 1 [CrimsonDamageUp] a (Reson.-A de Ira más alta) aliados en orden de Despliegue\n- En Encuentros Centrados, el efecto anterior se activa cuando todas las Partes de los enemigos tienen 6+ de Potencia de [Combustion]\n- Si el aliado es un Fixer de la Asociación Liu, aplica 1 Poder Ofensivo Aumentado",
       "summary": "Inflige +10% de daño por cada 6 de Potencia de [Combustion] en el objetivo (Máx 30%)\nBajo ciertas condiciones de [Combustion] y Reson.-A de Ira, aplica buff a aliados"
     },
     {
@@ -1182,7 +1182,7 @@
     {
       "id": 1040711,
       "name": "Propagación de Llamas",
-      "desc": "Cuando esta unidad derrota un enemigo con [Combustion], aplica 4 de [Combustion] a 2 enemigos aleatorios sin [Combustion] o con la menor Potencia de [Combustion]. (una vez por turno)\n- En Encuentros Centrados, a 2 Partes aleatorias",
+      "desc": "Cuando esta unidad derrota un enemigo con [Combustion], aplica 4 de [Combustion] a 2 enemigos aleatorios sin [Combustion] o con la menor Potencia de [Combustion]. (dos veces por turno)\n- En Encuentros Centrados, a 2 Partes aleatorias",
       "summary": "Cuando esta unidad derrota un enemigo con [Combustion], aplica 4 de [Combustion] a 2 enemigos aleatorios sin [Combustion] o con la menor Potencia de [Combustion]"
     },
     {
@@ -1770,7 +1770,7 @@
     {
       "id": 1121001,
       "name": "Dedicación Autodestructiva",
-      "desc": "Fin del Turno: cura PC ((10 - [WornHeartGreg])/2) por el aliado con menor PC (Exluyendo: a sí mismo o aliados en Panico o Corroidos; redondeando hacia abajo)\nEn este encuentro, cuando esta unidad recibe daño por debajo de 0 en su HP, nullifica ese daño; así, el HP de esta unidad no puede bajar de 1 por el turno . (una vez por Encuentro)",
+      "desc": "Fin del Turno: Cura ((10 - [WornHeartGreg])/2) PC al aliado con menor PC (Excluyendo: a sí mismo o aliados en Panico o Corroidos; redondeando hacia abajo)\nEn este encuentro, cuando esta unidad recibe daño por debajo de 0 en su HP, nullifica ese daño; así, el HP de esta unidad no puede bajar de 1 por el turno . (una vez por Encuentro)",
       "summary": ""
     },
     {
@@ -1782,7 +1782,7 @@
     {
       "id": 1121011,
       "name": "Dedicación Autodestructiva",
-      "desc": "Fin del Turno: Cura Pc (10 - [WornHeartGreg]) por el aliado con menor PC (Exluyendo: a sí mismo o aliados en Panico o Corroidos; redondeando hacia abajo)\nIn this Encounter, cuando esta unidad recibe daño por debajo de 0 en su HP, nullifica ese daño; así, el HP de esta unidad no puede bajar de 1 por el turno . (una vez por Encuentro)",
+      "desc": "Fin del Turno: Cura (10 - [WornHeartGreg]) PC al aliado con menor PC (Excluyendo: a sí mismo o aliados en Panico o Corroidos; redondeando hacia abajo)\nEn este Encuentro, cuando esta unidad recibe daño por debajo de 0 en su HP, nullifica ese daño; así, el HP de esta unidad no puede bajar de 1 por el turno . (una vez por Encuentro)",
       "summary": ""
     },
     {
@@ -1947,67 +1947,102 @@
     },
     {
       "id": 1071201,
-      "name": "Dark Cloud Blade",
-      "desc": "When there are 2+ allied Kurokumo Clan Identities on the field, including this unit, gain 1 [BlackCloudBlade] (max 1)\n\nAgainst enemies that, in this turn, used Defense Skills or were at max HP before attacking: deal +10% more damage\n\nIf an enemy attacked an other ally with a Skill and dealt damage this turn: use an Unopposed Attack against the attacker with Skill 1 (once per turn)",
-      "summary": "Gain [BlackCloudBlade]; deal more damage against enemies that were at max HP or used a Defense Skill; counterattack when an ally is attacked"
+      "name": "Espada de la Nube Oscura",
+      "desc": "Si hay 2+ Identidades aliadas del Clan Kurokumo en el campo de batalla, incluyendo a esta unidad, gana 1 [BlackCloudBlade] (máx 1)\n\nContra enemigos que, en este turno, usaron Habilidades Defensivas o tenían el HP Máx antes de atacar: inflige 10% de daño\n\nSi un enemigo atacó a otro aliado con una Habilidad y le realizó daño en este turno: usa un Ataque Unilateral contra el atacante con la Habilidad 1 (una vez por turno)",
+      "summary": "Gana [BlackCloudBlade]; inflige más daño contra enemigos que tenían el HP Máx o usaron una Habilidad Defensiva; contraataca cuando un aliado es atacado"
     },
     {
       "id": 1071202,
-      "name": "Battle Ready",
-      "desc": "When a Kurokumo Clan ally dies, gain 1 [SlashResultUp] for this Encounter\n\nWhen 3 or more Kurokumo Clan allies are defeated, gain [EngageToBattle] for this Encounter"
+      "name": "Lista para la Batalla",
+      "desc": "Cuando un aliado del Clan Kurokumo muere, gana 1 [SlashResultUp] por este Encuentro\n\nCuando 3 o más aliado del Clan Kurokumo son derrotados, gana [EngageToBattle] por este Encuentro"
     },
     {
       "id": 1071211,
-      "name": "Dark Cloud Blade",
-      "desc": "When there are 2+ allied Kurokumo Clan Identities on the field, including this unit, gain 1 [BlackCloudBlade] (max 1)\n\nAgainst enemies that, in this turn, used Defense Skills or were at max HP before attacking: deal +10% more damage\n\nIf an enemy attacked an other ally with a Skill and dealt damage this turn: use an Unopposed Attack against the attacker with Skill 1 (once per turn)\n\n<style=\"highlight\">If the enemy killed an other ally, or if the said ally's HP is at less than 25% after the enemy's attack, use an Unopposed Attack against the attacker with <Rules of the Backstreets> instead (once per ally; 2 times per turn; the Skill activated with this effect counts as an Attack Skill)</style>",
-      "summary": "Gain [BlackCloudBlade]; deal more damage against enemies that were at max HP or used a Defense Skill; counterattack when an ally is attacked"
+      "name": "Espada de la Nube Oscura",
+      "desc": "Si hay 2+ Identidades aliadas del Clan Kurokumo en el campo de batalla, incluyendo a esta unidad, gana 1 [BlackCloudBlade] (máx 1)\n\nContra enemigos que, en este turno, usaron Habilidades Defensivas o tenían el HP Máx antes de atacar: inflige 10% más de daño\n\nSi un enemigo atacó a otro aliado con una Habilidad y le realizó daño en este turno: usa un Ataque Unilateral contra el atacante con la Habilidad 1 (una vez por turno)\n\n<style=\"highlight\">Si un enemigo asesinó a otro aliado, o si el HP de dicho aliado es menor al 25% luego del ataque del enemigo, usa un Ataque Unilateral contra el atacante con <Reglas de las Callejuelas> en su lugar (una vez por aliado; 2 veces por turno; la Habilidad activada con este efecto cuenta como una Habilidad de Ataque)</style>",
+      "summary": "Gana [BlackCloudBlade]; inflige más daño contra enemigos que tenían el HP Máx o usaron una Habilidad Defensiva; contraataca cuando un aliado es atacado"
     },
     {
       "id": 1071221,
-      "name": "Impale",
-      "desc": "1 ally with the fastest Speed: against enemies that used Defense Skills or were at max HP before attacking this turn: deal +10% more damage"
+      "name": "Empalar",
+      "desc": "1 aliado con la Velocidad más alta: contra enemigos que usaron Habilidades Defensivas o tenían el HP Máx antes de atacar este turno: inflige 10% de daño"
     },
     {
       "id": 1081101,
-      "name": "Gathering Dark Clouds",
-      "desc": "Combat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard",
-      "summary": "Gain [BlackCloudBlade]; apply [BlackCloud] to allied Kurokumo Clan Identities"
+      "name": "Unión de las Nubes Oscuras",
+      "desc": "Inicio de Combate: si hay 2+ Identidades aliadas del Clan Kurokumo en este encuentro, incluyendo a esta unidad, gana 1 [BlackCloudBlade]\n\nInicio de Combate: aplica 1 [BlackCloud] a las Identidades del Clan Kurokumo adyacentes a este unidad en el Tablero",
+      "summary": "Gana [BlackCloudBlade]; aplica [BlackCloud] a Identidades del Clan Kurokumo aliadas"
     },
     {
       "id": 1081102,
-      "name": "Battle Ready",
-      "desc": "When a Kurokumo Clan ally dies, gain 1 [SlashResultUp] for this Encounter\n\nWhen 3 or more Kurokumo Clan allies are defeated, gain [EngageToBattle] for this Encounter"
+      "name": "Lista para la Batalla",
+      "desc": "Cuando un aliado del Clan Kurokumo muere, gana 1 [SlashResultUp] por este Encuentro\n\nCuando 3 o más aliado del Clan Kurokumo son derrotados, gana [EngageToBattle] por este Encuentro"
     },
     {
       "id": 1081111,
-      "name": "Gathering Dark Clouds",
-      "desc": "Combat Start: if there are 2+ allied Kurokumo Clan Identities in this Encounter, including this unit, gain 1 [BlackCloudBlade]\n\nCombat Start: apply 1 [BlackCloud] to Kurokumo Clan Identities adjacent to this unit on the Dashboard\n<style=\"highlight\">- At 4+ Lust Reson., apply 1 [BlackCloud] to all other Kurokumo Clan allies</style>",
-      "summary": "Gain [BlackCloudBlade]; apply [BlackCloud] to allied Kurokumo Clan Identities"
+      "name": "Unión de las Nubes Oscuras",
+      "desc": "Inicio de Combate: si hay 2+ Identidades aliadas del Clan Kurokumo en este encuentro, incluyendo a esta unidad, gana 1 [BlackCloudBlade]\n\nInicio de Combate: aplica 1 [BlackCloud] a las Identidades del Clan Kurokumo adyacentes a este unidad en el Tablero\n<style=\"highlight\">A 4+ Reson. de Lujuria, aplica 1 [BlackCloud] a todas los otros Aliados del Clan Kurokumo</style>",
+      "summary": "Gana [BlackCloudBlade]; aplica [BlackCloud] a Identidades del Clan Kurokumo aliadas"
     },
     {
       "id": 1081121,
-      "name": "Cloud Workshop Blade",
-      "desc": "1 ally with the fastest Speed inflicts +1 more [Laceration] Potency or Count with Skill and Coin effects against enemies"
+      "name": "Espada del Taller Nube",
+      "desc": "1 aliado con la Velocidad más alta inflige +1 de Potencia o Contador de [Laceration] más con Habilidades y efectos de Moneda contra enemigos"
     },
     {
       "id": 1011201,
-      "name": "Inner Ardor",
-      "desc": "Turn End: heal 1 ally with the least SP by (5 + highest Reson.) (max 10) (excludes: self and Panicked or E.G.O Corroded allies)\n- If the said ally has Base Skills that inflict [Combustion] Potency or Count, heal 5 additional SP to them"
+      "name": "Fogosidad Interna",
+      "desc": "Fin del Turno: cura 1 aliado con los menores PC por (5 + Reson. más alta) (máx 10) (excluye: en sí y aliados en Pánico o en Corrosión de E.G.O)\n- Si dicho aliado tiene Habilidades Básicas que infligen Potencia o Contador de [Combustion], estos curan 5 PC adicionales."
     },
     {
       "id": 1011211,
-      "name": "Inner Ardor",
-      "desc": "Turn End: heal 1 ally with the least SP by (5 + highest Reson.) (max 10) (excludes: self and Panicked or E.G.O Corroded allies)\n- If the said ally has Base Skills that inflict [Combustion] Potency or Count, heal 5 additional SP to them\n- At 4+ Wrath Reson., heal 1 additional ally"
+      "name": "Fogosidad Interna",
+      "desc": "Fin del Turno: cura 1 aliado con los menores PC por (5 + Reson. más alta) (máx 10) (excluye: en sí  y aliados en Pánico o en Corrosión de E.G.O)\n- Si dicho aliado tiene Habilidades Básicas que infligen Potencia o Contador de [Combustion], estos curan 5 PC adicionales.\n- A 4+ Reson. de Ira, cura 1 aliado adicional"
     },
     {
       "id": 1011221,
-      "name": "Liu Defensive Square",
-      "desc": "For 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End"
+      "name": "Cuadro Defensivo Liu",
+      "desc": "A 2 aliados con los menores PC: si perdieron PC este turno, cura 5 PC en el Fin del Turno"
     },
     {
       "id": 1011231,
-      "name": "Liu Defensive Square",
-      "desc": "For 2 allies with the least SP: if they lost SP this turn, heal 5 SP at Turn End\n- If the said allies have Base Skills that inflict [Combustion] Potency or Count, heal 5~10 SP instead"
+      "name": "Cuadro Defensivo Liu",
+      "desc": "A 2 aliados con los menores PC: si perdieron PC este turno, cura 5 PC en el Fin del Turno\n- Si dichos aliados tienen Habilidades Base que infligen Potencia o Contador de [Combustion], cura 5~10 PC en su lugar"
+    },
+    {
+      "id": 1121102,
+      "name": "District 12 Special Workshop Fuel",
+      "desc": "Begin Encounters with 100 [FirePunchFuel]\n- At over 50 Stack, become [FirePunchFuel]\n- At 50 or less Stack, any [FirePunchFuel] becomes [FirePunchFuelOverheated]"
+    },
+    {
+      "id": 1121101,
+      "name": "I'm the only survivor...",
+      "desc": "Deal +0.2% more damage for every [FirePunchFuel] and [FirePunchFuelOverheated] this unit consumed in this Encounter (max 40%)\n- If the main target is a <Bloodfiend>, <Bloodbag>, or if their sum of [Combustion] and [Combustion] Count is 30+, deal +0.3% more damage instead (max 60%)\n\nAt 1+ [FirePunchFuel] or [FirePunchFuelOverheated], if this unit Staggers or defeats enemies with [Combustion], inflict +2 [Combustion] Count against 2 random enemies without [Combustion] or with the least [Combustion] Count (once per turn)\n- For Focused Encounters, on Parts"
+    },
+    {
+      "id": 1121121,
+      "name": "I hope they're from our Office...",
+      "desc": "1 ally with the fastest Speed: On Hit, deal +5% more Wrath Damage for every 6 [Combustion] on the target (max 20%)"
+    },
+    {
+      "id": 1031101,
+      "name": "Virescent Pyrojade",
+      "desc": "Turn End: gain 1 [Agility] next turn for every 5 [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)"
+    },
+    {
+      "id": 1031111,
+      "name": "Virescent Pyrojade",
+      "desc": "Turn End: gain 1 [Agility] next turn for every <style=\"highlight\">3</style> [Breath] Potency on self (max 2)\n\nAgainst the target(or the Part) a Base Attack Skill hit last, inflict [DianxueDonQuixote] next turn (once per turn)\n\nDeal +([Combustion] Potency on the target)% more damage on Critical Hit (max 15%)\n<style=\"highlight\">- Increase max cap by 5% for every 1 [DianxueDonQuixote] on the target</style>"
+    },
+    {
+      "id": 1031121,
+      "name": "Featherstride Technique",
+      "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)"
+    },
+    {
+      "id": 1031131,
+      "name": "Featherstride Technique",
+      "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- If the target has 20+ [Combustion] Potency, gain 1 additional [Agility]</style>"
     }
   ]
 }

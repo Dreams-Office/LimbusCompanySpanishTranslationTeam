@@ -255,14 +255,14 @@
           "result": [
             "You applied bandages\nto the holes in its chest.\n\nBlood leaks and saturates them.\nThe wound still seems sore.\n\nYou gave it some extra dressing,\nmaking sure that it’ll last a good while."
           ]
+        },
+        {
+          "message": "Embrace the Sinners.",
+          "messageDesc": "Win the battle to earn a Keywordless E.G.O Gift and a Bleed E.G.O Gift",
+          "result": [
+            "Hugging that teddy bear would be very difficult, given all those nails protruding from its body.\n\nInstead, I decide to hug the Sinners one by one to see how it reacts.\n\nMost Sinners push me away, taken aback from the sudden awkwardness...\n\n... but the teddy bear impatiently stomps its feet, apparently jealous.\n\nPerhaps what it wanted was affection, after all?\n\nThe teddy bear rushes toward us, as if it's asking us to hug it as well."
+          ]
         }
-      ]
-    },
-    {
-      "message": "Embrace the Sinners.",
-      "messageDesc": "Win the battle to earn a Keywordless E.G.O Gift and a Bleed E.G.O Gift",
-      "result": [
-        "Hugging that teddy bear would be very difficult, given all those nails protruding from its body.\n\nInstead, I decide to hug the Sinners one by one to see how it reacts.\n\nMost Sinners push me away, taken aback from the sudden awkwardness...\n\n... but the teddy bear impatiently stomps its feet, apparently jealous.\n\nPerhaps what it wanted was affection, after all?\n\nThe teddy bear rushes toward us, as if it's asking us to hug it as well."
       ]
     },
     {
@@ -987,14 +987,14 @@
           "result": [
             "\"Pfeh! You only hate it because you haven't had a taste of the good ones~ Here!\"\n\nIt's met with a staunch refusal.\n\n\"Seriously...? You won't drink this precious stuff?\"\n\nStill rejected.\n\n\"Tch... My mood's all dampened now.\"\n\nIt placed the bottle of alcohol down, and walked back into the veil of steam."
           ]
+        },
+        {
+          "message": "I don't know how to live without alcohol.",
+          "messageDesc": "Run a Sloth & Gluttony Advantage check to gain an E.G.O Gift.",
+          "result": [
+            ""
+          ]
         }
-      ]
-    },
-    {
-      "message": "I don't know how to live without alcohol.",
-      "messageDesc": "Run a Sloth & Gluttony Advantage check to gain an E.G.O Gift.",
-      "result": [
-        ""
       ]
     },
     {
@@ -1033,6 +1033,13 @@
           "messageDesc": "Select to gain a Keywordless E.G.O Gift",
           "result": [
             "When the spring's entryway was broken, the blood that must've belonged to someone in the past flows like a waterfall and onto the rose.\n\nAs if overjoyed, the rose waves its roots and lies in the pool of blood.\n\nLike that, the rose drooped low and sank into blood.\n\nAt the center, a small flower bloomed.\n\nCould this be its reward? We carefully picked it up."
+          ]
+        },
+        {
+          "message": "Feed it the blood of the Sinners",
+          "messageDesc": "Select to gain a Bleed E.G.O Gift",
+          "result": [
+            "What is the nature of the blood that fills the spring? Who—or what—is it from?\n\nInstead of feeding it that mysterious blood, I decide to feed it blood of the Sinners.\n\nThe bloodsteeped rose extends its petals, yearning for our blood nevertheless.\n\nThe rose drinks the blood of the Sinners, and a smaller flower blossoms next to the base of its stem.\n\nPerhaps it is giving us a gift in return for our blood. I carefully pick up the flower."
           ]
         }
       ]

@@ -165,7 +165,7 @@
                                     "desc": "[OnSucceedAttack] Cura por 40% del daño infligido"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno.\n(Limitado a: Poder de Ataque Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
+                                    "desc": "[OnSucceedAttack] Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno.\n(Limitado a: Poder Ofensivo Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
                                 }
                             ]
                         },
@@ -242,7 +242,7 @@
                                     "desc": "[OnSucceedAttack] Cura por 40% del daño infligido"
                                 },
                                 {
-                                    "desc": "Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno. \n(Limitado a: Poder de Ataque Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
+                                    "desc": "Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno. \n(Limitado a: Poder Ofensivo Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
                                 }
                             ]
                         },
@@ -322,7 +322,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno.\n(Limitado a: Poder de Ataque Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
+                                    "desc": "Copia uno de los potenciadores actualmente activos en el objetivo. Gana el potenciador copiado el siguiente turno.\n(Limitado a: Poder Ofensivo Aumentado, Rapidez, Daño Aumentado, y <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protección</link></u></color>)"
                                 }
                             ]
                         },
@@ -760,7 +760,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido el siguiente turno"
+                                    "desc": "[OnSucceedAttack] Inflige 1 Poder Ofensivo Reducido el siguiente turno"
                                 }
                             ]
                         },
@@ -781,7 +781,7 @@
                 {
                     "level": 1,
                     "name": "Listo para Escribir",
-                    "desc": "[EndBattle] Si esta unidad tiene Escudo, gana 1 Poder de Ataque Aumentado el siguiente turno",
+                    "desc": "[EndBattle] Si esta unidad tiene Escudo, gana 1 Poder Ofensivo Aumentado el siguiente turno",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -919,7 +919,7 @@
                 {
                     "level": 1,
                     "name": "Listo para Escribir",
-                    "desc": "Si el Escudo de esta unidad es agotado completamente, gana 1 Poder de Ataque Aumentado el siguiente turno",
+                    "desc": "Si el Escudo de esta unidad es agotado completamente, gana 1 Poder Ofensivo Aumentado el siguiente turno",
                     "coinlist": [
                         {
                             "coindescs": [

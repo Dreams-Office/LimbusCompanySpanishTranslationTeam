@@ -213,7 +213,7 @@
         {
           "level": 2,
           "name": "Comando de Ataque",
-          "desc": "[WhenUse] Aplica 1 Poder de Ataque Aumentado al aliado con la menor Velocidad",
+          "desc": "[WhenUse] Aplica 1 Poder Ofensivo Aumentado al aliado con la menor Velocidad",
           "coinlist": [
             {
               "coindescs": [
@@ -227,7 +227,7 @@
         {
           "level": 4,
           "name": "Comando de Ataque",
-          "desc": "[WhenUse] Aplica 1 Poder de Ataque Aumentado al aliado con la menor Velocidad",
+          "desc": "[WhenUse] Aplica 1 Poder Ofensivo Aumentado al aliado con la menor Velocidad",
           "coinlist": [
             {
               "coindescs": [
@@ -254,7 +254,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido"
                 }
               ]
             }
@@ -271,7 +271,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 4 de [Sinking]"

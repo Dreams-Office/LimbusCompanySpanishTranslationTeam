@@ -2,39 +2,39 @@
   "dataList": [
     {
       "id": "dungeon_battle_reward_case_format_cost_acquisition",
-      "content": "Gain {0} Cost"
+      "content": "Gana {0} Coste"
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition",
-      "content": "Gain {0} Cost\n{1}% chance to gain a random E.G.O Gift of Tier {2} or lower"
+      "content": "Gana {0} Coste\n{1}% de probabilidad de obtener un Regalo E.G.O. aleatorio de Grado {2} o inferior de la Categoría de la Palabra Clave seleccionada al inicio de la Mazmorra Espejo."
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_all_tier_gift_acquisition",
-      "content": "Gain {0} Cost\n{1}% chance to gain a random E.G.O Gift"
+      "content": "Gana {0} Coste\n{1}% de probabilidad de obtener un Regalo E.G.O aleatorio"
     },
     {
       "id": "dungeon_battle_reward_case_format_random_gift_acquisition",
-      "content": "Gain a random Tier {0} E.G.O Gift"
+      "content": "Gana un Regalo E.G.O aleatorio de Grado {0}"
     },
     {
       "id": "dungeon_battle_reward_case_format_chip_acquisition",
-      "content": "Gain additional {0} Starlight upon clearing the Mirror Dungeon"
+      "content": "Gana {0} Luz Estelar adicional al completar la Mazmorra Espejo."
     },
     {
       "id": "dungeon_battle_reward_case_format_random_ego_resource_acquisition",
-      "content": "E.G.O Resource +{1} for {0} different Affinities"
+      "content": "+{1} Recursos E.G.O para {0} Afinidades diferentes."
     },
     {
       "id": "dungeon_battle_reward_case_format_least_ego_resource_acquisition",
-      "content": "E.G.O Resource +{1} for {0} of the least-owned Affinities"
+      "content": "+{1} Recursos E.G.O  para {0} de las Afinidades menos poseídas"
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword",
-      "content": "Gain {0} Cost\n{1}% chance to gain a random Tier {2} {3} E.G.O Gift"
+      "content": "Gana {0} Coste\n{1}% de probabilidad de ganar un Regalo E.G.O aleatorio de Grado {2} {3}"
     },
     {
       "id": "dungeon_battle_reward_case_format_cost_and_gift_acquisition_from_start_keyword_none_or_random",
-      "content": "Gain {0} Cost\n{1}% chance to gain a random Tier {2} E.G.O Gift"
+      "content": "Gana {0} Coste\n{1}% de probabilidad de obtener un Regalo E.G.O aleatorio de Grado {2}"
     }
   ]
 }

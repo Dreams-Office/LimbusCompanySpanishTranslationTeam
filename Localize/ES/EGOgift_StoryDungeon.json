@@ -221,7 +221,7 @@
     {
       "id": 1034,
       "name": "Melena Sangrienta",
-      "desc": "Los aliados con habilidades de Lujuria ganan los siguientes efectos:\nSi la unidad no recibe daño de ataques en este turno, gana 2 Rapidez y 2 Poder Defensivo Aumentado el siguiente turno.\nSi la unidad recibe daño de ataques este turno, gana 2 Atadura y 2 Poder de Ataque Aumentado el siguiente turno.",
+      "desc": "Los aliados con habilidades de Lujuria ganan los siguientes efectos:\nSi la unidad no recibe daño de ataques en este turno, gana 2 Rapidez y 2 Poder Defensivo Aumentado el siguiente turno.\nSi la unidad recibe daño de ataques este turno, gana 2 Atadura y 2 Poder Ofensivo Aumentado el siguiente turno.",
       "simpleDesc": [
         {
           "abilityID": 1034,
@@ -229,7 +229,7 @@
         },
         {
           "abilityID": 10341,
-          "simpleDesc": "Gana 2 Atadura y Poder de Ataque Aumentado"
+          "simpleDesc": "Gana 2 Atadura y Poder Ofensivo Aumentado"
         }
       ]
     },
@@ -280,11 +280,11 @@
     {
       "id": 1041,
       "name": "Mano Hemorrágica",
-      "desc": "Al inicio del turno, aplica 2 Poder de Ataque Aumentado a aliados con 25% o menos de vida.",
+      "desc": "Al inicio del turno, aplica 2 Poder Ofensivo Aumentado a aliados con 25% o menos de vida.",
       "simpleDesc": [
         {
           "abilityID": 1041,
-          "simpleDesc": "Gana 2 Poder de Ataque Aumentado"
+          "simpleDesc": "Gana 2 Poder Ofensivo Aumentado"
         }
       ]
     },
@@ -515,7 +515,7 @@
     {
       "id": 2008,
       "name": "Lágrimas Calientes",
-      "desc": "Recibe -10% daño de afinidad de Ira\nAl ser golpeado, gana 1 Poder de Ataque Aumentado el siguiente turno (Una vez por Pecador)",
+      "desc": "Recibe -10% daño de afinidad de Ira\nAl ser golpeado, gana 1 Poder Ofensivo Aumentado el siguiente turno (Una vez por Pecador)",
       "simpleDesc": [
         {
           "abilityID": 2009,
@@ -523,7 +523,7 @@
         },
         {
           "abilityID": 200901,
-          "simpleDesc": "Al ser golpeado, gana 1 Poder de Ataque Aumentado el siguiente turno"
+          "simpleDesc": "Al ser golpeado, gana 1 Poder Ofensivo Aumentado el siguiente turno"
         }
       ]
     },
@@ -596,7 +596,7 @@
     {
       "id": 2015,
       "name": "Pieza de una Relación Rota",
-      "desc": "Las habilidades de Yi Sang ganan Poder Final +2\nCuando un aliado muere, los aliados restantes ganan 1 Rapidez y 1 Poder de Ataque Aumentado el siguiente turno (Una vez por turno)\n\n<i>\"Echando un vistazo atrás a nuestros senderos... todos hemos sufrido grandes pérdidas.\"</i>",
+      "desc": "Las habilidades de Yi Sang ganan Poder Final +2\nCuando un aliado muere, los aliados restantes ganan 1 Rapidez y 1 Poder Ofensivo Aumentado el siguiente turno (Una vez por turno)\n\n<i>\"Echando un vistazo atrás a nuestros senderos... todos hemos sufrido grandes pérdidas.\"</i>",
       "simpleDesc": [
         {
           "abilityID": 2015,
@@ -604,7 +604,7 @@
         },
         {
           "abilityID": 201501,
-          "simpleDesc": "Cuando un aliado muere, los aliados restantes ganan 1 Rapidez y 1 Poder de Ataque Aumentado el siguiente turno (Una vez por turno)"
+          "simpleDesc": "Cuando un aliado muere, los aliados restantes ganan 1 Rapidez y 1 Poder Ofensivo Aumentado el siguiente turno (Una vez por turno)"
         }
       ]
     },

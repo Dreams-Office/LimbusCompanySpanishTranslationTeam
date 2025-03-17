@@ -2,9 +2,9 @@
   "dataList": [
     {
       "id": "Enhancement",
-      "name": "Poder de Ataque Aumentado",
+      "name": "Poder Ofensivo Aumentado",
       "desc": "El Ataque de la Habilidad final aumenta en +{0} este turno.",
-      "summary": "Poder de Ataque de la Habilidad +{0}",
+      "summary": "Poder Ofensivo de la Habilidad +{0}",
       "undefined": "-"
     },
     {
@@ -23,9 +23,9 @@
     },
     {
       "id": "Reduction",
-      "name": "Poder de Ataque Reducido",
+      "name": "Poder Ofensivo Reducido",
       "desc": "El ataque de la habilidad final disminuye -{0} este turno.",
-      "summary": "Poder de Ataque de la Habilidad -{0}",
+      "summary": "Poder Ofensivo de la Habilidad -{0}",
       "undefined": "-"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "Blame_LowMorale",
       "name": "Sobresaliente (Baja Moral)",
-      "desc": "Inicio de Turno: Gana 2 de Poder de Ataque Aumentado y 2 de Fragilidad.",
+      "desc": "Inicio de Turno: Gana 2 de Poder Ofensivo Aumentado y 2 de Fragilidad.",
       "undefined": "-"
     },
     {
@@ -208,21 +208,21 @@
     {
       "id": "Daunted_LowMorale",
       "name": "Atrofiado (Moral Baja)",
-      "desc": "Inicio de Turno: Gana 2 de Poder de Ataque Reducido",
-      "summary": "Gana 2 de Poder de Ataque Reducido",
+      "desc": "Inicio de Turno: Gana 2 de Poder Ofensivo Reducido",
+      "summary": "Gana 2 de Poder Ofensivo Reducido",
       "undefined": "-"
     },
     {
       "id": "Daunted_Panic",
       "name": "Atrofiado (Pánico)",
-      "desc": "Inicio de Turno: Gana 4 de Poder de Ataque Reducido.",
-      "summary": "Gana 4 Poder de Ataque Reducido"
+      "desc": "Inicio de Turno: Gana 4 de Poder Ofensivo Reducido.",
+      "summary": "Gana 4 Poder Ofensivo Reducido"
     },
     {
       "id": "Overwhelm_LowMorale",
       "name": "Abrumado (Moral Baja)",
-      "desc": "Inicio de Turno: Gana 2 de Poder de Ataque Reducido.",
-      "summary": "Gana 2 de Poder de Ataque Reducido",
+      "desc": "Inicio de Turno: Gana 2 de Poder Ofensivo Reducido.",
+      "summary": "Gana 2 de Poder Ofensivo Reducido",
       "undefined": "-"
     },
     {
@@ -593,7 +593,7 @@
     {
       "id": "Curse",
       "name": "Maldición",
-      "desc": "Finalizar Turno: el siguiente turno gana uno de los siguientes, y entonces reduce el Contador en 1.\n1 Poder de Ataque Reducido/1 Poder Defensivo Reducido/2 Nivel Ofensivo Reducido/2 Nivel Defensivo Reducido.",
+      "desc": "Finalizar Turno: el siguiente turno gana uno de los siguientes, y entonces reduce el Contador en 1.\n1 Poder Ofensivo Reducido/1 Poder Defensivo Reducido/2 Nivel Ofensivo Reducido/2 Nivel Defensivo Reducido.",
       "summary": "Gana un efecto de estado negativo, entonces reduce el Contador en 1"
     },
     {
@@ -611,7 +611,7 @@
     {
       "id": "Meursault_Last_Remodeling",
       "name": "Modificación Final",
-      "desc": "Inicio de Turno: Gana 3 de Poder de Ataque Aumentado, Poder Defensivo Aumentado, y Rapidez; muere dentro de {0} turno(s)."
+      "desc": "Inicio de Turno: Gana 3 de Poder Ofensivo Aumentado, Poder Defensivo Aumentado, y Rapidez; muere dentro de {0} turno(s)."
     },
     {
       "id": "Choice_90103301",
@@ -656,14 +656,14 @@
     {
       "id": "Choice_1030301",
       "name": "Efecto Selectivo",
-      "desc": "Inicio de Combate: Gana 3 de Poder de Ataque Aumentado.",
-      "summary": "Gana 3 de Poder de Ataque Aumentado"
+      "desc": "Inicio de Combate: Gana 3 de Poder Ofensivo Aumentado.",
+      "summary": "Gana 3 de Poder Ofensivo Aumentado"
     },
     {
       "id": "Choice_1030501",
       "name": "Efecto Selectivo",
-      "desc": "Gana 5 Poder de Ataque Disminuido cada turno.",
-      "summary": "Gana 5 Poder de Ataque Reducido"
+      "desc": "Gana 5 Poder Ofensivo Disminuido cada turno.",
+      "summary": "Gana 5 Poder Ofensivo Reducido"
     },
     {
       "id": "Choice_1031001",
@@ -740,14 +740,14 @@
     {
       "id": "Perfected",
       "name": "Caparazón Perfecto",
-      "desc": "Inicio de Turno: Los Brazos ganan 2 Poder de Ataque Aumentado. Removido cuando el HP de los Brazos bajan un 50%",
-      "summary": " Gana 2 de Poder de Ataque Aumentado"
+      "desc": "Inicio de Turno: Los Brazos ganan 2 Poder Ofensivo Aumentado. Removido cuando el HP de los Brazos bajan un 50%",
+      "summary": " Gana 2 de Poder Ofensivo Aumentado"
     },
     {
       "id": "Enrage",
       "name": "Frenesí",
-      "desc": "Gana 3 Poder de Ataque Aumentado y 3 Frágil este turno, y cambia el comportamiento. No gana Instintos cuando es atacado.",
-      "summary": "Gana 3 de Poder de Ataque Aumentado y 3 de Frágil"
+      "desc": "Gana 3 Poder Ofensivo Aumentado y 3 Frágil este turno, y cambia el comportamiento. No gana Instintos cuando es atacado.",
+      "summary": "Gana 3 de Poder Ofensivo Aumentado y 3 de Frágil"
     },
     {
       "id": "Aggressive",
@@ -757,8 +757,8 @@
     {
       "id": "Whistle_Courage",
       "name": "Valor para Triunfar ante el Miedo",
-      "desc": "Inicio de Turno: Gana 1 Poder de Ataque Aumentado y 2 Protección.",
-      "summary": "Gana 1 Poder de Ataque Aumentado y 2 Protección"
+      "desc": "Inicio de Turno: Gana 1 Poder Ofensivo Aumentado y 2 Protección.",
+      "summary": "Gana 1 Poder Ofensivo Aumentado y 2 Protección"
     },
     {
       "id": "Whistle_Fear",
@@ -979,8 +979,8 @@
     {
       "id": "Strong_Chicken",
       "name": "Ira Aguantada",
-      "desc": "Gana 1 de Poder de Ataque Aumentado cada turno.",
-      "summary": "Gana 1 de Poder de Ataque Aumentado"
+      "desc": "Gana 1 de Poder Ofensivo Aumentado cada turno.",
+      "summary": "Gana 1 de Poder Ofensivo Aumentado"
     },
     {
       "id": "DimensionRift",
@@ -1015,14 +1015,14 @@
     {
       "id": "WrappedCurseTag",
       "name": "Talismán Maldito Enredado",
-      "desc": "Inflige +{0}% de daño\na +9 Contador, gana 2 de Poder de Ataque Reducido al inicio del turno",
-      "summary": "Inflige +{0}% de daño; con 9+ de Contador, gana 2 de Poder de Ataque Reducido al inicio del turno"
+      "desc": "Inflige +{0}% de daño\na +9 Contador, gana 2 de Poder Ofensivo Reducido al inicio del turno",
+      "summary": "Inflige +{0}% de daño; con 9+ de Contador, gana 2 de Poder Ofensivo Reducido al inicio del turno"
     },
     {
       "id": "ReattachedCurseTag",
       "name": "Talismán Maldito Reatado",
-      "desc": "A partir de 9+, gana 5 Atadura al inicio del turno.\nA partir de 12+, gana 5 Poder de Ataque Reducido al inicio del turno.",
-      "summary": "A partir de 9+, gana 5 Atadura al inicio del turno.\nA partir de 12+, gana 5 Poder de Ataque Reducido al inicio del turno."
+      "desc": "A partir de 9+, gana 5 Atadura al inicio del turno.\nA partir de 12+, gana 5 Poder Ofensivo Reducido al inicio del turno.",
+      "summary": "A partir de 9+, gana 5 Atadura al inicio del turno.\nA partir de 12+, gana 5 Poder Ofensivo Reducido al inicio del turno."
     },
     {
       "id": "ElectricStorage",
@@ -1105,8 +1105,8 @@
     {
       "id": "TimeRental",
       "name": "Borrowed Time of the Fathoms",
-      "desc": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder de Ataque Reducido",
-      "summary": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder de Ataque Reducido"
+      "desc": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder Ofensivo Reducido",
+      "summary": "Finalizar turno: Gana 3 de Rapidez y 2 Daño Aumentado; si solo queda 1 Contador, gana 4 de Atadura y 1 Poder Ofensivo Reducido"
     },
     {
       "id": "Bull_FadedHeat",
@@ -1122,7 +1122,7 @@
     {
       "id": "Bull_Sadness",
       "name": "Pena sin Resolver",
-      "desc": "Gana Poder de Ataque Baja al Contador en el siguiente turno.\nFin de Turno: Con el Contador 3+, cambia a Pena Creciente.",
+      "desc": "Gana Poder Ofensivo Baja al Contador en el siguiente turno.\nFin de Turno: Con el Contador 3+, cambia a Pena Creciente.",
       "summary": ""
     },
     {
@@ -1134,8 +1134,8 @@
     {
       "id": "Bull_BuzzingEmotion",
       "name": "Emociones Vacilantes",
-      "desc": "Inicio de Turno: Gana aleatoriamente Poder de Ataque Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto.",
-      "summary": "Inicio de Turno: Gana aleatoriamente Poder de Ataque Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto."
+      "desc": "Inicio de Turno: Gana aleatoriamente Poder Ofensivo Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto.",
+      "summary": "Inicio de Turno: Gana aleatoriamente Poder Ofensivo Reducido, Parálisis o Atadura por el Contador de este efecto, luego elimina este efecto."
     },
     {
       "id": "Crazy_LowMorale",
@@ -1194,8 +1194,8 @@
     {
       "id": "ErodingMind",
       "name": "Corazón Corroído",
-      "desc": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Frágil, y 5 de Atadura",
-      "summary": "Inicio de Turno: Gana 2 Poder de Ataque Reducido, 2 de Frágil, y 5 de Atadura"
+      "desc": "Inicio de Turno: Gana 2 Poder Ofensivo Reducido, 2 de Frágil, y 5 de Atadura",
+      "summary": "Inicio de Turno: Gana 2 Poder Ofensivo Reducido, 2 de Frágil, y 5 de Atadura"
     },
     {
       "id": "Blue_LowMorale",
@@ -1242,7 +1242,7 @@
     {
       "id": "DongbaekShowdown",
       "name": "A Duelo",
-      "desc": "Inicio de Turno: Units without this status go into a 'Fully Bloomed' status\nIf Yi Sang has this effect, Dongbaek gains 1 de Poder de Ataque Aumentado",
+      "desc": "Inicio de Turno: Units without this status go into a 'Fully Bloomed' status\nIf Yi Sang has this effect, Dongbaek gains 1 de Poder Ofensivo Aumentado",
       "summary": ""
     },
     {
@@ -1265,7 +1265,7 @@
     {
       "id": "DistortedDongrangRadiantVanity",
       "name": "Vanidad Radiante",
-      "desc": "Inicio de Turno: Dongrang gana 1 de Protección y 1 de Poder de Ataque Aumentado"
+      "desc": "Inicio de Turno: Dongrang gana 1 de Protección y 1 de Poder Ofensivo Aumentado"
     },
     {
       "id": "DistortedDongrangEmptyMark",
@@ -1295,7 +1295,7 @@
     {
       "id": "DistortedDongrangFruition",
       "name": "Fructificación",
-      "desc": "La unidad que derrotó a esta unidad se cura el HP, y gana 1 de Rapidez y 1 de Poder de Ataque Aumentado en el siguiente turno"
+      "desc": "La unidad que derrotó a esta unidad se cura el HP, y gana 1 de Rapidez y 1 de Poder Ofensivo Aumentado en el siguiente turno"
     },
     {
       "id": "EgoAwakenDongrangRadiantDesire",
@@ -1347,7 +1347,7 @@
     {
       "id": "EgoAwakenDongrangShardOfBrokenConnection",
       "name": "Pieza de una Relación Rota",
-      "desc": "Las habilidades de Yi Sang ganan +2 de Poder Final\nCuando un aliado muere, los aliados restantes ganan 1 de Rapidez y 1 de Poder de Ataque Aumentado en el siguiente turno (Una vez por turno)\nMientras haya al menos otro aliado vivo en esta batalla, Yi Sang no muere.",
+      "desc": "Las habilidades de Yi Sang ganan +2 de Poder Final\nCuando un aliado muere, los aliados restantes ganan 1 de Rapidez y 1 de Poder Ofensivo Aumentado en el siguiente turno (Una vez por turno)\nMientras haya al menos otro aliado vivo en esta batalla, Yi Sang no muere.",
       "summary": ""
     },
     {
@@ -1518,7 +1518,7 @@
     {
       "id": "PseudoLastBoss_KingCrap",
       "name": "Furia Cangrejera",
-      "desc": "Al inicio del turno, aplica Poder de Ataque Aumentado a todos los cangrejos aliados, y obtiene 2 Protección si su Caparazón no está roto.\n-5 PC al objetivo cuando se usa una habilidad.\nA 50%- de HP, cada parte gana 2 Poder de Ataque Aumentado y 2 Frágil."
+      "desc": "Al inicio del turno, aplica Poder Ofensivo Aumentado a todos los cangrejos aliados, y obtiene 2 Protección si su Caparazón no está roto.\n-5 PC al objetivo cuando se usa una habilidad.\nA 50%- de HP, cada parte gana 2 Poder Ofensivo Aumentado y 2 Frágil."
     },
     {
       "id": "ChargeForceField",
@@ -2413,6 +2413,27 @@
       "id": "ReleaseBreath",
       "name": "Shallow Exhale",
       "desc": "- Max Value: 1\n- At 20+ Poise Potency, gain +1 Count as well whenever this unit gains Poise Potency with Skill and Coin effects\n- Expires at Turn End"
+    },
+    {
+      "id": "FirePunchFuel",
+      "name": "District 12 Fuel",
+      "desc": "Max Stack: 100\nConsumed by certain Skills.\nAt 50- Stack, become Overheated Fuel\nFuel consumed: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FirePunchFuelOverheated",
+      "name": "Overheated Fuel",
+      "desc": "Max Stack: 100\nConsuming District 12 Fuel in Overheated Fuel State consumes Overheated Fuel instead\nConsuming Overheated Fuel counts as consuming District 12 Fuel\nAt over 50 Stack, become District 12 Fuel\nFuel consumed: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DianxueDonQuixote",
+      "name": "Nerve Strike - Don Quixote",
+      "desc": "- Max Stack: 3\n- The unit that inflicted this Nerve Strike gains the following effects based on the target's(or targeted Part's) Nerve Strike Stack\n· 1x Stack: Gain Clash Power +1\n· 2x Stack: Gain Base Power +1\n· 3x Stack: Gain Clash Power +1 and Base Power +1\n- Expires if the unit that inflicted it inflicts this effect against a different target(or a different Part)\n- Replaced when another unit inflicts Nerve Strike",
+      "summary": "",
+      "undefined": "-"
     }
   ]
 }

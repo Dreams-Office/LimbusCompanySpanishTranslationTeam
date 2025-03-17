@@ -92,7 +92,7 @@
                 {
                     "level": 1,
                     "name": "Dominar",
-                    "desc": "[StartBattle] Aplica 1 Poder de Ataque Aumentado a todos los aliados\n[StartBattle] Inflige 2 Poder de Ataque Reducido a 2 enemigos con los menores PC",
+                    "desc": "[StartBattle] Aplica 1 Poder Ofensivo Aumentado a todos los aliados\n[StartBattle] Inflige 2 Poder Ofensivo Reducido a 2 enemigos con los menores PC",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -138,7 +138,7 @@
                                     "desc": "[OnSucceedAttack] Cura 10 de PC en sí mismo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] y 2 Poder de Ataque Reducido el siguiente turno"
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Binding] y 2 Poder Ofensivo Reducido el siguiente turno"
                                 }
                             ]
                         },

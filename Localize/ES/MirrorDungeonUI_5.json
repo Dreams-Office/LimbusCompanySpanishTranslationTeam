@@ -18,7 +18,7 @@
     },
     {
       "id": "mirror_dungeon_start_bonus_formation_total",
-      "content": "Descanso\nBonificación"
+      "content": "Bonificación\nde Descanso"
     },
     {
       "id": "mirror_dungeon_start_buff_Panel_reset_selection",
@@ -42,7 +42,7 @@
     },
     {
       "id": "mirror_enemy_addenemylevel_desc",
-      "content": "Nivel de Enemigo Aumentado +{0}"
+      "content": "+{0} Nivel de Enemigo"
     },
     {
       "id": "mirror_card_pack",
@@ -162,7 +162,7 @@
     },
     {
       "id": "mirror_shop_purchase_complete",
-      "content": ""
+      "content": "Comprado"
     },
     {
       "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
@@ -491,6 +491,26 @@
     {
       "id": "mirrordungeon_egogift_combine_guide_result_total_4_upgrade",
       "content": "22+ Puntos"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_title",
+      "content": "Unidades con Bonificicación de Descanso Retenida"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_desc",
+      "content": "Por la duración de la retención, las Bonificaciones de Descanso de estas unidades no se gastarán al completar una partida de la Mazmorra Espejo."
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_label",
+      "content": "Unidades Beneficiadas"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_button_label",
+      "content": "Unidades con Bonificicación de Descanso Retenida"
+    },
+    {
+      "id": "mirrordungeon_start_bonus_personality_period",
+      "content": "Hasta {0}"
     }
   ]
 }

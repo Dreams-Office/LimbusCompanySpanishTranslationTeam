@@ -2,31 +2,31 @@
   "dataList": [
     {
       "id": "dungeon_selectable",
-      "content": "Selectable"
+      "content": "A Seleccionar"
     },
     {
       "id": "dungeon_battle_reawrd_card_selection",
-      "content": "Select Encounter Reward Card"
+      "content": "Seleccionar Carta de Recompensa"
     },
     {
       "id": "dungeon_opportunity_to_select_rewards_remaining",
-      "content": "You have not selected a reward yet.\nContinue without choosing a reward?"
+      "content": "No has seleccionado una recompensa aún.\n¿Continuar sin elegir una recompensa?"
     },
     {
       "id": "mirrordungeon_appear_able_theme_pack_title",
-      "content": "{0} - Featured Theme Packs"
+      "content": "{0} - Paquetes Temáticos Disponibles"
     },
     {
       "id": "mirrordungeon_theme_pack_boss",
-      "content": "Featured Boss"
+      "content": "Jefe(s) Disponibles"
     },
     {
       "id": "mirrordungeon_theme_pack_ego_gift",
-      "content": "Featured E.G.O Gifts"
+      "content": "Regalos E.G.O Disponibles"
     },
     {
       "id": "mirrordunge_theme_pack_history_button_label",
-      "content": "Theme Pack Compendium"
+      "content": "Compendio de Paquetes Temáticos"
     },
     {
       "id": "simulation_difficulty",
@@ -54,7 +54,7 @@
     },
     {
       "id": "mirror_dungeon_progress_text_before_exploration",
-      "content": "Before Entry"
+      "content": "Antes de Entrar"
     },
     {
       "id": "mirror_dungeon4_entrance_hard_hint_after_release",
@@ -66,11 +66,11 @@
     },
     {
       "id": "purchase_ego_gift",
-      "content": "Purchase E.G.O Gifts"
+      "content": "Comprar Regalo E.G.O"
     },
     {
       "id": "purchase_personality_skill_desc",
-      "content": "Spend <color=#f8c200>{0}</color> Cost to replace this Skill?"
+      "content": "¿Gastar <color=#f8c200>{0}</color> Coste para reemplazar esta Habilidad?"
     },
     {
       "id": "mirror_dungeon_4_start_buff_name",
@@ -822,31 +822,31 @@
     },
     {
       "id": "mirror_ego_gift_combine_guide_popup_title",
-      "content": "Fusion Guide"
+      "content": "Guía de Fusión"
     },
     {
       "id": "mirrordungeon_select_theme_pack_at_floor",
-      "content": "Select Floor {0} Theme Pack"
+      "content": "Selecciona el Paquete Temático del Piso {0}"
     },
     {
       "id": "mirrordungeon_ego_gift_appear_rate_up",
-      "content": "Rate Up"
+      "content": "+ Prob."
     },
     {
       "id": "mirrordungeon_ego_gift_appearable",
-      "content": "Featured"
+      "content": "Disponibles"
     },
     {
       "id": "mirrordungeon_selected_floor_theme_label",
-      "content": "Selected Floor Theme"
+      "content": "Temas de Piso Seleccionados"
     },
     {
       "id": "mirrordungeon_ego_gift_sort_by_tier",
-      "content": "By Tier"
+      "content": "Por Grado"
     },
     {
       "id": "mirrordungeon_ego_gift_sort_by_keyword",
-      "content": "By Keyword"
+      "content": "Por Arquetipo"
     },
     {
       "id": "side_content_cannot_acquire_specific_ego_gift",
@@ -874,15 +874,15 @@
     },
     {
       "id": "mirror_dungeon_appeared_ego_gift",
-      "content": "Featured E.G.O Gifts"
+      "content": "Regalos E.G.O Disponibles"
     },
     {
       "id": "mirror_dungeon_select_theme_drag",
-      "content": "Select a Pack\nAnd Pull"
+      "content": "Selecciona un\nPaquete\nY Arrástralo"
     },
     {
       "id": "mirror_dungeon_cannot_acquired_ego_gift",
-      "content": "Did Not Gain an E.G.O Gift"
+      "content": "No Ganó un Regalo E.G.O"
     },
     {
       "id": "simulation_difficulty_short",
@@ -902,11 +902,11 @@
     },
     {
       "id": "mirror_dungeon_theme_ego_gift_popup_valid_atk",
-      "content": "Effective Affinities"
+      "content": "Afinidades Efectivas"
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh",
-      "content": "Keyword Refresh"
+      "content": "Refrescar Por Arquetipo"
     },
     {
       "id": "mirror_dungeon_shop_refresh_by_chip",
@@ -914,23 +914,23 @@
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_title",
-      "content": "Shop - Keyword Refresh"
+      "content": "Tienda - Refrescar Por Arquetipo"
     },
     {
       "id": "mirror_dungeon_shop_keyword_refresh_popup_desc",
-      "content": "'Keyword Refresh' to raise the chances of getting E.G.O Gifts of the selected Keyword category in the Shop.\nSpend {0} Cost to Keyword Refresh?"
+      "content": "'Refresca Por Arquetipo' para aumentar las probabilidades de obtener Regalos E.G.O del Arquetipo seleccionado en la Tienda.\n¿Gastar {0} Coste para 'Refrescar Por Arquetipo'?"
     },
     {
       "id": "ego_gift_combine_ui_plz_select_keyword",
-      "content": "Select a Keyword."
+      "content": "Selecciona un Arquetipo."
     },
     {
       "id": "ego_gift_select_keyword_ui_title",
-      "content": "Fusion - Keyword Selection"
+      "content": "Fusión - Selección de Arquetipo"
     },
     {
       "id": "ego_gift_select_keyword_ui_desc",
-      "content": "Please choose a Keyword you want to Fuse into."
+      "content": "Por favor selecciona el Arquetipo que deseas obtener."
     },
     {
       "id": "new_ego_gift_combine_guide_desc_1",
@@ -970,7 +970,7 @@
     },
     {
       "id": "new_ego_gift_combine_guide_table_2_col_1_title",
-      "content": "Ingredient E.G.O Gift Tiers"
+      "content": "Grado de los Regalos E.G.O Utilizados"
     },
     {
       "id": "new_ego_gift_combine_guide_table_2_col_2_title",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "new_ego_gift_combine_guide_table_3_col_2_title",
-      "content": "E.G.O Gift Tier Forecast"
+      "content": "Pronóstico de Grado del Regalo E.G.O"
     },
     {
       "id": "new_ego_gift_combine_guide_table_3_desc_1_0",
@@ -1078,7 +1078,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_popup_title",
-      "content": "Encounter Reward Cards Guide"
+      "content": "Guía de Cartas de Recompensa por Encuentro"
     },
     {
       "id": "mirror_battle_reward_card_guide_text_1",
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_5_0",
-      "content": "Piso 5"
+      "content": "Piso 5+"
     },
     {
       "id": "mirror_battle_reward_card_guide_table_1_desc_5_1",
@@ -1158,11 +1158,11 @@
     },
     {
       "id": "expected_result",
-      "content": "Forecasts"
+      "content": "Pronósticos"
     },
     {
       "id": "confirmed",
-      "content": "Guaranteed"
+      "content": "Garantizado"
     },
     {
       "id": "combine_tooltip_title",

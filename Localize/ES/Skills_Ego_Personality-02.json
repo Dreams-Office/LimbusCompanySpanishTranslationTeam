@@ -127,7 +127,7 @@
                   "desc": "[OnSucceedAttack] Inflige 10 daño de PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido al siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Poder Ofensivo Reducido al siguiente turno"
                 }
               ]
             }
@@ -145,7 +145,7 @@
                   "desc": "[OnSucceedAttack] Inflige 20 daño de PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -166,7 +166,7 @@
                   "desc": "[OnSucceedAttackTail] Inflige 10 daño de PC"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -658,7 +658,7 @@
           "level": 4,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-        "desc": "Si la Velocidad del objetivo es menor que la de esta unidad, inflige +(<style=\"highlight\">3.5</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">50%</style>)\n[BeforeAttack] Con 3+ Reson. o más, inflige Potencia de [Vibration] igual a (<style=\"highlight\">2</style> x (Reson. más alta)) (máx <style=\"highlight\">10</style>)\n- Si la Reson. más alta era una Reson.-A de Pereza, inflige Contador de [Vibration] igual a Potencia de [Vibration] infligida (máx <style=\"highlight\">10</style>)\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno",
+        "desc": "Si la Velocidad del objetivo es menor que la de esta unidad, inflige +(<style=\"highlight\">5</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">50%</style>)\n[BeforeAttack] Con 3+ Reson. o más, inflige Potencia de [Vibration] igual a (<style=\"highlight\">2</style> x (Reson. más alta)) (máx <style=\"highlight\">10</style>)\n- Si la Reson. más alta era una Reson.-A de Pereza, inflige Contador de [Vibration] igual a Potencia de [Vibration] infligida (máx <style=\"highlight\">10</style>)\n[EndSkill] Por 3 turnos, pierde 10 PC al Final del Turno",
           "coinlist": [
             {
               "coindescs": [
@@ -762,7 +762,7 @@
           "level": 4,
           "name": "Por Toda la Eternidad",
           "abName": "Pato del Tiempo",
-          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi la Velocidad del objetivo principal es menor que la de esta unidad, inflige+(<style=\"highlight\">2.5</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">20%</style>)\n[BeforeAttack] Con 3+ Reson. más alta, inflige Potencia de [Vibration] igual a la Reson. más alta (máx <style=\"highlight\">4</style>)\n- [BeforeAttack] Si la Reson. más alta fue una Reson.-A de Pereza, <style=\"highlight\">inflige Contador de [Vibration] igual a la Potencia de [Vibration] infligida (máx 5)</style>",
+          "desc": "[CantIdentify]\nObjetivo seleccionado aleatoriamente\nSi la Velocidad del objetivo principal es menor que la de esta unidad, inflige+(<style=\"highlight\">2.5</style> x (Dif. de Velocidad))% de daño (máx <style=\"highlight\">20%</style>)\n[BeforeAttack] Con 3+ Reson. más alta, inflige Potencia de [Vibration] igual a la Reson. más alta (máx <style=\"highlight\">5</style>)\n- [BeforeAttack] Si la Reson. más alta fue una Reson.-A de Pereza, <style=\"highlight\">inflige Contador de [Vibration] igual a la Potencia de [Vibration] infligida (máx 5)</style>",
           "coinlist": [
             {
               "coindescs": [

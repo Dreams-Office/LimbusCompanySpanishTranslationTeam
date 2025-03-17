@@ -12,7 +12,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Gana 2 [Agility] el siguiente turno"
@@ -30,7 +30,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gana 3 [Agility] el siguiente turno"
@@ -48,13 +48,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Gana 3 [Agility] el siguiente turno"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 2 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[EnemyKill] Gana 2 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -271,7 +271,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido al siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 Poder Ofensivo Reducido al siguiente turno"
                 },
                 {
                   "desc": "[EndSkill] Cura 12 PC a otros 4 aliados con los menores PC"
@@ -289,7 +289,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 },
                 {
                   "desc": "[EndSkill] Cura 17 PC a otros 4 aliados con los menores PC"
@@ -307,7 +307,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 },
                 {
                   "desc": "[EndSkill] Cura 25 PC a otros 4 aliados con los menores PC"

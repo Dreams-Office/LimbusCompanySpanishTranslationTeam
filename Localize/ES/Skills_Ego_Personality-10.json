@@ -54,7 +54,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige 12 de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Pierde 10 PC. <style=\"highlight\">Gana 1 Poder de Ataque Aumentado el siguiente turno</style>"
+                  "desc": "[OnSucceedAttackHead] Pierde 10 PC. <style=\"highlight\">Gana 1 Poder Ofensivo Aumentado el siguiente turno</style>"
                 },
                 {},
                 {
@@ -94,7 +94,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[EnemyKill] Gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[EnemyKill] Cura a todos los aliados un 25% de su HP máx."
@@ -112,7 +112,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EnemyKill] Gana 1 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[EnemyKill] Gana 1 Poder Ofensivo Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[EnemyKill] Cura a todos los aliados un 25% de sus HP máx."
@@ -153,7 +153,7 @@
                   "desc": "[EnemyKillFail] Gana 10 de de [Laceration] el siguiente turno"
                 },
                 {
-                  "desc": "[EnemyKillFail] Gana 3 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[EnemyKillFail] Gana 3 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -171,7 +171,7 @@
                   "desc": "[EnemyKillFail] Gana 10 de de [Laceration] el siguiente turno"
                 },
                 {
-                  "desc": "[EnemyKillFail] Gana 3 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[EnemyKillFail] Gana 3 Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -448,7 +448,7 @@
                   "desc": "[OnSucceedAttack] Inflige 4 de [Combustion]"
                 },
                 {
-                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 1 Poder de Ataque Reducido y 1 Poder Defensivo Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttackTail] Si el objetivo tiene 10+ de [Combustion], inflige 1 Poder Ofensivo Reducido y 1 Poder Defensivo Reducido el siguiente turno"
                 }
               ]
             }

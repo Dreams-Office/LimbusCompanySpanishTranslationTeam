@@ -132,7 +132,7 @@
         {
           "level": 1,
           "name": "Fuego al Objetivo Asignado",
-          "desc": "Ataca el objetivo con [FellBulletMark]\nPoder de Moneda +1 por cada 5 [Breath] en sí (máx 2)\nPoder Base +1 por cada 3 Contador de [Breath] en sí (máx 3)\n[WhenUse] Si el objetivo principal [FellBulletMark], gana 1 de [Paralysis] y 3 de [Vulnerable]\n[EndSkill] Si el objetivo es derrotado, gana 10 de [Breath] y reduce los PC de cada enemigo por 15",
+          "desc": "Ataca el objetivo con [FellBulletMark]\nPoder de Moneda +1 por cada 5 [Breath] en sí (máx 2)\nPoder Base +1 por cada 3 Contador de [Breath] en sí (máx 3)\n[WhenUse] Si el objetivo principal no tiene [FellBulletMark], gana 1 de [Paralysis] y 3 de [Vulnerable]\n[EndSkill] Si el objetivo es derrotado, gana 10 de [Breath] y reduce los PC de cada enemigo por 15",
           "coinlist": [
             {
               "coindescs": [

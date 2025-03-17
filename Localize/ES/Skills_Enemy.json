@@ -25,7 +25,7 @@
         {
           "level": 1,
           "name": "Ataque Sigiloso",
-          "desc": "[OnSucceedAttack] Gana 1 de Poder de Ataque Aumentado el siguiente turno"
+          "desc": "[OnSucceedAttack] Gana 1 de Poder Ofensivo Aumentado el siguiente turno"
         }
       ]
     },
@@ -44,7 +44,7 @@
         {
           "level": 1,
           "name": "Herida Abierta",
-          "desc": "[OnSucceedAttack] Inflige 1 Poder de Ataque Reducido el siguiente turno"
+          "desc": "[OnSucceedAttack] Inflige 1 Poder Ofensivo Reducido el siguiente turno"
         }
       ]
     },
@@ -961,7 +961,7 @@
         {
           "level": 1,
           "name": "¡Ya verán...!",
-          "desc": "[StartBattle] Gana 1 Poder de Ataque Aumentado",
+          "desc": "[StartBattle] Gana 1 Poder Ofensivo Aumentado",
           "coinlist": [
             {}
           ]
@@ -1233,7 +1233,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -1273,7 +1273,7 @@
         {
           "level": 1,
           "name": "Danza de Emoción",
-          "desc": "[WhenUse] Gana 1 Poder de Ataque Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana 1 Poder Ofensivo Aumentado el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -1331,7 +1331,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Poder de Ataque Reducido y Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 Poder Ofensivo Reducido y Parálisis el siguiente turno"
                 }
               ]
             }
@@ -1351,7 +1351,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 de Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 2 de Poder Ofensivo Aumentado el siguiente turno"
                 }
               ]
             }
@@ -1958,12 +1958,12 @@
         {
           "level": 1,
           "name": "Sermón Opresivo",
-          "desc": "[DefeatDuel] Gana 2 Poder de Ataque Reducido",
+          "desc": "[DefeatDuel] Gana 2 Poder Ofensivo Reducido",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -2074,7 +2074,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 3 Atadura y 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 Atadura y 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -2140,7 +2140,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+.Clavos N Corp, inflige 10 Poder de Ataque Reducido y Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene 5+.Clavos N Corp, inflige 10 Poder Ofensivo Reducido y Parálisis el siguiente turno"
                 }
               ]
             }
@@ -2839,7 +2839,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Activa Estallido de Tremor"
@@ -2978,7 +2978,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder de Ataque Reducido el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido el siguiente turno"
                 }
               ]
             }
@@ -3931,7 +3931,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Da 2 Poder de Ataque Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttack] Da 2 Poder Ofensivo Aumentado el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 Frágil el siguiente turno"

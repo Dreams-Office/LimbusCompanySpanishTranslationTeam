@@ -30,7 +30,7 @@
     },
     {
       "id": "mirrordungeonui_select_character",
-      "content": "Select Sinner"
+      "content": "Seleccionar Pecador"
     },
     {
       "id": "mirrordungeonui_able_to_equip",
@@ -46,7 +46,7 @@
     },
     {
       "id": "mirrordungeon_already_in_member",
-      "content": "On Team"
+      "content": "En el Equipo"
     },
     {
       "id": "mirrordungeon_select_start_character",
@@ -90,11 +90,11 @@
     },
     {
       "id": "mirrordungeon_progress",
-      "content": "Resume"
+      "content": "Reanudar"
     },
     {
       "id": "mirrordungeon_stop",
-      "content": "Halt Exploration"
+      "content": "Detener Exploración"
     },
     {
       "id": "mirrordungeon_dungeon_name_simulation",
@@ -106,7 +106,7 @@
     },
     {
       "id": "mirrordungeon_acquire_rewards",
-      "content": "Claim Rewards"
+      "content": "Reclamar Recompensas"
     },
     {
       "id": "mirrordungeon_ask_select_character_level_up",
@@ -122,7 +122,7 @@
     },
     {
       "id": "mirrordunge_ego_gift_history_button_label",
-      "content": "E.G.O Gift Compendium"
+      "content": "Compendio de Regalos E.G.O"
     },
     {
       "id": "mirrordungeon_weekly_reset_description",
@@ -142,27 +142,31 @@
     },
     {
       "id": "explore_dungeon_finished",
-      "content": "Exploration Complete"
+      "content": "Exploración Completada"
     },
     {
       "id": "participated_personality",
-      "content": "Identities"
+      "content": "Identidades"
     },
     {
       "id": "dungeon_final_area",
-      "content": "Last Reached"
+      "content": "Último Punto de Exploración"
     },
     {
       "id": "total_progress_rate",
-      "content": "Total Progress"
+      "content": "Progreso Total"
     },
     {
       "id": "mirrordungeon_weekly_reset",
-      "content": "The previous session has expired.\nPlease claim your rewards."
+      "content": "La anterior sesión expiró.\nPor favor reclama tus recompensas."
     },
     {
       "id": "mirror_dungeon_error_desc",
-      "content": "Data was lost due to a server error."
+      "content": "La información fue perdida debido a un error con el servidor."
+    },
+    {
+      "id": "mirrordunge_achievement_history_button_label",
+      "content": "Logros"
     }
   ]
 }
