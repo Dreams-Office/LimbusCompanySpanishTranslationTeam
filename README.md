@@ -15,7 +15,7 @@ Traducción al Español de Limbus Company
 # Instalación
 Momentáneamente el parche está en reconstrucción debido a las últimas noticias dadas por Project Moon. Por el momento la historia hasta canto 3 se encuentra en nuestro canal de youtube [Dreams-Office](https://www.youtube.com/@DreamsOfficeLC) por si desean echarle un ojo, también pueden seguirnos en nuestro [Twitter Oficial](https://x.com/DreamsOffice_LC) para recibir noticias referente al parche de manera más ágil. Canto 4 y 5 todavía no han tenido la oportunidad de subirse en el mismo formato de video, el contenido volverá una vez que termine la reconstrucción.
 
-La información sobre el nuevo método de descarga del parche será anuncia a más tardar el día Jueves 3 de Abril. Disculpen las molestias.
+La información sobre el nuevo método de descarga del parche será anuncia a más tardar el día Lunes 7 de Abril. Disculpen las molestias.
 # Preguntas Frecuentes
 
 ## ¿El parche está disponible para móviles?
