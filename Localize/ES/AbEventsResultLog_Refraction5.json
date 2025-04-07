@@ -2,51 +2,51 @@
   "dataList": [
     {
       "id": "8630_BUFF",
-      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}/%"
+      "content": "<color=#ebcaa2>{0}</color> <color=#ebcaa2> gana</color> %{2} {1}/%"
     },
     {
       "id": "8630_SHIELD",
-      "content": "<color=#ebcaa2>{0} gains {1} Shield</color>"
+      "content": "<color=#ebcaa2>{0} gana {1} Escudo</color>"
     },
     {
       "id": "863201_1_1",
-      "content": "<color=#ebcaa2>{0} physical resistances weakened\n- Slash, Pierce, Blunt Resistance +0.3</color>"
+      "content": "<color=#ebcaa2> Resistencias físicas de {0} debilidatas\n- Resistencias Cortante, Perforante, Contudente +0.3</color>"
     },
     {
       "id": "863201_1_2",
-      "content": "<color=#ebcaa2>For this turn, {0} deals +100% more damage on Critical Hit</color>"
+      "content": "<color=#ebcaa2>Por este turno, {0} inflige +100% de daño con Golpes Críticos</color>"
     },
     {
       "id": "863201_2_1",
-      "content": "For this turn, <color=#ebcaa2>all allies</color> gain %{1} {0}/%"
+      "content": "Por este turno, <color=#ebcaa2>todos los aliados</color> ganan %{1} {0}/%"
     },
     {
       "id": "863301_1_1",
-      "content": "For 3 turns, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}, and {4} {3}/%"
+      "content": "Por 3 turnos, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gana</color> %{2} {1}, y {4} {3}/%"
     },
     {
       "id": "863301_2_1",
-      "content": "<color=#ebcaa2>All Sinners</color> <color=#fe4b48>lose 10% HP.</color>"
+      "content": "<color=#ebcaa2>Todos los Pecadores</color> <color=#fe4b48>pierden 10% HP.</color>"
     },
     {
       "id": "863301_2_2",
-      "content": "For 3 turns, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}, and {4} {3}/%"
+      "content": "Por 3 turnos, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gana</color> %{2} {1}, y {4} {3}/%"
     },
     {
       "id": "863301_3_1",
-      "content": "<color=#ebcaa2>All Sinners</color> <color=#fe4b48>lose 15% HP.</color>"
+      "content": "<color=#ebcaa2>Todos los Pecadores</color> <color=#fe4b48>pierden 15% HP.</color>"
     },
     {
       "id": "863301_3_2",
-      "content": "For 3 turns, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}, and {4} {3}/%"
+      "content": "Por 3 turnos, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gana</color> %{2} {1}, y {4} {3}/%"
     },
     {
       "id": "863301_4_1",
-      "content": "<color=#fe4b48>Halve the Bloodfeast present</color> <color=#ebcaa2>in this Encounter</color>"
+      "content": "<color=#fe4b48>Reduce la cantidad de Festín de Sangre a la mitad</color> <color=#ebcaa2>presente en este Encuentro</color>"
     },
     {
       "id": "863301_4_2",
-      "content": "For 3 turns, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gains</color> %{2} {1}, and {4} {3}/%"
+      "content": "Por 3 turnos, <color=#ebcaa2>{0}</color> <color=#ebcaa2>gana</color> %{2} {1}, y {4} {3}/%"
     }
   ]
 }

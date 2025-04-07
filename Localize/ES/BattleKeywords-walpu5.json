@@ -2,36 +2,36 @@
   "dataList": [
     {
       "id": "Smoke",
-      "name": "Smoke",
-      "desc": "- Max Potency: 10\n- Max Count: 5\n- At 9+ Potency, Final Power +1\n- Take +5% more damage for every Potency\n- Lose 1 Count at Turn End",
+      "name": "Humo",
+      "desc": "- Potencia Máxima: 10\n- Contador Máximo: 5\n- A 9+ de Potencia, Poder Final +1\n- Recibe +5% de daño por cada Potencia\n- Pierde 1 de Contador al Final del Turno",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Church_LowMorale",
-      "name": "The Church",
-      "desc": "- Low Morale\n- Gain 1 additional Smoke or Smoke Count when gaining them\n- Turn Start: gain 3 Fragility, 2 Damage Up, and 1 Defense Power Up",
+      "name": "La Iglesia",
+      "desc": "- Moral Baja\n- Gana 1 Contador o Potencia de Humo adicional al obtener cualquiera de los dos\n- Inicio del turno: Gana 3 de Fragilidad, 2 de Daño Aumentado, y 1 de Poder Defensivo Aumentado",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Church_Panic",
-      "name": "The Church",
-      "desc": "- Panic\n- Gain 2 additional Smoke or Smoke Count when gaining them\n- Turn Start: gain 3 Fragility, 4 Damage Up, and 2 Defense Power Up",
+      "name": "La Iglesia",
+      "desc": "- Pánico\n- Gana 2 Potencia o Contador de Humo adicional al obtener cualquiera de los dos\n- Inicio del turno gana 3 de Fragilidad, 4 de Daño Aumentado, y 2 de Poder Defensivo Aumentado",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "MeatGearForce",
-      "name": "Meat Gear: Coercion",
-      "desc": "- HP does not drop below 1 HP during the Combat Phase.\n- This unit dies if it has 1 HP at Turn End.",
+      "name": "Engranaje de Carne: Coerción",
+      "desc": "- HP no baja de 1 durante la Fase de Batalla.\n- Esta unidad muere si tiene 1 de HP al Final del Turno.",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AllSetForShooting",
-      "name": "Ready to Fire",
-      "desc": "- Skill Slot +1\n- Modify Skill pool: Gain 1 use of Skill 3, but lose 1 use of Skill 1\n- Deal +10% damage for every Ammo the Base Attack Skill spends\n- Attack Skills that gain Ammo deal +10% more damage for every Magic Bullet (applies whichever that has the highest damage gain)\n- On Kill with a Skill: heal 25 SP for 2 allies(including self) with the least SP; +2 E.G.O resources for the Affinity of the Skill that defeated the target; +1 E.G.O resource for all other Affinities",
+      "name": "Listo Para Disparar",
+      "desc": "- Ranura de Habilidad +1\n- Modifica la reserva de Habilidades: Gana 1 uso de la Habilidad 3, pero pierde 1 uso de la Habilidad 1\n- inflige +10% de daño por cada Munición que la Habilidad de Ataque Base consuma\n- Habilidades de Ataque que ganen Munición infligen +10% de daño por cada Bala Mágica (solo aplica cualquiera de las condicionales que resulte en la mayor bonificación de daño)\n- Cuando esta unidad derrota a un enemigo con una Habilidad, 2 aliados (incluida esta unidad) con los menores PC curan 25 PC. Gana +2 recursos E.G.O de la Afinidad de la Habilidad que derrotó al enemigo; gana +1 recurso E.G.O para el resto de Afinidades",
       "summary": "",
       "undefined": "-"
     }

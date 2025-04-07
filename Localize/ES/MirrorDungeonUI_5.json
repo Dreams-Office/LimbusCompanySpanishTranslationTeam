@@ -162,7 +162,7 @@
     },
     {
       "id": "mirror_shop_purchase_complete",
-      "content": "Comprado"
+      "content": ""
     },
     {
       "id": "mirror_start_buff_purchase_modal_not_selected_any_buff",
@@ -511,6 +511,30 @@
     {
       "id": "mirrordungeon_start_bonus_personality_period",
       "content": "Hasta {0}"
-    }
-  ]
-}
+     },
+     {
+       "id": "mirrordungeon_purchase_achievement_level_using_lunacy_desc",
+       "content": "※ Purchasing {0} Achievement EXP costs {1} Paid Lunacy."
+     },
+     {
+       "id": "mirrordungeon_purchase_achievement_level_ask_using_lunacy",
+       "content": "Spend {0} Paid Lunacy to purchase Achievements EXP?"
+     },
+     {
+       "id": "mirrordungeon_purchase_achievement_title",
+       "content": "Purchase Achievement EXP"
+     },
+     {
+       "id": "mirrordungeon_achievement_progress",
+       "content": "Progress"
+     },
+     {
+       "id": "mirrordungeon_purchase_achievement_block_by_max_level",
+       "content": "Exceeded purchasable Achievement Level"
+     },
+     {
+       "id": "mirrordungeon_achievement_max_level",
+       "content": "Achievement Level maxed out"
+     }
+   ]
+ }

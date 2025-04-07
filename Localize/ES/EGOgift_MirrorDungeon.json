@@ -737,7 +737,7 @@
     {
       "id": 9031,
       "name": "Divergencia Nixie",
-      "desc": "Primer Inicio de Turno de un Encuentro: inflige 4 de Potencia de [vibration] y +4 Contador de [Vibration] a todos los enemigos. (O todas las partes de Anormalidades)\n\nAl golpear a un enemigo con una Habilidad de Afinidad de Envidia, inflige 2 de Potencia de [Vibration] en el objetivo.",
+      "desc": "Primer Inicio de Turno de un Encuentro: inflige 4 de Potencia de [Vibration] y +4 Contador de [Vibration] a todos los enemigos. (O todas las partes de Anormalidades)\n\nAl golpear a un enemigo con una Habilidad de Afinidad de Envidia, inflige 2 de Potencia de [Vibration] en el objetivo.",
       "simpleDesc": [
         {
           "abilityID": 9031,
@@ -934,11 +934,11 @@
     {
       "id": 9040,
       "name": "La Fortuna del Mañana",
-      "desc": "Incrementa el número de opciones disponibles por 1 a la hora de escoger regalos E.G.O. a obtener.",
+      "desc": "Mejora la primera Tarjeta de Recompensa por Encuentro al máximo grado que puede aparecer.",
       "simpleDesc": [
         {
           "abilityID": 9040,
-          "simpleDesc": "Incrementa el número de opciones disponibles por 1 a la hora de escoger regalos E.G.O. a obtener"
+          "simpleDesc": "Mejora la primera Tarjeta de Recompensa por Encuentro al máximo grado que puede aparecer"
         }
       ]
     },
@@ -2414,7 +2414,7 @@
     {
       "id": 9090,
       "name": "Niebla Sangrienta",
-      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque que aplican efectos de Potencia, Contador de [Laceration] o 'Sangrado Único'. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nContra enemigos, los aliados infligen el doble de Potencia y Contador de [Laceration].\n\n(1 aliado con el número de despliegue más alto) Habilidade que infligen Potencia, Contador de [Laceration] o 'Sangrado Únicos:': Poder de Moneda +2, Daño realizado +100%. Si el enemigo es atacado o Chocado contra dicho aliado muere, inflige la Potencia de [Laceration] restante aleatoriamente entre todos los enemigos. (Para Encuentros Centrados, Partes)\n\nPoder de Moneda +1 todas las Habilidad que infligan Potencia, Contador de [Laceration] o 'Sangrado Único'",
+      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque que aplican efectos de Potencia, Contador de [Laceration] o 'Sangrado Único'. (Sin contar Habilidades E.G.O, solo cuentan las Identidades en el campo al Inicio del Encuentro)\n\nContra enemigos, los aliados infligen el doble de Potencia y Contador de [Laceration].\n\n(1 aliado con el número de despliegue más alto) Habilidades que infligen Potencia, Contador de [Laceration] o 'Sangrado Únicos:': Poder de Moneda +2, Daño realizado +100%. Si el enemigo es atacado o Chocado contra dicho aliado muere, inflige la Potencia de [Laceration] restante aleatoriamente entre todos los enemigos. (Para Encuentros Centrados, Partes)\n\nPoder de Moneda +1 todas las Habilidades que infligan Potencia, Contador de [Laceration] o 'Sangrado Único'",
       "simpleDesc": [
         {
           "abilityID": 9090,

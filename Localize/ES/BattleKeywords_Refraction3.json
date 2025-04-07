@@ -3,61 +3,61 @@
     {
       "id": "MRcAfBa",
       "name": "Gossypium",
-      "desc": "When the Drenched Gossypium is in a Red-stained Gossypium state, gain (Gossypium value/2) de Sangrado y Bleed Count at Turn End",
-      "summary": "Turn End: Gain (Gossypium value/2) de Sangrado y de Contador de Sangrado"
+      "desc": "Cuando el Gossypium Empapado está en estado Gossypium Empapado de Rojo, gana (valor de GOssypium/2) de [Laceration] y Contador de [Laceration] al fin del turno",
+      "summary": "Fin de Turno: Gana (Valor de Gossypium/2) de [Laceration] y Contador de [Laceration]"
     },
     {
       "id": "MRcAfBb",
-      "name": "Red-stained Gossypium",
-      "desc": "Turn Start: Double the de Sangrado y Bleed Count applied by Attack Skills.\nIf the target has Gossypium, gain Clash Power +(Gossypium value/2)",
-      "summary": "Gain Clash Power +(Gossypium value/2)"
+      "name": "Gossypium Empapado de Rojo",
+      "desc": "Inicio de turno: Duplica la Potencia y Contador de [Laceration] aplicados con Habilidades de Ataque.\nSi el objetivo tiene Gossypium, gana Poder de Choque +(Valor de Gossypium/2)",
+      "summary": "Gana Poder de Choque +(Valor de Gossypium/2)"
     },
     {
       "id": "MRcAiBa",
-      "name": "Ember",
-      "desc": "Max 5\nUpon gaining Ember, convert a number of non-Wrath Affinity Skills equal to the value of Ember into Wrath Affinity Skills.\nWhen the Wings Part is broken, inflict Shimmering Ember equal to the value of Ember upon the last attacker; then, all Ember on self expires.",
+      "name": "Brasa",
+      "desc": "Máx 5\nTras ganar Brasa, convierte un número de Habilidades, que no tengan Afinidad de Ira, a Habilidades con Afinidad de Ira equivalente al valor de Brasa \nCuando la Parte de Alas sea rota, inflige Brasa Resplandeciente, luego, toda la Brasa en sí expira.",
       "summary": ""
     },
     {
       "id": "MRcAiBb",
-      "name": "Shimmering Ember",
-      "desc": "Max 5\nGain Spark when hit by a certain Skill. All Shimmering Ember expires.",
+      "name": "Brasa Resplandeciente",
+      "desc": "Máx 5\nGana Chispa al ser golpeado por cierta Habilidad. Toda la Brasa Resplandeciente expira.",
       "summary": ""
     },
     {
       "id": "MRcAiBc",
-      "name": "Spark",
-      "desc": "Combat Start: inflict Burn equal to Burn on self against 2 adjacent(based on Speed) units.\nCannot gain Ember when this unit has Spark.\nTurn End: reduce the value by 1",
+      "name": "Chispa",
+      "desc": "Inicio de Combate: inflige Potencia de [Combustion] igual a [Combustion] en sí contra 2 unidades adyacentes (basado en Velocidad).\nNo puede ganar Brasa cuando esta unidad tiene Chispa.\nFin de Turno: reduce en 1 el valor",
       "summary": ""
     },
     {
       "id": "MRcAmBa",
-      "name": "Contempt",
-      "desc": "Turn End: Lose 3 E.G.O Resource of the Affinity corresponding to the selected Skill Affinity.\nTurn End: Gana 3 Damage Down next turn.",
+      "name": "Desprecio",
+      "desc": "Fin de Turno: Pierde 3 Recursos E.G.O de la Afinidad de la Habilidad seleccionada.\nFin de Turno: Gana 3 de Daño Reducido el siguiente turno.",
       "summary": ""
     },
     {
       "id": "MRcAmBb",
-      "name": "Grasp",
-      "desc": "Max 3\nCannot act\nTurn End: at 2- value, deal damage equal to half of the target's Max HP. Then, all Parts of Spiral of Contempt heals the same amount of HP as the damage dealt by this effect.\nTurn End: reduce the value by 1.\nIf this effect brings the target's HP down to 0, the target can no longer be healed.",
+      "name": "Sujetar",
+      "desc": "Máx 3\nNo puede actuar\nFin del Turno: si el contador está a 2 o menos, inflige daño equivalente a la mitad de la HP Máx del objetivo. Luego, todas las Partes de Espiral del Desprecio curan HP por la cantidad del daño infligido por este efecto.\nFin del Turno: reduce el contador por 1.\nSi este efecto reduce el HP del objetivo a 0, el objetivo ya no puede ser curado.",
       "summary": ""
     },
     {
       "id": "MRcAmBc",
-      "name": "Gaze",
-      "desc": "Deal +10% more damage for every Gaze value\nTurn End: at 7 Gaze, gana 15 de Sangrado y replace this effect with Contempt.",
+      "name": "Mirada",
+      "desc": "Inflige +10% de daño por cada valor de Mirada\nFin del Turno: Con 7 de Mirada, gana 15 de [Laceration] y reemplaza el efecto por Desprecio.",
       "summary": ""
     },
     {
       "id": "MRcAmBd",
-      "name": "All-beholding Gaze",
-      "desc": "Gana 1 at every Turn End.\nTurn End: all units with Gaze take (4 x value) fixed HP damage and (4 x value) fixed SP damage.",
+      "name": "Mirada que Todo Lo Ve",
+      "desc": "Gana 1 contador al Final del Turno.\nFin del Turno: todas las unidades con Mirada reciben (4 x contador) de daño fijo a el HP y (4 x contador) de daño fijo a los PC.",
       "summary": ""
     },
     {
       "id": "MRcAmBbDisplay",
-      "name": "Grasp",
-      "desc": "Max 3\nCannot act\nTurn End: at 2- value, deal damage equal to half of the target's Max HP. Then, all Parts of Spiral of Contempt heals the same amount of HP as the damage dealt by this effect.\nTurn End: reduce the value by 1.\nIf this effect brings the target's HP down to 0, the target can no longer be healed.",
+      "name": "Sujetar",
+      "desc": "Máx 3\nNo puede actuar\nFin del Turno: si el contador está a 2 o menos, inflige daño equivalente a la mitad de la HP Máx del objetivo. Luego, todas las Partes de Espiral del Desprecio curan HP por la cantidad del daño infligido por este efecto.\nFin del Turno: reduce el contador por 1.\nSi este efecto reduce el HP del objetivo a 0, el objetivo ya no puede ser curado.",
       "summary": ""
     }
   ]

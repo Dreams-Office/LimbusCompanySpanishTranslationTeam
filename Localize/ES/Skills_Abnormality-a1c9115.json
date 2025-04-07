@@ -5,8 +5,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "Overthrow",
-                    "desc": "[WhenUse] Gain +3 [Breath] Count",
+                    "name": "Derrocar",
+                    "desc": "[WhenUse] Gana +3 Contador de [Breath]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -14,13 +14,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 10 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -10"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 3 [Breath] and +1 [Breath] Count"
+                                    "desc": "[OnSucceedAttack] Gana 3 de [Breath] y +1 Contador de [Breath]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +1 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +1 Contador de [Laceration]"
                                 }
                             ]
                         },
@@ -30,13 +30,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 10 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -10"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Gain 2 [SlashDamageUp] next turn"
+                                    "desc": "[OnSucceedAttack] Gana 2 de [SlashDamageUp] el siguiente turno"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [SlashResistDown]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [SlashResistDown]"
                                 }
                             ]
                         },
@@ -46,16 +46,16 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 10 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -10"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Laceration]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Laceration]"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 2 de [Paralysis] el siguiente turno"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige +3 Contador de [Laceration]"
                                 }
                             ]
                         }
@@ -68,8 +68,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "To Claim Their Bones",
-                    "desc": "[StartBattle] Gain 100 Shield\n[WhenUse] If the Shield isn't fully depleted, Clash Power +5",
+                    "name": "Para Reclamar Sus Huesos",
+                    "desc": "[StartBattle] Gana 100 de Escudo\n[WhenUse] Si el Escudo no es gastado por completo, Poder de Choque +5",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -77,10 +77,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 20 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -20"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 3 [SlashResistDown]"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 3 de [SlashResistDown]"
                                 }
                             ]
                         },
@@ -90,13 +90,13 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 20 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -20"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% de daño en Golpe Crítico"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 10 de [Laceration] y +2 Contador de [Laceration]"
                                 }
                             ]
                         },
@@ -106,10 +106,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 20 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -20"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Si el Escudo no es gastado por completo, divide el valor de [Grudge] por el Alcance de Atq y lo inflige como daño fijo."
                                 }
                             ]
                         }
@@ -122,8 +122,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "To Claim Their Bones",
-                    "desc": "[StartBattle] Gain 250 Shield\n[WhenUse] Gain +3 [Breath] Count\n[WhenUse] If the Shield isn't fully depleted, Clash Power +10",
+                    "name": "Para Reclamar Sus Huesos",
+                    "desc": "[StartBattle] Gana 250 de Escudo\n[WhenUse] Gana +3 Contador de [Breath]\n[WhenUse] Si el Escudo no es gastado por completo, Poder de Choque +10",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -131,10 +131,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 23 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -23"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflict 3 [SlashResistDown]"
+                                    "desc": "[OnSucceedAttack] Inflige 3 de [SlashResistDown]"
                                 }
                             ]
                         },
@@ -144,16 +144,16 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 23 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -23"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% Damage on Critical Hit"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% de daño en Golpe Crítico"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 5 [Paralysis] next turn"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 5 de [Paralysis] el siguiente turno"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflict 10 [Laceration] and +2 [Laceration] Count"
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Inflige 10 de [Laceration] y +2 Contador de [Laceration]"
                                 }
                             ]
                         },
@@ -163,10 +163,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 23 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -23"
                                 },
                                 {
-                                    "desc": "[UnBrokenCoinOnSucceedAttack] If the Shield isn't fully depleted, divide [Grudge] value by Atk Weight and inflict it as fixed damage."
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Si el Escudo no es gastado por completo, divide el valor de [Grudge] por el Alcance de Atq y lo inflige como daño fijo."
                                 }
                             ]
                         }
@@ -179,8 +179,8 @@
             "levelList": [
                 {
                     "level": 1,
-                    "name": "To Claim Their Bones",
-                    "desc": "[CantChangeTarget]\nPrioritizes the unit with the least HP\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Heal HP equal to [Grudge] value",
+                    "name": "Para Reclamar Sus Huesos",
+                    "desc": "[CantChangeTarget]\nPriorizar a la unidad con los menores HP\n[EnemyKill] Duplica el valor de [Grudge].\n[EnemyKill] Cura HP iguales al valor de [Grudge]",
                     "coinlist": [
                         {
                             "coindescs": [
@@ -188,7 +188,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 25 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -25"
                                 }
                             ]
                         },
@@ -198,7 +198,7 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 25 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -25"
                                 }
                             ]
                         },
@@ -208,10 +208,10 @@
                                     "desc": "[SuperCoin]"
                                 },
                                 {
-                                    "desc": "If this Coin is Cracked, lose 25 Final Power"
+                                    "desc": "Si esta Moneda está Rota, Poder Final -25"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Deal fixed damage equal to [Grudge] value."
+                                    "desc": "[OnSucceedAttack] Inflige daño fijo igual al valor de [Grudge]."
                                 }
                             ]
                         }

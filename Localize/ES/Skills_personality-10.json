@@ -2301,6 +2301,247 @@
           ]
         }
       ]
+    },
+    {
+      "id": 1101201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Is it You?!",
+          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflict 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Is it You?!",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] Gain +<style=\"highlight\">3</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack]</style> Inflict 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Is it You?!",
+          "desc": "If target has 6+ [Laceration], Coin Power +1\n[WhenUse] Gain +<style=\"highlight\">5</style> [Aggro] to this Skill Slot next turn\n[WhenUse] Heal 5 SP on self\n<style=\"highlight\">- At max SP, gain Clash Power +1 instead</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Payback with Interest",
+          "desc": "[WhenUse] Gain +2 [Aggro] to this Skill Slot next turn\n[StartBattle] This Skill gains (highest Reson. / 3) Offense Level (max 2, rounded down)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "At 4+ Reson. that includes this Skill, deal +10% more damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Payback with Interest",
+          "desc": "<style=\"highlight\">If target has 6+ [Laceration], Coin Power +1</style>\n[WhenUse] This Skill Slot gains <style=\"highlight\">3</style> [Aggro] next turn\n[StartBattle] This Skill gains (highest Reson. / <style=\"highlight\">2</style>) Offense Level (max <style=\"highlight\">3</style>, rounded down)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "At 4+ Reson. that includes this Skill, deal <style=\"highlight\">+15%</style> more damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Payback with Interest",
+          "desc": "If target has 6+ [Laceration], Coin Power +1\n[WhenUse] This Skill Slot gains <style=\"highlight\">5</style> [Aggro] next turn\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "At <style=\"highlight\">3</style>+ Reson. that includes this Skill, deal <style=\"highlight\">+20%</style> more damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Write 'em all down",
+          "desc": "Deal +1% more damage for every 2 [VengeanceBookSinclair] (max 15%)\nIf target has 6+ [Laceration], Coin Power +1\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal +2.5% more damage for every Reson. that includes this Skill (max 15%)"
+                },
+                {
+                  "desc": "Deal +7.5% more damage for every 10 [VengeanceBookSinclair] (max 22.5%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Write 'em all down",
+          "desc": "Deal +1% more damage for every <style=\"highlight\">1</style> [VengeanceBookSinclair] (max <style=\"highlight\">30%</style>)\n<style=\"highlight\">Coin Power +1 for every 6 [Laceration] on target (max 2)</style>\n[StartBattle] This Skill gains (highest Reson. / 2) Offense Level (max 3, rounded down)\n<style=\"highlight\">- If the said Reson. includes an A-Reson., double the Offense Level gained from the above effect</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Deal <style=\"highlight\">+5%</style> more damage for every Reson. that includes this Skill (max <style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "Deal <style=\"highlight\">+15%</style> more damage for every 10 [VengeanceBookSinclair] (max <style=\"highlight\">45%</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1101204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Warmup in the East",
+          "desc": "[StartBattle] Gain 20% of missing HP as Shield (once per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Warmup in the East",
+          "desc": "<style=\"highlight\">[StartBattle] Skill behavior changes based on the sum of Envy A-Reson.:\n- At 4+ sum of A-Reson., use 'Payback with Interest' as Counter\n- At 6+ sum of A-Reson., use 'Write 'em all down' as Counter\n(Activates from the leftmost Skill Slot. Activates 2 times per turn)</style>\n[StartBattle] Gain <style=\"highlight\">30%</style> of missing HP as Shield (once per turn)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflict 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

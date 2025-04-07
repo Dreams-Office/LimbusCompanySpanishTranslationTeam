@@ -44,14 +44,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +10% de daño"
+                  "desc": "Si el objetivo recibió daño previamente este turno, inflige +10% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +10% de daño"
+                  "desc": "Si el objetivo recibió daño previamente este turno, inflige +10% de daño"
                 }
               ]
             }
@@ -65,14 +65,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +30% de daño"
+                  "desc": "Si el objetivo recibió daño previamente este turno, inflige +30% de daño"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Si el objetivo recibió daño previamente en este turno, inflige +30% de daño"
+                  "desc": "Si el objetivo recibió daño previamente este turno, inflige +30% de daño"
                 }
               ]
             }
@@ -86,7 +86,7 @@
         {
           "level": 3,
           "name": "Pinceladas",
-          "desc": "[StartBattle] Gana 2 Daño Cortante Aumentado",
+          "desc": "[StartBattle] Gana 2 de [SlashDamageUp]",
           "coinlist": [
             {},
             {},
@@ -96,7 +96,7 @@
         {
           "level": 4,
           "name": "Pinceladas",
-          "desc": "[StartBattle] Gana 2 Daño Cortante Aumentado",
+          "desc": "[StartBattle] Gana 2 de [SlashDamageUp]",
           "coinlist": [
             {},
             {
@@ -135,7 +135,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Parálisis"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis]"
                 }
               ]
             }
@@ -149,7 +149,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
                 }
               ]
             }
@@ -163,7 +163,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Parálisis"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis]"
                 }
               ]
             }
@@ -213,7 +213,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 Daño Reducido"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [AttackDmgDown]"
                 }
               ]
             }
@@ -237,7 +237,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 de Daño Reducido"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [AttackDmgDown]"
                 }
               ]
             }
@@ -266,7 +266,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [AttackDown]"
                 }
               ]
             }
@@ -290,7 +290,7 @@
                   "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 5 [AttackDown]"
+                  "desc": "[OnSucceedAttack] Inflige 5 de [AttackDown]"
                 }
               ]
             }
@@ -350,12 +350,12 @@
         {
           "level": 1,
           "name": "Corte Superior",
-          "desc": "[WinDuel] Gana 1 Poder Ofensivo Aumentado el siguiente turno",
+          "desc": "[WinDuel] Gana 1 de [Enhancement] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 [DefenseDown]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [DefenseDown]"
                 }
               ]
             }
@@ -364,12 +364,12 @@
         {
           "level": 2,
           "name": "Corte Superior",
-          "desc": "Poder de Habilidad +2 contra unidades con Fragilidad a lo Cortante\n[WinDuel] Gana 1 Poder Ofensivo Aumentado el siguiente turno",
+          "desc": "Poder de Habilidad +2 contra unidades con [SlashTakeDamageUp]\n[WinDuel] Gana 1 de [Enhancement] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown]"
                 }
               ]
             }
@@ -383,12 +383,12 @@
         {
           "level": 3,
           "name": "Swash",
-          "desc": "[WinDuel] Esta habilidad Inflige 2 Fragilidad a lo Cortante adicionales",
+          "desc": "[WinDuel] Esta habilidad Inflige 2 de [SlashTakeDamageUp] adicionales",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 Fragilidad a lo Cortante el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [SlashTakeDamageUp] el siguiente turno"
                 }
               ]
             },
@@ -415,7 +415,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [SlashTakeDamageUp]"
                 }
               ]
             }
@@ -441,7 +441,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Apetito"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Thirst]"
                 }
               ]
             }
@@ -462,7 +462,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 Apetito"
+                  "desc": "[OnSucceedAttack] Gana 1 de [Thirst]"
                 }
               ]
             }
@@ -483,7 +483,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 Apetito"
+                  "desc": "[OnSucceedAttack] Gana 2 de [Thirst]"
                 }
               ]
             }
@@ -502,7 +502,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de Binding] el siguiente turno"
                 }
               ]
             },
@@ -516,7 +516,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o Parálisis Inflige 1 Curación de HP Reducida el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o [Paralysis] Inflige 1 [TakeHpHealReduce] el siguiente turno"
                 }
               ]
             }
@@ -530,7 +530,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 }
               ]
             },
@@ -544,7 +544,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o Parálisis Inflige 3 Curación de HP Reducida el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o [Paralysis] Inflige 3 [TakeHpHealReduce] el siguiente turno"
                 }
               ]
             }
@@ -553,12 +553,12 @@
         {
           "level": 4,
           "name": "C.I.",
-          "desc": "[WhenUse] Gana 1 de Apetito",
+          "desc": "[WhenUse] Gana 1 de [Thirst]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 }
               ]
             },
@@ -572,7 +572,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o Parálisis Inflige 4 Curación de HP Reducida el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [Laceration] o [Paralysis] Inflige 4 [TakeHpHealReduce] el siguiente turno"
                 }
               ]
             }
@@ -620,7 +620,7 @@
         {
           "level": 1,
           "name": "I.F. A la vista",
-          "desc": "[OnSucceedEvade] Gana 1 [Agility] el siguiente turno",
+          "desc": "[OnSucceedEvade] Gana 1 de [Agility] el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -706,7 +706,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Con 10+ Contador de [Charge], inflige 1 Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttackHead] Con 10+ Contador de [Charge], inflige 1 de [SlashTakeDamageUp]"
                 }
               ]
             },
@@ -728,7 +728,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 1 Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 1 de [SlashTakeDamageUp]"
                 }
               ]
             },
@@ -739,7 +739,7 @@
                   "desc": "[OnSucceedAttack] Si el HP del objetivo está por debajo de 30%, inflige +20% de daño"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 1 [Agility] el siguiente turno"
+                  "desc": "[EnemyKill] Gana 1 de [Agility] el siguiente turno"
                 }
               ]
             }
@@ -753,7 +753,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 2 Fragilidad a lo Cortante"
+                  "desc": "[OnSucceedAttack] Con 10+ Contador de [Charge], inflige 2 de [SlashTakeDamageUp]"
                 }
               ]
             },
@@ -764,7 +764,7 @@
                   "desc": "[OnSucceedAttack] Si el HP del objetivo está por debajo de 30%, inflige +30% de daño"
                 },
                 {
-                  "desc": "[EnemyKill] Gana 3 [Agility] el siguiente turno"
+                  "desc": "[EnemyKill] Gana 3 de [Agility] el siguiente turno"
                 }
               ]
             }
@@ -929,7 +929,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [AttackDown]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [AttackDown]"
                 }
               ]
             },
@@ -939,7 +939,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [AttackDown]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [AttackDown]"
                 }
               ]
             }
@@ -956,7 +956,7 @@
                   "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [AttackDown]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [AttackDown]"
                 }
               ]
             },
@@ -966,7 +966,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [AttackDown]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [AttackDown]"
                 }
               ]
             }
@@ -983,7 +983,7 @@
                   "desc": "[OnSucceedAttack] Gana 2 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 2 [AttackDown]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 2 de [AttackDown]"
                 }
               ]
             },
@@ -993,7 +993,7 @@
                   "desc": "[OnSucceedAttack] Gana 1 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [AttackDown]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [AttackDown]"
                 }
               ]
             }
@@ -1022,10 +1022,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "Gasta 1 [Bullet]"
+                  "desc": "Gasta 1 de [Bullet]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Duplica la aplicación de Contador y Potencia de [Vibration] & [Burst]"
+                  "desc": "[CriticalOnSucceedAttack] Duplica la aplicación de Contador y Potencia de [Vibration] y [Burst]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 3 de [Vibration] y +1 Contador de [Vibration]"
@@ -1368,7 +1368,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 }
               ]
             }
@@ -1389,7 +1389,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 }
               ]
             }
@@ -1398,7 +1398,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 1: La Cacería",
-          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Choque +1 por cada 2 dif. de Velocidad (máx 3)</style>\n[WhenUse] Gana +2 Contador de [Breath]",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Choque +1 por cada 2 diferencia de Velocidad (máx 3)</style>\n[WhenUse] Gana +2 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1410,7 +1410,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 }
               ]
             }
@@ -1436,7 +1436,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 }
               ]
             }
@@ -1457,7 +1457,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 }
               ]
             }
@@ -1466,7 +1466,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 7: Captura",
-          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es más alta que la del objetivo principal, gana Poder de Choque +1 por cada 2 dif. de Velocidad (máx 3)</style>\n[StartBattle] Esta habilidad gasta 6 Contador de [Breath] para ganar +2 Alcance de Atq este turno",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es más alta que la del objetivo principal, gana Poder de Choque +1 por cada 2 diferencia de Velocidad (máx 3)</style>\n[StartBattle] Esta habilidad gasta 6 Contador de [Breath] para ganar +2 Alcance de Atq este turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1474,14 +1474,14 @@
                   "desc": "[OnSucceedAttack] Gana 3 de [Breath]"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [MarkOfButler]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [MarkOfButler]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 }
               ]
             }
@@ -1503,7 +1503,7 @@
                   "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 20% del daño infligido"
@@ -1516,7 +1516,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo está aturdido, inflige +20% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 }
               ]
             }
@@ -1525,7 +1525,7 @@
         {
           "level": 4,
           "name": "Artes Hospitalarias 2: P.E.C.A.R.",
-          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Moneda +1 por cada 2 dif. de Velocidad (máx 2)</style>\n[WhenUse] Gana +7 Contador de [Breath]",
+          "desc": "Si el objetivo tiene [MarkOfButler], Poder de Choque +1\n<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Moneda +1 por cada 2 diferencia de Velocidad (máx 2)</style>\n[WhenUse] Gana +7 Contador de [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -1533,13 +1533,13 @@
                   "desc": "[OnSucceedAttack] Gana 5 de [Breath]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Aumenta el Umbral de Aturdimiento por 30% del daño infligido"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] Inflige 1 [MarkOfButler]"
+                  "desc": "[CriticalOnSucceedAttack] Inflige 1 de [MarkOfButler]"
                 }
               ]
             },
@@ -1549,7 +1549,7 @@
                   "desc": "[OnSucceedAttack] Si el objetivo está aturdido, inflige +40% de daño en Golpe Crítico"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [MarkOfButler]"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [MarkOfButler]"
                 },
                 {
                   "desc": "[EnemyKill] Reutiliza la Habilidad una vez más en un objetivo aleatorio con [MarkOfButler]\n(No se activa nuevamente al Reutilizar. No se activa cuando no hay objetivos con [MarkOfButler] restantes)"
@@ -1625,7 +1625,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana Contador de [Vibration] igual a ((Contador de [Vibration] en el objetivo)/2) (max <style=\"highlight\">3</style>"
+                  "desc": "[OnSucceedAttack] Gana Contador de [Vibration] igual a ((Contador de [Vibration] en el objetivo)/2) (máx <style=\"highlight\">3</style>"
                 }
               ]
             },
@@ -1825,14 +1825,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gana 3 de [PenanceFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gana 2 de [RedEyeFirst]"
                 }
               ]
             }
@@ -1841,19 +1841,19 @@
         {
           "level": 2,
           "name": "Los Dos, Cállense",
-          "desc": "<style=\"highlight\">Con 7+ [RedEyeFirst], Poder de Moneda +1\nCon 7+ [PenanceFirst], Poder de Choque +1</style>",
+          "desc": "<style=\"highlight\">Con 7+ de [RedEyeFirst], Poder de Moneda +1\nCon 7+ de [PenanceFirst], Poder de Choque +1</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 3 de [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 2 de [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 de [Laceration]</style>"
@@ -1865,19 +1865,19 @@
         {
           "level": 4,
           "name": "Los Dos, Cállense",
-          "desc": "Con 7+ [RedEyeFirst], Poder de Moneda +1\nCon 7+ [PenanceFirst], Poder de Choque <style=\"highlight\">+2</style>",
+          "desc": "Con 7+ de [RedEyeFirst], Poder de Moneda +1\nCon 7+ de [PenanceFirst], Poder de Choque <style=\"highlight\">+2</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 [PenanceFirst]\n<style=\"highlight\">[OnSucceedAttackHead] Gana 1 [PenanceFirst]</style>"
+                  "desc": "[OnSucceedAttack] Gana 3 de [PenanceFirst]\n<style=\"highlight\">[OnSucceedAttackHead] Gana 1 de [PenanceFirst]</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 2 de [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 de [Laceration]<style=\"highlight\"></style>"
@@ -1899,14 +1899,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 4 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gana 4 de [PenanceFirst]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gana 3 de [RedEyeFirst]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
@@ -1924,14 +1924,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 4 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 4 de [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 3 de [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
@@ -1955,14 +1955,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 4 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 4 de [PenanceFirst]<style=\"highlight\"></style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 3 de [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]<style=\"highlight\"></style>"
@@ -1975,7 +1975,7 @@
                   "desc": "[OnSucceedAttack] Gana [RedEyeFirst] igual a ([Laceration] en el objetivo/<style=\"highlight\">2</style>) (máx <style=\"highlight\">3</style>)"
                 },
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Con 7+ [RedEyeFirst], gana 1 [Agility] el siguiente turno (2 veces por turno)</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Con 7+ de [RedEyeFirst], gana 1 de [Agility] el siguiente turno (2 veces por turno)</style>"
                 }
               ]
             }
@@ -1994,10 +1994,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 7 [RedEyeFirst]"
+                  "desc": "[OnSucceedAttack] Gana 7 de [RedEyeFirst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana 7 [PenanceFirst]"
+                  "desc": "[OnSucceedAttack] Gana 7de  [PenanceFirst]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
@@ -2025,20 +2025,20 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 7 [RedEyeFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 7 de [RedEyeFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Gana 7 [PenanceFirst]<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Gana 7 de [PenanceFirst]<style=\"highlight\"></style>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> [Laceration]"
+                  "desc": "[OnSucceedAttack] Inflige <style=\"highlight\">3</style> de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gana 2 [PenanceFirst]</style>"
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Gana 2 de [PenanceFirst]</style>"
                 }
               ]
             },
@@ -2067,14 +2067,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst] (una vez por turno)"
+                  "desc": "[OnSucceedAttack] Gana 2 de [RedEyeFirst] (una vez por turno)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 [PenanceFirst] (una vez por turno)"
+                  "desc": "[OnSucceedAttack] Gana 2 de [PenanceFirst] (una vez por turno)"
                 }
               ]
             }
@@ -2088,14 +2088,14 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 [RedEyeFirst] (una vez por turno)\n<style=\"highlight\">- Con menos de 7 [RedEyeFirst], gana +1 [RedEyeFirst] adicional</style>"
+                  "desc": "[OnSucceedAttack] Gana 2 de [RedEyeFirst] (una vez por turno)\n<style=\"highlight\">- Con menos de 7 [RedEyeFirst], gana +1 de [RedEyeFirst] adicional</style>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 2 [PenanceFirst] (una vez por turno)\n<style=\"highlight\">- Con menos de 7 [PenanceFirst], gain +1 [PenanceFirst] adicional</style>"
+                  "desc": "[OnSucceedAttack] Gana 2 de [PenanceFirst] (una vez por turno)\n<style=\"highlight\">- Con menos de 7 [PenanceFirst], gain +1 de [PenanceFirst] adicional</style>"
                 }
               ]
             }
@@ -2109,12 +2109,12 @@
         {
           "level": 3,
           "name": "Rompecráneos Serio",
-          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
+          "desc": "[WhenUse] Gasta todos los [RedEyeFirst] y [PenanceFirst] en sí\n- Poder de Moneda +1 por cada 5 de [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 de [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastado - 15) en el objetivo (máx 5)"
+                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastado - 15) al objetivo (máx 5)"
                 }
               ]
             },
@@ -2131,7 +2131,7 @@
                   "desc": "[OnSucceedAttack] Cura a sí y a un aliado con los menores PC por ([PenanceFirst] consumed - 10) PC\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el siguiente turno (una vez por turno)"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Binding] y 2 de [Reduction] el siguiente turno (una vez por turno)"
                 }
               ]
             }
@@ -2140,12 +2140,12 @@
         {
           "level": 4,
           "name": "Rompecráneos Serio",
-          "desc": "[WhenUse] Gasta todo [RedEyeFirst] y [PenanceFirst] en sí\n- Poder de Moneda +1 por cada 5 [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
+          "desc": "[WhenUse] Gasta todos los [RedEyeFirst] y [PenanceFirst] en sí\n- Poder de Moneda +1 por cada 5 de [RedEyeFirst] gastado (máx 4)\n- Poder Base +1 por cada 5 de [PenanceFirst] gastado (máx 4)\n[EndSkill] Pierde 15 PC y gana [Emptiness] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastado - 15) en el objetivo (máx 5)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige [Laceration] igual a ([RedEyeFirst] gastado - 15) al objetivo (máx 5)<style=\"highlight\"></style>"
                 }
               ]
             },
@@ -2162,7 +2162,273 @@
                   "desc": "[OnSucceedAttack] Cura a sí y a un aliado con los menores PC por ([PenanceFirst] gastada - <style=\"highlight\">5</style>) PC\n- Cura 1 aliado adicional por cada 2 Reson. más alta (máx 2 aliados más)"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 3 [Binding] y 2 [Reduction] el siguiente turno (una vez por turno)<style=\"highlight\"></style>"
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Binding] y 2 de [Reduction] el siguiente turno (una vez por turno)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Movimiento Parpadeante",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Movimiento Parpadeante",
+          "desc": "[WhenUse] Si el objetivo tiene <style=\"highlight\">4</style>+ de [Burst], Poder de Moneda +1\n<style=\"highlight\">[WinDuel] Inflige +1 Contador de [Burst]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Con 10+ de Velocidad, Retiliza esta Moneda una vez (una vez por Habilidad)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Movimiento Parpadeante",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Moneda +1</style>\n[WhenUse] Si el objetivo tiene 4+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige +1 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 10+ de Velocidad, Reutiliza esta Moneda una vez (una vez por Habilidad)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tal Como Estaba Escrito",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +(Diferencia de Velocidad x Potencia de [Burst] en el objetivo)% de daño (máx 50%)\n[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +10% de daño"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tal Como Estaba Escrito",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +(Diferencia de Velocidad x Potencia de [Burst] en el objetivo)% de daño (máx 50%)\n[WhenUse] Si el objetivo tiene <style=\"highlight\">4</style>+ de [Burst], Poder de Moneda +1\n<style=\"highlight\">[WhenUse] Gana 2 de [Agility] el siguiente turno (una vez por turno)\n[WinDuel] Inflige +1 Contador de [Burst]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Con 10+ de Velocidad, inflige +1 Contador de [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +<style=\"highlight\">20</style>% de daño"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tal Como Estaba Escrito",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +(Diferencia de Velocidad x Potencia de [Burst] en el objetivo)% de daño (máx 50%)\n<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Moneda +1</style>\n[WhenUse] Si el objetivo tiene 4+ de [Burst], Poder de Moneda +1\n[WhenUse] Gana 2 de [Agility] el siguiente turno (una vez por turno)\n[WinDuel] Inflige +1 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 10+ de Velocidad, inflige +1 Contador de [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +<style=\"highlight\">30</style>% de daño"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige 1 de [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Te destriparé con esta espada maldita",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +(Diferencia de Velocidad x Potencia de [Burst] en el objetivo)% de daño (máx 50%)\nSi la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder de Moneda +1\n[WhenUse] Gana 3 de [LegStrength]\n[WinDuel] Inflige +2 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +30% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 10+ de Velocidad, Reutiliza Moneda una vez (una vez por Habilidad)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Te destriparé con esta espada maldita",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +(Diferencia de Velocidad x Potencia de [Burst] en el objetivo)% de daño (máx 50%)\nSi la Velocidad de esta unidad es mayor que la del objetivo<style=\"highlight\">, gana Poder de Moneda basado en la diferencia de Velocidad (Poder de Moneda +1 por cada 2 de diferencia; máx 2)\n[WhenUse] Si el objetivo tiene 15+ de [Burst], Poder de Moneda +1</style>\n[WhenUse] Gana 3 de [LegStrength]\n[WinDuel] Inflige +2 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [BurstAgility]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +30% de daño<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 10+ de Velocidad, Reutiliza Moneda una vez (una vez por Habilidad)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Inflige [BurstAgility]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ímpetu. Desatado. Je",
+          "desc": "[DuelCounter]\n[WhenUse] Gana 3 de [LegStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ímpetu. Desatado. Je",
+          "desc": "[DuelCounter]\n[WhenUse] Gana 3 de [LegStrength]\n<style=\"highlight\">[WhenUse] Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder Base basado en la diferencia de Velocidad (Poder Base +1 por cada 2 de diferencia; máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]<style=\"highlight\"></style>"
                 }
               ]
             }

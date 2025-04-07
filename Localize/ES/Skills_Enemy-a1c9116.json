@@ -1,0 +1,905 @@
+{
+  "dataList": [
+    {
+      "id": 9018301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Sin Modales",
+          "desc": "[WhenUse] Gana 1 de [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corte de Tendón",
+          "desc": "[WhenUse] Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 3+ de [Laceration], Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Desorganizado",
+          "desc": "[WhenUse] Con 7+ de Velocidad, Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 4+ de [Laceration], Poder de Moneda +1\n[WinDuel] Inflige más daño basado en la cantidad de Choques (+5% por cada Choque, máx 50%)\n[WinDuel] Inflige +3 Contador de [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 3 de Escudo por cada tipo de efecto negativo en sí (máx 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rebanar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Herir Pierna",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Laceration] en el objetivo (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cortes Salvajes",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Laceration] en el objetivo (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque",
+          "desc": "[BeforeHit] Gana 2 de Escudo por cada tipo de efecto negativo en sí (máx 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si esta unidad tiene Escudo, inflige 1 de [Paralysis] en el objetivo el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Extraer Combustible",
+          "desc": "Si el objetivo tiene 2+ de [Laceration], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 2 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Barrer las Callejuelas",
+          "desc": "Si el objetivo tiene 2+ de [Laceration], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Paralysis]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eliminación de Basura",
+          "desc": "Si el objetivo tiene 4+ de [Laceration], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 4 de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                },
+                {
+                  "desc": "Tras Golpear con esta Moneda, cura por 30% del daño infligido"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Reutiliza esta Moneda (3 veces por Habilidad)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "333..1973",
+          "desc": "[StartBattle] Gana 4 de [Persistent]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Reduce el Umbral de Aturdimiento del usuario en 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Por la Familia",
+          "desc": "[StartBattle] Aplica 1 de [Protection] a 2 aliados al azar",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Noche en las Callejuelas",
+          "desc": "Si el objetivo tiene 2+ de [Laceration], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cura 8 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Cura 8 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Reduce el Umbral de Aturdimiento del usuario en 8"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Desangra una vez al objetivo por su [Laceration] (reduce en 1 su Contador de [Laceration])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Súbito",
+          "desc": "[WhenUse] Gana 1 de [Agility] el siguiente turno",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rebanar Músculo",
+          "desc": "[WhenUse] Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 3+ de [Laceration], Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Indiscriminado",
+          "desc": "[WhenUse] Con 7+ de Velocidad, Poder de Moneda +1\n[WhenUse] Si el objetivo tiene 4+ de [Laceration], Poder de Moneda +1\n[WinDuel] Inflige más daño basado en la cantidad de Choques (+5% por cada Choque, máx 50%)\n[WinDuel] Inflige 5 de [Laceration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "[WhenUse] Gana 3 de Escudo por cada tipo de efecto negativo en sí (máx 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rebanar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Herir Músculo",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Laceration] en el objetivo (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Rápido",
+          "desc": "[WhenUse] Poder de Moneda +1 por cada 3 de [Laceration] en el objetivo (máx 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contraataque",
+          "desc": "[BeforeHit] Gana 2 de Escudo por cada tipo de efecto negativo en sí (máx 10)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Si esta unidad tiene Escudo, inflige 1 de [Paralysis] en el objetivo el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Sorpresivo",
+          "desc": "[WhenUse] Si el objetivo tiene 3+ de [Burst], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reprimir",
+          "desc": "[WhenUse] Si el objetivo tiene 3+ de [Burst], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Reutiliza esta Moneda (Velocidad de esta unidad / 4) veces (máx 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Veloz",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo gana Poder de Moneda basado en la diferencia de Velocidad (Poder de Moneda +1 por cada 2 de diferencia; máx 3)\n[WhenUse] Si el objetivo tiene 4+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige +3 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Si el objetivo tiene [BurstAgility], inflige +50% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de [LegStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Movimiento Preliminar",
+          "desc": "[DuelCounter]\n[WhenUse] Gana 3 de [Agility] el siguiente turno\nSi la Velocidad de esta unidad es mayor que la del objetivo, gana Poder Base basado en la diferencia de Velocidad (Poder Base +1 por cada 2 de diferencia; máx 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Persecución",
+          "desc": "[WhenUse] Si el objetivo tiene 3+ de [Burst], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Abrumar",
+          "desc": "[WhenUse] Si el objetivo tiene 3+ de [Burst], Poder de Choque +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Reutiliza esta Moneda (Velocidad de esta unidad / 4) veces (máx 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ataque Furtivo",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo gana Poder de Moneda basado en la diferencia de Velocidad (Poder de Moneda +1 por cada 2 de diferencia; máx 3)\n[WhenUse] Si el objetivo tiene 4+ de [Burst], Poder de Moneda +1\n[WinDuel] Inflige +3 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +3 Contador de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Si el objetivo tiene [BurstAgility], inflige +50% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gana 3 de [LegStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Movimiento Preliminar",
+          "desc": "[DuelCounter]\n[WhenUse] Gana 3 de [Agility] el siguiente turno\nSi la Velocidad de esta unidad es mayor que la del objetivo, gana Poder Base basado en la diferencia de Velocidad (Poder Base +1 por cada 2 de diferencia; máx 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Apunta al Plexo Solar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Golpe en la Frente",
+          "desc": "[WhenUse] Si el objetivo tiene [MiddleFingerBook], inflige 2 de [DefenseDown] adicional con esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Machacar Tripas",
+          "desc": "[WhenUse] Si el objetivo tiene [MiddleFingerBook], inflige 1 de [AttackDown] adicional con esta Habilidad",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [AttackDown] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [MiddleFingerBook], gana 1 [PlusCoinValueUp] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [AttackDown] el siguiente turno"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [MiddleFingerBook], gana 1 [PlusCoinValueUp] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "¡La venganza los espera a todos ustedes!",
+          "desc": "Inflige +10% de daño por cada 2 [MiddleFingerBook] en el objetivo (máx 50%)\n[BeforeAttack] Con 40%- de HP, gana Alcance de Atq +1\n[WhenUse] Si el objetivo principal tiene [MiddleFingerBook], convierte todas las Monedas de esta Habilidad en [SuperCoin]s\n[WhenUse] Poder de Moneda +1 por cada 3 enemy with [MiddleFingerBook] (máx 2)\n[WhenUse] Poder de Choque +1 por cada 2 [MiddleFingerBook] en el objetivo principal (máx 5)\n[EndSkill] Si esta unidad mató a un objetivo con [MiddleFingerBook], gana 1 [PlusCoinValueUp] el siguiente turno (2 veces por turno)\n[EndSkill] Elimina [MiddleFingerBook] en todos los objetivos que fueron golpeados",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 3 de [Binding] el siguiente turno"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Reduction] el siguiente turno"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aprovecha la Oportunidad",
+          "desc": "[BeforeHit] Gana 5 de Escudo por cada [MiddleFingerBook] en el objetivo (una vez por turno; máx 50)\n[WhenUse] Si el objetivo tiene 5+ [MiddleFingerBook], Poder Base +3; inflige 4 de [DefenseDown]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aumenta Umbral de Aturdimiento en 20"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 daño fijo a los HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aumenta Umbral de Aturdimiento en 20"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige 15 daño fijo a los HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

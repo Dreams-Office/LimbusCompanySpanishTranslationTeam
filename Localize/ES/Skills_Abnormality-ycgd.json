@@ -81,7 +81,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Gana 1 de [AttackDmgUp] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Gana 1 de [AttackDmgUp_Weak] el siguiente turno"
                 }
               ]
             }
@@ -121,7 +121,7 @@
         {
           "level": 1,
           "name": "Salpicar",
-          "desc": "[WhenUse] Si el objetivo tiene [Sinking], Poder Base +2",
+          "desc": "[WinDuel] Si el objetivo tiene [Sinking], Poder Base +2",
           "coinlist": [
             {
               "coindescs": [

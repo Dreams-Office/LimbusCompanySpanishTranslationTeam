@@ -2,28 +2,28 @@
   "dataList": [
     {
       "id": 815101,
-      "name": "Sin Resistance",
-      "desc": "Unless this unit is Staggered or Part Broken, take 50% less [Combustion] damage."
+      "name": "Resistencias de Pecado",
+      "desc": "A menos que esta unidad esté Aturdida o tenga una Parte Rota, recibe -50% de daño por [Combustion]."
     },
     {
       "id": 815201,
-      "name": "Sin Resistance",
-      "desc": "Unless this unit is Staggered or Part Broken, take 50% less [Sinking] damage."
+      "name": "Resistencias de Pecado",
+      "desc": "A menos que esta unidad esté Aturdida o tenga una Parte Rota, recibe -50% de daño por [Sinking]."
     },
     {
       "id": 815301,
-      "name": "Resentful Scabbard",
-      "desc": "Gain [Grudge] at Turn Start if 'To Claim Your Bones' is in the Skill Slot. Remove [Grudge] at Turn End"
+      "name": "Vaina Resentida",
+      "desc": "Gana [Grudge] al Inicio del Turno si 'Para Reclamar Sus Huesos' se encuentra en una Ranura de Habilidad. Remueve [Grudge] al Final del Turno."
     },
     {
       "id": 815402,
-      "name": "Blade Dance",
-      "desc": "At 20% HP, gains a new pattern.\nAt 20%- HP, starting next turn, gain 20 [Grudge] every turn. [Grudge] no longer expires"
+      "name": "Danza de Espadas",
+      "desc": "Si por debajo de 20% HP, gana un nuevo patrón.\nSi por debajo de 20%, iniciando el siguiente turno, gana 20 de [Grudge] cada turno. [Grudge] ya no expira."
     },
     {
       "id": 815403,
       "name": "Resentimiento Creciente",
-      "desc": "When taking Sinking damage, gain 1 Defense Level Down next turn. (5 times per turn)"
+      "desc": "Al tomar daño por Ahogo, gana 1 de Nivel Defensivo Reducido el siguiente turno. (5 veces por turno)"
     }
   ]
 }

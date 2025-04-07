@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1038,
+      "panicName": "Noche en las Callejuelas",
+      "lowMoraleDescription": "Inicio de Turno: Gana 1 de [Enhancement], 1 [TakeHpHealIncrease] y 1 de [Vulnerable]",
+      "panicDescription": "Inicio de Turno: Gana 2 de [Enhancement], 2 [TakeHpHealIncrease] y 1 de [Vulnerable]"
+    },
+    {
+      "id": 1039,
+      "panicName": "Engaño",
+      "lowMoraleDescription": "Si la Velocidad de esta unidad es mayor que la del objetivo o al usar un Ataque Unilateral, inflige +10% de da単o al objetivo",
+      "panicDescription": "Si la Velocidad de esta unidad es mayor que la del objetivo o al usar un Ataque Unilateral, inflige +20% de da単o al objetivo; si la Velocidad de esta unidad es mayor que la del objetivo, recibe -20% de da単o "
+    }
+  ]
+}

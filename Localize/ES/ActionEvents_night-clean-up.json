@@ -1,0 +1,89 @@
+{
+  "dataList": [
+    {
+      "id": 971051,
+      "name": "",
+      "desc": "La noche progresa.\n\nBajo un cielo sin luna, luz color jade se infiltra por la ventana.\n\nMientras converso con un Pecador, algo parece bloquear la luz de repente.\n\nAlguien corre hacia el cuarto y blande una espada contra nosotros.\n\nAfortunadamente, un Pecador sacó su arma para bloquear el ataque del intruso.\n\nDebe haber decidido que la misión fracasó.\n\nEl oponente nos miró en silencio por un momento antes de huir de la escena.",
+      "options": [
+        {
+          "message": "Perseguir al intruso que huye.",
+          "messageDesc": "Juicio con Ventaja en Gula y Orgullo. Supera para ganar un regalo E.G.O de Ruptura.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Ver al intruso huirse.",
+          "messageDesc": "",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971052,
+      "name": "",
+      "desc": "Notamos a lo lejos a secuaces del Medio reuniéndose para discutir algo.\n\nEs posible que estén buscando a un objetivo que escribieron en su Libro de la Venganza.\n\nAl acércanos, nos detienen y nos muestran una fotografía.\n\n\"¿Han visto a este tipo antes?\"",
+      "options": [
+        {
+          "message": "Di \"Creo que lo he visto antes\".",
+          "messageDesc": "Juicio con Ventaja en Gula y Orgullo. Supera para ganar un regalo E.G.O Contundente.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Di \"Nop, nunca lo he visto antes\"",
+          "messageDesc": "",
+          "result": [
+            "Nos quedamos mirándole con una mirada ausente e inocente hasta que decidieron dejarnos ir sin problemas."
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971053,
+      "name": "",
+      "desc": "Nos encontramos con un cuarto oscuro.\n\nGente vestida en prendas oscuras están paradas en un grupo. Todos visten sombreros de bambú.\n\nPareciera que el grupo está esperando a un enemigo, se preparan para algo.\n\n\"Hemos recibido información de que alguien irá tras nuestro señor esta noche.\"\n\n\"Equipo de respaldo, quédense acá y esperen su próxima orden.\"\n\n\"Equipo de operaciones, diríjanse a la ruta de infiltración enemiga y prepárense para su llegada.\"\n\n\"Todos saben sus misiones. Cúmplanlas\"",
+      "options": [
+        {
+          "message": "Esperar ordenes.",
+          "messageDesc": "Juicio con Ventaja en Gula y Orgullo. Supera para ganar un regalo E.G.O de Ruptura.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Seguir al equipo de Operaciones.",
+          "messageDesc": "Juicio con Ventaja en Gula y Orgullo. Supera para ganar un regalo E.G.O de Ruptura.",
+          "result": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "id": 971054,
+      "name": "",
+      "desc": "Es ese momento de la noche en el cual es imposible adivinar la hora.\n\nNos habíamos bajado del bus para hacer un reconocimiento cuando de repente siento un temblor de mal augurio.\n\nMe doy la vuelta para observar la fuente del temblor, tan solo para ver una oleada masiva de Barrenderos corriendo hacia nosotros, parpadeando con sus luces rojas.\n\nLimpiarán a fondo todo lo que se encuentren en su camino.\n\nCuanto más dudemos, más se acercarán.",
+      "options": [
+        {
+          "message": "Buscar un refugio cercano.",
+          "messageDesc": "Juicio con Ventaja en Gula y Orgullo. Supera para ganar un regalo E.G.O de Ruptura.",
+          "result": [
+            ""
+          ]
+        },
+        {
+          "message": "Correr hacia el bus.",
+          "messageDesc": "50% de probabilidad de que ocurra un encuentro de combate. Gana para obtener un Regalo E.G.O.",
+          "result": [
+            "Corriendo hasta no dar más logramos entrar a Mefistófeles a tiempo.\n\nJusto después de cerrar la puerta, una incesante oleada de Barrenderos pasa por afuera.",
+            "Corrimos hacia Mefistófeles, pero parece que nos faltaron unos pasos más.\n\nAntes de siquiera mirar atrás, la oleada de Barrenderos nos abruma."
+          ]
+        }
+      ]
+    }
+  ]
+}

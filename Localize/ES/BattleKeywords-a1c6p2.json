@@ -2,40 +2,40 @@
   "dataList": [
     {
       "id": "AaCfPbBe",
-      "name": "Marked Prey",
-      "desc": "- With every hit this unit takes, take bonus Slash damage equal to 10% of the HP damage taken. Expires next turn.\n- If this unit does not take damage during this turn, inflict 1 Inferiority Complex after attack then expires\n- Max Value: 1",
-      "summary": "Take bonus Slash damage equal to 10% of the HP damage taken",
+      "name": "Presa Marcada",
+      "desc": "- Con cada golpe que esta unidad reciba, toma daño Cortante adicional equivalente al 10% del daño a la HP recibido. Expira el siguiente turno.\n- Si esta unidad no recibe daño durante este turno, inflige 1 Complejo de Inferioridad después de atacar y luego expira\n- Valor Máximo: 1",
+      "summary": "Recibe daño Cortante adicional igual al 10% del daño a la HP recibido.",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBf",
-      "name": "Inferiority Complex",
-      "desc": "- Every time this unit is hit, take ((20% of HP damage taken) * Value) damage\n- Max Value: 5",
-      "summary": "Take ((20% of HP damage taken) * Value) damage",
+      "name": "Complejo de inferioridad",
+      "desc": "- Cada vez que esta unidad es golpeada, recibe (( 20% del daño a el HP recibido) * Valor) de daño\n- Valor Máximo: 5",
+      "summary": "Recibe (( 20% del daño a el HP recibido) * Valor) de daño",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBa",
-      "name": "Explosive Gloom",
-      "desc": "- Gloom Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: inflict 3 SP damage on the attacker, gain 1 Sinking Count, and gain 1 Nivel Ofensivo Aumentado next turn (9 times per turn)",
+      "name": "Melancolía Explosiva",
+      "desc": "- Resistencia a la Afinidad de Melancolía +0.3\n- Resistencia a otras Afinidades -0.5\n- Al ser golpeado: inflige 3 de daño de PC al atacante, gana 1 Contador de Ahogo, y gana 1 de Nivel Ofensivo Aumentado el siguiente turno (9 veces por turno)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBb",
-      "name": "Explosive Envy",
-      "desc": "- Envy Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: apply 1 Nivel Ofensivo Aumentado, inflict 2 Bleed, and 2 Bleed Count on attacker, and gain 1 Defense Level Down next turn (9 times per turn)",
+      "name": "Envidia Explosiva",
+      "desc": "- Resistencia a la Afinidad de Envidia +0.3\n- Resistencia a otras Afinidades -0.5\n- Al ser golpeado: aplica 1 de Nivel Ofensivo Aumentado. inflige 2 Potencia de Sangrado y 2 Contador de Sangrado en el atacante, y gana 1 de Nivel Defensivo Reducido el siguiente turno (9 veces por turno)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBc",
-      "name": "Explosive Wrath",
-      "desc": "- Wrath Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- When hit: Gain 1 Nivel Ofensivo Aumentado and 1 Defense Level Down next turn (9 times per turn)",
+      "name": "Ira Explosiva",
+      "desc": "- Resistencia a la Afinidad de Ira +0.3\n- Resistencia a otras Afinidades -0.5\n- Al ser golpeado: Gana 1 de Nivel Ofensivo Aumentado y 1 de Nivel Defensivo Reducido el siguiente turno (9 veces por turno)",
       "undefined": "-"
     },
     {
       "id": "AaCfPbBd",
-      "name": "Deep Bereavement",
-      "desc": "Turn Start: Lose 5 Speed and gain 5 Defense Level Down",
+      "name": "Aflicción Profunda",
+      "desc": "Inicio del Turno: Pierde 5 de Velocidad y gana 5 de Nivel Defensivo Reducido",
       "undefined": "-"
     }
   ]

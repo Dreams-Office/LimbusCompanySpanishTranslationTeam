@@ -5,30 +5,30 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Sky-clearing Cut",
-          "desc": "[StartBattle] If the main target has 5+ [Laceration], Atk Weight +1\n[StartBattle] If this unit will use 4+ Attack Skills this turn, Final Power +5\n[WinDuel] All allies heal 15 SP\nIf the target has 7+ [Laceration], deal +30% more damage",
+          "name": "Corte Rebana Cielos",
+          "desc": "[StartBattle] Si el objetivo principal tiene 5+ de [Laceration], Alcande de Atq +1\n[StartBattle] Si esta unidad usará 4+ Habilidades de Ataque este turno, Poder Final +5\n[WinDuel] Todos los aliados se curan 15 PC\nSi el objetivo tiene 7+ de [Laceration], inflige +30% de daño",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 2 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflict 3 [Laceration]"
+                  "desc": "[OnSucceedAttackHead] Inflige 3 de [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "If target has 7+ [Laceration], deal +50% damage"
+                  "desc": "Si el objetivo tiene 7+ de [Laceration], inflige +50% de daño"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflict +10 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige +10 Contador de [Laceration]"
                 }
               ]
             }
@@ -41,16 +41,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rules of the Backstreets",
-          "desc": "[WhenUse] Add 1 more coin per every surviving other ally (max 3)",
+          "name": "Reglas de las Callejuelas",
+          "desc": "[WhenUse] Añade 1 moneda más por cada aliado sobreviviente (Máx 3)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflict 2 [Laceration] and +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Laceration] y +2 Contador de [Laceration]"
                 },
                 {
-                  "desc": "[EnemyKill] All allies heal 20 SP"
+                  "desc": "[EnemyKill] Todos los aliados se curan 20 PC"
                 }
               ]
             }

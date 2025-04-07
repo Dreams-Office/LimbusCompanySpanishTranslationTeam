@@ -2,394 +2,394 @@
   "dataList": [
     {
       "id": 9751,
-      "name": "Snake Slough",
-      "desc": "Turn Start: all allies gain 2 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 4) Offense Level. (max 10)",
+      "name": "Piel de Serpiente",
+      "desc": "Inicio del turno: todos los aliados ganan 2 de [DefenseUp].\nCada aliado gana ([DefenseUp] en sí / 4) de Nivel Ofensivo. (Máx 10)",
       "simpleDesc": [
         {
           "abilityID": 9751,
-          "simpleDesc": "All allies gain [DefenseUp] and Offense Level"
+          "simpleDesc": "Todos los aliados ganan [DefenseUp] y Nivel Ofensivo"
         }
       ]
     },
     {
       "id": 19751,
-      "name": "Snake Slough+",
-      "desc": "Turn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 3) Offense Level. (max 10)",
+      "name": "Piel de Serpiente+",
+      "desc": "Inicio del turno: todos los aliados ganan 4 de [DefenseUp].\nCada aliado gana ([DefenseUp] en sí / 3) de Nivel Ofensivo. (Máx 10)",
       "simpleDesc": [
         {
           "abilityID": 19751,
-          "simpleDesc": "All allies gain [DefenseUp] and Offense Level"
+          "simpleDesc": "Todos los aliados ganan [DefenseUp] y Nivel Ofensivo"
         }
       ]
     },
     {
       "id": 29751,
-      "name": "Snake Slough++",
-      "desc": "Turn Start: all allies gain 4 [DefenseUp].\nEach ally gains ([DefenseUp] on self / 2) Offense Level. (max 10)",
+      "name": "Piel de Serpiente++",
+      "desc": "Inicio del turno: todos los aliados ganan 4 de [DefenseUp].\nCada aliado gana ([DefenseUp] en sí / 2) de Nivel Ofensivo. (Máx 10)",
       "simpleDesc": [
         {
           "abilityID": 29751,
-          "simpleDesc": "All allies gain [DefenseUp] and Offense Level"
+          "simpleDesc": "Todos los aliados ganan [DefenseUp] y Nivel Ofensivo"
         }
       ]
     },
     {
       "id": 9752,
-      "name": "False Halo",
-      "desc": "On Hit, gain 1 [Zazen]. (2 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.",
+      "name": "Halo Falso",
+      "desc": "Tras Golpear, gana 1 de [Zazen]. (2 veces por Habilidad)\nSi esta unidad fue golpeada por una Habilidad enemiga este turno, gana 1 de [Zazen] adicional cada vez.",
       "simpleDesc": [
         {
           "abilityID": 9752,
-          "simpleDesc": "On Hit, gain 1 [Zazen]"
+          "simpleDesc": "Tras Golpear, gana 1 de [Zazen]"
         }
       ]
     },
     {
       "id": 19752,
-      "name": "False Halo+",
-      "desc": "On Hit, gain 1 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.",
+      "name": "Halo Falso+",
+      "desc": "Tras Golpear, gana 1 de [Zazen]. (3 veces por Habilidad)\nSi esta unidad fue golpeada por una Habilidad enemiga este turno, gana 1 de [Zazen] adicional cada vez.",
       "simpleDesc": [
         {
           "abilityID": 19752,
-          "simpleDesc": "On Hit, gain 1 [Zazen]"
+          "simpleDesc": "Tras Golpear, gana 1 de [Zazen]"
         }
       ]
     },
     {
       "id": 29752,
-      "name": "False Halo++",
-      "desc": "On Hit, gain 2 [Zazen]. (3 times per Skill)\nIf this unit was hit by an enemy Skill this turn, gain +1 more [Zazen] each time.",
+      "name": "Halo Falso++",
+      "desc": "Tras Golpear, gana 2 de [Zazen]. (3 veces por Habilidad)\nSi esta unidad fue golpeada por una Habilidad enemiga este turno, gana 1 de [Zazen] adicional cada vez.",
       "simpleDesc": [
         {
           "abilityID": 29752,
-          "simpleDesc": "On Hit, gain 2 [Zazen]"
+          "simpleDesc": "Tras Golpear, gana 2 de [Zazen]"
         }
       ]
     },
     {
       "id": 9753,
-      "name": "Metronome",
-      "desc": "In odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection].",
+      "name": "Metrónomo",
+      "desc": "En turnos de número impar, todos los aliados ganan 1 de [AttackDmgUp]. En turnos de número par, todos los aliados ganan 1 de [Protection].",
       "simpleDesc": [
         {
           "abilityID": 9753,
-          "simpleDesc": "Enhance allies' attack or defense based on the turn number"
+          "simpleDesc": "Mejora el ataque o defensa de los aliados en base al número del turno."
         }
       ]
     },
     {
       "id": 19753,
-      "name": "Metronome+",
-      "desc": "In odd-numbered turns, all allies gain 1 [AttackDmgUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].",
+      "name": "Metrónomo+",
+      "desc": "En turnos de número impar, todos los aliados ganan 1 de [AttackDmgUp]. En turnos de número par, todos los aliados ganan 1 de [Protection] y 1 de [DefenseUp].",
       "simpleDesc": [
         {
           "abilityID": 19753,
-          "simpleDesc": "Enhance allies' attack or defense based on the turn number"
+          "simpleDesc": "Mejora el ataque o defensa de los aliados en base al número del turno."
         }
       ]
     },
     {
       "id": 29753,
-      "name": "Metronome++",
-      "desc": "In odd-numbered turns, all allies gain 1 [AttackDmgUp] and 1 [AttackUp]. In even-numbered turns, all allies gain 1 [Protection] and 1 [DefenseUp].",
+      "name": "Metrónomo++",
+      "desc": "En turnos de número impar, todos los aliados ganan 1 de [AttackDmgUp] y 1 de [AttackUp]. En turnos de número par, todos los aliados ganan 1 de [Protection] y 1 de [DefenseUp].",
       "simpleDesc": [
         {
           "abilityID": 29753,
-          "simpleDesc": "Enhance allies' attack or defense based on the turn number"
+          "simpleDesc": "Mejora el ataque o defensa de los aliados en base al número del turno."
         }
       ]
     },
     {
       "id": 9754,
-      "name": "Bridle",
-      "desc": "Encounter Start: all allies gain (current Floor x 2)% max HP (max 20%)",
+      "name": "Brida",
+      "desc": "Inicio del Encuentro: todos los aliados ganan (Piso actual x 2%) de HP Máx (máx. 20%)",
       "simpleDesc": [
         {
           "abilityID": 9754,
-          "simpleDesc": "All allies gain max HP based on the current Floor"
+          "simpleDesc": "Todos los aliados ganan máx HP basado en el piso actual"
         }
       ]
     },
     {
       "id": 19754,
-      "name": "Bridle+",
-      "desc": "Encounter Start: all allies gain (current Floor x 3)% max HP (max 30%)",
+      "name": "Brida+",
+      "desc": "Inicio del Encuentro: todos los aliados ganan (Piso actual x 3%) de HP Máx (máx. 30%)",
       "simpleDesc": [
         {
           "abilityID": 19754,
-          "simpleDesc": "All allies gain max HP based on the current Floor"
+          "simpleDesc": "Todos los aliados ganan máx HP basado en el piso actual"
         }
       ]
     },
     {
       "id": 29754,
-      "name": "Bridle++",
-      "desc": "Encounter Start: all allies gain (current Floor x 5)% max HP (max 50%)",
+      "name": "Brida++",
+      "desc": "Inicio del Encuentro: todos los aliados ganan (Piso actual x 5%) de HP Máx (máx. 50%)",
       "simpleDesc": [
         {
           "abilityID": 29754,
-          "simpleDesc": "All allies gain max HP based on the current Floor"
+          "simpleDesc": "Todos los aliados ganan máx HP basado en el piso actual"
         }
       ]
     },
     {
       "id": 9755,
-      "name": "Contempt of the Gaze of Contempt",
-      "desc": "[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit) fixed HP & SP damage against all enemies targeting this unit. (max 3; this effect does not hurt allies)",
+      "name": "El Desprecio de la Mirada del Desprecio",
+      "desc": "[Los efectos solo aplican a la Identidad #6 desplegada]\n\nInicio de Combate: inflige +10% de daño por cada Habilidad de Ataque enemiga que esté apuntando a esta unidad (máx 20%)\n\nInicio de Combate: cuando esta unidad es el objetivo de 2+ Habilidades de Ataque, inflige (# de Habilidades dirigidas a esta unidad) de daño fijo a el HP y PC de todos los enemigos atacando a esta unidad. (Máx 3; este efecto no daña a los aliados)",
       "simpleDesc": [
         {
           "abilityID": 9755,
-          "simpleDesc": "Deal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+          "simpleDesc": "Inflige más daño basado en el # de Habilidades enemigas atacando a esta unidad; inflige daño fijo"
         }
       ]
     },
     {
       "id": 19755,
-      "name": "Contempt of the Gaze of Contempt+",
-      "desc": "[Effects apply only to #6 Deployed Identity]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 20%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 5; this effect does not hurt allies)",
+      "name": "El Desprecio de la Mirada del Desprecio+",
+      "desc": "[Los efectos solo aplican a la Identidad #6 desplegada]\n\nInicio de Combate: inflige +10% de daño por cada Habilidad de Ataque enemiga que esté apuntando a esta unidad (máx 20%)\n\nInicio de Combate: cuando esta unidad es el objetivo de 2+ Habilidades de Ataque, inflige (# de Habilidades dirigidas a esta unidad x 2) de daño fijo a el HP y PC de todos los enemigos atacando a esta unidad. (Máx 5; este efecto no daña a los aliados)",
       "simpleDesc": [
         {
           "abilityID": 19755,
-          "simpleDesc": "Deal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+          "simpleDesc": "Inflige más daño basado en el # de Habilidades enemigas atacando a esta unidad; inflige daño fijo"
         }
       ]
     },
     {
       "id": 29755,
-      "name": "Contempt of the Gaze of Contempt++",
-      "desc": "[Effects apply only to #1 and #6 Deployed Identities]\n\nCombat Start: deal +10% more damage for every enemy Attack Skill targeting this unit (max 30%)\n\nCombat Start: when targeted by 2+ Attack Skills, deal (# of Skills targeting this unit x 2) fixed HP & SP damage against all enemies targeting this unit. (max 10; this effect does not hurt allies)",
+      "name": "El Desprecio de la Mirada del Desprecio++",
+      "desc": "[Los efectos solo aplican a las identidades #1 y #6 desplegada]\n\nInicio de Combate: inflige +10% de daño por cada Habilidad de Ataque enemiga que esté apuntando a esta unidad (máx 30%)\n\nInicio de Combate: cuando esta unidad es el objetivo de 2+ Habilidades de Ataque, inflige (# de Habilidades dirigidas a esta unidad x 2) de daño fijo a el HP y PC de todos los enemigos atacando a esta unidad. (Máx 10; este efecto no daña a los aliados)",
       "simpleDesc": [
         {
           "abilityID": 29755,
-          "simpleDesc": "Deal more damage based on # of enemy Skills targeting this unit; deals fixed damage"
+          "simpleDesc": "Inflige más daño basado en el # de Habilidades enemigas atacando a esta unidad; inflige daño fijo"
         }
       ]
     },
     {
       "id": 9756,
-      "name": "Unhatched Embers",
-      "desc": "When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)",
+      "name": "Ascuas Sin Eclosionar",
+      "desc": "Al tomar daño mortal, fija el HP a 1 por la duración de la Habilidad de Ataque. Una vez finalizada la Habilidad de Ataque, cura 20% del HP Máx. (Una sola vez por Encuentro)",
       "simpleDesc": [
         {
           "abilityID": 9756,
-          "simpleDesc": "When taking mortal damage, defy death and heal HP"
+          "simpleDesc": "Al tomar daño mortal, desafía a la muerte y cura HP"
         }
       ]
     },
     {
       "id": 19756,
-      "name": "Unhatched Embers+",
-      "desc": "When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 30% of max HP instead. (once per Encounter for both this and the above effect)",
+      "name": "Ascuas Sin Eclosionar+",
+      "desc": "Al tomar daño mortal, fija el HP a 1 por la duración de la Habilidad de Ataque. Una vez finalizada la Habilidad de Ataque, cura 20% del HP Máx. (Una sola vez por Encuentro)\n\nSi la unidad afectada tiene [Combustion]: fija el HP a 1 por la duración de la Habilidad de Ataque. Una vez finalizada la Habilidad de Ataque, cura 30% del HP Máx. (Una sola vez por encuentro para ambos de estos efectos)",
       "simpleDesc": [
         {
           "abilityID": 19756,
-          "simpleDesc": "When taking mortal damage, defy death and heal HP"
+          "simpleDesc": "Al tomar daño mortal, desafía a la muerte y cura HP"
         }
       ]
     },
     {
       "id": 29756,
-      "name": "Unhatched Embers++",
-      "desc": "When taking mortal damage, fix HP to 1 for the attack; After Attack, heal 20% of max HP. (once per Encounter)\n\nIf the affect unit has [Combustion]: fix HP to 1 for the attack; After Attack, heal 40% of max HP instead. (once per Encounter for both this and the above effect)",
+      "name": "Ascuas Sin Eclosionar++",
+      "desc": "Al tomar daño mortal, fija el HP a 1 por la duración de la Habilidad de Ataque. Una vez finalizada la Habilidad de Ataque, cura 20% del HP Máx. (Una sola vez por Encuentro)\n\nSi la unidad afectada tiene [Combustion]: fija el HP a 1 por la duración de la Habilidad de Ataque. Una vez finalizada la Habilidad de Ataque, cura 40% del HP Máx. (Una sola vez por encuentro para ambos de estos efectos)",
       "simpleDesc": [
         {
           "abilityID": 29756,
-          "simpleDesc": "When taking mortal damage, defy death and heal HP"
+          "simpleDesc": "Al tomar daño mortal, desafía a la muerte y cura HP"
         }
       ]
     },
     {
       "id": 9757,
-      "name": "Anti-Ovine Grounding Plug",
-      "desc": "When hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)",
+      "name": "Cable a Tierra Anti-Ovino",
+      "desc": "Al ser golpeado durante la fase de combate, inflige 1 de [Paralysis] contra el atacante el siguiente turno. (Una vez por cada Identidad)",
       "simpleDesc": [
         {
           "abilityID": 9757,
-          "simpleDesc": "When hit, inflict 1 [Paralysis] next turn"
+          "simpleDesc": "Al ser golpeado, inflige 1 de [Paralysis] el siguiente turno"
         }
       ]
     },
     {
       "id": 19757,
-      "name": "Anti-Ovine Grounding Plug+",
-      "desc": "When hit during the combat phase, inflict 1 [Paralysis] against the attacker next turn. (Once per turn for each character)\n\nAt 5+ Envy A-Reson., at Combat Start: inflict 1 [Paralysis] against all enemies.",
+      "name": "Cable a Tierra Anti-Ovino+",
+      "desc": "Al ser golpeado durante la fase de combate, inflige 1 de [Paralysis] contra el atacante el siguiente turno. (Una vez por cada Identidad)\n\nA 5+ Resonancia Absoluta de Envidia, al Inicio del Combate: inflige 1 de [Paralysis] a todos los enemigos.",
       "simpleDesc": [
         {
           "abilityID": 19757,
-          "simpleDesc": "Combat Start: when hit, inflict 1 [Paralysis] next turn"
+          "simpleDesc": "Inicio del Combate: Al ser golpeado, inflige 1 de [Paralysis] el siguiente turno"
         }
       ]
     },
     {
       "id": 9758,
-      "name": "Vestiges of the King",
-      "desc": "Chain Battles) Starting from #7 Deployed Sinner, at the start of the same turn it Substitutes in, heal 10 SP, gain 2 [ParryingResultUp], and gain 1 E.G.O resource for each one of their Skills 1, 2, and 3",
+      "name": "Vestigios del Rey",
+      "desc": "Combates en Cadena: iniciando desde el Pecador #7 desplegado, y al inicio del mismo turno en el cual substituye a otra Identidad, cura 10 PC, gana 2 [ParryingResultUp], y gana 1 recurso E.G.O por cada una de sus Habilidades 1, 2 y 3",
       "simpleDesc": [
         {
           "abilityID": 9758,
-          "simpleDesc": "Heal SP, gain Clash Power Up, and E.G.O resources when substituting in"
+          "simpleDesc": "Cura PC, gana Poder de Choque Aumentado, y recursos E.G.O al substituir otra Identidad"
         }
       ]
     },
     {
       "id": 9759,
-      "name": "Snuffed Lantern",
-      "desc": "[Effects apply only to #7 Deployed Identity]\n\nGain +1 more [Vibration] Count from Skill or Coin effects\n\n- If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead",
+      "name": "Linterna Apagada",
+      "desc": "[Los efectos solo aplican a la Identidad #3 Desplegada]\n\nGana +1 Contador de [Vibration] adicional por efectos de Habilidad o de Moneda\n\n- Si el objetivo está en estado Aturdido, Moral Baja o en Pánico gana +2 en su lugar",
       "simpleDesc": [
         {
           "abilityID": 9759,
-          "simpleDesc": "Gain more [Vibration] Count with Skill or Coin effects"
+          "simpleDesc": "Gana más Contador de [Vibration] por efectos de Habilidad o de Moneda"
         }
       ]
     },
     {
       "id": 9760,
-      "name": "Snuffed Candlestick",
-      "desc": "[Effects apply only to #1 Deployed Identity]\n\nIf there are enemies in Staggered, Low Morale, or Panic states at Turn Start, inflict 1 [AttackDown] or 1 [DefenseDown] against all enemies. (3 times per turn)\n\nOn Hit against enemies in Staggered, Low Morale, or Panic states: inflict 1 [AttackDown] or 1 [DefenseDown] (3 times per turn)",
+      "name": "Candelero Apagado",
+      "desc": "[Los efectos solo aplican a la Identidad #1 Desplegada]\n\nSi hay enemigos en estado de Moral Baja, Pánico o Aturdidos al Inicio del Turno, inflige 1 de [AttackDown] o 1 de [DefenseDown] a todos los enemigos. (3 veces por turno)\n\nTras Golpear enemigos en estado de Moral Baja, Pánico o Aturdidos: inflige 1 de [AttackDown] o 1 de [DefenseDown] (3 veces por turno)",
       "simpleDesc": [
         {
           "abilityID": 9760,
-          "simpleDesc": "Inflict 1 [AttackDown] or 1 [DefenseDown]"
+          "simpleDesc": "Inflige 1 de [AttackDown] o 1 de [DefenseDown]"
         },
         {
           "abilityID": 97601,
-          "simpleDesc": "Inflict 1 [AttackDown] or 1 [DefenseDown]"
+          "simpleDesc": "Inflige 1 de [AttackDown] o 1 de [DefenseDown]"
         }
       ]
     },
     {
       "id": 9761,
-      "name": "Shadow Monster",
-      "desc": "[Effects apply only to #1, #2, #7, and #8 Deployed Identities]\n\nGain +1 more [Vibration] Count from Skill & Coin effects\n  - If the target is in Staggered, Low Morale, or Panic states, gain +2 more instead\n\nIf there are enemies in Staggered, Low Morale, or Panic states at Turn Start, inflict 2 [AttackDown] or 2 [DefenseDown] against all enemies. (3 times per turn)\n\nOn Hit against enemies in Staggered, Low Morale, or Panic states: inflict 1 [AttackDown] or 1 [DefenseDown] (3 times per turn between all Identities)",
+      "name": "Monstruo de las Sombras",
+      "desc": "[Los efectos solo aplican a las Identidades #1, #2, #7 y #8 Desplegadas]\n\nGana +1 Contador de [Vibration] adicional por efectos de Habilidad o de Moneda\n -Si el objetivo está aturdido o en estado de Moral Baja o Pánico, gana +2 en su lugar\n\n - Si hay enemigos Aturdidos, en estado de Moral Baja o en Pánico al Inicio del turno, inflige 2 de [AttackDown] o 2 de [DefenseDown] a todos los enemigos.(3 veces por turno)\n\nTras Golpear enemigos Aturdidos, en estado de Moral Baja o en Pánico: inflige 1 de [AttackDown] o 1 de [DefenseDown] (3 veces por turno entre todas las Identidades)",
       "simpleDesc": [
         {
           "abilityID": 9761,
-          "simpleDesc": "Gain more [Vibration] Count with Skill or Coin effects"
+          "simpleDesc": "Gana más Contador de [Vibration] por efectos de Habilidad o de Moneda"
         },
         {
           "abilityID": 97611,
-          "simpleDesc": "Inflict 1 [AttackDown] or 1 [DefenseDown]"
+          "simpleDesc": "Inflige 1 de [AttackDown] o 1 de [DefenseDown]"
         },
         {
           "abilityID": 97612,
-          "simpleDesc": "Inflict 1 [AttackDown] or 1 [DefenseDown]"
+          "simpleDesc": "Inflige 1 de [AttackDown] o 1 de [DefenseDown]"
         }
       ]
     },
     {
       "id": 9762,
-      "name": "Packaging Box",
-      "desc": "On Hit from ally Skills) randomly select one of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nOn Kill from allies) randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to a random ally (3 times per turn)",
+      "name": "Caja de Embalaje",
+      "desc": "Tras Golpear con una Habilidad de un aliado: selecciona aleatoriamente uno de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], y [Sinking], luego inflige 1 de Potencia del efecto seleccionado. (3 veces por turno)\n\nAl Matar un enemigo: selecciona aleatoriamente uno de los siguientes efectos: Contador de [Breath], Contador de [Charge], [Agility], [AttackUp], y [DefenseUp], luego aplica 1 del efecto seleccionado a un aliado aleatorio (3 veces por turno)",
       "simpleDesc": [
         {
           "abilityID": 9762,
-          "simpleDesc": "Inflict a random debuff"
+          "simpleDesc": "Inflige una desventaja aleatoria"
         },
         {
           "abilityID": 97621,
-          "simpleDesc": "Gain a random buff"
+          "simpleDesc": "Gana una mejora aleatoria"
         }
       ]
     },
     {
       "id": 9763,
-      "name": "Packaging Ribbon",
-      "desc": "Turn Start: randomly select 1 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 1 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies",
+      "name": "Listón de Embalaje",
+      "desc": "Inicio del Turno: aleatoriamente selecciona 1 efecto entre 'Daño de Envidia/Ira Aumentado' y aplica 1 de Acumulación a todos los aliados\n\nInicio del Turno: aleatoriamente selecciona 1 efecto entre 'Fragilidad a la Envidia/Ira' y aplica 1 de Acumulación a todos los enemigos",
       "simpleDesc": [
         {
           "abilityID": 9763,
-          "simpleDesc": "Gain a random Affinity DMG Up effect"
+          "simpleDesc": "Gana un efecto de Daño Aumentado para una Afinidad aleatoria"
         },
         {
           "abilityID": 97631,
-          "simpleDesc": "Inflict 'Fragility' against a random Affinity"
+          "simpleDesc": "Inflige un efecto de 'Fragilidad' a una Afinidad aleatoria"
         }
       ]
     },
     {
       "id": 9764,
-      "name": "Gift",
-      "desc": "When an ally hits with a Skill, randomly select 2 of the following effects: [Combustion], [Laceration], [Vibration], [Burst], and [Sinking], then inflict 1 Potency of the selected effect (3 times per turn)\n\nWhen an ally hits with a Skill, randomly select one of the following effects: [Breath] Count, [Charge] Count, [Agility], [AttackUp], and [DefenseUp], then inflict 1 of the selected effect to 2 random allies (3 times per turn)\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy DMG Up' effects and apply 1 Stack to all allies\n\nTurn Start: randomly select 2 out of 'Wrath ~ Envy Fragility' effects and inflict 1 Stack to all enemies",
+      "name": "Regalo",
+      "desc": "Tras Golpear con una Habilidad de un aliado: selecciona aleatoriamente 2 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], y [Sinking], luego inflige 1 de Potencia del efecto seleccionado. (3 veces por turno)\n\nTras Golpear con una Habilidad de un aliado: selecciona aleatoriamente uno de los siguientes efectos: Contador de [Breath], Contador de [Charge], [Agility], [AttackUp], y [DefenseUp], luego aplica 1 del efecto seleccionado a 2 aliados aleatorios (3 veces por turno)\n\nInicio del Turno: aleatoriamente selecciona 2 efectos entre 'Daño de Envidia/Ira Aumentado' y aplica 1 de Acumulación a todos los aliados\n\nInicio del Turno: aleatoriamente selecciona 2 efectos entre 'Fragilidad a la Envidia/Ira' y aplica 1 de Acumulación a todos los enemigos",
       "simpleDesc": [
         {
           "abilityID": 9764,
-          "simpleDesc": "Inflict a random debuff"
+          "simpleDesc": "Inflige una desventaja aleatoria"
         },
         {
           "abilityID": 97641,
-          "simpleDesc": "Gain a random buff"
+          "simpleDesc": "Gana una mejora aleatoria"
         },
         {
           "abilityID": 97642,
-          "simpleDesc": "Gain a random Affinity DMG Up effect"
+          "simpleDesc": "Gana un efecto de Daño Aumentado para una Afinidad aleatoria"
         }
       ]
     },
     {
       "id": 9765,
-      "name": "Jolly Plushie",
-      "desc": "Gain 2 [Breath] Potency next turn based on the number of allied Attack Skills that dealt damage by Turn End\n- In Focused Encounters, gain 4 [Breath] Potency instead.\n\nTurn Start: apply 2 [Breath], +2 [Breath] Count, and 2 [Protection] on the ally with the least HP.\n\nDeal +(absolute value of SP)% more damage. (min 0%)\n\nWhen an ally with Plus Coin Skills recovers from Stagger, fully heal SP. (does not activate when Corroded)\n\nFor an ally with all Minus Coin Skills: gain 5 [Paralysis] at Turn Start.",
+      "name": "Peluche Feliz",
+      "desc": "Gana 2 Potencia de [Breath] el siguiente turno basado en el número de Habilidades de Ataque aliadas que infligieron daño antes del Fin de Turno\n - En Encuentros Centrados, gana 4 Potencia de [Breath] en su lugar.\n\nInicio del Turno: aplica 2 de [Breath], +2 Contador de [Breath], y 2 de [Protection] en el aliado con el menor HP.\n\nInflige +(valor absoluto de los PC)% de daño. (Min 0%)\n\nCuando un aliado con Monedas Positivas se recupera del Aturdimiento, cura PC por completo. (No se activa si está Corroído)\n\nPara los aliados con Monedas Negativas: gaba 5 de [Paralysis] al Inicio del Turno.",
       "simpleDesc": [
         {
           "abilityID": 9765,
-          "simpleDesc": "Gain Poise Potency"
+          "simpleDesc": "Gana Potencia de Temple"
         },
         {
           "abilityID": 97651,
-          "simpleDesc": "Apply a random buff"
+          "simpleDesc": "Aplica una mejora aleatoria"
         },
         {
           "abilityID": 97652,
-          "simpleDesc": "Apply [Breath] and [Protection]"
+          "simpleDesc": "Aplica [Breath] y [Protection]"
         },
         {
           "abilityID": 97653,
-          "simpleDesc": "Deal more damage"
+          "simpleDesc": "Inflige Daño adicional"
         },
         {
           "abilityID": 97654,
-          "simpleDesc": "Fully heal SP"
+          "simpleDesc": "Cura los PC por completo"
         },
         {
           "abilityID": 97655,
-          "simpleDesc": "Gain [Paralysis]"
+          "simpleDesc": "Gana [Paralysis]"
         }
       ]
     },
     {
       "id": 9766,
-      "name": "Implicit Contract Renewal",
-      "desc": "If there are no surviving [RequestedTarget], inflict the [RequestedTarget] effect against the first enemy to be attacked by an ally. (once per turn)",
+      "name": "Renovación de Contrato Implícita",
+      "desc": "Si no hay objetivos sobrevivientes con [RequestedTarget], entonces inflige el efecto de [RequestedTarget] contra el primer enemigo que es golpeado por un aliado. (una vez por turno)",
       "simpleDesc": [
         {
           "abilityID": 9766,
-          "simpleDesc": "Inflict [RequestedTarget]"
+          "simpleDesc": "Inflige [RequestedTarget]"
         }
       ]
     },
     {
       "id": 9767,
-      "name": "Darkflame Smoking Pipe",
-      "desc": "[Effect applies only to #1 Deployed Identity]\n\nGain 2 [Enhancement] and 1 [Vulnerable] every turn\n\nIf the main target currently has a reduced Defense Level, gain 5 [Breath] before attack\n\nPride Pierce Skills deal +(50 / # of Coins)% more damage (including E.G.O)",
+      "name": "Pipa de la Llama Oscura",
+      "desc": "[Los efectos aplican solo a la Identidad #1 Desplegada]\n\nGana 2 de [Enhancement] y 2 de [Vulnerable] cada turno\n\nSi el objetivo principal tiene Nivel Defensivo reducido, gana 5 de [Breath] antes de atacar\n\nHabilidades de Orgullo Perforantes infligen +(50 / # de Monedas) de daño (incluyendo E.G.O)",
       "simpleDesc": [
         {
           "abilityID": 9767,
-          "simpleDesc": "Gain [Enhancement] and [Vulnerable]"
+          "simpleDesc": "Gana [Enhancement] y [Vulnerable]"
         },
         {
           "abilityID": 97671,
-          "simpleDesc": "Gain [Breath]"
+          "simpleDesc": "Gana [Breath]"
         },
         {
           "abilityID": 97672,
-          "simpleDesc": "Pierce Skills deal more damage"
+          "simpleDesc": "Habilidades Perforantes infligen daño adicional"
         }
       ]
     },
     {
       "id": 9768,
-      "name": "Equalizer",
-      "desc": "If the target has 1.5 or lower Pierce Resistance, Pierce Resistance +0.3",
+      "name": "Ecualizador",
+      "desc": "Si el objetivo tiene Resistencia al Perforante menor a 1.5, Resistencia al Perforante +0.3",
       "simpleDesc": [
         {
           "abilityID": 9768,
@@ -399,103 +399,103 @@
     },
     {
       "id": 9769,
-      "name": "Swift Command",
-      "desc": "Turn End: if any allies Retreated this turn, 1 ally with the fastest Speed gains 2 [Enhancement] and 1 [AttackDmgUp] at the next Turn Start\n\nCombat Start: if any allies were Substituted in this turn, allies that were Substituted in gain 2 [Enhancement] and 2 [Endurance]",
+      "name": "Comando Rápido",
+      "desc": "Fin del Turno: si algún aliado se Retiró este turno, 1 aliado con la mayor Velocidad gana 2 de [Enhancement] y 1 de [AttackDmgUp] el Inicio del siguiente turno\n\nInicio del Combate: si alguno de los aliados fueron Substituidos este turno, aliados que Substituyeron a otros ganan 2 de [Enhancement] y 2 de [Endurance]",
       "simpleDesc": [
         {
           "abilityID": 9769,
-          "simpleDesc": "Gain [Enhancement] and [AttackDmgUp]"
+          "simpleDesc": "Gana [Enhancement] y [AttackDmgUp]"
         },
         {
           "abilityID": 97691,
-          "simpleDesc": "Gain [Enhancement] and [Endurance]"
+          "simpleDesc": "Gana [Enhancement] y [Endurance]"
         }
       ]
     },
     {
       "id": 9770,
-      "name": "Gear Shrapnel",
-      "desc": "Turn Start: if this unit has [Breath], gain 2 [DefenseUp] and 1 [Endurance]\n\nIf this unit has [Breath], the first Coin to hit deals +10% more damage\n\nIf the said Coin hits critically, +20% Damage on Critical Hit",
+      "name": "Fragmentos de Engranaje",
+      "desc": "Inicio del Turno: si esta unidad tiene [Breath], gana 2 de [DefenseUp] y 1 de [Endurance]\n\nSi esta unidad tiene [Breath], la primera Moneda en golpear inflige +10% de daño\n\nSi dicha Moneda inflige un crítico, 20% de daño en Golpes Críticos",
       "simpleDesc": [
         {
           "abilityID": 9770,
-          "simpleDesc": "Gain [DefenseUp] and [Endurance]"
+          "simpleDesc": "Gana [DefenseUp] y [Endurance]"
         },
         {
           "abilityID": 97701,
-          "simpleDesc": "Deal more damage with the first Coin that hits"
+          "simpleDesc": "Inflige daño adicional con la primera Moneda en golpear"
         }
       ]
     },
     {
       "id": 9771,
-      "name": "CQC Manual",
-      "desc": "If a Skill that can spend [Bullet] does not spend [Bullet], gain 1 [Enhancement] this turn and next turn (once per turn)\n\nWhen gaining [Bullet], Skill 3 deals +50% more damage this turn and next turn when used\n\nWhen using a Skill that spends [Bullet], gain 3 [Breath] and +1 [Breath] Count",
+      "name": "Manual de Combate en Espacios Cerrados",
+      "desc": "Si una Habilidad que puede consumir [Bullet] falla en consumir [Bullet], gana 1 de [Enhancement] este turno y el siguiente turno (una vez por turno)\n\nAl ganar [Bullet], la Habilidad 3 inflige +50% de daño este turno y el siguiente al ser usada\n\nAl usar una Habilidad que consuma [Bullet], gana 3 de [Breath] y +1 Contador de [Breath]",
       "simpleDesc": [
         {
           "abilityID": 9771,
-          "simpleDesc": "Gain [Enhancement]"
+          "simpleDesc": "Gana [Enhancement]"
         },
         {
           "abilityID": 97711,
-          "simpleDesc": "Skill 3 deals more damage"
+          "simpleDesc": "Habilidad 3 inflige daño adicional"
         },
         {
           "abilityID": 97712,
-          "simpleDesc": "Gain [Breath] Potency and Count"
+          "simpleDesc": "Gana Potencia y Contador de [Breath]"
         }
       ]
     },
     {
       "id": 9772,
-      "name": "Combustion Gloves",
-      "desc": "On Clash Win with a Base Attack Skill that inflicts [Combustion] Potency or 'Unique Burn', inflict 2 [Combustion] Potency (2 times per turn per Identity)\n\nOn Clash Win with a Base Attack Skill that inflicts [Combustion] Count, inflict +2 [Combustion] Count (3 times per turn per enemy)\n\nBase Attack Skills that inflict [Combustion] Potency, Count, or 'Unique Burn': each Skill gains Offense Level equal to the number of copies of each Skill(max 3).\n- If a Skill has 3+ copies, gain 2 additional Offense Level.",
+      "name": "Guantes Incendiarios",
+      "desc": "Tras Choque Ganado con una Habilidad de Ataque Base que inflija Potencia de [Combustion] o 'Quemadura Única', inflige 2 Potencia de [Combustion] (2 veces por turno, por Identidad)\n\nTras Choque Ganado con una Habilidad de Ataque Base que inflija Contador de [Combustion] o 'Quemadura Única', inflige +2 Contador de [Combustion] (3 veces por turno, por enemigo)\n\nHabilidades de Ataque Base que inflijan Potencia o Contador de [Combustion] o 'Quemadura Única': cada Habilidad gana Nivel Ofensivo equivalente al número de copias que tiene cada Habilidad (máx 3)\n - Si una Habilidad tiene +3 copias, gana 2 de Nivel Ofensivo adicional.",
       "simpleDesc": [
         {
           "abilityID": 9772,
-          "simpleDesc": "Inflict [Combustion]"
+          "simpleDesc": "Inflige [Combustion]"
         },
         {
           "abilityID": 97721,
-          "simpleDesc": "Inflict [Combustion] Count"
+          "simpleDesc": "Inflige Contador de [Combustion]"
         },
         {
           "abilityID": 97722,
-          "simpleDesc": "Gain Offense Level"
+          "simpleDesc": "Gana Nivel Ofensivo"
         }
       ]
     },
     {
       "id": 9773,
-      "name": "Spiked Combat Boots",
-      "desc": "On Clash Win with a Base Attack Skill that inflicts [Burst] Potency or Count against an enemy, inflict +3 [Burst] Count (2 times per turn per enemy)\n\nOn Hit: if the enemy does not have [Burst], Coin effects that inflict [Burst] Potency inflict [Burst] Count instead (max 4; 2 times per turn per enemy; for Abnormalities, for each Part)\n\nBase Attack Skills that inflict [Burst] Potency or Count: each Skill gains Offense Level equal to the number of copies of each Skill(max 3).\n- If a Skill has 3+ copies, gain 2 additional Offense Level.",
+      "name": "Botas de Combate con Púas",
+      "desc": "Tras Choque Ganado con una Habilidad de Ataque Base que inflija Potencia o Contador de [Burst] a un enemigo, inflige +3 Contador de [Burst] (2 veces por turno, por enemigo)\n\nTras Golpear: si el enemigo no tiene [Burst], efectos de Moneda que inflijan Potencia de [Burst] infligen Contador de [Burst] en su lugar (Máx 4; 2 veces por turno, por enemigo; para Anormalidades, por cada parte) \n\nHabilidades de Ataque Base que infligen Potencia o Contador de [Burst]: cada Habilidad gana Nivel Ofensivo equivalente al número de copias que tiene cada Habilidad (máx 3).\n - Si una Habilidad tiene 3+ copias, gana 2 de Nivel Ofensivo adicionales.",
       "simpleDesc": [
         {
           "abilityID": 9773,
-          "simpleDesc": "Inflict [Burst] Count"
+          "simpleDesc": "Inflige Contador de [Burst]"
         },
         {
           "abilityID": 97731,
-          "simpleDesc": "Inflict [Burst] Count"
+          "simpleDesc": "Inflige Contador de [Burst]"
         },
         {
           "abilityID": 97732,
-          "simpleDesc": "Gain Offense Level"
+          "simpleDesc": "Gana Nivel Ofensivo"
         }
       ]
     },
     {
       "id": 9774,
-      "name": "Re-ignition Plug",
-      "desc": "Base Attack Skills that inflict [Combustion] Count: deal +20% more damage and inflict +1 more [Combustion] Count. On Hit with these Skills against enemies with [Combustion] or 'Unique Burn': inflict 1 [DefenseDown] (2 times per turn per Identity)\n\nIdentities whose all Base Attack Skills inflict [Combustion] Potency, Count, or 'Unique Burn': at Turn Start, gain [AttackUp] equal to the number of surviving turns (except for the turn they join the Encounter; max 5)",
+      "name": "Bujía",
+      "desc": "Habilidades de Ataque Base que inflijan Contador de [Combustion]: infligen +20% de daño y +1 Contador de [Combustion]. Tras Golpear enemigos con [Combustion] o con 'Quemadura Única' con estas Habilidades: inflige 1 de [DefenseDown] (2 veces por turno, por Identidad)\n\nIdentidades cuyas todas Habilidades de Ataque Base inflijan Potencia o Contador de [Combustion], o 'Quemadura Única': al Inicio del Turno, gana [AttackUp] equivalente al número de turnos sobrevividos (exceptuando el turno en el que se unieron al Encuentro; Máx 5)",
       "simpleDesc": [
         {
           "abilityID": 9774,
-          "simpleDesc": "Inflict [DefenseDown]"
+          "simpleDesc": "Inflige [DefenseDown]"
         },
         {
           "abilityID": 97741,
-          "simpleDesc": "Gain [AttackUp]"
+          "simpleDesc": "Gana [AttackUp]"
         },
         {
           "abilityID": 97742,
@@ -505,16 +505,16 @@
     },
     {
       "id": 9775,
-      "name": "Enhancer Mk.4",
-      "desc": "On Hit with the final Coin against enemies with 15- [Burst] Potency when using a Base Attack Skill that inflicts [Burst] Potency or Count: inflict +3 [Burst] Count (once per turn per Identity)\n\nBase Attack Skills that inflict [Burst] Count: Clash Power +1, deal +20% more damage",
+      "name": "Potenciador Mk.4",
+      "desc": "Tras Golpear con la Moneda final de una Habilidad de Ataque Base que inflige Potencia o Contador de [Burst] a enemigos con 15- Potencia de [Burst]: inflige +3 Contador de [Burst] (una vez por turno, por Identidad)\n\nHabilidades de Ataque Base que infligen Contador de [Burst]: Poder de Choque +1 e infligen +20% de daño",
       "simpleDesc": [
         {
           "abilityID": 9775,
-          "simpleDesc": "Inflict [Burst] Count"
+          "simpleDesc": "Inflige Contador de [Burst]"
         },
         {
           "abilityID": 97751,
-          "simpleDesc": "Gain Clash Power and deal more damage"
+          "simpleDesc": "Gana Poder de Choque e inflige daño adicional"
         },
         {
           "abilityID": 97752,
@@ -524,16 +524,16 @@
     },
     {
       "id": 9776,
-      "name": "Embers",
-      "desc": "Turn Start: all enemies(for Abnormalities, all Parts) with 2~7 [Combustion] Count gain 1~2 [Combustion] Count.\n\nWhen enemies take 5 hits from ally Attack Skills(including E.G.O Skills) that inflict [Combustion] Potency, Count, or 'Unique Burn': trigger [Combustion] once, then reduce [Combustion] Count by 1 (2 times per turn per enemy; for Abnormalities, for each Part)",
+      "name": "Ascuas",
+      "desc": "Inicio del Turno: todos los enemigos (o para Anormalidades, todas las Partes) con 2~7 Contador de [Combustion] ganan 1~2 Contador de [Combustion].\n\nCuando un enemigo recibe 5 golpes de una Habilidad de Ataque aliada (Incluyendo Habilidades E.G.O) que inflige Potencia o Contador de [Combustion], o 'Quemadura Única': provoca [Combustion] una vez, luego reduce el Contador de [Combustion] por 1 (2 veces por turno, por enemigo; para Anormalidades, por cada Parte)",
       "simpleDesc": [
         {
           "abilityID": 9776,
-          "simpleDesc": "Inflict [Combustion] Count"
+          "simpleDesc": "Inflige Contador de [Combustion]"
         },
         {
           "abilityID": 97761,
-          "simpleDesc": "Activate [Combustion]"
+          "simpleDesc": "Provoca [Combustion]"
         },
         {
           "abilityID": 97762,
@@ -543,16 +543,16 @@
     },
     {
       "id": 9777,
-      "name": "Twigs",
-      "desc": "Every time [Burst] activates 3 times on enemies with [Burst] due to getting hit by allies' Attack Skills(including E.G.O Skills) that inflict [Burst] Potency or Count, inflict 2 [AttackDown] on the said enemy next turn (3 times per turn per enemy; for Abnormalities, for each Part)\n\nOn Kill with a Base Attack Skill that inflicts [Burst] Count: inflict the remaining [Burst] Count on the defeated enemy on a random enemy next turn (2 times per turn)",
+      "name": "Leña Menuda",
+      "desc": "Cada vez que se activa el efecto de [Burst] 3 veces en enemigos con [Burst] debido a ser golpeados por Habilidades de Ataque aliadas (Incluyendo Habilidades E.G.O) que inflijan Potencia o Contador de [Burst], inflije 2 de [AttackDown] en dicho enemigo el siguiente turno (3 veces por turno, por enemigo; para Anormalidades, por cada Parte)\n\nAl Matar con una Habilidad de Ataque Base que Inflige Contador de [Burst]: inflige el Contador de [Burst] restante en el enemigo derrotado en otro enemigo aleatorio el siguiente turno (2 veces por turno)",
       "simpleDesc": [
         {
           "abilityID": 9777,
-          "simpleDesc": "Inflict [AttackDown]"
+          "simpleDesc": "Inflige [AttackDown]"
         },
         {
           "abilityID": 97771,
-          "simpleDesc": "Inflict [Burst] Count"
+          "simpleDesc": "Inflige Contador de [Burst]"
         },
         {
           "abilityID": 97772,
@@ -562,137 +562,272 @@
     },
     {
       "id": 9778,
-      "name": "Regular Operational Gear",
-      "desc": "Limbus Company Identities: Skill 2 gains Offense Level +1 and deals +15% more damage; Skill 3 gains Offense Level +2 and deals +30% more damage\n\nIf there are 4+ Limbus Company Identities among the Backup Units, 2 random allies gain 2 [AttackUp] at Turn Start",
+      "name": "Equipo de Operaciones Ordinario",
+      "desc": "Identidades del Limbus Company: la Habilidad 2 gana Nivel Ofensivo +1 e inflige +15% de daño; la Habilidad 3 gana Nivel Ofensivo +2 e inflige +30% de daño\n\nSi hay 4+ Identidades del Limbus Company entre las Unidades de Respaldo, 2 aliados aleatorios ganan 2 de [AttackUp] al Inicio del Turno",
       "simpleDesc": [
         {
           "abilityID": 9778,
-          "simpleDesc": "Gain Offense Level and deal more damage"
+          "simpleDesc": "Gana Nivel Ofensivo e inflige daño adicional"
         },
         {
           "abilityID": 97781,
-          "simpleDesc": "Gain Offense Level Up"
+          "simpleDesc": "Gana Nivel Ofensivo Aumentado"
         }
       ]
     },
     {
       "id": 9779,
-      "name": "Operation Authorization Card",
-      "desc": "During the Encounter, when an ally retreats or is defeated, randomly apply 3 [AttackUp] between all Identities at next Turn Start. (2 times per turn)\n- When 3+ allies retreat or are defeated, randomly apply 6 [AttackUp] between all Identities at next Turn Start instead. (2 times per turn)\n\nTurn Start: 3 allies with the lowest SP heals 15, 10, and 5 SP each (does not stack; the numbers apply in the ascending order; does not activate if the affected units are Panicked or Corroded)",
+      "name": "Tarjeta de Autorización de Operación",
+      "desc": "Durante el encuentro, cuando un aliado se retire o sea derrotado, aplica 3 de [AttackUp] aleatoriamente entre todas las Identidades el inicio del siguiente turno. (2 veces por turno)\n - Cuando 3+ aliados se retiren o sean derrotados, aplica 6 de [AttackUp] aleatoriamente entre todas las Identidades al inicio del siguiente turno en su lugar (2 veces por turno)\n\nInicio del Turno: 3 aliados con los menores PC curan 15, 10 y 5 PC cada uno (no se acumula; los números se aplican en orden ascendente; no se activa si la unidad afectada se encuentra en Pánico o Corroída)",
       "simpleDesc": [
         {
           "abilityID": 9779,
-          "simpleDesc": "Gain Offense Level Up"
+          "simpleDesc": "Gana Nivel Ofensivo Aumentado"
         },
         {
           "abilityID": 97791,
-          "simpleDesc": "Heal SP"
+          "simpleDesc": "Cura PC"
         }
       ]
     },
     {
       "id": 9780,
-      "name": "High-risk Operational Gear",
-      "desc": "Limbus Company Identities: Skill 2 gains Offense Level +2 and deals +20% more damage; Skill 3 gains Offense Level +3 and deals +40% more damage\n\nTurn Start: a random ally gains 2 [AttackUp] for every Backup or defeated Limbus Company Identities.\n\nDuring the Encounter, when an ally retreats or is defeated, randomly apply 3 [AttackUp] between all Identities at next Turn Start. (distributed equally, 2 times per turn)\n- When 3+ allies retreat or are defeated, randomly apply 6 [AttackUp] between all Identities at next Turn Start instead. (2 times per turn)\n- When 3+ Limbus Company Identities retreat or are defeated, randomly apply 8 [AttackUp] between all Identities instead.",
+      "name": "Equipo de Operaciones de Alto Riesgo",
+      "desc": "Identidades del Limbus Company: Habilidad 2 gana Nivel Ofensivo +2 e inflige +20% de daño, Habilidad 3 gana Nivel Ofensivo +3 e inflige +40% de daño\n\nInicio del Turno: un aliado aleatorio gana 2 de [AttackUp] por cada unidad del Limbus Company de Respaldo o que haya sido derrotada.\n\nDurante el Encuentro, cuando un aliado se retira o es derrotado, aplica 3 de [AttackUp] aleatoriamente entre todas las Identidades al inicio del siguiente turno. (distribuidos de manera equitativa, 2 veces por turno)\n - Cuando 3+ aliados se retiran o son derrotados, aplica 6 de [AttackUp] aleatoriamente entre todas las Identidades el inicio del siguiente turno en su lugar. (2 veces por turno)\n - Cuando 3+ Identidades del Limbus Company se retiran o son derrotadas, aplica 8 de [AttackUp] aleatoriamente entre todas las Identidades en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9780,
-          "simpleDesc": "Gain Offense Level and deal more damage"
+          "simpleDesc": "Gana Nivel Ofensivo e inflige daño adicional"
         },
         {
           "abilityID": 97801,
-          "simpleDesc": "Randomly apply Offense Level Up between allies"
+          "simpleDesc": "Aplica Nivel Ofensivo Aumentado aleatoriamente entre todos los aliados"
         },
         {
           "abilityID": 97802,
-          "simpleDesc": "Randomly apply Offense Level Up between allies"
+          "simpleDesc": "Aplica Nivel Ofensivo Aumentado aleatoriamente entre todos los aliados"
         }
       ]
     },
     {
       "id": 9781,
-      "name": "Hardwood Liquor Cup",
-      "desc": "On Clash Lose, gain 1 [Protection] and heal 3~6 SP (once per turn per Identity)\n\nWhen attacking an enemy with the [SuperCoin]'s effect of the Skill(except E.G.O Skills) that lost the Clash: \n- Plus Coin Skills receive Plus Coin Power +(3 / # of Coins) and deal +20% more damage (min. Plus Coin Power gain 1)\n- Minus Coin Skills deal +40% more damage",
+      "name": "Vaso para Licor de Madera Noble",
+      "desc": "Tras Choque Perdido, gana 1 de [Protection] y cura 3~6 PC (una vez por turno, por Identidad)\n\nAl golpear a un enemigo con el efecto de [SuperCoin] (exceptuando Habilidades E.G.O) de una Habilidad que perdió el Choque:\n - Habilidades con Monedas Positivas reciben Poder de Moneda Positiva +(3 / # de Monedas) e infligen +20% de daño (min. Poder de Moneda Positiva ganado 1)\n - Habilidades con Monedas Negativas infligen +40% de daño",
       "simpleDesc": [
         {
           "abilityID": 9781,
-          "simpleDesc": "Gain Protection and heal SP"
+          "simpleDesc": "Gana Protección y cura PC"
         },
         {
           "abilityID": 97811,
-          "simpleDesc": "Gain Coin Power and deal more damage"
+          "simpleDesc": "Gana Poder de Moneda e inflige daño adicional"
         }
       ]
     },
     {
       "id": 9782,
-      "name": "Worn Hilt",
-      "desc": "Turn Start: all allies gain 1 [ScarletResultUp].\n\nBlade Lineage or Kurokumo Clan Identities gain 2 [ScarletResultUp] and 1 [SlashResultUp] instead.",
+      "name": "Empuñadura Deteriorada",
+      "desc": "Inicio del Turno: todos los aliados ganan 1 [ScarletResultUp].\n\nIdentidades pertenecientes al Linaje de la Espada o al Clan Kurokumo ganan 2 [ScarletResultUp] y 1 de [SlashResultUp] en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9782,
-          "simpleDesc": "Gain Lust Power Up"
+          "simpleDesc": "Gana Poder de Lujuria Aumentado"
         },
         {
           "abilityID": 97821,
-          "simpleDesc": "Gain Lust Power Up and Slash Power Up"
+          "simpleDesc": "Gana Poder de Lujuria Aumentado y Poder Cortante Aumentado"
         }
       ]
     },
     {
       "id": 9783,
-      "name": "Resplendence",
-      "desc": "Turn Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nAll allies gain 2 [ScarletResultUp] and 1 [SlashResultUp] at Turn Start.\n\nKurokumo Clan Identities' Base Attack Skills: gain Coin Power +(4 / # of Coins; min. 1), inflict an additional 1 [Laceration], +1 [Laceration] Count, and deal +(80/# of Coins)% more damage\n\nNullify Kurokumo Clan Identities' first Stagger Threshold; at less than 50% HP, gain 2 [Protection] at Turn Start. Identities that took damage from enemies this turn gain 2 [Agility] next turn.",
+      "name": "Resplandor",
+      "desc": "Inicio del Turno: se activa cuando hay 3 o más Identidades pertenecientes al Clan Kurokumo.\n\nTodos los aliados ganan 2 [ScarletResultUp] y 1 de [SlashResultUp] al Inicio del Turno.\n\nHabilidades de Ataque Base de Identidades del Clan Kurokumo: ganan Poder de Moneda +(4 / # de monedas; min 1), infligen 1 Potencia y Contador de [Laceration] adicional, e infligen +( 80 / # de Monedas)% de daño.\n\nNulifica el primer Umbral de Aturdimiento de las Identidades del Clan Kurokumo: si por debajo del 50% de HP, gana 2 de [Protection] al Inicio del Turno. Identidades que tomaron daño por ataques enemigos este turno ganan 2 de [Agility] el siguiente turno.",
       "simpleDesc": [
         {
           "abilityID": 9783,
-          "simpleDesc": "Gain Lust Power Up and Slash Power Up"
+          "simpleDesc": "Gana Poder de Lujuria Aumentado y Poder Cortante Aumentado"
         },
         {
           "abilityID": 97831,
-          "simpleDesc": "Gain Coin Power, inflict more Bleed and Bleed Count, and deal more damage"
+          "simpleDesc": "Gana Poder de Moneda, inflige Potencia y Contador de Sangrado adicionales e inflige daño adicional"
         },
         {
           "abilityID": 97832,
-          "simpleDesc": "Nullify the first Stagger Threshold; gain Protection at under certain HP; gain Haste after taking damage"
+          "simpleDesc": "Nulifica el primer Umbral de Aturdimiento; gana Protección si por debajo de cierto porcentaje de HP; gana Rapidez después de recibir daño"
         }
       ]
     },
     {
       "id": 9784,
-      "name": "Cultivation",
-      "desc": "Turn Start: activates when there are 3 or more Blade Lineage Identities.\n\nTurn Start: all allies gain 2 [SlashResultUp], and deal +35% more damage.\n\nTurn Start: when a Blade Lineage Identity hits critically, deal additional Pride damage equal to ([Breath] Potency / 2) on self.\n\nIf a Blade Lineage Identity has 30+ [Breath] Potency at Turn End, consume 10 [Breath] Potency and gain 2 [SlashResultUp] next turn",
+      "name": "Perfeccionamiento",
+      "desc": "Inicio del Turno: se activa cuando hay 3 más Identidades pertenecientes al Linaje de la Espada.\n\nInicio del Turno: todos los aliados ganan 2 de [SlashResultUp], e infligen +35% de daño.\n\nInicio del Turno: cuando una Identidad del Linaje de la Espada golpea críticamente, inflige daño adicional de Orgullo equivalente a (Potencia de [Breath] / 2) en sí.\n\nSi una Identidad del Linaje de la Espada tiene 30+ Potencia de [Breath] al Fin del Turno, consume 10 Potencia de [Breath] y gana 2 de [SlashDamageUp] el siguiente turno",
       "simpleDesc": [
         {
           "abilityID": 9784,
-          "simpleDesc": "Gain Slash Power Up and deal more damage"
+          "simpleDesc": "Gana Poder Cortante Aumentado e inflige daño adicional"
         },
         {
           "abilityID": 97841,
-          "simpleDesc": "Deal an additional ([Breath] Potency/2) Pride damage."
+          "simpleDesc": "Inflige (Potencia de [Breath] / 2) daño de Orgullo adicional."
         },
         {
           "abilityID": 97842,
-          "simpleDesc": "Gain Slash DMG Up"
+          "simpleDesc": "Gana Daño Cortante Aumentado"
         }
       ]
     },
     {
       "id": 9785,
-      "name": "Swarmcloud",
-      "desc": "Turn Start: activates when there are 3 or more Kurokumo Clan Identities.\n\nOn Hit with Base Attack Skill(except E.G.O Skills)'s [SuperCoin]: deal +(40/# of Coins)% more damage\nKurokumo Clan Identities: deal +(80/# of Coins)% more damage instead\n\nKurokumo Clan Identities with Slash Base Attack Skills: gain 2 [SlashDamageUp] at Turn Start. Kurokumo Clan Identities gain 1 [AttackUp] and 1 [DefenseUp] next turn for every 10% missing HP on self at Turn End. (max 5 each)\n\nWhen a Kurokumo Clan Identity dies, all Kurokumo Clan Identities gain 2 [AttackDmgUp] next turn (once per turn)",
+      "name": "Enjambre de Nubes",
+      "desc": "Inicio del Turno: se activa solo si hay 3 o más Identidades pertenecientes al Clan Kurokumo.\n\nTras Golpear con el efecto [SuperCoin] de una Habilidad de Ataque Base (exceptuando Habilidades E.G.O): inflige +(40 / # de Monedas)% de daño\nIdentidades del Clan Kurokumo: infligen +(80 / # de Monedas)% de daño en su lugar\n\nIdentidades del Clan Kurokumo con Habilidades de Ataque Base Cortantes: gana 2 de [SlashDamageUp] al Inicio del Turno. Identidades del Clan Kurokumo ganan 1 de [AttackUp] y 1 de [DefenseUp] el siguiente turno por cada 10% de HP faltante en sí al Fin del Turno. (máx 5 por cada uno)\n\nCuando una Identidad del Clan Kurokumo muere, todas las Identidades del Clan Kurokumo restantes ganan 2 de [AttackDmgUp] el siguiente turno (una vez por turno)",
       "simpleDesc": [
         {
           "abilityID": 9785,
-          "simpleDesc": "Deal more damage"
+          "simpleDesc": "Inflige daño adicional"
         },
         {
           "abilityID": 97851,
-          "simpleDesc": "Gain Slash DMG Up, Offense Level Up, and Defense Level Up"
+          "simpleDesc": "Gana Daño Cortante Aumentado, Nivel Ofensivo Aumentado y Nivel Defensivo Aumentado"
         },
         {
           "abilityID": 97852,
-          "simpleDesc": "Gain Damage Up"
+          "simpleDesc": "Gana Daño Aumentado"
+        }
+      ]
+    },
+    {
+      "id": 9786,
+      "name": "Tatuajes de Mejora - El Medio",
+      "desc": "Habilidades Contundentes: Poder de Choque +1\n - Identidades de El Medio: ganan Poder de Choque +1 y Poder de Moneda +1 en su lugar\n - Identidades de El Medio: si el objetivo principal tiene [RetaliationBook], gana Poder de Choque +1, Poder de Moneda +1, e infligen +10% de daño en su lugar",
+      "simpleDesc": [
+        {
+          "abilityID": 9786,
+          "simpleDesc": "Gana Poder de Choque. Identidades de El Medio ganan Poder de Moneda e infligen daño adicional también"
+        }
+      ]
+    },
+    {
+      "id": 9787,
+      "name": "Talismán de Glifo Monstruoso",
+      "desc": "Al derrotar un objetivo con [Burst] (para Encuentros Centrados, una Parte) con una Habilidad de Ataque, inflige la Potencia de [Burst] en el objetivo entre todos los enemigos (para Encuentros Cerrados, todas las Partes) (máx 2 por enemigo, redondeado hacia abajo)\n\nAl derrotar un objetivo con [BurstAgility] (para Encuentros Centrados, una Parte) con una Habilidad de Ataque, inflige la Potencia y Contador en el objetivo entre todos los enemigos (para Encuentros Centrados, todas las Partes) (Máx 2 por enemigo, redondeado hacia abajo)",
+      "simpleDesc": [
+        {
+          "abilityID": 9787,
+          "simpleDesc": "Inflige Ruptura"
+        },
+        {
+          "abilityID": 97871,
+          "simpleDesc": "Inflige Potencia y Contador de Ruptura"
+        }
+      ]
+    },
+    {
+      "id": 9788,
+      "name": "Pata de Liebre",
+      "desc": "Si la Velocidad del aliado es mayor a la del objetivo, el aliado inflige (diferencia de Velocidad / 3) Contador o Potencia de [Burst] adicional al infligir [Burst] con Habilidades (máx 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9788,
+          "simpleDesc": "Inflige Contador o Potencia de Ruptura"
+        }
+      ]
+    },
+    {
+      "id": 9789,
+      "name": "Cadenas de la Lealtad",
+      "desc": "Tras ser golpeado, todos los aliados de la misma facción infligen +5% de daño Contundente (15% por turno)\n\nPara Identidades de El Medio, gana 1 de [AttackUp] e inflige +10% de daño Contundente en su lugar (3 veces por turno, 30% por turno)",
+      "simpleDesc": [
+        {
+          "abilityID": 9789,
+          "simpleDesc": "Inflige daño adicional Contundente. Identidades de El Medio ganan Nivel Ofensivo Aumentado también"
+        }
+      ]
+    },
+    {
+      "id": 9790,
+      "name": "Inscripciones de Glifos Peculiares",
+      "desc": "Al chocar contra objetivos con [Burst], gana ([Burst] en el objetivo / 20) Poder de Choque (máx 2)\n - Al chocar contra objetivos con [BurstAgility], gana ([Burst] en el objetivo / 15) Poder de Choque (máx 3)\n\nAl infligir daño con el efecto [BurstAgility], inflige daño fijo equivalente a (Daño por [BurstAgility] / 3)",
+      "simpleDesc": [
+        {
+          "abilityID": 9790,
+          "simpleDesc": "Poder de Choque Aumentado"
+        },
+        {
+          "abilityID": 97901,
+          "simpleDesc": "Inflige daño adicional al infligir daño con Talismán Heishou - Mao"
+        }
+      ]
+    },
+    {
+      "id": 9791,
+      "name": "Sombrero de Bambú de las Sombras",
+      "desc": "Fin del Turno: Identidades pertenecientes a la Manada Heishuo - Rama Mao ganan 2 de [Agility] el siguiente turno\n\nSi la Velocidad del aliado es mayor a la del objetivo, o al usar un Ataque Unilateral, inflige +10% de daño Cortante por (diferencia de Velocidad / 3) (máx 30%)\n\nSi la Velocidad del aliado es mayor a la del objetivo, recibe -10% daño reducido por (diferencia de Velocidad / 3) (máx 30%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9791,
+          "simpleDesc": "Gana Rapidez"
+        },
+        {
+          "abilityID": 97911,
+          "simpleDesc": "Inflige daño Cortante adicional"
+        },
+        {
+          "abilityID": 97912,
+          "simpleDesc": "Recibe daño reducido"
+        }
+      ]
+    },
+    {
+      "id": 9792,
+      "name": "Cadenas de Hermandad Eterna",
+      "desc": "Inicio del Encuentro: se activa cuando hay 2 o más Identidades de El Medio (solo se toman en cuenta Identidades presentes el en campo de batalla al Inicio del Encuentro)\n\nAl ser golpeado, aliados de la misma faccion infligen +5% de daño Contundente (15% por turno)\nIdentidades de El Medio ganan 1 de [AttackUp] e infligen +15% de daño Contundente en su lugar (3 por turno, 30% por turno)\n\nHabilidades Contundente ganan Poder Base +1\n - Identidades de El Medio ganan Poder Base +1 y Poder de Moneda +1 en su lugar\n - Si el objetivo tiene [RetaliationBook], Identidades de El Medio ganan Poder Base +1, Poder de Moneda +1 e infligen +30% de daño en su lugar\n\nIdentidades de El Medio ganan Velocidad Min +1 y Velocidad Máx +1 por el resto del Encuentro",
+      "simpleDesc": [
+        {
+          "abilityID": 9792,
+          "simpleDesc": "Inflige daño Contundente adicional. Identidades de El Medio ganan Nivel Ofensivo Aumentado también"
+        },
+        {
+          "abilityID": 97921,
+          "simpleDesc": "Poder de Habilidad Contundente Aumentado"
+        },
+        {
+          "abilityID": 97922,
+          "simpleDesc": "Gana Velocidad Min y Máx"
+        }
+      ]
+    },
+    {
+      "id": 9793,
+      "name": "Glifo Escrito con Cristales",
+      "desc": "Inicio del Encuentro: se activa cuando hay 5 o más identidades que inflijan Potencia o Contador de [Burst] (exceptuando Habilidades E.G.O)\n\nAl derrotar un objetivo con [Burst] (para Encuentros Centrados, una Parte) con una Habilidad de Ataque, inflige la Potencia de [Burst] en el objetivo entre todos los enemigos (para Encuentros Centrados, todas las Partes) (máx 3 por enemigo)\n\nAl derrotar un objetivo con [BurstAgility] (para Encuentros Centrados, una Parte) con una Habilidad de Ataque, inflige la Potencia y Contador de [Burst] en el objetivo entre todos los enemigos (para Encuentros Centrados, todas las Partes) (máx 6 por enemigo)\n\nAl Chocar contra objetivos con [Burst], gana ([Burst] en el objetivo / 20) Poder de Choque (máx 2)\n - Al Chocar contra objetivos con [BurstAgility], gana ([BurstAgility] en el objetivo / 10) Poder de Moneda en su lugar (máx 2)\n\nAl infligir daño con el efecto de [BurstAgility], inflige daño fijo adicional equivalente a (Daño por [BurstAgility] / 2)",
+      "simpleDesc": [
+        {
+          "abilityID": 9793,
+          "simpleDesc": "Inflige Ruptura"
+        },
+        {
+          "abilityID": 97931,
+          "simpleDesc": "Inflige Ruptura"
+        },
+        {
+          "abilityID": 97932,
+          "simpleDesc": "Poder de Choque Aumentado"
+        },
+        {
+          "abilityID": 97933,
+          "simpleDesc": "Inflige daño adicional al infligir daño con Talismán Heishou - Mao"
+        }
+      ]
+    },
+    {
+      "id": 9794,
+      "name": "Tanque de Combustible Oscilante",
+      "desc": "[Efectos aplican solo para las Identidades #2, #4 Desplegadas]\n\nAl recibir daño mortal, 60% de probabilidad para nulificar el daño y curar 30 HP. (una vez por Encuentro)\nEl efecto de arriba no se activa bajo las siguientes condiciones:\n- Cuando el daño recibido por la Habilidad de Ataque excede el HP Máx de esta unidad\n- Cuando la unidad tenga el efecto Curación de HP Reducida",
+      "simpleDesc": [
+        {
+          "abilityID": 9794,
+          "simpleDesc": "Cura HP"
         }
       ]
     }

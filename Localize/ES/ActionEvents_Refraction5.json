@@ -4,20 +4,20 @@
       "id": 863201,
       "name": "",
       "subDesc": "",
-      "desc": "The great skull rears its head with a loud creaking noise; an eerie cackle echoes.\n\nUnderneath the calmed air vibrates an explosive energy; the skull is preparing to launch a powerful attack.\n\nYet it must have overstrained itself;\n\nthe body cracks and wavers, giving us an opening.\n\nIt might be better to attack the opening on its body instead of waiting for it to attack us.\n\nWhat should we do?",
+      "desc": "El cráneo gigante levanta la cabeza, provocando un horrendo crujido, y una aterradora carcajada retumba en todo el lugar.\n\nLa calma del aire se rompe con una explosión de energía; el cráneo se está preparando para lanzar un poderoso ataque.\n\nPero… ¿y esa reacción? Debió de haberse esforzado demasiado.\n\nSu cuerpo se retuerce y pierde el equilibrio, dándonos una oportunidad.\n\nEn lugar de esperar y defender el ataque, quizá sea mejor aprovechar esta oportunidad para atacar el cuerpo.\n\n¿Qué deberíamos hacer?",
       "options": [
         {
-          "message": "Attack the body.",
-          "messageDesc": "Select this to weaken the Abnormality's Resistances but raise its Critical Damage",
+          "message": "Ataca el cuerpo.",
+          "messageDesc": "Selecciona esto para debilitar las Resistencias de la Anormalidad pero aumentar su Daño Crítico",
           "result": [
-            "The frontline Sinners quickly dashed into the opening and struck the Abnormality's body.\n\nThe crack on its torso grows even wider, opening into a crevice.\n\nThat moment, I felt a pair of eyes peering at me from the utter darkness past the bones."
+            "Los Pecadores de las primeras líneas aprovechan la oportunidad para atacar el cuerpo rápidamente.\n\nLa grieta en su torso crece más y más hasta convertirse en un agujero.\n\nY en ese preciso momento, pude sentir un par de ojos mirándome fijamente desde la oscuridad, escondidos detrás de los huesos."
           ]
         },
         {
-          "message": "Wait and see.",
-          "messageDesc": "Select this to apply Protection to allies",
+          "message": "Espera y observa lo que sucede.",
+          "messageDesc": "Selecciona esto para aplicar Protección a todos los aliados",
           "result": [
-            "Immediately before attacking, I noticed through the endless stream of exhalation the eyes of the figure in shadows.\n\nPerhaps the true threat isn't the protective skeleton, but the figure.\n\nA certain momentary intuition stays my hand. We shouldn't be rash about this; let's maintain our defenses and see how this plays out."
+            "Inmediatamente antes de atacar, me percaté de que, a través de la incesante exhalación, unos ojos me miraban fijamente desde la oscuridad.\n\nQuizás la verdadera amenaza no sea el esqueleto que la protege, sino la figura.\n\nUna cierta intuición espontánea invade mis pensamientos. No deberíamos ser temerarios ante la situación. Mantengámonos a la defensiva y veamos lo que planea hacer."
           ]
         }
       ]
@@ -27,34 +27,34 @@
       "name": "",
       "subDesc": "",
       "prevDesc": "뭔가 넣어봄",
-      "desc": "The rose guzzles up the flood of blood, glistening in crimson.\n\nBut even this inundation of blood wasn't enough.\n\nIts glossy eyes glowers at the Sinner from between the petals.",
+      "desc": "La rosa bebe toda la sangre, brillando con un carmesí intenso.\n\nPero... ¿parece no estar satisfecha? La inundación de sangre no fue suficiente.\n\nLa rosa, con sus brillantes ojos, mira taciturnamente a los Pecadores.",
       "options": [
         {
-          "message": "Ignore them.",
-          "messageDesc": "Select this to raise the Abnormality's offenses while reducing its defenses",
+          "message": "Ignórala.",
+          "messageDesc": "Selecciona esto para aumentar los atributos ofensivos de la Anormalidad y reducir sus atributos defensivos",
           "result": [
-            "We agreed to not feed it blood.\n\nDissatisfaction begets frustration, it seems.\n\nThe rose raises its sharp thorns and charges the Sinners."
+            "Todos acordamos no alimentarla más sangre.\n\nPero la insatisfacción engendra frustración, al parecer.\n\nLa rosa se abalanza contra los Pecadores con sus espinas alzadas."
           ]
         },
         {
-          "message": "Every Sinner feeds it a little bit of blood.",
-          "messageDesc": "Select this to consume HP from allies to reduce the Abnormality's offenses while raising its defenses",
+          "message": "Todos los Pecadores le ceden un poco de sangre.",
+          "messageDesc": "Selecciona esto para consumir HP de todos los aliados y reducir los atributos ofensivos de la Anormalidad pero aumentar sus atributos defensivos",
           "result": [
-            "The rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
+            "La rosa parece estar algo satisfecha después de beber la sangre de los Pecadores.\n\nLa rosa esconde sus brillantes ojos, y encoge sus pétalos."
           ]
         },
         {
-          "message": "Every Sinner feeds it a moderate amount of blood.",
-          "messageDesc": "Select this to consume HP from allies to reduce the Abnormality's offenses while raising its defenses",
+          "message": "Todos los Pecadores le ceden una cantidad moderada de sangre.",
+          "messageDesc": "Selecciona esto para consumir HP de todos los aliados y reducir los atributos ofensivos de la Anormalidad pero aumentar sus atributos defensivos",
           "result": [
-            "The rose appears somewhat satisfied after having drunk the Sinners' blood.\n\nThe rose withdraws its glistening glares, and its petals shrink away."
+            "La rosa parece estar algo satisfecha después de beber la sangre de los Pecadores.\n\nLa rosa esconde sus brillantes ojos, y encoge sus pétalos."
           ]
         },
         {
-          "message": "Make the Sinners clean up the blood.",
-          "messageDesc": "Select this to partially eliminate Bloodfeast, raise the Abnormality's offenses, and reduce its defenses",
+          "message": "Haz que los Pecadores limpien la sangre.",
+          "messageDesc": "Selecciona esto para eliminar parcialmente el Festín de Sangre, y aumentar los atributos ofensivos de la Anormalidad, al igual que reducir sus atributos defensivos",
           "result": [
-            "The Sinners busily ran about, cleaning as much blood as they can from the premises.\n\nFacing an even greater dearth of blood...\n\n... its petals begin to shudder uncannily as the thorns rise threateningly."
+            "Los Pecadores se apresuran a limpiar tanta sangre como se les es posible.\n\nFrente a una escasez mayor de sangre...\n\n... los pétalos de la rosa se sacuden extrañamente mientras que levanta sus espinas de manera amenazadora."
           ]
         }
       ]

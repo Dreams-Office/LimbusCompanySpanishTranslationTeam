@@ -2,78 +2,78 @@
   "dataList": [
     {
       "id": 9701,
-      "name": "Trutro Calentito y Jugoso",
-      "desc": "Al infligir [Combustion] contra enemigos con una Habilidad, inflige +3 Contador de [Combustion",
+      "name": "Pata de Pollo Caliente y Jugosa",
+      "desc": "Al Infligir [Combustion] con efectos de Habilidad a enemigos, inflige +3 Contador de [Combustion]",
       "simpleDesc": [
         {
           "abilityID": 9701,
-          "simpleDesc": "Al infligir [Combustion] con una Habilidad, inflige +3 Contador de [Combustion"
+          "simpleDesc": "Al Infligir [Combustion] con efectos de Habilidad, inflige +3 Contador de [Combustion]"
         }
       ]
     },
     {
       "id": 9702,
       "name": "Pechuga más Seca que Pasa",
-      "desc": "Al infligir [Burst] contra enemigos con una Habilidad, inflige +3 Contador de [Burst]",
+      "desc": "Al infligir [Burst] con efectos de Habilidad a enemigos, inflige +3 Contador de [Burst]",
       "simpleDesc": [
         {
           "abilityID": 9702,
-          "simpleDesc": "Al infligir [Burst] con una Habilidad, inflige +3 Contador de [Burst]"
+          "simpleDesc": "Al infligir [Burst] con efectos de Habilidad, inflige +3 Contador de [Burst]"
         }
       ]
     },
     {
       "id": 9703,
       "name": "Marinada al Tango",
-      "desc": "Si la Velocidad de la unidad es mayor que la del objetivo, gana +(Velocidad/3) Poder de Choque. (máx 3)",
+      "desc": "Si la Velocidad de la unidad es mayor a la del objetivo, la unidad gana +(Velocidad / 3) Poder de Choque (máx 3)",
       "simpleDesc": [
         {
           "abilityID": 9703,
-          "simpleDesc": "Gana +(Velocidad/3) Poder de Choque."
+          "simpleDesc": "Gana +(Velocidad / 3) Poder de Choque"
         }
       ]
     },
     {
       "id": 9704,
       "name": "Aguja e Hilo Contaminados",
-      "desc": "El siguiente efecto aplica a la primera Habilidad en infligir daño a un enemigo.\n\nInflige (daño infligido/3) Potencia de [Laceration].",
+      "desc": "Los siguientes efectos solo aplican a la primera Habilidad que inflija daño a un enemigo.\n\nInflige (Daño infligido / 3) Potencia de [Laceration].",
       "simpleDesc": [
         {
           "abilityID": 9704,
-          "simpleDesc": "Inflige (daño infligido/3) Potencia de [Laceration]"
+          "simpleDesc": "Inflige (daño infligido / 3) Potencia de [Laceration]"
         }
       ]
     },
     {
       "id": 9705,
-      "name": "Aguja e Hilo Afilados",
-      "desc": "Cada turno, la primera habilidad en infligir daño a un enemigo inflige daño fijo adicional por la mitad del daño infligido.",
+      "name": "Aguja Afilada e Hilo ",
+      "desc": "Cada turno, la primera Habilidad que inflija daño a un enemigo, inflige daño fijo adicional equivalente a la mitad del daño total infligido por la Habilidad.",
       "simpleDesc": [
         {
           "abilityID": 9705,
-          "simpleDesc": "Inflige (daño infligido/2) daño fijo adicional"
+          "simpleDesc": "Inflige (daño infligido / 2) daño fijo adicional"
         }
       ]
     },
     {
       "id": 9706,
-      "name": "Llave Engrasada",
-      "desc": "Habilidades Contundentes infligen +10% de daño.\n\nMoneda Final de Habilidades Contundentes inflige 2 de Potencia de [Vibration] Tras Golpear. (una vez por turno)",
+      "name": "Llave Francesa Cubierta de Aceite",
+      "desc": "Habilidades Contundentes infligen +10% de daño\n\nLa Moneda final de Habilidades Contundentes infligen 2 Potencia de [Vibration] Tras Golpear. (una vez por turno)",
       "simpleDesc": [
         {
           "abilityID": 9706,
-          "simpleDesc": "Habilidades Contundentes infligen +10% de daño"
+          "simpleDesc": "Habilidades Contundentes infligen +10% de daño adicional"
         },
         {
           "abilityID": 97061,
-          "simpleDesc": "Inflige 2 de Potencia de [Vibration] contra el enemigo."
+          "simpleDesc": "Inflige 2 Potencia de [Vibration] al enemigo"
         }
       ]
     },
     {
       "id": 9707,
-      "name": "Chatarra Brillante",
-      "desc": "Cuando un aliado con Escudo es golpeado por un enemigo, refleja 3 de daño fijo. (no refleja daño cuando el aliado no tomó ningún daño de Escudo)",
+      "name": "Chatarra Reluciente",
+      "desc": "Cuando un aliado con un Escudo es golpeado por un enemigo, refleja 3 de daño fija al enemigo. (no refleja daño si el escudo del aliado no recibió daño)",
       "simpleDesc": [
         {
           "abilityID": 9707,
@@ -83,68 +83,68 @@
     },
     {
       "id": 9708,
-      "name": "Vino Cerebral de Basurejo",
-      "desc": "Cuando un aliado ataca a un enemigo que tiene [Burst] con una Habilidad que inflige Potencia o Contador de [Burst], inflige +(Contador de [Burst] x 1.25)% de daño. (máx 50%)\n\ncuando un aliado se recupera del Aturdimiento, cura 20% de su HP Máx. (2 veces por Encuentro)",
+      "name": "Vino Cerebral de Basurejos",
+      "desc": "Cuando un aliado ataca un enemigo que ya tiene [Burst] con una Habilidad que inflija Contador o Potencia de [Burst], inflige +(Contador de [Burst] x 1.25)% de daño (máx 50%)\n\nCuando un aliado se recupera del Aturdimiento, cura 20% del HP Máx. (2 veces por Encuentro)",
       "simpleDesc": [
         {
           "abilityID": 9708,
-          "simpleDesc": "Realiza +(Contador de [Burst] x 1.25)% de daño (máx 50%)"
+          "simpleDesc": "Inflige +(Contador de [Burst] x 1.25)% de daño (máx 50%)"
         },
         {
           "abilityID": 97081,
-          "simpleDesc": "Cura 20% de HP Máx"
+          "simpleDesc": "Cura 20% del HP Máx"
         }
       ]
     },
     {
       "id": 9709,
-      "name": "Gorro Pompón",
-      "desc": "Fin de Turno: gana 1 de Potencia de [Breath] el siguiente turno por cada Habilidad de Ataque que infligió daño antes del Fin de Turno.\n\nEn Encuentros Centrados: gana 3 de Potencia de [Breath] por cada Habilidad de Ataque que infligió daño antes del Fin de Turno en su lugar.",
+      "name": "Gorrito con Pompón",
+      "desc": "Fin de Turno: gana 1 Potencia de [Breath] el siguiente turno por cada Habilidad de Ataque que haya infligido daño antes del Fin de Turno.\n\nEn Encuentros Centrados: gana 3 Potencia de [Breath] por cada Habilidad de Ataque que haya infligido daño antes del Fin de Turno en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9709,
-          "simpleDesc": "Gana 1 de Potencia de [Breath]"
+          "simpleDesc": "Gana 1 Potencia de [Breath]"
         },
         {
           "abilityID": 97091,
-          "simpleDesc": "Gana 3 de Potencia de [Breath]"
+          "simpleDesc": "Gana 3 Potencia de [Breath]"
         }
       ]
     },
     {
       "id": 9710,
       "name": "Saco de Regalos Enorme",
-      "desc": "Inicio de Turno: aplica 2 de [Breath], 2 Contador de [Breath], y 2 [Protection] al aliado con el menor HP.",
+      "desc": "Inicio del Turno: aplica 2 de [Breath], 2 Contador de [Breath], y 2 de [Protection] al aliado con el menor HP.",
       "simpleDesc": [
         {
           "abilityID": 9710,
-          "simpleDesc": "Aplica 2 de [Breath], 2 Contador de [Breath], y 2 [Protection]"
+          "simpleDesc": "Aplica 2 de [Breath], 2 Contador de [Breath], y 2 de [Protection]"
         }
       ]
     },
     {
       "id": 9711,
       "name": "Peluche Triste",
-      "desc": "Inflige +(valor absoluto de PC/1.5)% de daño. (mín 0%)\n\nCuando un aliado con Habilidades con Monedas Positivas se recupera de Aturdimiento, cura PC completamente. (no se activa al estar en Corrosión)\n\nPara un aliado con Habilidades con Monedas Negativas: gana 3 [Paralysis] al Inicio de Turno.",
+      "desc": "Inflige +(valor absolute de los PC/1.5)% de daño. (min 0%)\n\nCuando un aliado con Habilidades de Monedas Positivas se recupera del Aturdimiento, cura por completo los PC. (no se activa si está Corroido)\n\nPara los aliados con Habilidades de Monedas Negativas: gana 3 de [Paralysis] al Inicio del Turno.",
       "simpleDesc": [
         {
           "abilityID": 9711,
-          "simpleDesc": "Inflige +(valor absoluto de PC/1.5)% de daño. (mín 0%)"
+          "simpleDesc": "Inflige +(valor absoluto de los PC/1.5)% de daño. (min 0%)"
         },
         {
           "abilityID": 97111,
-          "simpleDesc": "Al recuperarse de Aturdimiento, cura PC completamente"
+          "simpleDesc": "Al recuperarse del Aturdimiento, cura los PC por completo"
         },
         {
           "abilityID": 97112,
-          "simpleDesc": "Gana 3 [Paralysis] al Inicio de Turno"
+          "simpleDesc": "Gana 3 de [Paralysis] al Inicio del Turno"
         }
       ]
     },
     {
       "id": 9712,
       "name": "Libro de Cuentas Negro",
-      "desc": "Primer Inicio de Turno de un Encuentro: gana recursos E.G.O aleatorios igual al número de enemigos.\n\nSi hay 4 o más Identidades del Linaje de la Espada o del Clan Kurokumo participando en este Encuentro(solo cuentan Identidades desplegadas al Inicio de Encuentro), gana recursos E.G.O para la Afinidad E.G.O que menos se tenga en su lugar.",
+      "desc": "Primer Inicio de Turno de un Encuentro: gana recursos E.G.O aleatorios igual al número de enemigos.\n\nSi hay 4 o más Identidades del Linaje de la Espada o del Clan Kurokumo participando en este Encuentro (solo toma en cuenta Identidades desplegadas al Inicio del Encuentro), gana recursos E.G.O para la Afinidad E.G.O que menos se tenga en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9712,
@@ -152,52 +152,52 @@
         },
         {
           "abilityID": 97121,
-          "simpleDesc": "Gana los recursos E.G.O que menos se tenga"
+          "simpleDesc": "Gana recursos E.G.O de la Afinidad que menos se tenga"
         }
       ]
     },
     {
       "id": 9713,
       "name": "Empuñadura Oxidada",
-      "desc": "Inicio de Turno: todos los aliados ganan 1 Poder Cortante Aumentado.\n\nIdentidades del Linaje de la Espada o del Clan Kurokumo: gana 2 Poder Cortante Aumentado en su lugar.",
+      "desc": "Inicio de Turno: todos los aliados ganan 1 de Poder Cortante Aumentado.\n\nIdentidades del Linaje de la Espada o del Clan Kurokumo: gana 2 de Poder Cortante Aumentado en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9713,
-          "simpleDesc": "Gana 1 Poder Cortante Aumentado"
+          "simpleDesc": "Gana 1 de Poder Cortante Aumentado"
         },
         {
           "abilityID": 97131,
-          "simpleDesc": "Gana 2 Poder Cortante Aumentado"
+          "simpleDesc": "Gana 2 de Poder Cortante Aumentado"
         }
       ]
     },
     {
       "id": 9714,
       "name": "Cuchilla Fracturada",
-      "desc": "Durante este Encuentro: al infligir Potencia de [Laceration] o 'Sangrado Único' por primera vez contra un enemigo con un efecto de una Habilidad de Ataque, inflige +2 Contador de [Laceratio] adicional. (Una vez por Encuentro)\n\nIdentidades del Clan Kurokumo, al infligir daño contra un enemigo por primera vez, inflige 4 de Potencia de [Laceration] y +4 Contador de [Laceration] adicionales en su lugar.",
+      "desc": "Durante este Encuentro: al infligir Potencia de [Laceration] o 'Sangrado Único' por primera vez contra un enemigo con efectos de Habilidades de Ataque, inflige +2 Contador de [Laceration] adicional. (Una vez por Encuentro)\n\nIdentidades del Clan Kurokumo, al infligir daño contra un enemigo por primera vez, inflige 4 Potencia de [Laceration] y +4 Contador de [Laceration] adicionales en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9714,
-          "simpleDesc": "Inflige +2 Contador de [Laceration] adicional"
+          "simpleDesc": "inflige 2 Contador de [Laceration] adicional"
         },
         {
           "abilityID": 97141,
-          "simpleDesc": "Inflige 4 de Potencia de [Laceration] y +4 Contador de [Laceration] adicionales"
+          "simpleDesc": "Inflige 4 Potencia y Contador de [Laceration] adicionales"
         }
       ]
     },
     {
       "id": 9715,
       "name": "Cuchilla Rota",
-      "desc": "Cuando un aliado Golpea Críticamente a un enemigo, inflige (Potencia de [Breath]/3) daño de Orgullo adicional.\n\nIdentidades del Linaje de la Espada, cuando Golpean Críticamente a un enemigo, infligen (Potencia de [Breath]/2) daño de Orgullo adicional en su lugar.",
+      "desc": "Cuando un aliado Golpea Críticamente a un enemigo, inflige (Potencia de [Breath]/3) daño de Orgullo adicional.\n \nCuando Identidades del Linaje de la Espada Golpean Críticamente a un enemigo, infligen (Potencia de [Breath]/2) daño de Orgullo adicional en su lugar.",
       "simpleDesc": [
         {
           "abilityID": 9715,
-          "simpleDesc": "Inflige (Potencia de [Breath]/3) daño de Orgullo adicional."
+          "simpleDesc": "Inflige (Potencia de [Breath] / 3) daño de Orgullo adicional."
         },
         {
           "abilityID": 97151,
-          "simpleDesc": "Inflige (Potencia de [Breath]/2) daño de Orgullo adicional."
+          "simpleDesc": "Inflige (Potencia de [Breath] / 2) daño de Orgullo adicional."
         }
       ]
     },
@@ -215,75 +215,75 @@
     {
       "id": 9717,
       "name": "Sublimidad",
-      "desc": "Inicio del Encuentro: se activa cuando hay 3 o más Identidades del Clan Kurokumo(solo cuentan Identidades desplegadas al Inicio del Encuentro).\n\nInicio de Turno: todos los aliados ganan 2 Poder Cortante  Aumentado, e inflige +35% de daño Cortante.\n\nInicio de Turno: cuando una Identidad del Clan Kurokumo inflige daño por primera vez, inflige 4 de Potencia de [Laceration] y +4 Contador de [Laceration] adicionales. (Una vez por turno)",
+      "desc": "Inicio del Encuentro: se activa cuando hay 3 o más Identidades del Clan Kurokumo (solo toma en cuenta Identidades desplegadas al Inicio del Encuentro).\n\nInicio de Turno: todos los aliados ganan 2 de Poder Cortante  Aumentado, e infligen +35% de daño Cortante.\n\nInicio de Turno: cuando una Identidad del Clan Kurokumo inflige daño por primera vez, inflige 4 de Potencia de [Laceration] y +4 Contador de [Laceration] adicionales. (Una vez por turno)",
       "simpleDesc": [
         {
           "abilityID": 9717,
-          "simpleDesc": "Gana 2 Poder Cortante Aumentado e inflige +35% de Daño Cortante"
+          "simpleDesc": "Gana 2 de Poder Cortante Aumentado e inflige +35% de Daño Cortante"
         },
         {
           "abilityID": 97171,
-          "simpleDesc": "Inflige 4 Potencia de [Laceration] y +4 Contador de [Laceration] adicionales"
+          "simpleDesc": "Inflige 4 Potencia y Contador de [Laceration] adicionales"
         }
       ]
     },
     {
       "id": 9718,
       "name": "Inflexible",
-      "desc": "Inicio del Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada(solo cuentan Identidades desplegadas al Inicio del Encuentro).\n\nInicio de Turno: todos los aliados ganan 2 Poder Cortante Aumentado, e inflige +35% de daño Cortante.\n\nInicio de Turno: cuando una Identidad del Linaje de la Espada golpea críticamente, inflige daño de Orgullo adicional igual a Potencia de [Breath] en sí.",
+      "desc": "Inicio de Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada (solo toma en cuenta Identidades desplegadas al Inicio del Encuentro).\n\nInicio de Turno: todos los aliados ganan 2 de Poder Cortante Aumentado, e infligen +35% de daño Cortante.\n\nInicio de Turno: cuando una Identidad del Linaje de la Espada golpea críticamente, inflige daño de Orgullo adicional igual a Potencia de [Breath] en sí.",
       "simpleDesc": [
         {
           "abilityID": 9718,
-          "simpleDesc": "Gana 2 Poder Cortante Aumentado e inflige +35% de Daño Cortante"
+          "simpleDesc": "Gana 2 de Poder Cortante Aumentado e inflige +35% de Daño Cortante"
         },
         {
           "abilityID": 97181,
-          "simpleDesc": "Inflige daño de Orgullo adicional igual a Potencia de [Breath] en sí"
+          "simpleDesc": "Inflige daño de Orgullo adicional equivalente a la Potencia de [Breath] en sí"
         }
       ]
     },
     {
       "id": 9719,
       "name": "Sombrero de Bambú Andrajoso",
-      "desc": "Inicio de Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada(solo cuenta identidades desplegadas al Inicio de Encuentro).\n\nTodos los aliados infligen +50% de daño Cortante\n\nIdentidades del Linaje de la Espada: si el aliado tiene [Breath], probabilidad de Crítico es fijada en 100%.\n\nIdentidades del Linaje de la Espada: inflige x1.5 más daño en Crítico",
+      "desc": "Inicio de Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada.(solo toma en cuenta Identidades desplegadas al Inicio del Encuentro).\n\nTodos los aliados infligen +50% de daño Cortante\n\nIdentidades del Linaje de la Espada: si el aliado tiene [Breath], probabilidad de Crítico es fijada a 100%.\n\nIdentidades del Linaje de la Espada: infligen x1.5 de daño crítico",
       "simpleDesc": [
         {
           "abilityID": 9719,
-          "simpleDesc": "Inflige +50% Daño Cortante"
+          "simpleDesc": "Inflige +50% de Daño Cortante"
         },
         {
           "abilityID": 97191,
-          "simpleDesc": "Fija la probabilidad de Crítico a 100%"
+          "simpleDesc": "Fija la probabilidad de Críticos a 100%"
         },
         {
           "abilityID": 97192,
-          "simpleDesc": "Inflige 1.5 veces más daño en Crítico"
+          "simpleDesc": "Inflige x1.5 de daño crítico"
         }
       ]
     },
     {
       "id": 9720,
       "name": "Bata Dopo Vieja",
-      "desc": "Inicio del Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada(solo cuenta identidades desplegadas al Inicio del Encuentro).\n\nTodos los aliados infligen +50% de daño Cortante\n\nIdentidades del Linaje de la Espada: Habilidad 1 gana Poder de Moneda +1. Habilidad 1 con una Sola Moneda gana Poder de Moneda +3.\n\n[Solamente Mentor del Linaje de la Espada Meursault] Poder de Choque Final -12 para Habilidad 'Ceder Mi Carne' ; Habilidad 'Para Reclamar Sus Huesos' inflige +50% de daño.",
+      "desc": "Inicio del Encuentro: se activa cuando hay 3 o más Identidades del Linaje de la Espada (solo toma en cuenta Identidades desplegadas al Inicio del Encuentro).\n\nTodos los aliados infligen +50% de daño Cortante\n\nIdentidades del Linaje de la Espada: Habilidad 1 gana Poder de Moneda +1. Habilidad 1 con una Sola Moneda gana Poder de Moneda +3.\n\n[Solamente Mentor del Linaje de la Espada Meursault] Poder de Choque Final -12 para Habilidad 'Ceder Mi Carne' ; Habilidad 'Para Reclamar Sus Huesos' inflige +50% de daño.",
       "simpleDesc": [
         {
           "abilityID": 9720,
-          "simpleDesc": "Inflige +50% Daño Cortante"
+          "simpleDesc": "Inflige +50% de Daño Cortante"
         },
         {
           "abilityID": 97201,
-          "simpleDesc": "Habilidad 1 Poder de Moneda Aumentado"
+          "simpleDesc": "Habilidad 1 gana Poder de Moneda Aumentado"
         },
         {
           "abilityID": 97202,
-          "simpleDesc": "'Habilidad 'Ceder Mi Carne' Poder de Choque Final -12; 'Para Reclamar Sus Huesos' inflige +50% de daño"
+          "simpleDesc": "Habilidad 'Ceder Mi Carne' gana Poder de Choque Final -12; 'Para Reclamar Sus Huesos' gana +50% de daño"
         }
       ]
     },
     {
       "id": 9721,
       "name": "Estuche de Reloj Plateado",
-      "desc": "Al infligir daño a un enemigo con Habilidades de Ataque(Sin contar Habilidades E.G.O) que infligen Potencia o Contador de [Vibration], o Tremor Único, inflige +10% de daño.\n\nSi la Habilidad provocó [VibrationExplosion] al enemigo por primera vez este turno, inflige +2 Contador de [Vibration] el siguiente turno (una vez por turno)",
+      "desc": "Al infligir daño a un enemigo con Habilidades de Ataque (exceptuando Habilidades E.G.O) que inflijan Potencia o Contador de [Vibration], o 'Tremor Único', inflige +10% de daño.\n\nSi la Habilidad provocó [VibrationExplosion] en el enemigo por primera vez en el turno, inflige +2 Contador de [Vibration] el siguiente turno (una vez por turno)",
       "simpleDesc": [
         {
           "abilityID": 9721,
@@ -298,7 +298,7 @@
     {
       "id": 9722,
       "name": "Estuche de Reloj Descolorido",
-      "desc": "Al Chocar con un enemigo más veloz, Poder de Choque +1.\n\nAl infligir daño a un enemigo más veloz, inflige 3 de Potencia de [Vibration] y +2 Contador de [Vibration] el siguiente turno. (una vez por turno)",
+      "desc": "Al Chocar con un enemigo que tenga mayor Velocidad, Poder de Choque +1.\n\nAl infligir daño a un enemigo que tenga mayor Velocidad, inflige 3 Potencia de [Vibration] y +2 Contador de [Vibration] el siguiente turno. (una vez por turno)",
       "simpleDesc": [
         {
           "abilityID": 9722,
@@ -306,33 +306,33 @@
         },
         {
           "abilityID": 97221,
-          "simpleDesc": "Inflige 3 de Potencia de [Vibration] y +2 Contador de [Vibration] el siguiente turno"
+          "simpleDesc": "Inflige 3 Potencia de [Vibration] y +2 Contador de [Vibration] el siguiente turno"
         }
       ]
     },
     {
       "id": 9723,
       "name": "Carta de Advertencia",
-      "desc": "Fin de Turno: Inflige 1 [Binding] al enemigo más veloz el siguiente turno. (para Anormalidades, una parte)\n\nSi el objetivo tiene [Vibration] o 'Tremor Único', inflige 2 [Binding] en su lugar.\n\nCuando un aliado ataca a objetivos con [Binding], inflige +(5 + (2.5 x valor de [Binding]))% de daño (máx 15%)",
+      "desc": "Fin de Turno: inflige 1 de [Binding] al enemigo con mayor Velocidad el siguiente turno. (para Anormalidades, una Parte)\n\nSi el objetivo tiene [Vibration] o 'Tremor Único', inflige 2 de [Binding] en su lugar.\n\nCuando un aliado ataca un objetivo con [Binding], inflige +(5 + (2.5 x Valor de [Binding]))% de daño. (máx 15%)",
       "simpleDesc": [
         {
           "abilityID": 9723,
-          "simpleDesc": "Aplica 1 [Binding] el siguiente turno"
+          "simpleDesc": "Aplica 1 de [Binding] el siguiente turno"
         },
         {
           "abilityID": 97231,
-          "simpleDesc": "Inflige +(5 + (2.5 x valor de [Binding])) de daño"
+          "simpleDesc": "Inflige +(5 + (2.5 x Valor de [Binding]))% de daño"
         }
       ]
     },
     {
       "id": 9724,
       "name": "Manecillas de Reloj Grabadas",
-      "desc": "Primer Inicio de Turno de una Oleada: inflige (9 - Velocidad actual) de Potencia de [Vibration] a 3 enemigos con la menor Velocidad. (mín. 3)\n\nInflige +10% de daño contra objetivos con 12+ de [Vibration] o 'Tremor Único' al Inicio del Turno.",
+      "desc": "Primer Inicio de Turno de una Oleada: inflige (9 - Velocidad actual) Potencia de [Vibration] a 3 enemigos con la Velocidad más baja. (min 3)\n\nInflige +10% de daño contra objetivos con 12+ [Vibration] o 'Tremor Único' al Inicio del Turno.",
       "simpleDesc": [
         {
           "abilityID": 9724,
-          "simpleDesc": "Inflige (9 - Velocidad actual) de Potencia de [Vibration]"
+          "simpleDesc": "Inflige (9 - Velocidad actual) Potencia de [Vibration]"
         },
         {
           "abilityID": 97241,
@@ -343,11 +343,11 @@
     {
       "id": 9725,
       "name": "Manecillas de Reloj Oxidadas",
-      "desc": "Primer Turno al Inicio de una Ola: inflige (9 - Velocidad actual) de Potencia de [Vibration] (mín. 3) y +(9 - Velocidad actual)/2 Contador de [Vibration] a 1 enemigo con la mayor Velocidad. (redondeado hacia arriba; para Anormalidades, una parte)\n\nRecibe -10% de daño de objetivos con 12+ de [Vibration] o 'Tremor Único' al Inicio de Turno.",
+      "desc": "Primer Inicio de Turno de una Oleada: inflige (9 - Velocidad actual) Potencia de [Vibration] (min 3) y (9 - Velocidad actual)/2 Contador de [Vibration] a un 1 con la mayor Velocidad. (redondeado hacia arriba, para Anormalidades, una Parte)\n\nRecibe -10% de daño si el atacante tiene 12+ [Vibration] o 'Tremor Único' al Inicio del Turno.",
       "simpleDesc": [
         {
           "abilityID": 9725,
-          "simpleDesc": "Inflige (9 - Velocidad actual) de Potencia de [Vibration] (mín. 3) y +(9 - Velocidad actual)/2 Contador de [Vibration]"
+          "simpleDesc": "Inflige (9 - Velocidad actual) Potencia de [Vibration] (min. 3) y (9 - Velocidad actual)/2 Contador de [Vibration]"
         },
         {
           "abilityID": 97251,
@@ -358,41 +358,41 @@
     {
       "id": 9726,
       "name": "Cáliz de Derrame",
-      "desc": "Cuando un aliado con Habilidades de Ataque(No Habilidades E.G.O) que infligen Potencia o Contador de [Vibration], o 'Tremor Único' gana un Choque, inflige 2 de Potencia de [Vibration] y +2 Contador de [Vibration]. (2 veces por turno)\n\nIdentidades Yurodivy: inflige 3 de Potencia de [Vibration] y +3 Contador de [Vibration] en su lugar (3 veces por turno)\n\nSi las Identidades afectadas Chocan contra objetivos con Nivel de Ofensa mayor, Poder de Choque +2; inflige +20% de daño al atacar tras ganar el Choque.",
+      "desc": "Cuando un aliado con Habilidades de Ataque (exceptuando Habilidades E.G.O) que inflijan Potencia o Contador de [Vibration], o 'Tremor Único' gana un Choque, inflige 2 Potencia de [Vibration] y +2 Contador de [Vibration]. (2 veces por turno)\n\nIdentidades pertenecientes al Yurodivy: infligen +3 Potencia y Contador de [Vibration] en su lugar (3 veces por turno)\n\nSi la Identidad afectada Choca contra objetivos con mayores Niveles Ofensivos, Poder de Choque +2, e infligen +20% de daño al atacar tras ganar el Choque.",
       "simpleDesc": [
         {
           "abilityID": 9726,
-          "simpleDesc": "Inflige 2 de Potencia de [Vibration] y +2 Contador de [Vibration"
+          "simpleDesc": "Inflige +2 Potencia y Contador de [Vibration]"
         },
         {
           "abilityID": 97261,
-          "simpleDesc": "Inflige 3 de Potencia de [Vibration] y +3 Contador de [Vibration]"
+          "simpleDesc": "Inflige +3 Potencia y Contador de [Vibration]"
         },
         {
           "abilityID": 97262,
-          "simpleDesc": "Poder de Choque +2, inflige +20% de daño'"
+          "simpleDesc": "Poder de Choque +2, inflige +20% de daño"
         }
       ]
     },
     {
       "id": 9727,
       "name": "Recibo de Tiempo Prepagado",
-      "desc": "Inflige +(5 + (2.5 x dif. de Velocidad))% de daño contra enemigos con 2 + dif. de Velocidad. (máx 15%)\n\nFin de Turno: Si un aliado infligió daño con una Habilidad de Ataque (Sin contar Habilidades E.G.O) este turno contra enemigos más veloces con 2+ dif. de Velocidad, inflige 2 [Binding] y 1 [ResultReduction] al enemigo el siguiente turno. (una vez por turno)",
+      "desc": "Inflige +(5 + (2.5 x diferencia de Velocidad))% de daño contra enemigos con mayor Velocidad y una diferencia de Velocidad de 2+. (máx 15%)\n\nFin del Turno: si el aliado infligió daño con una Habilidad de Ataque (exceptuando Habilidades E.G.O) este turno contra enemigos con mayor Velocidad y una diferencia de Velocidad de 2+, inflige 2 de [Binding] y 1 de [ResultReduction] al enemigo el siguiente turno. (una vez por turno)",
       "simpleDesc": [
         {
           "abilityID": 9727,
-          "simpleDesc": "Inflige +(5 + (2.5 x dif. de Velocidad))% de daño contra"
+          "simpleDesc": "Inflige +(5 + (2.5 x Diferencia de Velocidad))% de daño"
         },
         {
           "abilityID": 97271,
-          "simpleDesc": "Inflige 2 [Binding] y 1 [ResultReduction] al enemigo el siguiente turno"
+          "simpleDesc": "Inflige 2 de [Binding] y 1 de [ResultReduction] al enemigo el siguiente turno"
         }
       ]
     },
     {
       "id": 9728,
       "name": "Reloj de Bolsillo: Tipo L",
-      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de ataquen que aplican efectos de Potencia, Contador de [Vibration] o 'Tremor Único'. (Sin contar Habilidades E.G.O, solo cuentan identidades en el campo al Inicio de Encuentro)\n\nPara Habilidades 3 que infligen Potencia, Contador de [Vibration] o 'Tremor Único': Poder de Moneda +2 e inflige +25% de daño.\n\nCuando un aliado que inflige Potencia, Contador de [Vibration] o 'Tremor Único' activa [Switch_Vibration] con Habilidades de Ataque (Incluyendo Habilidades E.G.O) en un enemigo: multiplica la Potencia y el Contador de [Vibration] por 1.5(Solo al Convertir en distintos tipos de '[Vibration]') e inflige 5 [DefenseDown] el siguiente turno. (una vez por turno)\n\nPrimer Turno al Inicio de una Oleada: inflige (12 - Velocidad actual) Potencia de [Vibration] (mín. 6) a 3 enemigos con la Velocidad más baja.",
+      "desc": "Inicio del Encuentro: este Regalo se activa cuando hay 5 o más Identidades con Habilidades de Ataque que inflijan Potencia o Contador de [Vibration], o 'Tremor Único'. (exceptuando Habilidades E.G.O, solo toma en cuenta Identidades desplegadas al Inicio del Encuentro)\n\nTodos los aliados con Habilidades 3 que inflijan Potencia o Contador de [Vibration], o 'Tremor Único': Poder de Moneda +2 e infligen +25% de daño\n\nCuando un aliado que inflige Potencia o Contador de [Vibration], o 'Tremor Único' provoca [Switch_Vibration] en un enemigo con Habilidades de Ataque (incluyendo Habilidades E.G.O): multiplica la Potencia y Contador de [Vibration] por 1.5 (solamente al Convertirlas a un diferente tipo de 'Tremor') e inflige 5 de [DefenseDown] el siguiente turno. (una vez por turno)\n\nInicio del Primer Turno de una Oleada: inflige (12 - Velocidad actual) Potencia de[Vibration] (min. 6) a 3 enemigos con la menor Velocidad.",
       "simpleDesc": [
         {
           "abilityID": 9728,
@@ -400,18 +400,18 @@
         },
         {
           "abilityID": 97281,
-          "simpleDesc": "Multiplica Potencia y Contador de [Vibration] por 1.5 al activar Conversión de Amplitud"
+          "simpleDesc": "Multiplica Potencia y Contador de [Vibration] por 1.5 al provocar Conversión de Amplitud"
         },
         {
           "abilityID": 97282,
-          "simpleDesc": "inflige (12 - Velocidad actual) Potencia de [Vibration]"
+          "simpleDesc": "Inflige (12 - Velocidad actual) Potencia de [Vibration]"
         }
       ]
     },
     {
       "id": 9729,
       "name": "Reloj de Bolsillo: Tipo E",
-      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habiliades de ataquen que aplican efectos de Potencia, Contador de [Vibration] o '[Vibration] Único'. (Sin contar Habilidades E.G.O, solo cuentan identidades en el campo al Inicio de Encuentro)\n\nPara Habilidades 3 que infligen Potencia, Contador de [Vibration] o '[Vibration] Único': Poder de Moneda +2 e inflige +25% de daño.\n\nCuando un aliado que inflige Potencia, Contador de [Vibration] o '[Vibration] Único' inflige daño a un enemigo con menor Velocidad y 2+ dif. de Velocidad  entre ellos: inflige (Potencia de [Vibration] en el objetivo, máx 25)% de daño e inflige 2 [DefenseDown] cada vez que el aliado inflige daño (máx 6)\n\nPrimer Turno al Inicio de una Ola: inflige (12 - Velocidad actual) Potencia de [Vibration] (mín. 6) y (12 - Velocidad actual)/2 Contador de [Vibration] a 1 enemigo con la Velocidad más alta. (redondeado hacia arriba; para Anormalidades, una Parte)",
+      "desc": "Inicio del Encuentro: este Regalo se activa cuando hay 5 o más Identidades con Habilidades de Ataque que inflijan Potencia o Contador de [Vibration], o 'Tremor Único'. (exceptuando Habilidades E.G.O, solo toma en cuenta Identidades desplegadas al Inicio del Encuentro)\n\nTodos los aliados con Habilidades 3 que inflijan Potencia o Contador de [Vibration], o 'Tremor Único': Poder de Moneda +2 e infligen +25% de daño\n\nCuando un aliado que inflige Potencia o Contador de [Vibration], o 'Tremor Único' inflige daña a un enemigo con menor Velocidad y con una diferencia de Velocidad de 2+: inflige +(Potencia de [Vibration] en el objetivo, máx 25%)% de daño e inflige 2 de [DefenseDown] cada vez que el aliado inflija daño (máx 6)\n\nInicio del Primer Turno de una Oleada: inflige (12 - Velocidad actual) Potencia de[Vibration] (min. 6) y (12 - Velocidad actual)/2 Contador de [Vibration] a un enemigo con la mayor Velocidad. (redondeado hacia arriba; para Anormalidades, una Parte)",
       "simpleDesc": [
         {
           "abilityID": 9729,
@@ -419,18 +419,18 @@
         },
         {
           "abilityID": 97291,
-          "simpleDesc": "Inflige +(Potencia de [Vibration] en el objetivo)% de daño; inflige 2 [DefenseDown] cada vez que el aliado inflige daño"
+          "simpleDesc": "Inflige +(Potencia de [Vibration] en el objetivo)% de daño; inflige 2 de [DefenseDown] cada vez que el aliado inflija daño"
         },
         {
           "abilityID": 97292,
-          "simpleDesc": "inflige (12 - Velocidad actual) Potencia de [Vibration] (mín. 3) y (9 - Velocidad actual)/2 Contador de [Vibration]"
+          "simpleDesc": "Inflige (12 - Velocidad actual) Potencia de [Vibration] (min. 3) y (12 - Velocidad actual)/2 Contador de [Vibration]"
         }
       ]
     },
     {
       "id": 9730,
       "name": "Reloj de Bolsillo: Tipo Y",
-      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataquen que aplican efectos de Potencia, Contador de [Vibration] o 'Tremor Único'. (Sin contar Habilidades E.G.O, solo cuentan identidades en el campo al Inicio de Encuentro)\n\nPara Habilidades 3 que infligen Potencia, Contador de [Vibration] o 'Tremor Único': Poder de Moneda +2 e inflige +25% de daño.\n\nIdendidades del Yurodivy: Habilidad 3 gana Poder de Moneda +2 e inflige +(25 + (suma de Potencia y Contador de [Vibration] en el objetivo))% de daño en su lugar. (máx 100%)\n\nIdentidades del Yurodivy: gana +3 Contador de [Vibration] al Inicio de Turno.",
+      "desc": "Inicio del Encuentro: este Regalo se activa cuando hay 5 o más Identidades con Habilidades de Ataque que inflijan Potencia o Contador de [Vibration], o 'Tremor Único'. (exceptuando Habilidades E.G.O, solo toma en cuenta Identidades desplegadas al Inicio del Encuentro)\n\nTodos los aliados con Habilidades 3 que inflijan Potencia o Contador de [Vibration], o 'Tremor Único': Poder de Moneda +2 e infligen +25% de daño\n\nIdentidades del Yurodivy: Habilidad 3 gana Poder de Moneda +2 e inflige (25 + (suma de Potencia y Contador de [Vibration] en el objetivo))% de daño en su lugar. (Máx 100%)\n\nIdentidades del Yurodivy: ganan 3 Contador de [Vibration] al Inicio del Turno.",
       "simpleDesc": [
         {
           "abilityID": 9730,
@@ -438,7 +438,7 @@
         },
         {
           "abilityID": 97301,
-          "simpleDesc": "Habilidad 3 gana Poder de Moneda +2 e inflige +(25 + (suma de Potencia y Contador de [Vibration] en el objetivo))% de daño."
+          "simpleDesc": "Habilidad 3 gana Poder de Moneda +2 e inflige +(25 + (suma de la Potencia y Contador de [Vibration] en el objetivo))% de daño."
         },
         {
           "abilityID": 97302,
@@ -449,7 +449,7 @@
     {
       "id": 9731,
       "name": "Reloj de Bolsillo: Tipo P",
-      "desc": "Inicio de Encuentro: Este Regalo se activa cuando 5 o más Identidades tienen Habilidades de Ataque que aplican Potencia o Contador de [Vibration], o 'Tremor Único'. (Sin contador Habilidades E.G.O, solo cuentan Identidades desplegadas al Inicio de Encuentro)\n\nPara las Habilidades 3 de aliados que infligen Potencia o Contador de [Vibration], o 'Tremor Único': Poder de Moneda +2 e inflige +25% de daño.\n\nCuando un aliado que inflige Potencia o Contador de [Vibration], o 'Tremor Único' Choca contra un enemigo más veloz con 2+ dif. de Velocidad: Poder de Choque +2 e inflige + (Potencia de [Vibration] en el objetivo)% de daño. (máx 50%)\n\nInicio de Turno: del más lento al más veloz, los 3 aliados más lentos ganan 5 [AttackUp], 3 [AttackUp], y 2 [AttackUp] respectivamente.",
+      "desc": "Inicio del Encuentro: este Regalo se activa cuando hay 5 o más Identidades con Habilidades de Ataque que inflijan Potencia o Contador de [Vibration], o 'Tremor Único'. (exceptuando Habilidades E.G.O, solo toma en cuenta Identidades desplegadas al Inicio del Encuentro)\n\nTodos los aliados con Habilidades 3 que inflijan Potencia o Contador de [Vibration], o 'Tremor Único': Poder de Moneda +2 e infligen +25% de daño\n\nCuando un aliado que inflige Potencia o Contador de [Vibration], o 'Tremor Único' Choca contra un enemigo con mayor Velocidad y una diferencia de Velocidad de 2+ e inflige +(Potencia de [Vibration] en el objetivo)% de daño. (Máx 50%)\n\nInicio del Turno: iniciando desde el aliado con menor Velocidad al que tenga la mayor, los 3 aliados con menor Velocidad ganan 5 de [AttackUp], 3 de [AttackUp], y 2 de [AttackUp] respectivamente.",
       "simpleDesc": [
         {
           "abilityID": 9731,
@@ -457,7 +457,7 @@
         },
         {
           "abilityID": 97311,
-          "simpleDesc": "Poder de Choque +2 e inflige +(Potencia de [Vibration]en el objetivo)% de daño"
+          "simpleDesc": "Poder Choque +2 e inflige +(Potencia de [Vibration] en el objetivo)% de daño"
         },
         {
           "abilityID": 97312,

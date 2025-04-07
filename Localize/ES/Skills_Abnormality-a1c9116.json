@@ -1,0 +1,249 @@
+{
+    "dataList": [
+        {
+            "id": 112701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Prueba Se Acabó",
+                    "desc": "[WhenUse] Gana 3 de [HitDamageUp] el siguiente turno\n[WhenUse] Si el objetivo principal tiene 3+ [MiddleFingerBook], convierte todas las Monedas de esta Habilidad en [SuperCoin]s",     
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sufrimiento Prometido",
+                    "desc": "Prioriza objetivos con la mayor cantidad de [MiddleFingerBook]\n[WhenUse] Si el objetivo tiene 3+ [MiddleFingerBook], convierte todas las Monedas de esta Habilidad en [SuperCoin]s",     
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] este y el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 1 de [Vulnerable] este y el siguiente turno"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige ([MiddleFingerBook] en el objetivo x 3) daño Contundente Adicional"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Elimina [MiddleFingerBook] en el objetivo"   
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ya basta de juegos",
+                    "desc": "[StartBattle] Cura los PC de todos los aliados por 10\n[EndBattle] Si hay aliados en Pánico, recuperalos del Pánico al inicio del siguiente turno y reinicia sus PC a 0\n[EndBattle] Aplica 1 de [HitResultUp] a todos los aliados, incluyendo a esta unidad",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "¡¡¡COMPLETA Y TOTAL EJECUCIÓN!!!",
+                    "desc": "Puede Chocar con esta Habilidad sin importar la Velocidad\nSi el objetivo principal tiene 5+ [MiddleFingerBook], Poder Final +5\n[EndSkill] Elimina [MiddleFingerBook] en todos los objetivos que fueron golpeados",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige ([MiddleFingerBook] en el objetivo x 10) daño Contundente Adicional"                                
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Primer Golpe",
+                    "desc": "[WhenUse] Si el objetivo tiene 5+ de [Burst], Poder de Choque +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Asesinar",
+                    "desc": "[WhenUse] Si el objetivo tiene 5+ de [Burst], Poder de Choque +1\n[WhenUse] Gana 3 de [LegStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Si el objetivo tiene [BurstAgility], gana 1 de [Agility] el siguiente turno"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tallar Ataque",
+                    "desc": "[WhenUse] Si el objetivo tiene 5+ de [Burst], Poder de Moneda +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 2 de [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cuchilla de Carnicería Maldita - Movimiento Parpadeante",
+                    "desc": "Prioriza objetivos con [BurstAgility]\nInflige +15% de daño por cada 2 diferencia de Velocidad entre esta unidad y el objetivo (máx 60%)\n[WhenUse] Poder de Moneda +1 por cada 5 de [Burst] en el objetivo (máx 2)\n[WhenUse] Poder Base +1 por cada 2 Contador de [Burst] en el objetivo (máx 3)\n[EndSkill] COn 10+ de Velocidad, y si el objetivo es derrotado, Reutiliza esta Habilidad contra un enemigo al azar (una vez por turno)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +3 Contador de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Si el objetivo tiene [BurstAgility], realiza 50% más de daño"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige 5 de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Maldecir",
+                    "desc": "[DuelCounter]\n[WhenUse] Si el objetivo tiene [BurstAgility], inflict +1 Contador de [Burst] adicional con esta Habilidad",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

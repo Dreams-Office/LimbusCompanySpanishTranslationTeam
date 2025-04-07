@@ -46,7 +46,7 @@
     },
     {
       "id": "mission_ui_condition_tags_201001012",
-      "content": "Completa el piso {2} o mayor de una Mazmorra Espejo con {0} cantidad de Regalos E.G.O de Grado {1}+"
+      "content": "Completa el piso {2} o mayor de una Mazmorra Espejo con {1} cantidad de Regalos E.G.O de Grado {0}+"
     },
     {
       "id": "mission_ui_condition_tags_201001013",
@@ -206,63 +206,67 @@
      },
      {
        "id": "mission_ui_condition_tags_201005001",
-       "content": "Deal 1000+ damage with a single Skill use\n(damage against Shield HP counts)"
+       "content": "Inflige 1000+ de daño con una sola Habilidad\n(daño a Escudos se toma en cuenta)"
      },
      {
        "id": "mission_ui_condition_tags_201005002",
-       "content": "Deal 3000+ damage with a single Skill use\n(damage against Shield HP counts)"
+       "content": "Inflige 3000+ de daño con una sola Habilidad\n(daño a Escudos se toma en cuenta)"
      },
      {
        "id": "mission_ui_condition_tags_201005003",
-       "content": "Deal 5000+ damage with a single Skill use\n(damage against Shield HP counts)"
+       "content": "Inflige 5000+ de daño con una sola Habilidad\n(daño a Escudos se toma en cuenta)"
      },
      {
        "id": "mission_ui_condition_tags_201005004",
-       "content": "Deal 10000+ damage with a single Skill use\n(damage against Shield HP counts)"
+       "content": "Inflige 10000+ de daño con una sola Habilidad\n(daño a Escudos se toma en cuenta)"
      },
      {
        "id": "mission_ui_condition_tags_201005005",
-       "content": "Raise 1 enemy's Burn Potency to 99\n(in Focused Encounters, a Part)"
+       "content": "Inflige 99 Potencia de Quemadura a un solo enemigo\n(En Encuentros Centrados, a una Parte)"
      },
      {
        "id": "mission_ui_condition_tags_201005006",
-       "content": "Raise 1 enemy's Bleed Potency to 99\n(in Focused Encounters, a Part)"
+       "content": "Inflige 99 Potencia de Sangrado a un solo enemigo\n(En Encuentros Centrados, a una Parte)"
      },
      {
        "id": "mission_ui_condition_tags_201005007",
-       "content": "Raise 1 enemy's Tremor Potency to 99\n(in Focused Encounters, a Part)"
+       "content": "Inflige 99 Potencia de Tremor a un solo enemigo\n(En Encuentros Centrados, a una Parte)"
      },
      {
        "id": "mission_ui_condition_tags_201005008",
-       "content": "Raise 1 enemy's Rupture Potency to 99\n(in Focused Encounters, a Part)"
+       "content": "Inflige 99 Potencia de Ruptura a un solo enemigo\n(En Encuentros Centrados, a una Parte)"
      },
      {
        "id": "mission_ui_condition_tags_201005009",
-       "content": "Raise 1 enemy's Sinking Potency to 99\n(in Focused Encounters, a Part)"
+       "content": "Inflige 99 Potencia de Ahogo a un solo enemigo\n(En Encuentros Centrados, a una Parte)"
      },
      {
        "id": "mission_ui_condition_tags_201005010",
-       "content": "Raise 1 ally's Poise Potency to 80"
+       "content": "Aumenta la Potencia de Temple de un aliado a 80+"
      },
      {
        "id": "mission_ui_condition_tags_201005011",
-       "content": "Raise 1 ally's Charge Potency to 10"
+       "content": "Aumenta la Potencia de Carga de un aliado a 10+"
      },
      {
        "id": "mission_ui_condition_tags_201005012",
-       "content": "Kill 6+ enemies with a single Attack Skill use in an Encounter (can use E.G.O Skills)"
+       "content": "Derrota a 6+ enemigos con una sola Habilidad en un Encuentro (se pueden usar Habilidades E.G.O)"
      },
      {
        "id": "mission_ui_condition_tags_201005013",
-       "content": "In a single Encounter, defeat an enemy with 3000+ max HP before the first turn ends"
+       "content": "En un Encuentro, derrota a un enemigo con 3000+ HP antes de que termine el primer turno"
      },
      {
        "id": "mission_ui_condition_tags_201005014",
-       "content": "In a single turn, make 1 enemy gain 10+ types of negative effects\n(in Focused Encounters, a Part)"
+       "content": "En un solo turno, inflige 10+ efectos negativos únicos a un enemigo\n(en encuentros centrados, a una Parte)"
      },
      {
        "id": "mission_ui_condition_tags_201005015",
-       "content": "At Floor 6 or higher in the Mirror Dungeon, win an Encounter after every ally except for one is dead (including Backup/Support Identities)"
-     }
-   ]
- }
+       "content": "En el piso 6 o mayor de una Mazmorra Espejo, gana un Encuentro con todos los aliados muertos a excepción de uno (incluyendo Identidades de Soporte/Respaldo)"
+    },
+    {
+      "id": "mission_ui_condition_tags_201006001",
+      "content": "Completa todas las misiones"
+    }
+  ]
+}

@@ -1154,7 +1154,7 @@
     {
       "id": 1050802,
       "name": "In Memoriam",
-      "desc": "Cuando 3 o más aliados del Linaje de la Espada son derrotados:\n- Al ganar Potencia/Contador de [Breath] con los efectos de Habilidad o Moneda propios de esta unidad, gana 1 más de cada uno.\n- Cuando 5 o otros más aliados del Linaje de la Espada son derrotados, gana 2 más de cada uno en su lugar.\n- Inicio del Combate: Aplica [SwordPlayOfTheHomeland] a sí mismo."
+      "desc": "Cuando 3 o más aliados del Linaje de la Espada son derrotados:\n- Al ganar Potencia/Contador de [Breath] con los efectos de Habilidad o Moneda propios de esta unidad, gana 1 más de cada uno.\n- Cuando 5 o otros más aliados del Linaje de la Espada son derrotados, gana 2 más de cada uno en su lugar.\n- Inicio del Combate: Aplica [SwordPlayOfTheMemorial] a sí mismo."
     },
     {
       "id": 1090801,
@@ -1764,7 +1764,7 @@
     {
       "id": 1111121,
       "name": "Artes de Sangre Cristalizada Don Quixote 8: Tijeras",
-      "desc": "1 aliado con la mayor velocidad: Si el enemigo es Derrotado luego de Atacar, Cura 10 de HP (2 dos veces por turno)\n1 aliado con la mayor velocidad: Si el enemigo es Derrotado luego de Atacar, Inflige Contador de +1 [Laceration] cuando inflige Potencia de [Laceration] Con Habilidades o Monedad de efecto por el siguiente turno (3 veces por turno)",
+      "desc": "1 aliado con la mayor velocidad: Si el enemigo es Derrotado luego de Atacar, Cura 10 de HP (2 dos veces por turno)\n1 aliado con la mayor velocidad: Si el enemigo es Derrotado luego de Atacar, Inflige +1 Contador de [Laceration] cuando inflige Potencia de [Laceration] Con Habilidades o Monedad de efecto por el siguiente turno (3 veces por turno)",
       "summary": "Si el enemigo Muere después del Ataque, cura HP"
     },
     {
@@ -1858,7 +1858,7 @@
     {
       "id": 1031003,
       "name": "Portador de la Sangre Familiar",
-      "desc": "En un encuentro, si una unidad aliado de <La Manchaland[TabExplain]> es derrotado:\n- Gana 1 más de [BloodArmorPersonalityFirst] cuando gana [BloodArmorPersonalityFirst] from this unit's Base Attack Skills\n- Cuando 3+  <La Manchaland[TabExplain]> son derrotadas: gana adicionalmente 3 de [BloodArmorPersonalityFirst]; al Inicio del Turno, gana 1 [SadLamanchaland]"
+      "desc": "En un encuentro, si una unidad aliada de <La Manchaland[TabExplain]> es derrotado:\n- Gana 1 más de [BloodArmorPersonalityFirst] cuando gana [BloodArmorPersonalityFirst] a través de las Habilidades de Ataque Base de esta unidad.\n- Cuando 3+  <La Manchaland[TabExplain]> son derrotadas: gana adicionalmente 3 de [BloodArmorPersonalityFirst]; al Inicio del Turno, gana 1 [SadLamanchaland]"
     },
     {
       "id": 1031004,
@@ -2043,6 +2043,51 @@
       "id": 1031131,
       "name": "Featherstride Technique",
       "desc": "1 ally with the fastest Speed : On Clash Win against enemies with [Combustion] or 'Unique Burn', gain 1 [Agility] next turn (once per turn)\n<style=\"highlight\">- If the target has 20+ [Combustion] Potency, gain 1 additional [Agility]</style>"
-    }
-  ]
-}
+     },
+     {
+       "id": 1041101,
+       "name": "Heishou Mutation [Mao]",
+       "desc": "If this unit has [LegStrength], deal +5% more damage"
+     },
+     {
+       "id": 1041111,
+       "name": "Heishou Mutation [Mao]",
+       "desc": "If this unit has [LegStrength], deal +5% more damage\nIf the target has [BurstAgility], deal +5% more damage"
+     },
+     {
+       "id": 1041121,
+       "name": "Partial Heishou Mutation Training",
+       "desc": "Turn End: 1 ally with the fastest Speed gains 2 [Agility] next turn"
+     },
+     {
+       "id": 1111201,
+       "name": "Heishou Mutation [Mao]",
+       "desc": "If this unit has [LegStrength] and the target has [BurstAgility], deal +5% more damage for every [LegStrength] (max 15%)"
+     },
+     {
+       "id": 1111221,
+       "name": "A Husk of Hares",
+       "desc": "1 ally with the fastest Speed: when attacking targets with [Burst], deal +10% more damage\nGain 1 [Agility] next turn (once per turn)"
+     },
+     {
+       "id": 1101201,
+       "name": "The Middle Never Forgets",
+       "desc": "When hit by an enemy, inflict 3 [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
+     },
+     {
+       "id": 1101211,
+       "name": "The Middle Never Forgets",
+       "desc": "When hit by an enemy, inflict <style=\"highlight\">5</style> [VendettaMark] against the attacker(or Part) (once per turn)\n\nWhen an other ally is hit by an enemy, inflict 2 [VendettaMark] against the attacker(or Part) (once per turn per Identity)\n<style=\"highlight\">- If the said ally is from the Middle, inflict 3 additional [VendettaMark]</style>\n\nAfter Attacking with Base Attack Skills or Counter Skills, consume all [VendettaMark] on the target\n- Every time the target consumes [VendettaMark], gain [VengeanceBookSinclair] equal to the amount consumed"
+     },
+     {
+       "id": 1101221,
+       "name": "We've Got Your Back",
+       "desc": "Combat Start: 1 ally with the least current HP percentage gains 2 [DefenseUp]"
+     },
+     {
+       "id": 1101231,
+       "name": "We've Got Your Back",
+       "desc": "Combat Start: 1 ally with the least current HP percentage gains 2 [DefenseUp]\n<style=\"highlight\">- If the said ally is from the Middle, also gain 2 [AttackUp]</style>"
+     }
+   ]
+ }

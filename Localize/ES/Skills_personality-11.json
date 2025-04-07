@@ -157,7 +157,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Aplica 1 Protección al aliado con la menor Velocidad"
+                  "desc": "[OnSucceedAttack] Aplica 1 de [Protection] al aliado con la menor Velocidad"
                 }
               ]
             }
@@ -171,7 +171,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Aplica 2 Protección al aliado con la menor Velocidad"
+                  "desc": "[OnSucceedAttack] Aplica 2 de [Protection] al aliado con la menor Velocidad"
                 }
               ]
             }
@@ -185,7 +185,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Aplica 2 Protección al aliado con la menor Velocidad"
+                  "desc": "[OnSucceedAttack] Aplica 2 de [Protection] al aliado con la menor Velocidad"
                 }
               ]
             }
@@ -204,7 +204,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Aplica 1 Daño Aumentado al aliado con la menor Velocidad"
+                  "desc": "[OnSucceedAttackHead] Aplica 1 de [AttackDmgUp] al aliado con la menor Velocidad"
                 }
               ]
             }
@@ -213,12 +213,12 @@
         {
           "level": 2,
           "name": "Comando de Ataque",
-          "desc": "[WhenUse] Aplica 1 Poder Ofensivo Aumentado al aliado con la menor Velocidad",
+          "desc": "[WhenUse] Aplica 1 de [Enhancement] al aliado con la menor Velocidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Aplica 2 Daño Aumentado al aliado con la menor Velocidad"
+                  "desc": "[OnSucceedAttackHead] Aplica 2 de [AttackDmgUp] al aliado con la menor Velocidad"
                 }
               ]
             }
@@ -227,12 +227,12 @@
         {
           "level": 4,
           "name": "Comando de Ataque",
-          "desc": "[WhenUse] Aplica 1 Poder Ofensivo Aumentado al aliado con la menor Velocidad",
+          "desc": "[WhenUse] Aplica 1 de [Enhancement] al aliado con la menor Velocidad",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Aplica 2 Daño Aumentado al aliado con la menor Velocidad"
+                  "desc": "[OnSucceedAttack] Aplica 2 de [AttackDmgUp] al aliado con la menor Velocidad"
                 }
               ]
             }
@@ -254,7 +254,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Reduction]"
                 }
               ]
             }
@@ -271,7 +271,7 @@
                   "desc": "[OnSucceedAttack] Inflige 5 de [Sinking]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 Poder Ofensivo Reducido"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Reduction]"
                 },
                 {
                   "desc": "[OnSucceedAttackHead] Inflige 4 de [Sinking]"
@@ -354,7 +354,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 1 Daño Cortante Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 1 de [SlashDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -369,7 +369,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 2 Daño Cortante Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [SlashDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -384,7 +384,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Gana 2 Daño Cortante Aumentado el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Gana 2 de [SlashDamageUp] el siguiente turno"
                 }
               ]
             }
@@ -398,13 +398,13 @@
         {
           "level": 3,
           "name": "Entierro Decisivo",
-          "desc": "Si el HP del Objetivo está por debajo de 25%, Poder Final +2",
+          "desc": "Si el HP del objetivo está por debajo de 25%, Poder Final +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Incrementa el primer Umbral de Aturdimiento por 20% del Daño infligido"
+                  "desc": "[CriticalOnSucceedAttack] Aumenta el primer Umbral de Aturdimiento por 20% del daño infligido"
                 }
               ]
             }
@@ -413,13 +413,13 @@
         {
           "level": 4,
           "name": "Entierro Decisivo",
-          "desc": "Si el HP del Objetivo está por debajo de 50%, Poder Final +2",
+          "desc": "Si el HP del objetivo está por debajo de 50%, Poder Final +2",
           "coinlist": [
             {},
             {
               "coindescs": [
                 {
-                  "desc": "[CriticalOnSucceedAttack] Incrementa el primer Umbral de Aturdimiento por 20% del Daño infligido"
+                  "desc": "[CriticalOnSucceedAttack] Aumenta el primer Umbral de Aturdimiento por 20% del daño infligido"
                 }
               ]
             }
@@ -454,12 +454,12 @@
         {
           "level": 1,
           "name": "Análisis Predictivo",
-          "desc": "En un Choque, El oponente tiene -1 Poder de Choque",
+          "desc": "En un Choque, el oponente tiene -1 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
                 }
               ]
             }
@@ -468,12 +468,12 @@
         {
           "level": 2,
           "name": "Análisis Predictivo",
-          "desc": "En un Choque, El oponente tiene -2 Poder de Choque",
+          "desc": "En un Choque, el oponente tiene -2 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
                 }
               ]
             }
@@ -482,12 +482,12 @@
         {
           "level": 4,
           "name": "Análisis Predictivo",
-          "desc": "En un Choque, El oponente tiene -2 Poder de Choque",
+          "desc": "En un Choque, el oponente tiene -2 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 Parálisis el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
                 },
                 {
                   "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
@@ -504,7 +504,7 @@
         {
           "level": 1,
           "name": "Comando de Campo",
-          "desc": "En un Choque, El oponente tiene -1 Poder de Choque",
+          "desc": "En un Choque, el oponente tiene -1 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
@@ -512,7 +512,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 [DefenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [DefenseDown] el siguiente turno"
                 }
               ]
             },
@@ -522,7 +522,7 @@
                   "desc": "[OnSucceedAttackHead] Inflige +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 2 [DefenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 2 de [DefenseDown] el siguiente turno"
                 }
               ]
             }
@@ -531,7 +531,7 @@
         {
           "level": 2,
           "name": "Comando de Campo",
-          "desc": "En un Choque, El oponente tiene -2 Poder de Choque",
+          "desc": "En un Choque, el oponente tiene -2 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
@@ -539,7 +539,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] el siguiente turno"
                 }
               ]
             },
@@ -549,7 +549,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] el siguiente turno"
                 }
               ]
             }
@@ -558,7 +558,7 @@
         {
           "level": 4,
           "name": "Comando de Campo",
-          "desc": "En un Choque, El oponente tiene -2 Poder de Choque",
+          "desc": "En un Choque, el oponente tiene -2 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
@@ -566,7 +566,7 @@
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] el siguiente turno"
                 }
               ]
             },
@@ -576,7 +576,7 @@
                   "desc": "[OnSucceedAttack] Inflige +2 Contador de [Burst]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [DefenseDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [DefenseDown] el siguiente turno"
                 }
               ]
             }
@@ -590,12 +590,12 @@
         {
           "level": 3,
           "name": "Aprovechar la Brecha",
-          "desc": "En un Choque, El oponente tiene -2 Poder de Choque",
+          "desc": "En un Choque, el oponente tiene -2 Poder de Choque",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [AttackDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] el siguiente turno"
                 }
               ]
             },
@@ -603,10 +603,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige daño Cortante adicional por el 15% del Daño infligido"
+                  "desc": "[OnSucceedAttack] Inflige daño Cortante adicional por 15% del daño infligido"
                  },
                 {
-                  "desc": "[OnSucceedAttack] Inflige Debilidad Analizada el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige [WeaknessAnalysis] el siguiente turno"
                 }
               ]
             }
@@ -615,12 +615,12 @@
         {
           "level": 4,
           "name": "Aprovechar la Brecha",
-          "desc": "En un Choque, El oponente tiene -2 Poder de Choque\nSi el objetivo tiene 7+ de [Burst], Poder de Moneda +2",
+          "desc": "En un Choque, el oponente tiene -2 Poder de Choque\nSi el objetivo tiene 7+ de [Burst], Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [AttackDown] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [AttackDown] el siguiente turno"
                 }
               ]
             },
@@ -628,10 +628,10 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige daño Cortante adicional por 15% del Daño infligido"
+                  "desc": "[OnSucceedAttack] Inflige daño Cortante adicional por 15% del daño infligido"
                  },
                 {
-                  "desc": "[OnSucceedAttack] Inflige Debilidad Analizada el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige [WeaknessAnalysis] el siguiente turno"
                 }
               ]
             }
@@ -645,7 +645,7 @@
         {
           "level": 1,
           "name": "Tomaré La Iniciativa",
-          "desc": "[WhenUse] Gana 1 [Agility] y 1 Nivel Defensivo Aumentado el siguiente turno",
+          "desc": "[WhenUse] Gana 1 de [Agility] y 1 de [DefenseUp] el siguiente turno",
           "coinlist": [
             {}
           ]
@@ -733,7 +733,7 @@
         {
           "level": 2,
           "name": "Aserrar",
-          "desc": "Si esta Habilidad es Descartada, gana 1 [AttackUp]\n[WhenUse] [Discard] la Habilidad de menor rango entre todas las Ranuras de Habilidad de esta unidad",
+          "desc": "Si esta Habilidad es Descartada, gana 1 de [AttackUp]\n[WhenUse] [Discard] la Habilidad de menor rango entre todas las Ranuras de Habilidad de esta unidad",
           "coinlist": [
             {
               "coindescs": [
@@ -761,7 +761,7 @@
         {
           "level": 4,
           "name": "Aserrar",
-          "desc": "Si esta Habilidad es Descartada, gana 1 [AttackUp]\n[WhenUse] [Discard] la Habilidad de menor rango entre todas las Ranuras de Habilidad de esta unidad",
+          "desc": "Si esta Habilidad es Descartada, gana 1 de [AttackUp]\n[WhenUse] [Discard] la Habilidad de menor rango entre todas las Ranuras de Habilidad de esta unidad",
           "coinlist": [
             {
               "coindescs": [
@@ -896,7 +896,7 @@
         {
           "level": 1,
           "name": "Marche",
-          "desc": "[WhenUse] Gana 2 [Agility] el siguiente turno",
+          "desc": "[WhenUse] Gana 2 de [Agility] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -917,7 +917,7 @@
         {
           "level": 2,
           "name": "Marche",
-          "desc": "[WhenUse] Gana 2 [Agility] el siguiente turno\n[WhenUse]  Esta Ranura de Habilidad gana +1 [Aggro] el siguiente turno",
+          "desc": "[WhenUse] Gana 2 de [Agility] el siguiente turno\n[WhenUse] Esta Ranura de Habilidad gana +1 de [Aggro] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -938,7 +938,7 @@
         {
           "level": 4,
           "name": "Marche",
-          "desc": "[WhenUse] Gana 2 [Agility] el siguiente turno\n[WhenUse] Esta Ranura de Habilidad gana +3 [Aggro] el siguiente turno",
+          "desc": "[WhenUse] Gana 2 de [Agility] el siguiente turno\n[WhenUse] Esta Ranura de Habilidad gana +3 de [Aggro] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -976,7 +976,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 }
               ]
             }
@@ -985,7 +985,7 @@
         {
           "level": 2,
           "name": "Punition",
-          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1\n[WhenUse] Gana +2 Contador de [Breath]\n[WhenUse] Esta Ranura de Habilidad gana +2 [Aggro] el siguiente turno",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1\n[WhenUse] Gana +2 Contador de [Breath]\n[WhenUse] Esta Ranura de Habilidad gana +2 de [Aggro] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -997,7 +997,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
                 }
               ]
             }
@@ -1006,7 +1006,7 @@
         {
           "level": 4,
           "name": "Punition",
-          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +2\n[WhenUse] Gana +2 Contador de [Breath]\n[WhenUse] Esta Ranura de Habilidad gana +4 [Aggro] el siguiente turno",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +2\n[WhenUse] Gana +2 Contador de [Breath]\n[WhenUse] Esta Ranura de Habilidad gana +4 de [Aggro] el siguiente turno",
           "coinlist": [
             {
               "coindescs": [
@@ -1018,7 +1018,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 2 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 2 de [Binding] el siguiente turno"
                 }
               ]
             }
@@ -1040,10 +1040,10 @@
                   "desc": "[OnSucceedAttack] Inflige [DuelDeclaration_Outis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aplica 1 [Agility] el siguiente turno a 2 aliados con la Velocidad más baja"
+                  "desc": "[OnSucceedAttack] Aplica 1 de [Agility] el siguiente turno a 2 aliados con la menor Velocidad"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] +50% de Daño en Golpe Crítico"
+                  "desc": "[CriticalOnSucceedAttack] +50% de daño en Golpe Crítico"
                 }
               ]
             }
@@ -1060,10 +1060,10 @@
                   "desc": "[OnSucceedAttack] Inflige [DuelDeclaration_Outis]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Aplica 2 [Agility] el siguiente turno a 2 aliados con la Velocidad más baja"
+                  "desc": "[OnSucceedAttack] Aplica 2 de [Agility] el siguiente turno a 2 aliados con la menor Velocidad"
                 },
                 {
-                  "desc": "[CriticalOnSucceedAttack] +70% de Daño en Golpe Crítico"
+                  "desc": "[CriticalOnSucceedAttack] +70% de daño en Golpe Crítico"
                 }
               ]
             }
@@ -1085,7 +1085,7 @@
         {
           "level": 4,
           "name": "Retraite",
-          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1 por cada dif. de Velocidad (Poder de Moneda +1 por cada 1 dif. de Velocidad; Máx 3)\n[OnSucceedEvade] Gana 1 de [Breath] (Máx 10)",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, Poder de Moneda +1 por cada diferencia de Velocidad (Poder de Moneda +1 por cada 1 de diferencia; Máx 3)\n[OnSucceedEvade] Gana 1 de [Breath] (Máx 10)",
           "coinlist": [
             {}
           ]
@@ -1103,7 +1103,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 [DarkFlame] el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [DarkFlame] el siguiente turno"
                 }
               ]
             },
@@ -1124,7 +1124,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttackHead] Inflige 1 [DarkFlame] el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Inflige 1 de [DarkFlame] el siguiente turno"
                 }
               ]
             },
@@ -1145,7 +1145,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [DarkFlame] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [DarkFlame] el siguiente turno"
                 }
               ]
             },
@@ -1171,7 +1171,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con menos de 4 [FreischutzShotCount], gana 1 [FreischutzShotCount]; después, inflige [DarkFlame] igual a [FreischutzShotCount] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Con menos de 4 [FreischutzShotCount], gana 1 de [FreischutzShotCount]; después, inflige [DarkFlame] igual a [FreischutzShotCount] el siguiente turno"
                 }
               ]
             },
@@ -1192,7 +1192,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con menos de 4 [FreischutzShotCount], gana 1 [FreischutzShotCount]; después, inflige [DarkFlame] igual a [FreischutzShotCount] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Con menos de 4 [FreischutzShotCount], gana 1 de [FreischutzShotCount]; después, inflige [DarkFlame] igual a [FreischutzShotCount] el siguiente turno"
                 }
               ]
             },
@@ -1213,7 +1213,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con menos de 4 [FreischutzShotCount], gana 1 [FreischutzShotCount]; después, inflige [DarkFlame] igual a [FreischutzShotCount] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Con menos de 4 [FreischutzShotCount], gana 1 de [FreischutzShotCount]; después, inflige [DarkFlame] igual a [FreischutzShotCount] el siguiente turno"
                 }
               ]
             },
@@ -1234,7 +1234,7 @@
         {
           "level": 3,
           "name": "Disparar Bala Mágica",
-          "desc": "Inflige +0.5% de daño por cada [Combustion] en el objetivo (Máx 15%)\n\n[BeforeAttack] Gana 1 [FreischutzShotCount]\n- Pierde (([FreischutzShotCount] -1)x5) PC\n- Alcance de Atq se vuelve igual al valor de [FreischutzShotCount]\n- Con 10 o menos PC, 50% de probabilidad de atacar indiscriMínadamente\n\n[EndSkill] Si tiene 7 [FreischutzShotCount], reinicia a 0 (Cuenta como gastar la última Bala)",
+          "desc": "Inflige +0.5% de daño por cada [Combustion] en el objetivo (Máx 15%)\n\n[BeforeAttack] Gana 1 de [FreischutzShotCount]\n- Pierde (([FreischutzShotCount] -1)x5) PC\n- Alcance de Atq se vuelve igual al valor de [FreischutzShotCount]\n- Con 10 o menos PC, 50% de probabilidad de atacar indiscriMínadamente\n\n[EndSkill] Si tiene 7 de [FreischutzShotCount], reinicia a 0 (Cuenta como gastar la última Bala)",
           "coinlist": [
             {
               "coindescs": [
@@ -1248,7 +1248,7 @@
         {
           "level": 4,
           "name": "Disparar Bala Mágica",
-          "desc": "<style=\"highlight\">Inflige +1% de daño por cada [Combustion] en el objetivo (Máx 30%)</style>\n\n[BeforeAttack] Gana 1 [FreischutzShotCount]\n- Pierde (([FreischutzShotCount] -1)x5) PC\n- Alcance de Atq se vuelve igual al valor de [FreischutzShotCount]\n- Con 10 o menos PC, 50% de probabilidad de atacar indiscriMínadamente\n\n[EndSkill] Si tiene 7 [FreischutzShotCount], reinicia a 0 (Cuenta como gastar la última Bala)",
+          "desc": "<style=\"highlight\">Inflige +1% de daño por cada [Combustion] en el objetivo (Máx 30%)</style>\n\n[BeforeAttack] Gana 1 de [FreischutzShotCount]\n- Pierde (([FreischutzShotCount] -1)x5) PC\n- Alcance de Atq se vuelve igual al valor de [FreischutzShotCount]\n- Con 10 o menos PC, 50% de probabilidad de atacar indiscriMínadamente\n\n[EndSkill] Si tiene 7 de [FreischutzShotCount], reinicia a 0 (Cuenta como gastar la última Bala)",
           "coinlist": [
             {
               "coindescs": [
@@ -1267,7 +1267,7 @@
         {
           "level": 1,
           "name": "El Precio de una Bala",
-          "desc": "[WhenUse] Gana 1 [FreischutzShotCount] (Una vez por turno)\n[EndSkillAll] Pierde PC igual a [FreischutzShotCount]",
+          "desc": "[WhenUse] Gana 1 de [FreischutzShotCount] (Una vez por turno)\n[EndSkillAll] Pierde PC igual a [FreischutzShotCount]",
           "coinlist": [
             {}
           ]
@@ -1275,7 +1275,7 @@
         {
           "level": 4,
           "name": "El Precio de una Bala",
-          "desc": "[WhenUse] Gana 1 [FreischutzShotCount] (Una vez por turno)\n[WhenUse] Gana Poder Final igual a ([FreischutzShotCount] x2)\n[EndSkillAll] Pierde PC igual a [FreischutzShotCount]",
+          "desc": "[WhenUse] Gana 1 de [FreischutzShotCount] (Una vez por turno)\n[WhenUse] Gana Poder Final igual a ([FreischutzShotCount] x2)\n[EndSkillAll] Pierde PC igual a [FreischutzShotCount]",
           "coinlist": [
             {}
           ]
@@ -1420,7 +1420,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 [EchoOfMansion] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige daño de Afinidad de Melancolía igual a la mitad de la Potencia de [Sinking] en el objetivo (Máx 20)"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige daño con Afinidad de Melancolía igual a la mitad de la Potencia de [Sinking] en el objetivo (Máx 20)"
                 }
               ]
             }
@@ -1440,7 +1440,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 [EchoOfMansion] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige daño de Afinidad de Melancolía igual a Potencia de [Sinking] en el objetivo (Máx 30)"
+                  "desc": "[OnSucceedAttack] Si el objetivo tiene [EchoOfMansion], Inflige daño con Afinidad de Melancolía igual a Potencia de [Sinking] en el objetivo (Máx 30)"
                 }
               ]
             }
@@ -1614,7 +1614,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Potencia de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 },
                 {
-                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, aplica 1 [PenetrateDamageUp] el siguiente turno a otro aliado con los mayores PC"
+                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, aplica 1 de [PenetrateDamageUp] el siguiente turno a otro aliado con los mayores PC"
                 }
               ]
             }
@@ -1635,7 +1635,7 @@
                   "desc": "[OnSucceedAttack] Inflige 3 de Potencia de 1 de los siguientes efectos: [Combustion], [Laceration], [Vibration], [Burst], o [Sinking]. Efecto seleccionado al azar."
                 },
                 {
-                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, aplica 1 [PenetrateDamageUp] el siguiente turno a otro aliado con los mayores PC</style>"
+                  "desc": "[EndSkill] Si el objetivo es Aturdido o Derrotado, aplica 1 de [PenetrateDamageUp] el siguiente turno a otro aliado con los mayores PC</style>"
                 }
               ]
             }
@@ -1736,7 +1736,7 @@
                   "desc": "[OnSucceedAttack] Gana +1 Contador de [Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 }
               ]
             }
@@ -1745,7 +1745,7 @@
         {
           "level": 2,
           "name": "Brinco Cargado",
-          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder Base +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + 1) [ChargeForceField] a sí y a 2 aliados con el menor Contador de [Charge]. (Máx 7 [ChargeForceField] por aliado. Se activa una vez por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
+          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder Base +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + 1) [ChargeForceField] a sí misma y a 2 aliados con el menor Contador de [Charge]. (Máx 7 [ChargeForceField] por aliado. Se activa una vez por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
           "coinlist": [
             {
               "coindescs": [
@@ -1760,10 +1760,10 @@
                   "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttackHead] Si esta Habilidad gastó Contador de [Charge] al usarse, Inflige 2 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttackHead] Si esta Habilidad gastó Contador de [Charge] al usarse, Inflige 2 de [Binding] el siguiente turno"
                 }
               ]
             }
@@ -1772,7 +1772,7 @@
         {
           "level": 4,
           "name": "Brinco Cargado",
-          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder de Moneda +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] a sí y a 2 aliados con el menor Contador de [Charge]. (Máx <style=\"highlight\">8</style> [ChargeForceField] por aliado. Se activa <style=\"highlight\">2 veces</style> por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
+          "desc": "[WhenUse] Gasta 6 Contador de [Charge] en sí para Ganar Poder de Moneda +1\n- Si esta unidad Gastó Contador de [Charge], aplica ([Charge] + <style=\"highlight\">2</style>) [ChargeForceField] a sí misma y a 2 aliados con el menor Contador de [Charge]. (Máx <style=\"highlight\">8</style> [ChargeForceField] por aliado. Se activa <style=\"highlight\">2 veces</style> por turno Máx)\n[WhenUse] Gana +2 Contador de [Charge]",
           "coinlist": [
             {
               "coindescs": [
@@ -1787,10 +1787,10 @@
                   "desc": "[OnSucceedAttack] Gana +2 Contador de [Charge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Inflige 1 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Binding] el siguiente turno"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Si esta Habilidad gastó Contador de [Charge] al usarse, Inflige 2 [Binding] el siguiente turno"
+                  "desc": "[OnSucceedAttack] Si esta Habilidad gastó Contador de [Charge] al usarse, Inflige 2 de [Binding] el siguiente turno"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 3,
           "name": "Desgarro Dimensional",
-          "desc": "[StartBattle] A sí y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7 a 14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +1",
+          "desc": "[StartBattle] A sí misma y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7~14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +1\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +1",
           "coinlist": [
             {},
             {
@@ -1836,7 +1836,7 @@
         {
           "level": 4,
           "name": "Desgarro Dimensional",
-          "desc": "[StartBattle] A sí y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7 a 14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +2\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +2",
+          "desc": "[StartBattle] A sí misma y a (Reson. más alta) aliados con [Charge]: aplica [ChargeLoad] igual a [Charge] en sí\n(Máx 5 otros aliados)\n[WhenUse] Con 2+ de [Charge] y 7~14 Contador de [Charge], gasta todo el Contador de [Charge] en sí para ganar Poder de Moneda +2\n[WhenUse] Gasta 15 Contador de [Charge] para ganar Poder de Moneda +2",
           "coinlist": [
             {
               "coindescs": [
@@ -1912,7 +1912,7 @@
         {
           "level": 1,
           "name": "Coser",
-          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 de [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -1933,7 +1933,7 @@
         {
           "level": 2,
           "name": "Coser",
-          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 de [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1960,7 +1960,7 @@
         {
           "level": 4,
           "name": "Coser",
-          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 10)\n[WhenUse] Consume hasta 40 [BloodDinner] y gana 1 de [BloodScissorPersonalityFirst] por cada 8 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana +2 Contador de [Laceration]\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 6 de [Laceration] en el objetivo (máx 2)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -1992,7 +1992,7 @@
         {
           "level": 1,
           "name": "Disección",
-          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]",
+          "desc": "Tras Golpear con esta Habilidad: cura 10% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 de [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]",
           "coinlist": [
             {
               "coindescs": [
@@ -2017,7 +2017,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige 1 [LineCuttingPersonality] en el objetivo el siguiente turno"
+                  "desc": "[OnSucceedAttack] Con 10+ de [BloodScissorPersonalityFirst], inflige 1 [LineCuttingPersonality] en el objetivo el siguiente turno"
                 }
               ]
             }
@@ -2026,7 +2026,7 @@
         {
           "level": 2,
           "name": "Disección",
-          "desc": "Tras Golpear con esta Habilidad: cura 20% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
+          "desc": "Tras Golpear con esta Habilidad: cura 20% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 de [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n<style=\"highlight\">[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2051,7 +2051,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige 1 [LineCuttingPersonality] en el objetivo el siguiente turno"
+                  "desc": "[OnSucceedAttack] Con 10+ de [BloodScissorPersonalityFirst], inflige 1 [LineCuttingPersonality] en el objetivo el siguiente turno"
                 }
               ]
             }
@@ -2060,7 +2060,7 @@
         {
           "level": 4,
           "name": "Disección",
-          "desc": "Tras Golpear con esta Habilidad: cura 20% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1<style=\"highlight\"></style>",
+          "desc": "Tras Golpear con esta Habilidad: cura 20% del daño de HP infligido (máx 20)\n[WhenUse] Consume hasta 60 [BloodDinner] y gana 1 de [BloodScissorPersonalityFirst] por cada 6 [BloodDinner] que esta unidad consumió\n- Si esta unidad falló en consumir [BloodDinner], gana 5 de [Laceration]\n[WhenUse] Si el objetivo tiene 6+ de [Laceration], Poder de Moneda +1<style=\"highlight\"></style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2099,7 +2099,7 @@
         {
           "level": 3,
           "name": "¡Te Haré un Nuevo Vestido!",
-          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño de HP infligido (máx 20)\n[BeforeAttack] Con 10+ [BloodScissorPersonalityFirst], Alcance de Atq +1\n[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada 6 [Laceration] en el objetivo (máx 2)\n[EndSkill] Consume 15 [BloodScissorPersonalityFirst] por cada Alcance de Atq ganado\n[EndSkill] Si el objetivo es matado, aumenta [BloodDinner] por 10. Recupera la mitad de [BloodScissorPersonalityFirst] gastadas por esta Habilidad (una vez por turno)",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño de HP infligido (máx 20)\n[BeforeAttack] Con 10+ [BloodScissorPersonalityFirst], Alcance de Atq +1\n[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada 6 de [Laceration] en el objetivo (máx 2)\n[EndSkill] Consume 15 de [BloodScissorPersonalityFirst] por cada Alcance de Atq ganado\n[EndSkill] Si el objetivo es matado, aumenta [BloodDinner] por 10. Recupera la mitad de [BloodScissorPersonalityFirst] gastadas por esta Habilidad (una vez por turno)",
           "coinlist": [
             {
               "coindescs": [
@@ -2125,7 +2125,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x 2)% more damage (máx 38%)\n- Con 20+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x 3)% de daño en su lugar (máx 90%)"
+                  "desc": "[OnSucceedAttack] Con 10+ de [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x 2)% de daño (máx 38%)\n- Con 20+ de [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x 3)% de daño en su lugar (máx 90%)"
                 }
               ]
             }
@@ -2134,7 +2134,7 @@
         {
           "level": 4,
           "name": "¡Te Haré un Nuevo Vestido!",
-          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño de HP infligido (máx 20)\n[BeforeAttack] Con 10+ [BloodScissorPersonalityFirst], Alcance de Atq +1\n<style=\"highlight\">- Con 20+ [BloodScissorPersonalityFirst], reemplaza el efecto anterior con Alcance de Atq +2 en su lugar</style>\n[WhenUse] Si el objetivo tiene 5+ [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada 6 [Laceration] en el objetivo (máx 2)\n[EndSkill] Consume <style=\"highlight\">10</style> [BloodScissorPersonalityFirst] por cada Alcance de Atq ganaed\n[EndSkill] Si el objetivo es matado, aumenta [BloodDinner] por <style=\"highlight\">20</style>. Recupera la mitad de [BloodScissorPersonalityFirst] gastadas por esta Habilidad (una vez por turno)\n<style=\"highlight\">- Si el objetivo es [LineCuttingPersonality], adicionalmente aumenta [BloodDinner] por 20 más, y gana 5 [BloodScissorPersonalityFirst] (una vez por turno)</style>",
+          "desc": "Tras Golpear con esta Habilidad: cura 30% del daño de HP infligido (máx 20)\n[BeforeAttack] Con 10+ de [BloodScissorPersonalityFirst], Alcance de Atq +1\n<style=\"highlight\">- Con 20+ [BloodScissorPersonalityFirst], reemplaza el efecto anterior con Alcance de Atq +2 en su lugar</style>\n[WhenUse] Si el objetivo tiene 5+ de [Laceration], Poder de Moneda +1\n[WhenUse] Poder de Choque +1 por cada 6 de [Laceration] en el objetivo (máx 2)\n[EndSkill] Consume <style=\"highlight\">10</style> de [BloodScissorPersonalityFirst] por cada Alcance de Atq ganaed\n[EndSkill] Si el objetivo es matado, aumenta [BloodDinner] por <style=\"highlight\">20</style>. Recupera la mitad de [BloodScissorPersonalityFirst] gastadas por esta Habilidad (una vez por turno)\n<style=\"highlight\">- Si el objetivo es [LineCuttingPersonality], adicionalmente aumenta [BloodDinner] por 20 más, y gana 5 de [BloodScissorPersonalityFirst] (una vez por turno)</style>",
           "coinlist": [
             {
               "coindescs": [
@@ -2160,7 +2160,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Con 10+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x <style=\"highlight\">3</style>)% de daño (máx <style=\"highlight\">57</style>%)\n- Con 20+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x <style=\"highlight\">4</style>)% de daño en su lugar (máx <style=\"highlight\">120</style>%)"
+                  "desc": "[OnSucceedAttack] Con 10+ de [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x <style=\"highlight\">3</style>)% de daño (máx <style=\"highlight\">57</style>%)\n- Con 20+ [BloodScissorPersonalityFirst], inflige +([BloodScissorPersonalityFirst] x <style=\"highlight\">4</style>)% de daño en su lugar (máx <style=\"highlight\">120</style>%)"
                 }
               ]
             }
@@ -2174,7 +2174,7 @@
         {
           "level": 1,
           "name": "¡Absolutamente Descortés!",
-          "desc": "[WhenUse] Con 10+ [BloodScissorPersonalityFirst], Poder Base +1\n[WhenUse] Con 5+ de [Laceration], Poder de Moneda +1",
+          "desc": "[WhenUse] Con 10+ de [BloodScissorPersonalityFirst], Poder Base +1\n[WhenUse] Con 5+ de [Laceration], Poder de Moneda +1",
           "coinlist": [
             {
               "coindescs": [
@@ -2188,12 +2188,269 @@
         {
           "level": 4,
           "name": "¡Absolutamente Descortés!",
-          "desc": "[WhenUse] Con 10+ [BloodScissorPersonalityFirst], Poder Base +1<style=\"highlight\">\n- Con 20+ [BloodScissorPersonalityFirst], gana Poder Base +2 instead</style>\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 5 de [Laceration] en sí (máx 3)</style>",
+          "desc": "[WhenUse] Con 10+ de [BloodScissorPersonalityFirst], Poder Base +1<style=\"highlight\">\n- Con 20+ de [BloodScissorPersonalityFirst], gana Poder Base +2 instead</style>\n[WhenUse] <style=\"highlight\">Poder de Moneda +1 por cada 5 de [Laceration] en sí (máx 3)</style>",
           "coinlist": [
             {
               "coindescs": [
                 {
                   "desc": "[OnSucceedAttack] Inflige +1 Contador de [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Movimiento Parpadeante",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Movimiento Parpadeante",
+          "desc": "[WhenUse] Si el objetivo tiene <style=\"highlight\">4</style>+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1de [Burst]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Con 12+ de Velocidad, Reutiliza esta Moneda una vez (una vez por Habilidad)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Movimiento Parpadeante",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Moneda +1</style>\n[WhenUse] Si el objetivo tiene 4+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con <style=\"highlight\">10</style>+ de Velocidad, Reutiliza esta Moneda una vez (una vez por Habilidad)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Asesinar",
+          "desc": "[WhenUse] Si el objetivo tiene 6+ de [Burst], Poder de Moneda +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +10% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Asesinar",
+          "desc": "[WhenUse] Si el objetivo tiene <style=\"highlight\">4</style>+ de [Burst], Poder de Moneda +1\n<style=\"highlight\">[OnDirectAttack] Inflige +1 Contador de [Burst]</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Inflige +1 Contador de [Burst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +<style=\"highlight\">20</style>% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Asesinar",
+          "desc": "<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Moneda +1</style>\n[WhenUse] Si el objetivo tiene 4+ de [Burst], Poder de Moneda +1\n[OnDirectAttack] Inflige +1 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Gana 1 de [Agility] el siguiente turno (2 veces por turno)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Con 10+ de Velocidad, inflige +<style=\"highlight\">30</style>% de daño"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Cuchilla de Carnicería Maldita",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige (Diferencia de Velocidad x Potencia de [Burst] en el objetivo)% de daño (máx 50%)\nSi la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder de Moneda +1\n[WhenUse] Gana 3 de [LegStrength]\n[OnDirectAttack] Inflige +2 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 10+ de Velocidad, Reutiliza esta Moneda una vez (una vez por Habilidad)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cuchilla de Carnicería Maldita",
+          "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo, inflige +(Diferencia de Velocidad x Potencia de [Burst] en el objetivo)% de daño (máx 50%)\n<style=\"highlight\">Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder de Moneda basado en la diferencia de Velocidad (Poder de Moneda +1 por cada 2 de diferencia; máx 2)\n[WhenUse] Si el objetivo tiene 15+ de [Burst], Poder de Moneda +1</style>\n[WhenUse] Gana 3 de [LegStrength]\n[OnDirectAttack] Inflige +2 Contador de [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Inflige [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 de [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Con 10+ de Velocidad, Reutiliza esta Moneda una vez (una vez por Habilidad)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Inflige [BurstAgility]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1111204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mutación Parcial de Bestia Negra",
+          "desc": "[DuelCounter]\n[WhenUse] Gana 3 de [LegStrength]\n[WhenUse] Si la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder Base +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mutación Parcial de Bestia Negra",
+          "desc": "[DuelCounter]\n[WhenUse] Gana 3 de [LegStrength]\n<style=\"highlight\">[WhenUse] Si la Velocidad de esta unidad es mayor que la del objetivo, gana Poder Base basado en la diferencia de Velocidad (Poder Base +1 por cada 2 de diferencia; máx 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Inflige +1 Contador de [Burst]"
                 }
               ]
             }

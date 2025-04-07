@@ -2,80 +2,80 @@
     "dataList": [
         {
             "id": 9011601,
-            "name": "It's... you...",
-            "desc": "Deal +10% more damage to targets with the least HP",
-            "summary": "Damage +10%"
+            "name": "Eres... tú...",
+            "desc": "Inflige 10% de daño a objetivos con la menor cantidad de HP",
+            "summary": "+10% de daño"
         },
         {
             "id": 9011801,
             "name": "...",
-            "desc": "Target takes 3 SP damage if this unit loses the clash",
-            "summary": "Target takes 3 SP damage"
+            "desc": "El objetivo toma 3 de daño a los PC si esta unidad pierde el choque",
+            "summary": "El objetivo toma 3 de daño a los PC"
         },
         {
             "id": 9012001,
-            "name": "Cleaning",
-            "desc": "When using a Skill, if target's HP is below 50%, Skill Power +1",
-            "summary": "Skill Power +1"
+            "name": "Limpieza",
+            "desc": "Al usar una Habilidad y si la HP del objetivo está por debajo del 50%, Poder de Habilidad +1",
+            "summary": "Poder de Habilidad +1"
         },
         {
             "id": 9012201,
-            "name": "Organizing",
-            "desc": "When using a Skill, if target's HP is below 50%, deal +30% more damage",
-            "summary": "Damage +30%"
+            "name": "Organización",
+            "desc": "Al usar una Habilidad y si la HP del objetivo está por debajo del 50%, inflige +30% de daño",
+            "summary": "+30% de daño"
         },
         {
             "id": 9012301,
-            "name": "Dead End",
-            "desc": "When using a Skill, if this unit's Speed is faster than the target's, Clash Power +1",
-            "summary": "Clash Power +1"
+            "name": "Callejón Sin Salida",
+            "desc": "Al usar una Habilidad y si la Velocidad de esta unidad es mayor a la del objetivo, Poder de Choque +1",
+            "summary": "Poder de Choque +1"
         },
         {
             "id": 9012501,
-            "name": "Rat Hunt",
-            "desc": "When using a Skill, if this unit's Speed is faster than the target's, gain Clash Power +1 and deal +20% more damage",
-            "summary": "Clash Power +1, deal +20% more damage"
+            "name": "Cacería de Ratas",
+            "desc": "Al usar una Habilidad y si la Velocidad de esta unidad es mayor a la del objetivo, Gana Poder de Choque +1 e inflige +20% de daño",
+            "summary": "Poder de Choque +1, inflige +20% de daño"
         },
         {
             "id": 9012601,
-            "name": "I Will... Do My Best",
-            "desc": "Turn End: if Staggered, heal 12 SP. Gain 2 Defense Level Down next turn. (one time max)",
+            "name": "Haré... Mi Mayor Esfuerzo",
+            "desc": "Fin del Turno: si la unidad está Aturdida, cura 12 PC. Gana 2 de Nivel Defensivo Reducido el siguiente turno. (una vez máx.)",
             "summary": ""
         },
         {
             "id": 9012602,
-            "name": "Apologies... Mistress!",
-            "desc": "Turn End: if this unit recovered from Panic, gain 1 Attack Power Up next turn",
-            "summary": "Gain 1 Attack Power Up next turn"
+            "name": "¡Mis disculpas... Mi Señora!",
+            "desc": "Fin del Turno: si esta unidad se recuperó del Pánico, gana 1 Poder de Ataque Aumentado el siguiente turno",
+            "summary": "Gana 1 Poder de Ataque Aumentado el siguiente turno"
         },
         {
             "id": 9101401,
-            "name": "I'll Clean You Up...",
-            "desc": "Turn End: if Staggered, recover from the Staggered state and heal 20 SP. Gain 1 Nivel Ofensivo Aumentado next turn. (1 max)",
+            "name": "Te limpiaré...",
+            "desc": "Fin del Turno: si queda Aturdido, cura el estado de Aturdimiento y 20 PC. Ganan1 de Nivel Ofensivo Aumentado el siguiente turno. (máx. 1)",
             "summary": ""
         },
         {
             "id": 9101402,
-            "name": "Insolent Fool!",
-            "desc": "If this unit's Speed is faster than the target's, Clash Power +2",
-            "summary": "Clash Power +2"
+            "name": "¡Bastardo Insolente!",
+            "desc": "Si la velocidad de esta unidad es mayor a la del objetivo, Poder de Choque +2",
+            "summary": "Poder de Choque +2"
         },
         {
             "id": 9101403,
-            "name": "The Mistress's Voice...!",
-            "desc": "Heal 10 SP when every Coin of an Attack Skill flips heads",
-            "summary": "Heal 10 SP"
+            "name": "¡La Voz de la Señora...!",
+            "desc": "Cura 10 PC por cada moneda que caiga en cara en una Habilidad de Ataque",
+            "summary": "Cura 10 PC"
         },
         {
             "id": 9101404,
-            "name": "Will You Witness Me, Mistress?!",
-            "desc": "If the target has Sinking, and if the target has -15 or less SP, gain 3 Nivel Ofensivo Aumentado next turn. (once per target)",
+            "name": "¡Mi Señora! ¿Está observándome?",
+            "desc": "Si el objetivo tiene Ahogo, y si el objetivo tiene -15 o menos PC, gana 3 de Nivel Ofensivo Aumentado el siguiente turno. (una vez por objetivo)",
             "summary": ""
         },
         {
             "id": 9999999,
-            "name": "Panic Recovery",
-            "desc": "Turn End: if in Panic, reset SP to 0.",
+            "name": "Recuperación del Pánico",
+            "desc": "Fin del Turno: si está en Pánico, reinicia sus PC a 0.",
             "summary": ""
         },
         {

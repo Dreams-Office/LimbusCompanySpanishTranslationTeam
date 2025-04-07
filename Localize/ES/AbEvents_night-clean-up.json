@@ -1,0 +1,69 @@
+{
+  "dataList": [
+    {
+      "id": 97105101,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "¿Quién le perseguirá?",
+      "successDesc": [
+        "{0} persiguió al intruso lo más rápido posible.\n\nEl intruso se detiene al llegar a un callejón sin salida.\n\n{0} no pierde la oportunidad y blande su arma contra el intruso, pero solo logra cortar un poco de tela de sus prendas.\n\nSin embargo, quizá se le cayó algo en el proceso.\n\nHabía una tela amarilla en el piso."
+      ],
+      "failureDesc": [
+        "{0} persiguió al intruso lo más rápido posible.\n\nEl intruso se detiene al llegar a un callejón sin salida.\n\n{0} no pierde la oportunidad y blande su arma contra el intruso, pero falló en siquiera rozar sus prendas debido a la absurda velocidad del intruso.\n\nUn residente del edificio cercano a la escena camina a afuera, ve el piso donde estuvo el intruso, y grita.\n\n\"¿Qué mierda? ¡Dañaron la calle afuera de mi casa!\"\n\n\"¡Exijo una compensación! ¡O al menos llamen a una Oficina de seguros para que se encarguen de esto!\"\n\nDecidimos dejar de perseguir al intruso para limpiar el piso antes de que el residente haga un alboroto aún más grande."
+      ]
+    },
+    {
+      "id": 97105201,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "¿Qué deberíamos hacer?",
+      "successDesc": [
+        "{0} no reconoce en lo absoluto a la persona en la fotografía.\n\nSin embargo, al inventar una historia, {0} logra engañar a los secuaces del Medio.\n\n\"Creo que tiene que ser ese, hermano.\"\n\n\"¡Nos dirigimos al este de inmediato!\"\n\n\"Fuiste bastante útil. Ten, toma esto.\"\n\n\"No eres de nuestra familia, pero estas cadenas son prueba de que has ayudado al Medio.\"\n\nNos entregaron un montón de cadenas pesadas."
+      ],
+      "failureDesc": [
+        "{0} no reconoce en lo absoluto a la persona en la fotografía.\n\n{0} trata de inventar una historia, pero los secuaces del Medio no parecen estar convencidos.\n\n\"No creo que ese sea el tipo, hermano.\"\n\n\"Estoy de acuerdo. Bueno. No hace falta decir nada.\"\n\n\"Pero antes de que te vayas, ten esto.\"\n\n{0} recibió una pegatina de tatuaje temporal.\n\nNo es un tatuaje de verdad, pero se ve bastante parecido a los tatuajes del Medio."
+      ]
+    },
+    {
+      "id": 97105301,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "¿Qué Pecador se presentará?",
+      "successDesc": [
+        "Alguien se acerca mientras {0} está en espera.\n\n\"Este es un talismán de Q Corp. Mantenlo a salvo, y úsalo contra los enemigos si llegan hasta acá.\"\n\nEl talismán tenía grabados varios glifos que no logramos entender.\n\nParece ser poderoso, será útil cuando lo necesitemos."
+      ],
+      "failureDesc": [
+        "Alguien se acerca mientras {0} está en espera.\n\n\"Tú... creo que eres de las Liebres que no han sido asignadas a la misión de hoy.\"\n\n\"Pero si estás acá de todas formas, limpia el cuarto por si hay algo que nos pueda estorbar.\"\n\nRecolectamos algunos fragmentos rotos y abandonamos el lugar."
+      ]
+    },
+    {
+      "id": 97105302,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "¿Qué Pecador se presentará?",
+      "successDesc": [
+        "{0} decidió seguir al equipo de Operaciones. Alguien con un sombrero de bambú camina hacia {0} y le entrega la misión.\n\n\"Pon los talismanes en las ubicaciones designadas.\"\n\n\"También, recolecta los obstáculos dispersos en un solo lugar.\"\n\n{0} siguió la misión, pero le sobraron algunos talismanes y fragmentos.\n\n\"Sobre eso... guárdalos. Por si acaso\".\\n\nDecidimos llevarnos lo que quedó."
+      ],
+      "failureDesc": [
+        "\"... ¿Quién eres? No te he visto por acá antes.\"\n\nUno de ellos miró a {0} con curiosidad.\n\n\"Parece que alguien ha infiltrado nuestras filas disfrazándose como una liebre.\"\n\n\"Los intrusos han de ser eliminados.\"\n\nRepentinamente somos rodeados por sofocantes presencias de negro y amarillo."
+      ]
+    },
+    {
+      "id": 97105401,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "",
+      "behaveDesc": "¿Quién nos guiará a un refugio?",
+      "successDesc": [
+        "Era una mezcla rara entre un pub y un restaurante. Pero la gente estaba disfrutando de sus comidas de todas formas.\n\n\"¡L-Les pido perdón por nuestra intrusión!\"\n\nUno de los Pecadores gritó, y eso parece haber sido suficiente para los perplejos huéspedes, los cuales pronto asintieron.\n\nPodíamos escuchar algo moviéndose afuera de la puerta, pero... al menos este refugio parece seguro."
+      ],
+      "failureDesc": [
+        "{0} identifica un posible refugio y llama a los otros Pecadores.\n\nTun, tun.\n\nLa puerta se mueve, pero algo duro y pesado parece haber impedido que se abriera.\n\nQuien sea que este ahí adentro probablemente bloqueó la puerta tan pronto como la Noche en las Callejuelas empezó.\n\nNos dimos la vuelta, pero nuestra salida había sido bloqueada por la oleada de Barrenderos.\n\nNo tenemos otra opción más que pelear."
+      ]
+    }
+  ]
+}

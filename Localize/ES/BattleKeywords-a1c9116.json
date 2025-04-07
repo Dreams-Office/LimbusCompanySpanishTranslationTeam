@@ -1,0 +1,95 @@
+{
+  "dataList": [
+    {
+      "id": "BurstAgility",
+      "name": "Rito Mortal【Rapidez】",
+      "desc": "Cant. Base: 3\nCuando se activa Ruptura al ser golpeado por una Habilidad de Ataque de un objetivo con 10+ de Velocidad, pierde 1 de Cantidad y gana +1 Contador de Ruptura  \nCon 0 de Cantidad, recibe daño con Afinidad de Gula igual a Potencia de Ruptura en sí; luego, este efecto expira\n※ No puede ganar Cantidad adicional de este efecto mientras esté activo",
+      "summary": "Si se cumplen las condiciones: inflige daño adicional con Afinidad de Gula",
+      "undefined": "-"
+    },
+    {
+      "id": "LegStrength",
+      "name": "Ímpetu【Mao】】",
+      "desc": "Valor Máx: 3\nFin de Turno: gana 5 de Rapidez el siguiente turno\nReducido en 1 al final del turno",
+      "summary": "Si se cumplen las condiciones: inflige daño adicional con Afinidad de Gula",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_LowMorale",
+      "name": "Engaño",
+      "desc": "- Moral Baja\n- Si la Velocidad de esta unidad es mayor que la del objetivo o al usar un Ataque Unilateral, inflige +10% de daño al objetivo",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_Panic",
+      "name": "Engaño",
+      "desc": "- Pánico\n- Si la Velocidad de esta unidad es mayor que la del objetivo o al usar un Ataque Unilateral, inflige +20% de daño al objetivo; si la Velocidad de esta unidad es mayor que la del objetivo, recibe -20% de daño",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RepressedMurderousIntend",
+      "name": "Sed de Sangre Reprimida",
+      "desc": "Nivel Ofensivo -10, Nivel Defensivo -10",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeighedMurderousIntend",
+      "name": "Sed de Sangre Aplastada",
+      "desc": "Nivel Ofensivo -25, Nivel Defensivo -25",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerBook",
+      "name": "Marca de Vendetta",
+      "desc": "Cant. Máx: 10\nAl ser atacado por El Medio, recibe +3% de daño por cada Cantidad (máx 30%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Persistent",
+      "name": "Persistencia",
+      "desc": "Cant. Máx: 4\nAl recibir daño letal, 80% de probabilidad de no recibir dicho daño, curar 60 HP, recuperarse de Aturdimiento, y perder este efecto\n\nLos efectos anteriores no se activan bajo las siguientes condiciones:\n- Cuando el daño que inflige la Moneda excede el HP Máx de esta unidad\n- Cuando esta unidad tiene el efecto de Curación de HP Reducida\nReducido en 1 al final del turno",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_LowMorale",
+      "name": "Noche en las Callejuelas",
+      "desc": "Inicio de Turno: gana 1 de Poder Ofensivo Aumentado, 1 Curación de HP Aumentada, y 1 de Frágil",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_Panic",
+      "name": "Noche en las Callejuelas",
+      "desc": "Inicio de Turno: gana 2 de Poder Ofensivo Aumentado, 2 Curación de HP Aumentada, y 1 de Frágil",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperA",
+      "name": "La Primera Oleada",
+      "desc": "La Primera Oleada termina en {0} turno(s)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperB",
+      "name": "La Segunda Oleada",
+      "desc": "La Segunda Oleada termina en {0} turno(s)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperC",
+      "name": "La Tercera Oleada",
+      "desc": "La Tercera Oleada termina en {0} turno(s)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

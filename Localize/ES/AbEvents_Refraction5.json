@@ -1,0 +1,25 @@
+{
+  "dataList": [
+    {
+      "id": 863001,
+      "title": "Bala Fatal",
+      "eventDesc": "'Deténganse.'\n\n'Ya no los puedo recordar. Ni siquiera puedo recordar si en verdad existieron.'\n\n'Pero ustedes... todavía pueden recordar a sus seres queridos.'\n\n'Les volaré la cabeza. A todos y cada uno de ustedes.'\n\nEl tirador llevaba puesto un viejo colgante alrededor de su cuello.\n\nQuizá este podría ser la clave para resolver esta batalla.",
+      "behaveDesc": "¿Quién mencionará el colgante?",
+      "successDesc": [
+        "{0} le dice al tirador que abra el colgante que trae puesto.\n\nEl tirador toma el colgante y lo abre, como si estuviera poseído por alguna fuerza externa... y comienza a gritar mientras sujeta firmemente su arma.\n\n'¡No...! ¡No quiero recordarlos! No quiero... ¡no quiero recordar a mis seres queridos!'\n\n'Oh... por favor... deja de sonreír. ¡Deja de sonreír, dije!'\n\n'¡Aléjate de mí! ¡Cállate!'\n\nEl tirador aprieta el gatillo, su voz llena de dolor.\n\nPero el poder de las balas ya se había vuelto mucho más débil."
+      ],
+      "failureDesc": [
+        "{0} le dice al tirador que abra el colgante que trae puesto.\n\nSin embargo, en lugar de hacer eso, el tirador sostiene el colgante dentro de su puño, como si estuviera escondiéndolo. Y apunta el cañón de su arma en nuestra dirección, sonriendo.\n\n'......'\n\nEl retroceso sacude el colgante.\n\nPero el tirador continúa presionando el gatillo. Nada ha cambiado."
+      ]
+    },
+    {
+      "id": 863301,
+      "title": "Cuatrocientas Rosas",
+      "prevDesc": "La rosa anhela más sangre.",
+      "eventDesc": "",
+      "behaveDesc": "",
+      "successDesc": [],
+      "failureDesc": []
+    }
+  ]
+}

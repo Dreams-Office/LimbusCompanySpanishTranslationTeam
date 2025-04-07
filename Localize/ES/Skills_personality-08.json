@@ -88,6 +88,19 @@
       ]
     },
     {
+      "id": 1080104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guardia",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
       "id": 1080301,
       "levelList": [
         {
@@ -1555,7 +1568,7 @@
         {
           "level": 3,
           "name": "Arpón de Obsesión",
-          "desc": "Inflige más daño based en base a los HP faltantes del enemigo (+0.2% de daño por cada 1% de HP faltante, máx +20%)\n[EndSkill] Si el objetivo es Aturdido o Derrotado, (1+(Reson.-A más alta/2)) aliados con los menores PC curan 10 PC, gana 2 de [Breath], y +4 Contador de [Breath]. (2 veces máx. # Máx de aliados que pueden ser curados: 4)",
+          "desc": "Inflige más daño en base a los HP faltantes del enemigo (+0.2% de daño por cada 1% de HP faltante, máx +20%)\n[EndSkill] Si el objetivo es Aturdido o Derrotado, (1+(Reson.-A más alta/2)) aliados con los menores PC curan 10 PC, gana 2 de [Breath], y +4 Contador de [Breath]. (2 veces máx. # Máx de aliados que pueden ser curados: 4)",
           "coinlist": [
             {},
             {
@@ -1584,7 +1597,7 @@
         {
           "level": 4,
           "name": "Arpón de Obsesión",
-          "desc": "Inflige más daño based en base a los HP faltantes del enemigo (+0.3% de daño por cada 1% de HP faltante, máx +30%)\nPoder de Moneda +1 por cada 5 de [Laceration] en el objetivo (Máx 2)\n[EndSkill] Si el objetivo es Aturdido o Derrotado, (1+(Reson.-A más alta/2)) aliados con los menores PC curan 10 PC, gana 2 de [Breath], y +4 Contador de [Breath]. (2 veces máx. # Máx de aliados que pueden ser curados: 4)",
+          "desc": "Inflige más daño en base a los HP faltantes del enemigo (+0.3% de daño por cada 1% de HP faltante, máx +30%)\nPoder de Moneda +1 por cada 5 de [Laceration] en el objetivo (Máx 2)\n[EndSkill] Si el objetivo es Aturdido o Derrotado, (1+(Reson.-A más alta/2)) aliados con los menores PC curan 10 PC, gana 2 de [Breath], y +4 Contador de [Breath]. (2 veces máx. # Máx de aliados que pueden ser curados: 4)",
           "coinlist": [
             {},
             {

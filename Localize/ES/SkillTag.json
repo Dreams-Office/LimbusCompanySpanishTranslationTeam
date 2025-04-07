@@ -2,11 +2,11 @@
   "dataList": [
     {
       "id": "OnSucceedAttack",
-      "name": "[Tras Golpear]"
+      "name": "[Al Golpear]"
     },
     {
       "id": "WhenUse",
-      "name": "[Tras Usar]"
+      "name": "[Al Usar]"
     },
     {
       "id": "WinDuel",
@@ -74,7 +74,7 @@
     },
     {
       "id": "EndSkill",
-      "name": "[Después de Atacar]"
+      "name": "[Tras Atacar]"
     },
     {
       "id": "StartBattle",
@@ -94,7 +94,7 @@
     },
     {
       "id": "OnSucceedEvade",
-      "name": "[Tras Evadir]"
+      "name": "[Al Evadir]"
     },
     {
       "id": "AlwaysUse",
@@ -110,27 +110,27 @@
     },
     {
       "id": "EnemyKillFail",
-      "name": "[Fallar Asesinato]"
+      "name": "[Fallar en Matar]"
     },
     {
       "id": "ReUse",
-      "name": "[Tras Reusar]"
+      "name": "[Al Reutilizar]"
     },
     {
       "id": "ReUseOnSucceedAttackHead",
-      "name": "[Reusar - Cae en Cara]"
+      "name": "[Reutilizar - Cae en Cara]"
     },
     {
       "id": "CriticalOnSucceedAttack",
-      "name": "[Tras Critico]"
+      "name": "[En Critico]"
     },
     {
       "id": "StartDuel",
-      "name": "[Al Empezar Choque]"
+      "name": "[Inicio de Choque]"
     },
     {
       "id": "EndBattle",
-      "name": "[Finalizar Turno]"
+      "name": "[Fin de Turno]"
     },
     {
       "id": "OnDefeatEvade",
@@ -138,31 +138,31 @@
     },
     {
       "id": "EndSkillHead",
-      "name": "[Ataque termina en Cara]"
+      "name": "[Fin de Ataque con Cara]"
     },
     {
       "id": "EndSkillTail",
-      "name": "[Ataque termina en Sello]"
+      "name": "[Fin de Ataque con Sello]"
     },
     {
       "id": "WinDuelAttackHead",
-      "name": "[Cae en Cara Después de Choque Ganado]"
+      "name": "[Cae en Cara tras Choque Ganado]"
     },
     {
       "id": "WinDuelAttack",
-      "name": "[Tras Golpear Después de Choque Ganado]"
+      "name": "[Al Golpear tras Choque Ganado]"
     },
     {
       "id": "CriticalActivated",
-      "name": "[Tras Critico]"
+      "name": "[En Critico]"
     },
     {
       "id": "CriticalEndSkill",
-      "name": "[Finalizar ataque con Critico]"
+      "name": "[Fin de Ataque En Critico]"
     },
     {
       "id": "CantChangeTarget",
-      "name": "[Objetivo Fijado]"
+      "name": "[Objetivo Fijo]"
     },
     {
       "id": "TurnStartBattle",
@@ -170,11 +170,11 @@
     },
     {
       "id": "EndSkillAll",
-      "name": "[Finalizar Habilidad]"
+      "name": "[Fin de Habilidad]"
     },
     {
       "id": "WhenUse_Force",
-      "name": "<color=#26cfff>[Tras Usar]</color>"
+      "name": "<color=#26cfff>[Al Usar]</color>"
     },
     {
       "id": "StartBattle_Force",
@@ -182,11 +182,11 @@
     },
     {
       "id": "TargetKill",
-      "name": "[Tras Matar Objetivo]"
+      "name": "[Al Matar Objetivo]"
     },
     {
       "id": "CriticalTargetKill",
-      "name": "[Tras Matar con Crítico]"
+      "name": "[Al Matar con Crítico]"
     },
     {
       "id": "BeforeUse",
@@ -194,7 +194,7 @@
     },
     {
       "id": "DuelCounter",
-      "name": "[Contaataque de Choque]"
+      "name": "[Contraataque de Choque]"
     },
     {
       "id": "CantBreak",
@@ -206,35 +206,35 @@
     },
     {
       "id": "WhenUseEvade",
-      "name": "[Tras Usar Evadir]"
+      "name": "[Al Usar Evasión]"
     },
     {
       "id": "EndCoin",
-      "name": "[Tras usar la Moneda de Ataque Actual]"
+      "name": "[Tras Ataque de Moneda Actual]"
     },
     {
       "id": "CriticalEnemyTargetKillFail",
-      "name": "[Tras Fallar el Crítico Contra un Enemigo]"
+      "name": "[Al Fallar en Matar con Crítico a un Enemigo]"
     },
     {
       "id": "CriticalEnemyTargetKill",
-      "name": "[Tras Matar con Crítico Contra un Enemigo]"
+      "name": "[Al Matar con Crítico a un Enemigo]"
     },
     {
       "id": "DefeatDuelAttack",
-      "name": "[Golpear después de Choque Perdido]"
+      "name": "[Al Golpear tras Choque Perdido]"
     },
     {
       "id": "TargetKillFail",
-      "name": "[Tras Muerte de Objetivo Fallida]"
+      "name": "[Al Fallar en Matar Objetivo]"
     },
     {
       "id": "AllyKill",
-      "name": "[Tras Asesinato Aliado]"
+      "name": "[Al Matar Aliado]"
     },
     {
       "id": "AllyKillFail",
-      "name": "[Tras Asesinato Aliado Fallido]"
+      "name": "[Al Fallar en Matar Aliado]"
     },
     {
       "id": "TabExplain",
@@ -242,11 +242,19 @@
     },
     {
       "id": "UnBrokenCoinOnSucceedAttack",
-      "name": "[Tras Golpear sin fracturar]"
+      "name": "[Al Golpear sin Romperse]"
     },
     {
       "id": "BeforeHit",
       "name": "[Antes de ser Golpeado]"
-    }
-  ]
-}
+     },
+     {
+       "id": "OnDirectAttack",
+       "name": "[En Ataque Unilateral]"
+     },
+     {
+       "id": "ReUseOnSucceedAttack",
+       "name": "[Reutilizar - Al Golpear]"
+     }
+   ]
+ }

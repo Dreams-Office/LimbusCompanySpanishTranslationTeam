@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": 9018301,
+      "name": "Choques A La Medida",
+      "desc": "Tras Choque Ganado, gana 2 de [Agility] el siguiente turno (una vez por turno)"
+    },
+    {
+      "id": 9019301,
+      "name": "Inhibir Movimientos",
+      "desc": "Tras Choque Ganado, inflige 2 de [Binding] el siguiente turno (una vez por turno)"
+    },
+    {
+      "id": 9018501,
+      "name": "Misión Asignada",
+      "desc": "Inicio de Encuentro: gana [RepressedMurderousIntend]"
+    },
+    {
+      "id": 9018502,
+      "name": "Ímpetu [Mao]",
+      "desc": "Tras Golpear a enemigos con [BurstAgility]: inflige +1 Contador de [Burst] al objetivo (3 veces por turno)"
+    },
+    {
+      "id": 9018503,
+      "name": "Vigor [Mao]",
+      "desc": "Al atacar a objetivos con menor Velocidad que esta unidad, inflige +1 Potencia o Contador de [Burst] adicional"
+    },
+    {
+      "id": 9018504,
+      "name": "Dominador [Mao]",
+      "desc": "Si la Velocidad de esta unidad es mayor que la del objetivo por 3 o más, Poder de Moneda +1"
+    },
+    {
+      "id": 9102001,
+      "name": "El Libro de la Venganza",
+      "desc": "Al ser golpeado, inflige 1 [MiddleFingerBook] contra el atacante (1 vez por objetivo por turno; máx 1)\nAl Usar Habilidades, si el objetivo tiene [MiddleFingerBook], gana ([MiddleFingerBook] / 4) Poder de Choque (máx 2)\n- Si el objetivo tiene 8+ [MiddleFingerBook], gana ([MiddleFingerBook] / 3) Poder Base (máx 3)"
+    },
+    {
+      "id": 9102002,
+      "name": "Tatuaje de la Venganza",
+      "desc": "Cada vez que un aliado del Medio es matado en este encuentro, gana 1 de [AttackUp] (máx 5)"
+    },
+    {
+      "id": 9102003,
+      "name": "Cadenas de Lealtad",
+      "desc": "Cuando un aliado del Medio es asesinado, gana 1 [PlusCoinValueUp] el siguiente turno (máx 2)"
+    },
+    {
+      "id": 9018701,
+      "name": "Cuerpo Licuado",
+      "desc": "Daño Recibido -10%"
+    },
+    {
+      "id": 9018702,
+      "name": "Limpieza de Cadáveres",
+      "desc": "Fin de Turno: si alguien murió este turno, cura 5% de HP\nAl Matar, cura 2~5% de HP"
+    },
+    {
+      "id": 9018703,
+      "name": "Por la Familia",
+      "desc": "Fin de Turno: cura PC iguales al número de Barrenderos sobrevivientes"
+    },
+    {
+      "id": 9018704,
+      "name": "Noche en las Callejuelas",
+      "desc": "Al unirse tras la Segunda Oleada, entra con 30 PC."
+    },
+    {
+      "id": 9102004,
+      "name": "Aprovecha la Oportunidad",
+      "desc": "No puede ser Aturdido mientras tenga una Habilidad de Contrataaque usable en sus Ranuras de Habilidad."
+    }
+  ]
+}

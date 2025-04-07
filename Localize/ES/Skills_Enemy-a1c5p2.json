@@ -760,7 +760,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 1 Poder Ofensivo Reducido el siguiente turno"
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 Poder Ofensivo Reducido el siguiente turno"
                                 }
                             ]
                         },
@@ -834,7 +834,7 @@
                                     "desc": "[OnSucceedAttack] Inflige 20 de daño de HP fijo"
                                 },
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 3 de [Paralysis] el siguiente turno"
+                                    "desc": "[OnSucceedAttackHead] Inflige 3 de [Paralysis] el siguiente turno"
                                 }
                             ]
                         }
@@ -853,7 +853,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 1 de [Paralysis] el siguiente turno"
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 de [Paralysis] el siguiente turno"
                                 }
                             ]
                         }
@@ -898,7 +898,7 @@
                         {
                             "coindescs": [
                                 {
-                                    "desc": "[OnSucceedAttack] Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
+                                    "desc": "[OnSucceedAttackHead] Inflige 1 Debilitamiento de Moneda Positiva el siguiente turno"
                                 }
                             ]
                         },

@@ -1,0 +1,54 @@
+{
+  "dataList": [
+    {
+      "id": 112601,
+      "name": "Misión Asignada",
+      "desc": "Inicio de Encuentro: gana [RepressedMurderousIntend]"
+    },
+    {
+      "id": 112603,
+      "name": "Ímpetu [Mao]",
+      "desc": "Al atacar a objetivos con menor Velocidad que esta unidad, inflige +1 Potencia o Contador de [Burst] adicional e inflige +10% de daño"
+    },
+    {
+      "id": 112602,
+      "name": "Vigor [Mao]",
+      "desc": "Tras Golpear a enemigos con [BurstAgility]: inflige +2 Contador de [Burst] al objetivo (6 veces por turno)"
+    },
+    {
+      "id": 112604,
+      "name": "Dominador [Mao]",
+      "desc": "Al Usar Habilidades, si la Velocidad de esta unidad es mayor que la del objetivo por 2 o más, Poder de Moneda +1"
+    },
+    {
+      "id": 112701,
+      "name": "El Hermano Mayor",
+      "desc": "Inicio de Turno: todos los aliados, incluyendo a esta unidad, curan 10 PC\nRecibe -20% de daño de [Combustion], [Laceration], [Vibration], [Burst], y [Sinking]"
+    },
+    {
+      "id": 112702,
+      "name": "Tatuaje de la Venganza",
+      "desc": "Cada vez que un aliado del Medio es matado en este encuentro, gana 1 de [AttackUp] (máx 5)"
+    },
+    {
+      "id": 112703,
+      "name": "Melena Aún Más Despeinada",
+      "desc": "Si esta unidad pierde 2 Choques, gana 6 de [DefenseDown] el siguiente turno"
+    },
+    {
+      "id": 112704,
+      "name": "El Libro de la Venganza",
+      "desc": "Al ser golpeado, inflige 1 [MiddleFingerBook] contra el atacante, luego gana 1 de [AttackUp] el siguiente turno (máx 5 por turno)\n- Cuando una unidad aliada del Medio es matada por una Habilidad, inflige 2 [MiddleFingerBook] adicionales al atacante"
+    },
+    {
+      "id": 112705,
+      "name": "Heridas de Batalla",
+      "desc": "Empieza el Encuentro con 40% menos de HP (incluyendo Partes)"
+    },
+    {
+      "id": 112707,
+      "name": "Una Peinada y Ya",
+      "desc": "Cuando entra en pánico, se recupera del pánico al inicio del siguiente turno y reinicia los PC a 0."
+    }
+  ]
+}
