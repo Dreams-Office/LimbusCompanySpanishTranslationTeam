@@ -14,8 +14,11 @@ Traducción al Español de Limbus Company
 
 # Instalación
 1.- Descargar el archivo .Zip más actual desde las [Releases](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam/releases) en nuestro Github.
+
 2.- Descomprimir el archivo .Zip y abrir la carpeta del Juego Limbus Company desde Steam.
+
 3.- Arrastrar la carpeta extraída "Lang" dentro de la carpeta del juego "LimbusCompany_Data"
+
 4.- Abrir el juego.
 
 # Preguntas Frecuentes
