@@ -25,7 +25,7 @@ Debido a la implementación del CLS (Custom Language Support) por parte de Proje
 Esperamos a futuro esta herramienta se expanda conforme al tiempo y nos permita nuevamente incorporar distintas carácteristicas y mejoras visuales a la traducción.
 
 ## El parche no se activa cuando abro el juego
-Suele suceder que el juego no detecte de inmediato el nuevo lenguaje. Dentro de la pantalla de inicio del juego, dar click en "Select Custom Language" y seleccionar la opción de "LCSTT - Dreams Office" para que él juego se inicie con la traducción activa.
+Suele suceder que el juego no detecte de inmediato el nuevo lenguaje. Dentro de la pantalla de inicio del juego, dar click en "Select Custom Language" y seleccionar la opción "es-DreamsOffice" para que él juego se inicie con la traducción activa.
 
 ## ¿El parche está disponible para móviles?
 No, solamente está disponible para PC. Tristemente, no hay forma de que el parche esté disponible para la versión de teléfonos sin que se corra riesgo de ban, pues involucraría un .apk y eso no está permitido.
