@@ -9,7 +9,7 @@ Traducción al Español de Limbus Company
 [简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | Español
 </div>
 
-# Instalación
+# Instalación Manual
 1.- Descargar el archivo .Zip más actual desde las [Releases](https://github.com/Dreams-Office/LimbusCompanySpanishTranslationTeam/releases) en nuestro Github.
 
 2.- Descomprimir el archivo .Zip y abrir la carpeta del Juego Limbus Company desde Steam.
@@ -17,6 +17,23 @@ Traducción al Español de Limbus Company
 3.- Arrastrar la carpeta extraída "Lang" dentro de la carpeta del juego "LimbusCompany_Data"
 
 4.- Abrir el juego.
+
+# Instalación Automática
+
+1.- Instalar el launcher oficial del parche.
+Descargar la última versión de Limbus Localization Manager desde su repositorio de [Github](https://github.com/kimght/LimbusLocalizationManager) (la que tiene la etiqueta "Latest", el archivo terminado en "setup.exe") y abrir el instalador.
+Es probable que el antivirus de Windows muestre una alerta por tratarse de una aplicación desconocida, pero no es más que un falso positivo. Para saltearse la alerta, hacer click en "Más información" y luego en el botón "Ejecutar de todas formas".
+Una vez hecho eso, seguir los pasos del instalador.
+
+2.- Abrir el launcher e instalar el parche.
+Terminada la instalación, abrir el launcher, presionar el ícono del mapa y buscar la traducción al español. Luego, darle click al botón "+" y esperar a que el parche se instale.
+En caso de que la carpeta con los archivos locales no se encuentre en la dirección por defecto, entrar a la pestaña de configuración (el ícono de la tuerca) y darle click a la carpeta debajo de "Directorio personalizado del juego" para seleccionar su ubicación.
+
+3.- Abrir el juego desde el launcher.
+Tras haberlo instalado, regresar a la pestaña principal (el ícono de la casa) y presionar el botón de "Actualizar y jugar".
+
+Al abrir el juego desde el launcher, este se asegurará de que estés usando la última versión de la tradución y la descargará automáticamente de no ser ese el caso.
+
 
 # Preguntas Frecuentes
 
