@@ -18,7 +18,7 @@ Traducción al Español de Limbus Company
 
 4.- Abrir el juego.
 
-# Instalación Automática
+# Instalación con Actualización Automática
 
 1.- Instalar el launcher oficial del parche.
 Descargar la última versión de Limbus Localization Manager desde su repositorio de [Github](https://github.com/kimght/LimbusLocalizationManager) (la que tiene la etiqueta "Latest", el archivo terminado en "setup.exe") y abrir el instalador.
