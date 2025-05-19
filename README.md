@@ -34,8 +34,11 @@ Tras haberlo instalado, regresar a la pestaña principal (el ícono de la casa) 
 
 Al abrir el juego desde el launcher, este se asegurará de que estés usando la última versión de la tradución y la descargará automáticamente de no ser ese el caso.
 
+## Si no sabes que hacer, siempre puedes revisar el video tutorial el cual explica como descargarlo correctamente haciendo [Click Aquí](https://youtu.be/cVIrCPO6TPE?si=_eKMzQpiDblstWdT).
+
 
 # Preguntas Frecuentes
+
 
 ## ¿Por qué el juego solo tiene una fuente de texto?/¿Por qué ya no hay sprites traducido?
 Debido a la implementación del CLS (Custom Language Support) por parte de Project Moon, se nos ha limitado varias funciones, una de estas siendo la modificación y exportación de distintas fuentes o sprites dentro del juego.
