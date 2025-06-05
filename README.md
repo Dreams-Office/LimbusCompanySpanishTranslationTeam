@@ -6,7 +6,7 @@
 # LimbusCompanySpanishTranslationTeam
 Traducción al Español de Limbus Company
 
-[![Discord](https://img.shields.io/badge/Discord%20Oficial%20de%20la%20Traducción%20al%20Español-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https%3A%2F%2Fdiscord.gg%2FWfbHG4aZ6f)](https://discord.gg/6FZgnN24ya)
+[![Discord](https://img.shields.io/badge/Discord%20Oficial%20de%20la%20Traducción%20al%20Español-641E16?style=plastic&logo=discord&logoColor=473DBF&link=https%3A%2F%2Fdiscord.gg%2FWfbHG4aZ6f)](https://discord.gg/6FZgnN24ya) (Nuevo)
 
 [简体中文](https://github.com/LocalizeLimbusCompany/LocalizeLimbusCompany) | [Русский](https://github.com/Crescent-Corporation/LimbusCompanyBusRUS) | Español
 </div>
