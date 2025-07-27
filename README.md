@@ -55,6 +55,9 @@ Suele suceder que el juego no detecte de inmediato el nuevo lenguaje. Dentro de 
 ## ¿El parche está disponible para móviles?
 No, solamente está disponible para PC. Tristemente, no hay forma de que el parche esté disponible para la versión de teléfonos sin que se corra riesgo de ban, pues involucraría un .apk y eso no está permitido.
 
+## Me da un error al usar el launcher para instalarlo
+Suele pasar que no encuentre el directorio donde está el juego por diversos motivos, para solucionarlo debes darle al engranaje de opciones y seleccionar la carpeta donde se encuentra el juego. Suele estar en Steamapps/common/Limbus Company o steamlibrary/Limbus Company dependiendo de tu ordenador.
+
 ## ¿Cada cuánto se actualiza la traducción?
 Se intenta sacar una actualización nueva cada semana, pero a veces puede variar un poco porque suele pasar que el contenido que agregan en el juego hace cambios en el código a los que nos tenemos que adaptar.
 
