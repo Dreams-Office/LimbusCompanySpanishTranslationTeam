@@ -39,8 +39,9 @@ Tras haberlo instalado, regresar a la pestaña principal (el ícono de la casa) 
 
 Al abrir el juego desde el launcher, este se asegurará de que estés usando la última versión de la tradución y la descargará automáticamente de no ser ese el caso.
 
-## Si no sabes que hacer, siempre puedes revisar el video tutorial el cual explica como descargarlo correctamente haciendo [Click Aquí](https://youtu.be/cVIrCPO6TPE?si=_eKMzQpiDblstWdT).
+## Si no sabes que hacer, siempre puedes revisar el video tutorial el cual explica como descargarlo correctamente puedes ver el tutorial haciendo click aquí.
 
+[![Watch the video](https://img.youtube.com/vi/cVIrCPO6TPE/maxresdefault.jpg)](https://www.youtube.com/watch?v=cVIrCPO6TPE)
 
 # Preguntas Frecuentes
 
