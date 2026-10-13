@@ -1,74 +1,154 @@
-{
-  "dataList": [
-    {
-      "id": "battle_awaken_20301_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¡Galopad, Rocinante! ¡La justicia ha de prevalecer!"
-    },
-    {
-      "id": "battle_awaken_20301_2",
-      "desc": "E.G.O Activation",
-      "dlg": "¡En Marcha, Rocinante! ¡Una y otra vez, hasta alcanzar nuestros sueños!"
-    },
-    {
-      "id": "battle_awaken_20302_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¡Tomad también esto!"
-    },
-    {
-      "id": "battle_erosion_20302_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "...Aplastadlos."
-    },
-    {
-      "id": "battle_awaken_20303_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¡Ajá! ¡Os electrocutare a todos!!!"
-    },
-    {
-      "id": "battle_erosion_20303_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": ""
-    },
-    {
-      "id": "battle_awaken_20304_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¡¡¡¡¡Salutaciones!!!!! ¡¡¡¡Os ruego que probéis esta sopa!!!!"
-    },
-    {
-      "id": "battle_erosion_20304_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Ewwrrgh... Adelante, come..."
-    },
-    {
-      "id": "battle_awaken_20305_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¡Ahora, Pidamos nuestros deseos!\n¡Deseo que esta roca os golpeé dispuesta y fielmente!"
-    },
-    {
-      "id": "battle_erosion_20305_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Debéis de desearlo... con todo vuestro corazón... Evitareis que la desgracia... caiga ante vosotros..."
-    },
-    {
-      "id": "battle_awaken_20306_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¡¿Qué color contemplan vuestros ojos en esta chispa eléctrica?!"
-    },
-    {
-      "id": "battle_erosion_20306_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Detente... No tomes más de mí..."
-    },
-    {
-      "id": "battle_awaken_20307_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Empapadme con vuestra sangre... ¡sí...!\n ¡Floreced en euforia, floreced! ¡Oh, floreced!"
-    },
-    {
-      "id": "battle_erosion_20307_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡No sabes de nuestra sed! ¡Tomaré vuestra sangre si debo.... y... y...\n y floreceré... con un carmesí mucho más profundo!"
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "battle_awaken_20301_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡A todo galope, Rocinante! ¡La justicia ha de prevalecer!"
+        },
+        {
+            "id": "battle_awaken_20301_2",
+            "desc": "Activación E.G.O",
+            "dlg": "¡En Marcha, Rocinante! ¡Una y otra vez, hasta alcanzar nuestros sueños!"
+        },
+        {
+            "id": "battle_awaken_20302_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Tomad también esto!"
+        },
+        {
+            "id": "battle_erosion_20302_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "... Aplastadlos."
+        },
+        {
+            "id": "battle_awaken_20303_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Ajá! ¡Os electrocutaré a todos!"
+        },
+        {
+            "id": "battle_erosion_20303_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": ""
+        },
+        {
+            "id": "battle_awaken_20304_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡¡¡¡¡Salutaciones!!!!! ¡¡¡¡Os ruego que probéis esta sopa!!!!"
+        },
+        {
+            "id": "battle_erosion_20304_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Ewwrrgh... Adelante, come..."
+        },
+        {
+            "id": "battle_awaken_20305_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Ahora, pidamos nuestros deseos!\n¡Deseo que esta roca os golpee dispuesta y fielmente!"
+        },
+        {
+            "id": "battle_erosion_20305_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Debéis de desearlo... con todo vuestro corazón... Evitaréis que la desgracia... caiga ante vosotros..."
+        },
+        {
+            "id": "battle_awaken_20306_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡¿Qué color contemplan vuestros ojos en esta chispa eléctrica?!"
+        },
+        {
+            "id": "battle_erosion_20306_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Detente... No tomes más de mí..."
+        },
+        {
+            "id": "battle_awaken_20307_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Empapadme con vuestra sangre... sí...!\n ¡Floreced en euforia, floreced! ¡Oh, floreced!"
+        },
+        {
+            "id": "battle_erosion_20307_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡No sabes de nuestra sed! ¡Tomaré vuestra sangre si debo... y... y...\n y floreceré... con un carmesí mucho más profundo!"
+        },
+        {
+            "id": "battle_awaken_20308_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Jeje! Tenéis bastantes deseos... ¡¿Cuál de ellos deseáis que se vuelva realidad?!"
+        },
+        {
+            "id": "battle_erosion_20308_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Joo... ¡esperanzas, deseos, todas esas aflicciones deben ser quebrantadas...!\n¡Para liberaros de vuestro yugo!"
+        },
+        {
+            "id": "battle_awaken_20309_1",
+            "desc": "Activación E.G.O",
+            "dlg": "<i>¡\"ARCANA... SLAVE\"!</i>"
+        },
+        {
+            "id": "battle_awaken_20309_2",
+            "desc": "Activación E.G.O",
+            "dlg": "Escuchadme, vos que sois más azul que la justicia, y más roja que el amor..."
+        },
+        {
+            "id": "battle_awaken_20309_3",
+            "desc": "Activación E.G.O",
+            "dlg": "En el nombre de aquellos sepultados en el destino..."
+        },
+        {
+            "id": "battle_awaken_20309_4",
+            "desc": "Activación E.G.O",
+            "dlg": "He de hacer este juramento a la luz."
+        },
+        {
+            "id": "battle_awaken_20309_5",
+            "desc": "Activación E.G.O",
+            "dlg": "Marcad a los aborrecibles seres que se hayan ante nosotros..."
+        },
+        {
+            "id": "battle_awaken_20309_6",
+            "desc": "Activación E.G.O",
+            "dlg": "dejad que vuestra fuerza se una a la mía,\npara conferir el poder del amor a todos..."
+        },
+        {
+            "id": "battle_erosion_20309_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "A los aborrecibles seres que se hayan entorpeciendo mi senda..."
+        },
+        {
+            "id": "battle_erosion_20309_2",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Nngh... criaturas que no ejercen ni el bien ni el mal,\nseres que merecéis ser purgados..."
+        },
+        {
+            "id": "battle_erosion_20309_3",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Os mostraré el gran poder del amor..."
+        },
+        {
+            "id": "battle_erosion_20309_4",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Ja. Nada de eso importa."
+        },
+        {
+            "id": "battle_erosion_20309_5",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Puesto que alguno debe desempeñar el rol de villano... y tal suerte recae en vos..."
+        },
+        {
+            "id": "battle_erosion_20309_6",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡¡¡Soy la elegida... no soy como vos ni como los vuestros... soy diferente, diferente!!!"
+        },
+        {
+            "id": "battle_awaken_20310_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Habéis sido derrotado! Reglas son reglas... ¡Por ende, ceded vuestro brazo en este instante!"
+        },
+        {
+            "id": "battle_erosion_20310_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡Un amigo! ¡Hay un amigo aquí!\nMuy bien... voy a sacar... ¡tijeras! ¿¡Qué sacaréis vos!?"
+        }
+    ]
 }

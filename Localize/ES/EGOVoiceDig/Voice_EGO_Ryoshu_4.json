@@ -1,84 +1,134 @@
-{
-  "dataList": [
-    {
-      "id": "battle_awaken_20401_1",
-      "desc": "E.G.O Activation",
-      "dlg": "ALARM\n(Arte Llameante Acaba con este Robusto Mundo.)"
-    },
-    {
-      "id": "battle_awaken_20402_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Esta llama también es un éxtasis del arte."
-    },
-    {
-      "id": "battle_erosion_20402_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Las llamas que devoran todo..."
-    },
-    {
-      "id": "battle_awaken_20403_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Hmm, déjame probar un bocado."
-    },
-    {
-      "id": "battle_erosion_20403_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Hora de que sirvas como nutriente... je."
-    },
-    {
-      "id": "battle_awaken_20404_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Yo... siempre he tenido mis ojos sobre ti."
-    },
-    {
-      "id": "battle_erosion_20404_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Resulta que nadie ha venido a tu rescate... Jajaja."
-    },
-    {
-      "id": "battle_awaken_20405_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Abran grande. Relájense y llenen sus gargantas de esta bebida, jeje. "
-    },
-    {
-      "id": "battle_awaken_20405_2",
-      "desc": "E.G.O Activation",
-      "dlg": "Vamos. Todos ustedes, abran grande."
-    },
-    {
-      "id": "battle_erosion_20405_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¿Sientes como el sueño... se apodera de ti?"
-    },
-    {
-      "id": "battle_awaken_20406_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Yo soy la única que se mueve en estas olas... Quebraos."
-    },
-    {
-      "id": "battle_erosion_20406_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Sentaos... ¡os perforaré con la luz fluorescente!"
-    },
-    {
-      "id": "battle_awaken_20407_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Dispérsate. Todas las miradas han de caer sobre esta inmundicia."
-    },
-    {
-      "id": "battle_erosion_20407_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡Desprecio...! ¡Pulsa, estalla con esta ardiente y punzante aversión."
-    },
-    {
-      "id": "battle_awaken_20408_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Resentment, penance... all of it, to no avail.\nI was only reaching out to grasp onto something, anything."
-    },
-    {
-      "id": "battle_erosion_20408_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "I breathe in... and out... but it won't stop hurting..."
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "battle_awaken_20401_1",
+            "desc": "Activación E.G.O",
+            "dlg": "A.L.A.R.M.A.\n(Arte Llameante Acaba con este Robusto Mundo Altruista.)"
+        },
+        {
+            "id": "battle_awaken_20401_2",
+            "desc": "E.G.O Activation",
+            "dlg": "A.L.A.R.M.A.\n(Arte Llameante Acaba con este Robusto Mundo, por Araya)"
+        },
+        {
+            "id": "battle_awaken_20402_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Esta llama también es un éxtasis del arte."
+        },
+        {
+            "id": "battle_erosion_20402_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Las llamas que devoran todo..."
+        },
+        {
+            "id": "battle_awaken_20403_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Hmm, déjame probar un bocado."
+        },
+        {
+            "id": "battle_erosion_20403_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Hora de que sirvas como nutriente... je."
+        },
+        {
+            "id": "battle_awaken_20404_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Yo... siempre he tenido mis ojos sobre ti."
+        },
+        {
+            "id": "battle_erosion_20404_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Resulta que nadie ha venido a tu rescate... jajaja."
+        },
+        {
+            "id": "battle_awaken_20405_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Abran grande. Relájense y llenen sus gargantas de esta bebida, jeje. "
+        },
+        {
+            "id": "battle_awaken_20405_2",
+            "desc": "Activación E.G.O",
+            "dlg": "Vamos. Todos ustedes, abran grande."
+        },
+        {
+            "id": "battle_erosion_20405_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¿Sientes como el sueño... se apodera de ti?"
+        },
+        {
+            "id": "battle_awaken_20406_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Yo soy la única que se mueve en estas olas... Quebraos."
+        },
+        {
+            "id": "battle_erosion_20406_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Sentaos... ¡os perforaré con la luz fluorescente!"
+        },
+        {
+            "id": "battle_awaken_20407_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Dispérsate. Todas las miradas han de caer sobre esta inmundicia."
+        },
+        {
+            "id": "battle_erosion_20407_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡Desprecio...! ¡Pulsa, estalla con esta ardiente y punzante aversión!"
+        },
+        {
+            "id": "battle_awaken_20408_1",
+            "desc": "Activación de E.G.O",
+            "dlg": "El resentimiento y la penitencia fueron en vano,\nsolo estaba esforzándome por aferrarme a algo, lo que fuera."
+        },
+        {
+            "id": "battle_erosion_20408_1",
+            "desc": "Corrosión de E.G.O",
+            "dlg": "Inhalo... exhalo... pero no deja de doler..."
+        },
+        {
+            "id": "battle_awaken_20409_1",
+            "desc": "E.G.O Activation",
+            "dlg": "Los tres cortes: Reforjar el pasado mil veces para cortarlo, redibujar el futuro mil veces para desgarrarlo, rasgar el momento de la circunvolución mil veces más. Sanzendaisekai (三千大世界).\n"
+        },
+        {
+            "id": "battle_awaken_20409_2",
+            "desc": "E.G.O Activation",
+            "dlg": "Los tres cortes:"
+        },
+        {
+            "id": "battle_awaken_20409_3",
+            "desc": "E.G.O Activation",
+            "dlg": "Reforjar el pasado mil veces para cortarlo,"
+        },
+        {
+            "id": "battle_awaken_20409_4",
+            "desc": "E.G.O Activation",
+            "dlg": "redibujar el futuro mil veces para desgarrarlo,"
+        },
+        {
+            "id": "battle_awaken_20409_5",
+            "desc": "E.G.O Activation",
+            "dlg": "rasgar el momento de la circunvolución mil veces más.\nSanzendaisekai (三千大世界)."
+        },
+        {
+            "id": "battle_erosion_20409_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Destruye el futuro consolidado,"
+        },
+        {
+            "id": "battle_erosion_20409_2",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Vive en el solemne pasado."
+        },
+        {
+            "id": "battle_erosion_20409_3",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Desmiembra todo con un solo golpe del Bhadrakalpa."
+        },
+        {
+            "id": "battle_erosion_20409_4",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Sanzendaisekai (三千大世界)."
+        }
+    ]
 }

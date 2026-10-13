@@ -1,69 +1,104 @@
-{
-  "dataList": [
-    {
-      "id": "battle_awaken_20501_1",
-      "desc": "E.G.O Activation",
-      "dlg": "La multitud oprime con fuerza..."
-    },
-    {
-      "id": "battle_awaken_20502_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Eliminando objetivo bajo protocolo."
-    },
-    {
-      "id": "battle_erosion_20502_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Obstáculos serán reprimidos."
-    },
-    {
-      "id": "battle_awaken_20503_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Rezaré por usted, para que definitivamente sea quebrado."
-    },
-    {
-      "id": "battle_erosion_20503_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Antes que cualquier otro, usted... no debería de perdonarme."
-    },
-    {
-      "id": "battle_awaken_20504_1",
-      "desc": "E.G.O Activation",
-      "dlg": "... Alto. No podrá escapar."
-    },
-    {
-      "id": "battle_erosion_20504_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Te destrozaré yo mismo."
-    },
-    {
-      "id": "battle_awaken_20505_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Esta camisa de fuerza... no está ni cerca de detener mi violencia."
-    },
-    {
-      "id": "battle_erosion_20505_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Cabeza... volviéndose... metal... cerebro... aplastado... Termina, comienza. ¡TERMINA, COMIENZA!"
-    },
-    {
-      "id": "battle_awaken_20506_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Esta electricidad es todo lo que me queda... ¡No puedo...!"
-    },
-    {
-      "id": "battle_erosion_20506_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": ""
-    },
-    {
-      "id": "battle_awaken_20507_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Florece desde la sangre, oh hermosa flor. ¡Gratamente te reclamaré como mía!"
-    },
-    {
-      "id": "battle_erosion_20507_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡Más, más! ¡Esto no puede saciar esta sed abrasadora... inundemos las represas!\n¡¡¡¡Penetrémoslos con las raíces!!!"
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "battle_awaken_20501_1",
+            "desc": "Activación E.G.O",
+            "dlg": "La multitud oprime con fuerza..."
+        },
+        {
+            "id": "battle_awaken_20502_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Eliminando objetivo bajo protocolo."
+        },
+        {
+            "id": "battle_erosion_20502_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Obstáculos serán reprimidos."
+        },
+        {
+            "id": "battle_awaken_20503_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Rezaré por usted, para que definitivamente sea quebrado."
+        },
+        {
+            "id": "battle_erosion_20503_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Antes que cualquier otro, usted... no debería de perdonarme."
+        },
+        {
+            "id": "battle_awaken_20504_1",
+            "desc": "Activación E.G.O",
+            "dlg": "... Alto. No podrá escapar."
+        },
+        {
+            "id": "battle_erosion_20504_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Te destrozaré yo mismo."
+        },
+        {
+            "id": "battle_awaken_20505_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Esta camisa de fuerza... no está ni cerca de detener mi violencia."
+        },
+        {
+            "id": "battle_erosion_20505_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Cabeza... volviéndose... metal... cerebro... aplastado... Termina, comienza. ¡TERMINA, COMIENZA!"
+        },
+        {
+            "id": "battle_awaken_20506_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Esta electricidad es todo lo que me queda... ¡No puedo...!"
+        },
+        {
+            "id": "battle_erosion_20506_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": ""
+        },
+        {
+            "id": "battle_awaken_20507_1",
+            "desc": "E.G.O Activation",
+            "dlg": "Florece desde la sangre, oh, hermosa flor. ¡Con gusto te haré mía!"
+        },
+        {
+            "id": "battle_erosion_20507_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "¡Más, más! ¡Esto no puede saciar esta sed abrasadora... inundemos las represas!\n¡¡¡Penetrémoslos con las raíces!!!"
+        },
+        {
+            "id": "battle_awaken_20508_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Capacidad límite del compresor de vapor removida.\nCálculo de observación temporal del vector completado...\nTransformando Pasado Acumulado; manteniendo valor del momentum... Fuego."
+        },
+        {
+            "id": "battle_erosion_20508_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Comprimir. Comprimir. Ignorar reflujo de vapor... no ignorable.\nPasado corrupto. Memoria corrupta.\nUsuario afectado por reflujo temporal, nngh...\nComprensión... fallida..."
+        },
+        {
+            "id": "battle_awaken_20509_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Bañado por la añorante luz lunar, cercenaré tu garganta y reclamaré tu último aliento!"
+        },
+        {
+            "id": "battle_awaken_20509_2",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Bañado por la añorante luz lunar, cercenaré tu garganta!"
+        },
+        {
+            "id": "battle_awaken_20509_3",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Reclamaré tu último aliento!"
+        },
+        {
+            "id": "battle_erosion_20509_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": ""
+        },
+        {
+            "id": "battle_erosion_20509_2",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡Muerte!"
+        }
+    ]
 }

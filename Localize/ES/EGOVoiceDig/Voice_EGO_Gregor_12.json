@@ -1,79 +1,134 @@
-{
-  "dataList": [
-    {
-      "id": "battle_awaken_21201_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Mi brazo... había cambiado."
-    },
-    {
-      "id": "battle_awaken_21202_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Oigan, ¿seguros que podrán soportar esto?"
-    },
-    {
-      "id": "battle_erosion_21202_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Juntos... nos pudriremos."
-    },
-    {
-      "id": "battle_awaken_21203_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¿Qué tal si te leo un cuento?"
-    },
-    {
-      "id": "battle_erosion_21203_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Ya es tarde... todos han sido cautivados."
-    },
-    {
-      "id": "battle_awaken_21204_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Espera y verás... te freirá lo justo para matarte."
-    },
-    {
-      "id": "battle_erosion_21204_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Muajajajaja... ¿Eres el nuevo sujeto de pruebas?"
-    },
-    {
-      "id": "battle_awaken_21205_1",
-      "desc": "E.G.O Activation",
-      "dlg": "No puedo decir que te he traído un regalo... ¡Ajá! ¡Mejor toma esto!"
-    },
-    {
-      "id": "battle_erosion_21205_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡Manos fuera! ... No traten de desenredar estas zarzas.  Es... mejor de esta forma."
-    },
-    {
-      "id": "battle_awaken_21206_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Permíteme... presentarte a esta mansión."
-    },
-    {
-      "id": "battle_erosion_21206_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Criados... ¿Dónde están los criados de esta casa? Debes saber... ¡llévame a ellos, ahora!"
-    },
-    {
-      "id": "battle_awaken_21207_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Qué chico más trágico y desafortunado...\n No puedo hacer nada más que darle mi más sentido pésame."
-    },
-    {
-      "id": "battle_erosion_21207_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¿No es aquella fe solo un vano deseo...? \nDéjala ir, y sumérgete con cuidado en el vacío de este sueño eterno."
-    },
-    {
-      "id": "battle_awaken_21208_1",
-      "desc": "E.G.O Activation",
-      "dlg": "¿Viste un monstruo, eh..? ¡¿Se veía algo <i>así</i> de casualidad?!"
-    },
-    {
-      "id": "battle_erosion_21208_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Miedo, horror y ansiedad. ¡¡En las sombras bajo tu cama yace... un monstruo!!"
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "battle_awaken_21201_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Mi brazo... había cambiado."
+        },
+        {
+            "id": "battle_awaken_21202_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Oigan, ¿seguros que podrán soportar esto?"
+        },
+        {
+            "id": "battle_erosion_21202_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Juntos... nos pudriremos."
+        },
+        {
+            "id": "battle_awaken_21203_1",
+            "desc": "Activación E.G.O",
+            "dlg": "¿Qué tal si te leo un cuento?"
+        },
+        {
+            "id": "battle_erosion_21203_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Ya es tarde... todos han sido cautivados."
+        },
+        {
+            "id": "battle_awaken_21204_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Espera y verás... te freirá lo justo para matarte."
+        },
+        {
+            "id": "battle_erosion_21204_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Muajajajaja... ¿Eres el nuevo sujeto de pruebas?"
+        },
+        {
+            "id": "battle_awaken_21205_1",
+            "desc": "Activación E.G.O",
+            "dlg": "No puedo decir que te he traído un regalo... ¡Ajá! ¡Mejor toma esto!"
+        },
+        {
+            "id": "battle_erosion_21205_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡Manos fuera! ... No traten de desenredar estas zarzas. Es... mejor de esta forma."
+        },
+        {
+            "id": "battle_awaken_21206_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Permíteme... presentarte a esta mansión."
+        },
+        {
+            "id": "battle_erosion_21206_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Criados... ¿Dónde están los criados de esta casa? Debes saber... ¡llévame a ellos, ahora!"
+        },
+        {
+            "id": "battle_awaken_21207_1",
+            "desc": "E.G.O Activation",
+            "dlg": "Qué chico más trágico y desafortunado...\n No puedo hacer nada más que darle mi más sentido pésame"
+        },
+        {
+            "id": "battle_erosion_21207_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "¿No es aquella fe solo un vano deseo...? \nDéjala ir, y sumérgete con cuidado en el vacío de este sueño eterno."
+        },
+        {
+            "id": "battle_awaken_21208_1",
+            "desc": "E.G.O Activation",
+            "dlg": "¿Viste un monstruo, eh..? ¡¿Se veía algo <i>así</i> de casualidad?!"
+        },
+        {
+            "id": "battle_erosion_21208_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Miedo, horror y ansiedad. ¡¡En las sombras bajo tu cama yace... un monstruo!!"
+        },
+        {
+            "id": "battle_awaken_21209_1",
+            "desc": "Activación E.G.O",
+            "dlg": "No temas la ausencia del esplendor."
+        },
+        {
+            "id": "battle_awaken_21209_2",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Esta espada!"
+        },
+        {
+            "id": "battle_awaken_21209_3",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Este honor!"
+        },
+        {
+            "id": "battle_awaken_21209_4",
+            "desc": "Activación E.G.O",
+            "dlg": "¡Y esta gloria!"
+        },
+        {
+            "id": "battle_awaken_21209_5",
+            "desc": "Activación E.G.O",
+            "dlg": "... No serán mancillados."
+        },
+        {
+            "id": "battle_erosion_21209_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "En esta época no añorada,"
+        },
+        {
+            "id": "battle_erosion_21209_2",
+            "desc": "Corrosión E.G.O",
+            "dlg": "en sueños,"
+        },
+        {
+            "id": "battle_erosion_21209_3",
+            "desc": "Corrosión E.G.O",
+            "dlg": "y en esta falsa gloria."
+        },
+        {
+            "id": "battle_erosion_21209_4",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Lo brillante de esta luz no cegará sus ojos..."
+        },
+        {
+            "id": "battle_awaken_21210_1",
+            "desc": "Activación E.G.O",
+            "dlg": "... ¡Ja! ¡Parece que he sacado el premio gordo!\nBien, a los visitantes que se nieguen a cooperar... ¡Les será aplicada la Regla A62GBFE1!"
+        },
+        {
+            "id": "battle_erosion_21210_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Llamando al Administrador... FALLIDO, FALLIDO. Reiniciando... ¡DENEGADO, DENEGADO!\nProtocolo de Captura... ¡CONTINUAR, CONTINUAR! ¡CONTINUAR EJECUCIÓN!"
+        }
+    ]
 }

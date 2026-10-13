@@ -1,84 +1,169 @@
-{
-  "dataList": [
-    {
-      "id": "battle_awaken_20101_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Dime lo que crees que sea el ideal."
-    },
-    {
-      "id": "battle_upgrade_20101_1",
-      "desc": "E.G.O Awakening",
-      "dlg": "Rompe esta jaula,"
-    },
-    {
-      "id": "battle_upgrade_20101_2",
-      "desc": "E.G.O Awakening",
-      "dlg": "Y sé libre."
-    },
-    {
-      "id": "battle_awaken_20102_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Quemo lo que deseo quemar."
-    },
-    {
-      "id": "battle_erosion_20102_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Todo... se volverá cenizas."
-    },
-    {
-      "id": "battle_awaken_20103_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Si es fortuna lo que buscas... reza con toda sinceridad."
-    },
-    {
-      "id": "battle_erosion_20103_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Cuéntame de tu deseo... Vocaliza tu impaciencia..."
-    },
-    {
-      "id": "battle_awaken_20104_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Qué encantadores colores... \nEl camino tiene intención de frustrar todos los intentos de memorizarlos."
-    },
-    {
-      "id": "battle_erosion_20104_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "De hecho, se trata de un callejón abierto."
-    },
-    {
-      "id": "battle_awaken_20105_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Me preocupa que esta fuerte lluvia se filtre entre el paraguas."
-    },
-    {
-      "id": "battle_erosion_20105_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "El aire es muy frío... y las gotas sólo se hacen más gruesas."
-    },
-    {
-      "id": "battle_awaken_20106_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Este es un retrato suyo. ¿Quieres observar... un poco más de cerca?"
-    },
-    {
-      "id": "battle_erosion_20106_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡Vete de una vez, intruso! ¡Abandona este lugar...!"
-    },
-    {
-      "id": "battle_awaken_20107_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Puedo sentir el pesado cañón de un arma descansar en mis entrañas.\n¡Permite a esta bala maldita perforar a través de ellos...!"
-    },
-    {
-      "id": "battle_erosion_20107_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡No hay recuerdos dispersos, como tampoco la necesidad de buscarlos... solo dispara, dispara!"
-    },
-    {
-      "id": "battle_erosion_20107_2",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡No hay recuerdos dispersos, como tampoco la necesidad de buscarlos... solo dispara, dispara!"
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "battle_awaken_20101_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Dime lo que crees que sea el ideal."
+        },
+        {
+            "id": "battle_upgrade_20101_1",
+            "desc": "Liberación de E.G.O",
+            "dlg": "Rompe esta jaula,"
+        },
+        {
+            "id": "battle_upgrade_20101_2",
+            "desc": "Liberación de E.G.O",
+            "dlg": "Y sé libre."
+        },
+        {
+            "id": "battle_awaken_20102_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Quemo lo que deseo quemar."
+        },
+        {
+            "id": "battle_erosion_20102_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Todo... se volverá cenizas."
+        },
+        {
+            "id": "battle_awaken_20103_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Si fortuna es lo que buscas... reza con toda sinceridad."
+        },
+        {
+            "id": "battle_erosion_20103_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Cuéntame de tu deseo… Vocaliza tu impaciencia…"
+        },
+        {
+            "id": "battle_awaken_20104_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Qué encantadores colores...\nEl camino tiene intención de frustrar todos los intentos de memorizarlos."
+        },
+        {
+            "id": "battle_erosion_20104_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "De hecho, se trata de un callejón abierto."
+        },
+        {
+            "id": "battle_awaken_20105_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Me preocupa que esta fuerte lluvia se filtre entre el paraguas."
+        },
+        {
+            "id": "battle_erosion_20105_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "El aire es muy frío... y las gotas solo se hacen más gruesas."
+        },
+        {
+            "id": "battle_awaken_20106_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Este es un retrato suyo. ¿Quieres observar... un poco más de cerca?"
+        },
+        {
+            "id": "battle_erosion_20106_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡Vete de una vez, intruso! ¡Abandona este lugar...!"
+        },
+        {
+            "id": "battle_awaken_20107_1",
+            "desc": "E.G.O Activation",
+            "dlg": "Puedo sentir el pesado cañón de un arma descansar en mis entrañas.\n¡Permite a esta bala maldita perforar a través de ellos...!"
+        },
+        {
+            "id": "battle_erosion_20107_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "¡No hay recuerdos dispersos, como tampoco la necesidad de buscarlos... solo dispara, dispara!"
+        },
+        {
+            "id": "battle_erosion_20107_2",
+            "desc": "E.G.O Corrosion",
+            "dlg": "¡No hay recuerdos dispersos, como tampoco la necesidad de buscarlos... solo dispara, dispara!"
+        },
+        {
+            "id": "battle_awaken_20108_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Fractura el presente mil veces. Fractura los futuros reflejados en los fragmentos mil veces más. Finalmente, el pasado destrozado será añicos. En un instante, la constitución del universo se reunirá en una sola circunvalación... ¡Trisāhasramahāsāhasra!"
+        },
+        {
+            "id": "battle_awaken_20108_2",
+            "desc": "Activación E.G.O",
+            "dlg": "Fractura el presente mil veces (一千)."
+        },
+        {
+            "id": "battle_awaken_20108_3",
+            "desc": "Activación E.G.O",
+            "dlg": "Fractura los futuros reflejados en los fragmentos mil veces más (二千)."
+        },
+        {
+            "id": "battle_awaken_20108_4",
+            "desc": "Activación E.G.O",
+            "dlg": "Finalmente, el pasado destrozado será añicos."
+        },
+        {
+            "id": "battle_awaken_20108_5",
+            "desc": "Activación E.G.O",
+            "dlg": "En un instante, la constitución del universo se reunirá en una sola circunvalación...\n¡Trisāhasramahāsāhasra!"
+        },
+        {
+            "id": "battle_erosion_20108_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Que los quinientos mil millones de mundos sean empapados\npor la nayuta asaṃkhyeya nuevamente."
+        },
+        {
+            "id": "battle_erosion_20108_2",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Dentro de ellos vendré a visitarme,\nquien ha sido partido en kalapas,\ny cuyas inmensurables kalpas del futuro han sido destrozadas."
+        },
+        {
+            "id": "battle_erosion_20108_3",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡Las historias de mí, reducida en polvos! Se dispersarán... y desaparecerán."
+        },
+        {
+            "id": "battle_awaken_20109_1",
+            "desc": "Activación E.G.O",
+            "dlg": "La primera lúgubre campanada retumba. ¡He llegado y conmigo un obituario he traído, pues tu hoguera fúnebre arderá entre esta desgarradora ráfaga de mariposas! ... y a su paso, nada quedará."
+        },
+        {
+            "id": "battle_awaken_20109_2",
+            "desc": "Activación E.G.O",
+            "dlg": "La primera lúgubre campanada retumba."
+        },
+        {
+            "id": "battle_awaken_20109_3",
+            "desc": "Activación E.G.O",
+            "dlg": "¡He llegado y conmigo un obituario he traído,"
+        },
+        {
+            "id": "battle_awaken_20109_4",
+            "desc": "Activación E.G.O",
+            "dlg": "pues tu hoguera fúnebre arderá entre esta desgarradora ráfaga de mariposas!"
+        },
+        {
+            "id": "battle_awaken_20109_5",
+            "desc": "Activación E.G.O",
+            "dlg": "... y a su paso, nada quedará."
+        },
+        {
+            "id": "battle_erosion_20109_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "La primera lúgubre campanada retumba."
+        },
+        {
+            "id": "battle_erosion_20109_2",
+            "desc": "Corrosión E.G.O",
+            "dlg": "El punto proximal y distal cruzan el arco,\nuna probóscide lepidóptera embelesada con la circunferencia de los nectarios."
+        },
+        {
+            "id": "battle_erosion_20109_3",
+            "desc": "Corrosión E.G.O",
+            "dlg": "y en el auge,"
+        },
+        {
+            "id": "battle_erosion_20109_4",
+            "desc": "Corrosión E.G.O",
+            "dlg": "Mi ser linear guiará el círculo al descanso. "
+        }
+    ]
 }

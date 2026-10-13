@@ -1,69 +1,104 @@
-{
-  "dataList": [
-    {
-      "id": "battle_awaken_20601_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Visitemos el mundo de las maravillas."
-    },
-    {
-      "id": "battle_awaken_20602_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Te ataré sólo lo suficiente."
-    },
-    {
-      "id": "battle_erosion_20602_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Juntos de nuevo, clip... clop..."
-    },
-    {
-      "id": "battle_awaken_20603_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Para saltar hacia el siguiente mundo... ¡Upa! ¡Nos vamos!"
-    },
-    {
-      "id": "battle_erosion_20603_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Nada dice... que debo estar situado aquí... jeje."
-    },
-    {
-      "id": "battle_awaken_20604_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Tadaa~ ¡Transformación completa! ¡Ja, tenemos un cargamento lleno!"
-    },
-    {
-      "id": "battle_erosion_20604_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Las gaviotas... ¡no dejan de llorar y gritar desde lo lejos...!"
-    },
-    {
-      "id": "battle_awaken_20605_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Picará~ No saldrá una vez que te corte."
-    },
-    {
-      "id": "battle_erosion_20605_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Inmundicias se anidan dentro de mí... para que puedan renacer como algo útil."
-    },
-    {
-      "id": "battle_awaken_20606_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Un corazón colmado por la tristeza se revienta... justo así"
-    },
-    {
-      "id": "battle_erosion_20606_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "Llora conmigo... Lloremos hasta que nuestros cuerpos revienten."
-    },
-    {
-      "id": "battle_awaken_20607_1",
-      "desc": "E.G.O Activation",
-      "dlg": "Corre, sigue el flujo y vualá~ ¡Ya está!"
-    },
-    {
-      "id": "battle_erosion_20607_1",
-      "desc": "E.G.O Corrosion",
-      "dlg": "¡Jaja! ¡Te atrapé~! Esto es lo que pasa cuando\nno conoces cual es tu lugar y escapas, como un fugitivo."
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "battle_awaken_20601_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Visitemos el mundo de las maravillas."
+        },
+        {
+            "id": "battle_awaken_20601_2",
+            "desc": "Activación E.G.O",
+            "dlg": "Puede que la limpieza de toda impertinencia y desapego carezca de sentido.\nPero aún así, con gusto me lanzo al polvo rojo."
+        },
+        {
+            "id": "battle_awaken_20602_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Te ataré solo lo suficiente."
+        },
+        {
+            "id": "battle_erosion_20602_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Juntos de nuevo, clip... clop..."
+        },
+        {
+            "id": "battle_awaken_20603_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Para saltar hacia el siguiente mundo... ¡Upa! ¡Nos vamos!"
+        },
+        {
+            "id": "battle_erosion_20603_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Nada dice... que debo estar situado aquí... jeje."
+        },
+        {
+            "id": "battle_awaken_20604_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Tadaa~ ¡Transformación completa! ¡Ja, tenemos un cargamento lleno!"
+        },
+        {
+            "id": "battle_erosion_20604_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Las gaviotas... ¡no dejan de llorar y gritar desde lo lejos...!"
+        },
+        {
+            "id": "battle_awaken_20605_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Picará~ No saldrá una vez que te corte."
+        },
+        {
+            "id": "battle_erosion_20605_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Inmundicias se anidan dentro de mí... para que puedan renacer como algo útil."
+        },
+        {
+            "id": "battle_awaken_20606_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Un corazón colmado por la tristeza se revienta... justo así."
+        },
+        {
+            "id": "battle_erosion_20606_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "Llora conmigo... Lloremos hasta que nuestros cuerpos revienten."
+        },
+        {
+            "id": "battle_awaken_20607_1",
+            "desc": "E.G.O Activation",
+            "dlg": "Corre, sigue el flujo y vualá~ ¡Ya está!"
+        },
+        {
+            "id": "battle_erosion_20607_1",
+            "desc": "E.G.O Corrosion",
+            "dlg": "¡Jaja! ¡Te atrapé~! Esto es lo que pasa cuando\nno conoces cual es tu lugar y escapas, como un fugitivo."
+        },
+        {
+            "id": "battle_awaken_20608_1",
+            "desc": "Activación E.G.O",
+            "dlg": "Con gracia solemne, acepto este castigo merecido."
+        },
+        {
+            "id": "battle_awaken_20608_2",
+            "desc": "Activación E.G.O",
+            "dlg": "Con contemplación, oscureceré el cielo despejado;\ncon mi sacrificio, derramaré mi sangre sobre esta tierra."
+        },
+        {
+            "id": "battle_erosion_20608_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "El cielo ha hablado: este manchado y sucio cuerpo no tiene cielo al cual escalar...\nOh, ¡todo lo perverso en este mundo! ¡Permanecerá conmigo por toda la eternidad!"
+        },
+        {
+            "id": "battle_awaken_20609_1",
+            "desc": "Activación E.G.O",
+            "dlg": "La débil luz del farol se extiende sobre el fino papel doblado;\nun solo trazo de poesía se convierte en un Lóng posado sobre un tintero vacío."
+        },
+        {
+            "id": "battle_erosion_20609_1",
+            "desc": "Corrosión E.G.O",
+            "dlg": "¡Un solo respiro hará caer los cielos;"
+        },
+        {
+            "id": "battle_erosion_20609_2",
+            "desc": "Corrosión E.G.O",
+            "dlg": "que la fusión de los ecos haga resonar las campanas del crepúsculo!"
+        }
+    ]
 }
