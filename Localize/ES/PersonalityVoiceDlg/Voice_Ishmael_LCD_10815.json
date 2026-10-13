@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10815_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "\"Un brote de Distorsiones que ocurren de manera colectiva comparten características en\"... uh, características en...\nTsk. Estoy segura de que leí esta parte en el manual. Características en... Ah... lo olvidé."
+        },
+        {
+            "id": "lobby_morning_10815_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "... Aún no me acostumbro a empezar el día tan tarde, después de quedarme en cama a horas tempranas. En mi pasado en el Linaje de la Espada, despertaba antes del amanecer y partía adonde mis pies me llevaran. Aquí en el LCD, hay un superior al que no le gusta la idea de llegar al trabajo tan temprano, entonces me aseguro de llegar a la hora indicada."
+        },
+        {
+            "id": "lobby_noon_10815_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Sé muy bien que el comer en exceso entorpece el cuerpo, entonces siempre trato de cuidar lo que como... Pero se siente muy inapropiado rechazar cada dulce que mis superiores me ofrecen.\n... Además, nunca tuve la oportunidad de probar algo tan dulce y delicioso en mi hogar. Esa es otra razón por la que no es fácil para mí decir un \"No, gracias\"."
+        },
+        {
+            "id": "lobby_night_10815_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Oh... No, no es que tenga algo pendiente. Simplemente estaba memorizando lo que aprendí hoy, aprender cosas nuevas tiende a mantenerme despierta en la noche.\nEl actuar de un Salsu, que se abre camino con su espada, es demasiado diferente a las directrices de esta compañía... sospecho que las lecciones que vienen no me serán fáciles de asimilar."
+        },
+        {
+            "id": "smalltalk_10815_1",
+            "desc": "Charla #1",
+            "dlg": "La mente de mi mentor... aún no recupera su antigua tranquilidad. Tengo mucho que discutir con él sobre S Corp. y el Linaje de la Espada, pero no parece tener ganas de abordar el tema, entonces no tengo más opción que esperar indefinidamente por su recuperación. Hasta entonces, haré lo que deba hacer, permaneceré a su lado para asistirlo como pueda. Y lo que vendrá después... es otro misterio."
+        },
+        {
+            "id": "smalltalk_10815_2",
+            "desc": "Charla #2",
+            "dlg": "Descansar en cuarteles cálidos, rodeada de superiores amables y atentos... Es asombroso y, a la vez, aterrador lo rápido que uno se acostumbra a la complacencia. Creía que mi determinación de regresar a S Corp. era inquebrantable, pero inclusive esa voluntad férrea empieza a tambalearse mientras más días paso en comodidad.\nEn momentos como este, he de recordarme a mí misma... que no debo olvidar. A esforzarme más en mantener el propósito que llevaba en mi corazón cuando dejé S Corp."
+        },
+        {
+            "id": "smalltalk_10815_3",
+            "desc": "Charla #3",
+            "dlg": "Aquellos que buscaban la libertad de blandir sus espadas sin restricción nos abandonaron, mientras que aquellos que compartían con nosotros el deseo de algún día regresar a S Corp. vieron sus vidas cortadas por nada más que la espada de su propio mentor.\nSolo yo... soy la única persona que no se avergüenza de portar el nombre del \"Linaje de la Espada\"."
+        },
+        {
+            "id": "smalltalk_10815_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Estos brazos prostéticos que el Equipo de Comprensión de Fenómenos me ha dado son más de lo que les podía haber pedido, y encima me han regalado tan espléndida espada... Nunca pensé que fueran a ser tan generosos conmigo cuando ya estoy abusando de su hospitalidad.\nHaré todo lo posible para serles útil, y repagar todo lo que me han dado e incluso más. Me rehúso a ser la clase de persona que toma la bondad por sentada."
+        },
+        {
+            "id": "smalltalk_10815_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Mi destreza en combate no se compara a la de mis superiores, ni tampoco soy tan perceptiva o inteligente como la líder del equipo.\nTrazo el arco de mi espada a lo largo de la trayectoria de mi vida, corto lo que debe ser cortado y asesino lo que debe ser asesinado, sea humano o Distorsión. Sin más razón que así es como una Salsu debe de actuar."
+        },
+        {
+            "id": "gacksung_10815_1",
+            "desc": "Aunando",
+            "dlg": "Los vientos pueden desgastarme, las lluvias pueden debilitarme hasta dejarme hueca, pero mi espada jamás perderá su filo. Por lo tanto, no hago más que cumplir con la tarea que se me fue asignada.\n<i> Hahh... </i> Ishmael del Equipo de Razonamiento Investigativo In Situ del LCD. Acorde a lo solicitado, comenzaré con la captura de la Distorsión."
+        },
+        {
+            "id": "neglect_10815_1",
+            "desc": "Inactivo",
+            "dlg": "¿Te importaría mantener un poco la distancia cuando hables? Me dijeron que deambular distraídamente y aglomerarse en confusión alrededor del monitor está estrictamente prohibido."
+        },
+        {
+            "id": "formation_10815_1",
+            "desc": "Desplegar",
+            "dlg": "... ¿Nos vamos ya? Oh, pero debería leer un poco más del manual antes de ir... ¡Ah, voy!"
+        },
+        {
+            "id": "battleentry_10815_1",
+            "desc": "Entrada a Escena",
+            "dlg": "<i> Hahh... </i> Enciende la linterna y despeja el camino por delante."
+        },
+        {
+            "id": "battle_select_10815_1",
+            "desc": "Vista en Batalla",
+            "dlg": "... Retroceda, por favor, se está poniendo en peligro al acercarse."
+        },
+        {
+            "id": "battle_endcommand_10815_1",
+            "desc": "Al Atacar",
+            "dlg": "¡Desenvaino la espada... y mato!"
+        },
+        {
+            "id": "battle_enemy_break_10815_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Cuando todas las libertades de las piedras enemigas están encadenadas..."
+        },
+        {
+            "id": "battle_break_10815_1",
+            "desc": "Aturdido",
+            "dlg": "Este podría ser el momento de retroceder..."
+        },
+        {
+            "id": "battle_kill_10815_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... ¡encierra las piedras y captúralas todas!"
+        },
+        {
+            "id": "battle_dead_10815_1",
+            "desc": "Muerte",
+            "dlg": "Mi espada fue... directa y honesta. Con eso... es suficiente..."
+        },
+        {
+            "id": "choice_success_p_10815_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Es todo gracias a sus enseñanzas, mis superiores."
+        },
+        {
+            "id": "choice_fail_n_10815_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Aún me queda mucho por aprender..."
+        },
+        {
+            "id": "battle_clear_10815_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Supresión completada. Esto debería de cumplir los términos del contrato, pero ahora nunca podremos saber cómo es que esa pobre alma se Distorsionó en una forma así."
+        },
+        {
+            "id": "battle_clear_ex_10815_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "... Está volviendo. De la forma de Distorsión a la forma humana. Este es un resultado que jamás podría haber alcanzado con el actuar de un Salsu.\nFinalmente lo entiendo un poco, lo que debo aprender aquí en el Equipo OSIR antes de partir de vuelta a S Corp."
+        },
+        {
+            "id": "battle_defeat_10815_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Nuestras piedras en el tablero llegaron a posiciones fatales, acorraladas por todos lados. Deberíamos idear una estrategia para contrarrestar esto... Ah. ¿Una carta de explicación y disculpa? Oh, no, lo escribiré, es solo que... Yo... yo nunca antes he tenido que escribir una... Um, de acuerdo. La enviaré inmediatamente si me entrega el formato."
+        }
+    ]
+}

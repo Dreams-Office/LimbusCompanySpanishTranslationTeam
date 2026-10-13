@@ -1,64 +1,64 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10810_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "Cierra la boca y ponte en fila. Preferiría no tener que aguantar un regaño en la asamblea matutina."
+            "dlg": "Cierra la boca y ponte en la fila, por favor. Preferiría no tener que aguantar un regaño en la asamblea matutina."
         },
         {
             "id": "lobby_morning_10810_1",
             "desc": "Saludo Mañanero",
-            "dlg": "... ¿Por qué el trote matutino es opcional?\nNo me importa trotar, pero... no me gusta hacerlo en grupo. Especialmente por las calles..."
+            "dlg": "... ¿Por qué el trote matutino no es opcional?\nNo me molesta trotar, pero... correr por las calles en grupo me es un poco incomodo."
         },
         {
             "id": "lobby_noon_10810_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "¿No te parece buena idea usar estas espadas gigantes como mesas o sillas durante el almuerzo?"
+            "dlg": "¿No crees que sería una buena idea usar estas espadas gigantes como mesas o sillas durante el almuerzo?"
         },
         {
             "id": "lobby_night_10810_1",
             "desc": "Saludo Nocturno",
-            "dlg": "Por supuesto, siempre mantenemos nuestras patrullas en cada zona designada incluso durante la noche... Pero aún así ten cuidado.\nIncluso la sombra del escudo se desvanece bajo la luz de luna."
+            "dlg": "Siempre patrullamos las zona designadas durante la noche... Pero aún así ten cuidado.\nIncluso la sombra del escudo se desvanece bajo la luz de luna."
         },
         {
             "id": "smalltalk_10810_1",
             "desc": "Charla #1",
-            "dlg": "¿Realmente crees que esta espada gigante y este traje completo de armadura nos ralentizará? ¿Sabes que esa idea fue desmantelada hace ya mucho tiempo, no?\nEstas cosas son más livianas de lo que parecen. Es equipo de taller después de todo."
+            "dlg": "No puede ser... Todavía hay gente ahí fuera que en serio piensa que llevar esta espada y esta armadura a la vez nos debería hacer lentos. Ambas son mucho más ligeras de lo que imaginas.\nEs equipamiento hecho en un taller, ¿no debería ser sentido común?"
         },
         {
             "id": "smalltalk_10810_2",
             "desc": "Charla #2",
-            "dlg": "¿Caballería...? Deja aquello para esos caballeros problemáticos que vagan por ahí.\nSomos escudos que trabajan para la Asociación Zwei, no caballeros de cuentos de hadas."
+            "dlg": "Caballería... Probablemente la encontrarías entre esos caballeros problemáticos que vagan por ahí.\nNosotros somos escudos que trabajan para la Asociación Zwei, no caballeros de cuentos de hadas."
         },
         {
             "id": "smalltalk_10810_3",
             "desc": "Charla #3",
-            "dlg": "Esto es más gratificante que estar obsesionada ciegamente con la caza de ballenas, y mucho más que trabajar para un Ala, pero... no puedo quedarme aquí por siempre.\nNo soportó la ironía de vivir protegiendo gente... cuando todavía debo vengarme de esa bastarda."
+            "dlg": "Esto es más gratificante que estar obsesionada ciegamente con la caza de ballenas, y mucho menos aburrido que trabajar para un Ala, pero... no puedo quedarme aquí para siempre.\nNo soportaría la ironía de vivir protegiendo gente... cuando todavía debo vengarme de esa bastarda."
         },
         {
             "id": "smalltalk_10810_4",
             "desc": "Charla Post-Aunamiento 1",
-            "dlg": "Un trabajo discreto, pretendiendo como si estuviesen haciendo algo... Eso es en lo que la asociación sur es buena. Nosotros mantenernos impasibles con estas grandes espadas cerca de nuestros clientes, intimidando a cualquier malhechor antes de que incluso se atrevan a atacar."
+            "dlg": "Un trabajo de protección discreto mientras actúan como si estuviesen haciendo otra cosa, eso es lo que la sucursal sureña hace bien. Nosotros más bien nos mantenemos a un lado del cliente con espada en mano como diciendo... <i>ejem...</i> '¡Atrévete si es que vas a atacar!'... esa es la que diría que es nuestra especialidad."
         },
         {
             "id": "smalltalk_10810_5",
             "desc": "Charla Post-Aunamiento 2",
-            "dlg": "No pongas fe en aquellos \"Caballeros de la Orden\" en el oeste a menos que sean parte de un Ala como La Orden de los Caballeros de la Luna perteneciente a M Corp. De lo contrario, no serán más que Fixers cualquieras de Oficina, así que no te hagas ilusiones.\nSi quieres una protección apropiada, siempre contrata expertos como los Zwei y quédate lejos de tales amateurs."
+            "dlg": "No le tengas mucha fe a esas \"Órdenes de Caballeros\" del oeste a menos que sean parte directa de un Ala, como La Orden de los Caballeros de la Luna de M Corp. por ejemplo. De lo contrario no serán más que Fixers de Oficinas cualquiera.\nSi lo que quieres es una protección profesional... confía siempre en los Zwei y quédate lejos de tales aficionados."
         },
         {
             "id": "gacksung_10810_1",
             "desc": "Aunando",
-            "dlg": "No se preocupen. Ninguna flecha los alcanzará mientras se mantengan detrás de mí."
+            "dlg": "No te preocupes. Mientras estés conmigo, ni una sola flecha te alcanzará."
         },
         {
             "id": "neglect_10810_1",
             "desc": "Inactivo",
-            "dlg": "Oye, ¿dónde te escabulliste? No pensarás saltarte la asamblea matutina, ¿verdad?"
+            "dlg": "¿A dónde es que te escabulles? ¿Acaso piensas saltarte la asamblea matutina?"
         },
         {
             "id": "formation_10810_1",
             "desc": "Desplegar",
-            "dlg": "Alteración en la zona de protección confirmada."
+            "dlg": "Disturbio en la zona de protección confirmado."
         },
         {
             "id": "battleentry_10810_1",
@@ -68,12 +68,12 @@
         {
             "id": "battle_select_10810_1",
             "desc": "Vista en Batalla",
-            "dlg": "Estamos en plena batalla. Se breve."
+            "dlg": "Estamos en plena batalla, por favor sé breve."
         },
         {
             "id": "battle_endcommand_10810_1",
             "desc": "Al Atacar",
-            "dlg": "Individuos potencialmente peligrosos detectados. Comenzando supresión."
+            "dlg": "Individuo peligroso detectado. Comenzando supresión."
         },
         {
             "id": "battle_enemy_break_10810_1",
@@ -83,42 +83,42 @@
         {
             "id": "battle_break_10810_1",
             "desc": "Aturdido",
-            "dlg": "Ah- ¿eh...?"
+            "dlg": "Ah, ¿ah...?"
         },
         {
             "id": "battle_kill_10810_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "... así tu cabeza no sería aplastada por mi espada."
+            "dlg": "... para que tu cabeza no fuera aplastada por mi espada."
         },
         {
             "id": "battle_dead_10810_1",
             "desc": "Muerte",
-            "dlg": "Maldición, nos conquistaron... Necesitamos refuerzos..."
+            "dlg": "Me vencieron... Necesitamos refuerzos..."
         },
         {
             "id": "choice_success_p_10810_2",
             "desc": "Juicio Exitoso",
-            "dlg": "Ejem, ejem. Diría que nuestro rendimiento podría merecer un bono por ir más allá."
+            "dlg": "Mhm mhm. Diría que mi rendimiento podría merecer un bono por este trabajo extra."
         },
         {
             "id": "choice_fail_n_10810_1",
             "desc": "Juicio Fallido",
-            "dlg": "No es cliente mío."
+            "dlg": "No era algo que tuviera que proteger de todos modos."
         },
         {
             "id": "battle_clear_10810_1",
             "desc": "Grito de Victoria",
-            "dlg": "Tuvimos algunos daños colaterales... supongo que se verá reflejado en el informe de rendimiento. Oye, al menos nos las arreglamos para proteger a nuestro cliente."
+            "dlg": "Tuvimos algunos daños colaterales... supongo que se verá reflejado en el informe de rendimiento. Al menos nos las arreglamos para proteger a nuestro cliente."
         },
         {
             "id": "battle_clear_ex_10810_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Sin casualidades, daño colateral mínimo... fue perfecto. Oye, si esto se sabe, algunos ciudadanos importantes de la Ciudad podrían contratarnos para esos trabajos de proteger territorio."
+            "dlg": "Sin incidentes, daño colateral mínimo... ¿fue perfecto? Oye, si esto se hace saber... puede que lleguen varias solicitudes y contratos de trabajos de protección de territorios."
         },
         {
             "id": "battle_defeat_10810_1",
             "desc": "Llanto de Derrota",
-            "dlg": "Protección de territorio fallida... Haah... parece que dejará una marca en el honor de los Zwei."
+            "dlg": "Protección de territorio fallida... Haah... parece que dejaré una mancha en el honor de la Zwei."
         }
     ]
 }

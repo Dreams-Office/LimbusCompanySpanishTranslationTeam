@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10214_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Usted puede albergar una gran curiosidad sobre la voluntad del precepto, no obstante a esta curiosidad suya, el precepto es completamente absoluto. Y todo lo que es absoluto ha de cumplirse."
+        },
+        {
+            "id": "lobby_morning_10214_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Bebo un litro de jugo por la mañana y realizo algunos estiramientos antes de reanudar mis deberes como escolta de los intermediarios. Este precepto no tiene una fecha límite, dado a esto, lo ejerzo de manera perpetua."
+        },
+        {
+            "id": "lobby_noon_10214_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "... El tiempo se ha terminado. La hora límite del precepto era hasta el mediodía. Lamentablemente, usted fue la quinta persona que me ha sonreído entre todos los transeúntes con los que me he encontrado, por lo que debo proceder a cortar su oreja derecha.\nNo se recomienda que se resista e esto, la mayoría de las instancias donde el sujeto se resiste suelen recibir preceptos adicionales que requieran cortes de mayor profundidad y tamaño."
+        },
+        {
+            "id": "lobby_night_10214_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "\"Extingue las luces nocturnas de las Callejuelas tres veces antes de que pasen 6 meses.\"\n... Faust todavía no ha determinado el método exacto con el que ejercerá tal precepto, por lo que cada noche deambulo los callejones iluminados de color neón contemplando mis pensamientos."
+        },
+        {
+            "id": "smalltalk_10214_1",
+            "desc": "Charla #1",
+            "dlg": "Una creencia común es que la voluntad del precepto y la voluntad de la ciudad son idénticas. Independientemente de la veracidad de esto, Faust no requiere comprender la voluntad del precepto para poder cumplir este mismo. No hay necesidad alguna de interpretar la voluntad del precepto, el valor absoluto de este yace en su cumplimiento incondicional. "
+        },
+        {
+            "id": "smalltalk_10214_2",
+            "desc": "Charla #2",
+            "dlg": "En algunas ocasiones suelo pensar que Faust y los preceptos son más similares de lo que inicialmente creí. A través de los mensajeros, los preceptos deambulan todas y cada uno de las calles de la ciudad, tal y como Faust lo hacía en el pasado en búsqueda de conocimiento.\nSin embargo, tales ocasiones ahora deben ser olvidadas. Si uno sigue las órdenes de los preceptos, la voluntad de la ciudad se revelará ante uno."
+        },
+        {
+            "id": "smalltalk_10214_3",
+            "desc": "Charla #3",
+            "dlg": "Faust parece no ser capaz de percibir que la acumulación e interpretación de conocimiento es un objetivo fútil en la Ciudad.\nQuizá esa nesciencia sea la razón por la que han intentado despojar mi derecho de acceso... intentos que, a su vez, han sido fútiles. Quizá eso también sea la voluntad del precepto."
+        },
+        {
+            "id": "smalltalk_10214_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "El dedo índice es el que apunta, tal y como lo hace el precepto, al camino que debemos de seguir. De ahí es donde el índice consigue su nombre.\nNada de esto es resultado de simple mera casualidad. Incluso todos aquellos individuos que se oponen a los preceptos ya han sido considerados por la voluntad del precepto."
+        },
+        {
+            "id": "smalltalk_10214_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "No es de importancia alguna para Faust que se le asigne el título de procuradora o mensajera, pues tales decisiones no son para que Faust las tome.\nAcabar con personas, recibir preceptos, asumir mi papel dentro del Índice, le es todo indiferente a Faust."
+        },
+        {
+            "id": "neglect_10214_1",
+            "desc": "Inactivo",
+            "dlg": "Hmm. Refractar la luz a través de un espejo poligonal... No, esta no puede ser la interpretación correcta al precepto de \"dividir las luces.\""
+        },
+        {
+            "id": "gacksung_10214_1",
+            "desc": "Aunando",
+            "dlg": "Se ha recibido un nuevo precepto: \"Degüella siete habitantes de las Callejuelas que muestren resistencia al colocarles una espada en la garganta.\" El conteo es exacto, siete de ustedes se imponen ante mí. Daré este deber por comenzado."
+        },
+        {
+            "id": "formation_10214_1",
+            "desc": "Desplegar",
+            "dlg": "Precepto recibido."
+        },
+        {
+            "id": "battleentry_10214_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Hacia donde ordene el precepto."
+        },
+        {
+            "id": "battle_select_10214_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Conversar no es una violación del precepto."
+        },
+        {
+            "id": "battle_endcommand_10214_1",
+            "desc": "Al Atacar",
+            "dlg": "Blando mi espada, según lo ordena el precepto."
+        },
+        {
+            "id": "battle_enemy_break_10214_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Por favor manténgase quieto. Usted debe de ser cortado cinco veces más."
+        },
+        {
+            "id": "battle_break_10214_1",
+            "desc": "Aturdido",
+            "dlg": "Nngh..."
+        },
+        {
+            "id": "battle_kill_10214_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Ha sido cumplido."
+        },
+        {
+            "id": "battle_dead_10214_1",
+            "desc": "Muerte",
+            "dlg": "¿Acaso el precepto ordenó mi muerte...?\nsi no fue así... ¿por voluntad de quién ha acontecido esto...? "
+        },
+        {
+            "id": "choice_success_p_10214_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Se ha cumplido."
+        },
+        {
+            "id": "choice_fail_n_10214_1",
+            "desc": "Juicio Fallido",
+            "dlg": "El precepto ordenó este fracaso."
+        },
+        {
+            "id": "battle_clear_10214_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Se lidiará con todos aquellos individuos que negligentemente optaron por no ejercer la voluntad del precepto. Este proceso, sin embargo, puede verse algo obstruido por mi necesaria participación en la siguiente tarea: \"Corta 663 tiras de cabello y guárdalas en un sobre que deberá ser depositado por la salida #3.\" dicho esto, no hay necesidad alguna de preocuparse."
+        },
+        {
+            "id": "battle_clear_ex_10214_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "El precepto ha sido cumplido. La naturaleza explícita de este ha hecho su ejecución una simple y conveniente. Como acaba de apreciar, aunque múltiples individuos hayan mostrado signos de resistencia esta ha sido totalmente en vano."
+        },
+        {
+            "id": "battle_defeat_10214_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "... Esta derrota no se le puede atribuir al precepto, pues ha sido yo la que ha fallado, y esta derrota se encuentra también en el diseño de los preceptos. Yo no soy nada más que una minúscula partícula destinada a desperecer de la Ciudad, pronto a ser reemplazada por un nuevo prosélito o procurador. Tal es la dirección a la cual apuntó el precepto."
+        }
+    ]
+}

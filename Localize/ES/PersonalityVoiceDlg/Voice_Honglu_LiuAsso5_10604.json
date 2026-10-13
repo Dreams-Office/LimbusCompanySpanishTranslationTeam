@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10604_1",
@@ -13,7 +13,7 @@
         {
             "id": "lobby_noon_10604_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Una taza de té siempre va después de una comida grasosa~ ¿Se te apetece un poquito?"
+            "dlg": "Una taza de té siempre va bien después de una comida grasosa~ ¿Se te apetece un poquito?"
         },
         {
             "id": "lobby_night_10604_1",
@@ -33,17 +33,17 @@
         {
             "id": "smalltalk_10604_3",
             "desc": "Charla #3",
-            "dlg": "¿Cómo prender fuego...? La clave está en no cuestionarlo.\nDéjame decirte que no sirve de nada preguntarse esas cositas, tontito~"
+            "dlg": "¿Cómo prender fuego...? La clave está en no cuestionarse como.\nDéjame decirte que no sirve de nada preguntarse esas cositas, tontito~"
         },
         {
             "id": "smalltalk_10604_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "¿Te interesan las hojas que uso para mi té? Claro que puedo enseñarte~\nAh... Debí de haber mencionado que el kit de té y las hierbas que tengo son bastante caros... Um, ¿estás bien?"
         },
         {
             "id": "smalltalk_10604_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "Si estas interesado en practicar artes marciales, yo puedo darte una mano~\nDe hecho, llegué a instruir a un par de compañeros de trabajo de la Sección 6~ ¡Estoy seguro de que seré un buen 'sensei'!"
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Si estas interesado en practicar artes marciales, yo puedo darte una mano~\nDe hecho, llegué a instruir a un par de compañeros de trabajo de la Sección 6~ ¡Así que estoy seguro de que lo haría muy bien!"
         },
         {
             "id": "neglect_10604_1",
@@ -98,7 +98,7 @@
         {
             "id": "choice_success_p_10604_2",
             "desc": "Juicio Exitoso",
-            "dlg": "Seguí un dulce aroma."
+            "dlg": "Seguí el buen aroma."
         },
         {
             "id": "choice_fail_n_10604_1",
@@ -117,7 +117,7 @@
         },
         {
             "id": "battle_defeat_10604_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "Vamos, algo de té nos servirá de consuelo. Estas cosas suelen pasar de vez en cuando, ¿no?"
         }
     ]

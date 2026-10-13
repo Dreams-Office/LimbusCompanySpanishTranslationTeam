@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11215_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Bien, permíteme darte la bienvenida a nuestro humilde equipo de investigación. Toma. Perdí una apuesta hoy así que le estoy comprando un cafecito a todos."
+        },
+        {
+            "id": "lobby_morning_11215_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Ah... ¿Es hora de que haga control en el laboratorio? Perdón, ¿te importaría hacerte cargo del control matutino? Haré otro en la tarde. Siento que si le sigo negando el sueño a mi cuerpo... podría morir."
+        },
+        {
+            "id": "lobby_noon_11215_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "¿Ves? Nuestros cuerpos se encuentran actualmente abrumados por la somnolencia postprandial, causada por un exceso en el consumo de carbohidratos, es el momento perfecto para tomar un café.\nOtros momentos ideales son dentro de 1 hora, 2 horas y 30 minutos, 4 horas, 6 horas y 6 horas y 30 minutos."
+        },
+        {
+            "id": "lobby_night_11215_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "¿Aún no sales del trabajo? Tenía el presentimiento de que te encontraría aquí. Bueno, parece que pasaremos la noche en el trabajo, ¿por que no te acercas por un momento? Déjame mostrarte algo interesante, no compensa el tiempo extra, pero es algo.\nOtro departamento nos visitará pronto par una revisión médica..."
+        },
+        {
+            "id": "smalltalk_11215_1",
+            "desc": "Charla #1",
+            "dlg": "Liderar a otros es doloroso... aunque no me preocupan las incongruencias que puedan haber entre mis compañeros y yo.\nPero ser obligado a tomar el liderazgo en contra de mi voluntad... es algo que no puedo soportar."
+        },
+        {
+            "id": "smalltalk_11215_2",
+            "desc": "Charla #2",
+            "dlg": "Potencialidad... qué palabra más cruel. No hace más que provocar que las esperanzas de que algo bueno sucederá te sigan como si fueran una maldición... o un fantasma.\nBueno, a decir verdad.. La vida sería mucho más fascinante si fuéramos a creer que la magia y las espíritus existen, ¿no?"
+        },
+        {
+            "id": "smalltalk_11215_3",
+            "desc": "Charla #3",
+            "dlg": "Espera. ¿Eres quien entregó este reporte? O bien la falta de sueño me ha causado estragos, o las cifras que anotaste aquí están absurdamente fuera del margen... Y ni hablemos con el diseño a medias del experimento como tal, el cual carece de lógica alguna.\n... Ah, aun así, veo que te esforzaste. Ve a tomarte un descanso, ¿okey? Trasnocharte no te ayudará a escribir un buen reporte de la nada. Estas cosas precisan de una mente clara e intelectual."
+        },
+        {
+            "id": "smalltalk_11215_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "No es la primera brecha de contención de Peccatulas con la que hemos lidiado, pero... Puff... una brecha de contención de Peccatulas de clase 3 es... todo un reto. Yi Sang, Faust, les dejaré la pelea a ustedes por ahora.\nSería negligente perder la oportunidad de compilar un reporte del daño sufrido en enfrentamientos con el uso de E.G.O contra múltiples oponentes."
+        },
+        {
+            "id": "smalltalk_11215_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "... Y así las piedras rodaron y rodaron, hasta eventualmente formar una pila gigantesca, El fin de los desechos que ni siquiera pudieron volverse distorsiones... Su potencialidad se ha de haber manifestado como una imparable inercia que rueda cuesta abajo, y... Hahh."
+        },
+        {
+            "id": "neglect_11215_1",
+            "desc": "Inactivo",
+            "dlg": "¡...! Ha sido un sueño. Hahh... Aún... puedo recordarlo todo."
+        },
+        {
+            "id": "gacksung_11215_1",
+            "desc": "Aunando",
+            "dlg": "Activando el analizador estructural... Mm. Funciona. Bien, grábense bien esa forma en sus cabezas, porque si llego a tener un resultado indeseado con el Monolito... bien podría terminar así.\nVean bien los puntos débiles ahora mismo, para que luego puedan eliminarme rápido. ¿Entendido?"
+        },
+        {
+            "id": "formation_11215_1",
+            "desc": "Desplegar",
+            "dlg": "Confiarle la realización de esfuerzo físico constante a un investigador no es una buena estrategia."
+        },
+        {
+            "id": "battleentry_11215_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Si no hay nadie más a la altura de las circunstancias... entonces supongo que resolver esto depende de mí."
+        },
+        {
+            "id": "battle_select_11215_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Un experimento está en proceso. Tenga sumo cuidado al controlar las variables."
+        },
+        {
+            "id": "battle_endcommand_11215_1",
+            "desc": "Al Atacar",
+            "dlg": "Hagamos algunas pruebas."
+        },
+        {
+            "id": "battle_enemy_break_11215_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Un esfuerzo admirable. Pero..."
+        },
+        {
+            "id": "battle_break_11215_1",
+            "desc": "Aturdido",
+            "dlg": "Ngh... Ja."
+        },
+        {
+            "id": "battle_kill_11215_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... No es nada de otro mundo."
+        },
+        {
+            "id": "battle_dead_11215_1",
+            "desc": "Muerte",
+            "dlg": "Bueno... Supongo que yo tampoco era tan excepcional..."
+        },
+        {
+            "id": "choice_success_p_11215_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "El trabajo dio un buen resultado. Hm. Una mayor velocidad de reacción, tal y como esperaba."
+        },
+        {
+            "id": "choice_fail_n_11215_1",
+            "desc": "Juicio Fallido",
+            "dlg": "El trabajo dio un mal resultado. Bueno. Me sirve. La taza de producción ha aumentado."
+        },
+        {
+            "id": "battle_clear_11215_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Por lo visto hay algunas irregularidades cuestionables en los resultados de la prueba. Está bien. El fracaso es de esperar de las mentes ordinarias, hacer el esfuerzo por superarlo es lo que define a un investigador ideal. He de admitir que encuentro dicho esfuerzo impresionante. Pues es algo que nunca he hecho ni tuve que hacer."
+        },
+        {
+            "id": "battle_clear_ex_11215_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Hm... Muy bien. Le enviaré el reporte directo a los superiores. Las cifras se ven prometedoras. Ah, el de ahí, ¿ya descansaste bien? Entonces ve y entrégalo por mí... toma este también.\nEs un reporte de tu experimento. Le hice un par de ajustes, realiza la prueba de nuevo.\n¿Hmm...? ¿Por qué me agradeces? Te otorgué mi apoyo por mera virtud de poseer una mente superior."
+        },
+        {
+            "id": "battle_defeat_11215_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "La ira no es más que una emoción repulsiva... Pero... las fluctuaciones en el estado emocional pueden ocurrir al volver a experimentar el pasado... Fuu..."
+        }
+    ]
+}

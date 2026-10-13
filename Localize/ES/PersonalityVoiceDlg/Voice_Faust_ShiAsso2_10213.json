@@ -1,0 +1,129 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10213_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "La lluvia azota los corazones agitados.\nEcos invaden el callejón aglomerado.\nJunto con la lluvia... también han cesado."
+        },
+        {
+            "id": "lobby_morning_10213_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Que la asociación opere solo en la noche no es más que un rumor infundado; nuestras operaciones son basadas en decisiones prácticas y varían para cada objetivo. Existimos incluso entre la penumbra de la noche y la brisa del amanecer."
+        },
+        {
+            "id": "lobby_noon_10213_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "¿No se dará un respiro para disfrutar de una taza de té? Uno nunca debe olvidar tomar descansos, incluso estando inundados en continuo trabajo. Si ignora este simple hecho, tal vez pueda verse forzado a dejar viva una vida que no se supone que debiera ver el mañana."
+        },
+        {
+            "id": "lobby_night_10213_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "La hora es tardía. Descanse, y no se exponga innecesariamente a la brisa nocturna. ... Faust prefiere visualizar solo un tipo de vida a esta hora: objetivos en movimiento."
+        },
+        {
+            "id": "smalltalk_10213_1",
+            "desc": "Charla #1",
+            "dlg": "La respuesta correcta para los asesinatos no siempre es la misma. Cualquier cosa... sea una espada, flecha o incluso un guijarro en el suelo pueden ser armas efectivas para concluir la tarea.\nCada rama solo ha elegido armas diferentes que puedan acomodarse mejor a sus entornos. Y para nosotros, sucede que es la Arcoespada."
+        },
+        {
+            "id": "smalltalk_10213_2",
+            "desc": "Charla #2",
+            "dlg": "Uno podría preguntarse si la oferta no es demasiada pequeña comparada con la demanda... como también Faust lo hace en cierto grado. Ya que, al fin y al cabo, el resentimiento inunda la Ciudad al igual que lo hace esta lluvia torrencial.\n... Por lo cual... es inevitable que solo unos cuantos sean capaces de realizar la labor."
+        },
+        {
+            "id": "smalltalk_10213_3",
+            "desc": "Charla #3",
+            "dlg": "Un tiro directo siempre acertará. Y si no lo hace, solo puede haber una explicación: un apego innecesario y excesivo hacia el objetivo.\nEl objetivo no tiene cara, no tiene historia, no tiene familias ni amigos. Aquellos que visualizan estos aspectos en el objetivo no tienen cabida en esta ocupación."
+        },
+        {
+            "id": "smalltalk_10213_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Incluso en la Ciudad de inequidades, una cosa resta en igualdad: la muerte.\nTanto para el méndigo que se arrodilla en el húmedo pavimento... así como para el usurero que lo denigra por encima.\n... Ambos contratos se han completado."
+        },
+        {
+            "id": "smalltalk_10213_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Por supuesto que los arcos no son herramientas universalmente adecuadas para todas las situaciones, esa es la razón de por qué también tiene un filo. Un asesino equipado y capaz de concretar tanto combate cuerpo a cuerpo como a larga distancia es... un oponente formidable."
+        },
+        {
+            "id": "neglect_10213_1",
+            "desc": "Inactivo",
+            "dlg": "... ¿Le gustaría escuchar la lluvia, conmigo?"
+        },
+        {
+            "id": "gacksung_10213_1",
+            "desc": "Aunando",
+            "dlg": "Cargar la flecha, tensa y soltar... haciendo un agujero en el objetivo, cayendo. Un proceso simple y directo, con poco margen de error."
+        },
+        {
+            "id": "formation_10213_1",
+            "desc": "Desplegar",
+            "dlg": "¿El objetivo ha sido designado?"
+        },
+        {
+            "id": "battleentry_10213_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Uchiokoshi (Levantando el arco)."
+        },
+        {
+            "id": "battle_select_10213_1",
+            "desc": "Vista en Batalla 1",
+            "dlg": "Esperando el momento apropiado."
+        },
+        {
+            "id": "battle_select_10213_2",
+            "desc": "Vista en Batalla 2",
+            "dlg": "... Objetivo en la mira."
+        },
+        {
+            "id": "battle_endcommand_10213_1",
+            "desc": "Al Atacar",
+            "dlg": "Sé enterrado entre la lluvia torrencial."
+        },
+        {
+            "id": "battle_enemy_break_10213_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Un disparo limpio al pulmón."
+        },
+        {
+            "id": "battle_break_10213_1",
+            "desc": "Aturdido",
+            "dlg": "Mm..."
+        },
+        {
+            "id": "battle_kill_10213_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "En el blanco."
+        },
+        {
+            "id": "battle_dead_10213_1",
+            "desc": "Muerte",
+            "dlg": "Una vez más. La igualdad es un concepto universal... incluso... para mí."
+        },
+        {
+            "id": "choice_success_p_10213_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Una tarea básica para un asesino."
+        },
+        {
+            "id": "choice_fail_n_10213_1",
+            "desc": "Juicio Fallido",
+            "dlg": "... Apunté demasiado arriba."
+        },
+        {
+            "id": "battle_clear_10213_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Contrato completado. Aunque fue lamentable recurrir al combate cuerpo a cuerpo... no hubo testigos."
+        },
+        {
+            "id": "battle_clear_ex_10213_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Las gotas de lluvia torrencial envuelve el sonido de las flechas arribando su destinatario, y ellos mueren en la tormenta sin saber qué los ha matado.\nAsí es como la sección del este asesina."
+        },
+        {
+            "id": "battle_defeat_10213_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "A pesar de impregnar este arco con mi propia sangre... ni la oportunidad ni la suerte estuvieron a mi favor. Dado a que el fallo en completar un contrato se resuelve con la muerte... este será mi fin, por haber tropezado en el lado incorrecto del umbral de la muerte."
+        }
+    ]
+}

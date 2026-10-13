@@ -1,59 +1,59 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10207_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "Empezando trabajo en la Anormalidad Contenida T-01-54."
+            "dlg": "Iniciando trabajo en la cámara de contención de la Anormalidad T-01-54."
         },
         {
             "id": "lobby_morning_10207_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Buenos días, Gerente. Por favor, comparte conmigo la lista descendente de Trabajo para las Anormalidades de hoy, y lo transmitiré al equipo."
+            "dlg": "Buenos días, gerente. Por favor, comparta conmigo la lista de trabajo para las Anormalidades en orden descendiente de el día de hoy, después la compartiré con el resto de el equipo."
         },
         {
             "id": "lobby_noon_10207_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Me parece que los Empleados están teniendo un lindo almuerzo juntos. Los Agentes del Equipo de Control no tenemos preferencia por comer en grupos... Pero debo preguntarme si eso es lo que la Srta. Malkuth quisiera que hagamos."
+            "dlg": "Parece ser que los empleados se están reuniendo para poder almorzar juntos de manera amena. Nosotros, los gaentes del equipo de control, no tenemos preferencia por tales actividades... Aun así, me pregunto si esto es lo que la Srta. Malkuth hubiese querido."
         },
         {
             "id": "lobby_night_10207_1",
             "desc": "Saludo Nocturno",
-            "dlg": "Progreso del Trabajo en 95%. No deberíamos tener problema en llegar al objetivo de Cajas-PE hoy. Buen trabajo."
+            "dlg": "El progreso de tareas finalizadas ha llegado a un 95%. No debería haber problema alguno completando el objetivo de Cajas-PE de hoy. Excelente trabajo."
         },
         {
             "id": "smalltalk_10207_1",
             "desc": "Charla #1",
-            "dlg": "¿El 'Asesino Abandonado'? Hm. Supongo que destaca en que no tiene una preferencia por algún tipo de Trabajo en particular. Sin embargo, parecía que evitar el Trabajo de Represión es aconsejable."
+            "dlg": "¿El 'Asesino Abandonado'? Hm. Supongo que destaca en su falta de preferencia por algún tipo de trabajo en particular. Sin embargo, se aconseja evitar el trabajo de represión."
         },
         {
             "id": "smalltalk_10207_2",
             "desc": "Charla #2",
-            "dlg": "Preveo poco problema adelante, siempre y cuando el empleado asignado tenga comprensión decente de este Trabajo. Un mal resultado, sin embargo, podría llevar a la Anormalidad a romper contención."
+            "dlg": "Siempre y cuando un empleado que posea un conocimiento adecuado del trabajo esté a cargo, se puede prever poco a ningún problema en el trabajo. Un mal resultado, por el otro lado, puede causar a la Anormalidad que rompa contención."
         },
         {
             "id": "smalltalk_10207_3",
             "desc": "Charla #3",
-            "dlg": "Los trajes E.G.O asignados a nosotros se ven adecuados. Sin embargo, he estado escuchando reportes de empleados con fortaleza mental más débil que se siente como si la camisa de fuerza se contrajera alrededor de ellos. Estos trajes son débiles a daño BLANCO, después de todo..."
+            "dlg": "Los trajes E.G.O asignados parecen ser los adecuados. No obstante, estos trajes presentan una debilidad al daño WHITE, lo que ha causado que empleados con una fortitud mental más pobre reporten que la chaqueta de fuerza se comprime contra ellos."
         },
         {
             "id": "smalltalk_10207_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "Este Regalo E.G.O no es tan incómodo como esperaba. Aunque fue equipado sin mi conocimiento."
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Este regalo E.G.O no resulta tan inconveniente como se esperaba. Aunque este haya sido equipado sin mi previo consentimiento."
         },
         {
             "id": "smalltalk_10207_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "Tengo curiosidad: ¿Cómo se siente cuando su cabeza lentamente se transforma en metal? ¿Puede sentirlo? ¿Su cabeza suena cuando este martillo aplasta a nuestros enemigos?"
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Tengo curiosidad: ¿Acaso es capaz de sentir cuando su cabeza se transforma metálica lentamente? ¿Acaso su cabeza retumba cuando blando este martillo para aplastar a nuestros enemigos?"
         },
         {
             "id": "neglect_10207_1",
             "desc": "Inactivo",
-            "dlg": "... Más ruidos de golpes, otra vez..."
+            "dlg": "... Más golpeteos con la cabeza, una vez más..."
         },
         {
             "id": "gacksung_10207_1",
             "desc": "Aunando",
-            "dlg": "Capitana del Equipo de Control, Agente Faust. Comenzando supresión de la Ordalía del Amanecer del Verde según órdenes del Gerente."
+            "dlg": "Capitana del equipo de control, agente Faust. Bajo órdenes del gerente doy por comenzada la supresión de la ordalía del Amanecer del Verde."
         },
         {
             "id": "formation_10207_1",
@@ -68,12 +68,12 @@
         {
             "id": "battle_select_10207_1",
             "desc": "Vista en Batalla",
-            "dlg": "¿Necesita algún otro Trabajo por hacer?"
+            "dlg": "¿Requiere que se realice más trabajo?"
         },
         {
             "id": "battle_endcommand_10207_1",
             "desc": "Al Atacar",
-            "dlg": "Brecha de Contención confirmada."
+            "dlg": "Brecha de contención confirmada."
         },
         {
             "id": "battle_enemy_break_10207_1",
@@ -88,37 +88,37 @@
         {
             "id": "battle_kill_10207_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Entidad escapada neutralizada."
+            "dlg": "Entidad fugitiva neutralizada."
         },
         {
             "id": "battle_dead_10207_1",
             "desc": "Muerte",
-            "dlg": "Trabajo de Supresión fallido..."
+            "dlg": "Trabajo de supresión fallido..."
         },
         {
             "id": "choice_success_p_10207_2",
             "desc": "Juicio Exitoso",
-            "dlg": "Fue un trabajo extra adecuado."
+            "dlg": "Tarea auxiliar realizada con éxito."
         },
         {
             "id": "choice_fail_n_10207_1",
             "desc": "Juicio Fallido",
-            "dlg": "Este Trabajo no se alinea con mis fortalezas... Haré una nota de ello en los registros."
+            "dlg": "Este trabajo no se alinea con mis fortalezas... Haré nota de ello en los registros."
         },
         {
             "id": "battle_clear_10207_1",
             "desc": "Grito de Victoria",
-            "dlg": "Podemos terminar el Trabajo de Supresión aquí. Regresando a gerencia."
+            "dlg": "Podemos concluir el trabajo de supresión por ahora. Regresando a administración."
         },
         {
             "id": "battle_clear_ex_10207_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Amenaza Suprimida. Recomiendo que te familiarices con estas alarmas. Faust sabe que nos quedan muchos días antes del día 50."
+            "dlg": "Amenaza Suprimida. Recomiendo que se familiarice con estas alarmas. Faust sabe que aún faltan muchas antes de la llegada del día 50."
         },
         {
             "id": "battle_defeat_10207_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "Trabajo de Supresión del Equipo de Control fallido. Solicitando asistencia de los demás departamentos..."
+            "desc": "Llanto de Derrota ",
+            "dlg": "Trabajo de supresión del equipo de control fallido. Solicitando asistencia de los siguientes departamentos..."
         }
     ]
 }

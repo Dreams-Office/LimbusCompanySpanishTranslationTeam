@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10616_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Ups, permiso, permiso~ Oh, continúen con lo que estaban haciendo, no estoy aquí para representar a nadie en un duelo. ¡Un tazón de fideos biangbiang, por favor!"
+        },
+        {
+            "id": "lobby_morning_10616_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Me encantan las mañanas tan bulliciosas y animadas de este lugar. Bueno, la mayoría de ruidos son muebles rompiéndose o gente volando por todas partes. ¡Uy! ... Pero te prometo que si no le prestas mucha atención, y lo ves desde una distancia considerable, los sonidos se entremezclan y crean una atmósfera con un encanto particular."
+        },
+        {
+            "id": "lobby_noon_10616_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Ahhh~ Así que este es el plato que mi colega tanto me recomendaba~ Tanto que me amenazó a enfrentarme en un duelo si seguía sin probarlo la próxima... ¿qué tan bueno será?"
+        },
+        {
+            "id": "lobby_night_10616_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "El Pirojade Virescente no solo es útil para derretir cosas. La noche se cierne... y empieza a hacer algo de frío ¿verdad? Ven, acércate, pronto entrarás en calor."
+        },
+        {
+            "id": "smalltalk_10616_1",
+            "desc": "Charla #1",
+            "dlg": "Hmm... sí, supongo que sí, ¿no? Me pregunto si la gente escoge estos lugares cerca de nuestra sección para las riñas o establecimos la sección aquí porque tipo de conflictos pasan a menudo... Créeme, siempre hay gente peleando por los khezans de los alrededores ante la menor provocación.\nNo es que nos importe~ Al fin y al cabo, solo significa más solicitudes para nosotros."
+        },
+        {
+            "id": "smalltalk_10616_2",
+            "desc": "Charla #2",
+            "dlg": "Disculpa, he notado que evitas entrar en contacto visual conmigo, me preguntaba si... Oh, ¡ya te recuerdo! ¡Fuiste mi oponente en mi último duelo! ¿Están bien tus heridas?\nNo tienes porqué evitarme, solo era trabajo y no tengo nada contra ti. ¿Te gustaría que te invite unos xiaolongbao calentitos? Gané mucho dinero ese día gracias a ti, es lo menos que puedo hacer."
+        },
+        {
+            "id": "smalltalk_10616_3",
+            "desc": "Charla #3",
+            "dlg": "¿No es acaso elegante el mismo concepto de un duelo? En esencia y simpleza, es una competencia de artes marciales sin restricciones creada para lastimar a otros... Pero comenzamos siempre con una reverencia respetuosa, y terminamos con un apretón de manos para volver a como era de costumbre sin guardar resentimientos.\n¿Qué hay de los duelos de Nivel 3? Bueno, no es que nos suelan llamar para esos muy a menudo."
+        },
+        {
+            "id": "smalltalk_10616_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¡Por favor, escoja un arma de su preferencia! Te recomiendo algo con lo que estés familiarizado. Ah, no te preocupes si no ves el tipo arma que sueles usar, solo déjanos saber cual es, y nuestra asociación la traerá en un parpadear de ojos.\nSolo ten en cuenta que solicitar un arma que creas que es imposible de conseguir no es forma de escapar del duelo. Cuál sea el arma que escojas, nos aseguraremos de conseguirla para ti."
+        },
+        {
+            "id": "smalltalk_10616_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Juju, no te alteres demasiado por perder un Duelo de nivel 2. Las reglas no te obligan a arriesgar tu vida, ¿verdad? Así que... ¿por qué no solo te rindes y haces esto más fácil para ambos?\n... <size=75%> Por cierto, nada te detiene de escogerme como representante para el duelo de venganza, y es más, si lo hace, yo ahora mismo le doy un 50% de descuento, jeje.</size>"
+        },
+        {
+            "id": "neglect_10616_1",
+            "desc": "Inactivo",
+            "dlg": "Wow, sabes que lanzarme esa cosa a <i> mí</i> es una declaración de duelo, ¿cierto? Nah, jajaja, bromita."
+        },
+        {
+            "id": "gacksung_10616_1",
+            "desc": "Aunando",
+            "dlg": "Okey. Bien, el Cinq está a cargo del duelo a partir de ahora. Hm... ¿Por qué no te rindes? Es mejor que decidas eso pronto, porque el cuello de tu camisa está <i> así </i> de cerca de prenderse fuego. "
+        },
+        {
+            "id": "formation_10616_1",
+            "desc": "Desplegar",
+            "dlg": "Sí, por qué no. Puedes contar conmigo~"
+        },
+        {
+            "id": "battleentry_10616_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Asociación Cinq, Sección 3 del Este, Hong Lu presentándose."
+        },
+        {
+            "id": "battle_select_10616_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Oh, es una pena terrible. Nos prohíben la sobreventa de solicitudes~"
+        },
+        {
+            "id": "battle_endcommand_10616_1",
+            "desc": "Al Atacar",
+            "dlg": "Le ruego que me conceda este combate."
+        },
+        {
+            "id": "battle_enemy_break_10616_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¿Qué tal ahora? ¿No crees que es mejor rendirte...?"
+        },
+        {
+            "id": "battle_break_10616_1",
+            "desc": "Aturdido",
+            "dlg": "Aja~"
+        },
+        {
+            "id": "battle_kill_10616_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Oh... y eso que te lo advertí."
+        },
+        {
+            "id": "battle_dead_10616_1",
+            "desc": "Muerte",
+            "dlg": "Dicen que \"un verdadero maestro aparece en el momento menos esperado\"... Cuánta verdad..."
+        },
+        {
+            "id": "choice_success_p_10616_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "¿Ves? Abierto."
+        },
+        {
+            "id": "choice_fail_n_10616_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Santo cielo... espero no haberlo soldado con el calor..."
+        },
+        {
+            "id": "battle_clear_10616_1",
+            "desc": "Grito de Victoria",
+            "dlg": "La próxima sería mejor que siguieras el proceso adecuados de solicitud y me confiaras el asunto. Prefiero saber con quien me batiré en duelo antes de venir...\nNo contuve mi fuerza lo necesario y todos mis oponentes murieron antes de persuadirlos a rendirse..."
+        },
+        {
+            "id": "battle_clear_ex_10616_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Listo y hecho, ¡resuelto tal y como lo has solicitado! Aquí está la cuenta... ¿eh? No te ves complacido... ¿pasa algo?\nVeamos... Tarifa de servicio exprés, tarifa por intervención en duelo activo, tarifa por contratación fuera de servicio... Síp, todo está en orden y a un precio razonable. ¿Verdad?"
+        },
+        {
+            "id": "battle_defeat_10616_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Es una lástima. No esperaba que fallar la solicitud... Sí, por supuesto. Cubriré por completo la compensación por mi fracaso. Es solo que... no puedo comprender qué hace una persona con esa habilidad en un lugar como este... Oh, eh... ¡olvida lo que dije!"
+        }
+    ]
+}

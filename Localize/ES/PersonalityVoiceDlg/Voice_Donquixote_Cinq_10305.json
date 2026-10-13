@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10305_1",
@@ -8,7 +8,7 @@
         {
             "id": "lobby_morning_10305_1",
             "desc": "Saludo Mañanero",
-            "dlg": "¡Bonita mañana! Hmhm, ciertamente, otro día brillante. Veamos, A juzgar, ¿quizá debería emprender una alegre caminata?"
+            "dlg": "¡Bonita mañana! Hmhm, Ciertamente, otro día brillante. Veamos, A juzgar, ¿Quizá debería emprender una alegre caminata?"
         },
         {
             "id": "lobby_noon_10305_1",
@@ -33,17 +33,17 @@
         {
             "id": "smalltalk_10305_3",
             "desc": "Charla #3",
-            "dlg": "El arrojar mi guante es una solemne y honorable obvia declaración de mi parte para batirme en duelo! 'Sto es una parte indispensable de la etiqueta del duelo."
+            "dlg": "¡El lanzamiento de guante es un gesto solemne y honorable hacia un adversario! Sta es una parte indispensable de la etiqueta del duelo."
         },
         {
             "id": "smalltalk_10305_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "Una pregunta surge en mi cabeza de vez en cuando... Todos aquellos alcanzados por mi guante se han puesto de un furioso rojo\nMe cuestiono que os habrá hecho enfadar... ¿Será que vuesos simples corazones no son aptos para batiros en un honorable duelo?"
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Una pregunta surge en mi cabeza de vez en cuando… Todos aquellos alcanzados por mi guante se han puesto de un furioso rojo.\nMe cuestiono que os habrá hecho enfadar… ¿Será que vuesos simples corazones no son aptos para batiros en un honorable duelo?"
         },
         {
             "id": "smalltalk_10305_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "El puesto como Director no es más diferente al cual se asocia conmigo! A decir verdad, Yo no os llamo 'mis subordinados', inclusive.\nMantengo un escaso mérito en experiencia, nada más. Sin más que decir, Se podría dar la casualidad de encontrar algun principiante el cual supere mis habilidades en combate!"
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "¡El puesto de un Director no difiere del de mis asociados! A decir verdad, ni siquiera los llamo 'mis subordinados'.\nPues resulta que tengo solo un poco más de experiencia que ellos, nada más. Inclusive, ¡quizá algún nuevo recluta logre superarme en algunos duelos!"
         },
         {
             "id": "neglect_10305_1",
@@ -53,42 +53,42 @@
         {
             "id": "gacksung_10305_1",
             "desc": "Aunando",
-            "dlg": "Ajá! Ser reconocida es de los mayores honores! Os lo agradezco!"
+            "dlg": "¡Ajá! ¡Ser reconocida es de los mayores honores! ¡Os lo agradezco!"
         },
         {
             "id": "formation_10305_1",
             "desc": "Desplegar",
-            "dlg": "Ajá, Una proposición de duelo!"
+            "dlg": "Ajá, ¡Una propuesta de duelo!"
         },
         {
             "id": "battleentry_10305_1",
             "desc": "Entrada a Escena",
-            "dlg": "Tal vez aquel estrecho callejón podria ser de beneficio..."
+            "dlg": "Tal vez aquel estrecho callejón podría serme de beneficio..."
         },
         {
             "id": "battle_select_10305_1",
             "desc": "Vista en Batalla",
-            "dlg": "'S muy desconsiderado de vuesa parte platicarme mientras libro un duelo."
+            "dlg": "Que descortés de vuesa parta platicarme en mitad de un duelo."
         },
         {
             "id": "battle_endcommand_10305_1",
             "desc": "Al Atacar",
-            "dlg": "Allez!"
+            "dlg": "¡Allez!"
         },
         {
             "id": "battle_enemy_break_10305_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "Os Entregáis?"
+            "dlg": "¿Os Entregáis?"
         },
         {
             "id": "battle_break_10305_1",
             "desc": "Aturdido",
-            "dlg": "Tsk..."
+            "dlg": "Tch..."
         },
         {
             "id": "battle_kill_10305_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "'Ha sido un duelo de lo más placentero!"
+            "dlg": "¡Ha sido un duelo de lo más placentero!"
         },
         {
             "id": "battle_dead_10305_1",
@@ -98,7 +98,7 @@
         {
             "id": "choice_success_p_10305_2",
             "desc": "Juicio Exitoso",
-            "dlg": "Poesía en marcha!"
+            "dlg": "¡Poesía en marcha!"
         },
         {
             "id": "choice_fail_n_10305_1",
@@ -108,17 +108,17 @@
         {
             "id": "battle_clear_10305_1",
             "desc": "Grito de Victoria",
-            "dlg": "Un fervoso duelo! Y ustedes no os quedais atras... Hm, Espero ansiosamente un próximo desafío."
+            "dlg": "¡Un ferviente duelo! Y ustedes no os quedáis atrás... Hm, Espero ansiosamente el próximo desafío"
         },
         {
             "id": "battle_clear_ex_10305_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Maravilloso! Me habéis superado en habilidad, aunque solo ha sido un poquito."
+            "dlg": "¡Maravilloso! Me habéis superado en habilidad, aunque solo ha sido un poquito."
         },
         {
             "id": "battle_defeat_10305_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "Ugh... Que desgracia...!"
+            "desc": "Llanto de Derrota ",
+            "dlg": "¡Ugh... Que desgracia...!"
         }
     ]
 }

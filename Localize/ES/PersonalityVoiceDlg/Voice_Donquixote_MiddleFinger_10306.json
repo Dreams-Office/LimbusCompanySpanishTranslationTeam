@@ -1,14 +1,14 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10306_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "¡Llamadme Don Quixote! ¡Una Hermanita del Dedo Medio, y leal subordinada del Hermano Mayor! ¡Encantada de Conoceros!"
+            "dlg": "¡Llamadme Don Quixote! ¡Una Hermana Pequeña del Medio, y leal subordinada del Hermano Mayor! ¡Encantada de conoceros!"
         },
         {
             "id": "lobby_morning_10306_1",
             "desc": "Saludo Mañanero",
-            "dlg": "'¡'Splendida mañana he de decir! ¿Estaréis vos al tanto de las andanzas de nuestro Hermano Mayor el día de hoy? Si así fuese... ¡Contadme los detalles!"
+            "dlg": "¡'Splendida mañana he de decir! ¿Estaréis vos al tanto de las andanzas de nuestro Hermano Mayor el día de hoy? Si así fuese... ¡Contadme los detalles!"
         },
         {
             "id": "lobby_noon_10306_1",
@@ -37,13 +37,13 @@
         },
         {
             "id": "smalltalk_10306_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "¡Ha ha! ¿Por qué os habéis entrometido con uno de los nuestros? ¡Ahora pagareis el precio!"
         },
         {
             "id": "smalltalk_10306_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "¡Mirad! Leedlo bien, pues este es el Libro de la Venganza. Aquí hay tareas cuales hemos de completar para alcanzar la justicia.\nContemplad, escrito aquí está vuestro nombre. ¿Vos deseáis que yo os borre? ... Entonces vos has de perecer."
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "¡Mirad! Leedlo bien, pues este es el Libro de la Venganza. Aquí hay tareas cuales hemos de completar para alcanzar la justicia.\nContemplad, escrito aquí está vuestro nombre. ¿Vos deseáis que yo os borre? … Entonces vos has de perecer."
         },
         {
             "id": "neglect_10306_1",
@@ -58,7 +58,7 @@
         {
             "id": "formation_10306_1",
             "desc": "Desplegar",
-            "dlg": "¡¿He de haber un perro que merezca nuestra venganza entonces?!"
+            "dlg": "¡¿Ha de haber un perro que merezca nuestra venganza entonces?!"
         },
         {
             "id": "battleentry_10306_1",
@@ -98,7 +98,7 @@
         {
             "id": "choice_success_p_10306_2",
             "desc": "Juicio Exitoso",
-            "dlg": "¡Hah! ¡Imponed ante mi un verdadero desafío!"
+            "dlg": "¡Ja! ¡Imponed ante mi un verdadero desafío!"
         },
         {
             "id": "choice_fail_n_10306_1",
@@ -113,11 +113,11 @@
         {
             "id": "battle_clear_ex_10306_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "¡Veamos... cierto! Toda esta fila ha de ser tachada. El Hermano Mayor deberá estar complacido, puesto que he jugado un parte importante en esta búsqueda!"
+            "dlg": "¡Veamos... cierto! Toda esta fila ha de ser tachada. El Hermano Mayor ha de estar complacido, puesto que he jugado un parte importante en esta búsqueda!"
         },
         {
             "id": "battle_defeat_10306_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "Mientras que vosotros olvidáis... el Medio no olvida... el Medio escribirá... y Venganza ha de llover sobre vosotros diez veces más."
         }
     ]

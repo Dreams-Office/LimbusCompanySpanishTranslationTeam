@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11216_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Ooh... ¿Es ssanghwa-cha lo que huelo? Hoy parece tener un aroma y sabor increíble, me encanta. Y mira, la yema está justo en el medio de nuevo... qué lindo."
+        },
+        {
+            "id": "lobby_morning_11216_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Sinclair, andas trabajando duro desde temprano, ¿eh? Estoy seguro de haber dicho que estaba bien llegar tarde hoy, porque el contrato de ayer se extendió bastante y eso.\nAh, buen día, Faust. ¿Lograste terminar el contrato de las Mil Agujas sin problemas?"
+        },
+        {
+            "id": "lobby_noon_11216_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Siéntanse libres de almorzar afuera, yo comeré algo rápido en la oficina. Hm... Tengo que pensar bien sobre cómo vamos a lidiar con el siguiente contrato. ¿Ya saben de qué va, no? La invitación de la que todos hablan."
+        },
+        {
+            "id": "lobby_night_11216_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Ngh... uuuuuuf... ya ni puedo quedarme sentado por mucho rato a esta edad. Si me quedo trabajando en el escritorio, mi espalda se sentirá con si quisiese partir en dos para cuando llega la hora de cenar.\nFaust, tú también ve y descansa. Yo te ayudaré averiguar de dónde vino ese resonador.\n<color=#ffb1b4>No tienes que preocuparte por mí, Gregor.</color>\n- No, o sea... es que no puedo echarle llave a la oficina contigo dentro..."
+        },
+        {
+            "id": "smalltalk_11216_1",
+            "desc": "Charla #1",
+            "dlg": "¿Hm? ¿Este obituario? No te preocupes por él. Nunca me cayó tan bien este \"amigo\" de todas formas. Tonto amigo de antaño... Siempre tuviste una forma tan simplista de ver las cosas."
+        },
+        {
+            "id": "smalltalk_11216_2",
+            "desc": "Charla #2",
+            "dlg": "En mis tiempos... No hubiese podido imaginar el lujo de oler un Ssanghwa-cha tan fragante, o con un vapor tan gentil. En lugar de eso, solo percibía el hedor del humo que escocía mis ojos y garganta... y, en el mal sentido de la palabra, el olor a gente."
+        },
+        {
+            "id": "smalltalk_11216_3",
+            "desc": "Charla #3",
+            "dlg": "Honor, estatus... Es mejor que no se dejen obsesionen por cosas así, chicos. No puedo acabar de explicarlo, pero mientras más pienso sobre qué mantiene a la Ciudad tan próspera, me invade una extraña y horrible sensación de asco.\nNo recuerdo todos los detalles de que pasó, ni de lo que vi, pero mi cuerpo recuerda esa experiencia. Si no lo puedo describir, no puede estar vinculado a nada bueno."
+        },
+        {
+            "id": "smalltalk_11216_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Entonces, cuenta todas esas vidas que has arrebatado hasta ahora... y te pregúntate a ti mismo: ¿acaso tu vida vale más que la de todos ellos?"
+        },
+        {
+            "id": "smalltalk_11216_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Con el paso del tiempo... todo lo que has vivido se graba en cada fibra de tu ser. Ya sabes lo que dicen, ¿no? \"En la Ciudad, sobrevivir te hace el más fuerte\"."
+        },
+        {
+            "id": "neglect_11216_1",
+            "desc": "Inactivo",
+            "dlg": "<i>Glup<i> Ahh... Guau, ese chico es un Fixer de Color preparando té..."
+        },
+        {
+            "id": "gacksung_11216_1",
+            "desc": "Aunado",
+            "dlg": "Puff... bien, ¿de verdad creías que esto se podría resolver por las buenas con lo manchadas de sangre que están tus manos?\nPrepárate, novato. Esto se va a poner feo."
+        },
+        {
+            "id": "formation_11216_1",
+            "desc": "Desplegar",
+            "dlg": "¿Listos, equipo?"
+        },
+        {
+            "id": "battleentry_11216_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Muy bien. Entremos."
+        },
+        {
+            "id": "battle_select_11216_1",
+            "desc": "Vista en batalla",
+            "dlg": "No pierdas el tiempo preocupándote por mí, concéntrate en ti mismo. Si no, pasarás por alto las cosas que de verdad importan."
+        },
+        {
+            "id": "battle_endcommand_11216_1",
+            "desc": "Al Atacar",
+            "dlg": "Como la luz del alba..."
+        },
+        {
+            "id": "battle_enemy_break_11216_1",
+            "desc": "Aturdir al enemigo",
+            "dlg": "Oye, te ves muy cansado."
+        },
+        {
+            "id": "battle_break_11216_1",
+            "desc": "Aturdido",
+            "dlg": "En momentos como estos... tienes que aguantar a pura de fuerza de voluntad."
+        },
+        {
+            "id": "battle_kill_11216_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Hahh... Son demasiado débiles."
+        },
+        {
+            "id": "battle_dead_11216_1",
+            "desc": "Muerte",
+            "dlg": "No hace falta... que todos nosotros compartamos...  el mismo destino."
+        },
+        {
+            "id": "choice_success_p_11216_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "¿Eh? ¿Tan joven y no puedes hacer esto solo?"
+        },
+        {
+            "id": "choice_fail_n_11216_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Mmm... ¿Por qué la tecnología de estos días es tan difícil de entender?"
+        },
+        {
+            "id": "battle_clear_11216_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Le rindo mi más profundo respeto a tu valía. Después de haber cruzado espadas contra mí deberías haberte dado cuenta de la diferencia entre nosotros dos, pero seguiste luchando sin rendirte.\nGracias a ti, esta pequeña Oficina no solo se ha llevado algunas heridas, sino también una valiosa lección."
+        },
+        {
+            "id": "battle_clear_ex_11216_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "¿Acaso esta gente tenía un mal día o...? Si hubiese sabido que este contrato iba a ser tan fácil, no habría dudado en tomarlo.\n<color=#ffb1b4>¿Deberíamos conseguir los Libros del resto de individuos mientras la ocasión nos lo permita?</color>\nSi, claro. Ya que estamos aquí, ganémonos un dinerito extra. Ah, y no te olvides de recuperar todos los Libros de la Zwei. Esos nos conseguirán un buen dineral."
+        },
+        {
+            "id": "battle_defeat_11216_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Siempre supe... que algún día llegaría mi final. No tengo remordimientos sobre mi vida, pero... no puedo evitar preocuparme por el futuro del chico..."
+        }
+    ]
+}

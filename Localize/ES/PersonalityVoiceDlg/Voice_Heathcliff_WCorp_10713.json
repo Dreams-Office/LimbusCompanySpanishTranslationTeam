@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10713_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Y los pibes nuevos están todos muertos... Seh, ya lo presentía apenas vi el panel de monitoreo. Sálganse de ese vagón Congestionado... aquí viene el Agente de Limpieza N4."
+        },
+        {
+            "id": "lobby_morning_10713_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "El Distrito 23 será medio azulón, ponele, pero no es tan lúgubre como el lugar donde vivía antes, así que no me quejo. Los únicos colores que veía en ese entonces eran la ropa cara que ni me dejaban ponerme… y las flores del jardín."
+        },
+        {
+            "id": "lobby_noon_10713_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Cada tanto, aparece algún demente que se viene hasta el Distrito 23 solo pa’ chusmear por la Calles del Sabor, pero no te me pongas a vagar por ahí solo porque queda cerca de la Sede Central. Yo también salí de las Callejuelas, pero ese lugar... tch, me da asco con solo pensarlo. Si tenés dos dedos de frente, ni lo mires de lejos."
+        },
+        {
+            "id": "lobby_night_10713_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "¿Y qué si hay menos laburo de limpieza? Si igual queda una bocha por hacer. ¿Viste? Todavía ni terminé y ya me perdí el último tren pa’ casa."
+        },
+        {
+            "id": "smalltalk_10713_1",
+            "desc": "Charla #1",
+            "dlg": "En vez de tirar cupones de descuento pa' clase económica, deberían bajarle el precio a la primera clase. Dale, si todos saben que la primera clase no vale lo que cuesta. Hasta los que tendrían que viajar ahí se hacen los pobres pa' colarse en económica."
+        },
+        {
+            "id": "smalltalk_10713_2",
+            "desc": "Charla #2",
+            "dlg": "Me conseguí un lugar en el Nido y pensé que al fin había levantado algo de guita... ¿Y pa' qué? Cada vez que termino un laburo, termino hecho un asco, todo cubierto de porquería… una vergüenza. Pero bue, si me hubiera tocado un laburo cómodo, de esos donde solo pensás y no hacés nada más, ni en pedo habría llegado hasta acá, ¿eh?"
+        },
+        {
+            "id": "smalltalk_10713_3",
+            "desc": "Charla #3",
+            "dlg": "¡Ay! ¿No podés sacarlo un poco más despacio? ¡Argh, la puta madre, te dije que duele! Uf... ¿Ya está? Cada vez que me sacan esta armadura siento que me va a matar, loco."
+        },
+        {
+            "id": "smalltalk_10713_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¿Querés saber por qué tengo que disparar los láseres desde el codo? Y... según oí, era un dispositivo para aumentar la potencia, o algo así... algo de corrientes bidireccionales y miniaturización, toda esa jerga técnica. Así que nada, no puedo tirarlos de frente. Medio engorroso, pero funciona. Igual, che... hay que admitir que se ve bastante fachero, ¿eh?"
+        },
+        {
+            "id": "smalltalk_10713_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Todo está en el manual. Las cosas normales, como gente que se mata sola, se clasifican como 'Sin obstrucciones'. Cualquier cosa que los agentes por debajo del Nivel 3 no puedan manejar se marca como 'Atrasado'. 'Congestionado' significa que está más allá de lo que el equipamiento estándar de W Corp. puede manejar. Si la amenaza está al nivel de un Fixer de Grado 1, se clasifica como 'Cancelado'. Y ni te gastes en memorizar la siguiente página... “Descarrilado” quiere decir que es el tipo de quilombo que ni nosotros, los Agentes de Limpieza, podemos arreglar."
+        },
+        {
+            "id": "neglect_10713_1",
+            "desc": "Inactivo",
+            "dlg": "El clima estaba despejado... el laburo terminó tarde... Cuando llegue a casa, tengo que escribir una car... ¡Che! ¿Hace cuánto estás ahí parado?"
+        },
+        {
+            "id": "gacksung_10713_1",
+            "desc": "Aunando",
+            "dlg": "Volvé al otro vagón… Este forro se coló sin pagar."
+        },
+        {
+            "id": "formation_10713_1",
+            "desc": "Desplegar",
+            "dlg": "Armadura de Limpieza de Congestión. Tiempo estimado para el despliegue: 1 minuto...."
+        },
+        {
+            "id": "battleentry_10713_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Evaluando el estado del tren."
+        },
+        {
+            "id": "battle_select_10713_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Dejá que los novatos limpien el quilombo. Yo me voy al vagón Congestionado."
+        },
+        {
+            "id": "battle_endcommand_10713_1",
+            "desc": "Al Atacar",
+            "dlg": "Confirmando activación de la armadura."
+        },
+        {
+            "id": "battle_enemy_break_10713_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Ahora quedate ahí, calladito..."
+        },
+        {
+            "id": "battle_break_10713_1",
+            "desc": "Aturdido",
+            "dlg": "Egh..."
+        },
+        {
+            "id": "battle_kill_10713_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... ¡Porque ya se acabó el viaje!"
+        },
+        {
+            "id": "battle_dead_10713_1",
+            "desc": "Muerte",
+            "dlg": "… Así que esta es mi última parada."
+        },
+        {
+            "id": "choice_success_p_10713_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Ahí va. Ya tuve suficiente de esta pelotudez hace años, cuando recién entré. "
+        },
+        {
+            "id": "choice_fail_n_10713_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Che, hice lo que decía el manual, ¿ta' claro?"
+        },
+        {
+            "id": "battle_clear_10713_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Uf… Parece que se quemó un fusible. Supongo que me pasé con las sobrecargas, esta cosa no se mueve. Eh, ya que andas limpiando, sacame de acá cuando termines."
+        },
+        {
+            "id": "battle_clear_ex_10713_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "… Limpieza terminada. Algunos pedazos volaron bastante lejos, así que va a ser un quilombo juntarlos… pero bancátela. Ni me hubieran llamado para tipos con los que se pueda aflojar la mano."
+        },
+        {
+            "id": "battle_defeat_10713_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Mierda, esto no es laburo para los Agentes de Limpieza... Che, ¡llamá ya a R Corp. o a una Asociación de Fixers, llamá a alguno, a cualquiera! ¡A ESTE RITMO, NOS VAMOS A IR TODOS AL CARAJO! ¡AAHHH!"
+        }
+    ]
+}

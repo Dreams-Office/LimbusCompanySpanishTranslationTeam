@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10704_1",
@@ -13,7 +13,7 @@
         {
             "id": "lobby_noon_10704_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Los herejes deben ser puri... ¡Ah! ¿Qué estaba diciendo? Hahh... Siempre me pasa lo mismo después de comer."
+            "dlg": "Los herejes han de ser pur... ¡Ah! ¿Qué estaba diciendo? Hahh... Siempre me pasa lo mismo después de comer."
         },
         {
             "id": "lobby_night_10704_1",
@@ -33,16 +33,16 @@
         {
             "id": "smalltalk_10704_3",
             "desc": "Charla #3",
-            "dlg": "¡Herej...!  Ay, concha de tu madre... ¿Por qué no te sacás la mascarita esa? ¡Casi te mato!"
+            "dlg": "¡Herej...! Ay, concha de tu madre... ¿Por qué no te sacás la mascarita esa? ¡Casi te mato!"
         },
         {
             "id": "smalltalk_10704_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "¿Que tengo los ojos hundidos...? Es que todavía no dormí. Me hicieron leer en voz alta el libro toda la noche porque llegué cinco minutos tarde a la última reunión."
         },
         {
             "id": "smalltalk_10704_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "Yo soy... un martillo... Aquel que será agarrado... para golpear y purificar la inmundicia..."
         },
         {
@@ -73,12 +73,12 @@
         {
             "id": "battle_endcommand_10704_1",
             "desc": "Al Atacar",
-            "dlg": "“Purificar!”. ¿Así... era?"
+            "dlg": "'¡Purificar!'. ¿Así... era?"
         },
         {
             "id": "battle_enemy_break_10704_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "Eliminar herejes..."
+            "dlg": "Eliminar al hereje..."
         },
         {
             "id": "battle_break_10704_1",
@@ -113,11 +113,11 @@
         {
             "id": "battle_clear_ex_10704_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Sí sigo así... algún día voy a poder volver, ¿no?"
+            "dlg": "Si sigo así... algún día voy a poder volver, ¿no?"
         },
         {
             "id": "battle_defeat_10704_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "¡N-no puede ser! Si llego a volver en este estado... ¡Ngh!"
         }
     ]

@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10209_1",
@@ -33,12 +33,12 @@
         {
             "id": "smalltalk_10209_3",
             "desc": "Charla #3",
-            "dlg": "El té es preparado usando hojas entregadas a esta ubicación por la Asociación Devyat', las cuales están infusionadas directamente sin romperse. No sería hipérbole decir que esta variedad de té representa la mayor excelencia de Cumbres Borrascosas que se ha pasado de generación en generación."
+            "dlg": "Este té se prepara usando hojas distribuidas a esta ubicación por la Asociación Devyat', las cuales son infusionadas directamente sin romperse. No sería hipérbole decir que esta variedad de té representa la mayor excelencia de Cumbres Borrascosas que ha sido transmitida de generación en generación."
         },
         {
             "id": "smalltalk_10209_4",
             "desc": "Charla Post-Aunamiento 1",
-            "dlg": "Ah, ¿el ruido lo ha molestado? Nuestras más sinceras disculpas. Un invitado no deseado ha aparecido en las instalaciones... y le tomó a los Criados bastante esfuerzo el persuadirlo a abandonar las instalaciones.\nPor favor, espero que lo entienda."
+            "dlg": "Ah, ¿el ruido lo ha molestado? Nuestras más sinceras disculpas. Un invitado no deseado ha aparecido en las instalaciones... y le tomó a los Criados bastante esfuerzo persuadirlo a retirarse.\nPor favor, espero su comprensión."
         },
         {
             "id": "smalltalk_10209_5",
@@ -48,12 +48,12 @@
         {
             "id": "neglect_10209_1",
             "desc": "Inactivo",
-            "dlg": "… Si mi presencia molesta su deliberación, entonces desocuparé el cuarto para que haga uso exclusivo de este."
+            "dlg": "… Si mi presencia perturba su cavilación, entonces me retiraré del cuarto para darle privacidad."
         },
         {
             "id": "gacksung_10209_1",
             "desc": "Aunando",
-            "dlg": "… Por aquí, queridos invitados. Para todo y cualquier invitado no deseado, nos disculpamos por la imprudencia, pero les pedimos que abandonen inmediatamente las instalaciones."
+            "dlg": "… Por aquí, queridos invitados. Para todo y cualquier invitado no deseado, nos disculpamos por la imprudencia, pero les pedimos que abandonen inmediatamente las instalaciones. "
         },
         {
             "id": "formation_10209_1",
@@ -82,13 +82,13 @@
         },
         {
             "id": "battle_break_10209_1",
-            "desc": "Aturdido",
-            "dlg": "Hap..."
+            "desc": "Aturdida",
+            "dlg": "Uh..."
         },
         {
             "id": "battle_kill_10209_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Por favor, abandone las instalaciones. Inmediatamente."
+            "dlg": "Por favor, abandone las instalaciones inmediatamente."
         },
         {
             "id": "battle_dead_10209_1",
@@ -118,7 +118,7 @@
         {
             "id": "battle_defeat_10209_1",
             "desc": "Llanto de Derrota",
-            "dlg": "Mis más sinceras disculpas; nuestra respuesta estuvo lejos de ser aceptable… Trataré de no decepcionarlo la próxima vez."
+            "dlg": "Mis más sinceras disculpas; nuestra respuesta estuvo lejos de ser aceptable. …Trataré de no decepcionarlo la próxima vez."
         }
     ]
 }

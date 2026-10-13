@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10716_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "... Me acogió y me dio un techo, me dio de comer, me enseñó este... estilo de esgrima increíble, uno que un mersa indigente como yo jamás habría tenido la oportunidad de aprender.\nYa lo sé, lo sé bien, pero... ¿de verdad el resto de mi vida va a ser así?"
+        },
+        {
+            "id": "lobby_morning_10716_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Todavía sigue ahí encerrada durmiendo, ¿no? Bueno... no creo que se levante en cuatro horas; escabiar tanto tiene sus consecuencias. Tengo que apurarme a limpiar todo y a lo mejor tenga tiempo para prepararle un sánguche de panceta para la resaca...\nHahh... ¿Para qué me molesto? La última vez me, encajó un fajazo por prepararle \"mal\" un sánguche... No hay necesidad de arruinarlo todo por nada."
+        },
+        {
+            "id": "lobby_noon_10716_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "¿Adónde se fue? Me sonaba que ya era hora de que me dijese que iba a empezar con mi entrenamiento... ¿Estará en una misión de la prestigiosa división central?\n... Nah, no tendría que estar pensando. Supongo que tendré que estar de guardia hasta que llegue, como ya me ha indicado antes..."
+        },
+        {
+            "id": "lobby_night_10716_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Puta madre, ¿ya se está poniendo el sol...? Seguro que la maestra me va a fajar como a un perro por llegar tarde a casa... Hah..."
+        },
+        {
+            "id": "smalltalk_10716_1",
+            "desc": "Charla #1",
+            "dlg": "No importa si solo soy una imitación. Total, el Estilo Palermitano no lo entreno para hacerme más fuerte. \nSi la maestra me dice que ladre, ladro; si me dice que muerda, muerdo y no suelto hasta que me lo ordene... Eso es lo que soy. Un perro de caza es todo lo que necesito ser."
+        },
+        {
+            "id": "smalltalk_10716_2",
+            "desc": "Charla #2",
+            "dlg": "La maestra siempre me está taladrando la cabeza con \"Ticket\", porque dice que siempre fue mejor alumna que yo... pero las técnicas que la tal Ticket le enseña a Sinclair... no tienen nada que ver con el Estilo Palermitano de la maestra. ¿Qué onda con eso?\n... Bueno, no me corresponde analizarlo. Yo nomás tengo que copiarle el estilo a Yoshihide, la que se escapó de casa. Claro, hacer lo que me dicen... exactamente como me lo dicen..."
+        },
+        {
+            "id": "smalltalk_10716_3",
+            "desc": "Charla #3",
+            "dlg": "Conseguí el nombre de la compañía con la que colabora Yoshihide y la lista de oficinas de fixers que tienen en su nómina, pero, si me permite el atrevimiento... hay algo que no me cierra, maestra. La data es demasiado detallada para el precio que pagué. ¿Será que habrán filtrado la información a propósito con la intención de que nos enteráramos de...?\n<color=#923838> Ya, bueno, ¿y qué? Obviamente no tuvieron cuidado, ¡qué suerte la nuestra! Ya déjate de una perra vez con esa tontería de tu \"intuición\". Camina derechito y sigue entrenando, como te dije.</color>\nEntendido, maestra."
+        },
+        {
+            "id": "smalltalk_10716_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Entre los aprendices... Ishmael se cagó muriendo, Sinclair se pasó al otro bando, y solo quedan... la señorita Don Quixote y Faust. Si todavía quiero rajar de acá o matarla... ahora es el mejor momento.\nNo, todavía no. Capáz tenga más posibilidades cuando terminemos de repeler el ataque. Sí, después de eso, fue. Por ahora, mejor concentrarse en ayudar a la maestra..."
+        },
+        {
+            "id": "smalltalk_10716_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Los golpes, las humillaciones, el desprecio... Todo eso lo podía aguantar. Solo era cosa de ser fuerte, de no dejar que me afecte tanto.\nA pesar de todo, decidí matar a mi maestra porque... porque finalmente me di cuenta de algo. De que todo el maltrato que me daba... había llegado para quedarse."
+        },
+        {
+            "id": "neglect_10716_1",
+            "desc": "Inactivo",
+            "dlg": "... Tal vez pueda matarla ahora. Tal vez esta sea mi oportunidad."
+        },
+        {
+            "id": "gacksung_10716_1",
+            "desc": "Aunando",
+            "dlg": "En duelos uno contra uno, mi estilo Palermitano tiene la ventaja."
+        },
+        {
+            "id": "formation_10716_1",
+            "desc": "Desplegar",
+            "dlg": "Como dicta la ética del combate honorable... un pelotudo a la vez."
+        },
+        {
+            "id": "battleentry_10716_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Te lo juro, en cuanto termine esta batalla, voy a..."
+        },
+        {
+            "id": "battle_select_10716_1",
+            "desc": "Vista en Batalla",
+            "dlg": "<i> Cuando te topas a alguien mejor que tú, bloquea y desvía la fuerza de su golpe... Cuando te superan en número, baja la postura y... </i>"
+        },
+        {
+            "id": "battle_endcommand_10716_1",
+            "desc": "Al Atacar",
+            "dlg": "Mirá bien la trayectoria de mi espada hasta que te refresque la memoria."
+        },
+        {
+            "id": "battle_enemy_break_10716_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Bien, tengo que cumplir con mi papel..."
+        },
+        {
+            "id": "battle_break_10716_1",
+            "desc": "Aturdido",
+            "dlg": "Hahh..."
+        },
+        {
+            "id": "battle_kill_10716_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "y recrear lo que estaba antes."
+        },
+        {
+            "id": "battle_dead_10716_1",
+            "desc": "Muerte",
+            "dlg": "Todo porque... todavía no estaba... completo..."
+        },
+        {
+            "id": "choice_success_p_10716_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Completado, tal como usted me ordenó."
+        },
+        {
+            "id": "choice_fail_n_10716_1",
+            "desc": "Juicio Fallido",
+            "dlg": "... Mis más sinceras disculpas, maestra."
+        },
+        {
+            "id": "battle_clear_10716_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Hahh... ¿Qué te dije? Los otros estilos no pueden seguirle al ritmo al estilo Palermitano en un duelo.\nYa tuve que repetir cada postura mil... no, diez mil veces, así que no iba a perder justo contra vos."
+        },
+        {
+            "id": "battle_clear_ex_10716_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "... ¿Realmente se le puede llamar humano a un traidor como yo? No, por supuesto que no. ¿Qué otra cosa soy sino un monstruo ingrato y desagradecido que apuñaló por la espalda a su salvadora?\nPero no me guardaría bronca por esto, ¿no, maestra? Porque usted era una persona horrible que merecía morir."
+        },
+        {
+            "id": "battle_defeat_10716_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Antes de morir así, al meno debí haber intentado hacerlo..."
+        }
+    ]
+}

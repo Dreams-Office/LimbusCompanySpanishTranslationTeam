@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10805_1",
@@ -8,12 +8,12 @@
         {
             "id": "lobby_morning_10805_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Es apenas la mañana, y ya me siento como el culo... Oh, ¿oyó eso? lo siento, Aunque... realmente es verdad."
+            "dlg": "Es apenas la mañana y ya me siento como el culo... Oh, ¿oyó eso? Pues lo siento... pero es la verdad."
         },
         {
             "id": "lobby_noon_10805_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Sabe, esta cosa pegajosa sabe horrible.\n¿Qué cómo lo sé...? No me molesto en quitármelo durante el almuerzo, y... dejémoslo ahí."
+            "dlg": "¿Sabe? Esta cosa pegajosa sabe horrible.\n¿Que cómo lo sé...? Me dio pereza sacármela para el almuerzo y... dejémoslo ahí."
         },
         {
             "id": "lobby_night_10805_1",
@@ -37,12 +37,12 @@
         },
         {
             "id": "smalltalk_10805_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "Mmm... Una copa del Vino de las Hadas... ¿Por qué sigo diciendo estas cosas? ¡Gerente! ¡¿Sabe la respuesta, verdad?!"
         },
         {
             "id": "smalltalk_10805_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "Todavía no sé por qué tengo que usar esta cosa... pero, se me hace más familiar a medida que sigo usándola.\n¡No! NO estoy hablando de esta cosa gelatinosa, ¡me refiero específicamente al arma!"
         },
         {
@@ -53,7 +53,7 @@
         {
             "id": "neglect_10805_1",
             "desc": "Inactivo",
-            "dlg": "Haah...  Ni siquiera tengo ganas de sentarme, esta cosa se pega a las sillas si lo intento..."
+            "dlg": "Haah... Ni siquiera tengo ganas de sentarme, esta cosa se pega a las sillas si lo intento..."
         },
         {
             "id": "formation_10805_1",
@@ -92,8 +92,8 @@
         },
         {
             "id": "battle_dead_10805_1",
-            "desc": "Muerte",
-            "dlg": "Bah... Tenía que seguir siendo pegajoso... hasta el final..."
+            "desc": "Muerte ",
+            "dlg": "Bah... Tenías que seguir siendo pegajoso... hasta el final..."
         },
         {
             "id": "choice_success_p_10805_2",
@@ -108,7 +108,7 @@
         {
             "id": "battle_clear_10805_1",
             "desc": "Grito de Victoria",
-            "dlg": "Uf. De alguna manera se solucionó. ...Esto ayudará a liberar más tecnologías, ¿verdad?"
+            "dlg": "Uf. De alguna manera se solucionó. ... Esto ayudará a liberar más tecnologías, ¿verdad?"
         },
         {
             "id": "battle_clear_ex_10805_1",
@@ -117,7 +117,7 @@
         },
         {
             "id": "battle_defeat_10805_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "Maldición... Hemos fracasado en la liberación. Nada está funcionando."
         }
     ]

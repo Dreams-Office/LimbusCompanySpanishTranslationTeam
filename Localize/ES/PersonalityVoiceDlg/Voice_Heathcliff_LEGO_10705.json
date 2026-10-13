@@ -1,49 +1,49 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10705_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "... Vete. Ni te molestes en hablarme."
+            "dlg": "... Andate. No me molestes."
         },
         {
             "id": "lobby_morning_10705_1",
             "desc": "Saludo Mañanero",
-            "dlg": "No puedo saber qué hora es si el sol no se pone... Ey, ¿ya amaneció?"
+            "dlg": "No puedo saber qué hora es si el sol no se pone... Che, ¿ya amaneció?"
         },
         {
             "id": "lobby_noon_10705_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Cuando duermo con este traje... Me despierto en un callejón repleto de basura. Un lugar idéntico a mí."
+            "dlg": "Siempre que me voy a dormir con esto puesto... me termino despertando en un callejón mugriento como este. Un lugar idéntico a mí."
         },
         {
             "id": "lobby_night_10705_1",
             "desc": "Saludo Nocturno",
-            "dlg": "Será mejor que vayas a dormir temprano. Si se hace tarde... a veces hace tanto frío que no puedes dormir."
+            "dlg": "Yo que vos, me duermo temprano. Si se te hace muy tarde... a veces el frío es tan fuerte que no te deja dormir."
         },
         {
             "id": "smalltalk_10705_1",
             "desc": "Charla #1",
-            "dlg": "No husmees por ahí ante mí de esa forma, empiezas a ser un fastidio... Te puedo hacer mierda con este viejo paraguas."
+            "dlg": "No te pongas a caminar frente a mí, me hinchás las pelotas... Mirá que te puedo dejar hecho pija con este paraguas."
         },
         {
             "id": "smalltalk_10705_2",
             "desc": "Charla #2",
-            "dlg": "... ¿Nombre? Nunca le di uno. Nunca se sabe si me abandonará.\n... No me mires así."
+            "dlg": "... ¿Su nombre? Nunca le puse uno. Andá a saber si me termina abandonando.\n... No me mirés así."
         },
         {
             "id": "smalltalk_10705_3",
             "desc": "Charla #3",
-            "dlg": "Las esquinas completamente oscuras en las Callejuelas... Es lo que más me relaja.\nNadie camina por ahí, y nadie pone su atención en mi."
+            "dlg": "Las Callejuelas están llenas de esquinas oscuras... pero esta es la que más me relaja.\nPor acá no pasa nadie y nadie se fija en mí."
         },
         {
             "id": "smalltalk_10705_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "No actúes como un presumido. Destruiré toda la tecnología en este mundo con mis propias manos.\n... Si te entrometes. Te apuñalaré en ese instante."
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "No te hagás el canchero. Voy a destruir toda la tecnología del mundo con mis propias manos.\n... Y si vos te llegás a meter, no voy a dudar en encajarte un puntazo."
         },
         {
             "id": "smalltalk_10705_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "Los paraguas son prácticos... \nNo espero nada de ti. Solo... ven e inténtalo. Te mostrare cuanto duele tener las costillas rotas con un paraguas abandonado en ti."
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Los paraguas son prácticos... \nNo espero nada de vos. Solo... vení e intentalo. Te voy a mostrar cuánto duele tener las costillas rotas con un paraguas abandonado en ti."
         },
         {
             "id": "neglect_10705_1",
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_10705_1",
             "desc": "Aunando",
-            "dlg": "Ve y continúa pretendiendo ser amable todo lo que quieras... Seguiré desconfiando de ti hasta que todo sea libre de tecnología."
+            "dlg": "Andá y seguí haciéndote el bueno todo lo que quieras... yo voy a seguir sospechando de vos, hasta que toda la tecnología haya sido liberada."
         },
         {
             "id": "formation_10705_1",
@@ -63,7 +63,7 @@
         {
             "id": "battleentry_10705_1",
             "desc": "Entrada a Escena",
-            "dlg": "Los dejare bien aplastados."
+            "dlg": "Los voy a dejar hechos pomada."
         },
         {
             "id": "battle_select_10705_1",
@@ -73,12 +73,12 @@
         {
             "id": "battle_endcommand_10705_1",
             "desc": "Al Atacar",
-            "dlg": "Te haré papilla."
+            "dlg": "Te voy a hacer bosta."
         },
         {
             "id": "battle_enemy_break_10705_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "Jaja, mira como se resbalan."
+            "dlg": "Jaja, mirá cómo se resbalan."
         },
         {
             "id": "battle_break_10705_1",
@@ -88,22 +88,22 @@
         {
             "id": "battle_kill_10705_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Eres todo un desastre, eh."
+            "dlg": "Terminaste hecho un desastre."
         },
         {
             "id": "battle_dead_10705_1",
             "desc": "Muerte",
-            "dlg": "Aún no... Aún tengo cosas que hacer..."
+            "dlg": "Todavía no... todavía me quedan cosas que hacer..."
         },
         {
             "id": "choice_success_p_10705_2",
             "desc": "Juicio Exitoso",
-            "dlg": "Bueno, eso fue sencilo, ¿eh?"
+            "dlg": "Bueno, estuvo fácil, ¿no?"
         },
         {
             "id": "choice_fail_n_10705_1",
             "desc": "Juicio Fallido",
-            "dlg": "No fue a propósito. Sabes eso, ¿verdad?"
+            "dlg": "No fue a propósito. Lo sabés, ¿no?"
         },
         {
             "id": "battle_clear_10705_1",
@@ -113,12 +113,12 @@
         {
             "id": "battle_clear_ex_10705_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Jaa~ Me esforcé más de lo habitual."
+            "dlg": "Hahh~ Me esforcé más de lo habitual."
         },
         {
             "id": "battle_defeat_10705_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "Tch... Fallé de nuevo. ¿Vas a desecharme?"
+            "desc": "Llanto de Derrota ",
+            "dlg": "Tch... Volví a fracasar. ¿Me vas a tirar a la mierda?"
         }
     ]
 }

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10313_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Sin duda os mofáis… ¿Cómo podéis hablar de calor…? Por mi fe,<i> uwaaa </i> os digo que podría fallecer de frío en este instante... ¡Achú!"
+        },
+        {
+            "id": "lobby_morning_10313_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Tal vez no lo sepáis... Pero, por frío que sea la oscuridad de la noche <i> brrrrr </i> es justo en este momento, al salir el sol, cuando el rigor del frío se muestra más cruel... confiaba en que ya hubiese calorcito para este punto, ¡ay de mí...!  <i> snif... </i> Ah..."
+        },
+        {
+            "id": "lobby_noon_10313_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "¿Dónde viene a parar que todas las tiendas vendan nada más que comidas frías…? ... ¡Ah! Ese aroma… ¿acaso será…? ¡Incluso en esta época y con este tiempo gélido, un tratante de pan de ballena hace negocio! D-d-dinero, dinero... Uhm, ¿de casualidad no llevaréis alguna que os sobrase?"
+        },
+        {
+            "id": "lobby_night_10313_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Nngh... la brisa nocturna cala hasta los huesos... En horas así, no hay mayor dicha que acurrucarse bajo un cobertor bien templado y entregarse al dulce sueño... Ah... ¿debo salir? M-muy bien... procuraré prepararme...\nPero este cobertor está tan calentito... os lo ruego, solo cinco minutitos más... ¿no podemos tardar ni siquiera tal trecho?"
+        },
+        {
+            "id": "smalltalk_10313_1",
+            "desc": "Charla #1",
+            "dlg": "Oídme. En días de antaño, anduve por tierras lejanas y extrañas. Contemplé maravillas jamás conocidas... y afronté bestias de pavorosa fiereza...\n¡Nngh! Desde que ese bolo de los Wei dejó en mí estos cuernos, a menudo mi mente vaga entre brumas… ¿cómo pude, alguna vez, poseer temple para tales empresas?"
+        },
+        {
+            "id": "smalltalk_10313_2",
+            "desc": "Charla #2",
+            "dlg": "Nuestra valía reside en quebrantar cuanto interponga en el camino, <i> *Hahh* </i> Mas, ¿quién entre nosotros podría cumplir el afán con el juicio en su lugar? Cuando nuestro señor requiere de nosotros, tira fuerte de la rienda. De manera que un desasosiego quejoso nos invade, cual carga invisible que nos empuja hacia delante... de tal modo que ninguna cosa pareciese digna de temer."
+        },
+        {
+            "id": "smalltalk_10313_3",
+            "desc": "Charla #3",
+            "dlg": "... ¡¿Eep?! M-mil perdones... Cuando mi pensamiento divaga, tómame un impulso de embestir contra cuanto se halle cerca... ¿Podría pediros un favor? ¿Me podréis traerme un saco lleno de paja?\nT-tengo una mañana... Una vez que me lanzo, me es casi imposible detenerme... No deseo embestiros y quebrar vuestra tibia. ¡O-os lo ruego, apuraos!"
+        },
+        {
+            "id": "smalltalk_10313_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Un gélido frío... recorre mi espalda... ¡Daos prisa...! ¡Hemos de abrirnos entre sus huestes y proseguir adelante! ¡Venid! ¡En guardia, Embestida Cornuda (衝破角)!"
+        },
+        {
+            "id": "smalltalk_10313_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Hahh... Mis ojos suelen enturbiarse en lo más recio de la lid. Guárdese bien, y no os agitéis así frente a mí, no sea que, por desdicha, no logre refrenar el ansia de arremeteros."
+        },
+        {
+            "id": "neglect_10313_1",
+            "desc": "Inactivo",
+            "dlg": "Oh...¡A dónde habéis ido...? Nngh... La soledad, carente de compañía, me acongoja... ¿Rocinante...? Os ruego que me contéis un relato maravilloso, para que mi corazón halle sosiego..."
+        },
+        {
+            "id": "gacksung_10313_1",
+            "desc": "Aunando",
+            "dlg": "¡Os pido que no deis la vuelta!\n¡Ahí, embestid adelante! ¡El rebaño abrirá paso y deshará todo cuanto se os ponga enfrente!"
+        },
+        {
+            "id": "formation_10313_1",
+            "desc": "Desplegar",
+            "dlg": "Hmm, hora de que los Wei entren al fragor de la batalla... <i> snif... </i> qué frío..."
+        },
+        {
+            "id": "battleentry_10313_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Fiu... ¡Hacia delante!"
+        },
+        {
+            "id": "battle_select_10313_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¡¡Embestid!!"
+        },
+        {
+            "id": "battle_endcommand_10313_1",
+            "desc": "Al Atacar",
+            "dlg": "¡Aplastadlos ahora, antes que la contienda empiece!"
+        },
+        {
+            "id": "battle_enemy_break_10313_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¿Vuestro cráneo no se estremece por dentro?"
+        },
+        {
+            "id": "battle_break_10313_1",
+            "desc": "Aturdido",
+            "dlg": "¡Uh...!"
+        },
+        {
+            "id": "battle_kill_10313_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "¡Se desploman como vallas!"
+        },
+        {
+            "id": "battle_dead_10313_1",
+            "desc": "Muerte",
+            "dlg": "¡¿Gah?! Aah... ¿Es... es este... mi final?"
+        },
+        {
+            "id": "choice_success_p_10313_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Oh... ¿F-fue un... éxito?"
+        },
+        {
+            "id": "choice_fail_n_10313_1",
+            "desc": "Juicio Fallido",
+            "dlg": "¡¿Eeek?! ¡P-p-perdonadme...!"
+        },
+        {
+            "id": "battle_clear_10313_1",
+            "desc": "Grito de Victoria",
+            "dlg": "<i>*Hahh* *Hahh*</i> ¿Me es seguro para aquí? ¿T-todavía pisan mis talones...? Fiu... me duelen los hombros... Veamos... ¡Allí! ¡Paréceme que he pasado de largo a esos ruines villanos!"
+        },
+        {
+            "id": "battle_clear_ex_10313_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "¡Oíd, rebaño mío! ¡No os detengáis vuestro andar, que las quijadas de los enemigos podrían cerrarse sobre nosotros! ¡Fiad en vuestros recios cuernos y embestid hacia delante!"
+        },
+        {
+            "id": "battle_defeat_10313_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Decidme... ¿Son cuerpos apilados allá a la lontananza? Aún no retorna mi vista. ¿Aquesos caídos son adversarios o nuestros...?\nAh... comprendo. Ciertamente... es cosa gravísima y pesaroso..."
+        }
+    ]
+}

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10216_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Agujas negras... símbolos de un patrón atípico. Faust lo ha deducido correctamente. El culpable de este incidente... aparenta ser aquél individuo."
+        },
+        {
+            "id": "lobby_morning_10216_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Desde una perspectiva médica, un té caliente por la mañana es recomendado para regular el ritmo circadiano y estimular movimientos gastrointestinales... *cof* Sin embargo, ¿Podría recomendarle que considere otras opciones de bebidas, Gregor?\n... Si se opone a la idea, al menos le pediría que proporcione la ventilación necesaria a la habitación."
+        },
+        {
+            "id": "lobby_noon_10216_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Una explosión repentina de tal naturaleza en el centro de la ciudad al mediodía... Este incidente no parece ser producto de la violencia urbana ordinaria del lugar. Globos inflándose más allá de lo que su elasticidad se los permite, reventándose al mismo tiempo y sin advertencia. En realidad se trataba de personas hinchándose y esparciendo miles de agujas en todas direcciones. Si el fenómeno fuera a describirse en palabras... esa sería la aproximación más cercana."
+        },
+        {
+            "id": "lobby_night_10216_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Veo que todavía sigue trabajando, Gregor. <color=#a1591e>Sí... ¿tú también tienes algo pendiente?</color>No. Aunque Faust ha concluido todas las tareas asignadas, aún no se retirará, siéntase libre de delegar cualquier labor pendiente a Faust. <color=#a1591e>En serio te lo agradezco... pero, ¿por qué te estás quedando hasta tan tarde?</color> Hay algo que... me gustaría investigar personalmente. <color=#a1591e>Déjame adivinar... quieres identificar el origen del Resonador de Concentración para el Tronco Encefálico, ¿cierto?</color> ... Correcto."
+        },
+        {
+            "id": "smalltalk_10216_1",
+            "desc": "Charla #1",
+            "dlg": "Resulta difícil de creer... Pero en base a estas observaciones, es posible establecer la conjetura de que la \"magia\" realmente existe en el plano físico... No, Faust prefiere dar más crédito a la hipótesis de que algún objeto extraño proveniente de las Afueras aún no comprendido por Faust se encuentra involucrado... a falta de una mejor explicación. Tal vez este asunto amerita ser debatido con las otras Fausts."
+        },
+        {
+            "id": "smalltalk_10216_2",
+            "desc": "Charla #2",
+            "dlg": "Que agujas clavadas en las paredes puedan derretir la base estructural de los edificios es, sin duda, un problema severo... Sin embargo, el verdadero peligro parece radicar en la reacción en cadena que estas provocan. Los transeúntes desatan una explosión al ser pinchados por solo una de ellas."
+        },
+        {
+            "id": "smalltalk_10216_3",
+            "desc": "Charla #3",
+            "dlg": "Esta clase de tareas monótonas son un desperdicio de las capacidades operativas de Faust. Sinclair, sus habilidades para preparar ssanghwa-cha son sobresalientes, pero querría asumir que no se registró a esta Oficina sin ninguna otra ambición. Mejor encárguese usted de esta tarea.\n<color=#a1591e>A mí se me hace que solo le estás delegando las tareas que no quieres hacer.</color>\n... Guárdese sus comentarios absurdos, Gregor. No contribuyen de ninguna forma al crecimiento de Sinclair como Fixer."
+        },
+        {
+            "id": "smalltalk_10216_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "La Promesa de Ayer... Faust sabe que usted es la persona detrás del incidente de las Mil Agujas, e incluso del resto de sucesos que ocurrieron en la Ciudad recientemente.\nLo único que resta es conseguir una pista concreta del tan rumoreado \"contrato\" que usted provee."
+        },
+        {
+            "id": "smalltalk_10216_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Para que Faust llegue a la verdad que busca... la mayor prioridad debería ser el solventar la renta mensual de la Oficina.\nDebido a que se encuentra ubicada en un Nido, el monto a pagar es astronómico... Aun así, Gregor mencionó que resolver este contrato en la \"Biblioteca\" nos permitirá mantenernos a flote durante al menos 3 meses. Lidiemos con estos Bibliotecarios antes de avanzar con la investigación sobre la verdadera naturaleza de ese demonio."
+        },
+        {
+            "id": "neglect_10216_1",
+            "desc": "Inactivo",
+            "dlg": "Tenemos tiempo de sobra. Mientras tanto, terminaré de calcular nuestro gastos. ¿Sinclair? Para mí, un té con leche, por favor."
+        },
+        {
+            "id": "gacksung_10216_1",
+            "desc": "Aunando",
+            "dlg": "Terminemos aquí la conversación. Gregor, Sinclair... Procedamos de una vez."
+        },
+        {
+            "id": "formation_10216_1",
+            "desc": "Desplegar",
+            "dlg": "¿Este encargo fue dirigido exclusivamente a nuestra Oficina?"
+        },
+        {
+            "id": "battleentry_10216_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Faust realizará un ataque preventivo antes de que los oponentes tomen la ofensiva."
+        },
+        {
+            "id": "battle_select_10216_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Este lugar es muy peligroso. No se exija demasiado, por favor permanezca detrás y enfóquese en brindar apoyo."
+        },
+        {
+            "id": "battle_endcommand_10216_1",
+            "desc": "Al Atacar",
+            "dlg": "Eyectando cuchillas."
+        },
+        {
+            "id": "battle_enemy_break_10216_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Un intento decente."
+        },
+        {
+            "id": "battle_break_10216_1",
+            "desc": "Aturdido",
+            "dlg": "Hngh..."
+        },
+        {
+            "id": "battle_kill_10216_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Basta con decir que no supo hacer uso de sus habilidades."
+        },
+        {
+            "id": "battle_dead_10216_1",
+            "desc": "Muerte",
+            "dlg": "La culpa recae en... Faust... no, en mi propia ineptitud..."
+        },
+        {
+            "id": "choice_success_p_10216_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Algunas veces, pareciera como si Faust fuese el único miembro que trabaja para mantener esta Oficina a flote."
+        },
+        {
+            "id": "choice_fail_n_10216_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Toda responsabilidad anterior la he cargado yo. Me gustaría delegarle esta a usted."
+        },
+        {
+            "id": "battle_clear_10216_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Este debió haber sido un encargo trivial... para una Oficina de nuestro nivel. <i>Hahh...</i> En cualquier caso, por lo menos fuimos capaces de cumplir una parte del objetivo. Nos podemos permitir cierto grado de satisfacción."
+        },
+        {
+            "id": "battle_clear_ex_10216_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Esto terminó sin percances, sin ninguna de complicaciones extenuantes que se anticipaban... Un resultado que podría ser atribuido a que su competitividad pudo haber sido subestimada por Faust.\nAprovechemos esta oportunidad y llevémonos el Libro de la Asociación Zwei como se nos fue instruido."
+        },
+        {
+            "id": "battle_defeat_10216_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "La fiesta... tendrá que cancelarse, Gregor. Sinclair... Me pregunto si logró escapar sano y salvo..."
+        }
+    ]
+}

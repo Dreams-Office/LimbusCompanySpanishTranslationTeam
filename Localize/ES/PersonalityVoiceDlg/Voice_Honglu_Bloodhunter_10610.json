@@ -1,34 +1,34 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10610_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "Los Demonios de Sangre no son solo malvados si no que también son muy persistentes. Así que~ deberíamos de asegurarnos de estar completamente preparados para enfrentarlos, ¿no? "
+            "dlg": "Los Demonios de Sangre no son solo viles seres si no que también son muy persistentes. Así que~ deberíamos asegurarnos de estar completamente preparados para enfrentarlos, ¿cierto?"
         },
         {
             "id": "lobby_morning_10610_1",
             "desc": "Saludo Mañanero",
-            "dlg": "¿Hm? ¿Ya amaneció? Parece que la cacería va terminando."
+            "dlg": "¿Hm? ¿Ya amaneció? Parece que la cacería va a llegar a su fin."
         },
         {
             "id": "lobby_noon_10610_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Buaaa... Creo que intentaré dormir un poquito.\nTodos los Demonios de Sangre ya se arrastraron a sus escondites. No tengo que preocuparme mucho por emboscadas a estas horas."
+            "dlg": "Buaaa... Creo que intentaré dormir un poquito.\nTodos los Demonios de Sangre ya se arrastraron de vuelta a sus escondites. No tengo que preocuparme tanto por una emboscadas a estas horas."
         },
         {
             "id": "lobby_night_10610_1",
             "desc": "Saludo Nocturno",
-            "dlg": "Ten cuidado de noche. Cuando la gente no está mirando... los Demonios de Sangre salen de sus guaridas en busca de nuestra sangre."
+            "dlg": "Ten cuidado de noche. Cuando la gente no está mirando... los Demonios de Sangre salen de sus guarida sedientos en busca de nuestra sangre."
         },
         {
             "id": "smalltalk_10610_1",
             "desc": "Charla #1",
-            "dlg": "No todos los Cazadores de Demonios de Sangre se conocen entre ellos.\nPero, ¿sabías que podemos saber de inmediato cuándo estamos de cacería? Hay una... especie única de ira y odio puro que solo se encuentran en los Cazadores de Demonios de Sangre."
+            "dlg": "No todos los Cazadores de Demonios de Sangre se conocen entre ellos.\nPero, ¿sabías que podemos reconocernos de inmediato cuando estamos de cacería? Hay una... especie de ira única y odio puro que solo se encuentra en los Cazadores de Demonios de Sangre."
         },
         {
             "id": "smalltalk_10610_2",
             "desc": "Charla #2",
-            "dlg": "Decidí mandar al Demonio de Sangre que capturamos la anterior vez a mi casa.\n¡A los abuelos de la casa les encantará! Estoy seguro de que tendrán muchas cosas que preguntarle a ese Demonio de Sangre, debido a la larga vida de su especie."
+            "dlg": "Decidí mandar al Demonio de Sangre que capturamos la vez anterior a mi casa.\n¡A los ancestros de la familia les encantará! Estoy seguro de que tendrán muchas cosas que preguntarle a ese Demonio de Sangre, debido a la longevidad de su especie."
         },
         {
             "id": "smalltalk_10610_3",
@@ -38,31 +38,31 @@
         {
             "id": "smalltalk_10610_4",
             "desc": "Charla Post-Aunamiento 1",
-            "dlg": "Los Demonios de Sangre arrebatan a la gente de sus propias familias y les lavan el cerebro para convertirlos en uno de ellos.\n¿Tu verdadera familia dejará de ser tuya luego de ser transformado? ¿Qué siquiera es una verdadera familia, me pregunto?"
+            "dlg": "Los Demonios de Sangre arrebatan a la gente de sus propias familias y les lavan el cerebro para convertirlos en uno de ellos.\n¿Tu verdadera familia dejará de ser tuya luego de ser transformado? ¿Qué es una verdadera familia siquiera, me pregunto?"
         },
         {
             "id": "smalltalk_10610_5",
             "desc": "Charla Post-Aunamiento 2",
-            "dlg": "Algunos consideran a los Demonios de Sangre humanos. Si no lo fueran, ¿por qué la Cabeza no va tras ellos, verdad?\nBueno, ese es su criterio. Bajo nuestros ojos, los Demonios de Sangre no son humanos. Solo son parásitos que debemos de exterminar."
+            "dlg": "Algunos consideran a los Demonios de Sangre humanos. Si no lo fueran, ¿por qué la Cabeza no va tras ellos, no crees?\nBueno, ese es su criterio. Bajo nuestros ojos, los Demonios de Sangre no son humanos. Solo son parásitos que debemos de exterminar."
         },
         {
             "id": "neglect_10610_1",
             "desc": "Inactivo",
-            "dlg": "¿Gustarías de un vaso de agua?"
+            "dlg": "¿Gustarías un vaso de agua?"
         },
         {
             "id": "gacksung_10610_1",
             "desc": "Aunando",
-            "dlg": "Ja ja... ¿cómo se siente, ser cazado por tu propia presa?"
+            "dlg": "Ja, ja... ¿cómo se siente, ser cazado por tu presa?"
         },
         {
             "id": "formation_10610_1",
             "desc": "Desplegar",
-            "dlg": "¿Los Demonios de Sangre... están haciendo un alboroto de nuevo?"
+            "dlg": "Los Demonios de Sangre... ¿están volviendo a hacer un alboroto?"
         },
         {
             "id": "battleentry_10610_1",
-            "desc": "Stage Entry",
+            "desc": "Entrada a Escena",
             "dlg": "No te molestes en venir si no tienes lo que se necesita. Solo te pondrías en mi camino~"
         },
         {
@@ -73,7 +73,7 @@
         {
             "id": "battle_endcommand_10610_1",
             "desc": "Al Atacar",
-            "dlg": "Cacemos"
+            "dlg": "Cacemos."
         },
         {
             "id": "battle_enemy_break_10610_1",
@@ -83,7 +83,7 @@
         {
             "id": "battle_break_10610_1",
             "desc": "Aturdido",
-            "dlg": "Agh..."
+            "dlg": "Ugh..."
         },
         {
             "id": "battle_kill_10610_1",
@@ -108,17 +108,17 @@
         {
             "id": "battle_clear_10610_1",
             "desc": "Grito de Victoria",
-            "dlg": "Algunos se nos escaparon, pero al final ganamos. Deben estar muriéndose del miedo ahorita."
+            "dlg": "Algunos se nos escaparon, pero al final ganamos. Los Demonios de Sangre que escaparon deben de estar muriéndose del miedo, ¿no crees?"
         },
         {
             "id": "battle_clear_ex_10610_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Creo que este lugar ha sido limpiado de Demonios de Sangre. Entonces... ¿vamos a nuestro próximo lugar de caza?"
+            "dlg": "Creo que ya no quedan más Demonios de Sangre en esta zona. Entonces... ¿nos movemos a nuestro próximo lugar de caza?"
         },
         {
             "id": "battle_defeat_10610_1",
             "desc": "Llanto de Derrota",
-            "dlg": "Ja ja... ¿perdimos, eh? Con tanto que hablaba... es un poquito vergonzoso. Pero la próxima, yo..."
+            "dlg": "Ja, ja... ¿perdimos, eh? Con lo mucho que estaba presumiendo... es un poquito vergonzoso. Pero la próxima vez, yo..."
         }
     ]
 }

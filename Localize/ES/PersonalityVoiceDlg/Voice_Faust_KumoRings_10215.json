@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10215_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "¿Ha despertado, Fascia? Faust le ha estado esperando... Hay un nuevo amigo que Faust quiere mostrarle a Fascia. ¿Qué opina? Nuestro nuevo amigo tiene una espléndida muestra de corpus, ¿verdad?"
+        },
+        {
+            "id": "lobby_morning_10215_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Fascia es una dormilona. Por favor, absténgase de visitar a Faust a estas horas."
+        },
+        {
+            "id": "lobby_noon_10215_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "La sesión de críticas ha sido cancelada... ahora nos queda un poco de tiempo de sobra. Fascia, ¿cómo propone que deberíamos invertir este tiempo de ocio de una manera más creativa?\nHmm... Sí. Ja. Faust aprueba la idea."
+        },
+        {
+            "id": "lobby_night_10215_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Cuando la luz del sol desaparece y la intensidad luminosa se apaga, nuevas ideas, libres de previas representaciones, comienzan a articularse entre sí. Es un tiempo en el que los órganos de rojo intenso se desaturan hacia un marrón parecido a la tierra, y su tercera dimensionalidad, libre de su claroscuro, vuelve a un estado de neutralidad sin mediación...\n¡Ah, por supuesto! ¡Esta consigna nunca se trató de corregir un trabajo, sino de la luz!"
+        },
+        {
+            "id": "smalltalk_10215_1",
+            "desc": "Charla #1",
+            "dlg": "Un placer. ¿Le gustaría invertir tiempo para conocernos el uno al otro? Seguramente no será muy difícil volvernos amigos... Incluso para aquellos que no son genios como Faust. Es tan simple como compartir las cosas que amamos, nuestros pasatiempos, nuestros sueños... Sí, con eso debería ser suficiente.\nAh, preferiblemente, algo que excluya las historias de Fixers y los Preceptos. Ha habido una sobrecarga de tales cuentos últimamente."
+        },
+        {
+            "id": "smalltalk_10215_2",
+            "desc": "Charla #2",
+            "dlg": "Si no es mucha molestia, ¿podría regalarle a Faust un pedazo de su cerebro? Se supone que los amigos intercambian regalos, ¿no es así? Verá, Faust desea darle a Fascia una probada de un cerebro desconocido. Ya recibió unos cuantos pedazos del de Faust, y darle más pondría en riesgo a Faust... Por favor, su generosidad sería muy apreciada."
+        },
+        {
+            "id": "smalltalk_10215_3",
+            "desc": "Charla #3",
+            "dlg": "Lo estético se centra exclusivamente en lo visible, pero esta familiaridad evidente a menudo trae negligencia, pasando por alto el significado de lo que se ve.\nEs por esto que Faust forjó esta panoplia. No solo para proporcionar un velo tras el cual pudiera residir la tímida Fascia, sino también para escenificar una estética dual: la pesada inercia del cuerpo blindado frente a la hermosa liberación de la carne reprimida al despojarse de la coraza.\nEl emocionante vacío que surge cuando lo invisible se vuelve visible... ¿No resuena con usted?"
+        },
+        {
+            "id": "smalltalk_10215_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Muy bien, ¿profundizamos un poco más nuestra amistad? Examinemos juntos lo artístico de la anatomización mientras critica el ensamblaje que forma mi cuerpo. Una evaluación imparcial y sincera sería bienvenida... Faust está emocionada por identificar áreas por refinar a futuro."
+        },
+        {
+            "id": "smalltalk_10215_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Fascia, permita que la cadencia de su ritmo cardíaco aumente. Conforme más se avive su flujo sanguíneo, también se avivará su voracidad.\nHoy es un día para darse un festín. Por favor, coma hasta saciarse, no hay necesidad de retenerse. Crezca más y más robusta con cada pieza de corpus devorada. Tal abundancia la elevará a convertirse en una composición aún más hermosa."
+        },
+        {
+            "id": "neglect_10215_1",
+            "desc": "Inactivo",
+            "dlg": "... Fascia necesita descansar. Puede que Faust también."
+        },
+        {
+            "id": "gacksung_10215_1",
+            "desc": "Aunando",
+            "dlg": "Afine sus oídos y escuche. Escuche el latir de Fascia... ¡Este pulsante sonido de la vida!"
+        },
+        {
+            "id": "formation_10215_1",
+            "desc": "Desplegar",
+            "dlg": "Este temblor... ¿También está emocionada, Fascia?"
+        },
+        {
+            "id": "battleentry_10215_1",
+            "desc": "Entrada a Escena",
+            "dlg": "¡Un salón de crítica! Una perspectiva estimulante."
+        },
+        {
+            "id": "battle_select_10215_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Por favor, observe de lejos... Se mira, no se toca."
+        },
+        {
+            "id": "battle_endcommand_10215_1",
+            "desc": "Al Atacar",
+            "dlg": "Una chispa de inspiración."
+        },
+        {
+            "id": "battle_enemy_break_10215_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Estos vasos sanguíneos son bastante gruesos. Nada mal."
+        },
+        {
+            "id": "battle_break_10215_1",
+            "desc": "Aturdida",
+            "dlg": "¿Tiene miedo, Fascia?"
+        },
+        {
+            "id": "battle_kill_10215_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Recién ahora nos volvimos amigos."
+        },
+        {
+            "id": "battle_dead_10215_1",
+            "desc": "Muerte",
+            "dlg": "Fa... scia..."
+        },
+        {
+            "id": "choice_success_p_10215_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "'Che bello'. Exquisito."
+        },
+        {
+            "id": "choice_fail_n_10215_1",
+            "desc": "Juicio Fallido",
+            "dlg": "'Non è bello'. Falto de belleza."
+        },
+        {
+            "id": "battle_clear_10215_1",
+            "desc": "Grito de Victoria",
+            "dlg": "La obra apenas pasa el corte; sin embargo, la sesión de críticas de esta ocasión no aportó mejoras ni ideas para su perfeccionamiento. Fascia está ansiosa por ser completada... \nQuizás sea mejor regresar y practicar con las piezas de los cadáveres embalsamados."
+        },
+        {
+            "id": "battle_clear_ex_10215_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Al fin, Faust completó la obra maestra que incluso el Maestro no tendrá otra alternativa más que aprobarla.\n Jiji. Oh, Fascia también está de acuerdo con Faust."
+        },
+        {
+            "id": "battle_defeat_10215_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Faust solo deseaba hacer amigos... ¿Aquí es donde se cierra el telón sobre el arte de Faust? Ah... Lo lamento, Fascia... Faust estaba demasiado apurada..."
+        }
+    ]
+}

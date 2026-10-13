@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10813_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Ya sabes lo que dicen: a veces en la vida hay que detenerse a oler las flores. Ja, lástima que la gente con la que tratamos suele acabar bajo tierra."
+        },
+        {
+            "id": "lobby_morning_10813_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Sé que es una pregunta extraña para alguien que trabaja en este tipo de negocio, pero... me pregunto cómo se financian. Me refiero a los jugadores, como esos tipos de allá que se pasan el día y la noche plantados en casinos ilegales.\n... Bueno, supongo que eso explica por qué pasan la mayor parte de sus días persiguiendo ese único golpe de suerte que les cambie la vida antes de que gente como nosotros se encargue de ellos."
+        },
+        {
+            "id": "lobby_noon_10813_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Lo que se juega con esas cartas florales, Hwatu o Hanafuda, son nuestra especialidad. Busca otros especialistas si quieres que alguien haga de veedor en partidas con otras cosas, como póker o mahjong.\nBueno, supongo que  <i>podríamos</i>  aceptar tu contrato para esos juegos también, pero... es sentido común tener a un especialista presente en partidas de alto nivel. Incluso si solo estás jugando ddakji con estas cartas."
+        },
+        {
+            "id": "lobby_night_10813_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Oye, ¿qué haces merodeando por aquí a estas horas de la noche? No te metas en problemas y vete a un lugar más seguro... por aquí está como si fuese a estallar una bomba. \nY sobre todo, mantente lejos de esos dos de allá, ¿entendido? Sí, ese tipo con la mirada vacía, y aquel otro que acaba de perder una mano."
+        },
+        {
+            "id": "smalltalk_10813_1",
+            "desc": "Charla #1",
+            "dlg": "Si sientes que estás en una racha de suerte demasiado buena para ser verdad... Tal vez deberías detenerte y ver si tú eres el “ingenuo” en ese juego."
+        },
+        {
+            "id": "smalltalk_10813_2",
+            "desc": "Charla #2",
+            "dlg": "Bueno, ya conoces a los de esa clase. Gente que acusa a sus oponentes de hacer trampa porque no puede admitir que perdió... Ya sabes, malos perdedores. El trabajo de nuestra Oficina normalmente consiste en asegurarnos de que no armen un escándalo. \nSí, algo así como el Öufi supervisa los contratos... Por eso trabajamos bajo su ala, supongo."
+        },
+        {
+            "id": "smalltalk_10813_3",
+            "desc": "Charla #3",
+            "dlg": "Algún día, me gustaría supervisar una partida de Diamante Azul que se lleve a cabo allá arriba, en el último piso. Ya sabes, esas partidas Diamante donde solo participan los apostadores más selectos. Claro, un buen pago siempre viene bien, pero... a veces, no todo se trata del dinero. \nEs solo que, en este negocio, no hay mejor reconocimiento a mi carrera que ser llamado para supervisar una partida que solo convoca a lo mejor de lo mejor."
+        },
+        {
+            "id": "smalltalk_10813_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Tenía el presentimiento de que este juego no iba a tardar en convertirse en un desastre. ¡Tú! Quieto ahí. Cualquiera que intente levantarse de esta mesa, tocar una carta o siquiera estornudar... le cortaré las manos."
+        },
+        {
+            "id": "smalltalk_10813_5",
+            "desc": "Charla Post-Aunarmiento 2",
+            "dlg": "“Bajo por la noche, alto por el día.” En las partidas nocturnas, el número más bajo va primero; en las diurnas, el más alto. Hemos estado aquí sentados desde que amaneció, gente. ¿Por qué seguimos discutiendo esto? Perdiste, así que deja de quejarte y suelta lo que debes. \nAh, por cierto... según las reglas de este juego tal como las observamos nosotros, también puedes optar por soltar las tripas. Avísame si necesitas una mano."
+        },
+        {
+            "id": "gacksung_10813_1",
+            "desc": "Aunando",
+            "dlg": "No. La carta está sobre la mesa... no hay marcha atrás una vez que el dado ha sido lanzado. No importa lo jodido que estés."
+        },
+        {
+            "id": "neglect_10813_1",
+            "desc": "Inactivo",
+            "dlg": "... *silbido* ¿Gokō? Cuesta creer que eso no haya sido un truco de manos."
+        },
+        {
+            "id": "formation_10813_1",
+            "desc": "Desplegar",
+            "dlg": "Vamos. ¿Asistiremos como observadores a una partida de cartas Hwatu para este contrato?"
+        },
+        {
+            "id": "battleentry_10813_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Muy bien, las apuestas sobre la mesa."
+        },
+        {
+            "id": "battle_select_10813_1",
+            "desc": "Visto en batalla.",
+            "dlg": "Ya estoy cumpliendo con mis deberes como veedora. Entablar una conversación conmigo es una violación a las reglas."
+        },
+        {
+            "id": "battle_endcommand_10813_1",
+            "desc": "Al Atacar",
+            "dlg": "¡Oye, eso forma una mano ganadora!"
+        },
+        {
+            "id": "battle_enemy_break_10813_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¡Vamos allá! ¡Koi-koi!"
+        },
+        {
+            "id": "battle_break_10813_1",
+            "desc": "Aturdida",
+            "dlg": "Vaya mano de mierda..."
+        },
+        {
+            "id": "battle_kill_10813_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Hmph. Todo al rojo, ¿eh?"
+        },
+        {
+            "id": "battle_dead_10813_1",
+            "desc": "Muerte",
+            "dlg": "Jamás pensé que me vería acorralada de esta manera..."
+        },
+        {
+            "id": "choice_success_p_10813_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Ah, Jangttaeng"
+        },
+        {
+            "id": "choice_fail_n_10813_1",
+            "desc": "Juicio Fallido",
+            "dlg": "…¿Mangtong? Mierda, esa es la peor mano posible…"
+        },
+        {
+            "id": "battle_clear_10813_1",
+            "desc": "Grito de Victoria",
+            "dlg": "¿No podías solo disfrutar del juego sin perder la compostura? En serio, eres el único responsable de este desastre… Hahh.\nEstas notas se procesarán conforme a las reglas del juego observadas por nuestra parte. \nDebí haber aumentado la comisión del veedor para el efectivo sin reclamar en el contrato… Si tan solo lo hubiera previsto."
+        },
+        {
+            "id": "battle_clear_ex_10813_1",
+            "desc": "Condiciones adicionales cumplidas.",
+            "dlg": "Ahora entiendo por qué nos contrataron para todo el casino… Este agujero está lleno de tramposos que reparten desde el fondo. Uf… estamos cubiertos para el próximo mes aunque no agarremos ni un solo contrato. ¡Joder, qué bueno!"
+        },
+        {
+            "id": "battle_defeat_10813_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Mejor me retiro esta ronda… No puedo cumplir el contrato si estoy algo muerta para ejecutarlo. Hahh. Voy a pedir refuerzos a la oficina."
+        }
+    ]
+}

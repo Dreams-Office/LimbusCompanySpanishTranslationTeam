@@ -1,14 +1,14 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10204_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "¿Se unirá a mí... en la gran labor de purificar la inmundicia abominable?"
+            "dlg": "¿Se unirá a mí... en el gran labor de purificar la inmundicia abominable?"
         },
         {
             "id": "lobby_morning_10204_1",
             "desc": "Saludo Mañanero",
-            "dlg": "¡Ha venido justo a tiempo para los sermones! Se ha ganado algunos elogios, juju."
+            "dlg": "¡Ha venido justo a tiempo para los sermones! Juju, se ha ganado algunos elogios."
         },
         {
             "id": "lobby_noon_10204_1",
@@ -23,7 +23,7 @@
         {
             "id": "smalltalk_10204_1",
             "desc": "Charla #1",
-            "dlg": "¡Debe aceptar todo este dolor! Tiene que trascenderlo... Sólo así podrá renacer."
+            "dlg": "¡Debe aceptar el dolor! Tiene que trascenderlo... Solo así podrá renacer."
         },
         {
             "id": "smalltalk_10204_2",
@@ -33,16 +33,16 @@
         {
             "id": "smalltalk_10204_3",
             "desc": "Charla #3",
-            "dlg": "Lo que constituye a un humano es carne, sangre... y hueso. Todo lo demás es inmundicia.\n...Pasaré por alto esa máscara suya. No es diferente a una simple prenda de vestir."
+            "dlg": "Lo que constituye a un humano es carne, sangre... y hueso. Todo lo demás es inmundicia.\n... Pasaré por alto esa máscara suya. No es diferente a una simple prenda de vestir."
         },
         {
             "id": "smalltalk_10204_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "¿Acaso no lava sus manos cuando estas se llenan de suciedad?\n Keekee... Ve que limpiar la inmundicia es simplemente algo natural."
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¿Dígame... acaso no lava sus manos cuando estas se llenan de suciedad?\n Keekee... Ve que limpiar la inmundicia es simplemente algo natural."
         },
         {
             "id": "smalltalk_10204_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "La compañía... no siempre tiene la respuesta correcta. En ocasiones... tiene uno que forjar su propio camino, ¿no es así?"
         },
         {
@@ -83,12 +83,12 @@
         {
             "id": "battle_break_10204_1",
             "desc": "Aturdido",
-            "dlg": "...Dios mío."
+            "dlg": "... Imposible."
         },
         {
             "id": "battle_kill_10204_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "...al polvo!"
+            "dlg": "... al polvo!"
         },
         {
             "id": "battle_dead_10204_1",
@@ -103,21 +103,21 @@
         {
             "id": "choice_fail_n_10204_1",
             "desc": "Juicio Fallido",
-            "dlg": "¿Cómo puede ser posible...?"
+            "dlg": "¿Cómo es posible...?"
         },
         {
             "id": "battle_clear_10204_1",
             "desc": "Grito de Victoria",
-            "dlg": "¿Se ha acabado la purificación..? Jeeje."
+            "dlg": "¿Se ha acabado la purificación...? Jeeje."
         },
         {
             "id": "battle_clear_ex_10204_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "¡Por el mundo más puro!"
+            "dlg": "¡Por un mundo más puro!"
         },
         {
             "id": "battle_defeat_10204_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "¿Derrota...? No lo puedo creer. ¿Dónde están mis martillos?"
         }
     ]

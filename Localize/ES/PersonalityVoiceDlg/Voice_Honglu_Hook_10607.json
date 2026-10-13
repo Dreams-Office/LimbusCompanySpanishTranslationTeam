@@ -1,19 +1,19 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10607_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "Wow~ ¿En esta Oficina podemos matar a diestra y siniestra y ser elogiados por eso?"
+            "dlg": "Wow~ ¿En esta Oficina nos elogiarán por matar a diestra y siniestra?"
         },
         {
             "id": "lobby_morning_10607_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Ha pasado un tiempo desde que tuve un desayuno sin temblar del frio~ Me acostumbré a comer en la calles."
+            "dlg": "Ha pasado un tiempo desde que tuve un desayuno sin temblar del frío~ Me acostumbré a comer en la calles."
         },
         {
             "id": "lobby_noon_10607_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Santo cielo~ Creo que me dieron calambres por despedazar tanta gente ayer~ Realmente debería dejar de llevarme por el entusiasmo de otra gente."
+            "dlg": "Santo cielo~ Creo que me dieron calambres por despedazar tanta gente ayer~ Realmente no debería dejarme llevar por el entusiasmo de los demás."
         },
         {
             "id": "lobby_night_10607_1",
@@ -28,7 +28,7 @@
         {
             "id": "smalltalk_10607_2",
             "desc": "Charla #2",
-            "dlg": "La Oficina Gancho... Mm. No sé por cuanto he trabajado aquí. Aún le sigue quedando un largo camino... Pero sabes como pueden ser las Oficinas. Tan fácil como son de abrirse y así de fácil se desaparecen sin previo aviso."
+            "dlg": "La Oficina Gancho... Mm. No sé por cuanto he trabajado aquí. Aún le sigue quedando un largo camino... Pero sabes como son las Oficinas. Son fáciles de abrirse e igual de fáciles de desaparecer sin previo aviso."
         },
         {
             "id": "smalltalk_10607_3",
@@ -37,12 +37,12 @@
         },
         {
             "id": "smalltalk_10607_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "Hm, hm. No hables tan bajo. Es un poco... irritante. ¿No hagamos que tu muerte sea aún más dolorosa, hm?"
         },
         {
             "id": "smalltalk_10607_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "Este equipamiento biónico de ese Taller es realmente útil. Aparentemente también es más fácil de equipar que otros. Y se mueven como si fueran mis propias extremidades. Puedo cortar, despedazar, decorar... tiene un montón de usos~"
         },
         {
@@ -113,12 +113,12 @@
         {
             "id": "battle_clear_ex_10607_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Haah~ ¡Finalmente puedo descansar tranquilo! Debería seguir guardando dinero y comprarme un mejor equipamento."
+            "dlg": "Haah~ ¡Finalmente puedo descansar tranquilo! Debería seguir guardando dinero y comprarme un mejor equipamiento."
         },
         {
             "id": "battle_defeat_10607_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "¿Qué..? ¿Los Fixers no pueden matar a la gente así sin más...? Así que me mintieron..."
+            "desc": "Llanto de Derrota ",
+            "dlg": "¿Qué...? ¿Los Fixers no pueden matar a la gente así sin más...? Así que me mintieron..."
         }
     ]
 }

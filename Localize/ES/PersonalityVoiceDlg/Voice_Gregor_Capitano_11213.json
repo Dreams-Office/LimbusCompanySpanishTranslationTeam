@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11213_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Cuando deje de llover, tendré que abandonar este callejón para siempre.\n*fshh* Todavía no tengo pensado morir."
+        },
+        {
+            "id": "lobby_morning_11213_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "... Hacía tiempo que una Purga no se extendía hasta el amanecer. Supongo que ahora que se acerca la Junta de Dedos, hay más idiotas que no saben cómo cerrar la boca."
+        },
+        {
+            "id": "lobby_noon_11213_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "... Entendido, gracias. Juro... que me llevaré esto a la tumba.\nUna Purga, ¿eh? Bueno, me alegra que los contactos que hice en el trabajo... no fueran del todo inútiles. Con esta información, espero que alguno de nosotros logre salir con vida."
+        },
+        {
+            "id": "lobby_night_11213_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Tiene gracia que tras tantas noches encargándonos de las Purgas... ahora seamos el objetivo.\nCayó la noche, ya es hora de firmar esa invitación. Si estamos condenados a vagar en la oscuridad... que la luz de una Estrella de la Ciudad guíe nuestro camino."
+        },
+        {
+            "id": "smalltalk_11213_1",
+            "desc": "Charla #1",
+            "dlg": "No es como si no me lo hubiera esperado. El jefe... era demasiado joven e impulsivo... alguien que no dejaría pasar una injusticia. \nQuizás fue por eso que no me enfadé tanto. Pero ese \"accidente\"... fue una pregunta estúpida, cuestionando las intenciones del Padrino... Hahh, cuanto más lo pienso, más absurdo me parece."
+        },
+        {
+            "id": "smalltalk_11213_2",
+            "desc": "Charla #2",
+            "dlg": "Estar mal parado, hablar con la boca llena, suspirar, interrumpir a tu superior mientras habla... Les dije una y otra vez que no lo hicieran. Pero siempre había alguno que decía no poder dejar ese hábito.\nTrabajando para el Pulgar, no hay forma más rápida de cavar tu propia tumba... que tener \"hábitos\" tan imprudentes."
+        },
+        {
+            "id": "smalltalk_11213_3",
+            "desc": "Charla #3",
+            "dlg": "Ser Ejecutores de Purgas del sur. Ese el mayor puesto que nosotros los Punzones de la Noche jamás podríamos haber tomado... No somos de ninguna Famiglia conocida, y nunca hemos sido parte de ninguna facción poderosa... Ya no importa. Luchamos como perros callejeros para tener un lugar en las Callejuelas de L Corp. Pero no ha servido de nada."
+        },
+        {
+            "id": "smalltalk_11213_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Si eres objetivo de una Purga del Pulgar... será mejor que los Punzones de la Noche se encarguen si prefieres evitar una muerte dolorosa.\nTe atacaremos en puntos vitales y pondremos fin a tu vida rápidamente. En la Ciudad, no hay mejor muerte que esa."
+        },
+        {
+            "id": "smalltalk_11213_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Los novatos que consiguen una buena prenda de un Taller… siempre acaban dejando que los golpeen en combate para “probar qué tanto aguanta”.\nEn mi opinión, no valoran lo suficiente sus vidas. No importa si es de acero, o de la tela de un Taller, a menos que realmente sea de altísima calidad. Toda prenda tiene costuras."
+        },
+        {
+            "id": "neglect_11213_1",
+            "desc": "Inactivo",
+            "dlg": "*fshh* Tanto silencio... no está nada mal.\nAquellos que sean sordos, ciegos y silenciosos, vivirán cien años de paz."
+        },
+        {
+            "id": "gacksung_11213_1",
+            "desc": "Aunando",
+            "dlg": "El índice, W Corp., la Asociación Shi... Usan todo tipo de técnicas, justo como se rumorea.\nSin embargo... todos los oponentes tienen un punto débil que se puede aprovechar. Todavía hay esperanza... Puede que podamos sobrevivir."
+        },
+        {
+            "id": "formation_11213_1",
+            "desc": "Desplegar",
+            "dlg": "Con tal de sobrevivir... haré lo que sea."
+        },
+        {
+            "id": "battleentry_11213_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Solo puedo seguir luchando... hasta el final."
+        },
+        {
+            "id": "battle_select_11213_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Mantente alerta y concéntrate en la pelea. Si no quieres morir."
+        },
+        {
+            "id": "battle_endcommand_11213_1",
+            "desc": "Al Atacar",
+            "dlg": "Acabemos con esto rápidamente."
+        },
+        {
+            "id": "battle_enemy_break_11213_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¿Este es tu punto débil?"
+        },
+        {
+            "id": "battle_break_11213_1",
+            "desc": "Aturdido",
+            "dlg": "Kgh..."
+        },
+        {
+            "id": "battle_kill_11213_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Estabas lleno de aberturas."
+        },
+        {
+            "id": "battle_dead_11213_1",
+            "desc": "Muerte",
+            "dlg": "Supongo que huir... no cambió nuestro destino..."
+        },
+        {
+            "id": "choice_success_p_11213_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "¿Qué más falta? Acabemos cuanto antes."
+        },
+        {
+            "id": "choice_fail_n_11213_1",
+            "desc": "Juicio Fallido",
+            "dlg": "... Si tan solo el trabajo duro siempre diera resultados."
+        },
+        {
+            "id": "battle_clear_11213_1",
+            "desc": "Grito de Victoria",
+            "dlg": "¿Cuántos seguimos con vida? ¿Pueden mantenerse en pie?\nDeberíamos reclutar más gente cuando salgamos de aquí. Volver con el Pulgar siendo tan pocos... hará que el capo dei capi nos considere inútiles."
+        },
+        {
+            "id": "battle_clear_ex_11213_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Démonos prisa, si nos tardamos sobrevivir tanto tiempo no nos servirá de nada.\nEl Libro del Índice... no está nada mal. Esto debería servir para evitar la Purga."
+        },
+        {
+            "id": "battle_defeat_11213_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "La Biblioteca, las Callejuelas... Fue inútil pensar en huir...\nHahh... Aunque lograra evitar la Purga... no pude evitar... mi propia muerte."
+        }
+    ]
+}

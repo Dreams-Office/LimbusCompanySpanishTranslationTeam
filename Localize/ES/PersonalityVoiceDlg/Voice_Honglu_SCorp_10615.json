@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10615_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Jeje, ¿no te lo había advertido ya? Por más que salte, una pulga no puede escapar de la mano que se cierra sobre ella~"
+        },
+        {
+            "id": "lobby_morning_10615_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Aún tengo toda una lista de Nobis fugitivos para atrapar... Mmh. Ah, no puedo más. Por cazarlos toda la noche, quedé muy cansado...\n¿Por qué no continuamos la cacería... buaa... al mediodía?"
+        },
+        {
+            "id": "lobby_noon_10615_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "No lo sé... Aún tenemos un poco de tiempo antes de salir. ¿Qué tal si vamos a un <i> jumak </i> y comemos algo? Cuando salgamos, no pararemos ni un segundo hasta el atardecer; mejor hacerlo con la barriga llena~\n¡Disculpe, señora~! Dos tazones de <i> gukbap </i> caliente, por favor~"
+        },
+        {
+            "id": "lobby_night_10615_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Mira cómo la luna y su brillo se asoman en el cielo, una luz que no deja una esquina cubierta por sombras en estos callejones. Puedes huir~ Puedes esconderte~ pero te encontraré y te arrastraré de vuelta."
+        },
+        {
+            "id": "smalltalk_10615_1",
+            "desc": "Charla #1",
+            "dlg": "\"Cuando el hueso se pega a la carne, como la carne se pega al hueso, las lágrimas de sangre inundarán las calles\", una frase bastante acertada, ¿no crees?\nCon los Círculos de la Corte de Sal y Ppyeo confabulando, el pobre Pi queda sangrando cual cerdo en el matadero~\nEso nos da a los Ch'unokkuns una buena temporada de caza. Corres, te atrapamos, corres de nuevo, te atrapamos de nuevo... ¡Supongo que te debemos agradecer por inflar nuestros salarios!"
+        },
+        {
+            "id": "smalltalk_10615_2",
+            "desc": "Charla #2",
+            "dlg": "¿Escuchaste? Dicen por ahí que algunos científicos de la facción \"Pi (Sangre)\" han estado huyendo uno por uno a T Corp.\nJuju, me pregunto, ¿por qué se empeñan tanto en irse, cuando la vida ahí es tan agotadora como aquí? \"Cualquier lugar es mejor que aquí\", habrán pensado... Hay pocas esperanzas más vacías que esa, ¿no crees?"
+        },
+        {
+            "id": "smalltalk_10615_3",
+            "desc": "Charla #3",
+            "dlg": "Si quieres encontrar trabajo como un Ch'unokkun, esta venda rastreadora es imprescindible. Póntela sobre los ojos y en la noche podrás ver tan claro como el día. También indica el camino a seguir... y, con la autorización apropiada, también puedes darle una ojeada a las identificaciones de los residentes de S Corp.~"
+        },
+        {
+            "id": "smalltalk_10615_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Lo entiendo... sé que es un fastidio moverse después de que tu carne y tendones fueran cercenados con una sierra... pero por décima vez, no te voy a matar.\nPodría haber usado el otro lado de la hoja para cortarte la cabeza de un tajo si quisiera~ Pero, hmm~, no pienso darte una salida tan fácil. Así que, ¿por qué no nos apresuramos y lo hacemos por las buenas, hm? "
+        },
+        {
+            "id": "smalltalk_10615_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "No sé a qué parte del Círculo de la Corte pertenecías, pero si sintieron la necesidad de marcarte, ¡es porque debías ser alguien importante!\nDespués de todo, ellos no marcan a cualquiera por cometer un delito. O bien eres indispensable para S Corp., cometiste alta traición o quizás... Hm, ¿quizás eres un excelente Mugwan, cuya fuerza tuvo que ser reprimida y controlada?"
+        },
+        {
+            "id": "neglect_10615_1",
+            "desc": "Inactivo",
+            "dlg": "... No estarás pensando en huir, ¿verdad?"
+        },
+        {
+            "id": "gacksung_10615_1",
+            "desc": "Aunando",
+            "dlg": "¡Muy bien, sé un buen Nobi y revélate, así puedo atarte como el convicto que eres! No dejemos a mis dogales escarlata esperando, ¿okey?"
+        },
+        {
+            "id": "formation_10615_1",
+            "desc": "Desplegar",
+            "dlg": "Si me llamaste... Ajá. Hay un Nobi fugitivo para cazar, ¿no?"
+        },
+        {
+            "id": "battleentry_10615_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Es hora de salir a cazar algunos fugitivos~"
+        },
+        {
+            "id": "battle_select_10615_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Ups. ¡Ten cuidado, por favor! Casi te ato pensando que eras un Nobi~"
+        },
+        {
+            "id": "battle_endcommand_10615_1",
+            "desc": "Al Atacar",
+            "dlg": "¡Amárrenlos a todos!"
+        },
+        {
+            "id": "battle_enemy_break_10615_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Si tanto temes ser llevado de vuelta..."
+        },
+        {
+            "id": "battle_break_10615_1",
+            "desc": "Aturdido",
+            "dlg": "Ngh..."
+        },
+        {
+            "id": "battle_kill_10615_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... ¡al menos déjame llevar tu cabeza!"
+        },
+        {
+            "id": "battle_dead_10615_1",
+            "desc": "Muerte",
+            "dlg": "... Y pensar que el cazador... resulto ser cazado... ¡Gah...!"
+        },
+        {
+            "id": "choice_success_p_10615_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Cuando te dedicas a perseguir personas, terminas aprendiendo unos cuantos truquitos nuevos~"
+        },
+        {
+            "id": "choice_fail_n_10615_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Ejem... No pasa nada, esto no era una cacería de Nobis de todas formas."
+        },
+        {
+            "id": "battle_clear_10615_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Unos pocos lograron escaparse, sí... Pero no estamos cortos de Nobis que cazar y atrapar, ¿verdad? Hay plebeyos imbéciles escalando los muros para huir a otros distritos incluso mientras hablamos.\nNo nos preocupemos por los altibajos de esta persecución. ¡Lanzaremos los dogales con más precisión la próxima vez!"
+        },
+        {
+            "id": "battle_clear_ex_10615_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Hemos capturado a los últimos Nobi de la lista de buscados... También atrapamos a algunos marcados, así que eso es un extra... Jaja, ¿quizás deberíamos darnos un gusto con un modesto banquete de carne y vino?"
+        },
+        {
+            "id": "battle_defeat_10615_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Vaya... se nos volvieron a escapar. Hmm... No podemos perder tanto tiempo en un Distrito controlado por otra Ala. ¿Nos retiramos antes de que la cosa se ponga fea?\nRespecto a los Nobis fugitivos... Bueno, otros Ch'unokkuns deberían ir a cazarlos si es que son esclavos que valgan la pena."
+        }
+    ]
+}

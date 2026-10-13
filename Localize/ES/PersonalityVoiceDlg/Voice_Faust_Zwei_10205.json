@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10205_1",
@@ -8,7 +8,7 @@
         {
             "id": "lobby_morning_10205_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Una mañana segura. Como siempre, estamos comprometidos a garantizar la seguridad de la zona circundante. Que tenga un buen día.."
+            "dlg": "Una mañana segura. Como siempre, estamos comprometidos a garantizar la seguridad de la zona circundante. Que tenga un buen día."
         },
         {
             "id": "lobby_noon_10205_1",
@@ -37,12 +37,12 @@
         },
         {
             "id": "smalltalk_10205_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "Normalmente, estos contratos se firman cuando el cliente pide la protección de múltiples objetivos.\nPor lo tanto... es usual que se tenga que defender clientes contra múltiples amenazas. Y lo mismo ocurre con Faust."
         },
         {
             "id": "smalltalk_10205_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "¿Preguntas sobre las dificultades de mi trabajo? Nunca he considerado tales detalles. A Faust solo le concierne la seguridad de sus objetivos a proteger."
         },
         {
@@ -117,8 +117,8 @@
         },
         {
             "id": "battle_defeat_10205_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "Está... bien. No somos los únicos escudos en los Zwei. Por favor, reconsidere su decisión de rescindir nuestro contrato..."
+            "desc": "Llanto de Derrota ",
+            "dlg": "Está... bien. No somos los únicos escudos de la Zwei. Por favor, reconsidere su decisión de rescindir nuestro contrato..."
         }
     ]
 }

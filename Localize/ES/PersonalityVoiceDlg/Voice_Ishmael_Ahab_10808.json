@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10808_1",
@@ -23,7 +23,7 @@
         {
             "id": "smalltalk_10808_1",
             "desc": "Charla #1",
-            "dlg": "¡No tememos a los horrores inconmensurables del mar! ¡Erguíos! ¡Denles una sonrisa feroz y una risa desenfrenada! ¡Eso es lo que significa ser parte de la tripulación del Pequod!"
+            "dlg": "¿Acaso le tenemos miedo a los horrores inconmensurables del mar? ¡Pues no! ¡Los enfrentamos con una sonrisa despiadada! ¡Eso es lo que significa ser parte de la tripulación del Pequod!"
         },
         {
             "id": "smalltalk_10808_2",
@@ -37,18 +37,18 @@
         },
         {
             "id": "smalltalk_10808_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "¡Arponeros! ¡Aseguren sus arpones! ¡Timoneles, timón a la derecha con fuerza! ¡REMEROS!! ¡Concéntrense y REMEN!!!"
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¡Arponeros! ¡Aseguren sus arpones! ¡Timoneles, timón a la derecha con fuerza! ¡REMEROS! ¡¡Concéntrense y REMEN!!"
         },
         {
             "id": "smalltalk_10808_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "¡Todos a cubierta, escuchen mi orden! ... ¡Nuestra hora más gloriosa ha llegado! ¡Esta noche, cazamos a la Ballena!\n¡Esta noche, cazamos a la Ballena Carmesí Que Todo Marchita!"
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "¡Tripulación, escuchen mi orden! ... ¡Nuestra hora más gloriosa ha llegado!\n¡Esta noche, nos enfrentaremos a la ballena que tanto esperábamos!\nLa Ballena Carmesí Que Todo Marchita... ¡será cazada por nosotros!"
         },
         {
             "id": "gacksung_10808_1",
             "desc": "Aunando",
-            "dlg": "¡Truenos y relámpagos... Sí, la batalla de nuestras vidas está por llegar! ¡Cazaremos a la Ballena de todos los males! ¡Jajajajaja!"
+            "dlg": "Truenos y relámpagos... Sí, ¡la batalla de nuestras vidas está por llegar! ¡Cazaremos a la Ballena de todos los males! ¡Jajajajaja!"
         },
         {
             "id": "neglect_10808_1",
@@ -78,7 +78,7 @@
         {
             "id": "battle_enemy_break_10808_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "¡Nuestros enemigos tiemblan! ¡Es nuestra oportunidad para cambiar el rumbo de la batalla!"
+            "dlg": "¡Nuestros enemigos tambalean! ¡Es nuestra oportunidad para cambiar el rumbo de la batalla!"
         },
         {
             "id": "battle_break_10808_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10808_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "¡Perfecto! ¡No paren hasta que hayamos eliminado a cada uno de ellos! ¡No habrá tregua hasta que lo logremos!"
+            "dlg": "¡Perfecto! ¡No paren hasta que eliminemos a todos y a cada uno de ellos! ¡Hasta que lo logremos no habrá tregua alguna!"
         },
         {
             "id": "battle_dead_10808_1",
             "desc": "Muerte",
-            "dlg": "¡Y-yo soy la Capitana Ishmael! ¡No sucumbiré… aquí...!"
+            "dlg": "¡Y-yo soy la Capitana Ishmael! ¡No sucumbiré… aquí…!"
         },
         {
             "id": "choice_success_p_10808_2",
@@ -108,7 +108,7 @@
         {
             "id": "battle_clear_10808_1",
             "desc": "Grito de Victoria",
-            "dlg": "¡No te enorgullezcas de esta victoria menor! Lo que buscamos es mucho más grande y más aterrador que este simple triunfo; nuestra Ballena es la verdadera prueba."
+            "dlg": "¡No te enorgullezcas de esta victoria tan mediocre! ¡La Ballena que cazaremos es mucho más grande y feroz que esto!"
         },
         {
             "id": "battle_clear_ex_10808_1",
@@ -117,7 +117,7 @@
         },
         {
             "id": "battle_defeat_10808_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "¡Patéticos inútiles! ¿Se atreven a rendirse aquí? ¡No recuerdo haberles dado la orden de ser derrotados!"
         }
     ]

@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11214_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Contrario a la creencia popular, las segundas oportunidades rara vez llegan.\nAsí que esta vez, tomaré acción al respecto. Al fin y al cabo, los arrepentimientos prolongados solo provocan una emoción repulsiva."
+        },
+        {
+            "id": "lobby_morning_11214_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "En encargaré de la patrulla matutina de las instalaciones de investigación hoy.\nNecesito confirmar con mis propios ojos que todos los intrusos se hayan retirado, y asegurarme que ni uno de ellos se esté escondiendo en alguna parte. "
+        },
+        {
+            "id": "lobby_noon_11214_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "¿Acaso no te advierto siempre que tu exceso en el consumo de carbohidratos es lo que causa tu somnolencia postprandial? Si no te es mucha molestia, podría traernos tres tacitas de café para mi equi...\n... Ah. No te preocupes. Ignora lo que dije, me traeré mi propio café."
+        },
+        {
+            "id": "lobby_night_11214_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Ya veo. Conque decidieron denegar mi carta de renuncia a cambio de aceptar el plan de la misión. Es una respuesta bastante simple como para haberme hecho esperar hasta la noche por ella. Justo lo que esperaba."
+        },
+        {
+            "id": "smalltalk_11214_1",
+            "desc": "Charla #1",
+            "dlg": "Aunque las instalaciones hayan sido restauradas, las actividades de investigación no pueden continuarse de inmediato. Necesitamos tiempo para que las cosas vuelven a la normalidad, y rellenar los puestos vacantes.\n... Tendré mucho por hacer una vez completemos esta operación. Rediseñaré las instalaciones desde cero. ... Telaraña, ¿no? Bien, le daré buen uso a lo que aprendí."
+        },
+        {
+            "id": "smalltalk_11214_2",
+            "desc": "Charla #2",
+            "dlg": "Creo que fue ayer cuando oí el ridículo rumor, originado en otro departamento, de que en realidad soy un agente de alto rango que de alguna manera logró escapar de la cede central cuando fue enterrada.\nEntiendo que muchos se encuentran curiosos sobre el como logré hacerme con el equipamiento de la cede central, pero, ¿en serio creen que esas conjeturas poseen coherencia alguna? Fuh.... \nPor favor, detenga esos improductivos rumores si los escucha."
+        },
+        {
+            "id": "smalltalk_11214_3",
+            "desc": "Charla #3",
+            "dlg": "Es cierto que estoy orgulloso de todos y cada uno de los resultados que he logrado en mi vida dedicada a la investigación, pero nunca llegué a pensar que estos fueron deslumbrantes.\n... Quizá eso fue lo que provocó mi curiosidad sobre el 'orgullo deslumbrante' propio de este equipamiento E.G.O."
+        },
+        {
+            "id": "smalltalk_11214_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¿Te crees que no tengo idea del complot organizado por los superiores? Solo es que... me mantengo callado porque no lograré nada sacándolo a la luz.\nSolo espero que no se olviden de que hay alguien observándolos, vigilando cada uno de sus movimientos y conspiraciones."
+        },
+        {
+            "id": "smalltalk_11214_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Lo sé. Sé que matar al tal \"Padrastro del Anular\" no cambiará nada.\nEs por eso que mi participación no termina siendo nada más que una búsqueda de mi propia satisfacción, un repulsivo acto de cobardía justificada por la conveniente excusa de vengar a los muertos para calmar mi conciencia."
+        },
+        {
+            "id": "neglect_11214_1",
+            "desc": "Inactivo",
+            "dlg": "Uno no debe parar de vocalizar sus pensamientos de esta forma, por lo contrario, serán deslumbrados por los susurros de la anormalidad. El decir en voz alta los pensamientos inusuales te ayudará a darte cuenta de que los deja vus no son más que ilusiones de la mente."
+        },
+        {
+            "id": "gacksung_11214_1",
+            "desc": "Aunando",
+            "dlg": "Puedo ver todo con extrema claridad sin importar la distancia, cosas que no podía ver antes, cosas que estaban ocultas en las sombras.\n... Suficientes pruebas. Es obvio que tengo la aptitud adecuada para portar este E.G.O y el regalo al mismo tiempo."
+        },
+        {
+            "id": "formation_11214_1",
+            "desc": "Desplegar",
+            "dlg": "La misión iniciará pronto. Así que todos... manténganse dentro de mi campo de visión."
+        },
+        {
+            "id": "battleentry_11214_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Eres... la bestia de este bosque."
+        },
+        {
+            "id": "battle_select_11214_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Lamentablemente, los únicos habitantes de mi bosque están muertos. Así que, lo único que puedo hacer... es matar a la bestia."
+        },
+        {
+            "id": "battle_endcommand_11214_1",
+            "desc": "Al Atacar",
+            "dlg": "Aumentando Sintonización de E.G.O... "
+        },
+        {
+            "id": "battle_enemy_break_11214_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Quédate quieto."
+        },
+        {
+            "id": "battle_break_11214_1",
+            "desc": "Aturdido",
+            "dlg": "Oh..."
+        },
+        {
+            "id": "battle_kill_11214_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Vine a salvarte."
+        },
+        {
+            "id": "battle_dead_11214_1",
+            "desc": "Muerte",
+            "dlg": "Conque así es como... esto termina...."
+        },
+        {
+            "id": "choice_success_p_11214_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "... Si esto incrementa las probabilidades de éxito de la operación, no veo por qué no."
+        },
+        {
+            "id": "choice_fail_n_11214_1",
+            "desc": "Juicio Fallido",
+            "dlg": "No requiero consuelo por este incidente. En el ámbito de la investigación, tales fallos se clasifican como fuente de humor para el investigador."
+        },
+        {
+            "id": "battle_clear_11214_1",
+            "desc": "Grito de Victoria",
+            "dlg": "¿Sabes qué es de verdad devastador? Que serán mis propias manos las que consignen “Misión cumplida” en el informe post mortem. Hahh... Aun quedan más nombres por eliminar. La propuesta de investigación... supongo que deberé descártala."
+        },
+        {
+            "id": "battle_clear_ex_11214_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "No intentaba impartirte lecciones como “la realidad excede lo perceptible” o “lo esencial no es visible a simple vista”.\nSolo quería dar un golpe único que nadie vea venir."
+        },
+        {
+            "id": "battle_defeat_11214_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Hahh… ya veo. Nunca hubo una bestia… en este bosque…"
+        }
+    ]
+}
