@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_11105_1",
@@ -13,7 +13,7 @@
         {
             "id": "lobby_noon_11105_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Fiu, finalmente me empiezo a sentir mejor. Creo que hoy mejor no tomo vino en el almuerzo."
+            "dlg": "Fiu, finalmente me empiezo a sentir mejor. Creo que hoy mejor no tomaré vino con el almuerzo."
         },
         {
             "id": "lobby_night_11105_1",
@@ -37,12 +37,12 @@
         },
         {
             "id": "smalltalk_11105_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "Puedo ser bastante versátil cuando toca pelear. Ahora, observa. En lugar de ir por un ataque directo, ¡primero crea una apertura desviando su ataque!... Y luego lo matas."
         },
         {
             "id": "smalltalk_11105_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "Peleas así abundaban en cada esquina cuando vivía en las Callejuelas. Por eso, si no es nada muy desafiante, prefiero dejárselo a los otros dos...\nPero las cosas no siempre van como yo quiero, como si lo hicieran alguna vez."
         },
         {
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_11105_1",
             "desc": "Vista en Batalla",
-            "dlg": "Que, ¿algo anda mal?"
+            "dlg": "¿Qué, algo anda mal?"
         },
         {
             "id": "battle_endcommand_11105_1",
@@ -78,7 +78,7 @@
         {
             "id": "battle_enemy_break_11105_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "Ah~ ¿Te pegue muy fuerte?"
+            "dlg": "Ah~ ¿Te pegué muy fuerte?"
         },
         {
             "id": "battle_break_11105_1",
@@ -117,7 +117,7 @@
         },
         {
             "id": "battle_defeat_11105_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "¡No... puede ser...! Haah, ¿acaso fue todo mi culpa...?"
         }
     ]

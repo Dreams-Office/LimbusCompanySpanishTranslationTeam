@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10913_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Lo único que me quedaba era mi vacua y desgastada soberbia en haber sido la primera en gestionarte, y aún así... ¿preferiste escoger a ese niño...?"
+        },
+        {
+            "id": "lobby_morning_10913_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Oh... ¿ya es hora? Perdón, me la pasé estudiando el gestionamiento de las Anormalidades WAW toda la noche y no me di cuenta que ya se hizo de mañana. ... Me les uno en un minuto."
+        },
+        {
+            "id": "lobby_noon_10913_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "El Equipo de Bienestar no tiene reglas para el almuerzo. No tienes que pedirme permiso para ir a comer, ve nomás. Yo... solo comeré un sándwich. Tengo mucho en que pensar, y muy poco apetito."
+        },
+        {
+            "id": "lobby_night_10913_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "¿Dices que me veo deprimida? No, debe ser por el Equipamiento E.G.O... O, quizá es la noche la que me pone sentimental. Hm... sí, debe ser eso."
+        },
+        {
+            "id": "smalltalk_10913_1",
+            "desc": "Charla #1",
+            "dlg": "¿Que quién está trabajando con O-01-73? Um... es alguien de mi equipo. Seguro que él lo hace mucho mejor que yo, ¿no? Pues yo... hace mucho que no trabajo con esa Anormalidad."
+        },
+        {
+            "id": "smalltalk_10913_2",
+            "desc": "Charla #2",
+            "dlg": "Creo que los caballeros... son un poco deprimentes. Pasan todas su vida manteniendo en alto las leyes de Dios, buscando ser valientes y defender la justicia... hasta que un día las dudas comienzan a invadirlos. \"¿Qué tal si todo lo que he hecho... no ha salvado ni protegido a nadie? Si es así... ¿cuál siquiera es mi razón de existir?\""
+        },
+        {
+            "id": "smalltalk_10913_3",
+            "desc": "Charla #3",
+            "dlg": "Hay algo que pienso de tanto en tanto. Pienso que me dieron este equipamiento E.G.O no porque reconocieran mis habilidades ni nada parecido... sino solo porque he sobrevivido aquí mucho tiempo.\nHe hecho todo bien. Análisis de estado emocional, aplicaciones de la teoría cognitiva... todo. Entonces si nada de eso fue suficiente como para que ella quisiera elegirme..."
+        },
+        {
+            "id": "smalltalk_10913_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Sí... al final el niño murió. Y no fue tu culpa. Pero, aquí estás, llorando como si cargaras con toda la desesperación del mundo.\n... Yo fui la primera en gestionarte, así que supongo que tengo que hacerme cargo de ti ahora. Bueno... Volvamos, O-01-73."
+        },
+        {
+            "id": "smalltalk_10913_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Todas esas espadas afiladas por tus lágrimas... docenas de ellas... están hiriendo a todos. ¿Así que no te importa si todos mueren, mientras no sea ese niño que escogiste? ¿Y te haces llamar... una caballera? Los caballeros nunca lloran, tú misma lo dijiste."
+        },
+        {
+            "id": "neglect_10913_1",
+            "desc": "Inactivo",
+            "dlg": "... ¿Oh? N-no es nada. A veces me pongo así. Triste sin razón alguna..."
+        },
+        {
+            "id": "gacksung_10913_1",
+            "desc": "Aunando",
+            "dlg": "Te enfrentaré, con aquellas lágrimas y constelaciones que extrajimos de ti. No importa si fui tu elegida, o no. Tengo que llevar a cabo las órdenes del gerente."
+        },
+        {
+            "id": "formation_10913_1",
+            "desc": "Desplegar",
+            "dlg": "Necesitas la ayuda del Equipo de Bienestar, ¿no es así?"
+        },
+        {
+            "id": "battleentry_10913_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Tasa de Corrosión de E.G.O... aceptable. ... Creo."
+        },
+        {
+            "id": "battle_select_10913_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Ehm... ¿podemos hablar más tarde? No tengo muchos ánimos ahora mismo."
+        },
+        {
+            "id": "battle_endcommand_10913_1",
+            "desc": "Al Atacar",
+            "dlg": "Perspicaz... y preciso."
+        },
+        {
+            "id": "battle_enemy_break_10913_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "... Seguro que incluso tú tuviste a alguien que se preocupara por ti."
+        },
+        {
+            "id": "battle_break_10913_1",
+            "desc": "Aturdido",
+            "dlg": "A pesar que juré proteger..."
+        },
+        {
+            "id": "battle_kill_10913_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... También tengo mucho más por proteger."
+        },
+        {
+            "id": "battle_dead_10913_1",
+            "desc": "Muerte",
+            "dlg": "Por favor... no me despierten.. Quiero... descansar."
+        },
+        {
+            "id": "choice_success_p_10913_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "¿Viste eso? Confía en mí... y nunca te traicionaré."
+        },
+        {
+            "id": "choice_fail_n_10913_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Oh... No debí de haberlo intentado siquiera. Cada vez termina igual..."
+        },
+        {
+            "id": "battle_clear_10913_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Bien hecho. Vamos terminando con lo que quede aquí para movernos y ayudar al otro pasillo. Y sobre el reporte... ¿podría hacerlo alguien más, por favor?\nQuiero descansar un poco. Ja ja."
+        },
+        {
+            "id": "battle_clear_ex_10913_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "... Incluso yo me he vuelto mucho mejor que antes, creo. Hablando de eso... el niño que fue bendecido por esa Anormalidad ya no está con nosotros, ¿verdad? ... ¿Me pregunto si me dejarán gestionarla otra vez?"
+        },
+        {
+            "id": "battle_defeat_10913_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Nunca puedo hacer nada bien... ni siquiera pude proteger a nadie después de todo.\nSolo... solo mátame por favor... Así nunca volveré a empuñar una espada."
+        }
+    ]
+}

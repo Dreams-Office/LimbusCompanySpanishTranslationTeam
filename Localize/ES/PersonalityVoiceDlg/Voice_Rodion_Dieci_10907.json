@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10907_1",
@@ -18,7 +18,7 @@
         {
             "id": "lobby_night_10907_1",
             "desc": "Saludo Nocturno",
-            "dlg": "¿También vas a las sesiones de estudio nocturnas? Fiuu... Parece que todos han clavado sus traseros en los asientos. Espera, ¿en serio lo hicieron? ¡¿De verdad?!"
+            "dlg": "¿También irás a las sesiones de estudio nocturnas? Fiuu... Parece que todos han clavado sus traseros en los asientos. Espera, ¿en serio lo hicieron? ¡¿De verdad?!"
         },
         {
             "id": "smalltalk_10907_1",
@@ -37,23 +37,23 @@
         },
         {
             "id": "smalltalk_10907_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "¿Cómo es que soy tan poderosa? Hahh... ¿no sabías algo tan simple?\nEscucha bien... “El conocimiento es poder.”."
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¿Cómo es que soy tan poderosa? Hahh… ¿no sabías algo tan simple?\nEscucha bien… “El conocimiento es poder.”"
         },
         {
             "id": "smalltalk_10907_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "En nuestra Asociación hay dos divisiones principales: las Llaves y los Puños. ¿de cuál soy yo? Fufu, ¿no te das cuenta? Voy a iluminar a esos cabezotas con estos puños."
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "En nuestra Asociación hay dos divisiones principales: las Llaves y los Puños. ¿de cuál soy yo? Juju, ¿no te das cuenta? Voy a iluminar a esos cabezotas con estos puños."
         },
         {
             "id": "neglect_10907_1",
             "desc": "Inactivo",
-            "dlg": "Nom... ¿Eh? No, señora. Solo estaba estudiando"
+            "dlg": "Ñam... ¿Eh? No, señora. Solo estaba estudiando"
         },
         {
             "id": "gacksung_10907_1",
             "desc": "Aunando",
-            "dlg": "¿Cómo era?  ¡Ah, sí!  Con el conocimiento como mi llave... seguiré esforzándome por abrir la puerta."
+            "dlg": "¿Cómo era? ¡Ah, sí! Con el conocimiento como mi llave... seguiré esforzándome por abrir la puerta."
         },
         {
             "id": "formation_10907_1",
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_10907_1",
             "desc": "Vista en Batalla",
-            "dlg": "¡¿Ooh?! ¡¿Ya toca merendar?!"
+            "dlg": "¡¿Ooh? ¿Ya toca merendar?!"
         },
         {
             "id": "battle_endcommand_10907_1",
@@ -78,7 +78,7 @@
         {
             "id": "battle_enemy_break_10907_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "Ignorantes..."
+            "dlg": "A los ignaros..."
         },
         {
             "id": "battle_break_10907_1",
@@ -88,7 +88,7 @@
         {
             "id": "battle_kill_10907_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Recibe tu merecido."
+            "dlg": "... se los castiga."
         },
         {
             "id": "battle_dead_10907_1",
@@ -103,7 +103,7 @@
         {
             "id": "choice_fail_n_10907_1",
             "desc": "Juicio Fallido",
-            "dlg": "¡Agh... Pero estaba segura de haber leído esto antes!"
+            "dlg": "Agh... ¡Pero estaba segura de haber leído esto antes!"
         },
         {
             "id": "battle_clear_10907_1",
@@ -113,12 +113,12 @@
         {
             "id": "battle_clear_ex_10907_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Uf, entonces no es que me esté quedando atrás en mis estudios, ¿verdad? ¡Super!"
+            "dlg": "Uf, entonces al final no me estoy quedando atrás en mis estudios, ¿verdad? ¡Super!"
         },
         {
             "id": "battle_defeat_10907_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "Ah, quizás he estado comiendo demasiado... Me siento algo lentita también... Supongo que debería haber estudiado más, ¿no?"
+            "desc": "Llanto de Derrota ",
+            "dlg": "Ah, quizás he estado comiendo demasiado… Me siento algo lentita también… Supongo que debería haber estudiado más, ¿no?"
         }
     ]
 }

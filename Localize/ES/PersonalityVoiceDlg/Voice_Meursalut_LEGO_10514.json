@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10514_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Confirmando la secuencia de inicio del trabajo... completado. Iniciando el trigésimo octavo trabajo de Percepción con el sujeto T-04-50."
+        },
+        {
+            "id": "lobby_morning_10514_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Sí. Llegué 15 minutos antes del horario laboral asignado. Actualmente me encuentro indicando al personal de administración que eviten llevar a cabo labores en este pasillo, pues el gerente siempre me ordena realizar trabajo de Gestión con el sujeto T-04-50 de inmediato al inicio del horario laboral. Esta precaución aumentara nuestra eficiencia en los próximos días."
+        },
+        {
+            "id": "lobby_noon_10514_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Fue una idea brillante aprovechar la hora de almuerzo del personal de administración del equipo de Bienestar.\nUsted solo puede gastar cierta cantidad de balas de ejecución, al fin y al cabo."
+        },
+        {
+            "id": "lobby_night_10514_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "La Ordalía que fue estimada como la mayor amenazada de hoy ha sido superada sin decesos. Las anormalidades recientemente alojadas... también pueden ser gestionadas sin algún riesgo significante.\nEntendido, le haré saber al resto del equipo que las horas extra de esta noche continuarán de manera indefinida, a menos que se produzca un suceso de colapso Qliphoth."
+        },
+        {
+            "id": "smalltalk_10514_1",
+            "desc": "Charla #1",
+            "dlg": "La Anormalidad parece haberse formado como la amalgama de toda una colonia de abejas. El código de clasificación que le fue asignado sugiere que fue manifestado de algún tipo de trauma, pero... hm. Uno no puede evitar cuestionarlo, pues las cosas a las que se asemeja suelen ser bastante comunes de observar."
+        },
+        {
+            "id": "smalltalk_10514_2",
+            "desc": "Charla #2",
+            "dlg": "Se cree que la forma original de esta arma E.G.O es un rifle. Sin embargo, luego de un análisis comparativo de las Anormalidades asignadas al equipo de Bienestar  y la frecuencia de las peticiones de apoyo de otros equipos... se determinó que usar este equipamiento por sí solo no será suficiente.\nHe enviado un reporte detallando como ciertas transformaciones del arma E.G.O podría resultar en un incremento de la eficiencia de un 162%, por favor revíselo cuando disponga del tiempo, gerente."
+        },
+        {
+            "id": "smalltalk_10514_3",
+            "desc": "Charla #3",
+            "dlg": "... Parece que no está interesado en moverse, prefiere mantenerse inmóvil en esta unidad de contención e incrementar la cantidad de los que pueden trabajar bajo su mando.\nHm... le he dado sugerencias para aumentar su eficiencia, pues eso parece ser lo que busca. ... Lo cual resultó de su agrado, tal y como esperaba. Le daré buen uso a este sombrero."
+        },
+        {
+            "id": "smalltalk_10514_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Supresión del Anochecer del Ámbar completada. Mm... Anotando observaciones. Tal y como fue asumido, el sistema digestivo de las entidades no sigue las reglas usuales de la anatomía.\nEn cuanto lo que observé de primera mano, sus intestinos se encontraban invertidos y en pleno proceso de licuefacción, he identificado una vulnerabilidad en sus paredes internas, las cuales fueron abiertas sin esfuerzo alguno usando disparos dispersos, lo cual permitió mi escape.\nSabe a... naranja."
+        },
+        {
+            "id": "smalltalk_10514_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Alertando a todo el personal del equipo de bienestar. Salgan de los pasadizos del departamento y diríjanse al Mando Central. La gestión del contador Qliphoth falló, resultando en una propagación de esporas descontrolada...\nDeténganse. Me corrijo: Que todos los agentes porten su equipamiento de combate y vuelvan. ... Las 'abejas Obreras' han eclosionado."
+        },
+        {
+            "id": "neglect_10514_1",
+            "desc": "Inactivo",
+            "dlg": "El señor Chesed nos recomienda trabajar solo durante nuestras horas asignadas para luego retirarnos, pero... como su opinión predomina, gerente, estaremos trabajando horas extras esta noche.\nQuizá haya identificado cierta oportunidad... pues usted ha ignorado los consejos del señor Chesed el día de hoy."
+        },
+        {
+            "id": "gacksung_10514_1",
+            "desc": "Aunando",
+            "dlg": "Ordalía \"Cadena Alimenticia\" identificada. Iniciando supresión y la previamente solicitada experimentación en cambio. Los agentes no han de realizar maniobras ofensivas incluso si el capitán es absorbido por una Ordalía. Eso sería todo."
+        },
+        {
+            "id": "formation_10514_1",
+            "desc": "Desplegar",
+            "dlg": "Siempre estoy listo para el despliegue."
+        },
+        {
+            "id": "battleentry_10514_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Movilizándose hacia la zona de supresión."
+        },
+        {
+            "id": "battle_select_10514_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Mi arma fue diseñada con el único propósito de infligir daño físico. Si necesita recuperar cordura, por favor, busque a otro agente."
+        },
+        {
+            "id": "battle_endcommand_10514_1",
+            "desc": "Al Atacar",
+            "dlg": "Todo lo que se necesita es la voluntad de acertar el disparo."
+        },
+        {
+            "id": "battle_enemy_break_10514_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "El objetivo a suprimir exhibe signos de cansancio."
+        },
+        {
+            "id": "battle_break_10514_1",
+            "desc": "Aturdido",
+            "dlg": "Ugh... Solicito que me sea disparada una bala HP-N."
+        },
+        {
+            "id": "battle_kill_10514_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Objetivo neutralizado. Procediendo al siguiente objetivo a suprimir..."
+        },
+        {
+            "id": "battle_dead_10514_1",
+            "desc": "Muerte",
+            "dlg": "... Pensé que moriría por una bala de ejecución... o durante un gestionamiento...  pero... qué experiencia más rara con que concluir..."
+        },
+        {
+            "id": "choice_success_p_10514_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Me he vuelto un experto en el trabajo de intuición."
+        },
+        {
+            "id": "choice_fail_n_10514_1",
+            "desc": "Juicio Fallido",
+            "dlg": "No soy un candidato adecuado para este tipo de trabajo."
+        },
+        {
+            "id": "battle_clear_10514_1",
+            "desc": "Grito de Victoria",
+            "dlg": "... La alarma trompeta sea ha desactivado. El equipo de Bienestar ha sufrido... dos bajas, gerente. Pese a que esta pérdida de recursos humanos puede perjudicar nuestra productividad, las contrataciones mediante el reclutamiento Ad Hoc llenarán los puestos vacantes sin problema alguno.\nEs bueno que las anormalidades bajo el cuidado del equipo de Bienestar no posean algún riesgo significativo...\nParecen haber problemas relacionas a la agente Ryōshū. Me estaré retirando."
+        },
+        {
+            "id": "battle_clear_ex_10514_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Esa fue una supresión casi perfecta, salvo por algunos decesos insignificantes. Ahora continuaremos con las horas extra que ordenó...\n<color=#cf0000> Oye, A.U rompió contención. Je. Es tu turno, capitán del equipo... </color>\n... Gerente. La próxima vez, considere autorizarle la agente Ryōshū el uso de armas que inflijan daño físico."
+        },
+        {
+            "id": "battle_defeat_10514_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Nuestro intento de controlar la propagación de esporas ha fallado, gerente. 17... No, 21 abejas obreras ha sido identificadas por el momento. La probabilidad de supresión T-04-50-2 se encuentra en un 0.3% con el personal restante.\nHa sido un honor estar bajo su mando, gerente."
+        }
+    ]
+}

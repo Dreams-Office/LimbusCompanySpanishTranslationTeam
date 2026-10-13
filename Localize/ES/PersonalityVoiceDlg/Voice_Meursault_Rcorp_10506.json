@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10506_1",
@@ -8,7 +8,7 @@
         {
             "id": "lobby_morning_10506_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Cada mañana, siento como si hubiera sido recién eclosionado."
+            "dlg": "Cada mañana, siento como si estuviese recién eclosionado."
         },
         {
             "id": "lobby_noon_10506_1",
@@ -33,16 +33,16 @@
         {
             "id": "smalltalk_10506_3",
             "desc": "Charla #3",
-            "dlg": "El entrenamiento puede parecer excesivamente frecuente... pero es necesario. Despliegues inesperados pueden suceder en cualquier momento.\n...Pero parece que no todos piensan de la misma manera."
+            "dlg": "El entrenamiento puede parecer excesivamente frecuente... pero es necesario. Despliegues inesperados pueden suceder en cualquier momento.\n... Pero parece que no todos piensan de la misma manera."
         },
         {
             "id": "smalltalk_10506_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "Para ser honesto, a pocos les falta experiencia en combate. Pues ingresar a R Corp. significa que pronto conseguirán más que suficiente...\nPreferiría no recordar esos tiempos."
         },
         {
             "id": "smalltalk_10506_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "Romperme y destrozarme es una experiencia horriblemente desagradable. Entiendo la necesidad, pero...\nEspero que nunca tenga que experimentarlo usted mismo."
         },
         {
@@ -62,7 +62,7 @@
         },
         {
             "id": "battleentry_10506_1",
-            "desc": "Entry",
+            "desc": "Entrada a Escena",
             "dlg": "Iniciando... presurización del traje."
         },
         {
@@ -117,7 +117,7 @@
         },
         {
             "id": "battle_defeat_10506_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "Mi experiencia en combate... fue insuficiente... seré enviado de vuelta a la Incubadora..."
         }
     ]

@@ -1,134 +1,134 @@
-{
-  "dataList": [
-    {
-      "id": "get_10910_1",
-      "desc": "Al Adquirir Identidad",
-      "dlg": "Uf... Ya fue suficiente descanso. Sigamos dándole, equipo. ¡Y que no se nos enfríen los ánimos~!"
-    },
-    {
-      "id": "lobby_morning_10910_1",
-      "desc": "Saludo Mañanero",
-      "dlg": "Nngh... Hace mucho frío aquí, incluso en mediodía. Siempre temo congelarme cada vez que intento dormir en el camino.\nBueno, si llega a hacer tanto frío como para matarme, supongo que la maleta activará automáticamente su función de protección térmica..."
-    },
-    {
-      "id": "lobby_noon_10910_1",
-      "desc": "Saludo de Mediodía",
-      "dlg": "A ver, veamos... estamos en el punto de control 17. Nngh~ ¿Qué les parece si almorzamos aquí? ¿No se hartaron ya de las barritas energéticas en cada comida? ¡Ábrete, Polu!"
-    },
-    {
-      "id": "lobby_night_10910_1",
-      "desc": "Saludo Nocturno",
-      "dlg": "Será mejor que nos preparemos para dormir en cuanto se ponga el sol. Y acuérdense de aplanar el terreno antes de acostarse...\n¿Quieres saber qué pasó cuando intentamos avanzar durante la noche porque nos quedábamos sin tiempo? Casi caigo en una grieta y no la cuento."
-    },
-    {
-      "id": "smalltalk_10910_1",
-      "desc": "Charla #1",
-      "dlg": "Bueno, no hago este trabajo de entregas por diversión. Supongo que al principio tenía algo de sentido para mí, pero...\n¡Ah! Aunque, sí, todavía me encanta ver todos los paisajes mientras recorro la Ciudad."
-    },
-    {
-      "id": "smalltalk_10910_2",
-      "desc": "Charla #2",
-      "dlg": "Puedes meter casi cualquier cosa en estas maletas~ Claro, si cabe en su capacidad máxima... Aún así, es una gran ventaja que el peso no cambie, sin importar cuánto metas. <color=#9eada4><size=60%><i>[PRECAUCIÓN. El almacenamiento no autorizado de objetos de entrega no designados es-]</i></size></color> Ejeje, ¡Polu, shhh!"
-    },
-    {
-      "id": "smalltalk_10910_3",
-      "desc": "Charla #3",
-      "dlg": "Ah... ¿esta maleta? No, no nos dan maletas personalizadas. Hmm~ me pregunto cuántas manos la habrán usado antes... Ah, sí. Cuando alguien muere durante una entrega, enviamos a alguien a recogerla, y pasa a ser suyo. Y cuando esa persona muere, alguien más va por él, y... ya te imaginas como sigue, ¿no? Ja, ja."
-    },
-    {
-      "id": "smalltalk_10910_4",
-      "desc": "Charla Post-Aunamiento 1",
-      "dlg": "Biiiiien~ Esto parece pan comido. ¡Dejen de arrastrar los pies, vamos, gente! Y ni se les ocurra quejarse después si nos pagan menos por la entrega~"
-    },
-    {
-      "id": "smalltalk_10910_5",
-      "desc": "Charla Post-Aunamiento 2",
-      "dlg": "Nngh, qué pesado... Escuché que los del sur llevan una maleta más delgada, ¿por qué nosotros en el norte tenemos que cargar con algo tan voluminoso? Siento que voy a dislocarme el hombro de tanto mover esta cosa."
-    },
-    {
-      "id": "neglect_10910_1",
-      "desc": "Inactivo",
-      "dlg": "Hmm... Creo que escondí un paquete de carne seca en algún lugar de aquí... <color=#9eada4><size=60%><i>[Apertura de cierre no autorizada fuera de coordenadas de entrega detectada]</i></size></color> ¡¿Mierda, como borro esa información?! <color=#9eada4><size=60%><i>[Comportamiento no autorizado detectado]</i></size></color>"
-    },
-    {
-      "id": "gacksung_10910_1",
-      "desc": "Aunando",
-      "dlg": "Nivel 1 de activación de la Maleta de Entrega... Bien, ¡vamos a terminar con esto antes de que llegue al 3!"
-    },
-    {
-      "id": "formation_10910_1",
-      "desc": "Desplegar 1",
-      "dlg": "Se ve complicado... Vamos, Polu. <color=#9eada4><size=60%><i>[Activando]</i></size></color>"
-    },
-    {
-      "id": "formation_10910_2",
-      "desc": "Desplegar 2",
-      "dlg": "Bueno, esta 'Poludnitsa' es un poco aburrida, pero al menos es competente~"
-    },
-    {
-      "id": "battleentry_10910_1",
-      "desc": "Entrada a Escena",
-      "dlg": "¡Chicos, vamos a llegar tarde! ¡Corran!"
-    },
-    {
-      "id": "battle_select_10910_1",
-      "desc": "Vista en Batalla",
-      "dlg": "Hablamos después, ¿okey? No puedo llegar tarde a la entrega."
-    },
-    {
-      "id": "battle_endcommand_10910_1",
-      "desc": "Al Atacar",
-      "dlg": "¡Fuera de mi camino, vamos!"
-    },
-    {
-      "id": "battle_enemy_break_10910_1",
-      "desc": "Aturdir al Enemigo",
-      "dlg": "Dejen de perder mi tiempo..."
-    },
-    {
-      "id": "battle_break_10910_1",
-      "desc": "Aturdido",
-      "dlg": "Ngh..."
-    },
-    {
-      "id": "battle_kill_10910_1",
-      "desc": "Enemigo Asesinado",
-      "dlg": "... ¡y saquense de mi camino!"
-    },
-    {
-      "id": "battle_dead_10910_1",
-      "desc": "Muerte #1",
-      "dlg": "Ah... No seré... más que otra misión de recuperación de maleta, ¿eh...?"
-    },
-    {
-      "id": "battle_dead_10910_2",
-      "desc": "Muerte #2",
-      "dlg": "N-no, ¡para! Me moveré ahora mismo, oke— <color=#9eada4><size=60%><i>[Maletero Activado]</i></size></color>"
-    },
-    {
-      "id": "choice_success_p_10910_2",
-      "desc": "Juicio Exitoso",
-      "dlg": "Listo. ¿Contento? Dios, no es como si tuviera tiempo de sobra..."
-    },
-    {
-      "id": "choice_fail_n_10910_1",
-      "desc": "Juicio Fallido",
-      "dlg": "Ah... No soy tan buena en esto. Ugh, qué pérdida de tiempo..."
-    },
-    {
-      "id": "battle_clear_10910_1",
-      "desc": "Grito de Victoria",
-      "dlg": "Eso tomó mucho más tiempo del que esperaba, pero... eh, mejor que ser devorada por la maleta. ¡Bien, volvamos al camino!"
-    },
-    {
-      "id": "battle_clear_ex_10910_1",
-      "desc": "Condiciones EX Cumplidas",
-      "dlg": "Mm~ tenemos tiempo de sobra. ¿Qué les parece si descansamos aquí para comer? ¡Chicos, es hora de zampar!"
-    },
-    {
-      "id": "battle_defeat_10910_1",
-      "desc": "Llanto de Derrota",
-      "dlg": "... T-tenemos que intentar esta pelea de nuevo. Vamos, a por ellos ahora mismo. Puede que realmente llegue tarde a la entrega... E-entonces..."
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "get_10910_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Hahh... Ahora que ya descansé lo suficiente, ¿le seguimos dando, equipo? Todos, abróchense bien sus abrigos~"
+        },
+        {
+            "id": "lobby_morning_10910_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Nngh... Hace mucho frío incluso ahora que hace sol... Siento que voy a morir de frío cada vez que acampo en el camino.\nBueno, si mi temperatura corporal llega a ser demasiado baja, supongo que la maleta activará automáticamente su función de calentamiento..."
+        },
+        {
+            "id": "lobby_noon_10910_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Bien, hemos llegado al punto de control 17... Ugh~ Almorcemos aquí hoy. ¿No se hartaron ya de comer barritas energéticas mientras caminamos? Polu, ábrete."
+        },
+        {
+            "id": "lobby_night_10910_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Hay que prepararnos para dormir en cuanto se ponga el sol. Y también hay que aplanar el terreno en el que nos acostaremos…\nEl otro día el tiempo de entrega se nos hizo muy justo y seguimos moviéndonos de noche, ¿sabías que casi caigo en una grita y no la contaba?"
+        },
+        {
+            "id": "smalltalk_10910_1",
+            "desc": "Charla #1",
+            "dlg": "No hago este trabajo de entregas por diversión. Bueno, al principio se sentía un poquito romántico...\n¡Ah! La verdad es que todavía me encanta ver el cambio de paisaje mientras recorro la Ciudad."
+        },
+        {
+            "id": "smalltalk_10910_2",
+            "desc": "Charla #2",
+            "dlg": "Esta maleta puede cargar cualquier cosa~ Claro que tiene un límite... ¡pero lo bueno es que sin importar que tan pesado sea lo que cargues, el peso de la maleta no cambiará! <color=#9eada4><size=60%><i>[ADVERTENCIA. El almacenamiento de artículos que no sean de entregas autorizada...]</i></size></color> Ejem~ Polu, ¡shh!"
+        },
+        {
+            "id": "smalltalk_10910_3",
+            "desc": "Charla #3",
+            "dlg": "Ah... ¿esta maleta? No es como si dieran maletas personalizadas para cada uno. Bueno~ me pregunto cuantas personas habrán usado esta... Cada vez que alguien muere en una entrega envían a alguien más a recogerla para que se use una y otra vez, eso... es lo que hacemos. Ajaja..."
+        },
+        {
+            "id": "smalltalk_10910_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Bieen~ Creo que puedo terminar esto rápido e irme. ¡No sean flojos chicos! Luego no se anden quejando cuando les paguen menos por la entrega~"
+        },
+        {
+            "id": "smalltalk_10910_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Ugh, qué pesada... Escuché que los chicos del sur llevan maletas más pequeñas, no sé porque a nosotros nos ponen a cargar unas tan pesadas... Cada vez que la uso siento que se me va a caer el hombro."
+        },
+        {
+            "id": "neglect_10910_1",
+            "desc": "Inactivo",
+            "dlg": "Fiu... Creo que escondí algo de carne seca por aquí... <color=#9eada4><size=60%><i>[Desbloqueo no autorizado fuera de las coordenadas de entrega detectado]</i></size></color> ¡Oh! ¡¿Dónde está el botón de borrar el historial?! <color=#9eada4><size=60%><i>[Sin permisos]</i></size></color>"
+        },
+        {
+            "id": "gacksung_10910_1",
+            "desc": "Aunando",
+            "dlg": "Nivel 1 de activación de la Maleta de Entrega... Bien, ¡vamos a terminar con esto antes de que llegue al 3!"
+        },
+        {
+            "id": "formation_10910_1",
+            "desc": "Desplegar 1",
+            "dlg": "Ha llegado trabajo... Polu, ¿lista? <color=#9eada4><size=60%><i>[Sonido de activación]</i></size></color>"
+        },
+        {
+            "id": "formation_10910_2",
+            "desc": "Desplegar 2",
+            "dlg": "Esta 'Poludnitsa' es un poco aburrida, pero al menos parece competente~"
+        },
+        {
+            "id": "battleentry_10910_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Vamos a llegar tarde, ¡corran!"
+        },
+        {
+            "id": "battle_select_10910_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Hablemos más tarde. Sería peligroso si la entrega se retrasa."
+        },
+        {
+            "id": "battle_endcommand_10910_1",
+            "desc": "Al Atacar",
+            "dlg": "¡No me bloquees el camino!"
+        },
+        {
+            "id": "battle_enemy_break_10910_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Deja de desperdiciar mi tiempo..."
+        },
+        {
+            "id": "battle_break_10910_1",
+            "desc": "Aturdido",
+            "dlg": "Ngh..."
+        },
+        {
+            "id": "battle_kill_10910_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "¡Y sal de mi camino!"
+        },
+        {
+            "id": "battle_dead_10910_1",
+            "desc": "Muerte #1",
+            "dlg": "Ah... Lo único que dejaré atrás... será mi maleta..."
+        },
+        {
+            "id": "battle_dead_10910_2",
+            "desc": "Muerte #2",
+            "dlg": "¡Ah! ¡No! Me iré de aquí ahora mism... <color=#9eada4><size=60%><i>[Maleta Activada]</i></size></color>"
+        },
+        {
+            "id": "choice_success_p_10910_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Ya, ¿contento? No tengo tiempo para que me pidas esto..."
+        },
+        {
+            "id": "choice_fail_n_10910_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Ah... Este tipo de cosas no se me dan bien, solo me hizo perder el tiempo..."
+        },
+        {
+            "id": "battle_clear_10910_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Eso me tomó más tiempo del que esperaba... Bueno, es mejor que ser devorada por la maleta. ¡Okey, hora de partir!"
+        },
+        {
+            "id": "battle_clear_ex_10910_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Mm~ eso fue rápido. ¿Creo que nos da tiempo para comer aquí y luego irnos? ¡Todos, saquen su comida!"
+        },
+        {
+            "id": "battle_defeat_10910_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "… Rápido, tenemos que pelear de nuevo rápido. Si esto sigue así… la entrega… puede que no sea capaz de completarla… Si eso pasa…"
+        }
+    ]
 }

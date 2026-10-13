@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10407_1",
@@ -18,7 +18,7 @@
         {
             "id": "lobby_night_10407_1",
             "desc": "Saludo Nocturno",
-            "dlg": "No hay condiciones particulares para dormirse y despertarse. Los humanos duermen cuando están cansados y despiertan cuando ya no lo están. No importa dónde uno se vaya a dormir. It doesn't matter where one goes to sleep.\nAdemás, dormir con este muñeco de entrenamiento es más cómodo de lo que crees. Je."
+            "dlg": "No hay condiciones particulares para dormirse y despertarse. Los humanos duermen cuando están cansados y despiertan cuando ya no lo están. No importa dónde uno se vaya a dormir.\nAdemás, dormir con este muñeco de entrenamiento es más cómodo de lo que crees. Je."
         },
         {
             "id": "smalltalk_10407_1",
@@ -33,16 +33,16 @@
         {
             "id": "smalltalk_10407_3",
             "desc": "Charla #3",
-            "dlg": "Las marcas por quemaduras son como los tatuajes potenciadores, duelen como cien demonios cuando te los dibujan y pintan partes de tu piel de diferentes colores.\n... Y mientras más cubierta esté tu piel de ellos... más fuerte te vuelves."
+            "dlg": "Las marcas por quemaduras son como los tatuajes potenciadores, duelen como cien demonios cuando te los dibujan y pintan partes de tu piel de diferentes colores.\n... Mientras más cubierta esté tu piel de ellas... más fuerte te vuelves."
         },
         {
             "id": "smalltalk_10407_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "¡Ja! No puedo creer que sean más frágiles que un muñeco de entrenamiento. Casi se siente como un desperdicio el encender mis llamas contra ellos.\n... Hm, aunque supongo que puede ser bastante entretenido el ver sus cuerpos distorsionándose mientras el fuego los quema vivos."
         },
         {
             "id": "smalltalk_10407_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "A.C... y luego A.P. Este ataque ardiente es el remate perfecto a esta serie de golpes consecutivos a alta velocidad.\nConsidéralo como una copa de vino para un plato con un filete cocinado perfectamente."
         },
         {
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_10407_1",
             "desc": "Aunando",
-            "dlg": "La Directora de la Sección... pensaba que ella era una bocona inútil, pero ella me enseñó esta habilidad particularmente útil. Je, podría usarla como remate."
+            "dlg": "La directora de la sección... pensaba que ella era una bocona inútil, pero ella me enseñó una habilidad particularmente útil. Je, podría usarla como remate."
         },
         {
             "id": "formation_10407_1",
@@ -73,7 +73,7 @@
         {
             "id": "battle_endcommand_10407_1",
             "desc": "Al Atacar",
-            "dlg": "¡Primera Forma!"
+            "dlg": "¡Primera Postura!"
         },
         {
             "id": "battle_enemy_break_10407_1",
@@ -93,7 +93,7 @@
         {
             "id": "battle_dead_10407_1",
             "desc": "Muerte",
-            "dlg": "Jaa... Estos... muñecos móviles tuvieron que haber sido... un material de entrenamiento insuficiente."
+            "dlg": "Haah... Ah, entrenar con muñecos de madera... no fue suficiente."
         },
         {
             "id": "choice_success_p_10407_2",
@@ -117,8 +117,8 @@
         },
         {
             "id": "battle_defeat_10407_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "¿Acaso... perdimos...? N.P.S. No puede ser que hayamos perdido contra estos muñecos de carne. ¡Mi rutina de entrenamiento no puede estar mal...!"
+            "desc": "Llanto de Derrota",
+            "dlg": "¿Acaso... perdimos...? N.M.L.C. No puede ser que hayamos perdido contra estos muñecos de carne. ¡Mi rutina de entrenamiento no puede estar mal...!"
         }
     ]
 }

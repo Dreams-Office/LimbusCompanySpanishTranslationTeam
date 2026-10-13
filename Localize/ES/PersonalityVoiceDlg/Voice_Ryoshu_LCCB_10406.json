@@ -1,14 +1,14 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10406_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "Ryōshū. T.R.C. ¿Hm? ¿Qué no sigo los protocolos de comunicación?\n¿Qué deje de usar acrónimos? ¿Por qué? ... ¿Porque soy una novata...? Haah..."
+            "dlg": "Ryōshū. T.E. ¿Hm? ¿Que no sigo los protocolos de comunicación?\n¿Que deje de usar acrónimos? ¿Por qué? ... ¿Porque soy una novata...? Haah..."
         },
         {
             "id": "lobby_morning_10406_1",
             "desc": "Saludo Mañanero",
-            "dlg": "¿Tú no tienes tareas mañaneras? Suertudo. Me hubiera encantado dividir el dolor de los repetitivos quehaceres diarios."
+            "dlg": "¿No tienes tareas mañaneras? Suertudo. Me hubiera encantado dividir el dolor de los repetitivos quehaceres diarios."
         },
         {
             "id": "lobby_noon_10406_1",
@@ -18,12 +18,12 @@
         {
             "id": "lobby_night_10406_1",
             "desc": "Saludo Nocturno",
-            "dlg": "¿De verdad creen que algo va a pasar si es que no traen a los nuevos reclutas a las reuniones todas las noches? Haah..."
+            "dlg": "¿Acaso creen que algo va a pasar si es que no hacen estos mitines para nuevos reclutas todas las noches? Haah..."
         },
         {
             "id": "smalltalk_10406_1",
             "desc": "Charla #1",
-            "dlg": "'Nosotros el Equipo Before estamos asignados con la primordial tarea de limpiar el camino antes de que nadie más lo haga. Cada paso ensangrentado, cada carne arrancada...' 'Carajo. He repetido eso tantas veces que lo empecé a decir de la nada."
+            "dlg": "'Nosotros el equipo Before estamos asignados con la primordial tarea de limpiar el camino antes de que nadie más lo haga. Cada paso ensangrentado, cada carne arrancada...' Mierda. He repetido eso tantas veces que lo empecé a decir de la nada."
         },
         {
             "id": "smalltalk_10406_2",
@@ -37,13 +37,13 @@
         },
         {
             "id": "smalltalk_10406_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "Esta escopeta resulta ser de lo más útil. Ahora que el Líder del Equipo dejó esto atrás para mí... es hora de que demuestre mis agradecimientos."
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Esta escopeta resulta ser de lo más útil. Ahora que el líder del equipo dejó esto atrás para mí... es hora de que demuestre mi gratitud."
         },
         {
             "id": "smalltalk_10406_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "Cualquiera con un semblante de sentido común debió haber discernido de las lecciones que nos están mandando como carne de cañón. Finalmente tengo un lugar donde puedo dejar de contenerme gracias a ello. Hora de salir L.P."
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Cualquiera con un semblante de sentido común debió haber discernido de las lecciones que nos están mandando como carne de cañón. Finalmente tengo un lugar donde puedo dejar de contenerme gracias a ello. Hora de salir a L.P."
         },
         {
             "id": "neglect_10406_1",
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_10406_1",
             "desc": "Vista en Batalla",
-            "dlg": "Oh, ¿habla desde la radio? Cambio."
+            "dlg": "Oh, ¿hablas desde la radio? Cambio."
         },
         {
             "id": "battle_endcommand_10406_1",
@@ -83,7 +83,7 @@
         {
             "id": "battle_break_10406_1",
             "desc": "Aturdido",
-            "dlg": "Tsk..."
+            "dlg": "Tch..."
         },
         {
             "id": "battle_kill_10406_1",
@@ -93,7 +93,7 @@
         {
             "id": "battle_dead_10406_1",
             "desc": "Muerte",
-            "dlg": "Akh... Tsk, no pensé que... me iría con ellos tan pronto."
+            "dlg": "Akh... Tch, no pensé que... me iría con ellos tan pronto."
         },
         {
             "id": "choice_success_p_10406_2",
@@ -117,8 +117,8 @@
         },
         {
             "id": "battle_defeat_10406_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "Misión Fallida. Aniquilación completa, y ¿para qué? Nada. Tsk, estoy segura de que el todo poderoso LCCA va a hacerse cargo del resto."
+            "desc": "Llanto de Derrota",
+            "dlg": "Misión Fallida. Aniquilación completa, y ¿para qué? Nada. Tch, estoy segura de que el todo poderoso LCCA va a hacerse cargo del resto."
         }
     ]
 }

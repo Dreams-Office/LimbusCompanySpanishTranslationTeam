@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11114_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Inhibidor de ondas electromagnéticas... defectuoso. Aleación protectora de emergencia... defectuosa. Regulador de presión del rifle... hah. Defectuoso."
+        },
+        {
+            "id": "lobby_morning_11114_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Recibí el informe a primera hora de la mañana. El equipo de reconocimiento caminó directamente hacia la telaraña y fue subsecuentemente aniquilado.\nDebemos hacer las preparaciones a como de lugar. ¿Cómo sacamos a esas astutas arañas de su madriguera...? Tenemos que encontrar una solución."
+        },
+        {
+            "id": "lobby_noon_11114_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Entrenamiento completado. Acabo de recibir un informe de que el director ejecutivo nos ha enviado comida gourmet empacada en una caja de preservación en estasis. Aquellos que deseen cenar afuera, levanten sus manos ahora.\n... Bien. Reportaré el número de ausentes como 0."
+        },
+        {
+            "id": "lobby_night_11114_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "Son libres de desequipar sus cascos durante la vigilia nocturna, pero manténganse equipados por completo de no ser el caso. Nunca se sabe qué fuerzas podrían tratar de desestabilizar nuestra compañía durante su periodo de expansión."
+        },
+        {
+            "id": "smalltalk_11114_1",
+            "desc": "Charla #1",
+            "dlg": "Furusiyya son los manuales de entrenamiento de combate que detallan varias situaciones de combate que pueden suceder en la Ciudad, y las contramedidas apropiadas para cada una.\nMemoriza cada palabra tanto con tu cerebro como con tu cuerpo, pues te será útil para futuras operaciones. Como referencia, yo, como líder de equipo... heh, no me demoré más de 3 días en memorizar toda la información de los manuales."
+        },
+        {
+            "id": "smalltalk_11114_2",
+            "desc": "Charla #2",
+            "dlg": "Ya he tenido suficiente de comandar grandes ejércitos y evaluar el curso de sus batallas.\nAsí que... prefiero dejarlo atrás. Estoy más cómoda dirigiendo a un pequeño escuadrón como este de todas formas. Serán menos las recompensas, pero... también serán menos las responsabilidades."
+        },
+        {
+            "id": "smalltalk_11114_3",
+            "desc": "Charla #3",
+            "dlg": "De necesitar algo para una misión, no te preocupes por los cosos; simplemente compila una lista de ítems y repor... ehem.\nNo, no es necesario reportarlos. Tan solo compila una lista y déjala en mi oficina. *haah* Sigo sin poder abandonar la jerga de antes."
+        },
+        {
+            "id": "smalltalk_11114_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Cuando los miembros de Limbus Company se encuentra con un problema que no pueden resolver por su cuenta, y si dicho \"problema\" puede ser resuelto mediante la fuerza, sean Barrenderos, Dedos, o Cazadores de Tabúes de las Alas, somos convocados para <i> resolverlo </i>."
+        },
+        {
+            "id": "smalltalk_11114_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Durante mis años itinerantes tras la guerra del Humo, cuando deambulaba sin un lugar donde quedarme, fui contactada por la oficina Udjat para un trabajo.\nNo tenía ninguna razón para rechazar su oferta, sobre todo considerando el gran salario ofrecido... y la promesa de apoyarme en mi eventual viaje de regreso a casa."
+        },
+        {
+            "id": "neglect_11114_1",
+            "desc": "Inactivo",
+            "dlg": "... Con lo tranquilo que está el día quizá pueda... Tsk. Mejor no haber hablado."
+        },
+        {
+            "id": "gacksung_11114_1",
+            "desc": "Aunando",
+            "dlg": "Udjat Khamsa, Sitta, acompáñenme al sector izquierdo. Udjat Talata, Ashara, rodeen el edificio hasta su entrada trasera.\nUnidades restantes, mantengan la posición actual. Presionen al objetivo como estimen necesario."
+        },
+        {
+            "id": "formation_11114_1",
+            "desc": "Desplegar",
+            "dlg": "*estática* Este es el equipo de vanguardia del LCA, Udjat. Prueba de radio, cambio."
+        },
+        {
+            "id": "battleentry_11114_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Lista para asalto, cambio."
+        },
+        {
+            "id": "battle_select_11114_1",
+            "desc": "Vista en Batalla",
+            "dlg": "No es necesario. Ya encontré una debilidad. El Ojo de Udjat... nunca pasa por alto los fallos en la posición defensiva de un aliado."
+        },
+        {
+            "id": "battle_endcommand_11114_1",
+            "desc": "Al Atacar",
+            "dlg": "Rodeen al objetivo."
+        },
+        {
+            "id": "battle_enemy_break_11114_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Como lo predije..."
+        },
+        {
+            "id": "battle_break_11114_1",
+            "desc": "Aturdido",
+            "dlg": "Mierda, este patrón de ataque..."
+        },
+        {
+            "id": "battle_kill_11114_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Unidad enemiga neutralizada...\nMuerte confirmada."
+        },
+        {
+            "id": "battle_dead_11114_1",
+            "desc": "Muerte",
+            "dlg": "Esto es... *haah* Olvídenlo. Todas las unidades, sigan... confrontando..."
+        },
+        {
+            "id": "choice_success_p_11114_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Posición capturada. Dirigiéndonos a la siguiente."
+        },
+        {
+            "id": "choice_fail_n_11114_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Fallamos en capturar la posición... Pero nuestro objetivo sigue siendo el mismo."
+        },
+        {
+            "id": "battle_clear_11114_1",
+            "desc": "Grito de Victoria",
+            "dlg": "El equipo de reconocimiento sufrió algunas perdidas... pero el plan se ejecutó sin problemas.\nNos retiraremos de la zona. Le dejamos el resto al departamento de limpieza."
+        },
+        {
+            "id": "battle_clear_ex_11114_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "En su día fue un aterrador oficial de un Dedo y una Estrella de la Ciudad... Y ahora, no es nada más que una vergonzosa sombra del pasado.\n... Este es el equipo de vanguardia del LCA, Udjat. Objetivo completado. Recuperaremos los restos del objetivo para entregarlos al departamento de investigación."
+        },
+        {
+            "id": "battle_defeat_11114_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Pero si revisé cada pieza de equipamiento en busca de fallas... ¡Estos... uhg! ¡No podemos enfrentarnos a estos objetivos con equipamiento defectuoso! ¡A todos los Udjat, objetivo insuperable! ¡Retirada, retirada ya!"
+        }
+    ]
+}

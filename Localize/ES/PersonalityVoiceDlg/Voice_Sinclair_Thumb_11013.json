@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11013_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Escucho con atención las órdenes dadas. Y siempre... miro hacia el suelo para evitar hacer contacto visual con mis superiores."
+        },
+        {
+            "id": "lobby_morning_11013_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "... Ya amaneció, hora de recolectar algunas cuotas de protección. Si no lo hago de una vez puede que mis superiores se vean obligados a actuar, y eso es... bueno, no merecería ser un miembro del Pulgar si dejara que eso suceda."
+        },
+        {
+            "id": "lobby_noon_11013_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Todavía falta para mi almuerzo. Los Soldatos Terzo y Quarto, mis superiores, tienen que terminar de almorzar antes de que yo pueda comer."
+        },
+        {
+            "id": "lobby_night_11013_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "En la noche suelo estudiar sobre otros Sindicatos, trato de aprender la estructura de compañías y organizaciones para comprender sus jerarquías.\nDebo de... mantener buenos modales y seguir la etiqueta lo mejor que pueda."
+        },
+        {
+            "id": "smalltalk_11013_1",
+            "desc": "Charla #1",
+            "dlg": "Hm. Creo que puedo dejarle el trabajo de limpiar balas a los Soldatos Primo recién llegados. Soy un Soldato Secondo, ¿sabes...? Ya era tiempo de que deje la labor de limpieza de municiones para hacer algo más importante, como la entrega de municiones a nuestros estimados Capos."
+        },
+        {
+            "id": "smalltalk_11013_2",
+            "desc": "Charla #2",
+            "dlg": "Es importante aprender a pensar antes de hablar. El tratamiento médico a las lenguas o mandíbulas de quienes son castigados puede llegar a ser costoso.\nBueno... claro, reemplazarlos por prostéticos podría ser más barato. Pero... no me agrada esa opción."
+        },
+        {
+            "id": "smalltalk_11013_3",
+            "desc": "Charla #3",
+            "dlg": "... El combate con bayonetas es una habilidad esencial para los miembros del Pulgar. No hay nada como su afilada hoja o la culata del rifle para situaciones en las que no podemos usar munición.\nTambién es algo en lo que la rama oriental del Pulgar se especializa, en combinación con el uso de las balas propulsoras... así que podría decir que somos muy buenos en ello."
+        },
+        {
+            "id": "smalltalk_11013_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "El Pulgar es muy cortés. No seguimos Prescriptos al azar, crueles filosofías del arte, o un sentido de hermandad más similar a estar encadenado que otra cosa.\nNo hay nada complicado en lo que hacemos, ¿verdad? Solo es reconocer logros y darles el respeto que ameriten."
+        },
+        {
+            "id": "smalltalk_11013_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Primo, Secondo, Terzo, Quarto. Incluso entre los mismos rangos hay subdivisiones claramente establecidas. Aquellos detalles son los que nos permiten ser más... caballerosos y corteses con cualquiera."
+        },
+        {
+            "id": "neglect_11013_1",
+            "desc": "Inactivo",
+            "dlg": "... Hablar con descuido, aún sea por accidente, te asegurará una muerte temprana."
+        },
+        {
+            "id": "gacksung_11013_1",
+            "desc": "Aunando",
+            "dlg": "¿Te atreves a respirar cuando ni siquiera has podido seguir las órdenes del Sottocapo? Eso sí que es descortés."
+        },
+        {
+            "id": "formation_11013_1",
+            "desc": "Desplegar",
+            "dlg": "Esperaré su orden en este lugar."
+        },
+        {
+            "id": "battleentry_11013_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Como ordene."
+        },
+        {
+            "id": "battle_select_11013_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Trabajando en la misión tal como me fue ordenado."
+        },
+        {
+            "id": "battle_endcommand_11013_1",
+            "desc": "Al Atacar",
+            "dlg": "Seguiré sus órdenes."
+        },
+        {
+            "id": "battle_enemy_break_11013_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Cada quien tiene sus propios problemas..."
+        },
+        {
+            "id": "battle_break_11013_1",
+            "desc": "Aturdido",
+            "dlg": "En esta vida dedicada a la convención..."
+        },
+        {
+            "id": "battle_kill_11013_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... ningún tipo de simpatía es necesaria."
+        },
+        {
+            "id": "battle_dead_11013_1",
+            "desc": "Muerte",
+            "dlg": "No creo haber sido descortés..."
+        },
+        {
+            "id": "choice_success_p_11013_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Misión completada tal como ordenó."
+        },
+        {
+            "id": "choice_fail_n_11013_1",
+            "desc": "Juicio Fallido",
+            "dlg": "... Fallé en mis deberes. Este es el castigo que merezco."
+        },
+        {
+            "id": "battle_clear_11013_1",
+            "desc": "Grito de Victoria",
+            "dlg": "No fue perfecto, ¡pero seguí todas y cada una de sus órdenes! Espero que... haya sido de su agrado."
+        },
+        {
+            "id": "battle_clear_ex_11013_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "¡Estoy honrado de reportar que hemos logrado una victoria perfecta! Todo gracias a mis superiores, incluyendo al gerente."
+        },
+        {
+            "id": "battle_defeat_11013_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "No trataré de excusarme ni de culpar a nadie... debo pagar por mis errores."
+        }
+    ]
+}

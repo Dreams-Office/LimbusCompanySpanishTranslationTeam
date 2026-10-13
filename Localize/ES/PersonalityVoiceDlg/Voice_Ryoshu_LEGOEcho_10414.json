@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10414_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "... Y pensar que el cuento de hadas tendría un final tan anticlimático. Ja. Debí ahorrarme la molestia de escucharlo."
+        },
+        {
+            "id": "lobby_morning_10414_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "... Hay demasiado silencio. Estaré esperando en la C.C. hasta que el tarado del gerente se levante. *puff* Esa H.A. parece estar como en casa, pero no me gustan los lugares callados y pintados de azul."
+        },
+        {
+            "id": "lobby_noon_10414_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "El aroma del café logró atravesar el olor del bosque... esta vez debe ser de una calidad aceptable. Aun así, no tengo intención de probarlo. Prefiero encender un cigarrillo antes que perder el tiempo con una taza de M.C."
+        },
+        {
+            "id": "lobby_night_10414_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "... No sé qué diablos planea ese estirado enclenque con ese bastardo del gerente... pero últimamente nuestra hora de salida se adelanta cada vez más. Tener menos horas de este tedio me agrada, pero que también recorten mi T.A.A... no me hace gracia."
+        },
+        {
+            "id": "smalltalk_10414_1",
+            "desc": "Chatter #1",
+            "dlg": "Soporto llevar este aburrido E.R. sin quejarme por una sola razón... A.U. me ha mostrado arte por el que vale la pena soportarlo. La imagen de flores imperecederas brotando de forma incontrolable, desprendiendo un aroma refrescante en lugar del olor metálico de la sangre... *puff* Queda lejos de mis gustos, pero resulta inspirador."
+        },
+        {
+            "id": "smalltalk_10414_2",
+            "desc": "Charla #2",
+            "dlg": "¿Sabes? Siempre que regreso de lidiar con esos monstruos de porquería, la celda de contención de L.A. se vuelve negra por completo. Si vas a verla en ese momento... podrás escuchar historias que de verdad valen la pena. Desde cuentos espantosos para niños caprichosos hasta narrativas macabras de origen desconocido."
+        },
+        {
+            "id": "smalltalk_10414_3",
+            "desc": "Charla #3",
+            "dlg": "A diferencia del café, hay cosas que no se enfrían por más tiempo que las dejes abandonadas. Rencor. Ira. Anhelo... En los corazones marcados por esas heridas jamás brotará algo tan inútil como una flor."
+        },
+        {
+            "id": "smalltalk_10414_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¿Has oído el rumor de que los bichos saben a jugo de manzana? Podría descartarlo como las idioteces de un puñado de drogadictos ahogados en E.F.... Pero el bastardo del Capitán de Equipo se pasea por ahí corrigiendo a todos, diciendo que saben a naranja y no a manzana. *puff*... ¿Acaso este grupo de imbéciles perdió la cabeza por completo?"
+        },
+        {
+            "id": "smalltalk_10414_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "¿Qué quieres que haga? A esa cosa le da igual si el resultado sea bueno o malo; va a escapar de todos modos. Que A.U. ande suelta no es mi responsabilidad, gerente. Manda al inútil del capitán de equipo a perseguir a ese bicho por todas partes. Yo... me dedicaré a admirar la carnicería floral que va a decorar los pasillos."
+        },
+        {
+            "id": "neglect_10414_1",
+            "desc": "Inactivo",
+            "dlg": "Fuu... ¿Y bien? ¿Ya se te despejó un poco la cabeza con eso?"
+        },
+        {
+            "id": "gacksung_10414_1",
+            "desc": "Aunando",
+            "dlg": "Si una sola flecha no es capaz de atravesarlo, vaciarle el tambor entero de este revólver de es más que suficiente. *puff* ¿Estaban prestando atención? Así es como se usa un arma E.G.O, novatos."
+        },
+        {
+            "id": "formation_10414_1",
+            "desc": "Desplegar",
+            "dlg": "Una pistola oxidada y una punta de flecha sin filo. Je. El equipo está en perfectas condiciones."
+        },
+        {
+            "id": "battleentry_10414_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Te dispararé y te dejaré un vacío insaciable"
+        },
+        {
+            "id": "battle_select_10414_1",
+            "desc": "Vista en Batalla",
+            "dlg": "Avísame si vas a usar una Bala de Recuperación HP en mí. Vuelve a jalar el gatillo sin decirme nada, y la mandaré a volar con mi vaina como la anterior vez."
+        },
+        {
+            "id": "battle_endcommand_10414_1",
+            "desc": "Al Atacar",
+            "dlg": "Es hora de adentrarnos, S.A., S."
+        },
+        {
+            "id": "battle_enemy_break_10414_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "Que las flores te pongan a dormir..."
+        },
+        {
+            "id": "battle_break_10414_1",
+            "desc": "Aturdido",
+            "dlg": "Tch. Siento este dulce aroma en mi boca..."
+        },
+        {
+            "id": "battle_kill_10414_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... Sé enterrado en el polvo."
+        },
+        {
+            "id": "battle_dead_10414_1",
+            "desc": "Muerte",
+            "dlg": "... Qué sueño. ¿Ha llegado la hora... de mi hibernación primaveral...?"
+        },
+        {
+            "id": "choice_success_p_10414_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "¿El trabajo tuvo un buen resultado? Gerente, A.U. saldrá de contención pronto."
+        },
+        {
+            "id": "choice_fail_n_10414_1",
+            "desc": "Juicio Fallido",
+            "dlg": "El trabajo dio un mal resultado. *puff* ... Se escapará de nuevo."
+        },
+        {
+            "id": "battle_clear_10414_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Cero bajas entre los Agentes, solo una pila de Empleados despistados pudriéndose en el suelo. Ja. Es tirar la munición a la basura dejar que esos inútiles lleven armas. En este tipo de situaciones, lo único que necesitan los E.O. no son Balas de HP, sino una sola bala real para volarse la maldita cabeza."
+        },
+        {
+            "id": "battle_clear_ex_10414_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Pensé que por una vez podría admirar algo de arte decente, pero ya llené la C.E. ...No hay accidentes que prevenir, ni desastres que limpiar. Tch. Volvamos."
+        },
+        {
+            "id": "battle_defeat_10414_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Je. Así que hoy es el día en que por fin podré ver esa Ordalía del Anochecer... con mis propios ojos. ... Esta sensación tan repugnante. Otra vez. El tiempo está siendo rebobinado..."
+        }
+    ]
+}

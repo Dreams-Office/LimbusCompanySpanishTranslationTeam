@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_11110_1",
@@ -33,7 +33,7 @@
         {
             "id": "smalltalk_11110_3",
             "desc": "Charla #3",
-            "dlg": "Nuestra misión es reconocer correctamente y recolectar los genomas correspondientes, volver a poner las partes en su lugar y devolver a los pasajeros de vuelta a sus asientos.\nLa neutralización de los pasajeros no es nuestro objetivo principal, solo una parte del proceso."
+            "dlg": "Nuestra misión es reconocer correctamente y recolectar los genomas correspondientes, volver a poner las partes en su lugar y devolver a los pasajeros de vuelta a sus asientos.\nLa neutralización de los pasajeros no es nuestro objetivo principal, solo una parte del proceso. "
         },
         {
             "id": "smalltalk_11110_4",
@@ -48,7 +48,7 @@
         {
             "id": "neglect_11110_1",
             "desc": "Inactivo",
-            "dlg": "... No parece que puedo regresar. Sin importar cuántos trenes aborde día tras día."
+            "dlg": "... Parece que no puedo regresar. Sin importar cuántos trenes aborde día tras día."
         },
         {
             "id": "gacksung_11110_1",
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_11110_1",
             "desc": "Vista en Batalla",
-            "dlg": "Por favor espere hasta que este tren esté completamente limpio. Una vez termine responderé sus preguntas."
+            "dlg": "Por favor espere hasta que este tren esté limpio. Una vez termine responderé sus preguntas."
         },
         {
             "id": "battle_endcommand_11110_1",
@@ -117,8 +117,8 @@
         },
         {
             "id": "battle_defeat_11110_1",
-            "desc": "Llanto de Derrota  ",
-            "dlg": "... Limpieza fallida. La carga de mi equipamento... está agotada. No puedo... volver..."
+            "desc": "Llanto de Derrota",
+            "dlg": "... Limpieza fallida. La carga de mi equipamiento... está agotada. No puedo... volver..."
         }
     ]
 }

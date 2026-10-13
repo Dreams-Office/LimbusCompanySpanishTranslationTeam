@@ -1,49 +1,49 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_11109_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "Obtendrás una 'F', fin de la historia. No, yo no acepto apelaciones."
+            "dlg": "Tienes una 'F'. No aceptaré quejas al respecto."
         },
         {
             "id": "lobby_morning_11109_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Recién es de día. Cálmate."
+            "dlg": "Haah... Acaba de amanecer, guarda silencio."
         },
         {
             "id": "lobby_noon_11109_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Esto no servirá. Esto no servirá en lo absoluto. Haah... ¿Por qué no vamos afuera por algo de aire? Parece que pierdo todo el impulso a esta hora del día."
+            "dlg": "Esto no servirá en lo absoluto. Hahh... ¿Por qué no salimos por algo de aire? Mi cabeza parece solo poder dar vueltas a esta hora del día."
         },
         {
             "id": "lobby_night_11109_1",
             "desc": "Saludo Nocturno",
-            "dlg": "Ninguno de nosotros se irá a dormir hasta que terminemos con esta tarea, ¿entendido? No me importa si tenemos que trabajar toda la noche-simplemente háganlo."
+            "dlg": "Ninguno de nosotros se irá a dormir hasta que terminemos con este tarea, ¿entendido? No me importa si tenemos que trabajar toda la noche para acabarlo."
         },
         {
             "id": "smalltalk_11109_1",
             "desc": "Charla #1",
-            "dlg": "Ahora, cuéntame sobre tus capacidades.\n'Comandar' y ¿'consultas'...? Yo.. bien. Ya veo. Igual, contribuye lo más que puedas a la producción de este trabajo. Vamos a hacer un proyecto grupal; no aceptare haraganes."
+            "dlg": "Ahora, cuéntame sobre tus capacidades.\n'Comandar' y ¿'hacer sesiones'...? Eso... bien. Ya veo. Aún así, contribuye lo más que puedas a la producción de este trabajo. Vamos a hacer un proyecto grupal y no aceptaré haraganes."
         },
         {
             "id": "smalltalk_11109_2",
             "desc": "Charla #2",
-            "dlg": "Nos vestimos de blanco no porque seamos estúpidos y no sabemos que se mancha fácilmente.\nNos vestimos de blanco porque nuestras ropas manchadas de todos los colores luego de un agotador proceso artístico, es en si mismo, una pieza de arte que merece ser apreciada."
+            "dlg": "Nos vestimos de blanco no porque seamos estúpidos y no sabemos que se mancha fácilmente.\nNos vestimos de blanco porque nuestro atuendo manchado de todo tipo de colores luego de un agotador proceso artístico, es en sí mismo, una pieza de arte que merece ser apreciada."
         },
         {
             "id": "smalltalk_11109_3",
             "desc": "Charla #3",
-            "dlg": "Como regla, uno de cada cinco participantes en la mayoría de grupos son basura sin talento que no tienen nada que contribuir al trabajo en equipo.\nSiguiendo esa regla, apuesto que este grupo tiene como mínimo dos o tres miembros así."
+            "dlg": "Uno de cada cinco participantes en la mayoría de grupos son basura sin talento que no tienen nada que contribuir al trabajo en equipo.\nSiguiendo esa regla, apuesto que este grupo tiene como mínimo dos o tres miembros así."
         },
         {
             "id": "smalltalk_11109_4",
             "desc": "Charla Post-Aunamiento 1",
-            "dlg": "Hay mas \"puntos\" en este mundo que los pintados con un pincel. Un agujero. Una herida. Una mirada. Alambres de púas. Las posibilidades son infinitas."
+            "dlg": "Hay más \"puntos\" en este mundo que los pintados con un pincel. Un agujero. Una herida. Una mirada penetrante. Alambres de púas. Las posibilidades son infinitas."
         },
         {
             "id": "smalltalk_11109_5",
             "desc": "Charla Post-Aunamiento 2",
-            "dlg": "Tú ahí, espera. No te muevas. Hm... ¿me permitirías perforar tres pequeños agujeros en tu corazón? Tengo que admitirlo, eso haría una fascinante... \n... ¿Por qué estas corriendo? ¡Equipo! ¡Vengan aquí y agárrenlo inmediatamente!"
+            "dlg": "Tú ahí, espera. No te muevas. Hm... ¿me permitirías perforar tres pequeños agujeros en tu corazón? Tengo que admitirlo, eso haría una fascinante...\n… ¿Por qué estás corriendo? ¡Equipo! Vengan aquí y atrápenlo, ¡inmediatamente!"
         },
         {
             "id": "neglect_11109_1",
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_11109_1",
             "desc": "Aunando",
-            "dlg": "¿Entiendes lo fascinante de los contornos entre la luz y la sombra? ¿La belleza nacida de una incontable colección de puntos? ¿No? Entonces permíteme iluminarte."
+            "dlg": "¿Entiendes lo fascinante de las luces y las sombras nacidas de una incontable colección de puntos? ¿No? Entonces permíteme iluminarte."
         },
         {
             "id": "formation_11109_1",
@@ -68,7 +68,7 @@
         {
             "id": "battle_select_11109_1",
             "desc": "Vista en Batalla",
-            "dlg": "Aun sigo en la fase de conceptualización. Apresúrate con eso."
+            "dlg": "Aún sigo en la fase de conceptualización, sé breve."
         },
         {
             "id": "battle_endcommand_11109_1",
@@ -78,42 +78,42 @@
         {
             "id": "battle_enemy_break_11109_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "El trazado esta completo. Ahora sé rápido y añádele algo de color."
+            "dlg": "El bosquejo está completado. Ahora apúrate y píntalo."
         },
         {
             "id": "battle_break_11109_1",
             "desc": "Aturdido",
-            "dlg": "Agh..."
+            "dlg": "Ugh."
         },
         {
             "id": "battle_kill_11109_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Esta obra de arte está completa. Critiquémosla una vez regresemos."
+            "dlg": "Esta obra de arte está completa. Evaluémosla una vez regresemos."
         },
         {
             "id": "battle_dead_11109_1",
             "desc": "Muerte",
-            "dlg": "Debería de haber conseguido... mejores compañeros de equipo..."
+            "dlg": "Debería de haber conseguido... mejores compañeros de equipo…"
         },
         {
             "id": "choice_success_p_11109_2",
             "desc": "Juicio Exitoso",
-            "dlg": "Preveo que nuestro proyecto grupal reciba una reseña admirable. Y es todo gracias a mi."
+            "dlg": "Recibiremos reseñas admirables gracias a mí."
         },
         {
             "id": "choice_fail_n_11109_1",
             "desc": "Juicio Fallido",
-            "dlg": "... Tales tribulaciones son una parte esperable de perseguir el camino del arte"
+            "dlg": "… Tales dificultades son una parte inevitable de perseguir el camino del arte"
         },
         {
             "id": "battle_clear_11109_1",
             "desc": "Grito de Victoria",
-            "dlg": "Le daré a este desempeño una 'B'. No esta mal ni tampoco bien."
+            "dlg": "Le daré a este desempeño una 'B'. No estuvo mal pero tampoco muy bien."
         },
         {
             "id": "battle_clear_ex_11109_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "A+. Qué batalla tan artística fue esa."
+            "dlg": "A+. Qué batalla más artística fue esa."
         },
         {
             "id": "battle_defeat_11109_1",

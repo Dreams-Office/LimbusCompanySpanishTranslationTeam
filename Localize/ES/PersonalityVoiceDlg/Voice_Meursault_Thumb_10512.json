@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_10512_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Le recomiendo que piense bien lo que va a decir antes de hablarme, tres veces si es necesario. Ya he cortado suficientes lenguas el día de hoy."
+        },
+        {
+            "id": "lobby_morning_10512_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Comiencen con los reportes matutinos, iniciando con quien sea que esté preparado. Estar 'preparado', tal y como les he dicho en constantes ocasiones, incluye múltiples procedimientos: el propósito, el método, el proceso, el resultado...\n... Y por encima de todo, un sumo apego a los modales.\nAquellos que no estén 'listos' según estos criterios serán considerados indignos de permanecer con vida."
+        },
+        {
+            "id": "lobby_noon_10512_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Es de mediodía y la basura sigue aquí. Recuerdo muy claramente insistir en que esta debía ser limpiada, pues recibiré a un cliente importante aquí.\n... Hm, parece que no quedó nadie para que haga limpieza. Supongo que la intimidación también es un factor significante en estas reuniones."
+        },
+        {
+            "id": "lobby_night_10512_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "¿No cree que es una falta de respeto visitarme a estas horas? Incluso si su puesto le permite mirarme a los ojos...\nYa veo. Los modales dictan que usted merece ser recibido como corresponde a estas horas. Le pido disculpas por mi falta de cortesía."
+        },
+        {
+            "id": "smalltalk_10512_1",
+            "desc": "Charla #1",
+            "dlg": "Un contrato por parte de la familia Shi era de esperarse, sin embargo una visita de alguien con un rango tan distinguido no lo era.\nYa que se solicitó una audiencia privada, deduje que se trataba de alguien con una posición relevante, y pese a esto... hm, ciertamente no esperaba que fuese usted."
+        },
+        {
+            "id": "smalltalk_10512_2",
+            "desc": "Charla #2",
+            "dlg": "El vino tinto combina espléndidamente con dos dientes recién extraídos. Diría que hasta llega a ser una obra de arte.\n... Hm. Parece que mi visita más reciente a la Casa de Arañas afectó mi vocablo. El usar palabras como 'arte'... no es propio de un Capo del Pulgar."
+        },
+        {
+            "id": "smalltalk_10512_3",
+            "desc": "Charla #3",
+            "dlg": "El valor de una sola Bala de la Marca del Tigre es equivalente a tres puros de lujo. Cortar a un adversario gastando todas y cada una de las municiones cargadas es como perder un humidor lleno de puros, y aún así...\nA veces, una buena pelea vale más que un puñado de puros. No se le puede poner precio a una oportunidad como esta."
+        },
+        {
+            "id": "smalltalk_10512_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "... Veo que usted vale el costo de mis balas. No me contendré en lo absoluto.\nEs una sensación extraña... pero, debo admitir que me siento emocionado."
+        },
+        {
+            "id": "smalltalk_10512_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Si busca cazar a un tigre, entonces asumo que debe estar preparado para ser desgarrado por sus colmillos.\nSoy Meursault. Capo del Pulgar y una de las Diez Espadas del Este. Me enfrentaré a usted con todas mis fuerzas."
+        },
+        {
+            "id": "neglect_10512_1",
+            "desc": "Inactivo",
+            "dlg": "Fue una decisión prudente el no dirigirse a mi de manera directa. Encuentre a un superior suyo que sea inferior a mi posición que pueda comunicar su mensaje."
+        },
+        {
+            "id": "gacksung_10512_1",
+            "desc": "Aunando",
+            "dlg": "El hecho de que el nombre de esta espada de la Estrella Tiantui deba permanecer oculto es una verdadera pena... pero me conformaré con poder rugir como un tigre alado. Esto me satisface."
+        },
+        {
+            "id": "formation_10512_1",
+            "desc": "Desplegar",
+            "dlg": "Más le vale que esta tarea sea digna de mi presencia."
+        },
+        {
+            "id": "battleentry_10512_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Presa a la vista. Bien... mi cuerpo está que arde."
+        },
+        {
+            "id": "battle_select_10512_1",
+            "desc": "Vista en Batalla",
+            "dlg": "... El concepto de respeto a la jerarquía debe ser ajeno a usted."
+        },
+        {
+            "id": "battle_endcommand_10512_1",
+            "desc": "Al Atacar",
+            "dlg": "¿Está listo?"
+        },
+        {
+            "id": "battle_enemy_break_10512_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¿Acaso eso fue todo de lo que es capaz? "
+        },
+        {
+            "id": "battle_break_10512_1",
+            "desc": "Aturdido",
+            "dlg": "Heh... finalmente, esto se pone bueno."
+        },
+        {
+            "id": "battle_kill_10512_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Quedarse parado sin más, fue lo que le costó su cabeza."
+        },
+        {
+            "id": "battle_dead_10512_1",
+            "desc": "Muerte",
+            "dlg": "Haahh... Pero qué hijo de..."
+        },
+        {
+            "id": "choice_success_p_10512_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Espero que esto haya sido parte del contrato. Si fue tan solo un favor insolente suyo, puede que tenga que cortarle ambos brazos."
+        },
+        {
+            "id": "choice_fail_n_10512_1",
+            "desc": "Juicio Fallido",
+            "dlg": "... Como compensación por haber fallado esta misión, le perdonaré la vida."
+        },
+        {
+            "id": "battle_clear_10512_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Pero qué decepcionante. ¿En serio eso fue todo?\nDeme el nombre y ubicación de su superior. He de hacer rodar su cabeza para que esto haya valido la pena."
+        },
+        {
+            "id": "battle_clear_ex_10512_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "No hay muchas cosas en este mundo que me emocionen... Sin embargo esta es una excepción al caso.\nDisfruté de este baile. Los casquillos que hayan quedado olvidados... considérenlos como su propina."
+        },
+        {
+            "id": "battle_defeat_10512_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Permítame ser directo... ¿Hay algún medio por el cual pueda sobrevivir este encuentro? O quizá, en caso de que sea suficiente, ¿alguna compensación monetaria equivalente? Solo diga el precio.\n... Si no. Hahh. Parece que tendré que perder la cabeza."
+        }
+    ]
+}

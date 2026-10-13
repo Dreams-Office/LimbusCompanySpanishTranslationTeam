@@ -1,0 +1,124 @@
+﻿{
+    "dataList": [
+        {
+            "id": "get_11113_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Tienes treinta y un segundos de la torre central de T Corp. para presentar tu defensa. Ningún tiempo adicional te será concedido."
+        },
+        {
+            "id": "lobby_morning_11113_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "No hay nada más sinsentido que dividir lo días en mañanas, tardes y noches. Al fin y al cabo... mis mañanas son mucho más larga que todos los días de deudores morosos como ustedes juntos."
+        },
+        {
+            "id": "lobby_noon_11113_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Disfruto de mi almuerzo de tres horas y veinte minutos, en parte porque me permite dedicar un mínimo de tiempo a socializar en medio de la ajetreada vida que llevo. Aunque, mientras unos desayunan, para otros ya es hora de cenar."
+        },
+        {
+            "id": "lobby_night_11113_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "No se preocupe. Mis noches son largas.\nEn una meritocracia en la que el tiempo lo es todo, que su noche sea más corta es culpa suya. Debería esforzarse más."
+        },
+        {
+            "id": "smalltalk_11113_1",
+            "desc": "Charla #1",
+            "dlg": "¿Ha estado metiendo tiempo en una cuenta de ahorro como le dije? No malgaste su tiempo holgazaneando, ¿entendido? Nunca hay tiempo suficiente cuando realmente se necesita."
+        },
+        {
+            "id": "smalltalk_11113_2",
+            "desc": "Charla #2",
+            "dlg": "El tráfico ilegal organizado de tiempo requiere una metodología especializada de recolección. Es por eso que existen las Unidades de Recolección de Deudores Violentos. Recolectores de Tiempo de Élite, capaces de acabar fácilmente con cualquiera que se atreva a enfrentarnos con su tiempo robado... en realidad, soy una de ellos."
+        },
+        {
+            "id": "smalltalk_11113_3",
+            "desc": "Charla #3",
+            "dlg": "Este sombrero es un símbolo de estatus... cuanto más escalas en la jerarquía de Clases de empleados, más alto será tu sombrero, al igual que el estatus.\nPor supuesto, esto tiene un doble sentido: los empleados de mayor rango tienen la elegancia necesaria para llevar a cabo su recolección sin perder sus sombreros."
+        },
+        {
+            "id": "smalltalk_11113_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "... En efecto. Esto solo puede significar que todavía me queda mucho por mejorar. No es que me esté costando, pero... ¿Cómo se me pudo caer el sombrero? Al menos esta misión será una buena inversión de mi tiempo."
+        },
+        {
+            "id": "smalltalk_11113_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Hah, ¿una caja fuerte de tiempo? ¿De verdad creían que detrás de un cuadro era un lugar discreto para esconderla? Ni siquiera tuve que sacar el Medidor Espacio-temporal.\n¿Y por qué usaron una caja fuerte tan barata y de mala calidad para guardar algo tan valioso como el tiempo...? Supongo que es ese mismo intelecto tan <i>extraordinario</i> el que los llevó a romper los tabús."
+        },
+        {
+            "id": "neglect_11113_1",
+            "desc": "Inactivo",
+            "dlg": "No importa. Seguiré ocupándome de mis responsabilidades aunque usted no diga nada. Hm... Parece que Tally lleva cuatro recolecciones..."
+        },
+        {
+            "id": "gacksung_11113_1",
+            "desc": "Aunando",
+            "dlg": "Conseguiste que se me cayera el sombrero... impresionante. Reclamador T-3 Modelo - Maza, activando máxima potencia."
+        },
+        {
+            "id": "formation_11113_1",
+            "desc": "Desplegar",
+            "dlg": "Vámonos de una vez. Estamos perdiendo tiempo."
+        },
+        {
+            "id": "battleentry_11113_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Hora de recolectar."
+        },
+        {
+            "id": "battle_select_11113_1",
+            "desc": "Vista en Batalla",
+            "dlg": "<i>EsDifícilComunicarseCuandoEstoyUsandoTiempoAcelerado</i>"
+        },
+        {
+            "id": "battle_endcommand_11113_1",
+            "desc": "Al Atacar",
+            "dlg": "Esta es una ejecución autorizada de labores oficiales."
+        },
+        {
+            "id": "battle_enemy_break_11113_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "¿Ya vas a paso de caracol?"
+        },
+        {
+            "id": "battle_break_11113_1",
+            "desc": "Aturdido",
+            "dlg": "Hnngh... El tiempo..."
+        },
+        {
+            "id": "battle_kill_11113_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "Hmmm, ¿te detuviste por completo? No me importa. Tu deuda de tiempo ha sido recolectada."
+        },
+        {
+            "id": "battle_dead_11113_1",
+            "desc": "Muerte",
+            "dlg": "No puede ser... Pero... había guardado mucho tiempo para ese día... nunca pude..."
+        },
+        {
+            "id": "choice_success_p_11113_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Sabes cómo trabajar eficientemente. He podido ahorrar algo de tiempo gracias a ti."
+        },
+        {
+            "id": "choice_fail_n_11113_1",
+            "desc": "Juicio Fallido",
+            "dlg": "Pero qué pérdida de tiempo... quisiera poder rebobinarlo."
+        },
+        {
+            "id": "battle_clear_11113_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Hemos recolectado todo el tiempo necesario. Ah, iré a mi siguiente recolección. Oh, se me olvidó decírtelo antes, pero te dejaré el informe a ti. No, no importa. Aquí tienes el informe. Pensé que el tiempo que perdería preocupándome por si escribirías un buen informe lo podía aprovechar mejor escribiéndolo yo misma."
+        },
+        {
+            "id": "battle_clear_ex_11113_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "La clave del éxito es una buena gestión del tiempo. Los ganadores administran su tiempo sabiamente, mientras que los perdedores se dejan arrastrar por él. Lo leí en el periódico matutino que compré mientras iba de camino al trabajo. ¿No te parece una frase bastante oportuna?"
+        },
+        {
+            "id": "battle_defeat_11113_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "Ustedes... no tienen un mañana... Cuando la Unidad de Segregación de Futuro de Clase 4 llegue... ¡lo último que verán será cómo les arrebatan el mañana...!"
+        }
+    ]
+}

@@ -1,9 +1,9 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10508_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "¿No va a hacer ningún movimiento? Mm, entonces nos veremos forzados a resignar."
+            "dlg": "¿No hará ningún movimiento? Mm, entonces nos veremos forzados a retirar nuestras piedras."
         },
         {
             "id": "lobby_morning_10508_1",
@@ -23,26 +23,26 @@
         {
             "id": "smalltalk_10508_1",
             "desc": "Charla #1",
-            "dlg": "No dude al blandir una espada, el dudar es señal de inexperiencia. Entrene más por su cuenta, hasta alcanzar la perfección."
+            "dlg": "No dude al blandir una espada, dudar es señal de inexperiencia. Entrene más por su cuenta, hasta alcanzar la perfección."
         },
         {
             "id": "smalltalk_10508_2",
             "desc": "Charla #2",
-            "dlg": "Uno puede aprender las estrategias del oponente jugando una partida de baduk con ellos. \nConforme más progresa el juego, mientras más movimientos haga el oponente, más fácil se vuelve leerlo."
+            "dlg": "Uno puede aprender las estrategias del oponente jugando una partida de baduk con ellos. \nConforme más progresa el juego, mientras más movimientos haga el oponente, más fácil será leerlo."
         },
         {
             "id": "smalltalk_10508_3",
             "desc": "Charla #3",
-            "dlg": "Espero la pronta llegada de una tempestad. Se me asignó el rol de protector, por lo que cumpliré mi deber hasta el final.\n...Aún así presiento que mis camaradas, la persona que debo proteger y yo vamos a perder nuestro lugar en S Corp."
+            "dlg": "Espero la pronta llegada de una tempestad. Se me asignó el rol de protector, por lo que cumpliré mi deber hasta el final.\n... Aún así presiento que mis camaradas, la persona que debo proteger y yo vamos a perder nuestro lugar en S Corp."
         },
         {
             "id": "smalltalk_10508_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "Cuando alguien me dijo que yo viviría una vida vagante, me burlé de la idea... Supongo que en verdad viviré la vida de un errante ahora."
         },
         {
             "id": "smalltalk_10508_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "Desgarra la carne y corta los huesos. En otras palabras, uno debe mantener la concentración hasta que la espada corte a través del hueso. Daré una demostración, así usted aprenderá."
         },
         {
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_10508_1",
             "desc": "Aunando",
-            "dlg": "No importa cuántos asesinos envíen, para mí no son nada más que una sola ficha en un juego de baduk.\nMi jugada todavía ha de florecer... ¿continuará jugando aún así?"
+            "dlg": "No importa cuántos asesinos envíen, para mí no son nada más que una sola ficha en un juego de baduk.\nMi turno todavía no ha terminado... ¿aun así continuará jugando?"
         },
         {
             "id": "formation_10508_1",
@@ -113,11 +113,11 @@
         {
             "id": "battle_clear_ex_10508_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Mi estratagema funcionó, el flujo de esta batalla estuvo a nuestro favor. Mantengamos este impulso hasta que encontramos un nuevo hogar."
+            "dlg": "Mi estratagema funcionó, el flujo de la batalla estuvo a nuestro favor. Mantengamos este impulso hasta que encontremos un nuevo hogar."
         },
         {
             "id": "battle_defeat_10508_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota",
             "dlg": "Realicé una jugada errónea. Por lo que hoy cedo mi carne a una cicatriz más."
         }
     ]

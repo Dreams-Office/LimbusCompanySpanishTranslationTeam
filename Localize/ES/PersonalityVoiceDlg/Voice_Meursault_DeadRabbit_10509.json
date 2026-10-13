@@ -1,19 +1,19 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10509_1",
             "desc": "Al Adquirir Identidad",
-            "dlg": "...No esperaba invitados en un día tan lluvioso.\n¿Qué eres, un perro empapado de alcohol?"
+            "dlg": "… No esperaba invitados en un día tan lluvioso.\n¿Qué eres, un perro empapado de alcohol?"
         },
         {
             "id": "lobby_morning_10509_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Ha salido el sol. Trabajen en sus respectivas calles. Manejen lo que necesite ser manejado, tomen lo que tengan que tomar."
+            "dlg": "Ha salido el sol. Trabajen en sus respectivas calles. Ocúpense de lo que tengan que ocuparse, tomen lo que tengan que tomar."
         },
         {
             "id": "lobby_noon_10509_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Para el almuerzo... sí. Nos dirigiremos al pub que nos debe cuota de protección. Será beneficioso para todos si les damos un descuento a su tasa de protección igual a la cantidad de alimentos que consumiremos allí."
+            "dlg": "Para el almuerzo... sí. Nos dirigiremos al 'pub' que nos debe cuota de protección. Será beneficioso para todos si les damos un descuento a su tasa de protección igual a la cantidad de alimentos que consumiremos allí."
         },
         {
             "id": "lobby_night_10509_1",
@@ -23,12 +23,12 @@
         {
             "id": "smalltalk_10509_1",
             "desc": "Charla #1",
-            "dlg": "Se dice en la calle que... nosotros, los Conejos Muertos, somos 'amables' para ser una pandilla. No logro entender esta perspectiva.\nDicen que no muchas pandillas protegen realmente a aquellos a quienes extorsionan. Raro. Simplemente veo esto como una sabia decisión comercial para proteger nuestros activos futuros sin un derramamiento de sangre innecesario."
+            "dlg": "Se dice en las calles que... nosotros los Conejos Muertos somos inusualmente \"amables\" para una pandilla. No logro entender dicha perspectiva.\nDicen que no muchas pandillas protegen realmente a aquellos a quienes extorsionan. ¿No es este un curso de acción natural para proteger nuestros futuros activos, sin un derramamiento de sangre innecesario?"
         },
         {
             "id": "smalltalk_10509_2",
             "desc": "Charla #2",
-            "dlg": "Un nuevo recluta se unió a nuestras filas. No olía a desagüe, así que no entiendo qué hace aquí alguien que no ha pasado mucho tiempo en la calle.\nPero sus ojos... vi veneno en sus ojos. Tengo la intención de dejarlo quedarse con nosotros mientras sea útil."
+            "dlg": "Un nuevo recluta se unió a nuestras filas. No olía a alcantarillas, así que no entiendo qué hace aquí alguien que no ha pasado mucho tiempo en la calle.\nPero sus ojos... vi veneno en sus ojos. Tengo la intención de dejarlo quedarse con nosotros mientras nos sea útil."
         },
         {
             "id": "smalltalk_10509_3",
@@ -37,28 +37,28 @@
         },
         {
             "id": "smalltalk_10509_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "Ha pasado... mucho tiempo. Un conflicto con una pandilla diferente sería un beneficio para nuestra organización.\nEs más eficiente tomar el tiempo de aquellos que han estado extorsionando tiempos de otros por un largo plazo que cobrar tarifas de protección."
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Ha pasado... mucho tiempo. Un conflicto con otra pandilla sería beneficioso para nuestra organización.\nEs más eficiente tomar el tiempo de aquellos que han estado extorsionando el tiempo de otros por un largo plazo que cobrar tarifas de protección."
         },
         {
             "id": "smalltalk_10509_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "Heathcliff... ¿cierto? Nada mal. Sin embargo, me di cuenta de que puede estar sobrecompensando algo. Era como si quisiera demostrar que su existencia valía la pena.\n... Supongo que lo estaré viendo por más tiempo del que esperaba."
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Heathcliff... ¿cierto? Él pelea bien. Si tuviera que decir que pienso de él, diría que parece como si... buscara demostrar su valor.\n… Supongo que lo estaré viendo por más tiempo del que esperaba."
         },
         {
             "id": "neglect_10509_1",
             "desc": "Inactivo",
-            "dlg": "Siempre tome las cosas con calma. El tiempo... siempre se puede hacer de nuevo."
+            "dlg": "Siempre tome las cosas con calma. Porque el tiempo... siempre se puede volver a ganar."
         },
         {
             "id": "gacksung_10509_1",
             "desc": "Aunando",
-            "dlg": "Pronto tendremos que hacer tiempo. Muy oportuno que haya otras bandas rondando por nuestras calles. Veo esto como una oportunidad perfecta para hacer algo de tiempo extra."
+            "dlg": "Tenemos que conseguir tiempo pronto. Es muy oportuno que hayan otras bandas rondando por nuestras calles. Vayamos a ganar algo de tiempo."
         },
         {
             "id": "formation_10509_1",
             "desc": "Desplegar",
-            "dlg": "Hora de hacer algo de... tiempo."
+            "dlg": "Hora de conseguir algo de tiempo."
         },
         {
             "id": "battleentry_10509_1",
@@ -78,7 +78,7 @@
         {
             "id": "battle_enemy_break_10509_1",
             "desc": "Aturdir al Enemigo",
-            "dlg": "¿Está viendo conejos? Debe estar contundido."
+            "dlg": "¿Está viendo conejos? Debe tener una conmoción cerebral."
         },
         {
             "id": "battle_break_10509_1",
@@ -113,12 +113,12 @@
         {
             "id": "battle_clear_ex_10509_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Hm... bien peleado. Me agrado bastante nuestro nuevo recluta. Supongo que podríamos empezar a aceptar nuevas solicitudes que se nos presenten."
+            "dlg": "Hm... bien peleado. Me agradó bastante nuestro nuevo recluta también. Supongo que podríamos empezar a aceptar nuevos miembros que se nos presenten."
         },
         {
             "id": "battle_defeat_10509_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "A veces terminamos perdiendo tiempo. ...Está bien. Mientras aún tengamos algo de tiempo en nuestros relojes... estaremos todos bien."
+            "desc": "Llanto de Derrota",
+            "dlg": "No siempre se puede ganar tiempo. A veces también se pierde. … Está bien. Mientras aún tengamos algo de tiempo en nuestros relojes estaremos todos bien."
         }
     ]
 }

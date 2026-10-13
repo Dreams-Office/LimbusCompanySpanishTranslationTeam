@@ -1,124 +1,124 @@
-{
-  "dataList": [
-    {
-      "id": "get_11012_1",
-      "desc": "Identity Acquisition",
-      "dlg": "We crossed off everyone on the list for today, and... Alright, time to tell Big Brother we’re all set to chase down those hair coupon thieves."
-    },
-    {
-      "id": "lobby_morning_11012_1",
-      "desc": "Morning Greeting",
-      "dlg": "Uh-huh. Good morning to you, too. ... Hey, just a heads-up, apparently the Great Sister's coming down to join us during mealtime. ... Don't freak out, I'll be right there with you for the prep."
-    },
-    {
-      "id": "lobby_noon_11012_1",
-      "desc": "Afternoon Greeting",
-      "dlg": "Sorry, I won't be joining for lunch today. Gotta start getting ready to head east."
-    },
-    {
-      "id": "lobby_night_11012_1",
-      "desc": "Evening Greeting",
-      "dlg": "All good? Phew... it's sundown already, huh. Looks like the Young Brother's gone out to check on our 'businesses', and... we're... hm. Let's start by taking care of some easier targets in the Book. We'll have to clear our schedule if we want to keep up with the Big Brother."
-    },
-    {
-      "id": "smalltalk_11012_1",
-      "desc": "Chatter #1",
-      "dlg": "It's the restructuring day at H Corp. soon, isn't it? That'll get all the vermin hiding in the Backstreets maze to come out crawling... Disgusting fugitives of the Book of Vengeance, wastes of paper... Let's take this chance to clear out the trash."
-    },
-    {
-      "id": "smalltalk_11012_2",
-      "desc": "Chatter #2",
-      "dlg": "Normally, this would fall under our eastern family's jurisdiction, but... our Big Brother was dead set on personally handling this specific case."
-    },
-    {
-      "id": "smalltalk_11012_3",
-      "desc": "Chatter #3",
-      "dlg": "Looks like... some District 8 family's vengeance list has been added to our own. Right, so we take care of these guys, and they'll overlook us starting a ruckus in the east, huh. What was that saying again? We scratch their backs, and they scratch ours, yeah."
-    },
-    {
-      "id": "smalltalk_11012_4",
-      "desc": "Post-Uptie Chat 1",
-      "dlg": "You're making things hard for both of us. Why don't you just accept your punishment instead of fighting back and making a mess?\nYou know that once your name's in the book, the Middle'll stop at nothing to track you down wherever you go, right?"
-    },
-    {
-      "id": "smalltalk_11012_5",
-      "desc": "Post-Uptie Chat 2",
-      "dlg": "They're really doing us a solid by letting these one or two favors pay for our Big Brother's request. Awfully generous of them.\nWe should gift them some expensive Boluses as thanks, at least..."
-    },
-    {
-      "id": "neglect_11012_1",
-      "desc": "Idle",
-      "dlg": "... Would you like some recommendations on places to visit in District 8, Big Bro?"
-    },
-    {
-      "id": "gacksung_11012_1",
-      "desc": "Uptying",
-      "dlg": "Aha... Yeah, yeah. Pipe down, one at a time. Where's Big Brother headed to again?"
-    },
-    {
-      "id": "formation_11012_1",
-      "desc": "Deployment",
-      "dlg": "You can count on me to guide your way through H Corp. and District 8."
-    },
-    {
-      "id": "battleentry_11012_1",
-      "desc": "Stage Entry",
-      "dlg": "Let's take care of one vengeance at a time."
-    },
-    {
-      "id": "battle_select_11012_1",
-      "desc": "Viewed in Battle",
-      "dlg": "Who meddles in our business?"
-    },
-    {
-      "id": "battle_endcommand_11012_1",
-      "desc": "Commencing Attack",
-      "dlg": "I'll pummel them to dust."
-    },
-    {
-      "id": "battle_enemy_break_11012_1",
-      "desc": "Enemy Stagger",
-      "dlg": "Don't resist."
-    },
-    {
-      "id": "battle_break_11012_1",
-      "desc": "Staggered",
-      "dlg": "You... little... shit!"
-    },
-    {
-      "id": "battle_kill_11012_1",
-      "desc": "Enemy Killed",
-      "dlg": "... Nice, now I can cross that off the book."
-    },
-    {
-      "id": "battle_dead_11012_1",
-      "desc": "Death",
-      "dlg": "Heh... heh. Killing me won't clear your name off the book."
-    },
-    {
-      "id": "choice_success_p_11012_2",
-      "desc": "Check Passed",
-      "dlg": "I am glad you found my guidance helpful, Big Bro."
-    },
-    {
-      "id": "choice_fail_n_11012_1",
-      "desc": "Check Failed",
-      "dlg": "... Why don't we just break this thing in half?"
-    },
-    {
-      "id": "battle_clear_11012_1",
-      "desc": "Victory Cry",
-      "dlg": "We finally had our vengeance, but many of the family died in the process. Even those that I shared a meal with just a few hours ago... I'll... avenge you, I swear I will."
-    },
-    {
-      "id": "battle_clear_ex_11012_1",
-      "desc": "Extra Conditions Fulfilled",
-      "dlg": "Big Brother gave us some tortoise Boluses as a reward for a job well done. Here's some info for the Brothers and Sisters who've never been to District 8 before—these things are pretty darn rare. So consider yourselves lucky."
-    },
-    {
-      "id": "battle_defeat_11012_1",
-      "desc": "Defeat Wail",
-      "dlg": "... I don't care that we failed. It's my failure, not the Middle's.\nAnd the Middle always pays its debts."
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "get_11012_1",
+            "desc": "Al Adquirir Identidad",
+            "dlg": "Ya taché de la lista a todos con los que había que lidiar hoy... Ahora vayamos a decirle al Hermano Mayor que es hora de dar caza a esos ladrones de cupones de peluquería."
+        },
+        {
+            "id": "lobby_morning_11012_1",
+            "desc": "Saludo Mañanero",
+            "dlg": "Ah. Buenos días. ... Oye, la Gran Hermana vendrá a acompañarnos en el almuerzo. ... No te asustes. Les daré una mano."
+        },
+        {
+            "id": "lobby_noon_11012_1",
+            "desc": "Saludo de Mediodía",
+            "dlg": "Disculpa, será mejor que no me esperes para almorzar. Tengo que prepararme antes de partir al este."
+        },
+        {
+            "id": "lobby_night_11012_1",
+            "desc": "Saludo Nocturno",
+            "dlg": "¿Todo bien? Ah... ya está anocheciendo. Parece que el Hermano Menor ha salido a revisar algunos 'asuntos', y nosotros... Hm, empecemos encargándonos de algunos objetivos fáciles del Libro. Tendremos que despejar nuestra agenda si queremos seguirle el ritmo al Hermano Mayor."
+        },
+        {
+            "id": "smalltalk_11012_1",
+            "desc": "Charla #1",
+            "dlg": "¿Ya va a ser... día de reestructuración en H Corp.? Eso hará que toda la escoria escondida en el laberinto de Las Callejuelas salga arrastrándose... Repugnantes fugitivos del Libro de la Venganza, desperdicios de papel... Aprovechemos esta oportunidad para deshacernos de esa basura."
+        },
+        {
+            "id": "smalltalk_11012_2",
+            "desc": "Charla #2",
+            "dlg": "Normalmente esto estaría bajo la jurisdicción de nuestra familia del este... pero nuestro Hermano Mayor está totalmente decidido a lidiar con este caso personalmente."
+        },
+        {
+            "id": "smalltalk_11012_3",
+            "desc": "Charla #3",
+            "dlg": "Parece que... la lista de venganzas de alguna familia del Distrito 8 se ha añadido a la nuestra. Bien, así que si les ayudamos a lidiar con estos tipos, ellos harán la vista gorda cuando armemos alboroto en el este... ¿Esto es a lo que le dicen \"hoy por ti, mañana por mí\"?"
+        },
+        {
+            "id": "smalltalk_11012_4",
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "Aaah... no hagas esto más difícil. ¿Para qué resistirte si simplemente puedes aceptar tu castigo, en lugar de hacer todo este desastre? Una vez que tu nombre está escrito en el Libro, no importa a dónde sea que vayas… tu castigo te alcanzará tarde o temprano."
+        },
+        {
+            "id": "smalltalk_11012_5",
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "Que acepten saldar el favor de nuestro hermano mayor a cambio de cumplir unos pocos encargos… Son muy amables con nosotros.\nDeberíamos de comprarles unos cuantos bolos de los buenos en agradecimiento..."
+        },
+        {
+            "id": "neglect_11012_1",
+            "desc": "Inactivo",
+            "dlg": "... ¿Le gustaría que le recomendara lugares a visitar en el Distrito 8, Hermano Mayor?"
+        },
+        {
+            "id": "gacksung_11012_1",
+            "desc": "Aunando",
+            "dlg": "Haah... Sí, sí. Hablen más despacio y solo uno a la vez. Nuestro Hermano Mayor... ¿a dónde es que va?"
+        },
+        {
+            "id": "formation_11012_1",
+            "desc": "Desplegar",
+            "dlg": "Yo me encargaré de guiarnos a través de H Corp. y el Distrito 8."
+        },
+        {
+            "id": "battleentry_11012_1",
+            "desc": "Entrada a Escena",
+            "dlg": "Venguémonos de ellos uno por uno."
+        },
+        {
+            "id": "battle_select_11012_1",
+            "desc": "Vista en Batalla",
+            "dlg": "¿Quién se metió en nuestros asuntos?"
+        },
+        {
+            "id": "battle_endcommand_11012_1",
+            "desc": "Al Atacar",
+            "dlg": "Les sacaré la mugre a golpes."
+        },
+        {
+            "id": "battle_enemy_break_11012_1",
+            "desc": "Aturdir al Enemigo",
+            "dlg": "No te resistas."
+        },
+        {
+            "id": "battle_break_11012_1",
+            "desc": "Aturdido",
+            "dlg": "¡Maldito... BASTARDO!"
+        },
+        {
+            "id": "battle_kill_11012_1",
+            "desc": "Enemigo Asesinado",
+            "dlg": "... Bien, ahora puedo tachar eso del libro."
+        },
+        {
+            "id": "battle_dead_11012_1",
+            "desc": "Muerte",
+            "dlg": "Je... jajaja. Matarme no... borrará tu nombre del libro."
+        },
+        {
+            "id": "choice_success_p_11012_2",
+            "desc": "Juicio Exitoso",
+            "dlg": "Me alegra que mi guía haya sido de ayuda, Hermano Mayor."
+        },
+        {
+            "id": "choice_fail_n_11012_1",
+            "desc": "Juicio Fallido",
+            "dlg": "... Haah ¿Por qué no partimos esto en dos y ya?"
+        },
+        {
+            "id": "battle_clear_11012_1",
+            "desc": "Grito de Victoria",
+            "dlg": "Al final conseguimos nuestra venganza, pero muchos de los nuestros murieron. Hace poco estábamos comiendo juntos… Juro que... yo los vengaré."
+        },
+        {
+            "id": "battle_clear_ex_11012_1",
+            "desc": "Condiciones EX Cumplidas",
+            "dlg": "Nuestro hermano mayor nos dio unos bolos de tortuga como recompensa por el buen trabajo, para los hermanos y hermanas que nunca han estado en el Distrito 8 y no lo sepan, estas cosas son bastante raras. Así que considérense con suerte."
+        },
+        {
+            "id": "battle_defeat_11012_1",
+            "desc": "Llanto de Derrota",
+            "dlg": "... Este fracaso no me importa. Fallé yo, no el Medio.\nY el Medio, siempre salda sus cuentas."
+        }
+    ]
 }

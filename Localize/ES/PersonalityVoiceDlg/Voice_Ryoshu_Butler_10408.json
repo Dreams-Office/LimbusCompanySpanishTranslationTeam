@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10408_1",
@@ -8,7 +8,7 @@
         {
             "id": "lobby_morning_10408_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Los Criados siempre deben empezar sus mañanas 2 horas antes que sus Amos. Levántalos a todos, incluso si hay que darles una paliza."
+            "dlg": "Los Criados siempre deben empezar sus mañanas dos horas antes que sus Amos. Levántalos a todos, incluso si hay que darles una paliza."
         },
         {
             "id": "lobby_noon_10408_1",
@@ -18,12 +18,12 @@
         {
             "id": "lobby_night_10408_1",
             "desc": "Saludo Nocturno",
-            "dlg": "Asegúrate de que tus tenedores y cuchillos estén bien afiliados. Todo lo realmente disfrutable sobre ser un Criado ocurre durante las misiones de 'guardia nocturna'... Je."
+            "dlg": "Asegúrate de que tus tenedores y cuchillos estén bien afilados. Todo lo realmente disfrutable sobre ser un Criado ocurre durante las misiones de 'guardia nocturna'... Jejeje."
         },
         {
             "id": "smalltalk_10408_1",
             "desc": "Charla #1",
-            "dlg": "Personalmente detesto hablar más de lo necesario, pero... este torpe trabajo merece un regaño apropiado.\nHaah... Ser Ama de Llaves es un trabajo bastante agotador."
+            "dlg": "Personalmente detesto hablar más de lo necesario, pero... los que hacen las cosas de manera tan torpe no me dejan otra más que regañarlos.\nHaah... Ser Ama de Llaves es un trabajo bastante agotador."
         },
         {
             "id": "smalltalk_10408_2",
@@ -43,7 +43,7 @@
         {
             "id": "smalltalk_10408_5",
             "desc": "Charla Post-Aunamiento 2",
-            "dlg": "Así que nos volvemos a ver... Este sentimiento si que es extraño. Cómo la Ama de Llaves, debo de decir que esta no es la clase de reunión que me hubiera gustado tener.\nAunque eso no significa que no te daré una fiesta de bienvenida inolvidable. Je."
+            "dlg": "Así que nos volvemos a ver... Este sentimiento sí que es extraño. Cómo la Ama de Llaves, debo de decir que esta no es la clase de reunión que me hubiera gustado tener.\nAunque eso no significa que no te daré una fiesta de bienvenida inolvidable. Je."
         },
         {
             "id": "neglect_10408_1",
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_10408_1",
             "desc": "Aunando",
-            "dlg": "Muy bien. Es hora de que le pongamos fin a esto, Heathcliff. Porque tú eres... mi 'recado especial' y debo hacerme cargo de ti."
+            "dlg": "Muy bien. Es hora de que le pongamos fin a esto, Heathcliff. Porque tú eres... mi \"recado especial\" y debo hacerme cargo de ti."
         },
         {
             "id": "formation_10408_1",
@@ -63,12 +63,12 @@
         {
             "id": "battleentry_10408_1",
             "desc": "Entrada a Escena",
-            "dlg": "Los cubiertos de caza están en la mesa."
+            "dlg": "Los utensilios de caza están listos."
         },
         {
             "id": "battle_select_10408_1",
             "desc": "Vista en Batalla",
-            "dlg": "Ya deja de actuar como un estúpido y ponte detrás de mí, pedazo de idiota que me hago llamar Amo."
+            "dlg": "Ya deja de actuar como un estúpido y ponte detrás de mí, 'Amo'."
         },
         {
             "id": "battle_endcommand_10408_1",
@@ -88,7 +88,7 @@
         {
             "id": "battle_kill_10408_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Ve y disfruta tu sueño. Ahora."
+            "dlg": "Ahora, ve a soñar."
         },
         {
             "id": "battle_dead_10408_1",
@@ -97,23 +97,23 @@
         },
         {
             "id": "choice_success_p_10408_2",
-            "desc": "Check Passed",
+            "desc": "Juicio Exitoso",
             "dlg": "Hmph, labores domesticas completadas."
         },
         {
             "id": "choice_fail_n_10408_1",
-            "desc": "Check Failed",
+            "desc": "Juicio Fallido",
             "dlg": "Bueno, esto estaba más allá de mis obligaciones de todas formas. Sufre las consecuencias de tu decisión."
         },
         {
             "id": "battle_clear_10408_1",
             "desc": "Grito de Victoria",
-            "dlg": "Si las 'labores domésticas' fueron completadas... es hora de que volvamos pronto. No te quedes hasta muy tarde. Voy a P.E.C.A.R si es que veo que nuestras tareas matutinas fueron llevadas a cabo descuidadamente."
+            "dlg": "Si las \"labores domésticas\" fueron completadas... es hora de que volvamos pronto. No te quedes hasta muy tarde. Voy a P.E.C.A.R si es que veo que nuestras tareas matutinas fueron llevadas a cabo descuidadamente."
         },
         {
             "id": "battle_clear_ex_10408_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Esa fue una recepción de combate exitosa. Tus movimientos no estuvieron del todo mal... ahora tenemos que regresar a nuestras 'labores domésticas'."
+            "dlg": "Esa fue una recepción de combate exitosa. Tus movimientos no estuvieron del todo mal... ahora tenemos que regresar a nuestras \"labores domésticas\"."
         },
         {
             "id": "battle_defeat_10408_1",

@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_11106_1",
@@ -8,22 +8,22 @@
         {
             "id": "lobby_morning_11106_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Espero que haya tenido una noche placentera. Debo disculparme por lo breve de mi saludo. Tengo asuntos que atender."
+            "dlg": "Espero que haya tenido una noche placentera. Debo disculparme por la brevedad de mi saludo. Tengo asuntos que atender."
         },
         {
             "id": "lobby_noon_11106_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Ajá, así que planea almorzar aquí. Este establecimiento es conocido por la simpleza, rapidez y calidad de sus comidas a la carta. Ahora, si me disculpa, he de marcharme."
+            "dlg": "Ajá, así que planea almorzar aquí. Este establecimiento es conocido por la simpleza, rapidez y calidad de sus platillos a la carta. Ahora, si me disculpa, debo marcharme."
         },
         {
             "id": "lobby_night_11106_1",
             "desc": "Saludo Nocturno",
-            "dlg": "Veo que ya se va a la cama. Que descanse."
+            "dlg": "Veo que se dirige a su cama. Que tenga un descanso placentero."
         },
         {
             "id": "smalltalk_11106_1",
             "desc": "Charla #1",
-            "dlg": "No llamaría a esto una patrulla... no. Estos callejones están llenos de aquellos que nos buscan para que tomemos duelos en su lugar. Simplemente estoy buscando posibles clientes."
+            "dlg": "Esto no es una patrulla... no. Estos callejones están llenos de individuos que nos buscan para que tomemos duelos en su nombre. Simplemente estoy buscando por posibles clientes."
         },
         {
             "id": "smalltalk_11106_2",
@@ -37,12 +37,12 @@
         },
         {
             "id": "smalltalk_11106_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "Uno no puede blandir su espada en todas las batallas. A veces nos encontramos con adversarios que prefieren combates a corto alcance, tan corto que nuestras espadas se vuelven inútiles.\nMe vendría bien tener un truco bajo la manga en esos casos."
         },
         {
             "id": "smalltalk_11106_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "La mayor oportunidad de un duelista surge cuando el oponente intenta arremeter furiosamente.\nPuedo redirigir esa fuerza su contra sin gastar demasiada energía."
         },
         {
@@ -88,7 +88,7 @@
         {
             "id": "battle_kill_11106_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Ah, es mi victoria"
+            "dlg": "Ah, es mi victoria."
         },
         {
             "id": "battle_dead_11106_1",
@@ -117,7 +117,7 @@
         },
         {
             "id": "battle_defeat_11106_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "Supongo que una duelista decente debe aceptar cuando ella es... vencida."
         }
     ]
