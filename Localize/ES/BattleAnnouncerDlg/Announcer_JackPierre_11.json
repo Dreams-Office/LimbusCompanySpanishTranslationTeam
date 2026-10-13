@@ -1,120 +1,120 @@
-{
-  "dataList": [
-    {
-      "id": "announcer_cheer_11_1",
-      "dlg": "Jack~ Are the knives sharpened? Mhm. Ready."
-    },
-    {
-      "id": "announcer_cheer_11_2",
-      "dlg": "Wow, look over there! Walking ingredients! We'll just need to gather the meat once they kill 'em all."
-    },
-    {
-      "id": "announcer_specialcheer_11_1",
-      "dlg": "They're looking sleepy.... They're dying. If they do bite it, we can use them as ingredients. How's that, Jack?"
-    },
-    {
-      "id": "announcer_specialcheer_11_2",
-      "dlg": "Watch out unless you want to become ground meat, hm? Don't worry about it, Pierre. It only means that we'll get pre-tenderized meat."
-    },
-    {
-      "id": "announcer_enemy_break_11_1",
-      "dlg": "Oh. I like bringing in some fresh ones. Is that how you do your groceries, Jack?"
-    },
-    {
-      "id": "announcer_ally_break_11_1",
-      "dlg": "Oh, did you let your guards down? They'll get themselves killed out there."
-    },
-    {
-      "id": "announcer_killenemy_11_1",
-      "dlg": "Ingredients trimmed. A bit messy, though. Right~? Chopping the ingredients down to the bone isn't the best way to prepare meat for pies."
-    },
-    {
-      "id": "announcer_ally_dead_11_1",
-      "dlg": "Getting turned into ingredients while out to get ingredients...? Real amateurs. Right, Pierre?"
-    },
-    {
-      "id": "announcer_enemy_adv_11_1",
-      "dlg": "Aw, this is a lost cause! Better run before you get turned into ground meat."
-    },
-    {
-      "id": "announcer_ally_advex_11_1",
-      "dlg": "I guess they'll win eventually... but the meat's all spoiled on both sides. Tsk. We can't sell that."
-    },
-    {
-      "id": "announcer_danger_11_1",
-      "dlg": "Do you really have to go to this far for ingredients? Jack, you better run away if you ever find yourself in a situation like this, okay?"
-    },
-    {
-      "id": "announcer_enemy_specialskill_11_1",
-      "dlg": "The ingredients are thrashing around. The more they thrash, the more tenderized their meats will be. Nice!"
-    },
-    {
-      "id": "announcer_enemy_specialgimmick_11_1",
-      "dlg": "Huh? What are they getting ready for...? Let's hide."
-    },
-    {
-      "id": "announcer_advatk_physical_11_1",
-      "dlg": "Clean cut. Now that's a perfect cut of meat right there!"
-    },
-    {
-      "id": "announcer_disadvatk_physical_11_1",
-      "dlg": "Oh, is that seriously what you're going to do...? You'll toughen the meat."
-    },
-    {
-      "id": "announcer_advatk_attr_11_1",
-      "dlg": "Knife for flesh, saw for bone! Agreed, Pierre."
-    },
-    {
-      "id": "announcer_disadvatk_attr_11_1",
-      "dlg": "That's a weird choice of tools. Phew... All they're doing is dulling their weapons."
-    },
-    {
-      "id": "announcer_enemy_specialbuff_11_1",
-      "dlg": "The ingredients are looking particularly lively today. Looks like they did something to the meat."
-    },
-    {
-      "id": "announcer_enemy_specialdebuff_11_1",
-      "dlg": "They're looking tired. This is exactly when you need to beat'em so the meat doesn't get tough~"
-    },
-    {
-      "id": "announcer_ally_specialbuff_11_1",
-      "dlg": "You sure do look energetic. Did you make them the pasty hand pies or something, Pierre? That's hearty."
-    },
-    {
-      "id": "announcer_ally_specialdebuff_11_1",
-      "dlg": "They must've eaten tainted meat. Right...? They really don't look happy."
-    },
-    {
-      "id": "announcer_enemy_destroy_11_1",
-      "dlg": "Wooow~ They chopped a whole piece of the ingredient off! Mhm. Looks like a gourmet cut to me."
-    },
-    {
-      "id": "announcer_enemy_destroy_11_2",
-      "dlg": "The part they pulled off earlier. Can I go pick it up? Why not? At your leisure, Jack~"
-    },
-    {
-      "id": "announcer_round_takebigdmg_11_1",
-      "dlg": "Ow, ow... That looks painful. Should've tied the ingredients down first."
-    },
-    {
-      "id": "announcer_round_takebigdmg_11_2",
-      "dlg": "Are you guys even equipped for this job? Gotta review the supplier contract, Pierre."
-    },
-    {
-      "id": "announcer_round_givebigdmg_11_1",
-      "dlg": "Wasn't that a bit too much? Yeah! Go easy on them~ Be careful not to shatter any bones, or otherwise we'll be serving pies with bone shards in them!"
-    },
-    {
-      "id": "announcer_round_givebigdmg_11_2",
-      "dlg": "The pieces of meat you tore off just now? You better trim 'em before sending them over. I don't think they had much meat on their bones anyway..."
-    },
-    {
-      "id": "announcer_multikillenemy_11_1",
-      "dlg": "That was a very efficient trimming... J-jack! You should try learning something like that, too!"
-    },
-    {
-      "id": "announcer_equip_11_1",
-      "dlg": "Pierre here~ This is Jack. What should we cook up today?"
-    }
-  ]
+﻿{
+    "dataList": [
+        {
+            "id": "announcer_cheer_11_1",
+            "dlg": "- Jack~ ¿Ya afilaste los cuchillos? \n- Mhm. Están listos."
+        },
+        {
+            "id": "announcer_cheer_11_2",
+            "dlg": "- Wow, ¡mira por allá! ¡Ingredientes andantes por todas partes! \n- Solo tendremos que recoger la carne una vez que los maten."
+        },
+        {
+            "id": "announcer_specialcheer_11_1",
+            "dlg": "- Parecen somnolientos... Se están muriendo.\n- Oye, ¿si mueren podemos usarlos como ingredientes?"
+        },
+        {
+            "id": "announcer_specialcheer_11_2",
+            "dlg": "- Ten cuidado, a menos que quieras convertirte en carne picada, ¿ya?\n- No te preocupes por eso, Pierre. Eso solo significa que tendremos la carne ya molida."
+        },
+        {
+            "id": "announcer_enemy_break_11_1",
+            "dlg": "- Oh. Es la situación perfecta para llevarme alguno a la bolsa.\n- ¿Así es como sueles escoger los ingredientes?"
+        },
+        {
+            "id": "announcer_ally_break_11_1",
+            "dlg": "- Uy ¿bajaron la guardia?\n- Si siguen así los dejarán hechos polvo."
+        },
+        {
+            "id": "announcer_killenemy_11_1",
+            "dlg": "- Ingredientes cortados. Aunque están un poco desordenados.\n- ¿Sí, no~? Cortar los ingredientes con hueso y todo no es la mejor manera de preparar la carne para las tartas."
+        },
+        {
+            "id": "announcer_ally_dead_11_1",
+            "dlg": "- ¿Se volvieron ingredientes mientras salían a buscar ingredientes...?\n- Sí que son novatos. ¿No, Pierre?"
+        },
+        {
+            "id": "announcer_enemy_adv_11_1",
+            "dlg": "- ¡Ay, esto es una causa perdida!\n- Mejor corran antes de que los dejen hechos picadillo."
+        },
+        {
+            "id": "announcer_ally_advex_11_1",
+            "dlg": "- Supongo que ganarán eventualmente... pero la carne está toda machacada en ambos bandos...\n- Tsk. Esa carne no venderá bien."
+        },
+        {
+            "id": "announcer_danger_11_1",
+            "dlg": "- ¿En serio tienen que ir así de lejos solo por ingredientes?\n- Jack, más te vale correr si alguna vez te encuentras en una situación así, ¿mhm?"
+        },
+        {
+            "id": "announcer_enemy_specialskill_11_1",
+            "dlg": "- Los ingredientes se mueven con mucha fuerza.\n- Cuanto más se muevan, más tierna quedará la carne. ¡Qué bien!"
+        },
+        {
+            "id": "announcer_enemy_specialgimmick_11_1",
+            "dlg": "- ¿Eh? ¿Qué es lo que están preparando?\n- Es mejor que nos escondamos."
+        },
+        {
+            "id": "announcer_advatk_physical_11_1",
+            "dlg": "- Ese fue un corte limpio.\n- ¡Ese sí que es un corte de carne perfecto!"
+        },
+        {
+            "id": "announcer_disadvatk_physical_11_1",
+            "dlg": "- Oh, ¿en serio eso es lo que se te ocurrió hacer..?\n- Endurecerás la carne así."
+        },
+        {
+            "id": "announcer_advatk_attr_11_1",
+            "dlg": "- El cuchillo es para la carne, ¡tal como la sierra es para el hueso! \n- Muy cierto, Pierre."
+        },
+        {
+            "id": "announcer_disadvatk_attr_11_1",
+            "dlg": "- Qué extraña elección de utensilios.\n- Ayy... Lo único que están haciendo es desafilar sus armas."
+        },
+        {
+            "id": "announcer_enemy_specialbuff_11_1",
+            "dlg": "- Los ingredientes lucen particularmente animados hoy.\n- Parece que le hicieron algo a la carne."
+        },
+        {
+            "id": "announcer_enemy_specialdebuff_11_1",
+            "dlg": "- Se ven cansados.\n- Ahh, este es el momento en el que debes golpearlos para que no se endurezca la carne~."
+        },
+        {
+            "id": "announcer_ally_specialbuff_11_1",
+            "dlg": "- Se ven bien motivados.\n-¿Les preparaste tartas de mano o algo así, Pierre? Tu comida siempre da energías."
+        },
+        {
+            "id": "announcer_ally_specialdebuff_11_1",
+            "dlg": "- Debieron haber comido carne malograda.\n- ¿Verdad...? No se ven muy felices."
+        },
+        {
+            "id": "announcer_enemy_destroy_11_1",
+            "dlg": "- Wooow~ ¡Cortaron un trozo entero del ingrediente! \n- Mhm. Se ve como un corte 'gourmet' en mi opinión."
+        },
+        {
+            "id": "announcer_enemy_destroy_11_2",
+            "dlg": "- ¿Puedo ir a recoger la parte que arrancaron antes?\n- ¿Por qué no? Como gustes, Jack~"
+        },
+        {
+            "id": "announcer_round_takebigdmg_11_1",
+            "dlg": "- Oh, ohhh... Eso se ve doloroso.\n- Debieron haber atado los ingredientes primero."
+        },
+        {
+            "id": "announcer_round_takebigdmg_11_2",
+            "dlg": "- ¿Siquiera están preparados para este trabajo?\n- Tenemos que revisar el contrato con el proveedor, Pierre."
+        },
+        {
+            "id": "announcer_round_givebigdmg_11_1",
+            "dlg": "- ¿No fue demasiado?\n- ¡Eso! Sé más gentil con ellos~ Ten cuidado de no quebrar ningún hueso, ¡o estaremos sirviendo tartas con trozos de hueso en ellas!"
+        },
+        {
+            "id": "announcer_round_givebigdmg_11_2",
+            "dlg": "- Los trozos de carne que acabas de arrancar, será mejor que los limpies bien antes de enviarlos.\n- Igual no creo que tuvieran mucha carne en los huesos..."
+        },
+        {
+            "id": "announcer_multikillenemy_11_1",
+            "dlg": "- Ese fue un corte muy eficiente...\n- ¡J-Jack! ¡Tú también deberías aprender a hacer algo como eso!"
+        },
+        {
+            "id": "announcer_equip_11_1",
+            "dlg": "- Aquí Pierre~ \n- Y aquí Jack. \n- ¿Qué deberíamos de cocinar hoy?"
+        }
+    ]
 }

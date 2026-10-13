@@ -1,0 +1,132 @@
+﻿{
+    "dataList": [
+        {
+            "id": "announcer_cheer_32_1",
+            "dlg": "¡Hagamos de este otro gran día impartiendo justicia! Ahora digámoslo todos juntos~ <i>¡'Arcana... Beats'!</i>"
+        },
+        {
+            "id": "announcer_cheer_32_2",
+            "dlg": "Una Mayor... hm, no. Su fuerza es más como la de un Arcana menor, ¿no? Aun así, tengan cuidado. Incluso un Arcana Menor puede ser más fuerte de lo esperado. ¡Los estaré animando!"
+        },
+        {
+            "id": "announcer_specialcheer_32_1",
+            "dlg": "¡Esperen! A este ritmo todos serán corroídos por el Arcana... ¡Ya sé, todos salgan de aquí! ¡Yo...! yo... qui-quiero decir... Nngh, ¿De verdad no hay nada que pueda hacer...?"
+        },
+        {
+            "id": "announcer_specialcheer_32_2",
+            "dlg": "Ngh... No les voy a mentir, esto no se ve nada bien. Pero la justicia siempre triunfa contra el mal, ¡siempre y cuando no se rindan...!"
+        },
+        {
+            "id": "announcer_enemy_break_32_1",
+            "dlg": "¡Sabia que podían hacerlo! ¡Derrotar a estos villanos será fa-ci-li-to!"
+        },
+        {
+            "id": "announcer_ally_break_32_1",
+            "dlg": "No... El Arcana le capturará a este ritmo... Por su amistad, ¡debes ayudar a protegerle!"
+        },
+        {
+            "id": "announcer_killenemy_32_1",
+            "dlg": "¡Gran trabajo! ¿Eh? ¿Qué quieres decir? No se puede impartir justicia sin matar villanos, ¿no? Realmente no hay necesidad de llorar por ellos."
+        },
+        {
+            "id": "announcer_ally_dead_32_1",
+            "dlg": "De-devorada otra vez... Pero me he estado esforzando tanto... ¿Por qué sigue ocurriendo esto?"
+        },
+        {
+            "id": "announcer_enemy_adv_32_1",
+            "dlg": "Pero... ¿No se supone que la justicia siempre prevalecería mientras nunca nos rindiéramos...? Supongo... que al final era igual a todos los demás, ¿es eso? Entonces... ¿de qué sirvo?"
+        },
+        {
+            "id": "announcer_ally_adv_32_1",
+            "dlg": "Jeje, ¡ahora está más que claro que todos los Arcanas serán purificados por el abrumador poder del amor! Vamos, he sido de gran ayuda para todos ustedes, ¿no es así?"
+        },
+        {
+            "id": "announcer_ally_advex_32_1",
+            "dlg": "Uf... Eso estuvo cerca. Por un segundo pensé que no íbamos a lograrlo.\n... ¡Pero pudimos salir adelante todos juntos! ¡Gracias a todos!"
+        },
+        {
+            "id": "announcer_danger_32_1",
+            "dlg": "El Arcana está en las últimas. Lo hemos hecho bien hasta ahora, pero al destino le gusta jugarte una mala pasada a último minuto... ¡No se confíen, sigan hasta el final!"
+        },
+        {
+            "id": "announcer_enemy_specialskill_32_1",
+            "dlg": "El nivel está aumentando... No puede ser... ¿Era un Arcana Mayor todo este tiempo? \nPuedo sentirlo, ¡el siguiente ataque va a ser devastador...!"
+        },
+        {
+            "id": "announcer_enemy_specialgimmick_32_1",
+            "dlg": "Nngh... No se me dan bien las cosas complicadas como estas a comparación a mis <i>senpais</i>, así que no puedo ofrecerles mucha ayuda, pero... ellas seguramente estarían buscando alguna debilidad tomando en cuenta todas las pistas, ¿qué tal si se toman un momento para pensarlo?"
+        },
+        {
+            "id": "announcer_advatk_physical_32_1",
+            "dlg": "¡Lo lograron! Jeje~ ¡Yo hubiera hecho lo mismo!"
+        },
+        {
+            "id": "announcer_disadvatk_physical_32_1",
+            "dlg": "Mm... No creo que eso funcione... ¿Tal vez necesitan más poder del amor?"
+        },
+        {
+            "id": "announcer_advatk_attr_32_1",
+            "dlg": "¡Puedo sentir la llamada del destino! ¡Ese definitivamente fue el ataque correcto!"
+        },
+        {
+            "id": "announcer_disadvatk_attr_32_1",
+            "dlg": "¿Eh...? No se si eso le hizo algo... Ugh, ¡ojalá mis <i>senpais</i> estuvieran aquí para ayudarnos! No... no sé qué salió mal ahí, pero... ¿que tal si lo golpean más fuerte?"
+        },
+        {
+            "id": "announcer_enemy_specialbuff_32_1",
+            "dlg": "Siento... un poderoso presagio emanando de esa 'Arcana Spread' ¡Tengan cuidado!"
+        },
+        {
+            "id": "announcer_enemy_specialdebuff_32_1",
+            "dlg": "¿Revertido...? Debe serlo. Dudo que incluso los villanos esperasen algo como esto, ¡ahora es tu oportunidad!"
+        },
+        {
+            "id": "announcer_ally_specialbuff_32_1",
+            "dlg": "¿Sienten eso? Acabo de lanzar un hechizo mágico para ayudarlos a todos... ¡Ah! Parece que está funcionando. ¡Ahora, a luchar!"
+        },
+        {
+            "id": "announcer_ally_specialdebuff_32_1",
+            "dlg": "¿Qué les pasa...? Se ven algo desanimados... No se habrán peleado entre ustedes, ¿verdad...? No, los amiguitos no deberían pelear..."
+        },
+        {
+            "id": "announcer_enemy_destroy_32_1",
+            "dlg": "¡Detuviste la propagación del Arcano principal! Ahora será más débil... ¡Bien hecho!"
+        },
+        {
+            "id": "announcer_enemy_destroy_32_2",
+            "dlg": "¡Pusiste en aprietos a los villanos al romper esa parte! ¡Es momento de atacar con todo, vamos! ¡En nombre del amor y la justicia...!"
+        },
+        {
+            "id": "announcer_round_takebigdmg_32_1",
+            "dlg": "Nngh... ¿Están bien..? Parece que ese ataque hizo temblar hasta el mismo espacio... ¿Les dio? Haah... ¡N-no es nada! ¡Sigamos adelante con la cabeza en alto!"
+        },
+        {
+            "id": "announcer_round_takebigdmg_32_2",
+            "dlg": "Este Arcana es mucho más feroz de lo esperado, pero... ¡Es el destino de las chicas mágicas combatir contra villanos abominables! ¡Ánimo!"
+        },
+        {
+            "id": "announcer_round_givebigdmg_32_1",
+            "dlg": "¡Eso fue fantástico! ¡El poder de la luz y tu amor ha triunfado contra el malvado Arcana de la oscuridad! ¡La victoria ahora es solo cuestión de tiempo!"
+        },
+        {
+            "id": "announcer_round_givebigdmg_32_2",
+            "dlg": "¿Sabes?, nosotras las chicas mágicas no siempre somos suficientes para lidiar con todo, así que... si te parece, ¿podrías unirt...? Ah, olvídalo. No podrás mientras no seas un \"elegido\", así que no depende de mí... ¡Oh, que mal!"
+        },
+        {
+            "id": "announcer_multikillenemy_32_1",
+            "dlg": "Jeje, ¡eso fue casi tan fuerte como mi 'Arcana Slave'! Un ataque súper poderoso capaz de eliminar varios villanos a la vez... Eso sí que es un verdadero movimiento definitivo, ¡asombroso! ¿Yo también me veo así de genial cuando lo hago?"
+        },
+        {
+            "id": "announcer_battle_win_32_1",
+            "dlg": "Otro villano~ ¡Derrotado! ¡Todos hicieron una gran demostración de sus habilidades! Llámenme mañana también, ¿okey? \nJuju, qué bien se siente hacer del mundo un lugar mejor. Hmm~ me pregunto si esta calma perdurará el día de mañana..."
+        },
+        {
+            "id": "announcer_battle_defeat_32_1",
+            "dlg": "Soy una inútil, no puedo hacerme cargo ni de estos Arcanas... No, quizás... quizás porque soy la elegida... ¿Perdieron porque les hizo falta mi ayuda...? Si tan solo hubiera estado ahí..."
+        },
+        {
+            "id": "announcer_equip_32_1",
+            "dlg": "En el nombre del Amor y la Justicia~ ¡Aquí viene la Chica Mágica! Si necesitas ayuda para lidiar con el Arcana, ¡aquí estaré! \n¡El poder de la Justicia se fortalecerá mucho más si seguimos trabajando juntos! ¡Hagámoslo!"
+        }
+    ]
+}

@@ -1,0 +1,244 @@
+﻿{
+    "dataList": [
+        {
+            "id": "announcer_cheer_37_1",
+            "dlg": "¡Aquí vienen! ¡Prepárense para el combate!"
+        },
+        {
+            "id": "announcer_cheer_37_2",
+            "dlg": "Estoy emocionada de poder trabajar junto a Limbus Company."
+        },
+        {
+            "id": "announcer_specialcheer_37_1",
+            "dlg": "Estoy segura de que los Pecadores pueden con esto. Creo en todos ustedes. "
+        },
+        {
+            "id": "announcer_specialcheer_37_2",
+            "dlg": "Ah... Así es como pelea Limbus Company. Estoy aprendiendo mucho. "
+        },
+        {
+            "id": "announcer_enemy_break_37_1",
+            "dlg": "Estoy segura de que tienen sus motivos. Pero no podemos detenernos ahora. "
+        },
+        {
+            "id": "announcer_ally_break_37_1",
+            "dlg": "¡Mantengan la calma! "
+        },
+        {
+            "id": "announcer_killenemy_37_1",
+            "dlg": "Si luchar es inevitable..."
+        },
+        {
+            "id": "announcer_ally_dead_37_1",
+            "dlg": "Un Pecador ha caído... ¡¿Qué hacemos?!"
+        },
+        {
+            "id": "announcer_ally_dead_37_2",
+            "dlg": "Un Pecador no logró retirarse a tiempo... ¡Ah, claro! Dante puede revivirlos, ¿no? Fiu..."
+        },
+        {
+            "id": "announcer_enemy_adv_37_1",
+            "dlg": "¡Tienen la ventaja! Volvamos a analizar la situación. "
+        },
+        {
+            "id": "announcer_ally_adv_37_1",
+            "dlg": "¡Tenemos la delantera! ¡Ahora es el momento de aprovecharla!"
+        },
+        {
+            "id": "announcer_ally_adv_37_2",
+            "dlg": "Aprovechemos esta oportunidad para ganar. "
+        },
+        {
+            "id": "announcer_danger_37_1",
+            "dlg": "Sin importar cuán difícil sea la misión, estoy segura de que podrán con ella siempre y cuando Dante esté allí con ustedes. "
+        },
+        {
+            "id": "announcer_enemy_specialskill_37_1",
+            "dlg": "¡Aquí vienen! ¡Prepárense para el combate! "
+        },
+        {
+            "id": "announcer_enemy_specialgimmick_37_1",
+            "dlg": "Dante... Siento que algo va muy mal. "
+        },
+        {
+            "id": "announcer_advatk_physical_37_1",
+            "dlg": "¡Ese ataque fue efectivo! "
+        },
+        {
+            "id": "announcer_advatk_physical_37_2",
+            "dlg": "¡Tu excelente comando me recuerda al del mismísimo Doctor! "
+        },
+        {
+            "id": "announcer_disadvatk_physical_37_1",
+            "dlg": "Quizás no fue el ángulo más apropiado para atacar, pero estoy segura de que tomaste la mejor decisión posible en el momento. "
+        },
+        {
+            "id": "announcer_advatk_attr_37_1",
+            "dlg": "¡Esa fue una estrategia efectiva, Dante! "
+        },
+        {
+            "id": "announcer_disadvatk_attr_37_1",
+            "dlg": "Debe haber una manera más efectiva de hacer esto..."
+        },
+        {
+            "id": "announcer_enemy_specialbuff_37_1",
+            "dlg": "Veo algunos cambios en el comportamiento del enemigo."
+        },
+        {
+            "id": "announcer_enemy_specialdebuff_37_1",
+            "dlg": "¡Parece que no les está yendo muy bien! "
+        },
+        {
+            "id": "announcer_ally_specialbuff_37_1",
+            "dlg": "Parece que los Pecadores cambiaron un poco..."
+        },
+        {
+            "id": "announcer_ally_specialdebuff_37_1",
+            "dlg": "¡Gerente, por favor confirma el estado de los Pecadores!"
+        },
+        {
+            "id": "announcer_enemy_destroy_37_1",
+            "dlg": "¡Una Parte Rota! Sigamos así. "
+        },
+        {
+            "id": "announcer_enemy_destroy_37_2",
+            "dlg": "Enfoquémonos en la Parte Rota. "
+        },
+        {
+            "id": "announcer_round_takebigdmg_37_1",
+            "dlg": "¡Un Pecador ha sufrido daños fatales! Necesitamos tomar medidas urgentes. "
+        },
+        {
+            "id": "announcer_round_takebigdmg_37_2",
+            "dlg": "¿Esto también era parte del plan...? Entonces así es como pelea Limbus Company..."
+        },
+        {
+            "id": "announcer_round_givebigdmg_37_1",
+            "dlg": "Ese fue un golpe efectivo contra el oponente. "
+        },
+        {
+            "id": "announcer_round_givebigdmg_37_2",
+            "dlg": "¡Esto debería poder acabar con ellos pronto! "
+        },
+        {
+            "id": "announcer_round_givebigdmg_37_3",
+            "dlg": "¡Tus habilidades son como las de un Operador de Élite! "
+        },
+        {
+            "id": "announcer_round_givebigdmg_37_4",
+            "dlg": "Un enemigo ha sido gravemente herido. "
+        },
+        {
+            "id": "announcer_multikillenemy_37_1",
+            "dlg": "Varios enemigos neutralizados. "
+        },
+        {
+            "id": "announcer_multikillenemy_37_2",
+            "dlg": "Así que esta es la estrategia exclusiva de Limbus Company... He aprendido algo nuevo. "
+        },
+        {
+            "id": "announcer_neglect_37_1",
+            "dlg": "Me pregunto... ¿Qué habría hecho el Doctor en esta situación?",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_neglect_37_2",
+            "dlg": "¡Gerente, de sus órdenes...!",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_1",
+            "dlg": "Yi Sang, aún añoras un pasado que ya está fuera de tu alcance... Pero veo que también estás aleteando tus alas para seguir adelante. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_1-01",
+            "dlg": "Ah... Puedo sentir tus pensamientos, Yi Sang. Esto es... ¿eh? ¿Un amor intenso por el café con sabor a menta...?",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_2",
+            "dlg": "Faust, eres... agh, demasiados pensamientos... Me siento mareada. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_3",
+            "dlg": "Tu voluntad infatigable, Don Quixote, me recuerda a cierta Operadora en Rhodes Island. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_4",
+            "dlg": "Wow... ¿También abrevias tus pensamientos con acrónimos, Ryōshū? No los entiendo... Pero podré entenderlos algún día, ¿verdad?",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_5",
+            "dlg": "Meursault, tus pensamientos son muy... difíciles de explicar. Me da la impresión que lo único que deseas es aceptar.",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_6",
+            "dlg": "Hong Lu, tu corazón es vasto, como un gran río... Es tan amable, aún cuando corre hacia adelante... Fluye, pero no inunda. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_7",
+            "dlg": "¡Heathcliff, sé que estás frustrado, pero por favor no te arremangues para golpear a tus colegas...!",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_7-01",
+            "dlg": "Puedo sentir que tu corazón reboza con amor, pero... ¿para quién? No lo sé...",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_8",
+            "dlg": "Siempre eres muy meticulosa planificando para varias situaciones, Ishmael. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_8-01",
+            "dlg": "Tu espíritu marinera aventurera sale a relucir de vez en cuando, Ishmael. Y también hace latir a mi propio corazón. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_9",
+            "dlg": "¡Rodya, intenta guardar tus pensamientos sobre el menú del almuerzo para después de la misión!",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_9-01",
+            "dlg": "Rodya, tu corazón es... frío como el hielo, de vez en cuando.",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_10",
+            "dlg": "Sinclair, esta tristeza con la que cargas... siento que se convertirá en una fuerza que te empujará hacia adelante. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_11",
+            "dlg": "Outis, te preocupas por el Gerente de la misma manera que lo hago yo con el Doctor.",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_11-01",
+            "dlg": "Agh... Outis, ¿qué... qué son estas emociones, estos recuerdos...?",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_12",
+            "dlg": "Puede parecer que haces las cosas a medias, Gregor, ¡pero eres el más serio de todos cuando te lo propones! ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_special_37_12-01",
+            "dlg": "Gregor... Has estado cargando con tanta tristeza, tantas memorias dolorosas... Has vivido una vida dura. ",
+            "isHide": "True"
+        },
+        {
+            "id": "announcer_equip_37_1",
+            "dlg": "Tú debes ser el gerente Dante. Yo soy Amiya de Rhodes Island. Seré la responsable de realizar este informe. Encantada de conocerte."
+        }
+    ]
+}

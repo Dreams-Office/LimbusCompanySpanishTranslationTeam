@@ -1,0 +1,132 @@
+﻿{
+    "dataList": [
+        {
+            "id": "announcer_cheer_45_1",
+            "dlg": "- Hemos recibido los reportes de todo lo que han hecho hasta ahora. También he leído los registros de observación.\n- Todos han estado ansiosos de saber qué tipo de personas son. Hoy por hoy, gente que prioriza la acción sobre la teoría y con un espíritu experimental como el suyo no se encuentran seguido."
+        },
+        {
+            "id": "announcer_cheer_45_2",
+            "dlg": "- ¿Demasiadas pruebas de combate? Uh... Bueno...\n- Tras analizar mis datos, concluí que poseen un gran interés por estas \"Mazmorras Espejo\". Por lo que deduje que disfrutaban del combate.\n- Solo porque trabajamos hasta tarde no significa que lo hagamos por gusto, Jefe..."
+        },
+        {
+            "id": "announcer_specialcheer_45_1",
+            "dlg": "- El daño total ha excedido el 70%.\n- Según los estándares de LCE, eso indica un alto a las pruebas. ¿Qué deberíamos hacer, Jefe?"
+        },
+        {
+            "id": "announcer_specialcheer_45_2",
+            "dlg": "- Hmm... El gerente está con ellos, debería estar bien. Continúen.\n- Ya lo oyeron. De todas formas, si las cosas se complican, el botón de \"Detener\" está junto a la pared."
+        },
+        {
+            "id": "announcer_enemy_break_45_1",
+            "dlg": "- Dado el estilo de comando del gerente, lo más probable es que enfoque su atención en el objetivo inmovilizado.\n- No. Mira aquí, esto indica que una vez se desocupa, tiende a enfocar al resto de objetivos.\n- Jaja... No se preocupen por nosotros, continúen con las pruebas."
+        },
+        {
+            "id": "announcer_ally_break_45_1",
+            "dlg": "- Si no tiene una estrategia pensada, sería mejor priorizar a los Pecadores incapacitados.\n- ¿Y si esa es su estrategia?\n- Bueno, no hay nada que se pueda hacer. Supongo que esto nos dará una oportunidad de registrar las expresiones de dolor del gerente."
+        },
+        {
+            "id": "announcer_killenemy_45_1",
+            "dlg": "- Supresión de entidad completada. Un poco diferente al procedimiento regular, pero no está nada mal, ¿verdad?\n- Hagamos notas del método y repliquémoslas nosotros mismos luego."
+        },
+        {
+            "id": "announcer_ally_dead_45_1",
+            "dlg": "- Un Pecador ha muerto.\n- No dudo de sus capacidades, pero intenten no acostumbrarse. Aunque, considerando el nivel de dolor que trae consigo, dudo que sea fácil."
+        },
+        {
+            "id": "announcer_enemy_adv_45_1",
+            "dlg": "- Eh... ¿Deberíamos empezar de nuevo?\n- No, hay que seguir. Siempre hay información que solo se puede recolectar bajo condiciones adversas."
+        },
+        {
+            "id": "announcer_ally_adv_45_1",
+            "dlg": "- La recolección parece ir muy bien. Las pruebas deberían seguir sin problemas, tal como predijimos.\n- Bueno, considerando todo lo que han soportado hasta ahora, sería bastante inaudito si fuesen a tener complicaciones con estas pruebas básicas."
+        },
+        {
+            "id": "announcer_ally_advex_45_1",
+            "dlg": "- Esto... ciertamente es interesante. Las variables son claramente desfavorables, pero el equipo parece estar descifrando una solución de todos modos.\n- ¿Qué opina de ello? Ya puede discernir los principios de liderazgo que el gerente aplica, ¿verdad?"
+        },
+        {
+            "id": "announcer_danger_45_1",
+            "dlg": "- Jefe. Deberíamos continuar con la siguiente prueba estipulada, o ya no tendremos más tiempo.\n- Hm. ¿Ya estamos tan tarde? Gerente, el tiempo designado con nosotros parece agotarse más allá de nuestras estimaciones. Proceda con más prisa."
+        },
+        {
+            "id": "announcer_enemy_specialskill_45_1",
+            "dlg": "- Una respuesta bastante indiferente a una amenaza podría constituir un esfuerzo en vano.\n - Tengan en cuenta que las paredes son muy resistentes. Pueden usar E.G.O con total libertad."
+        },
+        {
+            "id": "announcer_enemy_specialgimmick_45_1",
+            "dlg": "- Odio a las Anormalidades y Distorsiones que hacen eso.\n- Sin embargo, son del mismo tipo que se vuelven mucho más manejables una vez se les haya investigado a fondo. Personalmente, prefiero esas a comparación de las que solo responden a fuerza bruta."
+        },
+        {
+            "id": "announcer_advatk_physical_45_1",
+            "dlg": "- Parece que esa entidad no aguantará por mucho más.\n- Era de esperarse. Al fin y al cabo el gerente eligió las formas más efectivas de ataque para este caso."
+        },
+        {
+            "id": "announcer_disadvatk_physical_45_1",
+            "dlg": "- ¿Cómo es que se le ocurrió usar así esa habilidad? Ciertamente fascinante.\n- Jefe, estoy muy seguro de que eso fue un error...\n- Estoy al tanto. Dije que estaba fascinado, no que estaba orgulloso."
+        },
+        {
+            "id": "announcer_advatk_attr_45_1",
+            "dlg": "- Si tan solo los nuevos empleados fueran tan buenos como ellos...\n- No hay razón en hacer comparaciones. Las Anormalidades y las Distorsiones tienen una exorbitante cantidad de reglas sobre su gestión y resistencias a memorizar."
+        },
+        {
+            "id": "announcer_disadvatk_attr_45_1",
+            "dlg": "- No es un error demasiado grave. ¿Lo dejamos pasar?\n- ¿Por qué no? Es obvio que no podemos esperar mucha precisión de las mentes ordinarias.\n- Ajá... Sí."
+        },
+        {
+            "id": "announcer_enemy_specialbuff_45_1",
+            "dlg": "- Puede que el estado de la entidad haya cambiado un poco. Tan pronto como notes qué es, avísanos... digo, escríbelo en un papel.\n- No olvides de grabar el tictaqueo del gerente también. Analizaremos las ondas de sonido y las encajaremos con la situación en la que ocurren."
+        },
+        {
+            "id": "announcer_enemy_specialdebuff_45_1",
+            "dlg": "- Debilitar al enemigo es una táctica aceptable. Nada mal.\n- ¿Un \"nada mal\" saliendo de la boca de nuestro jefe? Ese es un cumplido enorme."
+        },
+        {
+            "id": "announcer_ally_specialbuff_45_1",
+            "dlg": "- Han sido fortalecidos por efectos externos, pero no se asusten.\n- Intenten pensar en el potencial de uso que se le puede dar a esta ocasión."
+        },
+        {
+            "id": "announcer_ally_specialdebuff_45_1",
+            "dlg": "- Los parámetros de habilidad general de los Pecadores ha disminuido.\n- No creo que sea una buena idea dejar que este efecto se mantenga por mucho."
+        },
+        {
+            "id": "announcer_enemy_destroy_45_1",
+            "dlg": "- Le sacaste la madre a esa cosa.\n- La integridad estructural de la entidad ha bajado de manera significativa."
+        },
+        {
+            "id": "announcer_enemy_destroy_45_2",
+            "dlg": "- ¿Acaso lo identificaste como un principal factor de riesgo? Me gustaría escuchar qué pasó por tu cabeza para tomar la decisión de eliminar esa parte."
+        },
+        {
+            "id": "announcer_round_takebigdmg_45_1",
+            "dlg": "- ¿Ah? No esperaba que la batalla resultara así. Están sufriendo más bajas de lo anticipado.\n- Debió haber un error en la ejecución de las órdenes."
+        },
+        {
+            "id": "announcer_round_takebigdmg_45_2",
+            "dlg": "- ¿Cómo pasó eso? ¿Selección arbitraria de identidad? ¿Variables inesperadas en medio de la batalla?\n- Parece ser la combinación de muchas, como suelen de ser los factores de estas equivocaciones. Confío en que el gerente tendrá más cuidado en el siguiente intento."
+        },
+        {
+            "id": "announcer_round_givebigdmg_45_1",
+            "dlg": "- El valor del daño calculado está fuera del rango esperado.\n- Hm. no estoy muy seguro si existe un indicador de comparación adecuado. Si tiene registros de experimentos similares, envíemelos de inmediato."
+        },
+        {
+            "id": "announcer_round_givebigdmg_45_2",
+            "dlg": "- Las cifras de potencia extraídas exceden hasta las alcanzadas cuando Alyssa elevó su Sintonización al 93%.\n- A diferencia de las extraídas del LCA y el LCD, estas cifras parecen ser de utilidad. Estos son datos valiosos."
+        },
+        {
+            "id": "announcer_multikillenemy_45_1",
+            "dlg": "- Buenas caderas. Me pregunto si se las robaste a la Identidad.\n- Otra posibilidad incluye la habilidad innata del Pecador, o el comando del gerente teniendo un impacto positivo en sus capacidades.\n- Debería tomar nota de esto y revisarlo durante un análisis."
+        },
+        {
+            "id": "announcer_battle_win_45_1",
+            "dlg": "- ¿Cuántas victorias van, contando esta?\n- 17 victorias. Ya veo... la probabilidad de éxito aumenta de manera significativa con el gerente al volante."
+        },
+        {
+            "id": "announcer_battle_defeat_45_1",
+            "dlg": "- ¿Será que fue demasiado difícil para ellos? Tal vez hay que reducir la dificultad ligeramente...\n- Hm. No, no es necesario. Estoy seguro que este encuentro les ha enseñado unas lecciones valiosas. Démosles unos 5 minutos y que lo vuelvan a intentar."
+        },
+        {
+            "id": "announcer_equip_45_1",
+            "dlg": "- El departamento del LCB llegará pronto. ¿Todas las preparaciones están en su lugar?\n- Sí, jefe. Hemos terminado de preparar los 100 procesos de revisión, incluyendo 27 pruebas de combate diferentes, todas listas y esperando.\n- Jaja... Si no hubiera sido por la procrastinación, la carga laboral se hubiera reducido a la mitad."
+        }
+    ]
+}
