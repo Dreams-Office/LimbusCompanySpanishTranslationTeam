@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10104_1",
@@ -13,7 +13,7 @@
         {
             "id": "lobby_noon_10104_1",
             "desc": "Saludo de Mediodía",
-            "dlg": "Me pregunto si has cenado. Veamos... ¿Que tal patatas? Son bastante adecuadas como comida.\n... No te has de preocupar, pues no han brotado."
+            "dlg": "Me pregunto si has cenado. Veamos... ¿Qué tal patatas? Son bastante adecuadas como comida.\n... No te has de preocupar, pues no han brotado."
         },
         {
             "id": "lobby_night_10104_1",
@@ -23,12 +23,12 @@
         {
             "id": "smalltalk_10104_1",
             "desc": "Charla #1",
-            "dlg": "Deseas oir mis pensamientos sobre ese hombre en K Corp. Él ya no es un compañero o alguien digno de ser mencionado; él no es más que un gusano con ideas miserables, humillando a la tecnología con... no, no hay necesidad de ensuciar mi lengua."
+            "dlg": "¿Mis pensamientos sobre ese hombre en K Corp.? Él ya no es un compañero o alguien digno de ser mencionado; no es más que un gusano con ideas miserables, humillando a la tecnología con... no, no hay necesidad de ensuciar mi lengua."
         },
         {
             "id": "smalltalk_10104_2",
             "desc": "Charla #2",
-            "dlg": "... ¿Se te ocurre a veces, cuando ves algo notable, que quieres compartir ese asombro con los demás?\nQue te gustaría que cualquiera experimentara el mismo momento en que lo viste por primera vez."
+            "dlg": "... ¿No te ocurre a veces que, cuando ves algo excepcional, quieres compartir ese asombro con los demás?\nQue te gustaría que cualquiera experimentara el mismo instante que presenciaste por primera vez."
         },
         {
             "id": "smalltalk_10104_3",
@@ -37,12 +37,12 @@
         },
         {
             "id": "smalltalk_10104_4",
-            "desc": "Charla Post-Aunamiento #1",
-            "dlg": "Tiene un olor acre, ¿no es así? Golpea tus sentidos tan intensamente, casi podrías caerte al suelo... Tan profundo y fragante que es, este aroma."
+            "desc": "Charla Post-Aunamiento 1",
+            "dlg": "¿No tiene un fantástico olor acre? Golpea tus sentidos, embriagándote, que casi podrías caer al suelo... Este aroma es, tan profundo y fragante."
         },
         {
             "id": "smalltalk_10104_5",
-            "desc": "Charla Post-Aunamiento #2",
+            "desc": "Charla Post-Aunamiento 2",
             "dlg": "Dime, ¿por qué razón me miras tan fijamente a la cara? Ya veo... ¿Fuiste cautivado por un momento?"
         },
         {
@@ -53,7 +53,7 @@
         {
             "id": "gacksung_10104_1",
             "desc": "Aunando",
-            "dlg": "Ahora... Contempla. Estas flores están en su plena gloria.\nUna vez que todas estas flores sean teñidas de rojo... será cuando 'yo' florezca también."
+            "dlg": "Ahora... Contempla. Estas flores están en su pleno auge.\nSolo cuando todas estas flores sean teñidas de rojo... yo también floreceré."
         },
         {
             "id": "formation_10104_1",
@@ -63,7 +63,7 @@
         {
             "id": "battleentry_10104_1",
             "desc": "Entrada a Escena",
-            "dlg": "...A los días de inocencia."
+            "dlg": "... A los días de inocencia."
         },
         {
             "id": "battle_select_10104_1",
@@ -83,12 +83,12 @@
         {
             "id": "battle_break_10104_1",
             "desc": "Aturdido",
-            "dlg": "Ahh... vaya."
+            "dlg": "Ahh... Vaya."
         },
         {
             "id": "battle_kill_10104_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Nunca más intimidarán a nadie más."
+            "dlg": "Jamás volverán a intimidar a nadie."
         },
         {
             "id": "battle_dead_10104_1",
@@ -103,7 +103,7 @@
         {
             "id": "choice_fail_n_10104_1",
             "desc": "Juicio Fallido",
-            "dlg": "...Enterremos este momento en la tierra, ¿de acuerdo?"
+            "dlg": "... Enterremos este momento en la tierra, ¿de acuerdo?"
         },
         {
             "id": "battle_clear_10104_1",
@@ -113,12 +113,12 @@
         {
             "id": "battle_clear_ex_10104_1",
             "desc": "Condiciones EX Cumplidas",
-            "dlg": "Así que ha florecido... Me gustaría capturar este momento en algún lugar."
+            "dlg": "Conque ha florecido... Me encantaría inmortalizar este instante en algún lugar."
         },
         {
             "id": "battle_defeat_10104_1",
-            "desc": "LLanto de Derrota",
-            "dlg": "Simplemente estuvimos en el favor de la suerte hasta ahora... Tan sólo era la tierra que labrábamos la que era fértil..."
+            "desc": "Llanto de Derrota ",
+            "dlg": "Simplemente estuvimos en el favor de la suerte hasta ahora... Tan solo era la tierra que labrábamos la que era fértil..."
         }
     ]
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     "dataList": [
         {
             "id": "get_10107_1",
@@ -8,7 +8,7 @@
         {
             "id": "lobby_morning_10107_1",
             "desc": "Saludo Mañanero",
-            "dlg": "Rezo para que las olas no te hayan quitado el sueño. El Lago permanece tranquilo hoy... Tal vez podamos disfrutar de un breve momento para saborear sus vistas por una vez."
+            "dlg": "Rezo por que las olas no te hayan quitado el sueño. El Lago permanece tranquilo hoy... Tal vez podamos disfrutar de un breve momento para saborear sus vistas por una vez."
         },
         {
             "id": "lobby_noon_10107_1",
@@ -23,7 +23,7 @@
         {
             "id": "smalltalk_10107_1",
             "desc": "Charla #1",
-            "dlg": "Ves, esta es la parte de la ballena que debes atacar. Si un golpe singular y poderoso es difícil de ejecutar, aplica múltiples golpes a un solo punto. Entonces deberías ser capaz de actuar con eficacia."
+            "dlg": "Ves, esta es la parte de la ballena que debes atacar. Si te dificulta ejecutar un solo y poderoso golpe, aplica múltiples ataques a un solo punto. Así deberías ser capaz de actuar con la misma eficacia."
         },
         {
             "id": "smalltalk_10107_2",
@@ -37,13 +37,13 @@
         },
         {
             "id": "smalltalk_10107_4",
-            "desc": "Charla Post-Aunamiento #1",
+            "desc": "Charla Post-Aunamiento 1",
             "dlg": "¡No sueltes la cuerda! ¡Soltar la cuerda es perder la vida! Sé sabio... ¡pero audaz!"
         },
         {
             "id": "smalltalk_10107_5",
-            "desc": "Charla Post-Aunamiento #2",
-            "dlg": "¡La Capitana Ishmael no les ha ordenado morir! Debemos... ¡Todos nosotros debemos matarlo y regresar a donde pertenecemos!"
+            "desc": "Charla Post-Aunamiento 2",
+            "dlg": "¡La Capitana Ishmael no les ha ordenado morir! Debemos... ¡todos nosotros debemos matarlo y regresar a donde pertenecemos!"
         },
         {
             "id": "neglect_10107_1",
@@ -53,12 +53,12 @@
         {
             "id": "gacksung_10107_1",
             "desc": "Aunando",
-            "dlg": "¡Así que debo estar a la altura de las circunstancias, entonces...! De acuerdo. ¡El arpón he de empuñar!"
+            "dlg": "¡Debo estar a la altura de las circunstancias, entonces...! De acuerdo. ¡El arpón he de empuñar!"
         },
         {
             "id": "formation_10107_1",
             "desc": "Desplegar",
-            "dlg": "Parece que debo soltar el timón y unirme a la pelea."
+            "dlg": "Parece ser que debo soltar el timón y unirme a la pelea."
         },
         {
             "id": "battleentry_10107_1",
@@ -88,12 +88,12 @@
         {
             "id": "battle_kill_10107_1",
             "desc": "Enemigo Asesinado",
-            "dlg": "Tsk. No hay nada de aceite para sacar de este tipo."
+            "dlg": "Tch. No hay aceite que se pueda sacar de este sujeto."
         },
         {
             "id": "battle_dead_10107_1",
             "desc": "Muerte",
-            "dlg": "Ja ja ja... Así...  mi... viaje... termina..."
+            "dlg": "Ja ja ja... Así... mi... viaje... termina..."
         },
         {
             "id": "choice_success_p_10107_2",
@@ -108,7 +108,7 @@
         {
             "id": "battle_clear_10107_1",
             "desc": "Grito de Victoria",
-            "dlg": "El final de este viaje se vislumbra en el horizonte. Perseveremos un poco más."
+            "dlg": "El final de este viaje se vislumbra en el horizonte. ¡Perseveremos un poco más!"
         },
         {
             "id": "battle_clear_ex_10107_1",
@@ -117,7 +117,7 @@
         },
         {
             "id": "battle_defeat_10107_1",
-            "desc": "LLanto de Derrota",
+            "desc": "Llanto de Derrota ",
             "dlg": "... Nuestra nave está demasiado dañada para continuar... Anclemos y reparemos. ... Entonces zarparemos hacia el Lago una vez más."
         }
     ]
